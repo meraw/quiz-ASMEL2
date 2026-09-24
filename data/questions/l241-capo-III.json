@@ -1,0 +1,603 @@
+[
+  {
+    "id": "l241-c3-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 7 della L. 241/1990, l'avvio del procedimento è comunicato:",
+    "options": [
+      {"id": "a", "text": "a chiunque ne faccia richiesta", "why_wrong": "\"A richiesta, a chiunque vi abbia interesse\" è la formula dell'art. 5, comma 3, sulla comunicazione del nominativo del responsabile, non sulla comunicazione di avvio."},
+      {"id": "b", "text": "ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti e a quelli che per legge debbono intervenirvi", "why_wrong": null},
+      {"id": "c", "text": "soltanto al soggetto che ha presentato l'istanza", "why_wrong": "L'art. 7, comma 1, individua come destinatari i soggetti sui quali il provvedimento produce effetti diretti e quelli che per legge devono intervenire, senza limitarsi all'istante."},
+      {"id": "d", "text": "a qualunque portatore di interessi diffusi costituito in associazione o comitato", "why_wrong": "I portatori di interessi diffusi costituiti in associazioni o comitati hanno facoltà di intervenire (art. 9), ma non sono per ciò solo destinatari della comunicazione di avvio."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 7, comma 1, prevede che l'avvio del procedimento sia comunicato, con le modalità dell'art. 8, ai soggetti nei cui confronti il provvedimento finale produrrà effetti diretti e a quelli che per legge debbono intervenirvi, salvo ragioni di impedimento dovute a particolari esigenze di celerità.",
+    "evidence": [
+      {"ref": "art. 7, comma 1", "text": "l'avvio del procedimento stesso è comunicato, con le modalità previste dall'articolo 8, ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti ed a quelli che per legge debbono intervenirvi."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 7, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune avvia un procedimento dal quale può derivare un pregiudizio a un soggetto facilmente individuabile, diverso dal diretto destinatario del provvedimento. Ai sensi dell'art. 7 della L. 241/1990, in assenza di esigenze di celerità, il Comune:",
+    "options": [
+      {"id": "a", "text": "è tenuto a fornirgli notizia dell'inizio del procedimento, con le stesse modalità previste per i destinatari", "why_wrong": null},
+      {"id": "b", "text": "non ha alcun obbligo, poiché la comunicazione spetta solo ai destinatari diretti", "why_wrong": "L'art. 7, comma 1, secondo periodo, estende l'obbligo di dare notizia ai soggetti individuati o facilmente individuabili cui possa derivare un pregiudizio."},
+      {"id": "c", "text": "deve informarlo solo se questi presenta istanza di intervento", "why_wrong": "L'obbligo del comma 1 sorge per il solo fatto che il soggetto sia individuato o facilmente individuabile e possa subire un pregiudizio."},
+      {"id": "d", "text": "deve pubblicare un avviso nella sezione \"Amministrazione trasparente\"", "why_wrong": "Le forme di pubblicità idonee sostituiscono la comunicazione personale solo quando, per il numero dei destinatari, essa non sia possibile o risulti particolarmente gravosa (art. 8, comma 3)."}
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 7, comma 1, se da un provvedimento può derivare un pregiudizio a soggetti individuati o facilmente individuabili diversi dai diretti destinatari, l'amministrazione è tenuta a fornire loro, con le stesse modalità, notizia dell'inizio del procedimento.",
+    "evidence": [
+      {"ref": "art. 7, comma 1", "text": "qualora da un provvedimento possa derivare un pregiudizio a soggetti individuati o facilmente individuabili, diversi dai suoi diretti destinatari, l'amministrazione è tenuta a fornire loro, con le stesse modalità, notizia dell'inizio del procedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 7, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 7 della L. 241/1990, la comunicazione di avvio del procedimento può essere omessa quando sussistono:",
+    "options": [
+      {"id": "a", "text": "ragioni di riservatezza dell'amministrazione, valutate dal responsabile del procedimento", "why_wrong": "L'art. 7, comma 1, fa riferimento solo alle particolari esigenze di celerità del procedimento."},
+      {"id": "b", "text": "destinatari in numero tale da rendere gravosa la comunicazione personale", "why_wrong": "In questo caso la comunicazione non è omessa, ma sostituita da forme di pubblicità idonee (art. 8, comma 3)."},
+      {"id": "c", "text": "ragioni di impedimento derivanti da particolari esigenze di celerità del procedimento", "why_wrong": null},
+      {"id": "d", "text": "straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria", "why_wrong": "Sono le esigenze che consentono di aggravare il procedimento (art. 1, comma 2), non di omettere la comunicazione di avvio."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 7, comma 1, subordina l'obbligo di comunicazione di avvio all'assenza di ragioni di impedimento derivanti da particolari esigenze di celerità del procedimento.",
+    "evidence": [
+      {"ref": "art. 7, comma 1", "text": "Ove non sussistano ragioni di impedimento derivanti da particolari esigenze di celerità del procedimento, l'avvio del procedimento stesso è comunicato"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 7, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune deve avviare un procedimento nei confronti di un privato, ma ritiene necessario adottare subito una misura cautelare. Ai sensi dell'art. 7 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "non può adottare misure cautelari in un procedimento soggetto a comunicazione di avvio", "why_wrong": "Il comma 2 fa espressamente salva la facoltà di adottare provvedimenti cautelari."},
+      {"id": "b", "text": "può adottare provvedimenti cautelari anche prima di effettuare la comunicazione di avvio", "why_wrong": null},
+      {"id": "c", "text": "deve prima comunicare l'avvio e attendere dieci giorni per le osservazioni", "why_wrong": "Il termine di dieci giorni per le osservazioni riguarda la comunicazione dei motivi ostativi (art. 10-bis); l'art. 7, comma 2, fa salva l'adozione di provvedimenti cautelari anche prima della comunicazione."},
+      {"id": "d", "text": "può adottare la misura cautelare solo dopo aver indetto una conferenza di servizi", "why_wrong": "L'art. 7, comma 2, non richiede alcuna conferenza di servizi per i provvedimenti cautelari."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 7, comma 2, fa salva la facoltà dell'amministrazione di adottare provvedimenti cautelari anche prima di effettuare le comunicazioni previste dal comma 1.",
+    "evidence": [
+      {"ref": "art. 7, comma 2", "text": "Nelle ipotesi di cui al comma 1 resta salva la facoltà dell'amministrazione di adottare, anche prima della effettuazione delle comunicazioni di cui al medesimo comma 1, provvedimenti cautelari."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 7, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune avvia un procedimento che riguarda alcune migliaia di residenti, rendendo particolarmente gravosa la comunicazione personale. Ai sensi dell'art. 8 della L. 241/1990, il Comune:",
+    "options": [
+      {"id": "a", "text": "è esonerato dall'obbligo di comunicare l'avvio del procedimento", "why_wrong": "L'art. 8, comma 3, non elimina l'obbligo, ma consente di sostituire la comunicazione personale con forme di pubblicità idonee."},
+      {"id": "b", "text": "deve comunque effettuare la comunicazione personale a ciascun residente", "why_wrong": "Il comma 3 prevede proprio l'alternativa delle forme di pubblicità idonee quando la comunicazione personale è impossibile o particolarmente gravosa."},
+      {"id": "c", "text": "deve pubblicare la comunicazione nelle forme stabilite con decreto del Presidente del Consiglio dei ministri", "why_wrong": "Le forme di pubblicità sono stabilite di volta in volta dalla stessa amministrazione procedente."},
+      {"id": "d", "text": "rende noti gli elementi della comunicazione mediante forme di pubblicità idonee, di volta in volta stabilite dall'amministrazione", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 8, comma 3, consente, quando per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, di rendere noti gli elementi della comunicazione con forme di pubblicità idonee stabilite dall'amministrazione.",
+    "evidence": [
+      {"ref": "art. 8, comma 3", "text": "Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede a rendere noti gli elementi di cui al comma 2 mediante forme di pubblicità idonee di volta in volta stabilite dall'amministrazione medesima."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 8, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nei procedimenti ad iniziativa di parte, la comunicazione di avvio deve indicare, oltre agli altri elementi previsti dall'art. 8 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "i motivi che ostano all'accoglimento della domanda", "why_wrong": "I motivi ostativi sono comunicati prima dell'adozione di un provvedimento negativo (art. 10-bis), non con la comunicazione di avvio."},
+      {"id": "b", "text": "il soggetto titolare del potere sostitutivo", "why_wrong": "Il titolare del potere sostitutivo è indicato sul sito istituzionale dell'amministrazione (art. 2, comma 9-bis)."},
+      {"id": "c", "text": "la data di presentazione della relativa istanza", "why_wrong": null},
+      {"id": "d", "text": "il termine e l'autorità cui è possibile ricorrere", "why_wrong": "È un contenuto obbligatorio di ogni atto notificato al destinatario (art. 3, comma 4)."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8, comma 2, lett. c-ter), richiede che, nei procedimenti ad iniziativa di parte, la comunicazione indichi la data di presentazione dell'istanza.",
+    "evidence": [
+      {"ref": "art. 8, comma 2", "text": "c-ter) nei procedimenti ad iniziativa di parte, la data di presentazione della relativa istanza;"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 8, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 8, comma 2, lett. c-bis), della L. 241/1990, nella comunicazione di avvio deve essere indicata:",
+    "options": [
+      {"id": "a", "text": "la data entro la quale deve concludersi il procedimento e i rimedi esperibili in caso di inerzia dell'amministrazione", "why_wrong": null},
+      {"id": "b", "text": "la data entro la quale gli interessati possono presentare osservazioni scritte, a pena di decadenza", "why_wrong": "Un termine di dieci giorni per osservazioni è previsto dall'art. 10-bis per i motivi ostativi; la lett. c-bis) riguarda la data di conclusione e i rimedi contro l'inerzia."},
+      {"id": "c", "text": "la data di adozione del provvedimento finale già fissata dall'organo competente", "why_wrong": "La lett. c-bis) si riferisce alla data entro cui il procedimento deve concludersi secondo i termini dell'art. 2, commi 2 o 3."},
+      {"id": "d", "text": "la data della prima riunione della conferenza di servizi", "why_wrong": "La data della riunione è comunicata alle amministrazioni coinvolte in sede di indizione della conferenza (art. 14-bis, comma 2, lett. d)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, comma 2, lett. c-bis), impone di indicare la data entro la quale, secondo i termini dell'art. 2, commi 2 o 3, deve concludersi il procedimento e i rimedi esperibili in caso di inerzia.",
+    "evidence": [
+      {"ref": "art. 8, comma 2", "text": "c-bis) la data entro la quale, secondo i termini previsti dall'articolo 2, commi 2 o 3, deve concludersi il procedimento e i rimedi esperibili in caso di inerzia dell'amministrazione;"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 8, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Tra i contenuti della comunicazione di avvio, l'art. 8 della L. 241/1990 prevede, per gli atti non disponibili o accessibili in via telematica:",
+    "options": [
+      {"id": "a", "text": "l'esclusione della possibilità di prenderne visione", "why_wrong": "Il diritto di prendere visione degli atti è riconosciuto dall'art. 10, e la lett. d-bis) indica l'ufficio in cui esercitarlo."},
+      {"id": "b", "text": "l'indicazione del soggetto cui è attribuito il potere sostitutivo", "why_wrong": "Il titolare del potere sostitutivo è pubblicato sul sito istituzionale (art. 2, comma 9-bis), non indicato in relazione alla visione degli atti."},
+      {"id": "c", "text": "l'indicazione dell'ufficio dove è possibile prendere visione degli atti", "why_wrong": null},
+      {"id": "d", "text": "l'impegno dell'amministrazione a trasmetterli in copia cartacea al domicilio dell'interessato", "why_wrong": "La lett. d-bis) dell'art. 8, comma 2, richiede di indicare l'ufficio in cui prendere visione degli atti, non la loro trasmissione."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8, comma 2, lett. d-bis), prevede che la comunicazione indichi l'ufficio dove è possibile prendere visione degli atti che non sono disponibili o accessibili con le modalità telematiche della lett. d).",
+    "evidence": [
+      {"ref": "art. 8, comma 2", "text": "d-bis) l'ufficio dove è possibile prendere visione degli atti che non sono disponibili o accessibili con le modalità di cui alla lettera d)."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 8, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In un procedimento, l'amministrazione ha omesso la comunicazione di avvio nei confronti del soggetto Alfa. Il soggetto Beta, che l'ha regolarmente ricevuta, intende far valere l'omissione. Ai sensi dell'art. 8 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "Beta non può farla valere, perché l'omissione può essere fatta valere solo dal soggetto nel cui interesse la comunicazione è prevista", "why_wrong": null},
+      {"id": "b", "text": "Beta può farla valere, poiché qualunque partecipante può denunciare vizi del procedimento", "why_wrong": "L'art. 8, comma 4, riserva la contestazione dell'omissione al solo soggetto nel cui interesse la comunicazione è prevista."},
+      {"id": "c", "text": "l'omissione può essere fatta valere solo dall'amministrazione, in via di autotutela", "why_wrong": "Il comma 4 riserva la legittimazione al soggetto nel cui interesse era prevista la comunicazione."},
+      {"id": "d", "text": "l'omissione è irrilevante, perché la comunicazione di avvio è facoltativa", "why_wrong": "La comunicazione di avvio è doverosa, salvo esigenze di celerità (art. 7, comma 1)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, comma 4, stabilisce che l'omissione di taluna delle comunicazioni prescritte può essere fatta valere solo dal soggetto nel cui interesse la comunicazione è prevista.",
+    "evidence": [
+      {"ref": "art. 8, comma 4", "text": "L'omissione di taluna delle comunicazioni prescritte può esser fatta valere solo dal soggetto nel cui interesse la comunicazione è prevista."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 8, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'associazione ambientalista chiede di intervenire in un procedimento comunale dal cui provvedimento può derivare un pregiudizio agli interessi diffusi che tutela. Ai sensi dell'art. 9 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "non può intervenire, perché la partecipazione è riservata ai portatori di interessi privati", "why_wrong": "L'art. 9 ammette l'intervento dei portatori di interessi pubblici o privati e dei portatori di interessi diffusi costituiti in associazioni o comitati."},
+      {"id": "b", "text": "può intervenire solo se ha ricevuto la comunicazione di avvio del procedimento", "why_wrong": "La facoltà di intervento dell'art. 9 non dipende dalla ricezione della comunicazione di avvio, ma dal possibile pregiudizio derivante dal provvedimento."},
+      {"id": "c", "text": "può intervenire solo nei procedimenti di pianificazione e programmazione", "why_wrong": "Al contrario, l'art. 13 esclude l'applicazione delle norme sulla partecipazione agli atti di pianificazione e programmazione."},
+      {"id": "d", "text": "ha facoltà di intervenire nel procedimento", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "Per l'art. 9, qualunque soggetto portatore di interessi pubblici o privati, nonché i portatori di interessi diffusi costituiti in associazioni o comitati, cui possa derivare un pregiudizio dal provvedimento, hanno facoltà di intervenire nel procedimento.",
+    "evidence": [
+      {"ref": "art. 9, comma 1", "text": "Qualunque soggetto, portatore di interessi pubblici o privati, nonché i portatori di interessi diffusi costituiti in associazioni o comitati, cui possa derivare un pregiudizio dal provvedimento, hanno facoltà di intervenire nel procedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 9, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 9 della L. 241/1990, i portatori di interessi diffusi possono intervenire nel procedimento a condizione che:",
+    "options": [
+      {"id": "a", "text": "siano stati invitati dal responsabile del procedimento a un calendario di incontri", "why_wrong": "Il calendario di incontri è uno strumento per favorire la conclusione degli accordi (art. 11, comma 1-bis), non una condizione per intervenire."},
+      {"id": "b", "text": "siano costituiti in associazioni o comitati e possa derivare loro un pregiudizio dal provvedimento", "why_wrong": null},
+      {"id": "c", "text": "siano destinatari diretti degli effetti del provvedimento finale", "why_wrong": "I destinatari diretti sono i soggetti cui va comunicato l'avvio (art. 7); l'art. 9 riguarda chi può subire un pregiudizio, compresi i portatori di interessi diffusi organizzati."},
+      {"id": "d", "text": "abbiano presentato l'istanza che ha dato avvio al procedimento", "why_wrong": "L'art. 9 non richiede di essere istanti: basta il possibile pregiudizio e, per gli interessi diffusi, la costituzione in associazioni o comitati."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 9 riconosce la facoltà di intervento ai portatori di interessi diffusi purché costituiti in associazioni o comitati e purché dal provvedimento possa loro derivare un pregiudizio.",
+    "evidence": [
+      {"ref": "art. 9, comma 1", "text": "i portatori di interessi diffusi costituiti in associazioni o comitati, cui possa derivare un pregiudizio dal provvedimento, hanno facoltà di intervenire nel procedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 9, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 10 della L. 241/1990, i soggetti destinatari della comunicazione di avvio e quelli intervenuti nel procedimento hanno diritto:",
+    "options": [
+      {"id": "a", "text": "di partecipare con diritto di voto alle riunioni della conferenza di servizi", "why_wrong": "Gli interessati possono essere invitati alle riunioni della conferenza (art. 14-ter, comma 6), ma la posizione è espressa dai rappresentanti delle amministrazioni."},
+      {"id": "b", "text": "di ottenere un accordo sostitutivo del provvedimento finale", "why_wrong": "La conclusione di accordi è una facoltà dell'amministrazione (art. 11, comma 1), non un diritto dei partecipanti."},
+      {"id": "c", "text": "di ottenere l'indennizzo per il mero ritardo in ogni procedimento", "why_wrong": "L'indennizzo spetta solo nei casi e alle condizioni dell'art. 2-bis, comma 1-bis, e non è un diritto partecipativo dell'art. 10."},
+      {"id": "d", "text": "di prendere visione degli atti del procedimento, salvo quanto previsto dall'art. 24, e di presentare memorie scritte e documenti", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 10, comma 1, riconosce ai soggetti dell'art. 7 e agli intervenuti ai sensi dell'art. 9 il diritto di prendere visione degli atti del procedimento, salvo l'art. 24, e di presentare memorie scritte e documenti.",
+    "evidence": [
+      {"ref": "art. 10, comma 1", "text": "I soggetti di cui all'articolo 7 e quelli intervenuti ai sensi dell'articolo 9 hanno diritto: a) di prendere visione degli atti del procedimento, salvo quanto previsto dall'articolo 24; b) di presentare memorie scritte e documenti"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato che partecipa a un procedimento comunale presenta una memoria scritta. Ai sensi dell'art. 10 della L. 241/1990, l'amministrazione:",
+    "options": [
+      {"id": "a", "text": "deve valutarla solo se presentata entro dieci giorni dalla comunicazione di avvio", "why_wrong": "Il termine di dieci giorni riguarda le osservazioni dopo la comunicazione dei motivi ostativi (art. 10-bis); l'art. 10 lega l'obbligo di valutazione alla pertinenza."},
+      {"id": "b", "text": "ha l'obbligo di valutarla, ove sia pertinente all'oggetto del procedimento", "why_wrong": null},
+      {"id": "c", "text": "ha l'obbligo di accoglierla, se presentata nei termini", "why_wrong": "L'art. 10, comma 1, lett. b), impone di valutare le memorie pertinenti, non di accoglierle."},
+      {"id": "d", "text": "può valutarla discrezionalmente, anche se pertinente", "why_wrong": "La valutazione delle memorie pertinenti è un obbligo, non una facoltà."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 10, comma 1, lett. b), riconosce il diritto di presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo di valutare ove siano pertinenti all'oggetto del procedimento.",
+    "evidence": [
+      {"ref": "art. 10, comma 1", "text": "b) di presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo di valutare ove siano pertinenti all'oggetto del procedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 10-bis della L. 241/1990, entro quale termine dal ricevimento della comunicazione dei motivi ostativi gli istanti possono presentare per iscritto le loro osservazioni?",
+    "options": [
+      {"id": "a", "text": "Dieci giorni", "why_wrong": null},
+      {"id": "b", "text": "Trenta giorni", "why_wrong": "Trenta giorni è il termine generale di conclusione del procedimento (art. 2, comma 2); per le osservazioni l'art. 10-bis prevede dieci giorni."},
+      {"id": "c", "text": "Quindici giorni", "why_wrong": "L'art. 10-bis fissa il termine in dieci giorni dal ricevimento della comunicazione."},
+      {"id": "d", "text": "Cinque giorni lavorativi", "why_wrong": "Cinque giorni lavorativi è, ad esempio, il termine per l'indizione della conferenza semplificata (art. 14-bis, comma 2)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10-bis, comma 1, riconosce agli istanti il diritto di presentare per iscritto osservazioni, eventualmente corredate da documenti, entro dieci giorni dal ricevimento della comunicazione dei motivi ostativi.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "Entro il termine di dieci giorni dal ricevimento della comunicazione, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quale effetto produce sui termini di conclusione del procedimento la comunicazione dei motivi ostativi all'accoglimento dell'istanza, ai sensi dell'art. 10-bis della L. 241/1990?",
+    "options": [
+      {"id": "a", "text": "Nessun effetto: i termini continuano a decorrere", "why_wrong": "L'art. 10-bis dispone espressamente che la comunicazione sospende i termini."},
+      {"id": "b", "text": "Li proroga automaticamente di trenta giorni", "why_wrong": "La legge non prevede una proroga fissa: i termini sono sospesi e ricominciano a decorrere secondo quanto previsto dall'art. 10-bis."},
+      {"id": "c", "text": "Li sospende", "why_wrong": null},
+      {"id": "d", "text": "Li interrompe, facendoli ricominciare da capo per intero", "why_wrong": "L'interruzione dei termini è prevista in altre norme (ad es. art. 17-bis, comma 1); l'art. 10-bis parla di sospensione."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 10-bis, comma 1, stabilisce che la comunicazione dei motivi ostativi sospende i termini di conclusione del procedimento.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "La comunicazione di cui al primo periodo sospende i termini di conclusione dei procedimenti"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ricevuta la comunicazione dei motivi ostativi, l'istante presenta le proprie osservazioni. Da quando ricominciano a decorrere i termini di conclusione del procedimento?",
+    "options": [
+      {"id": "a", "text": "Dalla data di adozione del provvedimento finale", "why_wrong": "Il provvedimento finale conclude il procedimento; la ripresa dei termini è fissata dall'art. 10-bis in relazione alle osservazioni."},
+      {"id": "b", "text": "Dieci giorni dopo la presentazione delle osservazioni", "why_wrong": null},
+      {"id": "c", "text": "Dal giorno stesso della presentazione delle osservazioni", "why_wrong": "L'art. 10-bis fa ripartire i termini dieci giorni dopo la presentazione delle osservazioni."},
+      {"id": "d", "text": "Dalla scadenza del termine di dieci giorni per presentare le osservazioni, anche se sono state presentate prima", "why_wrong": "La scadenza del termine rileva solo in mancanza di osservazioni; se sono presentate, i termini ripartono dieci giorni dopo la presentazione."}
+    ],
+    "correct": "b",
+    "explanation": "Per l'art. 10-bis, i termini sospesi ricominciano a decorrere dieci giorni dopo la presentazione delle osservazioni o, in mancanza, dalla scadenza del termine di dieci giorni per presentarle.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "che ricominciano a decorrere dieci giorni dopo la presentazione delle osservazioni o, in mancanza delle stesse, dalla scadenza del termine di cui al secondo periodo."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Se l'istante ha presentato osservazioni dopo la comunicazione dei motivi ostativi e l'amministrazione decide comunque di respingere l'istanza, nella motivazione del diniego l'amministrazione:",
+    "options": [
+      {"id": "a", "text": "può indicare qualsiasi nuovo motivo ostativo emerso successivamente", "why_wrong": "L'art. 10-bis limita i motivi ulteriori a quelli che sono conseguenza delle osservazioni."},
+      {"id": "b", "text": "non è tenuta a esaminare le osservazioni, se il diniego era già motivato", "why_wrong": "L'art. 10-bis impone di dare ragione, nella motivazione, dell'eventuale mancato accoglimento delle osservazioni."},
+      {"id": "c", "text": "deve prima indire una conferenza di servizi per valutare le osservazioni", "why_wrong": "L'art. 10-bis non prevede alcuna conferenza di servizi per l'esame delle osservazioni."},
+      {"id": "d", "text": "dà ragione del mancato accoglimento delle osservazioni, indicando, se ve ne sono, i soli motivi ostativi ulteriori che sono conseguenza delle osservazioni", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 10-bis prevede che del mancato accoglimento delle osservazioni si dia ragione nella motivazione del provvedimento di diniego, indicando, se ve ne sono, i soli motivi ostativi ulteriori che sono conseguenza delle osservazioni.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "Qualora gli istanti abbiano presentato osservazioni, del loro eventuale mancato accoglimento il responsabile del procedimento o l'autorità competente sono tenuti a dare ragione nella motivazione del provvedimento finale di diniego indicando, se ve ne sono, i soli motivi ostativi ulteriori che sono conseguenza delle osservazioni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un diniego comunale, adottato dopo la comunicazione dei motivi ostativi, viene annullato dal giudice. Nel riesercitare il potere, il Comune intende opporre un motivo ostativo che emergeva già dall'istruttoria ma che non era stato addotto in precedenza. Ai sensi dell'art. 10-bis della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "può addurlo liberamente, poiché l'annullamento restituisce integralmente il potere all'amministrazione", "why_wrong": "La legge limita espressamente il riesercizio del potere, escludendo i motivi già emergenti dall'istruttoria e non addotti."},
+      {"id": "b", "text": "può addurlo solo previa deliberazione dell'organo di governo", "why_wrong": "L'art. 10-bis non prevede deroghe al divieto subordinate a deliberazioni dell'organo di governo."},
+      {"id": "c", "text": "non può addurre per la prima volta motivi ostativi già emergenti dall'istruttoria del provvedimento annullato", "why_wrong": null},
+      {"id": "d", "text": "può addurlo, purché lo comunichi nuovamente all'istante con un nuovo preavviso di diniego", "why_wrong": "L'art. 10-bis vieta di addurre per la prima volta, dopo l'annullamento, motivi ostativi già emergenti dall'istruttoria, a prescindere da un nuovo preavviso."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 10-bis stabilisce che, in caso di annullamento in giudizio del provvedimento, l'amministrazione, nell'esercitare nuovamente il potere, non può addurre per la prima volta motivi ostativi già emergenti dall'istruttoria del provvedimento annullato.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "In caso di annullamento in giudizio del provvedimento così adottato, nell'esercitare nuovamente il suo potere l'amministrazione non può addurre per la prima volta motivi ostativi già emergenti dall'istruttoria del provvedimento annullato."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 10-bis della L. 241/1990, le disposizioni sulla comunicazione dei motivi ostativi NON si applicano:",
+    "options": [
+      {"id": "a", "text": "alle procedure concorsuali e ai procedimenti in materia previdenziale e assistenziale sorti a seguito di istanza di parte e gestiti dagli enti previdenziali", "why_wrong": null},
+      {"id": "b", "text": "ai procedimenti di rilascio di autorizzazioni a istanza di parte", "why_wrong": "Sono proprio procedimenti ad istanza di parte, ai quali l'art. 10-bis si applica."},
+      {"id": "c", "text": "ai procedimenti nei quali può formarsi il silenzio assenso", "why_wrong": "L'art. 20, comma 5, dispone espressamente che ai procedimenti soggetti a silenzio assenso si applica l'art. 10-bis."},
+      {"id": "d", "text": "ai procedimenti di acquisto della cittadinanza italiana", "why_wrong": "La cittadinanza è richiamata dall'art. 2, comma 4, come eccezione al limite di centottanta giorni, non come esclusione dall'art. 10-bis."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10-bis esclude la propria applicazione alle procedure concorsuali e ai procedimenti in materia previdenziale e assistenziale sorti a seguito di istanza di parte e gestiti dagli enti previdenziali.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "Le disposizioni di cui al presente articolo non si applicano alle procedure concorsuali e ai procedimenti in materia previdenziale e assistenziale sorti a seguito di istanza di parte e gestiti dagli enti previdenziali."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nel preavviso di diniego, un Comune indica come motivo ostativo il fatto che la documentazione dell'istanza sia incompleta a causa di un ritardo dello stesso ufficio comunale nel rilasciare un certificato. Ai sensi dell'art. 10-bis della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il motivo è legittimo se il ritardo non supera trenta giorni", "why_wrong": "Il divieto dell'art. 10-bis non prevede soglie temporali."},
+      {"id": "b", "text": "il motivo può essere addotto solo dopo la scadenza del termine di dieci giorni per le osservazioni", "why_wrong": "Il divieto riguarda il contenuto dei motivi ostativi, non il momento in cui sono addotti."},
+      {"id": "c", "text": "tale motivo non può essere addotto, poiché si tratta di un ritardo attribuibile all'amministrazione", "why_wrong": null},
+      {"id": "d", "text": "il motivo è legittimo, trattandosi di un requisito dell'istanza", "why_wrong": "L'art. 10-bis vieta di addurre tra i motivi ostativi inadempienze o ritardi attribuibili all'amministrazione."}
+    ],
+    "correct": "c",
+    "explanation": "L'ultimo periodo dell'art. 10-bis stabilisce che non possono essere addotti tra i motivi che ostano all'accoglimento della domanda inadempienze o ritardi attribuibili all'amministrazione.",
+    "evidence": [
+      {"ref": "art. 10-bis, comma 1", "text": "Non possono essere addotti tra i motivi che ostano all'accoglimento della domanda inadempienze o ritardi attribuibili all'amministrazione."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 10-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-021",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 11 della L. 241/1990, l'amministrazione procedente può concludere accordi con gli interessati al fine di:",
+    "options": [
+      {"id": "a", "text": "determinare il contenuto discrezionale del provvedimento finale ovvero in sostituzione di questo", "why_wrong": null},
+      {"id": "b", "text": "disciplinare lo svolgimento in collaborazione di attività di interesse comune con altre amministrazioni", "why_wrong": "Sono gli accordi fra pubbliche amministrazioni dell'art. 15, non quelli con i privati dell'art. 11."},
+      {"id": "c", "text": "derogare ai diritti dei terzi, se ciò è necessario per il pubblico interesse", "why_wrong": "L'art. 11, comma 1, ammette gli accordi solo senza pregiudizio dei diritti dei terzi."},
+      {"id": "d", "text": "determinare il contenuto vincolato del provvedimento finale", "why_wrong": "Gli accordi integrativi riguardano il contenuto discrezionale del provvedimento."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 11, comma 1, consente all'amministrazione, in accoglimento di osservazioni e proposte, di concludere accordi con gli interessati per determinare il contenuto discrezionale del provvedimento finale (accordi integrativi) o in sostituzione di questo (accordi sostitutivi), senza pregiudizio dei diritti dei terzi e nel perseguimento del pubblico interesse.",
+    "evidence": [
+      {"ref": "art. 11, comma 1", "text": "l'amministrazione procedente può concludere, senza pregiudizio dei diritti dei terzi, e in ogni caso nel perseguimento del pubblico interesse, accordi con gli interessati al fine di determinare il contenuto discrezionale del provvedimento finale ovvero in sostituzione di questo."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-022",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 11 della L. 241/1990, gli accordi integrativi o sostitutivi del provvedimento:",
+    "options": [
+      {"id": "a", "text": "possono essere conclusi anche verbalmente, purché motivati", "why_wrong": "L'art. 11, comma 2, richiede l'atto scritto a pena di nullità, salvo diversa disposizione di legge."},
+      {"id": "b", "text": "sono stipulati per atto scritto, ma non richiedono motivazione, avendo natura contrattuale", "why_wrong": "Il comma 2 prevede espressamente che gli accordi siano motivati ai sensi dell'art. 3."},
+      {"id": "c", "text": "sono regolati esclusivamente dal codice civile, senza limiti di compatibilità", "why_wrong": "Ai sensi del comma 2 si applicano i principi del codice civile in materia di obbligazioni e contratti, ove non diversamente previsto e in quanto compatibili."},
+      {"id": "d", "text": "devono essere stipulati per atto scritto a pena di nullità, salvo che la legge disponga altrimenti, e devono essere motivati", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 11, comma 2, prevede che gli accordi siano stipulati, a pena di nullità, per atto scritto, salvo che la legge disponga altrimenti; si applicano, in quanto compatibili, i principi del codice civile in materia di obbligazioni e contratti, e gli accordi devono essere motivati ai sensi dell'art. 3.",
+    "evidence": [
+      {"ref": "art. 11, comma 2", "text": "Gli accordi di cui al presente articolo debbono essere stipulati, a pena di nullità per atto scritto, salvo che la legge disponga altrimenti."},
+      {"ref": "art. 11, comma 2", "text": "Gli accordi di cui al presente articolo devono essere motivati ai sensi dell'articolo 3"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-023",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 11 della L. 241/1990, gli accordi sostitutivi di provvedimenti:",
+    "options": [
+      {"id": "a", "text": "sono soggetti ai controlli previsti per i contratti di diritto privato", "why_wrong": "Il comma 3 fa riferimento ai controlli previsti per i provvedimenti; i principi del codice civile rilevano, in quanto compatibili, solo per la disciplina di obbligazioni e contratti (comma 2)."},
+      {"id": "b", "text": "sono soggetti ai medesimi controlli previsti per i provvedimenti che sostituiscono", "why_wrong": null},
+      {"id": "c", "text": "sono sottratti a ogni controllo, avendo natura consensuale", "why_wrong": "L'art. 11, comma 3, li sottopone ai medesimi controlli previsti per i provvedimenti."},
+      {"id": "d", "text": "sono soggetti al solo controllo del giudice ordinario", "why_wrong": "Il comma 3 richiama i medesimi controlli previsti per i provvedimenti sostituiti."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, comma 3, stabilisce che gli accordi sostitutivi di provvedimenti sono soggetti ai medesimi controlli previsti per questi ultimi.",
+    "evidence": [
+      {"ref": "art. 11, comma 3", "text": "Gli accordi sostitutivi di provvedimenti sono soggetti ai medesimi controlli previsti per questi ultimi."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-024",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune ha concluso con un privato un accordo sostitutivo di provvedimento. Successivamente sopravvengono motivi di pubblico interesse che rendono l'accordo non più rispondente all'interesse pubblico. Ai sensi dell'art. 11 della L. 241/1990, il Comune:",
+    "options": [
+      {"id": "a", "text": "può sciogliersi dall'accordo solo con il consenso del privato", "why_wrong": "L'art. 11, comma 4, consente il recesso unilaterale per sopravvenuti motivi di pubblico interesse."},
+      {"id": "b", "text": "recede unilateralmente senza alcun obbligo nei confronti del privato", "why_wrong": "Il recesso è accompagnato dall'obbligo di liquidare un indennizzo per gli eventuali pregiudizi."},
+      {"id": "c", "text": "deve chiedere al giudice la risoluzione dell'accordo per eccessiva onerosità", "why_wrong": "La legge attribuisce direttamente all'amministrazione il potere di recesso unilaterale."},
+      {"id": "d", "text": "recede unilateralmente dall'accordo, salvo l'obbligo di liquidare un indennizzo per gli eventuali pregiudizi subiti dal privato", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "Per l'art. 11, comma 4, per sopravvenuti motivi di pubblico interesse l'amministrazione recede unilateralmente dall'accordo, salvo l'obbligo di provvedere alla liquidazione di un indennizzo per gli eventuali pregiudizi verificatisi in danno del privato.",
+    "evidence": [
+      {"ref": "art. 11, comma 4", "text": "Per sopravvenuti motivi di pubblico interesse l'amministrazione recede unilateralmente dall'accordo, salvo l'obbligo di provvedere alla liquidazione di un indennizzo in relazione agli eventuali pregiudizi verificatisi in danno del privato."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-025",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune intende concludere con un privato un accordo sostitutivo di un provvedimento di competenza della Giunta. Ai sensi dell'art. 11, comma 4-bis, della L. 241/1990, la stipulazione dell'accordo:",
+    "options": [
+      {"id": "a", "text": "è preceduta dal parere obbligatorio del Consiglio di Stato", "why_wrong": "Il comma 4-bis non prevede pareri esterni, ma una determinazione dell'organo competente per il provvedimento."},
+      {"id": "b", "text": "è preceduta da una determinazione della Giunta, quale organo che sarebbe competente per l'adozione del provvedimento", "why_wrong": null},
+      {"id": "c", "text": "è preceduta da una conferenza di servizi con le altre amministrazioni interessate", "why_wrong": "Il comma 4-bis richiede una determinazione dell'organo competente per il provvedimento, non una conferenza di servizi."},
+      {"id": "d", "text": "può essere effettuata direttamente dal responsabile del procedimento, senza alcun atto preliminare", "why_wrong": "Il comma 4-bis richiede, a garanzia dell'imparzialità e del buon andamento, una determinazione preventiva dell'organo competente."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, comma 4-bis, a garanzia dell'imparzialità e del buon andamento, prevede che la stipulazione dell'accordo sia preceduta da una determinazione dell'organo che sarebbe competente per l'adozione del provvedimento.",
+    "evidence": [
+      {"ref": "art. 11, comma 4-bis", "text": "la stipulazione dell'accordo è preceduta da una determinazione dell'organo che sarebbe competente per l'adozione del provvedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 4-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-026",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Al fine di favorire la conclusione degli accordi di cui all'art. 11 della L. 241/1990, il responsabile del procedimento:",
+    "options": [
+      {"id": "a", "text": "può predisporre un calendario di incontri cui invita, separatamente o contestualmente, il destinatario del provvedimento ed eventuali controinteressati", "why_wrong": null},
+      {"id": "b", "text": "deve indire una conferenza di servizi istruttoria", "why_wrong": "La conferenza istruttoria (art. 14, comma 1) riguarda l'esame contestuale di interessi pubblici tra amministrazioni; per gli accordi l'art. 11, comma 1-bis, prevede un calendario di incontri."},
+      {"id": "c", "text": "può invitare solo il destinatario del provvedimento, esclusi i controinteressati", "why_wrong": "Il comma 1-bis prevede di invitare anche gli eventuali controinteressati."},
+      {"id": "d", "text": "deve ottenere preventivamente l'assenso di tutti i controinteressati", "why_wrong": "Il comma 1-bis prevede una facoltà di organizzare incontri, non un assenso preventivo dei controinteressati."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 11, comma 1-bis, consente al responsabile del procedimento di predisporre un calendario di incontri con il destinatario del provvedimento ed eventuali controinteressati, separatamente o contestualmente, per favorire la conclusione degli accordi.",
+    "evidence": [
+      {"ref": "art. 11, comma 1-bis", "text": "Al fine di favorire la conclusione degli accordi di cui al comma 1, il responsabile del procedimento può predisporre un calendario di incontri cui invita, separatamente o contestualmente, il destinatario del provvedimento ed eventuali controinteressati."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 11, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-027",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune intende concedere contributi alle associazioni sportive del territorio. Ai sensi dell'art. 12 della L. 241/1990, la concessione dei contributi:",
+    "options": [
+      {"id": "a", "text": "può avvenire sulla base di valutazioni caso per caso, purché motivate", "why_wrong": "L'art. 12, comma 1, impone la predeterminazione dei criteri e delle modalità."},
+      {"id": "b", "text": "è subordinata a una segnalazione certificata di inizio attività di ciascuna associazione", "why_wrong": "La SCIA (art. 19) sostituisce atti autorizzatori, non riguarda l'attribuzione di contributi."},
+      {"id": "c", "text": "è subordinata alla predeterminazione, da parte del Comune, dei criteri e delle modalità cui esso deve attenersi", "why_wrong": null},
+      {"id": "d", "text": "è subordinata alla conclusione di un accordo sostitutivo con ciascuna associazione", "why_wrong": "Gli accordi dell'art. 11 sono una facoltà dell'amministrazione; per i vantaggi economici l'art. 12 richiede la predeterminazione di criteri e modalità."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 12, comma 1, subordina la concessione di sovvenzioni, contributi, sussidi e ausili finanziari e l'attribuzione di vantaggi economici alla predeterminazione dei criteri e delle modalità da parte delle amministrazioni procedenti, nelle forme previste dai rispettivi ordinamenti.",
+    "evidence": [
+      {"ref": "art. 12, comma 1", "text": "La concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l'attribuzione di vantaggi economici di qualunque genere a persone ed enti pubblici e privati sono subordinate alla predeterminazione"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 12, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-028",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 12, comma 2, della L. 241/1990, l'effettiva osservanza dei criteri e delle modalità predeterminati per l'attribuzione di vantaggi economici:",
+    "options": [
+      {"id": "a", "text": "deve risultare solo dall'atto generale che fissa i criteri", "why_wrong": "L'atto generale predetermina criteri e modalità (comma 1); il comma 2 richiede che la loro osservanza risulti dai singoli provvedimenti."},
+      {"id": "b", "text": "deve risultare dai singoli provvedimenti relativi agli interventi", "why_wrong": null},
+      {"id": "c", "text": "è attestata annualmente dal titolare del potere sostitutivo", "why_wrong": "Il titolare del potere sostitutivo comunica annualmente i procedimenti conclusi in ritardo (art. 2, comma 9-quater)."},
+      {"id": "d", "text": "è verificata esclusivamente in sede di controllo della Corte dei conti", "why_wrong": "Il comma 2 richiede che l'osservanza risulti dai singoli provvedimenti."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 12, comma 2, prevede che l'effettiva osservanza dei criteri e delle modalità predeterminati risulti dai singoli provvedimenti di concessione.",
+    "evidence": [
+      {"ref": "art. 12, comma 2", "text": "L'effettiva osservanza dei criteri e delle modalità di cui al comma 1 deve risultare dai singoli provvedimenti relativi agli interventi di cui al medesimo comma 1."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 12, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-029",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune avvia il procedimento di formazione di un atto di pianificazione urbanistica. Ai sensi dell'art. 13 della L. 241/1990, le disposizioni del Capo III sulla partecipazione al procedimento:",
+    "options": [
+      {"id": "a", "text": "si applicano integralmente", "why_wrong": "L'art. 13, comma 1, esclude gli atti di pianificazione dall'applicazione del Capo III."},
+      {"id": "b", "text": "si applicano solo per la comunicazione dei motivi ostativi", "why_wrong": "L'esclusione dell'art. 13 riguarda tutte le disposizioni del Capo III, compreso l'art. 10-bis."},
+      {"id": "c", "text": "si applicano solo se lo prevede lo statuto comunale", "why_wrong": "L'esclusione è stabilita direttamente dalla legge, che fa salve le particolari norme sulla formazione di tali atti."},
+      {"id": "d", "text": "non si applicano, restando ferme le particolari norme che ne regolano la formazione", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 13, comma 1, esclude l'applicazione del Capo III all'attività diretta all'emanazione di atti normativi, amministrativi generali, di pianificazione e di programmazione, per i quali restano ferme le particolari norme che ne regolano la formazione.",
+    "evidence": [
+      {"ref": "art. 13, comma 1", "text": "Le disposizioni contenute nel presente capo non si applicano nei confronti dell'attività della pubblica amministrazione diretta alla emanazione di atti normativi, amministrativi generali, di pianificazione e di programmazione, per i quali restano ferme le particolari norme che ne regolano la formazione."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 13, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c3-030",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Oltre agli atti normativi, amministrativi generali, di pianificazione e di programmazione, l'art. 13 della L. 241/1990 esclude l'applicazione delle norme sulla partecipazione:",
+    "options": [
+      {"id": "a", "text": "ai procedimenti relativi ai concorsi pubblici", "why_wrong": "I concorsi pubblici sono esclusi dall'indennizzo per ritardo (art. 2-bis, comma 1-bis) e le procedure concorsuali dall'art. 10-bis; non sono menzionati nell'art. 13."},
+      {"id": "b", "text": "ai procedimenti di competenza degli enti locali", "why_wrong": "L'art. 13 non esclude i procedimenti degli enti locali, ma specifiche categorie di atti e i procedimenti tributari."},
+      {"id": "c", "text": "ai procedimenti tributari, per i quali restano ferme le particolari norme che li regolano", "why_wrong": null},
+      {"id": "d", "text": "ai procedimenti in materia previdenziale e assistenziale", "why_wrong": "Questi procedimenti, se gestiti dagli enti previdenziali, sono esclusi dal solo art. 10-bis, non dall'intero Capo III ai sensi dell'art. 13."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 13, comma 2, esclude dalle disposizioni del Capo III anche i procedimenti tributari, per i quali restano ferme le particolari norme che li regolano, oltre ad alcuni procedimenti previsti da specifiche leggi.",
+    "evidence": [
+      {"ref": "art. 13, comma 2", "text": "Dette disposizioni non si applicano altresì ai procedimenti tributari per i quali restano parimenti ferme le particolari norme che li regolano"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 13, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

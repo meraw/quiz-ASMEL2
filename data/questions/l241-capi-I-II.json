@@ -1,0 +1,602 @@
+[
+  {
+    "id": "l241-c12-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 1 della L. 241/1990, l'attività amministrativa persegue i fini determinati dalla legge ed è retta da criteri di:",
+    "options": [
+      {"id": "a", "text": "imparzialità e pubblicità, con esclusione dei principi dell'ordinamento comunitario", "why_wrong": "L'art. 1, comma 1, richiama espressamente anche i principi dell'ordinamento comunitario."},
+      {"id": "b", "text": "economicità, efficacia, imparzialità, pubblicità e trasparenza", "why_wrong": null},
+      {"id": "c", "text": "economicità, efficacia, collaborazione e buona fede", "why_wrong": "Collaborazione e buona fede sono i principi che improntano i rapporti tra cittadino e pubblica amministrazione (art. 1, comma 2-bis), non i criteri dell'attività amministrativa del comma 1."},
+      {"id": "d", "text": "proporzionalità, efficacia e sostenibilità finanziaria", "why_wrong": "Sono i principi cui devono conformarsi le prescrizioni indicate dalle amministrazioni in conferenza di servizi (art. 14-bis, comma 3)."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 1, comma 1, individua i criteri che reggono l'attività amministrativa: economicità, efficacia, imparzialità, pubblicità e trasparenza, secondo le modalità previste dalla legge e dai principi dell'ordinamento comunitario.",
+    "evidence": [
+      {"ref": "art. 1, comma 1", "text": "L'attività amministrativa persegue i fini determinati dalla legge ed è retta da criteri di economicità, di efficacia, di imparzialità, di pubblicità e di trasparenza"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 1, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune, nell'adozione di un atto di natura non autoritativa, secondo quali norme agisce ai sensi della L. 241/1990?",
+    "options": [
+      {"id": "a", "text": "Secondo le norme di diritto privato, salvo che la legge disponga diversamente", "why_wrong": null},
+      {"id": "b", "text": "Sempre secondo le norme di diritto pubblico, trattandosi di una pubblica amministrazione", "why_wrong": "L'art. 1, comma 1-bis, prevede come regola l'applicazione del diritto privato agli atti di natura non autoritativa."},
+      {"id": "c", "text": "Secondo le norme di diritto privato solo se una legge lo prevede espressamente", "why_wrong": "Il rapporto è invertito: il diritto privato è la regola, salvo che la legge disponga diversamente."},
+      {"id": "d", "text": "Secondo i principi del codice civile in materia di obbligazioni e contratti, ma solo previa stipula per atto scritto a pena di nullità", "why_wrong": "È la disciplina degli accordi integrativi o sostitutivi del provvedimento (art. 11, comma 2), non quella generale degli atti non autoritativi."}
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 1, comma 1-bis, la pubblica amministrazione, nell'adozione di atti di natura non autoritativa, agisce secondo le norme di diritto privato salvo che la legge disponga diversamente.",
+    "evidence": [
+      {"ref": "art. 1, comma 1-bis", "text": "La pubblica amministrazione, nell'adozione di atti di natura non autoritativa, agisce secondo le norme di diritto privato salvo che la legge disponga diversamente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 1, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "I soggetti privati preposti all'esercizio di attività amministrative, ai sensi dell'art. 1, comma 1-ter, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "agiscono esclusivamente secondo le norme di diritto privato", "why_wrong": "Il diritto privato è previsto dal comma 1-bis per gli atti non autoritativi della PA; il comma 1-ter impone invece ai privati il rispetto dei criteri e principi del comma 1."},
+      {"id": "b", "text": "assicurano il rispetto dei criteri dell'attività amministrativa con un livello di garanzia stabilito da ciascuna amministrazione affidante", "why_wrong": "La legge fissa direttamente la soglia: un livello di garanzia non inferiore a quello delle pubbliche amministrazioni."},
+      {"id": "c", "text": "assicurano il rispetto dei criteri e dei principi dell'attività amministrativa con un livello di garanzia non inferiore a quello cui sono tenute le pubbliche amministrazioni", "why_wrong": null},
+      {"id": "d", "text": "sono tenuti al rispetto dei criteri dell'attività amministrativa solo se costituiti in forma di società con totale o prevalente capitale pubblico", "why_wrong": "Le società a capitale pubblico sono richiamate dall'art. 29 per l'ambito di applicazione della legge; il comma 1-ter riguarda tutti i soggetti privati preposti all'esercizio di attività amministrative."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 1, comma 1-ter, estende ai soggetti privati preposti all'esercizio di attività amministrative il rispetto dei criteri e principi del comma 1, con un livello di garanzia non inferiore a quello richiesto alle pubbliche amministrazioni.",
+    "evidence": [
+      {"ref": "art. 1, comma 1-ter", "text": "I soggetti privati preposti all'esercizio di attività amministrative assicurano il rispetto dei criteri e dei principi di cui al comma 1, con un livello di garanzia non inferiore a quello cui sono tenute le pubbliche amministrazioni"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 1, comma 1-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi della L. 241/1990, la pubblica amministrazione può aggravare il procedimento:",
+    "options": [
+      {"id": "a", "text": "in nessun caso", "why_wrong": "Il divieto non è assoluto: il comma 2 ammette l'aggravamento per straordinarie e motivate esigenze imposte dall'istruttoria."},
+      {"id": "b", "text": "solo per straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria", "why_wrong": null},
+      {"id": "c", "text": "ogni volta che il responsabile del procedimento lo ritenga opportuno", "why_wrong": "L'art. 1, comma 2, pone un divieto di aggravamento, derogabile solo per straordinarie e motivate esigenze istruttorie, non per semplice opportunità."},
+      {"id": "d", "text": "in presenza di particolari esigenze di celerità del procedimento", "why_wrong": "Le esigenze di celerità sono richiamate dall'art. 7 come ragione per omettere la comunicazione di avvio, non per aggravare il procedimento."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 1, comma 2, sancisce il divieto di aggravamento del procedimento, salvo che ricorrano straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria.",
+    "evidence": [
+      {"ref": "art. 1, comma 2", "text": "La pubblica amministrazione non può aggravare il procedimento se non per straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 1, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo la L. 241/1990, i rapporti tra il cittadino e la pubblica amministrazione sono improntati ai principi:",
+    "options": [
+      {"id": "a", "text": "dell'economicità e dell'efficacia", "why_wrong": "Economicità ed efficacia sono criteri che reggono l'attività amministrativa (art. 1, comma 1), non i principi dei rapporti tra cittadino e PA del comma 2-bis."},
+      {"id": "b", "text": "della proporzionalità e della sostenibilità finanziaria", "why_wrong": "Sono i principi cui si conformano le prescrizioni rese in conferenza di servizi (art. 14-bis, comma 3)."},
+      {"id": "c", "text": "della pubblicità e della trasparenza", "why_wrong": "Pubblicità e trasparenza figurano tra i criteri dell'attività amministrativa del comma 1."},
+      {"id": "d", "text": "della collaborazione e della buona fede", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 1, comma 2-bis, stabilisce che i rapporti tra il cittadino e la pubblica amministrazione sono improntati ai principi della collaborazione e della buona fede.",
+    "evidence": [
+      {"ref": "art. 1, comma 2-bis", "text": "I rapporti tra il cittadino e la pubblica amministrazione sono improntati ai principi della collaborazione e della buona fede"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 1, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune riceve un'istanza manifestamente inammissibile. Ai sensi dell'art. 2 della L. 241/1990, il Comune:",
+    "options": [
+      {"id": "a", "text": "conclude il procedimento con un provvedimento espresso privo di motivazione", "why_wrong": "La motivazione non è eliminata ma semplificata: può consistere in un sintetico riferimento al punto risolutivo; l'art. 3, comma 2, esclude la motivazione solo per gli atti normativi e a contenuto generale."},
+      {"id": "b", "text": "archivia l'istanza dopo averne dato notizia mediante forme di pubblicità idonee", "why_wrong": "Le forme di pubblicità idonee sostituiscono la comunicazione personale di avvio quando i destinatari sono troppo numerosi (art. 8, comma 3); non sono un modo di concludere il procedimento."},
+      {"id": "c", "text": "conclude il procedimento con un provvedimento espresso redatto in forma semplificata, la cui motivazione può consistere in un sintetico riferimento al punto di fatto o di diritto ritenuto risolutivo", "why_wrong": null},
+      {"id": "d", "text": "può non provvedere, poiché per le istanze inammissibili non sussiste il dovere di concludere il procedimento", "why_wrong": "L'art. 2, comma 1, impone anche in questo caso un provvedimento espresso, sia pure in forma semplificata."}
+    ],
+    "correct": "c",
+    "explanation": "Per l'art. 2, comma 1, in caso di manifesta irricevibilità, inammissibilità, improcedibilità o infondatezza della domanda, l'amministrazione conclude con un provvedimento espresso in forma semplificata, con motivazione sintetica.",
+    "evidence": [
+      {"ref": "art. 2, comma 1", "text": "Se ravvisano la manifesta irricevibilità, inammissibilità, improcedibilità o infondatezza della domanda, le pubbliche amministrazioni concludono il procedimento con un provvedimento espresso redatto in forma semplificata, la cui motivazione può consistere in un sintetico riferimento al punto di fatto o di diritto ritenuto risolutivo."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Se disposizioni di legge o i provvedimenti previsti dall'art. 2 non prevedono un termine diverso, i procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro:",
+    "options": [
+      {"id": "a", "text": "trenta giorni", "why_wrong": null},
+      {"id": "b", "text": "sessanta giorni", "why_wrong": "Sessanta giorni è, tra l'altro, il termine per i controlli sulla SCIA (art. 19, comma 3), non il termine generale dell'art. 2, comma 2."},
+      {"id": "c", "text": "novanta giorni", "why_wrong": "Novanta giorni è il limite massimo dei termini che possono essere fissati con i decreti di cui al comma 3, non il termine residuale."},
+      {"id": "d", "text": "centottanta giorni", "why_wrong": "Centottanta giorni è il limite invalicabile dei termini più lunghi previsti dal comma 4."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2, comma 2, fissa il termine residuale di trenta giorni, applicabile quando né la legge né i provvedimenti di cui ai commi 3, 4 e 5 prevedono un termine diverso.",
+    "evidence": [
+      {"ref": "art. 2, comma 2", "text": "Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quando sono indispensabili termini superiori a novanta giorni per i procedimenti delle amministrazioni statali, i termini fissati ai sensi dell'art. 2, comma 4, della L. 241/1990 non possono comunque superare:",
+    "options": [
+      {"id": "a", "text": "novanta giorni, salvo deliberazione del Consiglio dei ministri", "why_wrong": "Novanta giorni è il limite ordinario del comma 3; il comma 4 serve proprio a superarlo, fino a centottanta giorni."},
+      {"id": "b", "text": "centottanta giorni, con la sola esclusione dei procedimenti tributari", "why_wrong": "I procedimenti tributari sono esclusi dall'applicazione delle norme sulla partecipazione (art. 13, comma 2); l'eccezione del comma 4 riguarda cittadinanza e immigrazione."},
+      {"id": "c", "text": "centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione", "why_wrong": null},
+      {"id": "d", "text": "centoventi giorni, senza eccezioni", "why_wrong": "Il limite previsto dal comma 4 è di centottanta giorni, con l'esclusione dei procedimenti in materia di cittadinanza e immigrazione."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2, comma 4, consente termini superiori a novanta giorni, adottati previa deliberazione del Consiglio dei ministri, che non possono comunque superare i centottanta giorni, salvo i procedimenti di acquisto della cittadinanza italiana e quelli riguardanti l'immigrazione.",
+    "evidence": [
+      {"ref": "art. 2, comma 4", "text": "I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Le pubbliche amministrazioni, ai sensi dell'art. 2, comma 4-bis, della L. 241/1990, misurano e pubblicano nel proprio sito istituzionale, nella sezione \"Amministrazione trasparente\":",
+    "options": [
+      {"id": "a", "text": "i tempi effettivi di conclusione dei procedimenti di maggiore impatto per cittadini e imprese, comparandoli con i termini previsti dalla normativa vigente", "why_wrong": null},
+      {"id": "b", "text": "l'elenco dei procedimenti nei quali non è stato rispettato il termine di conclusione, entro il 30 gennaio di ogni anno", "why_wrong": "Questo elenco è comunicato all'organo di governo dal titolare del potere sostitutivo (art. 2, comma 9-quater), non pubblicato ai sensi del comma 4-bis."},
+      {"id": "c", "text": "le sentenze che accolgono i ricorsi avverso il silenzio inadempimento", "why_wrong": "Tali sentenze, passate in giudicato, sono trasmesse in via telematica alla Corte dei conti (art. 2, comma 8)."},
+      {"id": "d", "text": "il nominativo dei dipendenti responsabili dei ritardi", "why_wrong": "Il nominativo del responsabile del ritardo è comunicato dal titolare del potere sostitutivo ai fini disciplinari (art. 2, comma 9-bis), non pubblicato."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2, comma 4-bis, obbliga le amministrazioni a misurare e pubblicare in \"Amministrazione trasparente\" i tempi effettivi di conclusione dei procedimenti di maggiore impatto, confrontandoli con i termini normativi.",
+    "evidence": [
+      {"ref": "art. 2, comma 4-bis", "text": "Le pubbliche amministrazioni misurano e pubblicano nel proprio sito internet istituzionale, nella sezione \"Amministrazione trasparente\", i tempi effettivi di conclusione dei procedimenti amministrativi di maggiore impatto per i cittadini e per le imprese, comparandoli con i termini previsti dalla normativa vigente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 4-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato spedisce un'istanza a un'amministrazione il 1° marzo; l'amministrazione la riceve il 5 marzo e la assegna al responsabile del procedimento il 10 marzo. Da quale data decorre il termine per la conclusione del procedimento?",
+    "options": [
+      {"id": "a", "text": "Dal 1° marzo, data di spedizione della domanda", "why_wrong": "L'art. 2, comma 6, fa decorrere il termine dal ricevimento della domanda, non dalla spedizione."},
+      {"id": "b", "text": "Dal 10 marzo, data di assegnazione al responsabile del procedimento", "why_wrong": "L'assegnazione della responsabilità (art. 5) è un atto interno che non incide sulla decorrenza fissata dall'art. 2, comma 6."},
+      {"id": "c", "text": "Dalla data in cui l'amministrazione comunica l'avvio del procedimento", "why_wrong": "Nei procedimenti a iniziativa di parte il termine decorre dal ricevimento della domanda, non dalla comunicazione di avvio (artt. 7 e 8)."},
+      {"id": "d", "text": "Dal 5 marzo, data di ricevimento della domanda", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2, comma 6, stabilisce che i termini decorrono dall'inizio del procedimento d'ufficio o, se il procedimento è a iniziativa di parte, dal ricevimento della domanda.",
+    "evidence": [
+      {"ref": "art. 2, comma 6", "text": "I termini per la conclusione del procedimento decorrono dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento è ad iniziativa di parte."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il responsabile di un procedimento comunale deve acquisire una certificazione relativa a fatti non attestati in documenti già in possesso dell'amministrazione. Ai sensi dell'art. 2, comma 7, della L. 241/1990, il termine di conclusione può essere sospeso:",
+    "options": [
+      {"id": "a", "text": "tutte le volte che è necessario, purché entro il termine di novanta giorni", "why_wrong": "La sospensione è consentita per una sola volta; novanta giorni è il limite dei termini fissati con i decreti del comma 3."},
+      {"id": "b", "text": "per una sola volta e per un periodo non superiore a trenta giorni", "why_wrong": null},
+      {"id": "c", "text": "per due volte, ciascuna per un periodo non superiore a quindici giorni", "why_wrong": "Il comma 7 ammette una sola sospensione, di durata non superiore a trenta giorni."},
+      {"id": "d", "text": "per una sola volta e per un periodo non superiore a sessanta giorni", "why_wrong": "La durata massima della sospensione è di trenta giorni."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 7, consente di sospendere i termini una sola volta, per non più di trenta giorni, per acquisire informazioni o certificazioni su fatti, stati o qualità non attestati in documenti già in possesso dell'amministrazione o non direttamente acquisibili presso altre PA.",
+    "evidence": [
+      {"ref": "art. 2, comma 7", "text": "possono essere sospesi, per una sola volta e per un periodo non superiore a trenta giorni, per l'acquisizione di informazioni o di certificazioni relative a fatti, stati o qualità non attestati in documenti già in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche amministrazioni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune adotta un provvedimento di diniego dopo la scadenza del termine previsto dall'art. 20, comma 1, della L. 241/1990, quando il silenzio assenso si è già formato. Tale diniego è:",
+    "options": [
+      {"id": "a", "text": "pienamente efficace, perché il provvedimento espresso prevale sul silenzio", "why_wrong": "L'art. 2, comma 8-bis, dichiara inefficaci le determinazioni adottate dopo la scadenza dei termini dell'art. 20, comma 1."},
+      {"id": "b", "text": "efficace solo se motivato con riferimento al punto di fatto o di diritto ritenuto risolutivo", "why_wrong": "La motivazione sintetica riguarda i provvedimenti in forma semplificata dell'art. 2, comma 1, e non sana la tardività."},
+      {"id": "c", "text": "efficace, ma soggetto al controllo della Corte dei conti", "why_wrong": "Alla Corte dei conti sono trasmesse le sentenze sul silenzio inadempimento (art. 2, comma 8); per le determinazioni tardive il comma 8-bis prevede l'inefficacia."},
+      {"id": "d", "text": "inefficace, fermo restando il potere di annullamento d'ufficio ove ne ricorrano i presupposti e le condizioni", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2, comma 8-bis, stabilisce che le determinazioni adottate dopo la scadenza dei termini degli artt. 14-bis, comma 2, lett. c), 17-bis, commi 1 e 3, e 20, comma 1, sono inefficaci, fermo restando l'art. 21-nonies ove ne ricorrano i presupposti e le condizioni.",
+    "evidence": [
+      {"ref": "art. 2, comma 8-bis", "text": "sono inefficaci, fermo restando quanto previsto dall'articolo 21-nonies, ove ne ricorrano i presupposti e le condizioni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 8-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi della L. 241/1990, la mancata o tardiva emanazione del provvedimento costituisce:",
+    "options": [
+      {"id": "a", "text": "elemento di responsabilità esclusiva dell'organo di governo", "why_wrong": "L'organo di governo individua il titolare del potere sostitutivo (comma 9-bis); la responsabilità del comma 9 è del dirigente e del funzionario inadempiente."},
+      {"id": "b", "text": "elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente", "why_wrong": null},
+      {"id": "c", "text": "causa di nullità del provvedimento adottato in ritardo", "why_wrong": "L'art. 2, comma 9, collega il ritardo a conseguenze sulla valutazione e sulla responsabilità del dirigente e del funzionario, non all'invalidità del provvedimento."},
+      {"id": "d", "text": "in ogni caso silenzio assenso sull'istanza del privato", "why_wrong": "Il silenzio assenso opera nei soli casi e alle condizioni dell'art. 20; il comma 9 dell'art. 2 disciplina le conseguenze per il dirigente e il funzionario."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 9, qualifica la mancata o tardiva emanazione del provvedimento come elemento di valutazione della performance individuale e di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente.",
+    "evidence": [
+      {"ref": "art. 2, comma 9", "text": "La mancata o tardiva emanazione del provvedimento costituisce elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 9", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "L'organo di governo di un ente non ha individuato il soggetto cui attribuire il potere sostitutivo in caso di inerzia. Ai sensi dell'art. 2, comma 9-bis, della L. 241/1990, il potere sostitutivo si considera attribuito:",
+    "options": [
+      {"id": "a", "text": "al dirigente generale o, in mancanza, al dirigente preposto all'ufficio o, in mancanza, al funzionario di più elevato livello presente nell'amministrazione", "why_wrong": null},
+      {"id": "b", "text": "allo stesso organo di governo", "why_wrong": "L'organo di governo è chi deve individuare il titolare del potere sostitutivo; in caso di omessa individuazione la legge indica il dirigente generale e, in subordine, il dirigente preposto all'ufficio o il funzionario di più elevato livello."},
+      {"id": "c", "text": "al responsabile del procedimento rimasto inerte", "why_wrong": "Il potere sostitutivo serve a superare l'inerzia di chi doveva provvedere; il comma 9-bis indica soggetti diversi."},
+      {"id": "d", "text": "a un commissario nominato dal Prefetto", "why_wrong": "La nomina di un commissario è uno strumento che il titolare del potere sostitutivo può usare per concludere il procedimento (comma 9-ter), non il criterio di attribuzione del potere."}
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 2, comma 9-bis, nell'ipotesi di omessa individuazione il potere sostitutivo spetta al dirigente generale o, in mancanza, al dirigente preposto all'ufficio o, in mancanza, al funzionario di più elevato livello.",
+    "evidence": [
+      {"ref": "art. 2, comma 9-bis", "text": "Nell'ipotesi di omessa individuazione il potere sostitutivo si considera attribuito al dirigente generale o, in mancanza, al dirigente preposto all'ufficio o in mancanza al funzionario di più elevato livello presente nell'amministrazione."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un procedimento doveva concludersi in sessanta giorni, ma il termine è decorso inutilmente. L'interessato si rivolge al titolare del potere sostitutivo. Entro quale termine questi deve concludere il procedimento?",
+    "options": [
+      {"id": "a", "text": "Quindici giorni", "why_wrong": "Il termine non è fisso: è pari alla metà di quello originariamente previsto, quindi trenta giorni."},
+      {"id": "b", "text": "Novanta giorni", "why_wrong": "Novanta giorni è il limite dei termini fissati con i decreti dell'art. 2, comma 3, non il termine per l'esercizio del potere sostitutivo."},
+      {"id": "c", "text": "Trenta giorni, pari alla metà del termine originariamente previsto", "why_wrong": null},
+      {"id": "d", "text": "Sessanta giorni, pari al termine originariamente previsto", "why_wrong": "L'art. 2, comma 9-ter, prevede un termine pari alla metà di quello originario."}
+    ],
+    "correct": "c",
+    "explanation": "Ai sensi dell'art. 2, comma 9-ter, il titolare del potere sostitutivo, d'ufficio o su richiesta dell'interessato, conclude il procedimento entro un termine pari alla metà di quello originariamente previsto, attraverso le strutture competenti o con la nomina di un commissario.",
+    "evidence": [
+      {"ref": "art. 2, comma 9-ter", "text": "esercita il potere sostitutivo e, entro un termine pari alla metà di quello originariamente previsto, conclude il procedimento attraverso le strutture competenti o con la nomina di un commissario."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il titolare del potere sostitutivo, entro il 30 gennaio di ogni anno, comunica i procedimenti nei quali non è stato rispettato il termine di conclusione:",
+    "options": [
+      {"id": "a", "text": "a ciascun interessato, mediante pubblicazione nella sezione \"Amministrazione trasparente\"", "why_wrong": "In \"Amministrazione trasparente\" si pubblicano i tempi effettivi di conclusione dei procedimenti (comma 4-bis); la comunicazione del comma 9-quater va all'organo di governo."},
+      {"id": "b", "text": "all'organo di governo", "why_wrong": null},
+      {"id": "c", "text": "alla Corte dei conti", "why_wrong": "Alla Corte dei conti sono trasmesse le sentenze passate in giudicato sul silenzio inadempimento (art. 2, comma 8)."},
+      {"id": "d", "text": "al dirigente generale", "why_wrong": "Il dirigente generale è il titolare residuale del potere sostitutivo in caso di omessa individuazione (comma 9-bis), non il destinatario della comunicazione annuale."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 9-quater, prevede che il responsabile individuato ai sensi del comma 9-bis comunichi entro il 30 gennaio di ogni anno all'organo di governo i procedimenti, suddivisi per tipologia e strutture, nei quali non è stato rispettato il termine di conclusione.",
+    "evidence": [
+      {"ref": "art. 2, comma 9-quater", "text": "Il responsabile individuato ai sensi del comma 9-bis, entro il 30 gennaio di ogni anno, comunica all'organo di governo, i procedimenti, suddivisi per tipologia e strutture amministrative competenti, nei quali non è stato rispettato il termine di conclusione previsto dalla legge o dai regolamenti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-quater", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 2-bis della L. 241/1990, le pubbliche amministrazioni sono tenute al risarcimento del danno ingiusto cagionato in conseguenza:",
+    "options": [
+      {"id": "a", "text": "del mero ritardo, a prescindere da dolo o colpa", "why_wrong": "Per il mero ritardo il comma 1-bis prevede un indennizzo, non il risarcimento, che richiede un'inosservanza dolosa o colposa."},
+      {"id": "b", "text": "della sola adozione di un provvedimento poi annullato in giudizio", "why_wrong": "Il comma 1 collega il risarcimento all'inosservanza dolosa o colposa del termine di conclusione."},
+      {"id": "c", "text": "dell'inosservanza del termine, solo se il procedimento era stato avviato d'ufficio", "why_wrong": "Il comma 1 non distingue tra procedimenti d'ufficio e a istanza di parte; è l'indennizzo del comma 1-bis a riguardare i procedimenti a istanza di parte."},
+      {"id": "d", "text": "dell'inosservanza dolosa o colposa del termine di conclusione del procedimento", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2-bis, comma 1, obbliga le pubbliche amministrazioni e i soggetti dell'art. 1, comma 1-ter, a risarcire il danno ingiusto cagionato dall'inosservanza dolosa o colposa del termine di conclusione del procedimento.",
+    "evidence": [
+      {"ref": "art. 2-bis, comma 1", "text": "Le pubbliche amministrazioni e i soggetti di cui all'articolo 1, comma 1-ter, sono tenuti al risarcimento del danno ingiusto cagionato in conseguenza dell'inosservanza dolosa o colposa del termine di conclusione del procedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il diritto all'indennizzo per il mero ritardo previsto dall'art. 2-bis, comma 1-bis, della L. 241/1990 è escluso nelle ipotesi:",
+    "options": [
+      {"id": "a", "text": "di procedimenti di acquisto della cittadinanza italiana e in materia di immigrazione", "why_wrong": "Questi procedimenti sono esclusi dal limite di centottanta giorni dell'art. 2, comma 4, non dall'indennizzo."},
+      {"id": "b", "text": "di procedimenti di competenza delle autorità di garanzia e di vigilanza", "why_wrong": "Le autorità di garanzia e vigilanza disciplinano i propri termini (art. 2, comma 5); non sono tra le esclusioni del comma 1-bis."},
+      {"id": "c", "text": "di silenzio qualificato e di concorsi pubblici", "why_wrong": null},
+      {"id": "d", "text": "di procedimenti tributari e di procedimenti in materia previdenziale", "why_wrong": "Sono ipotesi escluse da altre norme (art. 13 per la partecipazione; art. 10-bis per i motivi ostativi), non dall'indennizzo per ritardo."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2-bis, comma 1-bis, riconosce all'istante un indennizzo per il mero ritardo nei procedimenti a istanza di parte con obbligo di pronunciarsi, escluse le ipotesi di silenzio qualificato e dei concorsi pubblici.",
+    "evidence": [
+      {"ref": "art. 2-bis, comma 1-bis", "text": "Fatto salvo quanto previsto dal comma 1 e ad esclusione delle ipotesi di silenzio qualificato e dei concorsi pubblici, in caso di inosservanza del termine di conclusione del procedimento ad istanza di parte, per il quale sussiste l'obbligo di pronunziarsi, l'istante ha diritto di ottenere un indennizzo per il mero ritardo"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'impresa ottiene l'indennizzo per il mero ritardo e successivamente anche il risarcimento del danno per l'inosservanza colposa del termine. Ai sensi dell'art. 2-bis della L. 241/1990, le somme ricevute a titolo di indennizzo:",
+    "options": [
+      {"id": "a", "text": "sono detratte dal risarcimento", "why_wrong": null},
+      {"id": "b", "text": "si cumulano integralmente con il risarcimento", "why_wrong": "Il comma 1-bis prevede espressamente che le somme corrisposte a titolo di indennizzo siano detratte dal risarcimento."},
+      {"id": "c", "text": "devono essere restituite prima di ottenere il risarcimento", "why_wrong": "La legge non prevede la restituzione, ma la detrazione dal risarcimento."},
+      {"id": "d", "text": "sono trasmesse d'ufficio alla Corte dei conti", "why_wrong": "Alla Corte dei conti sono trasmesse le sentenze sul silenzio inadempimento (art. 2, comma 8), non le somme dell'indennizzo."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-bis, comma 1-bis, stabilisce che le somme corrisposte o da corrispondere a titolo di indennizzo sono detratte dal risarcimento.",
+    "evidence": [
+      {"ref": "art. 2-bis, comma 1-bis", "text": "In tal caso le somme corrisposte o da corrispondere a titolo di indennizzo sono detratte dal risarcimento"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 3 della L. 241/1990, la motivazione NON è richiesta:",
+    "options": [
+      {"id": "a", "text": "per i provvedimenti concernenti l'organizzazione amministrativa e il personale", "why_wrong": "Anche questi sono espressamente inclusi dal comma 1 tra i provvedimenti da motivare."},
+      {"id": "b", "text": "per i provvedimenti che dichiarano la manifesta inammissibilità della domanda", "why_wrong": "Sono provvedimenti in forma semplificata la cui motivazione può essere sintetica (art. 2, comma 1), ma non ne sono privi."},
+      {"id": "c", "text": "per gli atti normativi e per quelli a contenuto generale", "why_wrong": null},
+      {"id": "d", "text": "per i provvedimenti concernenti lo svolgimento dei pubblici concorsi", "why_wrong": "L'art. 3, comma 1, include espressamente i provvedimenti sui pubblici concorsi tra quelli da motivare."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 3, comma 2, esclude l'obbligo di motivazione soltanto per gli atti normativi e per quelli a contenuto generale; il comma 1 estende invece l'obbligo a ogni provvedimento, compresi quelli su organizzazione, concorsi e personale.",
+    "evidence": [
+      {"ref": "art. 3, comma 2", "text": "La motivazione non è richiesta per gli atti normativi e per quelli a contenuto generale."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 3, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-021",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 3 della L. 241/1990, la motivazione del provvedimento deve indicare:",
+    "options": [
+      {"id": "a", "text": "i presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria", "why_wrong": null},
+      {"id": "b", "text": "esclusivamente le norme di legge applicate", "why_wrong": "Il comma 1 richiede sia i presupposti di fatto sia le ragioni giuridiche, in relazione alle risultanze dell'istruttoria."},
+      {"id": "c", "text": "il termine previsto per la conclusione del procedimento e quello effettivamente impiegato", "why_wrong": "È un'indicazione richiesta nei provvedimenti rilasciati in ritardo su istanza di parte (art. 2, comma 9-quinquies), non il contenuto della motivazione."},
+      {"id": "d", "text": "l'amministrazione competente, l'oggetto del procedimento e la persona responsabile", "why_wrong": "Sono contenuti della comunicazione di avvio del procedimento (art. 8, comma 2)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 1, stabilisce che la motivazione indica i presupposti di fatto e le ragioni giuridiche della decisione, in relazione alle risultanze dell'istruttoria.",
+    "evidence": [
+      {"ref": "art. 3, comma 1", "text": "La motivazione deve indicare i presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 3, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-022",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune nega un'autorizzazione motivando esclusivamente con il richiamo a un parere tecnico reso da un altro ufficio. Ai sensi dell'art. 3 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il diniego è necessariamente illegittimo, perché la motivazione deve essere contenuta interamente nel provvedimento", "why_wrong": "L'art. 3, comma 3, ammette che le ragioni della decisione risultino da altro atto richiamato, purché questo sia indicato e reso disponibile."},
+      {"id": "b", "text": "il parere richiamato deve essere reso disponibile solo se il destinatario presenta istanza di accesso", "why_wrong": "Il comma 3 impone di indicare e rendere disponibile l'atto richiamato insieme alla comunicazione della decisione, senza attendere una richiesta."},
+      {"id": "c", "text": "il diniego deve essere preceduto da una conferenza di servizi", "why_wrong": "La conferenza di servizi è disciplinata dall'art. 14 per l'esame contestuale di più interessi pubblici; non è richiesta dall'art. 3 per la motivazione per relationem."},
+      {"id": "d", "text": "insieme alla comunicazione della decisione deve essere indicato e reso disponibile anche il parere richiamato", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "Per l'art. 3, comma 3, se le ragioni della decisione risultano da altro atto dell'amministrazione richiamato dalla decisione, insieme alla comunicazione di quest'ultima deve essere indicato e reso disponibile anche l'atto richiamato.",
+    "evidence": [
+      {"ref": "art. 3, comma 3", "text": "Se le ragioni della decisione risultano da altro atto dell'amministrazione richiamato dalla decisione stessa, insieme alla comunicazione di quest'ultima deve essere indicato e reso disponibile, a norma della presente legge, anche l'atto cui essa si richiama."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 3, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-023",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune notifica a un privato un'ordinanza. Ai sensi dell'art. 3, comma 4, della L. 241/1990, nell'atto notificato devono essere indicati:",
+    "options": [
+      {"id": "a", "text": "il soggetto cui è attribuito il potere sostitutivo", "why_wrong": "Il titolare del potere sostitutivo è indicato sul sito istituzionale dell'amministrazione (art. 2, comma 9-bis), non nell'atto notificato."},
+      {"id": "b", "text": "il termine e l'autorità cui è possibile ricorrere", "why_wrong": null},
+      {"id": "c", "text": "il termine previsto dalla legge e quello effettivamente impiegato", "why_wrong": "È l'indicazione richiesta nei provvedimenti rilasciati in ritardo su istanza di parte (art. 2, comma 9-quinquies)."},
+      {"id": "d", "text": "la data entro la quale il procedimento deve concludersi e i rimedi esperibili in caso di inerzia", "why_wrong": "Sono contenuti della comunicazione di avvio del procedimento (art. 8, comma 2, lett. c-bis)."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 3, comma 4, dispone che in ogni atto notificato al destinatario siano indicati il termine e l'autorità cui è possibile ricorrere.",
+    "evidence": [
+      {"ref": "art. 3, comma 4", "text": "In ogni atto notificato al destinatario devono essere indicati il termine e l'autorità cui è possibile ricorrere."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 3, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-024",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 4 della L. 241/1990, ove non sia già stabilito per legge o per regolamento, le pubbliche amministrazioni determinano per ciascun tipo di procedimento:",
+    "options": [
+      {"id": "a", "text": "il dipendente responsabile di ogni singolo procedimento", "why_wrong": "L'assegnazione della responsabilità del singolo procedimento spetta al dirigente dell'unità organizzativa (art. 5, comma 1); l'art. 4 riguarda l'unità organizzativa per tipo di procedimento."},
+      {"id": "b", "text": "il soggetto cui è attribuito il potere sostitutivo in caso di inerzia", "why_wrong": "Il titolare del potere sostitutivo è individuato dall'organo di governo (art. 2, comma 9-bis)."},
+      {"id": "c", "text": "i criteri e le modalità per la concessione di vantaggi economici", "why_wrong": "La predeterminazione dei criteri per sovvenzioni e contributi è disciplinata dall'art. 12."},
+      {"id": "d", "text": "l'unità organizzativa responsabile dell'istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 4, comma 1, impone alle pubbliche amministrazioni di determinare, per ciascun tipo di procedimento, l'unità organizzativa responsabile dell'istruttoria, di ogni altro adempimento e dell'adozione del provvedimento finale, salvo che vi abbia già provveduto la legge o un regolamento.",
+    "evidence": [
+      {"ref": "art. 4, comma 1", "text": "Ove non sia già direttamente stabilito per legge o per regolamento, le pubbliche amministrazioni sono tenute a determinare per ciascun tipo di procedimento relativo ad atti di loro competenza l'unità organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 4, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-025",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In un Comune è stato avviato un procedimento, ma il dirigente dell'unità organizzativa competente non ha ancora assegnato ad alcun dipendente la responsabilità dell'istruttoria. Chi è considerato responsabile del procedimento?",
+    "options": [
+      {"id": "a", "text": "Nessuno: finché non avviene l'assegnazione il procedimento non può proseguire", "why_wrong": "L'art. 5, comma 2, evita proprio questo vuoto, individuando un responsabile fino all'assegnazione."},
+      {"id": "b", "text": "Il funzionario preposto all'unità organizzativa competente", "why_wrong": null},
+      {"id": "c", "text": "Il dipendente che ha protocollato l'istanza", "why_wrong": "L'art. 5, comma 2, attribuisce la responsabilità, in mancanza di assegnazione, al funzionario preposto all'unità organizzativa."},
+      {"id": "d", "text": "Il segretario comunale, in quanto funzionario di più elevato livello", "why_wrong": "Il funzionario di più elevato livello è richiamato dall'art. 2, comma 9-bis, per il potere sostitutivo, non per la responsabilità del procedimento."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 5, comma 2, stabilisce che, fino a quando non sia effettuata l'assegnazione di cui al comma 1, è considerato responsabile del singolo procedimento il funzionario preposto all'unità organizzativa determinata ai sensi dell'art. 4.",
+    "evidence": [
+      {"ref": "art. 5, comma 2", "text": "Fino a quando non sia effettuata l'assegnazione di cui al comma 1, è considerato responsabile del singolo procedimento il funzionario preposto alla unità organizzativa determinata a norma del comma 1 dell'articolo 4."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 5, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-026",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 5, comma 3, della L. 241/1990, l'unità organizzativa competente, il domicilio digitale e il nominativo del responsabile del procedimento sono comunicati:",
+    "options": [
+      {"id": "a", "text": "ai soggetti destinatari della comunicazione di avvio e, a richiesta, a chiunque vi abbia interesse", "why_wrong": null},
+      {"id": "b", "text": "soltanto ai soggetti che hanno presentato l'istanza", "why_wrong": "Il comma 3 rinvia ai soggetti dell'art. 7 (destinatari degli effetti diretti e soggetti che per legge devono intervenire) e, a richiesta, a chiunque vi abbia interesse."},
+      {"id": "c", "text": "a chiunque, mediante pubblicazione obbligatoria nella sezione \"Amministrazione trasparente\"", "why_wrong": "In \"Amministrazione trasparente\" la legge prevede la pubblicazione dei tempi effettivi dei procedimenti (art. 2, comma 4-bis); il comma 3 dell'art. 5 prevede una comunicazione ai soggetti dell'art. 7 e, a richiesta, agli interessati."},
+      {"id": "d", "text": "solo all'organo competente all'adozione del provvedimento finale", "why_wrong": "Il comma 3 indica come destinatari i soggetti dell'art. 7 e chiunque vi abbia interesse, su richiesta."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, comma 3, prevede che l'unità organizzativa competente, il domicilio digitale e il nominativo del responsabile siano comunicati ai soggetti dell'art. 7 e, a richiesta, a chiunque vi abbia interesse.",
+    "evidence": [
+      {"ref": "art. 5, comma 3", "text": "e il nominativo del responsabile del procedimento sono comunicati ai soggetti di cui all'articolo 7 e, a richiesta, a chiunque vi abbia interesse."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 5, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-027",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quale dei seguenti compiti spetta al responsabile del procedimento ai sensi dell'art. 6 della L. 241/1990?",
+    "options": [
+      {"id": "a", "text": "Individuare il soggetto cui attribuire il potere sostitutivo", "why_wrong": "È compito dell'organo di governo (art. 2, comma 9-bis)."},
+      {"id": "b", "text": "Assegnare a sé o ad altro dipendente la responsabilità dei singoli procedimenti", "why_wrong": "È compito del dirigente di ciascuna unità organizzativa (art. 5, comma 1)."},
+      {"id": "c", "text": "Accertare d'ufficio i fatti, potendo chiedere il rilascio di dichiarazioni e la rettifica di dichiarazioni o istanze erronee o incomplete", "why_wrong": null},
+      {"id": "d", "text": "Determinare per ciascun tipo di procedimento l'unità organizzativa responsabile", "why_wrong": "È un compito delle pubbliche amministrazioni ai sensi dell'art. 4, comma 1."}
+    ],
+    "correct": "c",
+    "explanation": "Tra i compiti del responsabile del procedimento, l'art. 6, comma 1, lett. b), prevede l'accertamento d'ufficio dei fatti, con la possibilità di chiedere il rilascio di dichiarazioni e la rettifica di dichiarazioni o istanze erronee o incomplete, di esperire accertamenti tecnici e ispezioni e di ordinare esibizioni documentali.",
+    "evidence": [
+      {"ref": "art. 6, comma 1", "text": "accerta di ufficio i fatti, disponendo il compimento degli atti all'uopo necessari, e adotta ogni misura per l'adeguato e sollecito svolgimento dell'istruttoria. In particolare, può chiedere il rilascio di dichiarazioni e la rettifica di dichiarazioni o istanze erronee o incomplete"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-028",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il responsabile del procedimento trasmette gli atti alla Giunta comunale, competente per l'adozione del provvedimento finale. La Giunta intende decidere in modo diverso dalle risultanze dell'istruttoria. Ai sensi dell'art. 6 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "deve restituire gli atti al responsabile perché rinnovi l'istruttoria", "why_wrong": "La legge non prevede la restituzione degli atti: l'organo competente può discostarsi motivando nel provvedimento finale."},
+      {"id": "b", "text": "può discostarsene solo indicandone la motivazione nel provvedimento finale", "why_wrong": null},
+      {"id": "c", "text": "è vincolata alle risultanze dell'istruttoria e non può in alcun caso discostarsene", "why_wrong": "L'art. 6, comma 1, lett. e), consente all'organo competente di discostarsi, purché ne indichi la motivazione nel provvedimento finale."},
+      {"id": "d", "text": "può discostarsene liberamente, essendo l'organo competente per il provvedimento", "why_wrong": "Il discostamento è ammesso solo con indicazione della motivazione nel provvedimento finale."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 6, comma 1, lett. e), stabilisce che l'organo competente per l'adozione del provvedimento finale, se diverso dal responsabile del procedimento, non può discostarsi dalle risultanze dell'istruttoria se non indicandone la motivazione nel provvedimento finale.",
+    "evidence": [
+      {"ref": "art. 6, comma 1", "text": "L'organo competente per l'adozione del provvedimento finale, ove diverso dal responsabile del procedimento, non può discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento se non indicandone la motivazione nel provvedimento finale"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-029",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 6, comma 1, lett. c), della L. 241/1990, in materia di conferenza di servizi il responsabile del procedimento:",
+    "options": [
+      {"id": "a", "text": "indice sempre le conferenze di servizi, indipendentemente dalla competenza", "why_wrong": "La lett. c) distingue: il responsabile indice la conferenza solo se ne ha la competenza, altrimenti ne propone l'indizione."},
+      {"id": "b", "text": "non ha alcun ruolo, poiché la conferenza è indetta solo dall'organo di governo", "why_wrong": "La lett. c) attribuisce al responsabile il compito di proporre o, se competente, indire la conferenza."},
+      {"id": "c", "text": "decide sulle opposizioni proposte avverso la determinazione conclusiva della conferenza", "why_wrong": "Sulle opposizioni decide, in ultima istanza, il Consiglio dei ministri (art. 14-quinquies)."},
+      {"id": "d", "text": "propone l'indizione o, avendone la competenza, indice le conferenze di servizi", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 6, comma 1, lett. c), prevede che il responsabile del procedimento proponga l'indizione o, avendone la competenza, indica le conferenze di servizi dell'art. 14.",
+    "evidence": [
+      {"ref": "art. 6, comma 1", "text": "propone l'indizione o, avendone la competenza, indice le conferenze di servizi di cui all'articolo 14"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c12-030",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il funzionario di un Comune incaricato di rendere una valutazione tecnica in un procedimento si trova in una situazione di conflitto di interessi soltanto potenziale. Ai sensi dell'art. 6-bis della L. 241/1990, egli:",
+    "options": [
+      {"id": "a", "text": "può rendere la valutazione, poiché l'obbligo di astensione riguarda solo il responsabile del procedimento", "why_wrong": "L'obbligo grava anche sui titolari degli uffici competenti ad adottare pareri, valutazioni tecniche, atti endoprocedimentali e il provvedimento finale."},
+      {"id": "b", "text": "deve limitarsi a segnalare il conflitto nel provvedimento finale", "why_wrong": "L'art. 6-bis richiede l'astensione, oltre alla segnalazione del conflitto."},
+      {"id": "c", "text": "deve astenersi, segnalando la situazione di conflitto", "why_wrong": null},
+      {"id": "d", "text": "può rendere la valutazione, poiché l'obbligo di astensione riguarda solo i conflitti attuali", "why_wrong": "L'art. 6-bis impone l'astensione e la segnalazione in caso di conflitto di interessi anche potenziale."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 6-bis obbliga il responsabile del procedimento e i titolari degli uffici competenti ad adottare pareri, valutazioni tecniche, atti endoprocedimentali e il provvedimento finale ad astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale.",
+    "evidence": [
+      {"ref": "art. 6-bis, comma 1", "text": "Il responsabile del procedimento e i titolari degli uffici competenti ad adottare i pareri, le valutazioni tecniche, gli atti endoprocedimentali e il provvedimento finale devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 6-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
