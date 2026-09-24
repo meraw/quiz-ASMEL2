@@ -18,5 +18,608 @@
     "source_date": "2026-09-24",
     "status": "verificata",
     "no_shuffle": true
+  },
+  {
+    "id": "l241-c4bis-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-bis della L. 241/1990, il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario:",
+    "options": [
+      { "id": "a", "text": "con la comunicazione allo stesso effettuata", "why_wrong": null },
+      { "id": "b", "text": "dal momento della sua adozione, indipendentemente dalla comunicazione", "why_wrong": "L'art. 21-bis, comma 1, collega l'efficacia alla comunicazione al destinatario, non all'adozione." },
+      { "id": "c", "text": "con l'esecuzione coattiva, previa diffida", "why_wrong": "La diffida precede l'esecuzione coattiva degli obblighi (art. 21-ter, comma 1): non riguarda l'acquisto di efficacia." },
+      { "id": "d", "text": "decorsi sei mesi dalla sua adozione", "why_wrong": "Sei mesi è il termine massimo per l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici (art. 21-novies, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-bis, comma 1, stabilisce che il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario con la comunicazione allo stesso effettuata.",
+    "evidence": [
+      { "ref": "art. 21-bis, comma 1", "text": "Il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario con la comunicazione allo stesso effettuata anche nelle forme stabilite per la notifica agli irreperibili nei casi previsti dal codice di procedura civile" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-bis della L. 241/1990, quale provvedimento limitativo della sfera giuridica dei privati può contenere una motivata clausola di immediata efficacia?",
+    "options": [
+      { "id": "a", "text": "Quello avente carattere sanzionatorio", "why_wrong": "L'art. 21-bis, comma 1, riferisce la clausola al provvedimento non avente carattere sanzionatorio." },
+      { "id": "b", "text": "Quello non avente carattere sanzionatorio", "why_wrong": null },
+      { "id": "c", "text": "Soltanto quello avente carattere cautelare ed urgente", "why_wrong": "I provvedimenti aventi carattere cautelare ed urgente sono immediatamente efficaci per legge (art. 21-bis, comma 1)." },
+      { "id": "d", "text": "Soltanto quello comunicato mediante forme di pubblicità idonee", "why_wrong": "Le forme di pubblicità idonee riguardano i casi in cui la comunicazione personale non è possibile o è particolarmente gravosa per il numero dei destinatari (art. 21-bis, comma 1)." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-bis, comma 1, consente la motivata clausola di immediata efficacia nel provvedimento limitativo non avente carattere sanzionatorio; quelli cautelari ed urgenti sono immediatamente efficaci.",
+    "evidence": [
+      { "ref": "art. 21-bis, comma 1", "text": "Il provvedimento limitativo della sfera giuridica dei privati non avente carattere sanzionatorio può contenere una motivata clausola di immediata efficacia. I provvedimenti limitativi della sfera giuridica dei privati aventi carattere cautelare ed urgente sono immediatamente efficaci" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune adotta un provvedimento limitativo della sfera giuridica dei privati rivolto a un numero di destinatari così elevato che la comunicazione personale risulta particolarmente gravosa. Come provvede, ai sensi dell'art. 21-bis della L. 241/1990?",
+    "options": [
+      { "id": "a", "text": "Il provvedimento acquista efficacia senza alcuna forma di comunicazione", "why_wrong": "In questo caso l'art. 21-bis, comma 1, prevede forme di pubblicità idonee, non l'efficacia senza comunicazione." },
+      { "id": "b", "text": "Deve comunque notificarlo a ciascun destinatario nelle forme stabilite per la notifica agli irreperibili", "why_wrong": "Le forme della notifica agli irreperibili valgono nei casi previsti dal codice di procedura civile; per il numero dei destinatari l'art. 21-bis prevede forme di pubblicità idonee." },
+      { "id": "c", "text": "Mediante forme di pubblicità idonee di volta in volta stabilite dall'amministrazione medesima", "why_wrong": null },
+      { "id": "d", "text": "Inserendo nel provvedimento una motivata clausola di immediata efficacia", "why_wrong": "La clausola di immediata efficacia riguarda i provvedimenti limitativi non sanzionatori; per il numero dei destinatari l'art. 21-bis prevede forme di pubblicità idonee." }
+    ],
+    "correct": "c",
+    "explanation": "Quando per il numero dei destinatari la comunicazione personale non è possibile o è particolarmente gravosa, l'art. 21-bis, comma 1, prevede che l'amministrazione provveda mediante forme di pubblicità idonee da essa stabilite.",
+    "evidence": [
+      { "ref": "art. 21-bis, comma 1", "text": "Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede mediante forme di pubblicità idonee di volta in volta stabilite dall'amministrazione medesima." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-ter della L. 241/1990, se l'interessato non ottempera agli obblighi imposti da un provvedimento, le pubbliche amministrazioni possono provvedere all'esecuzione coattiva:",
+    "options": [
+      { "id": "a", "text": "In ogni caso, senza necessità di diffida", "why_wrong": "L'art. 21-ter, comma 1, richiede la previa diffida e rinvia alle ipotesi e modalità previste dalla legge." },
+      { "id": "b", "text": "Previa diffida, nelle ipotesi e secondo le modalità stabilite dal provvedimento stesso", "why_wrong": "Il provvedimento indica termine e modalità dell'esecuzione da parte del soggetto obbligato; l'esecuzione coattiva avviene nelle ipotesi e secondo le modalità previste dalla legge (art. 21-ter, comma 1)." },
+      { "id": "c", "text": "Solo dopo averne sospeso l'efficacia per gravi ragioni", "why_wrong": "La sospensione per gravi ragioni è disciplinata dall'art. 21-quater, comma 2, e non è presupposto dell'esecuzione coattiva." },
+      { "id": "d", "text": "Previa diffida, nelle ipotesi e secondo le modalità previste dalla legge", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-ter, comma 1, stabilisce che, se l'interessato non ottempera, le amministrazioni, previa diffida, possono provvedere all'esecuzione coattiva nelle ipotesi e secondo le modalità previste dalla legge.",
+    "evidence": [
+      { "ref": "art. 21-ter, comma 1", "text": "Nei casi e con le modalità stabiliti dalla legge, le pubbliche amministrazioni possono imporre coattivamente l'adempimento degli obblighi nei loro confronti. Il provvedimento costitutivo di obblighi indica il termine e le modalità dell'esecuzione da parte del soggetto obbligato. Qualora l'interessato non ottemperi, le pubbliche amministrazioni, previa diffida, possono provvedere all'esecuzione coattiva nelle ipotesi e secondo le modalità previste dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-ter, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune deve procedere all'esecuzione coattiva di un'obbligazione avente ad oggetto una somma di denaro dovuta da un privato. Quali disposizioni si applicano, secondo l'art. 21-ter della L. 241/1990?",
+    "options": [
+      { "id": "a", "text": "Le disposizioni per l'esecuzione coattiva dei crediti dello Stato", "why_wrong": null },
+      { "id": "b", "text": "Le modalità liberamente stabilite dal Comune nel provvedimento", "why_wrong": "Per le obbligazioni di somme di denaro l'art. 21-ter, comma 2, rinvia alle disposizioni per l'esecuzione coattiva dei crediti dello Stato." },
+      { "id": "c", "text": "Le disposizioni sul recesso unilaterale previste dal contratto", "why_wrong": "Il recesso unilaterale dai contratti della pubblica amministrazione è disciplinato dall'art. 21-sexies." },
+      { "id": "d", "text": "Le forme stabilite per la notifica agli irreperibili", "why_wrong": "Le forme della notifica agli irreperibili riguardano la comunicazione del provvedimento limitativo (art. 21-bis, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-ter, comma 2, prevede che per l'esecuzione delle obbligazioni aventi ad oggetto somme di denaro si applichino le disposizioni per l'esecuzione coattiva dei crediti dello Stato.",
+    "evidence": [
+      { "ref": "art. 21-ter, comma 2", "text": "Ai fini dell'esecuzione delle obbligazioni aventi ad oggetto somme di denaro si applicano le disposizioni per l'esecuzione coattiva dei crediti dello Stato" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-ter, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-quater della L. 241/1990, i provvedimenti amministrativi efficaci:",
+    "options": [
+      { "id": "a", "text": "Sono eseguiti decorsi trenta giorni dalla comunicazione al destinatario", "why_wrong": "L'art. 21-quater, comma 1, prevede l'esecuzione immediata, salvo diversa previsione della legge o del provvedimento." },
+      { "id": "b", "text": "Sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo", "why_wrong": null },
+      { "id": "c", "text": "Sono eseguiti solo dopo la scadenza del termine per l'annullamento d'ufficio", "why_wrong": "Il termine per l'annullamento d'ufficio (art. 21-novies, comma 1) non condiziona l'esecuzione; l'art. 21-quater, comma 1, prevede l'esecuzione immediata." },
+      { "id": "d", "text": "Sono eseguiti immediatamente, senza che la legge o il provvedimento possano disporre diversamente", "why_wrong": "L'art. 21-quater, comma 1, fa salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-quater, comma 1, stabilisce che i provvedimenti efficaci sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo.",
+    "evidence": [
+      { "ref": "art. 21-quater, comma 1", "text": "I provvedimenti amministrativi efficaci sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In base all'art. 21-quater, comma 2, della L. 241/1990, il termine della sospensione dell'efficacia o dell'esecuzione del provvedimento amministrativo:",
+    "options": [
+      { "id": "a", "text": "Può essere prorogato o differito più volte, finché persistono le gravi ragioni", "why_wrong": "L'art. 21-quater, comma 2, ammette la proroga o il differimento per una sola volta." },
+      { "id": "b", "text": "Può essere prorogato o differito, ma non può mai essere ridotto", "why_wrong": "L'art. 21-quater, comma 2, consente la riduzione del termine per sopravvenute esigenze." },
+      { "id": "c", "text": "È esplicitamente indicato nell'atto che la dispone e può essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze", "why_wrong": null },
+      { "id": "d", "text": "È fissato dalla legge in sei mesi dalla data dell'atto che la dispone", "why_wrong": "Sei mesi è il termine massimo per l'annullamento d'ufficio (art. 21-novies, comma 1); il termine della sospensione è indicato nell'atto che la dispone." }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21-quater, comma 2, prevede che il termine della sospensione sia indicato esplicitamente nell'atto che la dispone e che possa essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze.",
+    "evidence": [
+      { "ref": "art. 21-quater, comma 2", "text": "Il termine della sospensione è esplicitamente indicato nell'atto che la dispone e può essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune ha rilasciato un provvedimento e, per gravi ragioni, intende sospenderne l'efficacia. Quale limite pone l'art. 21-quater della L. 241/1990 alla durata della sospensione?",
+    "options": [
+      { "id": "a", "text": "La sospensione non può superare trenta giorni, prorogabili una sola volta", "why_wrong": "L'art. 21-quater, comma 2, non fissa un termine in giorni: il termine è indicato nell'atto e il limite è costituito dai termini dell'art. 21-novies." },
+      { "id": "b", "text": "La sospensione non può perdurare oltre i termini previsti per la revoca", "why_wrong": "Il limite fissato dall'art. 21-quater, comma 2, è riferito ai termini per l'annullamento d'ufficio (art. 21-novies), non alla revoca." },
+      { "id": "c", "text": "La sospensione può durare senza limiti, purché l'atto indichi le gravi ragioni", "why_wrong": "L'art. 21-quater, comma 2, ammette la sospensione per il tempo strettamente necessario e mai oltre i termini per l'annullamento d'ufficio." },
+      { "id": "d", "text": "La sospensione non può essere disposta o perdurare oltre i termini per l'esercizio del potere di annullamento d'ufficio", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-quater, comma 2, consente la sospensione per gravi ragioni e per il tempo strettamente necessario, precisando che essa non può comunque essere disposta o perdurare oltre i termini per l'esercizio del potere di annullamento dell'art. 21-nonies.",
+    "evidence": [
+      { "ref": "art. 21-quater, comma 2", "text": "L'efficacia ovvero l'esecuzione del provvedimento amministrativo può essere sospesa, per gravi ragioni e per il tempo strettamente necessario, dallo stesso organo che lo ha emanato ovvero da altro organo previsto dalla legge. Il termine della sospensione è esplicitamente indicato nell'atto che la dispone e può essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze. ((La sospensione non può comunque essere disposta o perdurare oltre i termini per l'esercizio del potere di annullamento di cui all'articolo 21-nonies.))" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-quinquies della L. 241/1990, quale dei seguenti è un presupposto per la revoca del provvedimento amministrativo ad efficacia durevole?",
+    "options": [
+      { "id": "a", "text": "Il mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento", "why_wrong": null },
+      { "id": "b", "text": "La violazione di legge", "why_wrong": "La violazione di legge è causa di annullabilità (art. 21-octies, comma 1)." },
+      { "id": "c", "text": "Il difetto assoluto di attribuzione", "why_wrong": "Il difetto assoluto di attribuzione è causa di nullità (art. 21-septies, comma 1)." },
+      { "id": "d", "text": "L'incompetenza dell'organo che lo ha emanato", "why_wrong": "L'incompetenza è causa di annullabilità (art. 21-octies, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-quinquies, comma 1, consente la revoca per sopravvenuti motivi di pubblico interesse, per mutamento della situazione di fatto non prevedibile al momento dell'adozione o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, per nuova valutazione dell'interesse pubblico originario.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "((Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, di nuova valutazione dell'interesse pubblico originario)) , il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-quinquies della L. 241/1990, la revoca del provvedimento amministrativo determina:",
+    "options": [
+      { "id": "a", "text": "La nullità del provvedimento revocato", "why_wrong": "I casi di nullità sono indicati dall'art. 21-septies, comma 1." },
+      { "id": "b", "text": "La convalida del provvedimento revocato", "why_wrong": "La convalida riguarda il provvedimento annullabile (art. 21-novies, comma 2)." },
+      { "id": "c", "text": "La inidoneità del provvedimento revocato a produrre ulteriori effetti", "why_wrong": null },
+      { "id": "d", "text": "La sospensione dell'efficacia del provvedimento per il tempo strettamente necessario", "why_wrong": "La sospensione dell'efficacia è disciplinata dall'art. 21-quater, comma 2." }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21-quinquies, comma 1, stabilisce che la revoca determina la inidoneità del provvedimento revocato a produrre ulteriori effetti.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "La revoca determina la inidoneità del provvedimento revocato a produrre ulteriori effetti." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune revoca, per sopravvenuti motivi di pubblico interesse, un provvedimento ad efficacia durevole, causando un pregiudizio al soggetto direttamente interessato. Quale conseguenza prevede l'art. 21-quinquies della L. 241/1990?",
+    "options": [
+      { "id": "a", "text": "Nessuna, perché la revoca per motivi di pubblico interesse è legittima", "why_wrong": "L'art. 21-quinquies, comma 1, prevede l'obbligo di indennizzo se la revoca comporta pregiudizi ai soggetti direttamente interessati." },
+      { "id": "b", "text": "L'amministrazione ha l'obbligo di provvedere al suo indennizzo", "why_wrong": null },
+      { "id": "c", "text": "La revoca è efficace solo previa diffida all'interessato", "why_wrong": "La previa diffida è prevista per l'esecuzione coattiva (art. 21-ter, comma 1)." },
+      { "id": "d", "text": "L'amministrazione deve convalidare il provvedimento entro un termine ragionevole", "why_wrong": "La convalida riguarda il provvedimento annullabile (art. 21-novies, comma 2)." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-quinquies, comma 1, stabilisce che, se la revoca comporta pregiudizi in danno dei soggetti direttamente interessati, l'amministrazione ha l'obbligo di provvedere al loro indennizzo.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "Se la revoca comporta pregiudizi in danno dei soggetti direttamente interessati, l'amministrazione ha l'obbligo di provvedere al loro indennizzo." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-quinquies, comma 1-bis, della L. 241/1990, quando la revoca di un atto amministrativo incide su rapporti negoziali, l'indennizzo liquidato dall'amministrazione agli interessati:",
+    "options": [
+      { "id": "a", "text": "Comprende il danno emergente e il lucro cessante", "why_wrong": "Il comma 1-bis parametra l'indennizzo al solo danno emergente." },
+      { "id": "b", "text": "È escluso se l'atto revocato era ad efficacia istantanea", "why_wrong": "Il comma 1-bis si applica alla revoca di atti ad efficacia durevole o istantanea." },
+      { "id": "c", "text": "Non tiene conto dell'eventuale concorso dei contraenti all'erronea valutazione della compatibilità dell'atto con l'interesse pubblico", "why_wrong": "Il comma 1-bis prevede espressamente che l'indennizzo tenga conto di tale concorso." },
+      { "id": "d", "text": "È parametrato al solo danno emergente", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-quinquies, comma 1-bis, prevede che, quando la revoca incide su rapporti negoziali, l'indennizzo sia parametrato al solo danno emergente, tenendo conto della conoscenza o conoscibilità della contrarietà all'interesse pubblico e dell'eventuale concorso dei contraenti.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1-bis", "text": "Ove la revoca di un atto amministrativo ad efficacia durevole o istantanea incida su rapporti negoziali, l'indennizzo liquidato dall'amministrazione agli interessati è parametrato al solo danno emergente e tiene conto sia dell'eventuale conoscenza o conoscibilità da parte dei contraenti della contrarietà dell'atto amministrativo oggetto di revoca all'interesse pubblico, sia dell'eventuale concorso dei contraenti o di altri soggetti all'erronea valutazione della compatibilità di tale atto con l'interesse pubblico." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1-bis", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune ha rilasciato un'autorizzazione ad efficacia durevole. Senza che siano sopravvenuti motivi di pubblico interesse né mutamenti della situazione di fatto, intende revocarla sulla sola base di una nuova valutazione dell'interesse pubblico originario. Secondo l'art. 21-quinquies della L. 241/1990:",
+    "options": [
+      { "id": "a", "text": "La revoca è ammessa, purché disposta entro sei mesi dal rilascio", "why_wrong": "Il termine di sei mesi riguarda l'annullamento d'ufficio (art. 21-novies, comma 1)." },
+      { "id": "b", "text": "La nuova valutazione dell'interesse pubblico originario non è presupposto di revoca per i provvedimenti di autorizzazione", "why_wrong": null },
+      { "id": "c", "text": "La revoca è ammessa, purché l'amministrazione corrisponda un indennizzo", "why_wrong": "L'art. 21-quinquies, comma 1, esclude la nuova valutazione dell'interesse pubblico originario per i provvedimenti di autorizzazione, a prescindere dall'indennizzo." },
+      { "id": "d", "text": "L'autorizzazione deve essere annullata d'ufficio anziché revocata", "why_wrong": "L'annullamento d'ufficio riguarda il provvedimento illegittimo ai sensi dell'art. 21-octies (art. 21-novies, comma 1)." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-quinquies, comma 1, ammette la revoca per nuova valutazione dell'interesse pubblico originario \"salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici\".",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "((Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, di nuova valutazione dell'interesse pubblico originario)) , il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quale elemento accomuna la revoca (art. 21-quinquies) e l'annullamento d'ufficio (art. 21-novies) nella L. 241/1990?",
+    "options": [
+      { "id": "a", "text": "Entrambi presuppongono che il provvedimento sia illegittimo", "why_wrong": "L'illegittimità ai sensi dell'art. 21-octies è presupposto del solo annullamento d'ufficio; la revoca si fonda sui motivi indicati dall'art. 21-quinquies, comma 1." },
+      { "id": "b", "text": "Entrambi devono intervenire entro sei mesi dall'adozione del provvedimento", "why_wrong": "Il limite di sei mesi è previsto dall'art. 21-novies, comma 1, per l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici." },
+      { "id": "c", "text": "Entrambi comportano l'obbligo di indennizzo dei soggetti pregiudicati", "why_wrong": "L'obbligo di indennizzo è previsto dall'art. 21-quinquies per la revoca." },
+      { "id": "d", "text": "Entrambi possono essere disposti dall'organo che ha emanato il provvedimento ovvero da altro organo previsto dalla legge", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Sia l'art. 21-quinquies, comma 1, sia l'art. 21-novies, comma 1, attribuiscono il potere all'organo che ha emanato il provvedimento ovvero ad altro organo previsto dalla legge.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "((Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, di nuova valutazione dell'interesse pubblico originario)) , il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge." },
+      { "ref": "art. 21-novies, comma 1", "text": "Il provvedimento amministrativo illegittimo ai sensi dell'articolo 21-octies, esclusi i casi di cui al medesimo articolo 21-octies, comma 2, può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici, inclusi i casi in cui il provvedimento si sia formato ai sensi dell'articolo 20, e tenendo conto degli interessi dei destinatari e dei controinteressati, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-sexies della L. 241/1990, il recesso unilaterale dai contratti della pubblica amministrazione è ammesso:",
+    "options": [
+      { "id": "a", "text": "Nei casi previsti dalla legge o dal contratto", "why_wrong": null },
+      { "id": "b", "text": "Sempre, per sopravvenuti motivi di pubblico interesse", "why_wrong": "I sopravvenuti motivi di pubblico interesse sono presupposto della revoca (art. 21-quinquies, comma 1)." },
+      { "id": "c", "text": "Soltanto nei casi previsti dalla legge", "why_wrong": "L'art. 21-sexies ammette il recesso nei casi previsti dalla legge o dal contratto." },
+      { "id": "d", "text": "In ogni caso, con indennizzo parametrato al solo danno emergente", "why_wrong": "L'indennizzo parametrato al solo danno emergente riguarda la revoca che incide su rapporti negoziali (art. 21-quinquies, comma 1-bis)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-sexies, comma 1, stabilisce che il recesso unilaterale dai contratti della pubblica amministrazione è ammesso nei casi previsti dalla legge o dal contratto.",
+    "evidence": [
+      { "ref": "art. 21-sexies, comma 1", "text": "Il recesso unilaterale dai contratti della pubblica amministrazione è ammesso nei casi previsti dalla legge o dal contratto" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-sexies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi della L. 241/1990, quale dei seguenti vizi determina la nullità del provvedimento amministrativo?",
+    "options": [
+      { "id": "a", "text": "L'incompetenza", "why_wrong": "L'incompetenza è causa di annullabilità (art. 21-octies, comma 1)." },
+      { "id": "b", "text": "Il difetto assoluto di attribuzione", "why_wrong": null },
+      { "id": "c", "text": "L'eccesso di potere", "why_wrong": "L'eccesso di potere è causa di annullabilità (art. 21-octies, comma 1)." },
+      { "id": "d", "text": "La violazione di legge", "why_wrong": "La violazione di legge è causa di annullabilità (art. 21-octies, comma 1)." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-septies, comma 1, prevede la nullità del provvedimento viziato da difetto assoluto di attribuzione; incompetenza, eccesso di potere e violazione di legge sono cause di annullabilità (art. 21-octies, comma 1).",
+    "evidence": [
+      { "ref": "art. 21-septies, comma 1", "text": "È nullo il provvedimento amministrativo che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune adotta un provvedimento in elusione del giudicato formatosi su una sentenza che lo riguarda. Secondo la L. 241/1990, il provvedimento è:",
+    "options": [
+      { "id": "a", "text": "Annullabile per violazione di legge", "why_wrong": "La violazione o elusione del giudicato è espressamente indicata tra le cause di nullità dall'art. 21-septies, comma 1." },
+      { "id": "b", "text": "Revocabile per sopravvenuti motivi di pubblico interesse", "why_wrong": "La revoca (art. 21-quinquies) non riguarda i vizi del provvedimento." },
+      { "id": "c", "text": "Nullo", "why_wrong": null },
+      { "id": "d", "text": "Valido, ma la sua efficacia può essere sospesa per gravi ragioni", "why_wrong": "La sospensione per gravi ragioni è disciplinata dall'art. 21-quater, comma 2; l'art. 21-septies qualifica questo provvedimento come nullo." }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21-septies, comma 1, stabilisce che è nullo il provvedimento adottato in violazione o elusione del giudicato.",
+    "evidence": [
+      { "ref": "art. 21-septies, comma 1", "text": "È nullo il provvedimento amministrativo che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-septies della L. 241/1990, è nullo il provvedimento amministrativo:",
+    "options": [
+      { "id": "a", "text": "Che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione o da incompetenza", "why_wrong": "L'incompetenza è causa di annullabilità (art. 21-octies, comma 1)." },
+      { "id": "b", "text": "Che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, e in nessun altro caso", "why_wrong": "L'art. 21-septies, comma 1, aggiunge \"gli altri casi espressamente previsti dalla legge\"." },
+      { "id": "c", "text": "Adottato in violazione di legge o viziato da eccesso di potere", "why_wrong": "Sono cause di annullabilità (art. 21-octies, comma 1)." },
+      { "id": "d", "text": "Che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-septies, comma 1, elenca le cause di nullità: mancanza degli elementi essenziali, difetto assoluto di attribuzione, violazione o elusione del giudicato e gli altri casi espressamente previsti dalla legge.",
+    "evidence": [
+      { "ref": "art. 21-septies, comma 1", "text": "È nullo il provvedimento amministrativo che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-octies, comma 1, della L. 241/1990, è annullabile il provvedimento amministrativo:",
+    "options": [
+      { "id": "a", "text": "Adottato in violazione di legge o viziato da eccesso di potere o da incompetenza", "why_wrong": null },
+      { "id": "b", "text": "Che manca degli elementi essenziali", "why_wrong": "La mancanza degli elementi essenziali è causa di nullità (art. 21-septies, comma 1)." },
+      { "id": "c", "text": "Adottato in violazione o elusione del giudicato", "why_wrong": "La violazione o elusione del giudicato è causa di nullità (art. 21-septies, comma 1)." },
+      { "id": "d", "text": "Viziato da difetto assoluto di attribuzione o da incompetenza", "why_wrong": "Il difetto assoluto di attribuzione è causa di nullità (art. 21-septies, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-octies, comma 1, indica come cause di annullabilità la violazione di legge, l'eccesso di potere e l'incompetenza.",
+    "evidence": [
+      { "ref": "art. 21-octies, comma 1", "text": "È annullabile il provvedimento amministrativo adottato in violazione di legge o viziato da eccesso di potere o da incompetenza." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune adotta un provvedimento a contenuto vincolato violando una norma sulla forma degli atti. È palese che il contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato. Secondo la L. 241/1990, il provvedimento:",
+    "options": [
+      { "id": "a", "text": "È annullabile per violazione di legge", "why_wrong": "L'art. 21-octies, comma 2, esclude l'annullabilità in questa ipotesi." },
+      { "id": "b", "text": "Non è annullabile", "why_wrong": null },
+      { "id": "c", "text": "È nullo per mancanza degli elementi essenziali", "why_wrong": "La violazione di norme sulla forma degli atti è disciplinata dall'art. 21-octies, comma 2, non dalle cause di nullità dell'art. 21-septies." },
+      { "id": "d", "text": "Può essere annullato d'ufficio entro sei mesi dall'adozione", "why_wrong": "L'art. 21-novies, comma 1, esclude dall'annullamento d'ufficio i casi di cui all'art. 21-octies, comma 2." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-octies, comma 2, primo periodo, esclude l'annullabilità del provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti quando, per la natura vincolata, è palese che il contenuto non avrebbe potuto essere diverso.",
+    "evidence": [
+      { "ref": "art. 21-octies, comma 2", "text": "Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti qualora, per la natura vincolata del provvedimento, sia palese che il suo contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-021",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In base all'art. 21-octies, comma 2, della L. 241/1990, il provvedimento non è comunque annullabile per mancata comunicazione dell'avvio del procedimento qualora:",
+    "options": [
+      { "id": "a", "text": "Il privato dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato", "why_wrong": "La norma pone la dimostrazione in giudizio a carico dell'amministrazione." },
+      { "id": "b", "text": "L'amministrazione dimostri in giudizio che sussistevano ragioni di interesse pubblico", "why_wrong": "Le ragioni di interesse pubblico sono presupposto dell'annullamento d'ufficio e della convalida (art. 21-novies, commi 1 e 2)." },
+      { "id": "c", "text": "L'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato", "why_wrong": null },
+      { "id": "d", "text": "L'amministrazione revochi il provvedimento prima del giudizio", "why_wrong": "La revoca (art. 21-quinquies) rende il provvedimento inidoneo a produrre ulteriori effetti; non è la condizione prevista dall'art. 21-octies, comma 2." }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21-octies, comma 2, secondo periodo, esclude l'annullabilità per mancata comunicazione dell'avvio del procedimento qualora l'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso.",
+    "evidence": [
+      { "ref": "art. 21-octies, comma 2", "text": "Il provvedimento amministrativo non è comunque annullabile per mancata comunicazione dell'avvio del procedimento qualora l'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-022",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-octies, comma 2, della L. 241/1990, la regola per cui il provvedimento non è annullabile per mancata comunicazione dell'avvio del procedimento, se l'amministrazione dimostra in giudizio che il suo contenuto non avrebbe potuto essere diverso:",
+    "options": [
+      { "id": "a", "text": "Si applica anche al provvedimento adottato in violazione dell'art. 10-bis", "why_wrong": "Il terzo periodo dell'art. 21-octies, comma 2, stabilisce che la disposizione non si applica al provvedimento adottato in violazione dell'art. 10-bis." },
+      { "id": "b", "text": "Non si applica al provvedimento adottato in violazione dell'art. 10-bis", "why_wrong": null },
+      { "id": "c", "text": "Si applica soltanto ai provvedimenti nulli", "why_wrong": "La regola esclude l'annullabilità (art. 21-octies); la nullità è disciplinata dall'art. 21-septies." },
+      { "id": "d", "text": "Non si applica ai provvedimenti a contenuto vincolato", "why_wrong": "L'unica esclusione prevista dal terzo periodo dell'art. 21-octies, comma 2, riguarda il provvedimento adottato in violazione dell'art. 10-bis." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-octies, comma 2, terzo periodo, stabilisce che la disposizione del secondo periodo non si applica al provvedimento adottato in violazione dell'art. 10-bis.",
+    "evidence": [
+      { "ref": "art. 21-octies, comma 2", "text": "Il provvedimento amministrativo non è comunque annullabile per mancata comunicazione dell'avvio del procedimento qualora l'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato. ((La disposizione di cui al secondo periodo non si applica al provvedimento adottato in violazione dell'articolo 10-bis.))" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-023",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-novies, comma 1, della L. 241/1990, il provvedimento illegittimo può essere annullato d'ufficio:",
+    "options": [
+      { "id": "a", "text": "Per sopravvenuti motivi di pubblico interesse o per mutamento della situazione di fatto", "why_wrong": "Sono presupposti della revoca (art. 21-quinquies, comma 1)." },
+      { "id": "b", "text": "Sussistendone le ragioni di interesse pubblico, entro un termine ragionevole e tenendo conto degli interessi dei destinatari e dei controinteressati", "why_wrong": null },
+      { "id": "c", "text": "Previa diffida all'interessato, nelle ipotesi previste dalla legge", "why_wrong": "La previa diffida è prevista per l'esecuzione coattiva (art. 21-ter, comma 1)." },
+      { "id": "d", "text": "In qualunque momento, essendo sufficiente l'illegittimità del provvedimento", "why_wrong": "L'art. 21-novies, comma 1, richiede anche le ragioni di interesse pubblico e un termine ragionevole." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-novies, comma 1, richiede per l'annullamento d'ufficio l'illegittimità ai sensi dell'art. 21-octies, le ragioni di interesse pubblico, un termine ragionevole e la considerazione degli interessi dei destinatari e dei controinteressati.",
+    "evidence": [
+      { "ref": "art. 21-novies, comma 1", "text": "Il provvedimento amministrativo illegittimo ai sensi dell'articolo 21-octies, esclusi i casi di cui al medesimo articolo 21-octies, comma 2, può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici, inclusi i casi in cui il provvedimento si sia formato ai sensi dell'articolo 20, e tenendo conto degli interessi dei destinatari e dei controinteressati, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-024",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-novies della L. 241/1990, l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici deve intervenire entro un termine ragionevole, comunque non superiore a:",
+    "options": [
+      { "id": "a", "text": "Diciotto mesi dal momento dell'adozione", "why_wrong": "Il testo vigente dell'art. 21-novies, comma 1, indica sei mesi." },
+      { "id": "b", "text": "Sei mesi dalla comunicazione del provvedimento al destinatario", "why_wrong": "L'art. 21-novies, comma 1, fa decorrere il termine dal momento dell'adozione." },
+      { "id": "c", "text": "Sei mesi dal momento in cui l'amministrazione ha conoscenza del vizio", "why_wrong": "L'art. 21-novies, comma 1, fa decorrere il termine dal momento dell'adozione." },
+      { "id": "d", "text": "Sei mesi dal momento dell'adozione", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-novies, comma 1, fissa il limite massimo di sei mesi dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici.",
+    "evidence": [
+      { "ref": "art. 21-novies, comma 1", "text": "Il provvedimento amministrativo illegittimo ai sensi dell'articolo 21-octies, esclusi i casi di cui al medesimo articolo 21-octies, comma 2, può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici, inclusi i casi in cui il provvedimento si sia formato ai sensi dell'articolo 20, e tenendo conto degli interessi dei destinatari e dei controinteressati, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-025",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'autorizzazione si è formata per silenzio assenso ai sensi dell'art. 20 della L. 241/1990. Dopo otto mesi il Comune rileva che è illegittima per violazione di legge; non vi sono false rappresentazioni dei fatti né condotte costituenti reato. Il Comune può annullarla d'ufficio?",
+    "options": [
+      { "id": "a", "text": "No, perché è decorso il termine massimo di sei mesi, che vale anche per i provvedimenti formatisi ai sensi dell'art. 20", "why_wrong": null },
+      { "id": "b", "text": "Sì, perché il termine di sei mesi non si applica ai provvedimenti formatisi per silenzio assenso", "why_wrong": "L'art. 21-novies, comma 1, include espressamente i casi in cui il provvedimento si sia formato ai sensi dell'art. 20." },
+      { "id": "c", "text": "Sì, ma con l'obbligo di indennizzare il privato", "why_wrong": "L'obbligo di indennizzo è previsto per la revoca (art. 21-quinquies, comma 1)." },
+      { "id": "d", "text": "Sì, perché il termine è di diciotto mesi dall'adozione", "why_wrong": "Il testo vigente dell'art. 21-novies, comma 1, indica sei mesi." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-novies, comma 1, pone il limite di sei mesi dall'adozione per i provvedimenti di autorizzazione, inclusi quelli formatisi ai sensi dell'art. 20; l'eccezione del comma 2-bis non ricorre.",
+    "evidence": [
+      { "ref": "art. 21-novies, comma 1", "text": "Il provvedimento amministrativo illegittimo ai sensi dell'articolo 21-octies, esclusi i casi di cui al medesimo articolo 21-octies, comma 2, può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici, inclusi i casi in cui il provvedimento si sia formato ai sensi dell'articolo 20, e tenendo conto degli interessi dei destinatari e dei controinteressati, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-026",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'autorizzazione è stata ottenuta sulla base di dichiarazioni sostitutive false per effetto di condotte costituenti reato, accertate con sentenza passata in giudicato. Sono trascorsi due anni dalla sua adozione. Secondo l'art. 21-novies della L. 241/1990:",
+    "options": [
+      { "id": "a", "text": "Non può più essere annullata, essendo decorsi sei mesi dall'adozione", "why_wrong": "L'art. 21-novies, comma 2-bis, consente l'annullamento anche dopo la scadenza dei sei mesi." },
+      { "id": "b", "text": "Può essere annullata, ma solo entro sei mesi dal passaggio in giudicato della sentenza", "why_wrong": "Il comma 2-bis consente l'annullamento anche dopo la scadenza del termine di sei mesi di cui al comma 1, senza fissare un nuovo termine." },
+      { "id": "c", "text": "Può essere annullata dall'amministrazione anche dopo la scadenza del termine di sei mesi", "why_wrong": null },
+      { "id": "d", "text": "Può essere annullata solo se al dichiarante non sono state applicate sanzioni penali", "why_wrong": "Il comma 2-bis fa salva l'applicazione delle sanzioni penali." }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21-novies, comma 2-bis, consente di annullare i provvedimenti conseguiti con false rappresentazioni o dichiarazioni false o mendaci per effetto di condotte costituenti reato, accertate con sentenza passata in giudicato, anche dopo la scadenza del termine di sei mesi.",
+    "evidence": [
+      { "ref": "art. 21-novies, comma 2-bis", "text": "I provvedimenti amministrativi conseguiti sulla base di false rappresentazioni dei fatti o di dichiarazioni sostitutive di certificazione e dell'atto di notorietà false o mendaci per effetto di condotte costituenti reato, accertate con sentenza passata in giudicato, possono essere annullati dall'amministrazione anche dopo la scadenza del termine di ((sei mesi)) di cui al comma 1, fatta salva l'applicazione delle sanzioni penali" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 2-bis", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-027",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 21-novies, comma 2, della L. 241/1990, il provvedimento annullabile può essere convalidato:",
+    "options": [
+      { "id": "a", "text": "Sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole", "why_wrong": null },
+      { "id": "b", "text": "Entro sei mesi, anche in assenza di ragioni di interesse pubblico", "why_wrong": "Il comma 2 richiede le ragioni di interesse pubblico e un termine ragionevole." },
+      { "id": "c", "text": "Per sopravvenuti motivi di pubblico interesse o per mutamento della situazione di fatto", "why_wrong": "Sono presupposti della revoca (art. 21-quinquies, comma 1)." },
+      { "id": "d", "text": "In ogni tempo, anche se il provvedimento è nullo", "why_wrong": "Il comma 2 riferisce la convalida al provvedimento annullabile ed entro un termine ragionevole." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 21-novies, comma 2, fa salva la possibilità di convalida del provvedimento annullabile, sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole.",
+    "evidence": [
+      { "ref": "art. 21-novies, comma 2", "text": "È fatta salva la possibilità di convalida del provvedimento annullabile, sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-028",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nella L. 241/1990, la revoca del provvedimento e l'annullamento d'ufficio sono disciplinati, rispettivamente, dagli articoli:",
+    "options": [
+      { "id": "a", "text": "21-novies e 21-quinquies", "why_wrong": "L'ordine è invertito: la revoca è nell'art. 21-quinquies, l'annullamento d'ufficio nell'art. 21-novies." },
+      { "id": "b", "text": "21-octies e 21-septies", "why_wrong": "L'art. 21-octies disciplina l'annullabilità e l'art. 21-septies la nullità." },
+      { "id": "c", "text": "21-quinquies e 21-novies", "why_wrong": null },
+      { "id": "d", "text": "21-quater e 21-novies", "why_wrong": "L'art. 21-quater disciplina efficacia ed esecutività del provvedimento." }
+    ],
+    "correct": "c",
+    "explanation": "La revoca è disciplinata dall'art. 21-quinquies e l'annullamento d'ufficio dall'art. 21-novies.",
+    "evidence": [
+      { "ref": "art. 21-quinquies, comma 1", "text": "((Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, di nuova valutazione dell'interesse pubblico originario)) , il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge." },
+      { "ref": "art. 21-novies, comma 1", "text": "Il provvedimento amministrativo illegittimo ai sensi dell'articolo 21-octies, esclusi i casi di cui al medesimo articolo 21-octies, comma 2, può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici, inclusi i casi in cui il provvedimento si sia formato ai sensi dell'articolo 20, e tenendo conto degli interessi dei destinatari e dei controinteressati, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-029",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 21-decies della L. 241/1990, in caso di annullamento di un provvedimento finale in virtù di una sentenza passata in giudicato, derivante da vizi inerenti ad atti emessi nel corso del procedimento di autorizzazione, il proponente può:",
+    "options": [
+      { "id": "a", "text": "Chiedere la convalida del provvedimento annullato", "why_wrong": "La convalida riguarda il provvedimento annullabile (art. 21-novies, comma 2)." },
+      { "id": "b", "text": "Richiedere all'amministrazione procedente l'attivazione di un procedimento semplificato, ai fini della riadozione degli atti annullati", "why_wrong": null },
+      { "id": "c", "text": "Ottenere l'indennizzo previsto per la revoca del provvedimento", "why_wrong": "L'indennizzo è previsto per la revoca (art. 21-quinquies, comma 1)." },
+      { "id": "d", "text": "Ottenere la riemissione del provvedimento senza presentare alcuna istanza", "why_wrong": "L'art. 21-decies prevede che il procedimento semplificato sia attivato su richiesta del proponente." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21-decies, comma 1, consente al proponente di richiedere all'amministrazione procedente l'attivazione di un procedimento semplificato, ai fini della riadozione degli atti annullati.",
+    "evidence": [
+      { "ref": "art. 21-decies, comma 1", "text": "In caso di annullamento di un provvedimento finale in virtù di una sentenza passata in giudicato, derivante da vizi inerenti ad uno o più atti emessi nel corso del procedimento di autorizzazione o di valutazione di impatto ambientale, il proponente può richiedere all'amministrazione procedente" },
+      { "ref": "art. 21-decies, comma 1", "text": "l'attivazione di un procedimento semplificato, ai fini della riadozione degli atti annullati." }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-decies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4bis-030",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Una società, la cui autorizzazione è stata annullata con sentenza passata in giudicato per vizi di un atto endoprocedimentale, presenta istanza di procedimento semplificato ai sensi dell'art. 21-decies della L. 241/1990. Entro quale termine dalla ricezione dell'istanza l'amministrazione procedente la trasmette all'ente che ha emanato l'atto da riemettere?",
+    "options": [
+      { "id": "a", "text": "Trenta giorni", "why_wrong": "Trenta giorni è il termine entro cui l'ente che ha emanato l'atto vi provvede, e poi quello per la riemissione del provvedimento (art. 21-decies, comma 1)." },
+      { "id": "b", "text": "Sei mesi", "why_wrong": "Sei mesi è il termine massimo per l'annullamento d'ufficio (art. 21-novies, comma 1)." },
+      { "id": "c", "text": "Sessanta giorni", "why_wrong": "L'art. 21-decies, comma 1, prevede quindici giorni per la trasmissione e trenta giorni per ciascuna delle fasi successive." },
+      { "id": "d", "text": "Quindici giorni", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21-decies, comma 1, prevede che l'amministrazione procedente trasmetta l'istanza entro quindici giorni dalla ricezione; l'ente provvede entro trenta giorni e l'amministrazione riemette il provvedimento entro i successivi trenta giorni.",
+    "evidence": [
+      { "ref": "art. 21-decies, comma 1", "text": "A tal fine, entro quindici giorni dalla ricezione dell'istanza del proponente, l'amministrazione procedente trasmette l'istanza all'amministrazione o all'ente che ha emanato l'atto da riemettere, che vi provvede entro trenta giorni. Ricevuto l'atto ai sensi del presente comma, o decorso il termine per l'adozione dell'atto stesso, l'amministrazione riemette, entro i successivi trenta giorni, il provvedimento di autorizzazione o di valutazione di impatto ambientale" }
+    ],
+    "source": { "act": "L. 241/1990", "article": "art. 21-decies, comma 1", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
   }
 ]
