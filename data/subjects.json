@@ -1,0 +1,27 @@
+{
+  "subjects": [
+    { "id": "diritto-pubblico", "name": "Nozioni di Diritto pubblico", "block": "common_law" },
+    { "id": "diritto-amministrativo-enti-locali", "name": "Diritto Amministrativo / Diritto degli Enti locali", "block": "common_law" },
+    { "id": "contratti-pubblici", "name": "Disciplina dei contratti pubblici", "block": "common_law" },
+    { "id": "pubblico-impiego", "name": "Disciplina del Pubblico Impiego", "block": "common_law" },
+    { "id": "trasparenza-anticorruzione", "name": "Trasparenza e anticorruzione", "block": "common_law" },
+    { "id": "accesso", "name": "Diritto di accesso", "block": "common_law" },
+    { "id": "diritto-ue", "name": "Nozioni di diritto dell'Unione europea", "block": "common_law" },
+    { "id": "reati-pa", "name": "Reati contro la Pubblica Amministrazione", "block": "common_law" },
+    { "id": "contabilita-pubblica", "name": "Nozioni di contabilità pubblica", "block": "common_law" },
+    { "id": "privacy", "name": "Tutela della privacy", "block": "common_law" },
+
+    { "id": "inglese", "name": "Lingua inglese", "block": "common_lang_it" },
+    { "id": "informatica", "name": "Nozioni di informatica", "block": "common_lang_it" },
+
+    { "id": "management-pubblico", "name": "Management pubblico", "block": "specific" },
+    { "id": "programmazione-ue", "name": "Programmazione comunitaria", "block": "specific" },
+    { "id": "rendicontazione-ue", "name": "Rendicontazione progetti comunitari", "block": "specific" },
+    { "id": "organismi-partecipati", "name": "Disciplina in materia di organismi partecipati", "block": "specific" },
+    { "id": "comunicazione-pa-l150", "name": "Normativa sull'informazione e la comunicazione delle PA (L. 150/2000)", "block": "specific" },
+    { "id": "social-media", "name": "Social Media Management", "block": "specific" },
+    { "id": "teoria-tecniche-informazione", "name": "Teoria e tecniche dell'informazione", "block": "specific" },
+    { "id": "normativa-turistica", "name": "Normativa turistica", "block": "specific" },
+    { "id": "marketing-territoriale", "name": "Marketing territoriale", "block": "specific" }
+  ]
+}

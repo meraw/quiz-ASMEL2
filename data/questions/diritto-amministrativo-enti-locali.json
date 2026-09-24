@@ -1,0 +1,19 @@
+[
+  {
+    "id": "l241-proc-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 2 della L. 241/1990, quando né la legge né i regolamenti prevedono un termine diverso, i procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro:",
+    "options": [
+      { "id": "a", "text": "trenta giorni", "why_wrong": null },
+      { "id": "b", "text": "sessanta giorni", "why_wrong": "Nessuna disposizione generale della L. 241/1990 prevede questo termine; è facile confonderlo con il termine per il ricorso al TAR." },
+      { "id": "c", "text": "novanta giorni", "why_wrong": "Novanta giorni è il limite massimo entro cui i provvedimenti di cui all'art. 2, comma 3, possono fissare termini diversi, non il termine generale." },
+      { "id": "d", "text": "centottanta giorni", "why_wrong": "Termini fino a centottanta giorni sono ammessi solo nei casi particolari dell'art. 2, comma 4." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2, comma 2, fissa il termine generale residuale di trenta giorni, che si applica quando non è previsto un termine diverso.",
+    "source": { "act": "L. 241/1990", "article": "art. 2, comma 2", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": true
+  }
+]

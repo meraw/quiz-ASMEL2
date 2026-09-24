@@ -1,0 +1,19 @@
+[
+  {
+    "id": "l150-001",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi della L. 150/2000, gli uffici stampa delle pubbliche amministrazioni sono costituiti da personale:",
+    "options": [
+      { "id": "a", "text": "iscritto all'albo nazionale dei giornalisti", "why_wrong": null },
+      { "id": "b", "text": "in possesso della laurea in Scienze della comunicazione", "why_wrong": "Per l'ufficio stampa la legge richiede l'iscrizione all'albo, non uno specifico titolo di studio." },
+      { "id": "c", "text": "assegnato all'Ufficio per le relazioni con il pubblico", "why_wrong": "L'URP è una struttura distinta dall'ufficio stampa, con funzioni diverse." },
+      { "id": "d", "text": "scelto direttamente dal portavoce", "why_wrong": "Il portavoce è una figura distinta dall'ufficio stampa e non ne sceglie il personale." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9 della L. 150/2000 prevede che gli uffici stampa siano costituiti da personale iscritto all'albo nazionale dei giornalisti.",
+    "source": { "act": "L. 150/2000", "article": "art. 9", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
