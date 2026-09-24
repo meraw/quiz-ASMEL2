@@ -16,7 +16,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 1, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -36,7 +36,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 1, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -56,7 +56,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 1, comma 1-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -76,7 +76,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 1, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -96,7 +96,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 1, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -116,7 +116,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -136,7 +136,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma che centottanta giorni è «il limite invalicabile» dei termini del comma 4, omettendo l'eccezione prevista dal file: «I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione» (art. 2, comma 4). Correzione suggerita: «Centottanta giorni è il limite massimo dei termini più lunghi previsti dal comma 4, salvo i procedimenti di acquisto della cittadinanza e quelli riguardanti l'immigrazione.»",
     "no_shuffle": false
   },
   {
@@ -156,7 +157,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +177,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 4-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -196,7 +197,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -236,7 +237,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 8-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'evidence riporta solo la parte finale del comma 8-bis («sono inefficaci, fermo restando quanto previsto dall'articolo 21-nonies, ove ne ricorrano i presupposti e le condizioni.») e non dimostra né che la regola riguardi le determinazioni adottate dopo il termine dell'art. 20, comma 1, né che l'art. 21-nonies disciplini l'annullamento d'ufficio, elementi entrambi necessari per la risposta corretta. Nel file: «Le determinazioni relative ai provvedimenti, alle autorizzazioni, ai pareri, ai nulla osta e agli atti di assenso comunque denominati, adottate dopo la scadenza dei termini di cui agli articoli 14-bis, comma 2, lettera c), 17-bis, commi 1 e 3, 20, comma 1, ...» e la rubrica dell'articolo 21-nonies (nel file «Art. 21-novies») è «(Annullamento d'ufficio)». Correzione suggerita: estendere l'evidence del comma 8-bis includendo il riferimento all'«articolo 20, comma 1» e aggiungere un'evidence dall'art. 21-nonies, comma 1 («può essere annullato d'ufficio»).",
     "no_shuffle": false
   },
   {
@@ -256,7 +258,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 9", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -276,7 +278,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -296,7 +298,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -316,7 +318,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2, comma 9-quater", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -336,7 +338,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -356,7 +358,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma che i procedimenti in materia previdenziale sono esclusi dall'art. 10-bis senza qualificazioni, mentre il file limita l'esclusione a quelli «in materia previdenziale e assistenziale sorti a seguito di istanza di parte e gestiti dagli enti previdenziali» (art. 10-bis, comma 1). Correzione suggerita: «I procedimenti tributari sono esclusi dalle norme sulla partecipazione (art. 13, comma 2) e i procedimenti previdenziali e assistenziali a istanza di parte gestiti dagli enti previdenziali dall'art. 10-bis; nessuno dei due è tra le esclusioni dell'indennizzo del comma 1-bis.»",
     "no_shuffle": false
   },
   {
@@ -376,7 +379,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 2-bis, comma 1-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +399,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 3, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -416,7 +419,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 3, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -436,7 +439,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 3, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -456,7 +459,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 3, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -476,7 +479,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 4, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -496,7 +499,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 5, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -516,7 +519,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 5, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -536,7 +539,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -556,7 +559,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -576,7 +579,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 6, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -596,7 +599,7 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 6-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
