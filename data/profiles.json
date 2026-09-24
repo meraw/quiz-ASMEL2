@@ -7,6 +7,10 @@
       "common_law": 25,
       "common_lang_it": 5
     },
+    "english": {
+      "subject": "inglese",
+      "assumed_questions": 2
+    },
     "pass_threshold": 42,
     "scoring": {
       "correct": 1,

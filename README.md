@@ -60,8 +60,11 @@ so you can see a red cross on the pull request page before you merge it.
 |---|---|
 | `index.html` | The page the browser opens. It is almost empty: the app draws every screen into it. |
 | `validation.js` | The rules that decide whether a question is valid. Used both by the app and by `tools/validate.js`, so they always agree. |
+| `study.js` | The study rules: answer history, "consolidata", error review, daily session, score estimate, migration of saved data. Tested by `tests/study.test.js`. |
 | `style.css` | Colours, sizes and layout (including dark mode). |
-| `app.js` | All the app logic: loading questions, the quiz modes, statistics, backup. Comments explain each part. |
+| `app.js` | The screens: home, quiz modes, statistics, settings, backup. Comments explain each part. |
+| `tests/study.test.js` | Automatic tests of `study.js` (run before every deploy). |
+| `tests/browser-check.js` | Check of the whole app in a real browser (run by hand, see below). |
 | `manifest.json` | Name and icon used when you "install" the app on the home screen. |
 | `sw.js` | The "service worker": keeps a copy of the app so it works offline. |
 | `icons/` | App icons. |
@@ -207,7 +210,52 @@ node tools/validate.js
 
 The last line says `OK` or `FAILED`.
 
+The study rules have their own tests (Node.js only, nothing to install):
+
+```
+node --test "tests/*.test.js"
+```
+
+To check the whole app in a browser at phone width, in light and dark mode
+(needs Playwright with Chromium), start the local server described below and run
+`node tests/browser-check.js`. Screenshots go in `tests/screenshots/`.
+
 ---
+
+## How the app organises your study
+
+The home screen of your profile shows, from the top:
+
+1. **Mancano N giorni alla prova**, if you set the exam date in **Impostazioni**.
+2. **Sessione del giorno**: a fixed number of questions (30 by default,
+   changeable in **Impostazioni**) chosen for you: about 40% from the error
+   review, about 30% from your weakest subjects (lowest % correct in the last
+   30 answers, among subjects with at least 10 answers), the rest never-seen
+   questions spread across subjects. If a group has too few questions, the
+   next one fills the gap. You can stop and resume it later. When you finish
+   it, the button says **Sessione di oggi completata** for the rest of the day
+   (you can still do another one).
+3. **Stima**: the estimated score. For every subject with at least 10 answers:
+   expected exam questions × % correct in its last 30 answers; subjects with
+   fewer answers are not estimated. The line also says how many of the 60
+   questions the estimate is based on and how many subjects have no data.
+   Below 30 estimated questions it says **Stima parziale**.
+4. **Progress per subject**, specific subjects first, then common ones:
+   - **Copertura**: questions seen / questions available;
+   - **Consolidate**: questions whose last two answers were both correct
+     **on two different days** / questions available;
+   - **% corrette recenti**: over the last 30 answers in that subject.
+
+   The numbers are always shown, not only the bars: when a new batch of
+   questions is added the bars get shorter, but the number of questions you
+   know stays the same. Tap a subject to practise it (10 questions: new ones
+   first). Questions with status `da_rivedere` are never counted.
+
+A question leaves **Ripasso errori** when it is consolidated (the same rule).
+
+**English is not studied.** It never appears in practice, error review,
+progress or the daily session. In the simulation and in the estimate, the
+English questions are counted as correct (see below).
 
 ## Simulation rules
 
@@ -216,7 +264,12 @@ The rules are in `data/profiles.json` under `"simulation"`:
 - `total_questions` and `duration_minutes` (60 and 60)
 - `blocks`: how many questions come from the profile's specific subjects (30),
   the common legal subjects (25) and English + IT (5)
-- `pass_threshold`: the minimum score to pass (42)
+- `english`: `subject` is the English subject id (`inglese`) and
+  `assumed_questions` how many of the 5 English + IT questions are assumed to
+  be English (2). Those are **not drawn** (the simulation has 58 questions by
+  default) and are **counted as correct** in the result and in the estimate,
+  with the label *"Inglese: 2 quesiti considerati corretti (non studiato)"*.
+- `pass_threshold`: the minimum score to pass (42, out of 60)
 - `scoring`: points for a `correct`, `wrong` and `blank` answer (1 / 0 / 0).
   If the official bando gives e.g. −0.25 for wrong answers, write `"wrong": -0.25`.
 
@@ -241,8 +294,19 @@ browser's data or change phone. To keep a copy:
 3. To restore it: **Impostazioni** → **Importa backup** and choose the file.
    This replaces the progress currently on the phone.
 
-The backup includes answers, statistics, simulation results and your
-"Segnala dubbio" notes.
+The backup includes answers, statistics, simulation results, daily sessions,
+settings and your "Segnala dubbio" notes. A backup made with an older version
+of the app can still be imported.
+
+### When the app is updated
+
+Saved progress is never thrown away. When a new version needs more
+information than the old one saved (for example, since the daily session the
+app records the **day** of every answer), the old data is converted on first
+launch and an untouched copy is kept in the browser. For answers given before
+this update the day is unknown, so they never count as "two different days":
+a question you had already answered correctly becomes *consolidata* after one
+more correct answer on a later day.
 
 ## Flagged questions ("Segnala dubbio")
 

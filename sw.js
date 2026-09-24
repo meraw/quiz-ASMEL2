@@ -8,7 +8,7 @@
  * Change CACHE_VERSION below whenever this file changes, so installed apps
  * replace the old service worker and clear the old saved copies.
  */
-const CACHE_VERSION = 'asmel-quiz-v4';
+const CACHE_VERSION = 'asmel-quiz-v5';
 
 // Files saved at install time. Paths are relative to this file, so the app
 // also works under a subpath such as /quiz-asmel/.
@@ -17,6 +17,7 @@ const PRECACHE = [
   'index.html',
   'style.css',
   'validation.js',
+  'study.js',
   'app.js',
   'manifest.json',
   'icons/icon.svg',
