@@ -1,0 +1,34 @@
+{
+  "simulation": {
+    "total_questions": 60,
+    "duration_minutes": 60,
+    "blocks": {
+      "specific": 30,
+      "common_law": 25,
+      "common_lang_it": 5
+    },
+    "pass_threshold": 42,
+    "scoring": {
+      "correct": 1,
+      "wrong": 0,
+      "blank": 0
+    }
+  },
+  "profiles": [
+    {
+      "id": "amministrativo",
+      "name": "Istruttore amministrativo",
+      "specific_subjects": ["management-pubblico", "programmazione-ue", "rendicontazione-ue", "organismi-partecipati"]
+    },
+    {
+      "id": "comunicazione",
+      "name": "Istruttore comunicazione",
+      "specific_subjects": ["comunicazione-pa-l150", "social-media", "teoria-tecniche-informazione"]
+    },
+    {
+      "id": "turistico",
+      "name": "Istruttore turistico",
+      "specific_subjects": ["normativa-turistica", "marketing-territoriale", "teoria-tecniche-informazione"]
+    }
+  ]
+}

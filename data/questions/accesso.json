@@ -1,0 +1,19 @@
+[
+  {
+    "id": "l241-acc-001",
+    "subject": "accesso",
+    "question": "Ai sensi della L. 241/1990, se l'amministrazione non risponde a una richiesta di accesso ai documenti amministrativi entro trenta giorni, la richiesta:",
+    "options": [
+      { "id": "a", "text": "si intende accolta", "why_wrong": "Per l'accesso la legge non prevede il silenzio-assenso, ma il suo contrario: il silenzio equivale a rigetto." },
+      { "id": "b", "text": "si intende respinta", "why_wrong": null },
+      { "id": "c", "text": "resta pendente finché l'amministrazione non si pronuncia espressamente", "why_wrong": "La legge attribuisce un significato preciso al silenzio decorsi trenta giorni, proprio per consentire la tutela del richiedente." },
+      { "id": "d", "text": "deve essere ripresentata al difensore civico", "why_wrong": "Il ricorso al difensore civico è uno strumento di riesame a disposizione del richiedente, non un obbligo di ripresentare la richiesta." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 25, comma 4, prevede il silenzio-rigetto: decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta. Contro il diniego, anche tacito, il richiedente può ricorrere al TAR oppure chiedere il riesame al difensore civico o alla Commissione per l'accesso.",
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

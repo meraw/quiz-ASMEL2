@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#1f5fa8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14181f" media="(prefers-color-scheme: dark)">
+  <meta name="description" content="Quiz personale per lo studio del Maxi Avviso ASMEL 2026">
+  <title>Quiz ASMEL</title>
+  <!-- All paths are relative so the app also works under a subpath (e.g. /quiz-asmel/) -->
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button type="button" class="topbar-home" data-action="home" aria-label="Torna al menu">Quiz ASMEL</button>
+    <span id="topbar-extra" class="topbar-extra"></span>
+  </header>
+
+  <!-- Every screen is drawn inside this element by app.js -->
+  <main id="app" tabindex="-1">
+    <p class="loading">Caricamento domande…</p>
+  </main>
+
+  <noscript>Per usare il quiz è necessario attivare JavaScript.</noscript>
+  <script src="app.js"></script>
+</body>
+</html>
