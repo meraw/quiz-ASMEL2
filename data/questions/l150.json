@@ -1,0 +1,508 @@
+[
+  {
+    "id": "l150-002",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 1 della L. 150/2000, sono considerate attività di informazione e di comunicazione istituzionale quelle volte a conseguire:",
+    "options": [
+      { "id": "a", "text": "l'informazione ai mezzi di comunicazione di massa, la comunicazione esterna rivolta ai cittadini, alle collettività e ad altri enti e la comunicazione interna realizzata nell'ambito di ciascun ente", "why_wrong": null },
+      { "id": "b", "text": "soltanto l'informazione ai mezzi di comunicazione di massa e la comunicazione esterna rivolta ai cittadini", "why_wrong": "La norma comprende anche la comunicazione interna realizzata nell'ambito di ciascun ente." },
+      { "id": "c", "text": "l'informazione ai mezzi di comunicazione di massa e la pubblicità legale od obbligatoria degli atti pubblici", "why_wrong": "Per la pubblicità legale od obbligatoria degli atti pubblici è fatta salva la disciplina vigente (art. 1, comma 3)." },
+      { "id": "d", "text": "la comunicazione esterna e la comunicazione interna, mentre l'informazione ai mezzi di comunicazione di massa è esclusa", "why_wrong": "L'informazione ai mezzi di comunicazione di massa è espressamente compresa tra le attività di informazione e di comunicazione istituzionale." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 4, individua tre ambiti: l'informazione ai mezzi di comunicazione di massa (stampa, audiovisivi, strumenti telematici), la comunicazione esterna verso cittadini, collettività e altri enti, e la comunicazione interna di ciascun ente.",
+    "evidence": [
+      { "ref": "art. 1, comma 4", "text": "sono considerate attività di informazione e di comunicazione istituzionale quelle poste in essere in Italia o all'estero dai soggetti di cui al comma 2 e volte a conseguire: a) l'informazione ai mezzi di comunicazione di massa, attraverso stampa, audiovisivi e strumenti telematici; b) la comunicazione esterna rivolta ai cittadini, alle collettività e ad altri enti attraverso ogni modalità tecnica ed organizzativa; c) la comunicazione interna realizzata nell'ambito di ciascun ente." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 1, comma 4", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-003",
+    "subject": "comunicazione-pa-l150",
+    "question": "Un Comune partecipa a una fiera internazionale all'estero per far conoscere una manifestazione di importanza locale. Alla luce dell'art. 1 della L. 150/2000, tale attività:",
+    "options": [
+      { "id": "a", "text": "rientra tra le attività di informazione e di comunicazione istituzionale, che possono essere poste in essere anche all'estero", "why_wrong": null },
+      { "id": "b", "text": "è esclusa dall'ambito della legge, che riguarda soltanto le attività svolte in Italia", "why_wrong": "L'art. 1, comma 4, comprende le attività poste in essere in Italia o all'estero." },
+      { "id": "c", "text": "rientra nell'ambito della legge solo se l'evento è di importanza nazionale o internazionale", "why_wrong": "Tra le finalità vi è anche conferire conoscenza e visibilità ad eventi d'importanza locale e regionale (art. 1, comma 5, lett. f)." },
+      { "id": "d", "text": "è soggetta ai limiti imposti in materia di pubblicità e sponsorizzazioni", "why_wrong": "Le attività di informazione e di comunicazione istituzionale non sono soggette a tali limiti (art. 1, comma 6)." }
+    ],
+    "correct": "a",
+    "explanation": "Le attività di informazione e comunicazione istituzionale sono quelle poste in essere in Italia o all'estero, e tra le loro finalità vi è promuovere l'immagine delle amministrazioni conferendo visibilità anche ad eventi d'importanza locale.",
+    "evidence": [
+      { "ref": "art. 1, comma 4", "text": "sono considerate attività di informazione e di comunicazione istituzionale quelle poste in essere in Italia o all'estero dai soggetti di cui al comma 2" },
+      { "ref": "art. 1, comma 5", "text": "f) promuovere l'immagine delle amministrazioni, nonché quella dell'Italia, in Europa e nel mondo, conferendo conoscenza e visibilità ad eventi d'importanza locale, regionale, nazionale ed internazionale." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 1, comma 4", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-004",
+    "subject": "comunicazione-pa-l150",
+    "question": "Tra le finalità delle attività di informazione e di comunicazione indicate dall'art. 1, comma 5, della L. 150/2000 rientra:",
+    "options": [
+      { "id": "a", "text": "favorire la conoscenza dell'avvio e del percorso dei procedimenti amministrativi", "why_wrong": null },
+      { "id": "b", "text": "garantire la pubblicità legale od obbligatoria degli atti pubblici", "why_wrong": "Per la pubblicità legale od obbligatoria è fatta salva la disciplina vigente (art. 1, comma 3); non è una finalità elencata dal comma 5." },
+      { "id": "c", "text": "determinare i messaggi di utilità sociale che la concessionaria del servizio pubblico radiotelevisivo può trasmettere gratuitamente", "why_wrong": "È un compito attribuito alla Presidenza del Consiglio dei Ministri dall'art. 3, comma 1, non una finalità elencata dal comma 5." },
+      { "id": "d", "text": "assicurare la tutela del segreto d'ufficio", "why_wrong": "Il segreto d'ufficio è un limite da rispettare nello svolgimento delle attività (art. 1, comma 4), non una loro finalità." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 5, lett. e), indica tra le finalità il favorire i processi interni di semplificazione e modernizzazione nonché la conoscenza dell'avvio e del percorso dei procedimenti amministrativi.",
+    "evidence": [
+      { "ref": "art. 1, comma 5", "text": "e) favorire processi interni di semplificazione delle procedure e di modernizzazione degli apparati nonché la conoscenza dell'avvio e del percorso dei procedimenti amministrativi;" }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 1, comma 5", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-005",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi della L. 150/2000, le attività di informazione e di comunicazione istituzionale, rispetto ai limiti imposti in materia di pubblicità, sponsorizzazioni e offerte al pubblico:",
+    "options": [
+      { "id": "a", "text": "non sono soggette a tali limiti", "why_wrong": null },
+      { "id": "b", "text": "sono soggette a tali limiti, salvo deroga disposta dal Dipartimento per l'informazione e l'editoria", "why_wrong": "L'art. 1, comma 6, esclude tali limiti senza prevedere deroghe o autorizzazioni." },
+      { "id": "c", "text": "sono soggette soltanto ai limiti in materia di sponsorizzazioni", "why_wrong": "Il comma 6 esclude tutti e tre i limiti: pubblicità, sponsorizzazioni e offerte al pubblico." },
+      { "id": "d", "text": "sono soggette a tali limiti quando si svolgono attraverso la pubblicità o le vendite promozionali", "why_wrong": "Pubblicità e vendite promozionali sono forme delle attività di informazione e comunicazione (art. 2, comma 1), che il comma 6 sottrae a tali limiti." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 6, stabilisce che le attività di informazione e di comunicazione istituzionale non sono soggette ai limiti imposti in materia di pubblicità, sponsorizzazioni e offerte al pubblico.",
+    "evidence": [
+      { "ref": "art. 1, comma 6", "text": "Le attività di informazione e di comunicazione istituzionale di cui alla presente legge non sono soggette ai limiti imposti in materia di pubblicità, sponsorizzazioni e offerte al pubblico." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 1, comma 6", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-006",
+    "subject": "comunicazione-pa-l150",
+    "question": "Un Comune deve pubblicare un atto per il quale la legge prevede forme di pubblicità obbligatoria. In base all'art. 1 della L. 150/2000:",
+    "options": [
+      { "id": "a", "text": "resta ferma la disciplina vigente relativa alla pubblicità legale od obbligatoria degli atti pubblici", "why_wrong": null },
+      { "id": "b", "text": "la pubblicazione è sostituita dalle attività di comunicazione istituzionale previste dalla legge", "why_wrong": "La legge fa salva la disciplina della pubblicità legale od obbligatoria, senza sostituirla." },
+      { "id": "c", "text": "la pubblicazione deve essere curata dall'ufficio stampa", "why_wrong": "L'attività dell'ufficio stampa è indirizzata in via prioritaria ai mezzi di informazione di massa (art. 9, comma 1); la pubblicità legale resta regolata dalla disciplina vigente." },
+      { "id": "d", "text": "la pubblicazione richiede il preventivo parere del Dipartimento per l'informazione e l'editoria", "why_wrong": "Il preventivo parere riguarda i progetti di comunicazione a carattere pubblicitario delle amministrazioni dello Stato (art. 13, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 3, fa salva la disciplina vigente sulla pubblicità legale od obbligatoria degli atti pubblici: la L. 150/2000 non la modifica.",
+    "evidence": [
+      { "ref": "art. 1, comma 3", "text": "È fatta salva la disciplina vigente relativa alla pubblicità legale od obbligatoria degli atti pubblici." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 1, comma 3", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-007",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 2 della L. 150/2000, le attività di informazione e di comunicazione delle pubbliche amministrazioni si esplicano:",
+    "options": [
+      { "id": "a", "text": "oltre che per mezzo di programmi di comunicazione istituzionale non pubblicitaria, anche attraverso la pubblicità, le distribuzioni o vendite promozionali, le affissioni, le manifestazioni e la partecipazione a fiere e congressi", "why_wrong": null },
+      { "id": "b", "text": "esclusivamente per mezzo di programmi previsti per la comunicazione istituzionale non pubblicitaria", "why_wrong": "L'art. 2, comma 1, ammette anche la pubblicità, le vendite promozionali, le affissioni e le altre forme elencate." },
+      { "id": "c", "text": "anche attraverso la pubblicità, ma con esclusione delle distribuzioni o vendite promozionali", "why_wrong": "Le distribuzioni o vendite promozionali sono espressamente previste dall'art. 2, comma 1." },
+      { "id": "d", "text": "esclusivamente attraverso le reti civiche e i sistemi telematici multimediali", "why_wrong": "Le attività sono attuate con ogni mezzo di trasmissione idoneo (art. 2, comma 2), non soltanto con strumenti telematici." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2, comma 1, affianca ai programmi di comunicazione istituzionale non pubblicitaria la pubblicità, le distribuzioni o vendite promozionali, le affissioni, l'organizzazione di manifestazioni e la partecipazione a rassegne, fiere e congressi.",
+    "evidence": [
+      { "ref": "art. 2, comma 1", "text": "Le attività di informazione e di comunicazione delle pubbliche amministrazioni si esplicano, oltre che per mezzo di programmi previsti per la comunicazione istituzionale non pubblicitaria, anche attraverso la pubblicità, le distribuzioni o vendite promozionali, le affissioni, l'organizzazione di manifestazioni e la partecipazione a rassegne specialistiche, fiere e congressi." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 2, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-008",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 3 della L. 150/2000, alla trasmissione dei messaggi di pubblico interesse da parte della concessionaria del servizio pubblico radiotelevisivo sono riservati tempi non eccedenti:",
+    "options": [
+      { "id": "a", "text": "il due per cento di ogni ora di programmazione e l'uno per cento dell'orario settimanale di programmazione di ciascuna rete", "why_wrong": null },
+      { "id": "b", "text": "l'uno per cento di ogni ora di programmazione e il due per cento dell'orario settimanale di programmazione di ciascuna rete", "why_wrong": "La norma prevede l'inverso: due per cento di ogni ora e uno per cento dell'orario settimanale." },
+      { "id": "c", "text": "quattro minuti per ogni giorno di trasmissione", "why_wrong": "Il limite dei quattro minuti giornalieri riguarda i messaggi di utilità sociale di cui all'art. 3, comma 3 (art. 3, comma 4)." },
+      { "id": "d", "text": "il due per cento dell'orario settimanale di programmazione di ciascuna rete", "why_wrong": "Il due per cento è riferito a ogni ora di programmazione; per l'orario settimanale di ciascuna rete il limite è l'uno per cento." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 1, affida alla Presidenza del Consiglio dei Ministri la determinazione dei messaggi di pubblico interesse che la concessionaria pubblica può trasmettere gratuitamente, entro il due per cento di ogni ora e l'uno per cento dell'orario settimanale di ciascuna rete.",
+    "evidence": [
+      { "ref": "art. 3, comma 1", "text": "La Presidenza del Consiglio dei Ministri determina i messaggi di utilità sociale ovvero di pubblico interesse, che la concessionaria del servizio pubblico radiotelevisivo può trasmettere a titolo gratuito. Alla trasmissione di messaggi di pubblico interesse previsti dal presente comma sono riservati tempi non eccedenti il due per cento di ogni ora di programmazione e l'uno per cento dell'orario settimanale di programmazione di ciascuna rete." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 3, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-009",
+    "subject": "comunicazione-pa-l150",
+    "question": "Una concessionaria radiotelevisiva trasmette, per finalità di esclusivo interesse sociale, messaggi di utilità sociale ai sensi dell'art. 3, comma 3, della L. 150/2000, e decide di non trasmetterli gratuitamente. In tal caso:",
+    "options": [
+      { "id": "a", "text": "il prezzo degli spazi non può essere superiore al cinquanta per cento del prezzo di listino ufficiale indicato dalla concessionaria", "why_wrong": null },
+      { "id": "b", "text": "il prezzo degli spazi è libero, poiché la legge disciplina soltanto la trasmissione gratuita", "why_wrong": "La norma fissa un tetto al prezzo quando i messaggi non sono trasmessi gratuitamente." },
+      { "id": "c", "text": "la trasmissione non è consentita, perché tali messaggi devono sempre essere gratuiti", "why_wrong": "La norma dice che tali messaggi «possono» essere trasmessi gratuitamente e disciplina anche il caso in cui non lo siano." },
+      { "id": "d", "text": "i messaggi rientrano nel computo degli indici di affollamento orario", "why_wrong": "I messaggi di cui al comma 3 non rientrano nel computo degli indici di affollamento giornaliero né orario (art. 3, comma 4)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 4, consente di trasmettere i messaggi di utilità sociale anche a pagamento, ma in tal caso il prezzo degli spazi non può superare il cinquanta per cento del prezzo di listino ufficiale della concessionaria.",
+    "evidence": [
+      { "ref": "art. 3, comma 4", "text": "I messaggi di cui al comma 3 non rientrano nel computo degli indici di affollamento giornaliero né nel computo degli indici di affollamento orario stabiliti dal presente articolo. Il tempo di trasmissione dei messaggi non può, comunque, occupare più di quattro minuti per ogni giorno di trasmissione per singola concessionaria. Tali messaggi possono essere trasmessi gratuitamente; qualora non lo fossero, il prezzo degli spazi di comunicazione contenenti messaggi di utilità sociale non può essere superiore al cinquanta per cento del prezzo di listino ufficiale indicato dalla concessionaria." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 3, comma 4", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-010",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 4 della L. 150/2000, le attività di formazione del personale addetto all'informazione e alla comunicazione possono essere svolte da strutture private con finalità formative?",
+    "options": [
+      { "id": "a", "text": "Sì, purché adottino i modelli formativi individuati dal regolamento di cui all'art. 5", "why_wrong": null },
+      { "id": "b", "text": "No, possono essere svolte soltanto dalla Scuola superiore della pubblica amministrazione", "why_wrong": "L'art. 4, comma 2, indica anche scuole di altre amministrazioni centrali, università, FORMEZ e strutture pubbliche e private con finalità formative." },
+      { "id": "c", "text": "No, possono essere svolte soltanto dalle università con corsi di laurea in scienze della comunicazione", "why_wrong": "Le università sono solo uno dei soggetti indicati dall'art. 4, comma 2." },
+      { "id": "d", "text": "Sì, purché convenzionate con il Dipartimento per l'informazione e l'editoria", "why_wrong": "La norma richiede l'adozione dei modelli formativi, non una convenzione con il Dipartimento." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4, comma 2, ammette tra i soggetti formatori anche le strutture pubbliche e private con finalità formative che adottano i modelli formativi individuati dal regolamento di cui all'art. 5 (art. 4, comma 1).",
+    "evidence": [
+      { "ref": "art. 4, comma 2", "text": "dalle scuole specializzate di altre amministrazioni centrali, dalle università, con particolare riferimento ai corsi di laurea in scienze della comunicazione e materie assimilate, dal Centro di formazione e studi (FORMEZ), nonché da strutture pubbliche e private con finalità formative che adottano i modelli di cui al comma 1." },
+      { "ref": "art. 4, comma 1", "text": "e programmano la formazione, secondo modelli formativi individuati dal regolamento di cui all'articolo 5." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 4, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-011",
+    "subject": "comunicazione-pa-l150",
+    "question": "Il regolamento previsto dall'art. 5 della L. 150/2000 provvede:",
+    "options": [
+      { "id": "a", "text": "all'individuazione dei titoli per l'accesso del personale da utilizzare per le attività di informazione e di comunicazione e alla disciplina degli interventi formativi e di aggiornamento per il personale che già le svolge", "why_wrong": null },
+      { "id": "b", "text": "all'individuazione e alla regolamentazione dei profili professionali degli uffici per le relazioni con il pubblico", "why_wrong": "I profili professionali degli URP sono affidati alla contrattazione collettiva (art. 8, comma 3)." },
+      { "id": "c", "text": "alla fissazione dei criteri per individuare i soggetti professionali da invitare alle procedure di selezione per le iniziative a carattere pubblicitario", "why_wrong": "Questi criteri sono stabiliti dal regolamento previsto dall'art. 15." },
+      { "id": "d", "text": "alla determinazione dell'indennità del portavoce", "why_wrong": "L'indennità del portavoce è determinata dall'organo di vertice (art. 7, comma 2)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5 prevede un regolamento, da emanare previa intesa con la Conferenza unificata, che individua i titoli di accesso del personale per l'informazione e la comunicazione e disciplina la formazione e l'aggiornamento di chi già svolge tali attività.",
+    "evidence": [
+      { "ref": "art. 5, comma 1", "text": "entro sessanta giorni dalla data di entrata in vigore della presente legge, si provvede alla individuazione dei titoli per l'accesso del personale da utilizzare presso le pubbliche amministrazioni per le attività di informazione e di comunicazione. Il medesimo regolamento prevede e disciplina altresì gli interventi formativi e di aggiornamento per il personale che già svolge attività di informazione e di comunicazione." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 5, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-012",
+    "subject": "comunicazione-pa-l150",
+    "question": "Al momento della prima applicazione della L. 150/2000, in un ente alcuni dipendenti svolgono già funzioni di comunicazione e di informazione. Secondo l'art. 6:",
+    "options": [
+      { "id": "a", "text": "l'ente, nel definire le proprie strutture, conferma a tale personale le funzioni di comunicazione e di informazione", "why_wrong": null },
+      { "id": "b", "text": "l'ente deve sostituire tale personale con personale iscritto all'albo nazionale dei giornalisti", "why_wrong": "L'iscrizione all'albo è richiesta per il personale degli uffici stampa (art. 9, comma 2); l'art. 6, comma 2, prevede la conferma delle funzioni a chi già le svolge." },
+      { "id": "c", "text": "l'ente deve assegnare tale personale all'ufficio per le relazioni con il pubblico", "why_wrong": "La norma prevede la conferma delle funzioni, non un'assegnazione obbligatoria all'URP." },
+      { "id": "d", "text": "l'ente può confermare le funzioni solo dopo l'emanazione del regolamento di cui all'art. 5", "why_wrong": "L'art. 6, comma 2, dispone la conferma in sede di prima applicazione, senza subordinarla al regolamento." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 6, comma 2, stabilisce che ciascuna amministrazione definisce le strutture per l'informazione e la comunicazione confermando, in sede di prima applicazione, tali funzioni al personale che già le svolge.",
+    "evidence": [
+      { "ref": "art. 6, comma 2", "text": "Ciascuna amministrazione definisce, nell'ambito del proprio ordinamento degli uffici e del personale e nei limiti delle risorse disponibili, le strutture e i servizi finalizzati alle attività di informazione e comunicazione e al loro coordinamento, confermando, in sede di prima applicazione della presente legge, le funzioni di comunicazione e di informazione al personale che già le svolge." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 6, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-013",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 7 della L. 150/2000, il portavoce:",
+    "options": [
+      { "id": "a", "text": "coadiuva l'organo di vertice, può essere anche esterno all'amministrazione e cura i rapporti di carattere politico-istituzionale con gli organi di informazione", "why_wrong": null },
+      { "id": "b", "text": "deve essere un dipendente dell'amministrazione iscritto all'albo nazionale dei giornalisti", "why_wrong": "Il portavoce può essere anche esterno all'amministrazione; l'iscrizione all'albo è richiesta per il personale degli uffici stampa (art. 9, comma 2)." },
+      { "id": "c", "text": "dirige l'ufficio stampa con la qualifica di capo ufficio stampa", "why_wrong": "L'ufficio stampa è diretto da un coordinatore che assume la qualifica di capo ufficio stampa (art. 9, comma 3)." },
+      { "id": "d", "text": "cura i rapporti con i cittadini singoli e associati", "why_wrong": "L'attività indirizzata ai cittadini singoli e associati è quella dell'ufficio per le relazioni con il pubblico (art. 8, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "Il portavoce, anche esterno all'amministrazione, coadiuva l'organo di vertice con compiti di diretta collaborazione per i rapporti di carattere politico-istituzionale con gli organi di informazione.",
+    "evidence": [
+      { "ref": "art. 7, comma 1", "text": "L'organo di vertice dell'amministrazione pubblica può essere coadiuvato da un portavoce, anche esterno all'amministrazione, con compiti di diretta collaborazione ai fini dei rapporti di carattere politico-istituzionale con gli organi di informazione." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 7, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-014",
+    "subject": "comunicazione-pa-l150",
+    "question": "Il sindaco di un Comune incarica come portavoce un giornalista esterno all'amministrazione, che collabora con un quotidiano. Ai sensi dell'art. 7 della L. 150/2000, per tutta la durata dell'incarico il portavoce:",
+    "options": [
+      { "id": "a", "text": "non può esercitare attività nei settori radiotelevisivo, del giornalismo, della stampa e delle relazioni pubbliche", "why_wrong": null },
+      { "id": "b", "text": "può continuare a collaborare con il quotidiano, se una deroga è prevista dalla contrattazione collettiva", "why_wrong": "Le deroghe affidate alla contrattazione collettiva riguardano coordinatori e componenti dell'ufficio stampa (art. 9, comma 4); l'art. 7 non le prevede per il portavoce." },
+      { "id": "c", "text": "può continuare a collaborare con il quotidiano, purché non tratti materie di interesse dell'amministrazione", "why_wrong": "Il divieto dell'art. 7 riguarda l'intero settore del giornalismo e della stampa, senza eccezioni per materia." },
+      { "id": "d", "text": "non può esercitare soltanto attività nel settore radiotelevisivo", "why_wrong": "Il divieto riguarda anche i settori del giornalismo, della stampa e delle relazioni pubbliche." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7, comma 1, vieta al portavoce, per tutta la durata dell'incarico, di esercitare attività nei settori radiotelevisivo, del giornalismo, della stampa e delle relazioni pubbliche, senza prevedere deroghe.",
+    "evidence": [
+      { "ref": "art. 7, comma 1", "text": "Il portavoce, incaricato dal medesimo organo, non può, per tutta la durata del relativo incarico, esercitare attività nei settori radiotelevisivo, del giornalismo, della stampa e delle relazioni pubbliche." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 7, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-015",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi della L. 150/2000, l'indennità attribuita al portavoce è determinata:",
+    "options": [
+      { "id": "a", "text": "dall'organo di vertice, nei limiti delle risorse disponibili appositamente iscritte in bilancio", "why_wrong": null },
+      { "id": "b", "text": "dalla contrattazione collettiva, nell'ambito di una speciale area di contrattazione", "why_wrong": "La speciale area di contrattazione riguarda i profili professionali degli uffici stampa (art. 9, comma 5)." },
+      { "id": "c", "text": "dal regolamento di cui all'art. 5", "why_wrong": "Il regolamento dell'art. 5 individua i titoli di accesso e disciplina la formazione del personale." },
+      { "id": "d", "text": "dalla Presidenza del Consiglio dei Ministri", "why_wrong": "La norma attribuisce la determinazione all'organo di vertice dell'amministrazione." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7, comma 2, prevede che l'indennità del portavoce sia determinata dall'organo di vertice nei limiti delle risorse iscritte in bilancio da ciascuna amministrazione per tale finalità.",
+    "evidence": [
+      { "ref": "art. 7, comma 2", "text": "Al portavoce è attribuita una indennità determinata dall'organo di vertice nei limiti delle risorse disponibili appositamente iscritte in bilancio da ciascuna amministrazione per le medesime finalità." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 7, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-016",
+    "subject": "comunicazione-pa-l150",
+    "question": "Un Comune riorganizza il proprio ufficio per le relazioni con il pubblico. Tra i criteri indicati dall'art. 8 della L. 150/2000 rientra:",
+    "options": [
+      { "id": "a", "text": "attuare, mediante l'ascolto dei cittadini e la comunicazione interna, i processi di verifica della qualità dei servizi e di gradimento degli stessi da parte degli utenti", "why_wrong": null },
+      { "id": "b", "text": "curare i collegamenti con gli organi di informazione, assicurando il massimo grado di trasparenza, chiarezza e tempestività delle comunicazioni", "why_wrong": "È il compito del capo ufficio stampa (art. 9, comma 3)." },
+      { "id": "c", "text": "stipulare con i concessionari di spazi pubblicitari accordi quadro sui criteri delle inserzioni e sulle relative tariffe", "why_wrong": "È un compito del Dipartimento per l'informazione e l'editoria (art. 11, comma 2, lett. c)." },
+      { "id": "d", "text": "curare i rapporti di carattere politico-istituzionale con gli organi di informazione", "why_wrong": "È il compito del portavoce (art. 7, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, comma 2, lett. d), indica tra i criteri di riorganizzazione dell'URP l'attuazione, mediante l'ascolto dei cittadini e la comunicazione interna, dei processi di verifica della qualità e del gradimento dei servizi. L'attività dell'URP è indirizzata ai cittadini singoli e associati.",
+    "evidence": [
+      { "ref": "art. 8, comma 2", "text": "d) attuare, mediante l'ascolto dei cittadini e la comunicazione interna, i processi di verifica della qualità dei servizi e di gradimento degli stessi da parte degli utenti;" },
+      { "ref": "art. 8, comma 1", "text": "L'attività dell'ufficio per le relazioni con il pubblico è indirizzata ai cittadini singoli e associati." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 8, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-017",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 8 della L. 150/2000, le pubbliche amministrazioni provvedono alla ridefinizione dei compiti e alla riorganizzazione degli uffici per le relazioni con il pubblico:",
+    "options": [
+      { "id": "a", "text": "entro sei mesi dalla data di entrata in vigore della legge, nell'esercizio della propria potestà regolamentare", "why_wrong": null },
+      { "id": "b", "text": "entro sessanta giorni dalla data di entrata in vigore della legge, con il regolamento previsto dall'art. 5", "why_wrong": "Il termine di sessanta giorni riguarda il regolamento sui titoli di accesso e sulla formazione del personale (art. 5)." },
+      { "id": "c", "text": "entro quarantacinque giorni dalla data di entrata in vigore della legge, su proposta del Presidente del Consiglio dei Ministri", "why_wrong": "Il termine di quarantacinque giorni e la proposta del Presidente del Consiglio riguardano il regolamento sulle procedure di selezione (art. 15)." },
+      { "id": "d", "text": "entro il mese di novembre di ogni anno, d'intesa con il Dipartimento per l'informazione e l'editoria", "why_wrong": "Il mese di novembre è il termine per trasmettere al Dipartimento il programma annuale delle amministrazioni statali (art. 11, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, comma 2, dà alle pubbliche amministrazioni sei mesi dall'entrata in vigore della legge per ridefinire i compiti e riorganizzare gli URP, esercitando la propria potestà regolamentare secondo i criteri indicati.",
+    "evidence": [
+      { "ref": "art. 8, comma 2", "text": "Le pubbliche amministrazioni, entro sei mesi dalla data di entrata in vigore della presente legge, provvedono, nell'esercizio della propria potestà regolamentare, alla ridefinizione dei compiti e alla riorganizzazione degli uffici per le relazioni con il pubblico secondo i seguenti criteri:" }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 8, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-018",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi della L. 150/2000, negli uffici stampa l'individuazione e la regolamentazione dei profili professionali sono affidate:",
+    "options": [
+      { "id": "a", "text": "alla contrattazione collettiva nell'ambito di una speciale area di contrattazione, con l'intervento delle organizzazioni rappresentative della categoria dei giornalisti", "why_wrong": null },
+      { "id": "b", "text": "alla contrattazione collettiva, senza una speciale area di contrattazione, come avviene per gli uffici per le relazioni con il pubblico", "why_wrong": "Per gli uffici stampa è prevista una speciale area di contrattazione con l'intervento delle organizzazioni dei giornalisti; la sola contrattazione collettiva è prevista per gli URP (art. 8, comma 3)." },
+      { "id": "c", "text": "al regolamento di cui all'art. 5", "why_wrong": "Il regolamento dell'art. 5 individua i titoli per l'accesso del personale, non i profili professionali degli uffici stampa." },
+      { "id": "d", "text": "al capo ufficio stampa, sulla base delle direttive dell'organo di vertice", "why_wrong": "Il capo ufficio stampa cura i collegamenti con gli organi di informazione (art. 9, comma 3)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, comma 5, affida i profili professionali degli uffici stampa alla contrattazione collettiva in una speciale area, con l'intervento delle organizzazioni rappresentative dei giornalisti.",
+    "evidence": [
+      { "ref": "art. 9, comma 5", "text": "Negli uffici stampa l'individuazione e la regolamentazione dei profili professionali sono affidate alla contrattazione collettiva nell'ambito di una speciale area di contrattazione, con l'intervento delle organizzazioni rappresentative della categoria dei giornalisti." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 9, comma 5", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-019",
+    "subject": "comunicazione-pa-l150",
+    "question": "Tre piccoli Comuni intendono dotarsi di un unico ufficio stampa. Ai sensi dell'art. 9 della L. 150/2000:",
+    "options": [
+      { "id": "a", "text": "possono farlo, perché le amministrazioni possono dotarsi di un ufficio stampa anche in forma associata", "why_wrong": null },
+      { "id": "b", "text": "non possono farlo, perché ciascuna amministrazione è obbligata a dotarsi di un proprio ufficio stampa", "why_wrong": "L'art. 9, comma 1, dice che le amministrazioni «possono» dotarsi di un ufficio stampa, anche in forma associata." },
+      { "id": "c", "text": "possono farlo solo previo parere del Dipartimento per l'informazione e l'editoria", "why_wrong": "Il preventivo parere del Dipartimento riguarda i progetti di comunicazione a carattere pubblicitario delle amministrazioni dello Stato (art. 13, comma 1)." },
+      { "id": "d", "text": "possono farlo solo se l'attività dell'ufficio è indirizzata ai cittadini singoli e associati", "why_wrong": "L'attività dell'ufficio stampa è indirizzata in via prioritaria ai mezzi di informazione di massa; ai cittadini singoli e associati si rivolge l'URP (art. 8, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, comma 1, consente alle pubbliche amministrazioni di dotarsi di un ufficio stampa anche in forma associata; la sua attività è indirizzata in via prioritaria ai mezzi di informazione di massa.",
+    "evidence": [
+      { "ref": "art. 9, comma 1", "text": "possono dotarsi, anche in forma associata, di un ufficio stampa, la cui attività è in via prioritaria indirizzata ai mezzi di informazione di massa." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 9, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-020",
+    "subject": "comunicazione-pa-l150",
+    "question": "Un Comune intende inserire nel proprio ufficio stampa un giornalista iscritto all'albo nazionale, estraneo alla pubblica amministrazione. Ai sensi dell'art. 9 della L. 150/2000:",
+    "options": [
+      { "id": "a", "text": "è possibile, se il giornalista possiede i titoli individuati dal regolamento di cui all'art. 5, nei limiti delle risorse disponibili in bilancio", "why_wrong": null },
+      { "id": "b", "text": "non è possibile, perché l'ufficio stampa può essere costituito solo da dipendenti delle amministrazioni pubbliche", "why_wrong": "La dotazione dell'ufficio stampa può comprendere anche personale estraneo alla pubblica amministrazione (art. 9, comma 2)." },
+      { "id": "c", "text": "è possibile solo in posizione di comando o fuori ruolo", "why_wrong": "Il comando o il fuori ruolo riguardano i dipendenti delle amministrazioni pubbliche, non il personale estraneo alla pubblica amministrazione." },
+      { "id": "d", "text": "è possibile senza limiti di spesa, trattandosi di attività non soggetta ai limiti in materia di pubblicità", "why_wrong": "L'utilizzo di tale personale avviene nei limiti delle risorse disponibili nei bilanci di ciascuna amministrazione (art. 9, comma 2)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, comma 2, prevede che la dotazione dell'ufficio stampa, sempre iscritta all'albo dei giornalisti, possa comprendere personale estraneo alla PA in possesso dei titoli del regolamento dell'art. 5, nei limiti delle risorse disponibili in bilancio.",
+    "evidence": [
+      { "ref": "art. 9, comma 2", "text": "Tale dotazione di personale è costituita da dipendenti delle amministrazioni pubbliche, anche in posizione di comando o fuori ruolo, o da personale estraneo alla pubblica amministrazione in possesso dei titoli individuati dal regolamento di cui all'articolo 5" },
+      { "ref": "art. 9, comma 2", "text": "nei limiti delle risorse disponibili nei bilanci di ciascuna amministrazione per le medesime finalità." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 9, comma 2", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-021",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 9 della L. 150/2000, l'ufficio stampa è diretto:",
+    "options": [
+      { "id": "a", "text": "da un coordinatore, che assume la qualifica di capo ufficio stampa e cura i collegamenti con gli organi di informazione sulla base delle direttive dell'organo di vertice", "why_wrong": null },
+      { "id": "b", "text": "dal portavoce dell'organo di vertice", "why_wrong": "Il portavoce coadiuva l'organo di vertice nei rapporti politico-istituzionali con gli organi di informazione (art. 7, comma 1); non dirige l'ufficio stampa." },
+      { "id": "c", "text": "dal responsabile dell'ufficio per le relazioni con il pubblico", "why_wrong": "L'URP è una struttura distinta, la cui attività è indirizzata ai cittadini singoli e associati (art. 8, comma 1)." },
+      { "id": "d", "text": "da un dirigente designato dal Dipartimento per l'informazione e l'editoria", "why_wrong": "La norma affida la direzione a un coordinatore che opera sulle direttive dell'organo di vertice dell'amministrazione." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, comma 3, affida la direzione dell'ufficio stampa a un coordinatore con qualifica di capo ufficio stampa, che cura i collegamenti con gli organi di informazione secondo le direttive dell'organo di vertice.",
+    "evidence": [
+      { "ref": "art. 9, comma 3", "text": "L'ufficio stampa è diretto da un coordinatore, che assume la qualifica di capo ufficio stampa, il quale, sulla base delle direttive impartite dall'organo di vertice dell'amministrazione, cura i collegamenti con gli organi di informazione, assicurando il massimo grado di trasparenza, chiarezza e tempestività delle comunicazioni da fornire nelle materie di interesse dell'amministrazione." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 9, comma 3", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-022",
+    "subject": "comunicazione-pa-l150",
+    "question": "Per i coordinatori e i componenti dell'ufficio stampa, il divieto di esercitare, per tutta la durata degli incarichi, attività professionali nei settori radiotelevisivo, del giornalismo, della stampa e delle relazioni pubbliche:",
+    "options": [
+      { "id": "a", "text": "ammette eventuali deroghe previste dalla contrattazione collettiva di cui all'art. 9, comma 5", "why_wrong": null },
+      { "id": "b", "text": "non ammette alcuna deroga", "why_wrong": "L'art. 9, comma 4, consente eventuali deroghe previste dalla contrattazione collettiva." },
+      { "id": "c", "text": "si applica al solo coordinatore e non agli altri componenti dell'ufficio", "why_wrong": "Il divieto riguarda sia i coordinatori sia i componenti dell'ufficio stampa." },
+      { "id": "d", "text": "ammette deroghe disposte dall'organo di vertice dell'amministrazione", "why_wrong": "Le deroghe sono affidate alla contrattazione collettiva, non all'organo di vertice." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, comma 4, pone il divieto per coordinatori e componenti dell'ufficio stampa, ma consente che la contrattazione collettiva di cui al comma 5 preveda eventuali deroghe.",
+    "evidence": [
+      { "ref": "art. 9, comma 4", "text": "I coordinatori e i componenti dell'ufficio stampa non possono esercitare, per tutta la durata dei relativi incarichi, attività professionali nei settori radiotelevisivo, del giornalismo, della stampa e delle relazioni pubbliche. Eventuali deroghe possono essere previste dalla contrattazione collettiva di cui al comma 5." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 9, comma 4", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-023",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 10 della L. 150/2000, le disposizioni del Capo I della legge:",
+    "options": [
+      { "id": "a", "text": "costituiscono principi fondamentali ai sensi dell'art. 117 della Costituzione e si applicano anche alle regioni a statuto speciale e alle province autonome, nei limiti e nel rispetto degli statuti e delle relative norme di attuazione", "why_wrong": null },
+      { "id": "b", "text": "si applicano alle sole amministrazioni statali", "why_wrong": "L'art. 10 estende il Capo I anche alle regioni a statuto speciale e alle province autonome; alle amministrazioni statali si riferiscono i programmi di comunicazione dell'art. 11." },
+      { "id": "c", "text": "non si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano", "why_wrong": "L'art. 10 le dichiara applicabili anche a tali enti." },
+      { "id": "d", "text": "si applicano alle regioni a statuto speciale e alle province autonome senza limiti derivanti dai loro statuti", "why_wrong": "L'applicazione avviene nei limiti e nel rispetto degli statuti e delle relative norme di attuazione." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10 qualifica le disposizioni del Capo I come principi fondamentali ai sensi dell'art. 117 Cost. e le estende alle regioni a statuto speciale e alle province autonome, nel rispetto dei loro statuti e delle norme di attuazione.",
+    "evidence": [
+      { "ref": "art. 10, comma 1", "text": "Le disposizioni del presente capo costituiscono principi fondamentali ai sensi dell'articolo 117 della Costituzione" },
+      { "ref": "art. 10, comma 1", "text": "e si applicano, altresì, alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano nei limiti e nel rispetto degli statuti e delle relative norme di attuazione." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 10, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-024",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 11 della L. 150/2000, il programma delle iniziative di comunicazione che le amministrazioni statali intendono realizzare nell'anno successivo è trasmesso:",
+    "options": [
+      { "id": "a", "text": "entro il mese di novembre di ogni anno al Dipartimento per l'informazione e l'editoria", "why_wrong": null },
+      { "id": "b", "text": "entro il 31 gennaio dell'anno successivo al Presidente del Consiglio dei Ministri", "why_wrong": "Entro il 31 gennaio dell'anno successivo i Ministri trasmettono al Presidente del Consiglio la relazione sulla realizzazione del piano (art. 12, comma 2)." },
+      { "id": "c", "text": "entro il mese di novembre di ogni anno alla Conferenza unificata", "why_wrong": "Il programma va trasmesso al Dipartimento per l'informazione e l'editoria; alla Conferenza unificata si comunicano i regolamenti di cui all'art. 2, comma 3." },
+      { "id": "d", "text": "entro sei mesi dall'approvazione del piano di comunicazione, al Presidente del Consiglio dei Ministri", "why_wrong": "Il piano di comunicazione è predisposto dal Dipartimento sulla base dei programmi già presentati dalle amministrazioni statali (art. 12, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "Le amministrazioni statali elaborano ogni anno il programma delle iniziative di comunicazione per l'anno successivo, sulla base delle indicazioni metodologiche del Dipartimento, e lo trasmettono a quest'ultimo entro novembre.",
+    "evidence": [
+      { "ref": "art. 11, comma 1", "text": "le amministrazioni statali elaborano annualmente il programma delle iniziative di comunicazione che intendono realizzare nell'anno successivo, comprensivo dei progetti di cui all'articolo 13, sulla base delle indicazioni metodologiche del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri. Il programma è trasmesso entro il mese di novembre di ogni anno allo stesso Dipartimento." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 11, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-025",
+    "subject": "comunicazione-pa-l150",
+    "question": "Ai sensi dell'art. 12 della L. 150/2000, il piano di comunicazione:",
+    "options": [
+      { "id": "a", "text": "è predisposto annualmente dal Dipartimento per l'informazione e l'editoria sulla base dei programmi delle amministrazioni statali ed è approvato dal Presidente del Consiglio dei Ministri", "why_wrong": null },
+      { "id": "b", "text": "è predisposto da ciascuna amministrazione statale e trasmesso entro il mese di novembre al Dipartimento per l'informazione e l'editoria", "why_wrong": "Questo è il programma delle iniziative di comunicazione delle singole amministrazioni (art. 11, comma 1), sulla cui base il Dipartimento predispone il piano." },
+      { "id": "c", "text": "è predisposto dal Dipartimento per l'informazione e l'editoria ed è approvato previa intesa con la Conferenza unificata", "why_wrong": "Il piano è approvato dal Presidente del Consiglio dei Ministri; l'intesa con la Conferenza unificata è prevista per il regolamento dell'art. 5." },
+      { "id": "d", "text": "è approvato dall'organo di vertice di ciascuna amministrazione per le parti di specifica competenza", "why_wrong": "Le singole amministrazioni realizzano il piano per le parti di specifica competenza (art. 12, comma 2); l'approvazione spetta al Presidente del Consiglio dei Ministri." }
+    ],
+    "correct": "a",
+    "explanation": "Il Dipartimento per l'informazione e l'editoria predispone ogni anno il piano di comunicazione sulla base dei programmi delle amministrazioni statali; il piano è approvato dal Presidente del Consiglio dei Ministri e trasmesso alle amministrazioni, che lo realizzano per le parti di competenza.",
+    "evidence": [
+      { "ref": "art. 12, comma 1", "text": "Sulla base dei programmi presentati dalle amministrazioni statali, il Dipartimento per l'informazione e l'editoria predispone annualmente il piano di comunicazione" },
+      { "ref": "art. 12, comma 1", "text": "che è approvato dal Presidente del Consiglio dei Ministri." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 12, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l150-026",
+    "subject": "comunicazione-pa-l150",
+    "question": "Un Ministero intende realizzare una campagna di comunicazione a carattere pubblicitario da diffondere in televisione e sui quotidiani nazionali. Ai sensi dell'art. 13 della L. 150/2000, il Ministero:",
+    "options": [
+      { "id": "a", "text": "deve inviare il progetto al Dipartimento per l'informazione e l'editoria, ai fini della formulazione di un preventivo parere", "why_wrong": null },
+      { "id": "b", "text": "non deve inviare il progetto ad alcun organo, perché le attività di comunicazione istituzionale non sono soggette ai limiti in materia di pubblicità", "why_wrong": "L'esclusione dai limiti in materia di pubblicità (art. 1, comma 6) non incide sull'obbligo di invio dei progetti al Dipartimento previsto dall'art. 13, comma 1." },
+      { "id": "c", "text": "deve ottenere l'approvazione del progetto da parte del Presidente del Consiglio dei Ministri", "why_wrong": "Il Presidente del Consiglio approva il piano di comunicazione (art. 12, comma 1); sui progetti a carattere pubblicitario il Dipartimento formula un preventivo parere." },
+      { "id": "d", "text": "deve sottoporre il progetto all'Autorità per le garanzie nelle comunicazioni", "why_wrong": "L'Autorità è richiamata dall'art. 15 per i criteri sulla selezione dei soggetti professionali, non per il parere sui progetti." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 13, comma 1, obbliga le amministrazioni dello Stato a inviare al Dipartimento per l'informazione e l'editoria, per un preventivo parere, i progetti di comunicazione a carattere pubblicitario diffusi sui mezzi di comunicazione di massa.",
+    "evidence": [
+      { "ref": "art. 13, comma 1", "text": "Le amministrazioni dello Stato sono tenute ad inviare al Dipartimento per l'informazione e l'editoria, ai fini della formulazione di un preventivo parere, i progetti di comunicazione a carattere pubblicitario che prevedono la diffusione dei messaggi sui mezzi di comunicazione di massa." }
+    ],
+    "source": { "act": "L. 150/2000", "article": "art. 13, comma 1", "file": "sources/L. 150 2000.txt", "url": null },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
