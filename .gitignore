@@ -2,3 +2,4 @@
 data/questions/index.json
 
 __pycache__/
+tests/screenshots/

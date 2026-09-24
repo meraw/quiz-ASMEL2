@@ -7,7 +7,9 @@
  *   1. Settings and small helpers
  *   2. Saved data (localStorage): progress, flags, settings
  *   3. Loading and validating questions from the data/ folder
- *   4. Choosing questions for each mode (practice, simulation, errors, weak points)
+ *   4. Choosing questions for each mode (practice, daily session, simulation,
+ *      errors, weak points). The study rules themselves (consolidated
+ *      questions, daily session, score estimate) are in study.js.
  *   5. Screens (each function draws one screen into <main id="app">)
  *   6. Button handling (one listener for the whole page)
  *   7. Start-up
@@ -25,11 +27,13 @@
   const APP_ID = 'asmel-quiz';       // written in backups, checked on import
   // Question statuses and validation rules live in validation.js (shared with tools/validate.js)
   const { STATUS_VALUES, validateBank } = window.QuizValidation;
+  // Study rules (history of answers, consolidated, daily session, estimate) live in study.js
+  const Study = window.QuizStudy;
   const STATUS_LABELS = { verificata: 'Ver.', rivista: 'Riv.', da_verificare: 'DaV', da_rivedere: 'DaR', demo: 'Demo' };
   const BLOCK_NAMES = {
     specific: 'Materie specifiche',
     common_law: 'Materie comuni – giuridiche',
-    common_lang_it: 'Materie comuni – inglese e informatica'
+    common_lang_it: 'Materie comuni – informatica'
   };
 
   const $app = document.getElementById('app');
@@ -56,8 +60,14 @@
     return total ? Math.round((part / total) * 100) : 0;
   }
 
+  /** Today's date in the phone's time zone (YYYY-MM-DD). */
   function todayISO() {
-    return new Date().toISOString().slice(0, 10);
+    return Study.localDay(Date.now());
+  }
+
+  /** Number with at most one decimal, Italian style (7,5). */
+  function fmtNum(x) {
+    return String(Math.round(x * 10) / 10).replace('.', ',');
   }
 
   function formatTime(ms) {
@@ -80,26 +90,48 @@
    * 2. SAVED DATA (localStorage)
    * ---------------------------------------------------------------------
    * Everything is kept in one JSON object:
-   *   profile   - default profile id chosen at first launch
-   *   progress  - per question id: { attempts, correct, wrong, lastCorrect,
-   *               streak (correct answers in a row), inErrors, lastAt }
-   *   flags     - per question id: { note, date }   ("Segnala dubbio")
-   *   activeSim - a simulation in progress (so it survives a page reload)
-   *   lastSim   - the last finished simulation (to review it again)
-   *   simHistory- short summary of every finished simulation
+   *   version     - 2 (older data is migrated on load, see study.js)
+   *   profile     - default profile id chosen at first launch
+   *   progress    - per question id: { attempts, correct, wrong, lastCorrect,
+   *                 streak, inErrors, lastAt, h (last 30 answers with time) }
+   *   flags       - per question id: { note, date }   ("Segnala dubbio")
+   *   settings    - { dailySize, examDate }
+   *   activeSim   - a simulation in progress (so it survives a page reload)
+   *   lastSim     - the last finished simulation (to review it again)
+   *   simHistory  - short summary of every finished simulation
+   *   activeDaily - the "Sessione del giorno" in progress
+   *   dailyHistory- short summary of every finished daily session
    * ===================================================================== */
 
   function emptyStore() {
-    return { app: APP_ID, version: 1, profile: null, progress: {}, flags: {}, activeSim: null, lastSim: null, simHistory: [] };
+    return Study.emptyStore(APP_ID);
   }
 
+  /**
+   * Read the saved data and bring it to the current version (see migrateStore
+   * in study.js). Before the first migration an untouched copy of the old data
+   * is kept under STORE_KEY + '-before-v2'; data that cannot be read is copied
+   * under STORE_KEY + '-unreadable' before starting fresh, so nothing is lost.
+   */
   function loadStore() {
+    let raw = null;
     try {
-      const raw = localStorage.getItem(STORE_KEY);
+      raw = localStorage.getItem(STORE_KEY);
       if (!raw) return emptyStore();
-      return Object.assign(emptyStore(), JSON.parse(raw));
+      const parsed = JSON.parse(raw);
+      if (!parsed || typeof parsed !== 'object') throw new Error('not an object');
+      if ((parsed.version || 1) < Study.STORE_VERSION) {
+        try {
+          if (!localStorage.getItem(STORE_KEY + '-before-v2')) localStorage.setItem(STORE_KEY + '-before-v2', raw);
+        } catch (e) { /* no room for the copy: the migration itself keeps every answer */ }
+        const migrated = Study.migrateStore(parsed, APP_ID);
+        localStorage.setItem(STORE_KEY, JSON.stringify(migrated));
+        return migrated;
+      }
+      return Study.migrateStore(parsed, APP_ID);
     } catch (e) {
       console.warn('Saved data could not be read, starting fresh', e);
+      try { if (raw) localStorage.setItem(STORE_KEY + '-unreadable', raw); } catch (e2) { /* ignore */ }
       return emptyStore();
     }
   }
@@ -114,23 +146,9 @@
     }
   }
 
-  /** Update the statistics of one question after an answer. */
+  /** Update the statistics of one question after an answer (rules in study.js). */
   function recordAnswer(qid, isCorrect) {
-    const p = store.progress[qid] || { attempts: 0, correct: 0, wrong: 0, lastCorrect: null, streak: 0, inErrors: false };
-    p.attempts++;
-    p.lastAt = Date.now();
-    p.lastCorrect = isCorrect;
-    if (isCorrect) {
-      p.correct++;
-      p.streak++;
-      // A question leaves "Ripasso errori" after two correct answers in a row
-      if (p.inErrors && p.streak >= 2) p.inErrors = false;
-    } else {
-      p.wrong++;
-      p.streak = 0;
-      p.inErrors = true;
-    }
-    store.progress[qid] = p;
+    Study.recordAnswer(store, qid, isCorrect, Date.now());
   }
 
   /* =====================================================================
@@ -200,17 +218,38 @@
    * 4. CHOOSING QUESTIONS
    * ===================================================================== */
 
-  function profileSubjects(profileId) {
-    const p = data.profileById[profileId];
-    const specific = p ? p.specific_subjects.filter((id) => data.subjectById[id]) : [];
-    const common = data.subjects.filter((s) => s.block !== 'specific').map((s) => s.id);
-    return specific.concat(common);
+  /** Id of the English subject: not studied, only assumed correct in the simulation and the estimate. */
+  function englishId() {
+    return (data.simRules && data.simRules.english && data.simRules.english.subject) || null;
   }
 
-  /** Subject ids of a simulation block for a profile. */
-  function blockSubjects(profileId, block) {
-    if (block === 'specific') return profileSubjects(profileId).filter((id) => data.subjectById[id].block === 'specific');
-    return data.subjects.filter((s) => s.block === block).map((s) => s.id);
+  /** Subjects studied for a profile: its specific subjects, then the common ones, English excluded. */
+  function profileSubjects(profileId) {
+    return specificSubjects(profileId).concat(commonSubjects());
+  }
+
+  function specificSubjects(profileId) {
+    const p = data.profileById[profileId];
+    return p ? p.specific_subjects.filter((id) => data.subjectById[id] && id !== englishId()) : [];
+  }
+
+  function commonSubjects() {
+    return data.subjects.filter((s) => s.block !== 'specific' && s.id !== englishId()).map((s) => s.id);
+  }
+
+  /**
+   * The exam blocks for a profile (see examPlan in study.js): how many
+   * questions each block and subject has, English removed from its block.
+   */
+  function examPlan(profileId) {
+    const blocks = {};
+    Object.keys(data.simRules.blocks).forEach((block) => {
+      const p = data.profileById[profileId];
+      blocks[block] = block === 'specific'
+        ? (p ? p.specific_subjects.filter((id) => data.subjectById[id]) : [])
+        : data.subjects.filter((s) => s.block === block).map((s) => s.id);
+    });
+    return Study.examPlan(data.simRules, blocks);
   }
 
   function questionsOf(subjectIds) {
@@ -237,8 +276,22 @@
     return (count === 'all' ? ordered : ordered.slice(0, count)).map(makeItem);
   }
 
+  /** Questions in "Ripasso errori" (English excluded). They leave it once consolidated (study.js). */
   function errorPool() {
-    return data.questions.filter((q) => store.progress[q.id] && store.progress[q.id].inErrors);
+    return data.questions.filter((q) => q.subject !== englishId() && store.progress[q.id] && store.progress[q.id].inErrors);
+  }
+
+  /** Copertura, consolidate and % corrette recenti of one subject (study.js). */
+  function subjectProgress(subjectId) {
+    return Study.subjectProgress(questionsOf([subjectId]), store.progress);
+  }
+
+  /** Score estimate for a profile (study.js). */
+  function estimate(profileId) {
+    const plan = examPlan(profileId);
+    const stats = {};
+    Object.keys(plan.expected).forEach((id) => { stats[id] = subjectProgress(id); });
+    return Study.estimateScore(data.simRules, plan, stats);
   }
 
   /** Error rate of a subject: (wrong + 1) / (attempts + 2), so few answers don't give extreme values. */
@@ -285,6 +338,11 @@
       .slice(0, howMany);
   }
 
+  /** Questions of the "Sessione del giorno" for a profile (composition rules in study.js). */
+  function buildDaily(profileId) {
+    return Study.buildDaily(questionsOf(profileSubjects(profileId)), store.progress, store.settings.dailySize, Date.now());
+  }
+
   /**
    * Build the simulation question list.
    * For each block: split the quota evenly across its subjects; if a subject
@@ -292,13 +350,14 @@
    * the same block and record a notice.
    */
   function buildSimulation(profileId) {
-    const rules = data.simRules;
+    const plan = examPlan(profileId);
     const items = [];
     const notices = [];
 
-    Object.keys(rules.blocks).forEach((block) => {
-      const need = rules.blocks[block];
-      const subjects = shuffle(blockSubjects(profileId, block));
+    Object.keys(plan.perBlock).forEach((block) => {
+      // The English questions are not drawn: they are counted as correct at the end
+      const need = plan.perBlock[block].need;
+      const subjects = shuffle(plan.perBlock[block].subjects);
       if (!subjects.length || need <= 0) return;
 
       // Even split; the remainder goes to randomly chosen subjects
@@ -323,7 +382,7 @@
       items.push(...shuffle(picked).map(makeItem));
     });
 
-    return { items, notices };
+    return { items, notices, english: plan.english };
   }
 
   /* =====================================================================
@@ -396,23 +455,95 @@
     );
   }
 
-  /* ---------- Home menu ---------- */
+  /* ---------- Home: daily session, estimate, progress per subject, menu ---------- */
+  function countdownHTML() {
+    const days = Study.daysUntil(store.settings.examDate, Date.now());
+    if (days == null || days < 0) return '';
+    const text = days === 0 ? 'La prova è oggi' : days === 1 ? 'Manca 1 giorno alla prova' : 'Mancano ' + days + ' giorni alla prova';
+    return '<p class="countdown">' + text + '</p>';
+  }
+
+  function dailyDoneToday() {
+    const today = todayISO();
+    return store.dailyHistory.some((d) => d.day === today && d.completed);
+  }
+
+  function dailyButtonHTML() {
+    const a = store.activeDaily;
+    if (a) {
+      const answered = a.items.filter((i) => i.answer != null).length;
+      return '<button type="button" class="menu-btn daily highlight" data-action="resume-daily"><strong>▶ Riprendi la sessione del giorno</strong>' +
+        '<span>' + answered + ' di ' + a.items.length + ' domande fatte</span></button>';
+    }
+    if (dailyDoneToday()) {
+      return '<button type="button" class="menu-btn daily done" data-action="start-daily"><strong>✓ Sessione di oggi completata</strong>' +
+        '<span>Se vuoi, puoi farne un\'altra</span></button>';
+    }
+    return '<button type="button" class="menu-btn daily" data-action="start-daily"><strong>Sessione del giorno</strong>' +
+      '<span>' + store.settings.dailySize + ' domande scelte per te: errori da ripassare, materie deboli, domande nuove</span></button>';
+  }
+
+  function estimateHTML(profileId) {
+    const e = estimate(profileId);
+    const missing = e.missing.length;
+    const english = e.english ? '<p class="small muted">Include ' + e.english + ' quesiti di inglese considerati corretti (non studiato). Una materia entra nella stima dopo ' + Study.MIN_ANSWERS + ' risposte.</p>' : '';
+    if (!e.covered) {
+      return '<div class="card estimate"><p><b>Stima non ancora disponibile</b> · materie senza dati: ' + missing + '</p>' +
+        '<p class="small muted">Soglia: ' + e.threshold + '. Rispondi ad almeno ' + Study.MIN_ANSWERS + ' domande di una materia per iniziare a stimare il punteggio.</p></div>';
+    }
+    const score = Math.round(e.score);
+    return '<div class="card estimate">' +
+      '<p class="estimate-line"><b>Stima: ' + score + '/' + e.total + '</b> · basata su ' + fmtNum(e.covered) + ' quesiti su ' + e.total + ' · materie senza dati: ' + missing + '</p>' +
+      '<p class="estimate-line">Soglia: <b>' + e.threshold + '</b>' + (e.partial ? ' <span class="badge">Stima parziale</span>' : '') + '</p>' +
+      english + '</div>';
+  }
+
+  function barHTML(part, total, cls) {
+    return '<span class="bar' + (cls ? ' ' + cls : '') + '"><span style="width:' + pct(part, total) + '%"></span></span>';
+  }
+
+  function subjectRowHTML(id) {
+    const s = subjectProgress(id);
+    const name = esc(subjectName(id));
+    if (!s.total) {
+      return '<div class="subject-row empty"><span class="subject-name">' + name + '</span><span class="small">Nessuna domanda ancora</span></div>';
+    }
+    const recent = s.recentCount
+      ? '<b>' + pct(s.recentCorrect, s.recentCount) + '%</b> corrette recenti <span class="muted">(' + s.recentCorrect + ' su ' + s.recentCount + ')</span>'
+      : '<span class="muted">Nessuna risposta ancora</span>';
+    return '<button type="button" class="subject-row" data-action="practice-subject" data-id="' + esc(id) + '">' +
+      '<span class="subject-name">' + name + '</span>' +
+      '<span class="metric"><span class="metric-label">Copertura</span>' + barHTML(s.seen, s.total) + '<span class="metric-num">' + s.seen + '/' + s.total + '</span></span>' +
+      '<span class="metric"><span class="metric-label">Consolidate</span>' + barHTML(s.consolidated, s.total, 'ok') + '<span class="metric-num">' + s.consolidated + '/' + s.total + '</span></span>' +
+      '<span class="subject-recent">' + recent + '</span></button>';
+  }
+
   function renderHome() {
     if (!store.profile || !data.profileById[store.profile]) return renderFirstLaunch();
+    const profileId = store.profile;
     const errors = errorPool().length;
     const resume = store.activeSim
       ? '<button type="button" class="menu-btn highlight" data-action="resume-sim"><strong>▶ Riprendi simulazione</strong><span>Hai una simulazione in corso</span></button>'
       : '';
     const problems = data.invalid.length + data.fileErrors.length + data.warnings.length;
+    const groups = [['Materie specifiche', specificSubjects(profileId)], ['Materie comuni', commonSubjects()]];
     render(
-      '<p class="muted small">Profilo: <b>' + esc(profileName(store.profile)) + '</b> · ' + data.questions.length + ' domande caricate</p>' +
+      countdownHTML() +
+      '<p class="muted small">Profilo: <b>' + esc(profileName(profileId)) + '</b> · ' + questionsOf(profileSubjects(profileId)).length + ' domande disponibili</p>' +
       resume +
+      dailyButtonHTML() +
+      estimateHTML(profileId) +
+      groups.filter(([, ids]) => ids.length).map(([title, ids]) =>
+        '<h2>' + title + '</h2><div class="subject-list">' + ids.map(subjectRowHTML).join('') + '</div>'
+      ).join('') +
+      '<p class="small muted">Tocca una materia per allenarti su di essa. Una domanda è <b>consolidata</b> quando le ultime due risposte sono corrette e date in due giorni diversi.</p>' +
+      '<h2>Altre attività</h2>' +
       '<button type="button" class="menu-btn" data-action="go" data-screen="practiceSetup"><strong>Allenamento</strong><span>Scegli le materie, correzione immediata</span></button>' +
       '<button type="button" class="menu-btn" data-action="go" data-screen="simSetup"><strong>Simulazione d\'esame</strong><span>' + data.simRules.total_questions + ' domande, ' + data.simRules.duration_minutes + ' minuti</span></button>' +
       '<button type="button" class="menu-btn" data-action="go" data-screen="errorsSetup"><strong>Ripasso errori</strong><span>' + errors + ' domande da ripassare</span></button>' +
       '<button type="button" class="menu-btn" data-action="go" data-screen="weakSetup"><strong>Punti deboli</strong><span>Più domande dalle materie in cui sbagli di più</span></button>' +
-      '<button type="button" class="menu-btn" data-action="go" data-screen="stats"><strong>Statistiche</strong><span>Andamento per materia</span></button>' +
-      '<button type="button" class="menu-btn" data-action="go" data-screen="settings"><strong>Impostazioni</strong><span>Profilo, segnalazioni, backup</span></button>' +
+      '<button type="button" class="menu-btn" data-action="go" data-screen="stats"><strong>Statistiche</strong><span>Totali e ultime simulazioni</span></button>' +
+      '<button type="button" class="menu-btn" data-action="go" data-screen="settings"><strong>Impostazioni</strong><span>Profilo, sessione del giorno, data della prova, backup</span></button>' +
       '<button type="button" class="menu-btn" data-action="go" data-screen="diagnostics"><strong>Diagnostica</strong><span>' +
         (problems ? '⚠ ' + problems + ' problemi nei file delle domande' : 'Controllo della banca dati') + '</span></button>'
     );
@@ -453,7 +584,7 @@
     const n = errorPool().length;
     render(
       '<h1>Ripasso errori</h1>' +
-      '<p>Qui trovi le domande a cui hai risposto in modo sbagliato. Una domanda esce da questo elenco dopo <b>due risposte corrette di fila</b>.</p>' +
+      '<p>Qui trovi le domande a cui hai risposto in modo sbagliato. Una domanda esce da questo elenco quando è <b>consolidata</b>: le ultime due risposte sono corrette e date <b>in due giorni diversi</b>.</p>' +
       '<div class="card"><div class="big-score">' + n + '</div><div class="muted">domande da ripassare</div></div>' +
       (n
         ? '<h3>Quante domande?</h3>' + countChoice('count', [[10, '10'], [20, '20'], ['all', 'Tutte']], 'all') +
@@ -477,10 +608,64 @@
     );
   }
 
-  /* ---------- Practice session (used by Allenamento, Ripasso errori, Punti deboli) ---------- */
+  /* ---------- Practice session (used by Allenamento, Ripasso errori, Punti deboli, Sessione del giorno) ---------- */
   function startSession(title, items) {
     if (!items.length) { toast('Nessuna domanda disponibile'); return; }
     go('quiz', { session: { title, items, index: 0 } });
+  }
+
+  /* ---------- Sessione del giorno ----------
+   * Saved in store.activeDaily (so it survives closing the app) until it is
+   * finished; then a summary goes to store.dailyHistory. */
+  const DAILY_CATEGORY = { errori: 'Ripasso errori', deboli: 'Materia debole', nuove: 'Nuova', altre: 'Ripasso' };
+
+  function startDaily() {
+    const plan = buildDaily(store.profile);
+    if (!plan.items.length) { toast('Nessuna domanda disponibile'); return; }
+    store.activeDaily = {
+      kind: 'daily', title: 'Sessione del giorno', profile: store.profile, day: todayISO(), startedAt: Date.now(),
+      counts: plan.counts,
+      items: plan.items.map(({ q, cat }) => Object.assign(makeItem(q), { cat })),
+      index: 0
+    };
+    saveStore();
+    go('quiz', { session: store.activeDaily });
+  }
+
+  function resumeDaily() {
+    const a = store.activeDaily;
+    if (!a) return go('home');
+    // Remove questions that no longer exist (e.g. a question marked da_rivedere meanwhile)
+    a.items = a.items.filter((i) => data.qById[i.qid]);
+    if (!a.items.length) { store.activeDaily = null; saveStore(); return go('home'); }
+    if (a.index >= a.items.length) a.index = a.items.length - 1;
+    saveStore();
+    go('quiz', { session: a });
+  }
+
+  /** Close the daily session once: save its summary and free "activeDaily". */
+  function finishDaily(s) {
+    if (s.finished) return;
+    const done = s.items.filter((i) => i.answer != null && data.qById[i.qid]);
+    const correct = done.filter((i) => i.answer === data.qById[i.qid].correct).length;
+    s.finished = true;
+    store.dailyHistory.push({
+      day: todayISO(), date: new Date().toISOString(), profile: s.profile,
+      total: s.items.length, answered: done.length, correct, wrong: done.length - correct,
+      completed: done.length === s.items.length,
+      subjects: Array.from(new Set(done.map((i) => data.qById[i.qid].subject)))
+    });
+    if (store.activeDaily === s) store.activeDaily = null;
+    saveStore();
+  }
+
+  function compositionHTML(counts) {
+    const parts = [];
+    if (counts.errori) parts.push(counts.errori + ' dal ripasso errori');
+    if (counts.deboli) parts.push(counts.deboli + ' dalle materie più deboli');
+    if (counts.nuove) parts.push(counts.nuove + ' mai viste');
+    if (counts.altre) parts.push(counts.altre + ' di ripasso');
+    return '<div class="card notice-info small">Oggi: ' + parts.join(' · ') + '</div>';
   }
 
   /** HTML for the list of options. `mode`: 'answer' (clickable), 'sim' (clickable, no feedback), 'review' (colours only). */
@@ -563,8 +748,10 @@
     const item = s.items[s.index];
     const q = data.qById[item.qid];
     const answered = item.answer != null;
+    const daily = s.kind === 'daily';
     render(
-      '<p class="muted small">' + esc(s.title) + '</p>' +
+      '<p class="muted small">' + esc(s.title) + (daily && item.cat ? ' · ' + esc(DAILY_CATEGORY[item.cat] || '') : '') + '</p>' +
+      (daily && s.index === 0 && !answered ? compositionHTML(s.counts) : '') +
       questionHeader(q, s.index + 1, s.items.length) +
       optionsHTML(q, item, answered ? 'review' : 'answer') +
       (answered
@@ -577,6 +764,7 @@
 
   function renderQuizEnd() {
     const s = ui.session;
+    if (s.kind === 'daily') return renderDailyEnd(s);
     const done = s.items.filter((i) => i.answer != null);
     const correct = done.filter((i) => i.answer === data.qById[i.qid].correct).length;
     render(
@@ -584,6 +772,32 @@
       '<div class="card"><div class="big-score">' + correct + ' / ' + done.length + '</div>' +
       '<div class="muted">risposte corrette (' + pct(correct, done.length) + '%)</div></div>' +
       '<button type="button" class="btn primary" data-action="home">Torna al menu</button>' +
+      (done.length ? '<h2>Rivedi le domande</h2>' + reviewListHTML(done) : '')
+    );
+  }
+
+  /** Summary of the daily session: correct, wrong, subjects touched. */
+  function renderDailyEnd(s) {
+    finishDaily(s);
+    const done = s.items.filter((i) => i.answer != null && data.qById[i.qid]);
+    const bySubject = {};
+    let correct = 0;
+    done.forEach((i) => {
+      const q = data.qById[i.qid];
+      const b = bySubject[q.subject] || (bySubject[q.subject] = { total: 0, correct: 0 });
+      b.total++;
+      if (i.answer === q.correct) { b.correct++; correct++; }
+    });
+    const complete = done.length === s.items.length;
+    const rows = Object.keys(bySubject).map((id) =>
+      '<tr><td>' + esc(subjectName(id)) + '</td><td class="num">' + bySubject[id].correct + '/' + bySubject[id].total + '</td></tr>').join('');
+    render(
+      '<h1>' + (complete ? 'Sessione del giorno completata' : 'Sessione del giorno interrotta') + '</h1>' +
+      '<div class="card"><div class="big-score">' + correct + ' / ' + done.length + '</div>' +
+      '<p>Corrette: <b>' + correct + '</b> · Sbagliate: <b>' + (done.length - correct) + '</b></p>' +
+      (complete ? '' : '<p class="small muted">Hai risposto a ' + done.length + ' domande su ' + s.items.length + '.</p>') + '</div>' +
+      (rows ? '<h2>Materie toccate (' + Object.keys(bySubject).length + ')</h2><div class="card"><table><thead><tr><th>Materia</th><th class="num">Corrette</th></tr></thead><tbody>' + rows + '</tbody></table></div>' : '') +
+      '<button type="button" class="btn primary" data-action="home">Torna alla home</button>' +
       (done.length ? '<h2>Rivedi le domande</h2>' + reviewListHTML(done) : '')
     );
   }
@@ -602,17 +816,25 @@
   function renderSimSetup() {
     const r = data.simRules;
     const plan = buildSimulation(store.profile);
-    const blockLines = Object.keys(r.blocks).map((b) => '<li>' + r.blocks[b] + ' — ' + esc(BLOCK_NAMES[b] || b) + '</li>').join('');
+    const plan0 = examPlan(store.profile);
+    const blockLines = Object.keys(plan0.perBlock).filter((b) => plan0.perBlock[b].need > 0)
+      .map((b) => '<li>' + plan0.perBlock[b].need + ' — ' + esc(BLOCK_NAMES[b] || b) + '</li>').join('') +
+      (plan.english ? '<li>' + englishLabel(plan.english) + '</li>' : '');
     render(
       '<h1>Simulazione d\'esame</h1>' +
       '<div class="card"><p>Profilo: <b>' + esc(profileName(store.profile)) + '</b></p>' +
-      '<p><b>' + r.total_questions + '</b> domande in <b>' + r.duration_minutes + '</b> minuti:</p><ul class="why-list">' + blockLines + '</ul>' +
+      '<p><b>' + (r.total_questions - plan.english) + '</b> domande da svolgere in <b>' + r.duration_minutes + '</b> minuti (su ' + r.total_questions + '):</p><ul class="why-list">' + blockLines + '</ul>' +
       '<p>Soglia di superamento: <b>' + r.pass_threshold + '</b> punti.<br>Punteggio: corretta ' + r.scoring.correct + ', errata ' + r.scoring.wrong + ', non data ' + r.scoring.blank + '.</p>' +
       '<p class="small muted">Nessuna correzione durante la prova. Puoi saltare domande e tornarci. Allo scadere del tempo la prova viene consegnata automaticamente.</p></div>' +
       noticesHTML(plan.notices) +
       (store.activeSim ? '<p class="small muted">Attenzione: iniziare una nuova simulazione cancella quella in corso.</p>' : '') +
       '<button type="button" class="btn primary" data-action="start-sim"' + (plan.items.length ? '' : ' disabled') + '>Inizia simulazione</button>'
     );
+  }
+
+  /** The only place (with the estimate) where English appears. */
+  function englishLabel(n) {
+    return 'Inglese: ' + n + ' quesit' + (n === 1 ? 'o considerato corretto' : 'i considerati corretti') + ' (non studiato)';
   }
 
   function noticesHTML(notices) {
@@ -629,6 +851,7 @@
       endAt: now + data.simRules.duration_minutes * 60 * 1000,
       items: plan.items,
       notices: plan.notices,
+      english: plan.english,
       index: 0
     };
     saveStore();
@@ -703,10 +926,14 @@
       if (ok) { correct++; b.correct++; } else { wrong++; b.wrong++; }
       recordAnswer(q.id, ok);
     });
-    const score = correct * r.scoring.correct + wrong * r.scoring.wrong + blank * r.scoring.blank;
+    // The English questions are not drawn: they count as correct (see profiles.json, simulation.english)
+    const english = sim.english || 0;
+    const score = (correct + english) * r.scoring.correct + wrong * r.scoring.wrong + blank * r.scoring.blank;
     const result = {
       date: new Date().toISOString(), profile: sim.profile, timeUp: !!timeUp,
-      correct, wrong, blank, total: sim.items.length, score: Math.round(score * 100) / 100,
+      correct, wrong, blank, english,
+      // Always out of the exam total (60): questions missing from a small bank count as blank
+      total: Math.max(r.total_questions, sim.items.length + english), score: Math.round(score * 100) / 100,
       threshold: r.pass_threshold, passed: score >= r.pass_threshold,
       bySubject, notices: sim.notices, items: sim.items
     };
@@ -731,7 +958,8 @@
       (r.timeUp ? '<div class="card notice">Tempo scaduto: la prova è stata consegnata automaticamente.</div>' : '') +
       '<div class="card"><div class="big-score ' + (r.passed ? 'pass' : 'fail') + '">' + r.score + ' / ' + r.total + '</div>' +
       '<p class="' + (r.passed ? 'pass' : 'fail') + '"><b>' + (r.passed ? 'SUPERATA' : 'NON SUPERATA') + '</b> (soglia ' + r.threshold + ')</p>' +
-      '<p class="small muted">Corrette ' + r.correct + ' · Errate ' + r.wrong + ' · Non date ' + r.blank + ' · Profilo ' + esc(profileName(r.profile)) + '</p></div>' +
+      '<p class="small muted">Corrette ' + r.correct + ' · Errate ' + r.wrong + ' · Non date ' + r.blank + ' · Profilo ' + esc(profileName(r.profile)) + '</p>' +
+      (r.english ? '<p class="english-label">' + englishLabel(r.english) + '</p>' : '') + '</div>' +
       noticesHTML(r.notices) +
       '<h2>Per materia</h2><div class="card"><table><thead><tr><th>Materia</th><th class="num">Corrette</th><th class="num">%</th></tr></thead><tbody>' + rows + '</tbody></table></div>' +
       '<button type="button" class="btn primary" data-action="home">Torna al menu</button>' +
@@ -778,6 +1006,16 @@
       '<h1>Impostazioni</h1>' +
       '<h2>Profilo predefinito</h2>' + profileSelect('default-profile', store.profile) +
 
+      '<h2>Sessione del giorno</h2>' +
+      '<label class="field"><span>Numero di domande</span>' +
+        '<input type="number" inputmode="numeric" min="5" max="100" step="1" value="' + store.settings.dailySize + '" data-change="daily-size"></label>' +
+      '<p class="small muted">Circa il 40% dal ripasso errori, il 30% dalle materie più deboli, il resto domande mai viste.</p>' +
+
+      '<h2>Data della prova</h2>' +
+      '<label class="field"><span>Facoltativa: se la inserisci, la home mostra quanti giorni mancano</span>' +
+        '<input type="date" value="' + esc(store.settings.examDate || '') + '" data-change="exam-date"></label>' +
+      (store.settings.examDate ? '<button type="button" class="btn small" data-action="clear-exam-date">Rimuovi la data</button>' : '') +
+
       '<h2>Domande segnalate (' + flagIds.length + ')</h2>' +
       (flagIds.length
         ? '<div class="card">' + flagIds.map((id) => {
@@ -797,7 +1035,7 @@
 
       '<h2>Azzera</h2>' +
       '<button type="button" class="btn danger" data-action="reset">Azzera tutti i progressi</button>' +
-      '<p class="small muted">Cancella risposte, statistiche e simulazioni. Le segnalazioni e il profilo restano.</p>'
+      '<p class="small muted">Cancella risposte, statistiche, simulazioni e sessioni del giorno. Le segnalazioni, il profilo e le impostazioni restano.</p>'
     );
   }
 
@@ -810,14 +1048,14 @@
       const c = counts[q.subject] || (counts[q.subject] = emptyCounts());
       c.total++; c[q.status]++;
     });
-    const rows = data.subjects.map((s) => {
+    const rows = data.subjects.filter((s) => s.id !== englishId()).map((s) => {
       const c = counts[s.id] || emptyCounts();
       return '<tr><td>' + esc(s.name) + '<br><code class="small muted">' + esc(s.id) + '</code></td><td class="num">' + c.total + '</td>' +
         STATUS_VALUES.map((st) => '<td class="num">' + c[st] + '</td>').join('') + '</tr>';
     }).join('');
 
     // Questions to fix (excluded from the quiz) and any other question with a review note
-    const noted = data.toRevise.concat(data.questions.filter((q) => q.review_note));
+    const noted = data.toRevise.concat(data.questions.filter((q) => q.review_note)).filter((q) => q.subject !== englishId());
     const notedHTML = noted.length
       ? '<h2>Domande da rivedere e note di revisione</h2>' +
         '<p class="small muted">Le domande "da rivedere" sono escluse da allenamento e simulazione finché non vengono corrette.</p>' +
@@ -907,7 +1145,8 @@
       }
       if (!confirm('Importare il backup? I progressi attuali su questo dispositivo verranno sostituiti.')) return;
       delete parsed.exportedAt;
-      store = Object.assign(emptyStore(), parsed);
+      // Backups made by older versions are migrated like the saved data
+      store = Study.migrateStore(parsed, APP_ID);
       saveStore();
       toast('Backup importato');
       go('home');
@@ -942,6 +1181,9 @@
       startSession('Ripasso errori', (count === 'all' ? pool : pool.slice(0, count)).map(makeItem));
     },
     'start-weak': () => startSession('Punti deboli', pickWeak(store.profile, readCount('count'))),
+    'practice-subject': (el) => startSession('Allenamento · ' + subjectName(el.dataset.id), pickPractice([el.dataset.id], 10)),
+    'start-daily': () => startDaily(),
+    'resume-daily': () => resumeDaily(),
 
     answer: (el) => {
       const item = ui.session.items[ui.session.index];
@@ -956,9 +1198,20 @@
     },
     next: () => {
       const s = ui.session;
-      if (s.index + 1 < s.items.length) { s.index++; renderQuiz(); window.scrollTo(0, 0); } else { ui.screen = 'quizEnd'; renderQuizEnd(); }
+      if (s.index + 1 < s.items.length) {
+        s.index++;
+        if (s.kind === 'daily') saveStore();
+        renderQuiz();
+        window.scrollTo(0, 0);
+      } else { ui.screen = 'quizEnd'; renderQuizEnd(); }
     },
-    'end-session': () => { ui.screen = 'quizEnd'; renderQuizEnd(); },
+    'end-session': () => {
+      const s = ui.session;
+      if (s.kind === 'daily' && s.items.some((i) => i.answer == null) &&
+          !confirm('Terminare la sessione del giorno? Le domande non ancora fatte non verranno proposte.')) return;
+      ui.screen = 'quizEnd';
+      renderQuizEnd();
+    },
 
     'start-sim': () => {
       if (store.activeSim && !confirm('C\'è una simulazione in corso. Vuoi cancellarla e iniziarne una nuova?')) return;
@@ -999,6 +1252,7 @@
       toast('Segnalazione rimossa');
       refreshFlag(el, el.dataset.id);
     },
+    'clear-exam-date': () => { store.settings.examDate = null; saveStore(); toast('Data rimossa'); renderSettings(); },
     'copy-flags': async () => {
       const ok = await copyText(flaggedListText());
       toast(ok ? 'Elenco copiato' : 'Copia non riuscita');
@@ -1013,6 +1267,8 @@
       store.activeSim = null;
       store.lastSim = null;
       store.simHistory = [];
+      store.activeDaily = null;
+      store.dailyHistory = [];
       saveStore();
       toast('Progressi azzerati');
       go('home');
@@ -1035,6 +1291,14 @@
       case 'practice-profile': ui.profile = el.value; ui.checked = checkedSubjects(); ui.count = readCount('count'); renderPracticeSetup(); break;
       case 'stats-profile': ui.profile = el.value; renderStats(); break;
       case 'default-profile': store.profile = el.value; saveStore(); toast('Profilo aggiornato'); break;
+      case 'daily-size': {
+        const n = Math.round(Number(el.value));
+        if (!(n >= 5 && n <= 100)) { toast('Scegli un numero tra 5 e 100'); el.value = store.settings.dailySize; break; }
+        store.settings.dailySize = n; saveStore(); toast('Sessione del giorno: ' + n + ' domande'); break;
+      }
+      case 'exam-date':
+        store.settings.examDate = /^\d{4}-\d{2}-\d{2}$/.test(el.value) ? el.value : null;
+        saveStore(); toast(store.settings.examDate ? 'Data della prova salvata' : 'Data rimossa'); renderSettings(); break;
     }
   });
 

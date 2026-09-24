@@ -4,9 +4,10 @@
 #   1. build data/questions/index.json (tools/build-index.js)
 #   2. check every question file (tools/validate.js)
 #   3. check every evidence quote against its source file (tools/check_evidence.py)
-#   4. publish the site
-# If step 2 or 3 fails, step 4 does not run: the previous version of the site
-# stays online. On pull requests only steps 1-3 run, as a preview check.
+#   4. test the study rules (tests/*.test.js)
+#   5. publish the site
+# If step 2, 3 or 4 fails, step 5 does not run: the previous version of the site
+# stays online. On pull requests only steps 1-4 run, as a preview check.
 name: Check and deploy
 
 on:
@@ -41,10 +42,13 @@ jobs:
       - name: Check evidence quotes (verbatim)
         run: python3 tools/check_evidence.py
 
+      - name: Test the study rules (study.js)
+        run: node --test "tests/*.test.js"
+
       - name: Collect site files
         run: |
           mkdir _site
-          cp -r index.html app.js validation.js style.css sw.js manifest.json icons data _site/
+          cp -r index.html app.js validation.js study.js style.css sw.js manifest.json icons data _site/
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v4

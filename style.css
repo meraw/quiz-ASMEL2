@@ -328,3 +328,66 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 1
 }
 
 .hidden { display: none !important; }
+
+/* ---------- Home: countdown, daily session, estimate, progress per subject ---------- */
+.countdown {
+  margin: 0 0 8px;
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  background: var(--primary-soft);
+  color: var(--primary);
+  font-weight: 700;
+  text-align: center;
+}
+.menu-btn.daily { min-height: 76px; background: var(--primary); border-color: var(--primary); color: var(--primary-text); }
+.menu-btn.daily strong { font-size: 20px; }
+.menu-btn.daily span { color: inherit; opacity: .9; }
+.menu-btn.daily.highlight { background: var(--primary); }
+.menu-btn.daily.done { background: var(--ok-soft); border-color: var(--ok); color: var(--text); }
+.menu-btn.daily.done strong { color: var(--ok); }
+.menu-btn.daily.done span { color: var(--muted); opacity: 1; }
+
+.estimate p { margin: 4px 0; }
+.estimate-line { overflow-wrap: anywhere; }
+
+.subject-list { display: flex; flex-direction: column; gap: 8px; margin: 8px 0; }
+.subject-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.subject-row:active { transform: scale(.99); }
+.subject-row.empty { cursor: default; color: var(--muted); opacity: .6; border-style: dashed; }
+.subject-name { font-weight: 700; font-size: 16px; line-height: 1.3; overflow-wrap: anywhere; }
+.metric { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+.metric-label { flex: none; width: 88px; color: var(--muted); }
+.metric-num { flex: none; min-width: 56px; text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+.bar { flex: 1; min-width: 40px; height: 8px; border-radius: 4px; background: var(--border); overflow: hidden; }
+.bar > span { display: block; height: 100%; background: var(--primary); }
+.bar.ok > span { background: var(--ok); }
+.subject-recent { font-size: 14px; }
+
+.notice-info { background: var(--primary-soft); border: 0; }
+.english-label { font-size: 15px; font-weight: 600; }
+
+.field { display: block; margin: 8px 0; }
+.field > span { display: block; font-size: 14px; color: var(--muted); margin-bottom: 4px; }
+input[type="number"], input[type="date"] {
+  width: 100%;
+  min-height: var(--tap);
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+}
