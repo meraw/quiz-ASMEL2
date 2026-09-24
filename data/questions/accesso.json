@@ -12,7 +12,7 @@
     "correct": "b",
     "explanation": "L'art. 25, comma 4, prevede il silenzio-rigetto: decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta. Contro il diniego, anche tacito, il richiedente può ricorrere al TAR oppure chiedere il riesame al difensore civico o alla Commissione per l'accesso.",
     "evidence": [
-      { "ref": "art. 25, comma 4", "text": "Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta." }
+      { "ref": "art. 25, comma 4", "text": "Decorsi inutilmente sessanta giorni dalla richiesta, questa si intende respinta." }
     ],
     "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
