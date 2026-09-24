@@ -11,14 +11,16 @@ For each question with an `evidence` list, and for each item in it:
 
 It also warns when `source.article` does not match the evidence refs.
 
-The source file is chosen from `source.act` + `source_date`, e.g.
-"L. 241/1990" + "2026-09-24"  ->  sources/L241-1990_2026-09-24.txt
+The source file is the one named in each question's `source.file`, e.g.
+"sources/L241-1990_2026-09-24.txt" (a path inside the project folder).
+A question with `evidence` but no `source.file` is an error.
+
+Every .json file in data/questions/ is checked (index.json excluded).
 
 Usage (from the project folder):
     python3 tools/check_evidence.py
 Exit code 0 = all good, 1 = at least one problem.
 """
-import glob
 import json
 import os
 import re
@@ -27,11 +29,6 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUESTIONS_DIR = os.path.join(ROOT, 'data', 'questions')
 SOURCES_DIR = os.path.join(ROOT, 'sources')
-
-# Law name used in `source.act` -> file name prefix in sources/
-ACT_FILES = {
-    'L. 241/1990': 'L241-1990',
-}
 
 SUFFIX = r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies))?'
 ARTICLE_RE = re.compile(r'^\s*Art\.\s+(\d+' + SUFFIX + r')\s*$')
@@ -77,39 +74,53 @@ def parse_law(path):
     return law
 
 
-def source_file(act, date):
-    prefix = ACT_FILES.get(act)
-    if not prefix:
-        return None
-    exact = os.path.join(SOURCES_DIR, '%s_%s.txt' % (prefix, date))
-    if date and os.path.exists(exact):
-        return exact
-    found = sorted(glob.glob(os.path.join(SOURCES_DIR, prefix + '_*.txt')))
-    return found[-1] if found else None
+def source_file(rel):
+    """Absolute path of `source.file`, or (None, reason) if it is not usable."""
+    if not isinstance(rel, str) or not rel.strip():
+        return None, 'evidence present but source.file is missing'
+    path = os.path.realpath(os.path.join(ROOT, rel))
+    if not path.startswith(os.path.realpath(SOURCES_DIR) + os.sep):
+        return None, 'source.file %r is not inside sources/' % rel
+    if not os.path.isfile(path):
+        return None, 'source.file %r does not exist' % rel
+    return path, None
 
 
 def main():
-    with open(os.path.join(QUESTIONS_DIR, 'index.json'), encoding='utf-8') as f:
-        files = json.load(f)['files']
+    files = sorted(f for f in os.listdir(QUESTIONS_DIR)
+                   if f.lower().endswith('.json') and f != 'index.json')
     laws, errors, warnings, checked = {}, [], [], 0
 
     for name in files:
-        with open(os.path.join(QUESTIONS_DIR, name), encoding='utf-8') as f:
-            questions = json.load(f)
+        try:
+            with open(os.path.join(QUESTIONS_DIR, name), encoding='utf-8') as f:
+                data = json.load(f)
+        except ValueError as e:
+            errors.append('%s: not valid JSON (%s)' % (name, e))
+            continue
+        questions = data.get('questions') if isinstance(data, dict) else data
+        if not isinstance(questions, list):
+            errors.append('%s: the file must contain a list [ ... ] of questions' % name)
+            continue
         for q in questions:
+            if not isinstance(q, dict):
+                continue  # reported by tools/validate.js
             evidence = q.get('evidence')
             if evidence is None:
                 continue
             qid = q.get('id', '?')
-            src = q.get('source') or {}
-            path = source_file(src.get('act'), q.get('source_date'))
+            src = q.get('source') if isinstance(q.get('source'), dict) else {}
+            path, problem = source_file(src.get('file'))
             if not path:
-                errors.append('%s: no source file in sources/ for act %r' % (qid, src.get('act')))
+                errors.append('%s: %s' % (qid, problem))
                 continue
             if path not in laws:
                 laws[path] = parse_law(path)
             law = laws[path]
             refs = []
+            if not isinstance(evidence, list):
+                errors.append('%s: evidence must be a list' % qid)
+                continue
             for i, e in enumerate(evidence, 1):
                 checked += 1
                 ref, text = (e or {}).get('ref', ''), (e or {}).get('text', '')

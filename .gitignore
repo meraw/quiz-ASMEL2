@@ -1,0 +1,4 @@
+# Built automatically by tools/build-index.js (locally and in the deploy workflow)
+data/questions/index.json
+
+__pycache__/
