@@ -11,6 +11,9 @@
     ],
     "correct": "a",
     "explanation": "L'art. 2, comma 2, fissa il termine generale residuale di trenta giorni, che si applica quando non è previsto un termine diverso.",
+    "evidence": [
+      { "ref": "art. 2, comma 2", "text": "Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni." }
+    ],
     "source": { "act": "L. 241/1990", "article": "art. 2, comma 2", "url": null },
     "source_date": "2026-09-24",
     "status": "verificata",

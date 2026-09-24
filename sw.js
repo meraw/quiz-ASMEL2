@@ -9,7 +9,7 @@
  * If you change app.js or style.css and want phones to pick it up sooner,
  * change CACHE_VERSION below.
  */
-const CACHE_VERSION = 'asmel-quiz-v1';
+const CACHE_VERSION = 'asmel-quiz-v2';
 
 // Files saved at install time. Paths are relative to this file, so the app
 // also works under a subpath such as /quiz-asmel/.

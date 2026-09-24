@@ -23,7 +23,11 @@
 
   const STORE_KEY = 'asmel-quiz-v1'; // name of the localStorage entry
   const APP_ID = 'asmel-quiz';       // written in backups, checked on import
-  const STATUS_VALUES = ['verificata', 'da_verificare', 'demo'];
+  // verificata: checked by hand · rivista: passed the automated review ·
+  // da_verificare: not yet checked · da_rivedere: review found a problem
+  // (excluded from every quiz mode, listed in Diagnostica) · demo: fake question
+  const STATUS_VALUES = ['verificata', 'rivista', 'da_verificare', 'da_rivedere', 'demo'];
+  const STATUS_LABELS = { verificata: 'Ver.', rivista: 'Riv.', da_verificare: 'DaV', da_rivedere: 'DaR', demo: 'Demo' };
   const BLOCK_NAMES = {
     specific: 'Materie specifiche',
     common_law: 'Materie comuni – giuridiche',
@@ -141,8 +145,9 @@
     profiles: [],       // from data/profiles.json
     profileById: {},
     simRules: null,     // simulation rules from data/profiles.json
-    questions: [],      // valid questions only
+    questions: [],      // valid questions usable in the quiz modes
     qById: {},
+    toRevise: [],       // valid questions with status "da_rivedere" (Diagnostica only)
     invalid: [],        // { file, index, id, reasons[] } shown in Diagnostica
     fileErrors: []      // { file, error } files that could not be loaded
   };
@@ -173,6 +178,15 @@
     if (q.no_shuffle != null && typeof q.no_shuffle !== 'boolean') problems.push('"no_shuffle" deve essere true o false');
     if (q.source != null && (typeof q.source !== 'object' || Array.isArray(q.source))) problems.push('"source" deve essere un oggetto o null');
     if (q.source_date != null && typeof q.source_date !== 'string') problems.push('"source_date" deve essere una data o null');
+    if (q.review_note != null && typeof q.review_note !== 'string') problems.push('"review_note" deve essere testo');
+    if (q.evidence != null) {
+      if (!Array.isArray(q.evidence) || !q.evidence.length) problems.push('"evidence" deve essere un elenco non vuoto');
+      else q.evidence.forEach((e, i) => {
+        if (!e || typeof e !== 'object' || Array.isArray(e) || !isText(e.ref) || !isText(e.text)) {
+          problems.push('evidence n. ' + (i + 1) + ': servono "ref" e "text" non vuoti');
+        }
+      });
+    }
 
     if (!Array.isArray(q.options) || q.options.length < 2) {
       problems.push('servono almeno 2 opzioni in "options"');
@@ -229,6 +243,7 @@
           return;
         }
         firstSeenIn[q.id] = file;
+        if (q.status === 'da_rivedere') { data.toRevise.push(q); return; }
         data.questions.push(q);
         data.qById[q.id] = q;
       });
@@ -401,6 +416,8 @@
   function statusBadge(q) {
     if (q.status === 'verificata') return '';
     if (q.status === 'demo') return '<span class="badge demo">Demo</span>';
+    if (q.status === 'rivista') return '<span class="badge subtle">Rivista</span>';
+    if (q.status === 'da_rivedere') return '<span class="badge bad">Da rivedere</span>';
     return '<span class="badge">Da verificare</span>';
   }
 
@@ -546,6 +563,13 @@
     return '<p class="source"><b>Fonte:</b> ' + label + date + link + '</p>';
   }
 
+  /** Collapsible "Testo della norma": the verbatim text of the cited commi. */
+  function evidenceHTML(q) {
+    if (!Array.isArray(q.evidence) || !q.evidence.length) return '';
+    return '<details class="evidence"><summary>Testo della norma</summary>' +
+      q.evidence.map((e) => '<p><b>' + esc(e.ref) + '</b> ' + esc(e.text) + '</p>').join('') + '</details>';
+  }
+
   function flagHTML(qid) {
     const f = store.flags[qid];
     return '<div class="flag-box">' +
@@ -565,7 +589,7 @@
     let html = '<div class="card feedback ' + (isBlank ? 'is-blank' : isCorrect ? 'is-correct' : 'is-wrong') + '">' +
       '<p class="verdict">' + (isBlank ? 'Non risposta' : isCorrect ? '✓ Corretto' : '✗ Sbagliato') + '</p>';
     if (!isCorrect) html += '<p>Risposta corretta: <b>' + 'ABCDEFGH'[correctPos] + '</b></p>';
-    html += '<p>' + esc(q.explanation) + '</p>';
+    html += '<p>' + esc(q.explanation) + '</p>' + evidenceHTML(q);
 
     const chosen = q.options.find((o) => o.id === item.answer);
     if (chosen && !isCorrect && chosen.why_wrong) {
@@ -811,7 +835,7 @@
       '<h2>Domande segnalate (' + flagIds.length + ')</h2>' +
       (flagIds.length
         ? '<div class="card">' + flagIds.map((id) => {
-            const q = data.qById[id];
+            const q = data.qById[id] || data.toRevise.find((x) => x.id === id);
             return '<div class="error-item"><code>' + esc(id) + '</code>' + (q ? ' <span class="small muted">(' + esc(subjectName(q.subject)) + ')</span>' : ' <span class="small muted">(domanda non più presente)</span>') +
               (store.flags[id].note ? '<br>' + esc(store.flags[id].note) : '') +
               '<br><button type="button" class="btn small danger" data-action="flag-remove" data-id="' + esc(id) + '">Rimuovi</button></div>';
@@ -833,25 +857,43 @@
 
   /* ---------- Diagnostica ---------- */
   function renderDiagnostics() {
+    const all = data.questions.concat(data.toRevise);
+    const emptyCounts = () => STATUS_VALUES.reduce((c, st) => { c[st] = 0; return c; }, { total: 0 });
     const counts = {};
-    data.questions.forEach((q) => {
-      const c = counts[q.subject] || (counts[q.subject] = { total: 0, verificata: 0, da_verificare: 0, demo: 0 });
+    all.forEach((q) => {
+      const c = counts[q.subject] || (counts[q.subject] = emptyCounts());
       c.total++; c[q.status]++;
     });
     const rows = data.subjects.map((s) => {
-      const c = counts[s.id] || { total: 0, verificata: 0, da_verificare: 0, demo: 0 };
-      return '<tr><td>' + esc(s.name) + '<br><code class="small muted">' + esc(s.id) + '</code></td><td class="num">' + c.total + '</td><td class="num">' + c.verificata + '</td><td class="num">' + c.da_verificare + '</td><td class="num">' + c.demo + '</td></tr>';
+      const c = counts[s.id] || emptyCounts();
+      return '<tr><td>' + esc(s.name) + '<br><code class="small muted">' + esc(s.id) + '</code></td><td class="num">' + c.total + '</td>' +
+        STATUS_VALUES.map((st) => '<td class="num">' + c[st] + '</td>').join('') + '</tr>';
     }).join('');
+
+    // Questions to fix (excluded from the quiz) and any other question with a review note
+    const noted = data.toRevise.concat(data.questions.filter((q) => q.review_note));
+    const notedHTML = noted.length
+      ? '<h2>Domande da rivedere e note di revisione</h2>' +
+        '<p class="small muted">Le domande "da rivedere" sono escluse da allenamento e simulazione finché non vengono corrette.</p>' +
+        '<div class="card">' + noted.map((q) =>
+          '<div class="error-item"><div class="q-meta"><code>' + esc(q.id) + '</code><span>·</span><span>' + esc(subjectName(q.subject)) + '</span>' + statusBadge(q) + '</div>' +
+          '<p>' + esc(q.question) + '</p>' +
+          (q.review_note ? '<p class="review-note"><b>Nota di revisione:</b> ' + esc(q.review_note) + '</p>' : '') +
+          '</div>').join('') + '</div>'
+      : '';
 
     render(
       '<h1>Diagnostica</h1>' +
-      '<div class="card"><p>Domande valide: <b>' + data.questions.length + '</b><br>Domande scartate: <b>' + data.invalid.length + '</b><br>File non caricati: <b>' + data.fileErrors.length + '</b></p></div>' +
+      '<div class="card"><p>Domande valide: <b>' + all.length + '</b> (di cui da rivedere: <b>' + data.toRevise.length + '</b>)<br>Domande scartate: <b>' + data.invalid.length + '</b><br>File non caricati: <b>' + data.fileErrors.length + '</b></p></div>' +
       (data.fileErrors.length ? '<h2>File non caricati</h2><div class="card">' + data.fileErrors.map((f) =>
         '<div class="error-item"><code>' + esc(f.file) + '</code><br>' + esc(f.error) + '</div>').join('') + '</div>' : '') +
       (data.invalid.length ? '<h2>Domande scartate</h2><div class="card">' + data.invalid.map((x) =>
         '<div class="error-item"><code>' + esc(x.file) + '</code> · domanda n. ' + x.index + ' · id <code>' + esc(x.id) + '</code><ul class="why-list">' +
         x.reasons.map((r) => '<li>' + esc(r) + '</li>').join('') + '</ul></div>').join('') + '</div>' : '') +
-      '<h2>Domande per materia</h2><div class="card"><table><thead><tr><th>Materia</th><th class="num">Tot.</th><th class="num">Verif.</th><th class="num">Da ver.</th><th class="num">Demo</th></tr></thead><tbody>' + rows + '</tbody></table></div>'
+      notedHTML +
+      '<h2>Domande per materia</h2><div class="card table-scroll"><table class="diag-table"><thead><tr><th>Materia</th><th class="num">Tot.</th>' +
+        STATUS_VALUES.map((st) => '<th class="num">' + STATUS_LABELS[st] + '</th>').join('') + '</tr></thead><tbody>' + rows + '</tbody></table>' +
+        '<p class="small muted">Ver. = verificata · Riv. = rivista · DaV = da verificare · DaR = da rivedere</p></div>'
     );
   }
 
