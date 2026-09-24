@@ -216,6 +216,7 @@ textarea { min-height: 80px; resize: vertical; }
 .badge.demo { background: var(--primary-soft); color: var(--primary); }
 .badge.ok { background: var(--ok-soft); color: var(--ok); }
 .badge.bad { background: var(--bad-soft); color: var(--bad); }
+.badge.subtle { background: transparent; color: var(--muted); border: 1px solid var(--border); font-weight: 600; }
 
 .option {
   display: flex;
@@ -265,6 +266,16 @@ summary { min-height: 40px; display: flex; align-items: center; cursor: pointer;
 .why-list li { margin: 6px 0; }
 
 .flag-box { margin-top: 10px; }
+
+/* "Testo della norma": verbatim text of the law under the explanation */
+.evidence p { margin: 8px 0; font-size: 15px; white-space: pre-line; overflow-wrap: anywhere; }
+.review-note { font-size: 15px; background: var(--bad-soft); border-radius: 8px; padding: 8px; }
+
+/* Diagnostica table: 7 columns, allow horizontal scroll inside the card on narrow phones */
+.table-scroll { overflow-x: auto; }
+.diag-table { font-size: 12.5px; }
+.diag-table th, .diag-table td { padding: 6px 2px; }
+.diag-table td:first-child { min-width: 84px; }
 
 /* ---------- Progress, grid, tables ---------- */
 .progress { height: 6px; border-radius: 3px; background: var(--border); overflow: hidden; margin: 6px 0 10px; }

@@ -24,6 +24,8 @@ is saved only on your phone.
 | `data/questions/index.json` | The list of question files the app loads. |
 | `data/questions/*.json` | The questions, one file per subject (or per batch). |
 | `data/questions/_demo.json` | Fake demo questions for testing the app (can be hidden, see below). |
+| `sources/` | The law texts used to write the questions (e.g. `L241-1990_2026-09-24.txt`, saved from Normattiva). |
+| `tools/check_evidence.py` | Checks that every `evidence` quote is copied word for word from the file in `sources/` (see below). |
 
 You will normally only edit files in the `data/` folder.
 
@@ -68,6 +70,9 @@ You will normally only edit files in the `data/` folder.
   ],
   "correct": "b",
   "explanation": "Perché la risposta corretta è corretta",
+  "evidence": [
+    { "ref": "art. 25, comma 4", "text": "Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta." }
+  ],
   "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
   "source_date": "2026-09-24",
   "status": "da_verificare",
@@ -85,8 +90,20 @@ You will normally only edit files in the `data/` folder.
 | `explanation` | Why the correct answer is correct. Shown after you answer. |
 | `source` | Where the answer comes from: `act` (the law), `article`, `url` (a link, or `null`). The whole `source` can be `null` for non-legal subjects. |
 | `source_date` | The date you downloaded the law text you used (`YYYY-MM-DD`), or `null`. |
-| `status` | `verificata`, `da_verificare` or `demo`. Questions that are not `verificata` show a small badge. |
+| `evidence` | *Optional.* The text of the law that proves the correct answer: a list of `{ "ref": "art. X, comma Y", "text": "..." }`, where `text` is copied **word for word** from the file in `sources/`. Shown after you answer, under the explanation, in a collapsible section **"Testo della norma"**. If present it must be a non-empty list, and every item needs a non-empty `ref` and `text`. |
+| `status` | One of the statuses below. |
+| `review_note` | *Optional.* A note written during review (usually explaining what is wrong with a `da_rivedere` question). Shown in **Diagnostica** next to the question. |
 | `no_shuffle` | `true` keeps the options in the written order (useful for "tutte le precedenti"). Otherwise the app mixes them up each time. |
+
+#### Statuses
+
+| `status` | Meaning | In the app |
+|---|---|---|
+| `verificata` | You checked it yourself against the law text. | No badge. |
+| `rivista` | It passed the automated independent review. | Small grey "Rivista" badge. |
+| `da_verificare` | Nobody has checked it yet. | Yellow "Da verificare" badge. |
+| `da_rivedere` | The review found a problem (see its `review_note`). | **Excluded from every practice mode and from the simulation.** Listed only in **Diagnostica**, with its note. |
+| `demo` | Fake question for trying the app. | "Demo" badge. |
 
 Text is written between double quotes `"..."`. If you need a double quote
 inside a text, write it as `\"`. Apostrophes (`'`) are fine as they are.
@@ -113,8 +130,34 @@ to
 "status": "verificata",
 ```
 
-The "Da verificare" badge disappears. **Diagnostica** shows, per subject, how
-many questions are verified and how many still need checking.
+(the same works for a `rivista` question). The badge disappears.
+**Diagnostica** shows, per subject, how many questions have each status.
+
+To fix a `da_rivedere` question: read its note in **Diagnostica**, correct the
+question in its file, delete the `review_note` line and set the status back to
+`da_verificare` (or `verificata` if you checked it). Until then it never appears
+in practice or in the simulation.
+
+---
+
+## Checking the `evidence` quotes
+
+`tools/check_evidence.py` makes sure every `evidence.text` is really in the law
+file, word for word, **inside the article and comma named in `ref`**. The only
+difference it tolerates is whitespace (line breaks, double spaces). It also
+warns if `source.article` does not match the evidence.
+
+It needs Python 3 and nothing else. From the project folder run:
+
+```
+python3 tools/check_evidence.py
+```
+
+The last line says `all verbatim` when everything is fine; otherwise every
+wrong quote is listed with its question id. The law file is chosen from
+`source.act` and `source_date` (e.g. `L. 241/1990` + `2026-09-24` →
+`sources/L241-1990_2026-09-24.txt`). To support another law, add it to
+`ACT_FILES` at the top of the script.
 
 ---
 
