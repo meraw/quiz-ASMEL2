@@ -36,7 +36,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -56,7 +56,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -76,7 +76,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-bis, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -96,7 +96,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-ter, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -116,7 +116,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-ter, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -136,7 +136,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -156,7 +156,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma senza qualificazioni che «Sei mesi è il termine massimo per l'annullamento d'ufficio», ma il file riferisce il tetto dei sei mesi ai soli provvedimenti di autorizzazione o di attribuzione di vantaggi economici: l'art. 21-novies, comma 1, consente l'annullamento d'ufficio «entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici». Per gli altri provvedimenti il file prevede solo un «termine ragionevole». Correzione suggerita: «Sei mesi è il termine massimo per l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici (art. 21-novies, comma 1); il termine della sospensione è indicato nell'atto che la dispone.»",
     "no_shuffle": false
   },
   {
@@ -176,7 +177,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -196,7 +197,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -236,7 +237,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -256,7 +257,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1-bis", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -276,7 +277,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -297,7 +298,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -317,7 +318,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-sexies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -337,7 +338,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -357,7 +358,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -377,7 +378,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -397,7 +398,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -417,7 +418,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -437,7 +438,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -457,7 +458,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -477,7 +478,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -497,7 +498,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -517,7 +518,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -537,7 +538,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 2-bis", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -557,7 +558,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 2", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -578,7 +579,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -599,7 +600,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-decies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -619,7 +620,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-decies, comma 1", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione b). Il why_wrong afferma senza qualificazioni che «Sei mesi è il termine massimo per l'annullamento d'ufficio», ma il file riferisce il tetto dei sei mesi ai soli provvedimenti di autorizzazione o di attribuzione di vantaggi economici: l'art. 21-novies, comma 1, consente l'annullamento d'ufficio «entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici». Per gli altri provvedimenti il file prevede solo un «termine ragionevole». Correzione suggerita: «Sei mesi è il termine massimo per l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici (art. 21-novies, comma 1), non un termine dell'art. 21-decies.»",
     "no_shuffle": false
   }
 ]
