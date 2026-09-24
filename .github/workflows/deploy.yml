@@ -11,7 +11,7 @@ name: Check and deploy
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/tmp-deploy-block-test]
   pull_request:
   workflow_dispatch:
 
@@ -54,7 +54,7 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     needs: check
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
