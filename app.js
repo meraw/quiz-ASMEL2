@@ -149,6 +149,7 @@
     qById: {},
     toRevise: [],       // valid questions with status "da_rivedere" (Diagnostica only)
     invalid: [],        // { file, index, id, reasons[] } shown in Diagnostica
+    warnings: [],       // { file, index, id, message } loaded questions with a problem (e.g. unknown status)
     fileErrors: []      // { file, error } files that could not be loaded
   };
 
@@ -174,7 +175,6 @@
     else if (!data.subjectById[q.subject]) problems.push('materia "' + q.subject + '" non presente in subjects.json');
     if (!isText(q.question)) problems.push('campo "question" mancante o vuoto');
     if (!isText(q.explanation)) problems.push('campo "explanation" mancante o vuoto');
-    if (!STATUS_VALUES.includes(q.status)) problems.push('campo "status" deve essere: ' + STATUS_VALUES.join(', '));
     if (q.no_shuffle != null && typeof q.no_shuffle !== 'boolean') problems.push('"no_shuffle" deve essere true o false');
     if (q.source != null && (typeof q.source !== 'object' || Array.isArray(q.source))) problems.push('"source" deve essere un oggetto o null');
     if (q.source_date != null && typeof q.source_date !== 'string') problems.push('"source_date" deve essere una data o null');
@@ -243,6 +243,13 @@
           return;
         }
         firstSeenIn[q.id] = file;
+        // An unknown status does not discard the question: it is loaded as "da_verificare"
+        if (!STATUS_VALUES.includes(q.status)) {
+          data.warnings.push({ file, index: index + 1, id: q.id,
+            message: 'status ' + (q.status === undefined ? 'mancante' : JSON.stringify(q.status) + ' sconosciuto') +
+              ': trattata come "da_verificare" (valori ammessi: ' + STATUS_VALUES.join(', ') + ')' });
+          q.status = 'da_verificare';
+        }
         if (q.status === 'da_rivedere') { data.toRevise.push(q); return; }
         data.questions.push(q);
         data.qById[q.id] = q;
@@ -457,7 +464,7 @@
     const resume = store.activeSim
       ? '<button type="button" class="menu-btn highlight" data-action="resume-sim"><strong>▶ Riprendi simulazione</strong><span>Hai una simulazione in corso</span></button>'
       : '';
-    const problems = data.invalid.length + data.fileErrors.length;
+    const problems = data.invalid.length + data.fileErrors.length + data.warnings.length;
     render(
       '<p class="muted small">Profilo: <b>' + esc(profileName(store.profile)) + '</b> · ' + data.questions.length + ' domande caricate</p>' +
       resume +
@@ -884,16 +891,18 @@
 
     render(
       '<h1>Diagnostica</h1>' +
-      '<div class="card"><p>Domande valide: <b>' + all.length + '</b> (di cui da rivedere: <b>' + data.toRevise.length + '</b>)<br>Domande scartate: <b>' + data.invalid.length + '</b><br>File non caricati: <b>' + data.fileErrors.length + '</b></p></div>' +
+      '<div class="card"><p>Domande valide: <b>' + all.length + '</b> (di cui da rivedere: <b>' + data.toRevise.length + '</b>)<br>Domande scartate: <b>' + data.invalid.length + '</b><br>Avvisi: <b>' + data.warnings.length + '</b><br>File non caricati: <b>' + data.fileErrors.length + '</b></p></div>' +
       (data.fileErrors.length ? '<h2>File non caricati</h2><div class="card">' + data.fileErrors.map((f) =>
         '<div class="error-item"><code>' + esc(f.file) + '</code><br>' + esc(f.error) + '</div>').join('') + '</div>' : '') +
       (data.invalid.length ? '<h2>Domande scartate</h2><div class="card">' + data.invalid.map((x) =>
         '<div class="error-item"><code>' + esc(x.file) + '</code> · domanda n. ' + x.index + ' · id <code>' + esc(x.id) + '</code><ul class="why-list">' +
         x.reasons.map((r) => '<li>' + esc(r) + '</li>').join('') + '</ul></div>').join('') + '</div>' : '') +
+      (data.warnings.length ? '<h2>Avvisi</h2><p class="small muted">Queste domande sono state caricate, ma vanno corrette nel loro file.</p><div class="card">' + data.warnings.map((w) =>
+        '<div class="error-item"><code>' + esc(w.file) + '</code> · domanda n. ' + w.index + ' · id <code>' + esc(w.id) + '</code><ul class="why-list"><li>⚠ ' + esc(w.message) + '</li></ul></div>').join('') + '</div>' : '') +
       notedHTML +
       '<h2>Domande per materia</h2><div class="card table-scroll"><table class="diag-table"><thead><tr><th>Materia</th><th class="num">Tot.</th>' +
         STATUS_VALUES.map((st) => '<th class="num">' + STATUS_LABELS[st] + '</th>').join('') + '</tr></thead><tbody>' + rows + '</tbody></table>' +
-        '<p class="small muted">Ver. = verificata · Riv. = rivista · DaV = da verificare · DaR = da rivedere</p></div>'
+        '<p class="small muted">Ver. = verificata · Riv. = rivista · DaV = da verificare · DaR = da rivedere · Demo = demo</p></div>'
     );
   }
 

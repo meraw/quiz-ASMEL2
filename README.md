@@ -110,7 +110,9 @@ inside a text, write it as `\"`. Apostrophes (`'`) are fine as they are.
 
 If a question has a mistake (missing field, wrong `correct`, repeated `id`,
 unknown `subject`), the app **skips it** and lists it in **Diagnostica** with
-the reason. If a whole file is broken (for example a missing comma), the file
+the reason. A question with an unknown or missing `status` is **not** skipped:
+it is loaded as `da_verificare` and listed in **Diagnostica** under **Avvisi**
+so you can fix it. If a whole file is broken (for example a missing comma), the file
 is listed there too. The rest of the app keeps working.
 
 ---
@@ -222,11 +224,11 @@ fix the data files.
 
 ## Updates and offline use
 
-- New or changed questions appear the next time you open the app with an
-  internet connection (the app always checks `index.html` and the `data/`
-  folder online first, and uses the saved copy only when offline).
-- Changes to `app.js` or `style.css` are picked up in the background and show
-  up from the following opening of the app.
+- Any change (new questions, `app.js`, `style.css`, …) appears the next time
+  you open the app with an internet connection: the app always checks every
+  file online first, and uses the saved copy only when offline.
+- If you change `sw.js`, also change `CACHE_VERSION` at its top, so installed
+  apps replace the old service worker and its saved copies.
 
 ## Trying it on a computer
 

@@ -1,15 +1,14 @@
 /*
  * Quiz ASMEL - service worker (offline support)
  *
- * - index.html and everything in data/  -> NETWORK FIRST: always try to get
- *   the newest version (so new questions appear), use the saved copy offline.
- * - everything else (app.js, style.css, icons) -> use the saved copy at once,
- *   and refresh it in the background for the next visit.
+ * Every file of the app (index.html, app.js, style.css, manifest.json, icons
+ * and everything in data/) is NETWORK FIRST: always try to get the newest
+ * version, and use the saved copy only when offline.
  *
- * If you change app.js or style.css and want phones to pick it up sooner,
- * change CACHE_VERSION below.
+ * Change CACHE_VERSION below whenever this file changes, so installed apps
+ * replace the old service worker and clear the old saved copies.
  */
-const CACHE_VERSION = 'asmel-quiz-v2';
+const CACHE_VERSION = 'asmel-quiz-v3';
 
 // Files saved at install time. Paths are relative to this file, so the app
 // also works under a subpath such as /quiz-asmel/.
@@ -44,14 +43,6 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-function isNetworkFirst(request) {
-  if (request.mode === 'navigate') return true;
-  const path = new URL(request.url).pathname;
-  const scope = new URL(self.registration.scope).pathname; // e.g. /quiz-asmel/
-  const relative = path.startsWith(scope) ? path.slice(scope.length) : path;
-  return relative === '' || relative === 'index.html' || relative.startsWith('data/');
-}
-
 async function networkFirst(request) {
   const cache = await caches.open(CACHE_VERSION);
   try {
@@ -70,18 +61,9 @@ async function networkFirst(request) {
   }
 }
 
-async function staleWhileRevalidate(request) {
-  const cache = await caches.open(CACHE_VERSION);
-  const cached = await cache.match(request, { ignoreSearch: true });
-  const fresh = fetch(request)
-    .then((response) => { if (response.ok) cache.put(request, response.clone()); return response; })
-    .catch(() => cached);
-  return cached || fresh;
-}
-
 self.addEventListener('fetch', (event) => {
   const request = event.request;
   // Only handle GET requests for files of this site
   if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
-  event.respondWith(isNetworkFirst(request) ? networkFirst(request) : staleWhileRevalidate(request));
+  event.respondWith(networkFirst(request));
 });
