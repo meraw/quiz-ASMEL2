@@ -1,0 +1,894 @@
+[
+  {
+    "id": "l190-a-001",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 15, della L. 190/2012, la trasparenza dell'attività amministrativa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "costituisce livello essenziale delle prestazioni concernenti i diritti sociali e civili ai sensi dell'art. 117, secondo comma, lettera m), della Costituzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "costituisce principio fondamentale riservato alla legislazione concorrente delle regioni",
+        "why_wrong": "Il comma 15 la qualifica come livello essenziale delle prestazioni ai sensi dell'art. 117, secondo comma, lettera m)."
+      },
+      {
+        "id": "c",
+        "text": "è assicurata esclusivamente mediante il diritto di accesso ai documenti amministrativi",
+        "why_wrong": "Il comma 15 prevede che sia assicurata mediante la pubblicazione nei siti web istituzionali."
+      },
+      {
+        "id": "d",
+        "text": "è assicurata mediante la pubblicazione delle sole informazioni che non contengono dati personali",
+        "why_wrong": "Il comma 15 richiede il rispetto delle disposizioni sulla protezione dei dati personali, non l'esclusione di ogni informazione che li contenga."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 15 qualifica la trasparenza come livello essenziale delle prestazioni ex art. 117, secondo comma, lettera m), Cost., assicurata mediante la pubblicazione nei siti web istituzionali delle informazioni sui procedimenti amministrativi.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 15",
+        "text": "Ai fini della presente legge, la trasparenza dell'attività amministrativa, che costituisce livello essenziale delle prestazioni concernenti i diritti sociali e civili ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 15",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-002",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 15, della L. 190/2012, la pubblicazione nei siti web istituzionali delle informazioni relative ai procedimenti amministrativi avviene secondo criteri di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "riservatezza, proporzionalità e gradualità",
+        "why_wrong": "Il comma 15 indica criteri di facile accessibilità, completezza e semplicità di consultazione."
+      },
+      {
+        "id": "b",
+        "text": "economicità, efficacia e pubblicità",
+        "why_wrong": "Il comma 15 non richiama questi criteri, ma facile accessibilità, completezza e semplicità di consultazione."
+      },
+      {
+        "id": "c",
+        "text": "facile accessibilità, completezza e semplicità di consultazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "tempestività e integrità, con obbligo di aggiornamento settimanale",
+        "why_wrong": "Il comma 15 non prevede un aggiornamento settimanale; indica facile accessibilità, completezza e semplicità di consultazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 15 prevede che le informazioni sui procedimenti siano pubblicate secondo criteri di facile accessibilità, completezza e semplicità di consultazione, nel rispetto del segreto di Stato, del segreto d'ufficio e della protezione dei dati personali.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 15",
+        "text": "è assicurata mediante la pubblicazione, nei siti web istituzionali delle pubbliche amministrazioni, delle informazioni relative ai procedimenti amministrativi, secondo criteri di facile accessibilità, completezza e semplicità di consultazione, nel rispetto delle disposizioni in materia di segreto di Stato, di segreto d'ufficio e di protezione dei dati personali."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 15",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-003",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 16, della L. 190/2012, le pubbliche amministrazioni assicurano i livelli essenziali di trasparenza con particolare riferimento, tra gli altri, ai procedimenti di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "attribuzione di incarichi dirigenziali di vertice",
+        "why_wrong": "Gli incarichi dirigenziali sono oggetto della delega del comma 49, non dell'elenco del comma 16."
+      },
+      {
+        "id": "b",
+        "text": "concorsi e prove selettive per l'assunzione del personale e progressioni di carriera",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "iscrizione nell'elenco dei fornitori non soggetti a tentativi di infiltrazione mafiosa",
+        "why_wrong": "L'elenco dei fornitori è disciplinato dal comma 52 e non figura tra i procedimenti del comma 16."
+      },
+      {
+        "id": "d",
+        "text": "collocamento in posizione di fuori ruolo dei magistrati",
+        "why_wrong": "Il fuori ruolo dei magistrati è disciplinato dai commi 66 e seguenti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 16 elenca autorizzazione o concessione, scelta del contraente, concessione di sovvenzioni e vantaggi economici, concorsi e prove selettive per l'assunzione del personale e progressioni di carriera.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 16",
+        "text": "d) concorsi e prove selettive per l'assunzione del personale e progressioni di carriera"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 16",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-004",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Una stazione appaltante vuole prevedere nel bando di gara che il mancato rispetto delle clausole del patto di integrità comporti l'esclusione dalla gara. Ai sensi dell'art. 1, comma 17, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può prevederlo negli avvisi, nei bandi di gara o nelle lettere di invito",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "non può prevederlo, perché le cause di esclusione sono solo quelle previste dal codice dei contratti",
+        "why_wrong": "Il comma 17 consente espressamente questa previsione."
+      },
+      {
+        "id": "c",
+        "text": "deve prevederlo obbligatoriamente in ogni gara",
+        "why_wrong": "Il comma 17 usa la formula «possono prevedere»: è una facoltà."
+      },
+      {
+        "id": "d",
+        "text": "può prevederlo solo previa autorizzazione del prefetto",
+        "why_wrong": "Il comma 17 non richiede alcuna autorizzazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 17 consente alle stazioni appaltanti di prevedere negli avvisi, bandi di gara o lettere di invito che il mancato rispetto delle clausole dei protocolli di legalità o dei patti di integrità sia causa di esclusione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 17",
+        "text": "Le stazioni appaltanti possono prevedere negli avvisi, bandi di gara o lettere di invito che il mancato rispetto delle clausole contenute nei protocolli di legalità o nei patti di integrità costituisce causa di esclusione dalla gara."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 17",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-005",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 18, della L. 190/2012, la partecipazione di un magistrato amministrativo a un collegio arbitrale comporta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la sola responsabilità disciplinare del magistrato",
+        "why_wrong": "Il comma 18 prevede la decadenza dagli incarichi e la nullità degli atti compiuti."
+      },
+      {
+        "id": "b",
+        "text": "il collocamento obbligatorio in posizione di fuori ruolo",
+        "why_wrong": "Il fuori ruolo è previsto dal comma 66 per altri incarichi; il comma 18 vieta la partecipazione ai collegi arbitrali."
+      },
+      {
+        "id": "c",
+        "text": "la decadenza dagli incarichi e la nullità degli atti compiuti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "l'annullabilità del lodo su istanza di parte",
+        "why_wrong": "Il comma 18 prevede la nullità degli atti compiuti, oltre alla decadenza dagli incarichi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 18 vieta a magistrati, avvocati e procuratori dello Stato e componenti delle corti tributarie la partecipazione a collegi arbitrali o l'incarico di arbitro unico, pena la decadenza dagli incarichi e la nullità degli atti compiuti.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 18",
+        "text": "tributarie è vietata, pena la decadenza dagli incarichi e la nullità degli atti compiuti, la partecipazione a collegi arbitrali o l'assunzione di incarico di arbitro unico."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 18",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-006",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un commissario nominato per gestire un'emergenza opera in deroga alle procedure ordinarie e non dispone di un proprio sito web istituzionale. Ai sensi dell'art. 1, comma 26, della L. 190/2012, le informazioni previste dai commi 15 e 16:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non devono essere pubblicate, perché i procedimenti in deroga sono esclusi",
+        "why_wrong": "Il comma 26 estende i commi 15 e 16 anche ai procedimenti in deroga alle procedure ordinarie."
+      },
+      {
+        "id": "b",
+        "text": "sono pubblicate nel sito web istituzionale dell'amministrazione dalla quale il commissario è nominato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "sono trasmesse soltanto all'Autorità nazionale anticorruzione",
+        "why_wrong": "La trasmissione telematica alla Commissione (comma 27) si aggiunge alla pubblicazione, non la sostituisce."
+      },
+      {
+        "id": "d",
+        "text": "sono pubblicate nel sito della prefettura competente",
+        "why_wrong": "Il comma 26 indica il sito dell'amministrazione dalla quale il soggetto è nominato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 26 applica i commi 15 e 16 anche ai procedimenti in deroga e prevede che i soggetti privi di sito pubblichino le informazioni nei siti delle amministrazioni dalle quali sono nominati.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 26",
+        "text": "Le disposizioni di cui ai commi 15 e 16 si applicano anche ai procedimenti posti in essere in deroga alle procedure ordinarie. I soggetti che operano in deroga e che non dispongono di propri siti web istituzionali pubblicano le informazioni di cui ai citati commi 15 e 16 nei siti web istituzionali delle amministrazioni dalle quali sono nominati."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 26",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-007",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 28, della L. 190/2012, le amministrazioni provvedono al monitoraggio periodico del rispetto dei tempi procedimentali e i relativi risultati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono trasmessi solo all'organismo indipendente di valutazione",
+        "why_wrong": "Il comma 28 prevede che i risultati siano consultabili nel sito web istituzionale."
+      },
+      {
+        "id": "b",
+        "text": "restano riservati e sono utilizzati solo a fini disciplinari",
+        "why_wrong": "Il comma 28 li rende consultabili nel sito web istituzionale."
+      },
+      {
+        "id": "c",
+        "text": "sono pubblicati nella Gazzetta Ufficiale con cadenza annuale",
+        "why_wrong": "Il comma 28 indica il sito web istituzionale di ciascuna amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "sono consultabili nel sito web istituzionale di ciascuna amministrazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 28 impone il monitoraggio periodico dei tempi procedimentali, con la tempestiva eliminazione delle anomalie, e rende i risultati consultabili nel sito web istituzionale.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 28",
+        "text": "Le amministrazioni provvedono altresì al monitoraggio periodico del rispetto dei tempi procedimentali attraverso la tempestiva eliminazione delle anomalie. I risultati del monitoraggio sono consultabili nel sito web istituzionale di ciascuna amministrazione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 28",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-008",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un cittadino vuole trasmettere per via telematica un'istanza a un Comune e ricevere informazioni sui procedimenti che lo riguardano. Ai sensi dell'art. 1, comma 29, della L. 190/2012, il Comune deve rendere noto sul proprio sito web istituzionale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "almeno un indirizzo di posta elettronica certificata cui il cittadino possa rivolgersi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il nominativo di un funzionario incaricato di ricevere le istanze allo sportello",
+        "why_wrong": "Il comma 29 riguarda un indirizzo di posta elettronica certificata, non un funzionario di sportello."
+      },
+      {
+        "id": "c",
+        "text": "un modulo cartaceo scaricabile da consegnare all'ufficio protocollo",
+        "why_wrong": "Il comma 29 richiede almeno un indirizzo di posta elettronica certificata."
+      },
+      {
+        "id": "d",
+        "text": "un indirizzo di posta elettronica certificata per ciascun ufficio dell'ente",
+        "why_wrong": "Il comma 29 richiede «almeno un» indirizzo, non uno per ogni ufficio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 29 obbliga ogni amministrazione a rendere noto sul proprio sito almeno un indirizzo PEC cui il cittadino possa trasmettere istanze e da cui ricevere informazioni sui provvedimenti e procedimenti che lo riguardano.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 29",
+        "text": "Ogni amministrazione pubblica rende noto, tramite il proprio sito web istituzionale, almeno un indirizzo di posta elettronica certificata cui il cittadino possa rivolgersi per trasmettere istanze"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 29",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-009",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 30, della L. 190/2012, le amministrazioni devono rendere accessibili agli interessati, tramite strumenti di identificazione informatica, le informazioni relative ai provvedimenti e ai procedimenti che li riguardano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo dopo la conclusione del procedimento",
+        "why_wrong": "Il comma 30 prevede l'accessibilità «in ogni momento», comprese le informazioni sullo stato della procedura."
+      },
+      {
+        "id": "b",
+        "text": "solo su richiesta scritta motivata",
+        "why_wrong": "Il comma 30 prevede un obbligo di rendere accessibili le informazioni in ogni momento tramite identificazione informatica."
+      },
+      {
+        "id": "c",
+        "text": "in ogni momento, comprese quelle relative allo stato della procedura, ai relativi tempi e allo specifico ufficio competente in ogni singola fase",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "una volta all'anno, in occasione del monitoraggio dei tempi procedimentali",
+        "why_wrong": "Il monitoraggio periodico dei tempi è disciplinato dal comma 28; il comma 30 richiede l'accessibilità in ogni momento."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 30 obbliga le amministrazioni, nel rispetto della disciplina dell'accesso ai documenti, a rendere accessibili in ogni momento agli interessati le informazioni sui provvedimenti e procedimenti che li riguardano, compresi stato, tempi e ufficio competente in ogni fase.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 30",
+        "text": "le informazioni relative ai provvedimenti e ai procedimenti amministrativi che li riguardano, ivi comprese quelle relative allo stato della procedura, ai relativi tempi e allo specifico ufficio competente in ogni singola fase."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 30",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-010",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 32-bis, della L. 190/2012, nelle controversie concernenti le materie dell'art. 133, comma 1, lettera e), del codice del processo amministrativo, il giudice amministrativo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "trasmette alla commissione ogni informazione o notizia rilevante emersa nel giudizio che ponga in evidenza condotte o atti contrastanti con le regole della trasparenza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sospende il giudizio fino al parere dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 32-bis prevede una trasmissione di informazioni, non la sospensione del giudizio."
+      },
+      {
+        "id": "c",
+        "text": "trasmette gli atti al prefetto per le verifiche antimafia",
+        "why_wrong": "Le verifiche antimafia della prefettura sono disciplinate dal comma 52; il comma 32-bis indica come destinataria la commissione."
+      },
+      {
+        "id": "d",
+        "text": "dichiara d'ufficio la nullità degli atti adottati in violazione della trasparenza",
+        "why_wrong": "Il comma 32-bis non attribuisce al giudice questo potere, ma l'obbligo di trasmettere le informazioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 32-bis impone al giudice amministrativo di trasmettere alla commissione le informazioni emerse nel giudizio che, anche dopo una sommaria valutazione, evidenzino condotte o atti contrastanti con le regole della trasparenza.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 32-bis",
+        "text": "il giudice amministrativo trasmette alla commissione ogni informazione o notizia rilevante emersa nel corso del giudizio che, anche in esito a una sommaria valutazione, ponga in evidenza condotte o atti contrastanti con le regole della trasparenza."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 32-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-011",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 34, della L. 190/2012, le disposizioni dei commi da 15 a 33 si applicano alle società partecipate dalle amministrazioni pubbliche e dalle loro controllate:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per l'intera loro attività, senza limitazioni",
+        "why_wrong": "Il comma 34 limita l'applicazione alla loro attività di pubblico interesse."
+      },
+      {
+        "id": "b",
+        "text": "limitatamente alla loro attività di pubblico interesse disciplinata dal diritto nazionale o dell'Unione europea",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo se quotate in mercati regolamentati",
+        "why_wrong": "Il comma 34 non distingue tra società quotate e non quotate, ma limita l'applicazione all'attività di pubblico interesse."
+      },
+      {
+        "id": "d",
+        "text": "in nessun caso, perché si applicano soltanto alle amministrazioni pubbliche",
+        "why_wrong": "Il comma 34 include espressamente le società partecipate e le loro controllate."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 34 estende i commi 15-33 alle amministrazioni dell'art. 1, comma 2, d.lgs. 165/2001, agli enti pubblici nazionali e alle società partecipate e loro controllate, per queste ultime limitatamente all'attività di pubblico interesse disciplinata dal diritto nazionale o dell'UE.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 34",
+        "text": "limitatamente alla loro attività di pubblico interesse disciplinata dal diritto nazionale o dell'Unione europea."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 34",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-012",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Tra i principi e criteri direttivi della delega per il riordino degli obblighi di pubblicità e trasparenza (art. 1, comma 35, della L. 190/2012), per «formati di dati aperti» si devono intendere almeno i dati resi disponibili e fruibili on line:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in formati proprietari, previa registrazione dell'utente",
+        "why_wrong": "La definizione richiede formati non proprietari e il più ampio riutilizzo senza ulteriori restrizioni."
+      },
+      {
+        "id": "b",
+        "text": "in formati non proprietari, ma riutilizzabili solo per fini non commerciali",
+        "why_wrong": "La definizione ammette come unici obblighi quello di citare la fonte e di rispettarne l'integrità."
+      },
+      {
+        "id": "c",
+        "text": "in qualsiasi formato elettronico, purché consultabili gratuitamente",
+        "why_wrong": "La definizione richiede formati non proprietari e condizioni che permettano il più ampio riutilizzo."
+      },
+      {
+        "id": "d",
+        "text": "in formati non proprietari, a condizioni tali da permetterne il più ampio riutilizzo anche a fini statistici e la ridistribuzione senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La lettera f) del comma 35 definisce i formati di dati aperti come dati disponibili on line in formati non proprietari, riutilizzabili e ridistribuibili senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 35",
+        "text": "Per formati di dati aperti si devono intendere almeno i dati resi disponibili e fruibili on line in formati non proprietari, a condizioni tali da permetterne il più ampio riutilizzo anche a fini statistici e la ridistribuzione senza ulteriori restrizioni d'uso, di riuso o di diffusione diverse dall'obbligo di citare la fonte e di rispettarne l'integrità;"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 35",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-013",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 39, della L. 190/2012, le amministrazioni pubbliche comunicano al Dipartimento della funzione pubblica i dati sulle posizioni dirigenziali attribuite discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per il tramite degli organismi indipendenti di valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "per il tramite dei prefetti",
+        "why_wrong": "Il comma 39 indica come tramite gli organismi indipendenti di valutazione."
+      },
+      {
+        "id": "c",
+        "text": "direttamente al Parlamento, con relazione autonoma",
+        "why_wrong": "I dati confluiscono nella relazione annuale al Parlamento dell'art. 36, comma 3, d.lgs. 165/2001, ma sono comunicati al Dipartimento tramite gli OIV."
+      },
+      {
+        "id": "d",
+        "text": "per il tramite del responsabile della prevenzione della corruzione",
+        "why_wrong": "Il comma 39 indica gli organismi indipendenti di valutazione, non il responsabile della prevenzione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 39, per garantire l'imparzialità e la separazione tra politica e amministrazione, impone di comunicare al Dipartimento della funzione pubblica, per il tramite degli OIV, i dati sulle posizioni dirigenziali attribuite discrezionalmente senza procedure pubbliche di selezione; titoli e curricula ne sono parte integrante (comma 40).",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 39",
+        "text": "comunicano al Dipartimento della funzione pubblica, per il tramite degli organismi indipendenti di valutazione, tutti i dati utili a rilevare le posizioni dirigenziali attribuite a persone, anche esterne alle pubbliche amministrazioni, individuate discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 39",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-014",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un'impresa di autotrasporti per conto di terzi chiede l'iscrizione nell'elenco di fornitori, prestatori di servizi ed esecutori di lavori non soggetti a tentativi di infiltrazione mafiosa. Ai sensi dell'art. 1, comma 52, della L. 190/2012, l'iscrizione è disposta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dall'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 52 affida l'elenco e l'iscrizione alle prefetture."
+      },
+      {
+        "id": "b",
+        "text": "dalla stazione appaltante che intende affidare il contratto",
+        "why_wrong": "Le stazioni appaltanti consultano l'elenco; l'iscrizione è disposta dalla prefettura."
+      },
+      {
+        "id": "c",
+        "text": "dalla prefettura della provincia in cui l'impresa ha la propria sede",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dal Ministero dell'interno, con decreto",
+        "why_wrong": "Il decreto del Ministro dell'interno serve ad aggiornare l'elenco delle attività (comma 54), non a disporre le iscrizioni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 52 istituisce l'elenco presso ogni prefettura e stabilisce che l'iscrizione è disposta dalla prefettura della provincia in cui il richiedente ha la propria sede; la prefettura effettua verifiche periodiche e, in caso di esito negativo, dispone la cancellazione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 52",
+        "text": "Il suddetto elenco è istituito presso ogni prefettura. L'iscrizione nell'elenco è disposta dalla prefettura della provincia in cui il soggetto richiedente ha la propria sede."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 52",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-015",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 52-bis, della L. 190/2012, l'iscrizione nell'elenco dei fornitori non soggetti a tentativi di infiltrazione mafiosa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vale solo per i contratti relativi all'attività per la quale è stata disposta",
+        "why_wrong": "Il comma 52-bis estende l'effetto anche a contratti relativi ad attività diverse."
+      },
+      {
+        "id": "b",
+        "text": "tiene luogo della comunicazione e dell'informazione antimafia liberatoria anche per contratti o subcontratti relativi ad attività diverse da quelle per cui è stata disposta",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "sostituisce la comunicazione antimafia, ma non l'informazione antimafia",
+        "why_wrong": "Il comma 52-bis prevede che tenga luogo di entrambe."
+      },
+      {
+        "id": "d",
+        "text": "ha validità di un anno e non è soggetta a verifiche",
+        "why_wrong": "Il comma 52 prevede verifiche periodiche della prefettura e la cancellazione in caso di esito negativo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 52-bis stabilisce che l'iscrizione tiene luogo della comunicazione e dell'informazione antimafia liberatoria anche per stipula, approvazione o autorizzazione di contratti o subcontratti relativi ad attività diverse.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 52-bis",
+        "text": "L'iscrizione nell'elenco di cui al comma 52 tiene luogo della comunicazione e dell'informazione antimafia liberatoria anche ai fini della stipula, approvazione o autorizzazione di contratti o subcontratti relativi ad attività diverse da quelle per le quali essa è stata disposta."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 52-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-016",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 53, della L. 190/2012, quale tra le seguenti attività è definita come maggiormente esposta a rischio di infiltrazione mafiosa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guardiania dei cantieri",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Concorsi e prove selettive per l'assunzione del personale",
+        "why_wrong": "I concorsi sono tra i procedimenti per cui si assicura la trasparenza (comma 16), non tra le attività del comma 53."
+      },
+      {
+        "id": "c",
+        "text": "Concessione di sovvenzioni e contributi a enti pubblici e privati",
+        "why_wrong": "È un procedimento indicato dal comma 16, non un'attività imprenditoriale del comma 53."
+      },
+      {
+        "id": "d",
+        "text": "Attività di consulenza giuridica alle pubbliche amministrazioni",
+        "why_wrong": "Non figura nell'elenco del comma 53."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 53 elenca le attività maggiormente esposte a rischio di infiltrazione mafiosa, tra cui trasporto di terra e inerti, calcestruzzo e bitume, noli a freddo e a caldo, ferro lavorato, autotrasporti per conto di terzi, guardiania dei cantieri, servizi funerari, ristorazione e servizi ambientali.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 53",
+        "text": "i) guardiania dei cantieri."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 53",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-017",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un'impresa iscritta nell'elenco della prefettura modifica la composizione del proprio consiglio di amministrazione. Ai sensi dell'art. 1, comma 55, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non deve comunicare nulla, perché la prefettura effettua verifiche periodiche",
+        "why_wrong": "Le verifiche periodiche (comma 52) non escludono l'obbligo di comunicazione del comma 55."
+      },
+      {
+        "id": "b",
+        "text": "deve comunicarlo entro sei mesi, pena una sanzione pecuniaria",
+        "why_wrong": "Il termine è di trenta giorni e la conseguenza è la cancellazione dell'iscrizione."
+      },
+      {
+        "id": "c",
+        "text": "deve comunicarlo all'Autorità nazionale anticorruzione entro quindici giorni",
+        "why_wrong": "La comunicazione va fatta alla prefettura competente entro trenta giorni."
+      },
+      {
+        "id": "d",
+        "text": "deve comunicarlo alla prefettura competente entro trenta giorni, pena la cancellazione dell'iscrizione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 55 obbliga l'impresa iscritta a comunicare alla prefettura ogni modifica dell'assetto proprietario e degli organi sociali entro trenta giorni; la mancata comunicazione comporta la cancellazione dell'iscrizione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 55",
+        "text": "L'impresa iscritta nell'elenco di cui al comma 52 comunica alla prefettura competente qualsiasi modifica dell'assetto proprietario e dei propri organi sociali, entro trenta giorni dalla data della modifica."
+      },
+      {
+        "ref": "art. 1, comma 55",
+        "text": "La mancata comunicazione comporta la cancellazione dell'iscrizione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 55",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-018",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 59, della L. 190/2012, le disposizioni di prevenzione della corruzione dei commi da 1 a 57 sono qualificate come:",
+    "options": [
+      {
+        "id": "a",
+        "text": "norme di principio, applicabili alle regioni solo previo recepimento con legge regionale",
+        "why_wrong": "Il comma 59 ne prevede l'applicazione in tutte le amministrazioni dell'art. 1, comma 2, del d.lgs. 165/2001."
+      },
+      {
+        "id": "b",
+        "text": "di diretta attuazione del principio di imparzialità di cui all'art. 97 della Costituzione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "livello essenziale delle prestazioni ai sensi dell'art. 117, secondo comma, lettera m), della Costituzione",
+        "why_wrong": "Questa qualificazione è data dal comma 15 alla trasparenza, non dal comma 59 alle disposizioni di prevenzione."
+      },
+      {
+        "id": "d",
+        "text": "disposizioni applicabili alle sole amministrazioni centrali dello Stato",
+        "why_wrong": "Il comma 59 le applica in tutte le amministrazioni dell'art. 1, comma 2, del d.lgs. 165/2001."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 59 qualifica le disposizioni dei commi 1-57 come di diretta attuazione del principio di imparzialità (art. 97 Cost.) e le applica in tutte le amministrazioni di cui all'art. 1, comma 2, del d.lgs. 165/2001.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 59",
+        "text": "Le disposizioni di prevenzione della corruzione di cui ai commi da 1 a 57 del presente articolo, di diretta attuazione del principio di imparzialità di cui all'articolo 97 della Costituzione"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 59",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-019",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 66, della L. 190/2012, un magistrato ordinario che assume un incarico apicale presso un ente pubblico nazionale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può svolgerlo restando in servizio, previa autorizzazione",
+        "why_wrong": "Il comma 66 richiede il contestuale collocamento in posizione di fuori ruolo."
+      },
+      {
+        "id": "b",
+        "text": "può svolgerlo collocandosi in aspettativa",
+        "why_wrong": "Il comma 66 esclude il ricorso all'istituto dell'aspettativa."
+      },
+      {
+        "id": "c",
+        "text": "deve svolgerlo con contestuale collocamento in posizione di fuori ruolo, che permane per tutta la durata dell'incarico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "non può in nessun caso assumerlo, pena la decadenza e la nullità degli atti",
+        "why_wrong": "Decadenza e nullità sono previste dal comma 18 per la partecipazione a collegi arbitrali."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 66 impone che gli incarichi apicali o semiapicali presso istituzioni, organi ed enti pubblici attribuiti a magistrati, avvocati e procuratori dello Stato siano svolti con contestuale collocamento fuori ruolo per tutta la durata dell'incarico; è escluso il ricorso all'aspettativa.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 66",
+        "text": "Tutti gli incarichi presso istituzioni, organi ed enti pubblici, nazionali ed internazionali attribuiti in posizioni apicali o semiapicali"
+      },
+      {
+        "ref": "art. 1, comma 66",
+        "text": "((a magistrati ordinari, amministrativi, contabili, militari e tributari))"
+      },
+      {
+        "ref": "art. 1, comma 66",
+        "text": "devono essere svolti con contestuale collocamento in posizione di fuori ruolo, che deve permanere per tutta la durata dell'incarico. È escluso il ricorso all'istituto dell'aspettativa."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 66",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-a-020",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Il prefetto comunica all'Autorità nazionale anticorruzione il provvedimento di revoca del segretario comunale. Ai sensi dell'art. 1, comma 82, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la revoca è efficace dal momento della sua adozione, e l'Autorità può solo formulare osservazioni",
+        "why_wrong": "Il comma 82 prevede che la revoca diventi efficace decorsi trenta giorni, salvo i rilievi dell'Autorità."
+      },
+      {
+        "id": "b",
+        "text": "la revoca diventa efficace solo dopo il parere favorevole espresso dall'Autorità",
+        "why_wrong": "Il comma 82 non richiede un parere favorevole: decorso il termine la revoca diventa efficace, salvo i rilievi dell'Autorità."
+      },
+      {
+        "id": "c",
+        "text": "l'Autorità si esprime entro sessanta giorni, decorsi i quali la revoca è inefficace",
+        "why_wrong": "Il termine è di trenta giorni e, decorso, la revoca diventa efficace."
+      },
+      {
+        "id": "d",
+        "text": "l'Autorità si esprime entro trenta giorni; decorso il termine la revoca diventa efficace, salvo che l'Autorità rilevi che è correlata alle attività svolte dal segretario in materia di prevenzione della corruzione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 82 prevede che la revoca del segretario sia comunicata dal prefetto all'Autorità, che si esprime entro trenta giorni; decorso il termine la revoca diventa efficace, salvo che l'Autorità rilevi una correlazione con le attività del segretario in materia di prevenzione della corruzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 82",
+        "text": "è comunicato dal prefetto all'Autorità nazionale anticorruzione, di cui al comma 1 del presente articolo, che si esprime entro trenta giorni. Decorso tale termine, la revoca diventa efficace, salvo che l'Autorità rilevi che la stessa sia correlata alle attività svolte dal segretario in materia di prevenzione della corruzione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 82",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

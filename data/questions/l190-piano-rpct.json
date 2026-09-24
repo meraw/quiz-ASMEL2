@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "l190-p-001",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 1, della L. 190/2012, la legge individua l'Autorità nazionale anticorruzione e gli altri organi incaricati di svolgere, con modalità tali da assicurare azione coordinata, attività di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "controllo, prevenzione e contrasto della corruzione e dell'illegalità nella pubblica amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "repressione penale dei reati contro la pubblica amministrazione, in via esclusiva",
+        "why_wrong": "Il comma 1 parla di controllo, prevenzione e contrasto, non di repressione penale in via esclusiva."
+      },
+      {
+        "id": "c",
+        "text": "misurazione e valutazione della performance delle amministrazioni pubbliche",
+        "why_wrong": "La verifica legata alla performance è affidata all'OIV (comma 8-bis), non è l'oggetto indicato dal comma 1."
+      },
+      {
+        "id": "d",
+        "text": "formazione dei dipendenti pubblici sui temi dell'etica e della legalità",
+        "why_wrong": "La formazione su etica e legalità è compito della Scuola superiore della pubblica amministrazione (comma 11)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 1 indica la finalità della legge: individuare l'Autorità nazionale anticorruzione e gli altri organi che svolgono in modo coordinato attività di controllo, prevenzione e contrasto della corruzione e dell'illegalità nella PA.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1",
+        "text": "la presente legge individua, in ambito nazionale, l'Autorità nazionale anticorruzione e gli altri organi incaricati di svolgere, con modalità tali da assicurare azione coordinata, attività di controllo, di prevenzione e di contrasto della corruzione e dell'illegalità nella pubblica amministrazione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 1",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-002",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Secondo l'art. 1, comma 2, della L. 190/2012, quale organismo opera quale Autorità nazionale anticorruzione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Dipartimento della funzione pubblica",
+        "why_wrong": "Al Dipartimento della funzione pubblica il comma 4 attribuisce compiti di coordinamento delle strategie di prevenzione."
+      },
+      {
+        "id": "b",
+        "text": "Il Comitato interministeriale istituito con decreto del Presidente del Consiglio dei Ministri",
+        "why_wrong": "Il Comitato interministeriale adotta linee di indirizzo (comma 4) ed è sentito per il Piano nazionale anticorruzione (comma 2-bis)."
+      },
+      {
+        "id": "c",
+        "text": "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche, di cui all'art. 13 del d.lgs. 150/2009",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La Scuola superiore della pubblica amministrazione",
+        "why_wrong": "La Scuola superiore della pubblica amministrazione si occupa della formazione dei dipendenti (comma 11)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 stabilisce che la Commissione di cui all'art. 13 del d.lgs. 150/2009 (denominata «Commissione») opera quale Autorità nazionale anticorruzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche, di cui all'articolo 13 del decreto legislativo 27 ottobre 2009, n.150"
+      },
+      {
+        "ref": "art. 1, comma 2",
+        "text": "di seguito denominata «Commissione», opera quale Autorità nazionale anticorruzione, ai sensi del comma 1 del presente articolo."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-003",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Entro quale termine l'Autorità nazionale anticorruzione riferisce al Parlamento sull'attività di contrasto della corruzione, ai sensi dell'art. 1, comma 2, della L. 190/2012?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro il 31 gennaio di ciascun anno",
+        "why_wrong": "Il 31 gennaio è il termine per l'adozione del Piano triennale per la prevenzione della corruzione (comma 8)."
+      },
+      {
+        "id": "b",
+        "text": "Entro il 15 dicembre di ciascun anno",
+        "why_wrong": "Il 15 dicembre è il termine per la relazione del responsabile della prevenzione della corruzione (comma 14)."
+      },
+      {
+        "id": "c",
+        "text": "Entro il 31 dicembre, ma solo al termine del triennio di durata del Piano nazionale anticorruzione",
+        "why_wrong": "La relazione è presentata entro il 31 dicembre di ciascun anno, non al termine del triennio."
+      },
+      {
+        "id": "d",
+        "text": "Entro il 31 dicembre di ciascun anno",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Tra le funzioni elencate al comma 2, la lettera g) prevede che l'Autorità riferisca al Parlamento presentando una relazione entro il 31 dicembre di ciascun anno.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "riferisce al Parlamento, presentando una relazione entro il 31 dicembre di ciascun anno, sull'attività di contrasto della corruzione e dell'illegalità nella pubblica amministrazione e sull'efficacia delle disposizioni vigenti in materia."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-004",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 2, della L. 190/2012, l'Autorità nazionale anticorruzione esprime parere obbligatorio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sugli atti di direttiva e di indirizzo, nonché sulle circolari del Ministro per la pubblica amministrazione e la semplificazione in materia di conformità di atti e comportamenti dei funzionari pubblici alla legge, ai codici di comportamento e ai contratti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "in materia di autorizzazioni allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali",
+        "why_wrong": "In materia di autorizzazioni agli incarichi esterni i pareri sono facoltativi (lettera e)."
+      },
+      {
+        "id": "c",
+        "text": "sui piani triennali di prevenzione della corruzione adottati da ciascuna amministrazione",
+        "why_wrong": "Il piano triennale è adottato dall'organo di indirizzo e trasmesso all'Autorità (comma 8); non è previsto un parere obbligatorio."
+      },
+      {
+        "id": "d",
+        "text": "sul Piano nazionale anticorruzione, prima della sua adozione da parte del Comitato interministeriale",
+        "why_wrong": "Il Piano nazionale anticorruzione è adottato dall'Autorità stessa, sentito il Comitato interministeriale (lettera b e comma 2-bis)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La lettera d) del comma 2 attribuisce all'Autorità un parere obbligatorio sugli atti di direttiva e di indirizzo e sulle circolari del Ministro per la pubblica amministrazione in materia di conformità di atti e comportamenti dei funzionari pubblici.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "esprime parere obbligatorio sugli atti di direttiva e di indirizzo, nonché sulle circolari del Ministro per la pubblica amministrazione e la semplificazione in materia di conformità di atti e comportamenti dei funzionari pubblici alla legge, ai codici di comportamento e ai contratti, collettivi e individuali, regolanti il rapporto di lavoro pubblico;"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-005",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Ministero chiede all'Autorità nazionale anticorruzione un parere sull'autorizzazione di un incarico esterno a un proprio dirigente amministrativo. Ai sensi dell'art. 1, comma 2, della L. 190/2012, si tratta di un parere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obbligatorio, come per le circolari del Ministro per la pubblica amministrazione",
+        "why_wrong": "Il parere obbligatorio (lettera d) riguarda gli atti di direttiva e di indirizzo e le circolari del Ministro, non le autorizzazioni agli incarichi."
+      },
+      {
+        "id": "b",
+        "text": "facoltativo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "obbligatorio e vincolante",
+        "why_wrong": "La lettera e) qualifica espressamente come facoltativi i pareri in materia di autorizzazioni agli incarichi esterni."
+      },
+      {
+        "id": "d",
+        "text": "non previsto, perché la materia rientra nei compiti del Dipartimento della funzione pubblica",
+        "why_wrong": "La lettera e) del comma 2 attribuisce proprio all'Autorità i pareri in materia di autorizzazioni agli incarichi esterni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La lettera e) del comma 2 prevede che l'Autorità esprima pareri facoltativi in materia di autorizzazioni, di cui all'art. 53 del d.lgs. 165/2001, allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "esprime pareri facoltativi in materia di autorizzazioni, di cui all'articolo 53 del decreto legislativo 30 marzo 2001, n.165"
+      },
+      {
+        "ref": "art. 1, comma 2",
+        "text": "allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-006",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 2-bis, della L. 190/2012, il Piano nazionale anticorruzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha durata annuale ed è adottato entro il 31 gennaio di ogni anno",
+        "why_wrong": "Il termine del 31 gennaio riguarda il Piano triennale di ciascuna amministrazione (comma 8); il Piano nazionale ha durata triennale."
+      },
+      {
+        "id": "b",
+        "text": "ha durata triennale ed è aggiornato soltanto alla scadenza del triennio",
+        "why_wrong": "Il Piano nazionale è aggiornato annualmente, non solo alla scadenza."
+      },
+      {
+        "id": "c",
+        "text": "ha durata triennale ed è aggiornato annualmente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è adottato dalla Conferenza unificata, sentita l'Autorità nazionale anticorruzione",
+        "why_wrong": "Il Piano è adottato dall'Autorità (comma 2, lettera b); la Conferenza unificata è solo sentita."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2-bis stabilisce che il Piano nazionale anticorruzione ha durata triennale ed è aggiornato annualmente.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2-bis",
+        "text": "Il Piano ha durata triennale ed è aggiornato annualmente."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-007",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Rispetto alle pubbliche amministrazioni di cui all'art. 1, comma 2, del d.lgs. 165/2001, il Piano nazionale anticorruzione costituisce, ai sensi dell'art. 1, comma 2-bis, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il piano di prevenzione della corruzione di ciascuna amministrazione, che le amministrazioni si limitano a recepire",
+        "why_wrong": "Ogni amministrazione adotta il proprio Piano triennale (comma 8); il Piano nazionale è un atto di indirizzo."
+      },
+      {
+        "id": "b",
+        "text": "un atto di indirizzo rivolto soltanto agli enti e alle società di cui all'art. 2-bis, comma 2, del d.lgs. 33/2013",
+        "why_wrong": "Il Piano nazionale è atto di indirizzo sia per le pubbliche amministrazioni sia per gli altri soggetti dell'art. 2-bis, comma 2, del d.lgs. 33/2013."
+      },
+      {
+        "id": "c",
+        "text": "una raccolta di dati statistici sulla corruzione, senza effetti sulle amministrazioni",
+        "why_wrong": "Il comma 2-bis lo qualifica come atto di indirizzo e gli attribuisce l'individuazione dei rischi e dei rimedi."
+      },
+      {
+        "id": "d",
+        "text": "un atto di indirizzo ai fini dell'adozione dei propri piani triennali di prevenzione della corruzione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 2-bis qualifica il Piano nazionale come atto di indirizzo per le pubbliche amministrazioni, ai fini dell'adozione dei loro piani triennali, e per gli altri soggetti dell'art. 2-bis, comma 2, del d.lgs. 33/2013, ai fini di misure integrative di quelle del d.lgs. 231/2001.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2-bis",
+        "text": "Esso costituisce atto di indirizzo per le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165"
+      },
+      {
+        "ref": "art. 1, comma 2-bis",
+        "text": "ai fini dell'adozione dei propri piani triennali di prevenzione della corruzione"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-008",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 2-bis, della L. 190/2012, il Piano nazionale anticorruzione è adottato sentiti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il Comitato interministeriale di cui al comma 4 e la Conferenza unificata",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il Dipartimento della funzione pubblica e la Scuola superiore della pubblica amministrazione",
+        "why_wrong": "Il Dipartimento ha compiti di coordinamento (comma 4) e la Scuola di formazione (comma 11): non sono gli organi da sentire."
+      },
+      {
+        "id": "c",
+        "text": "la Conferenza unificata e gli organismi indipendenti di valutazione",
+        "why_wrong": "Gli OIV verificano la coerenza dei piani triennali delle singole amministrazioni (comma 8-bis)."
+      },
+      {
+        "id": "d",
+        "text": "il Comitato interministeriale e i prefetti",
+        "why_wrong": "Il prefetto fornisce supporto tecnico agli enti locali per i loro piani (comma 6)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 2-bis prevede che il Piano nazionale sia adottato sentiti il Comitato interministeriale di cui al comma 4 e la Conferenza unificata.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2-bis",
+        "text": "Il Piano nazionale anticorruzione è adottato sentiti il Comitato interministeriale di cui al comma 4 e la Conferenza unificata di cui all'articolo 8, comma 1, del decreto legislativo 28 agosto 1997, n. 281"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 2-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-009",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Nell'esercizio della vigilanza, l'Autorità nazionale anticorruzione accerta che un Comune mantiene comportamenti contrastanti con le regole sulla trasparenza. Ai sensi dell'art. 1, comma 3, della L. 190/2012, l'Autorità può:",
+    "options": [
+      {
+        "id": "a",
+        "text": "limitarsi a darne conto nella relazione annuale al Parlamento",
+        "why_wrong": "Il comma 3 attribuisce il potere di ordinare; la relazione al Parlamento (comma 2, lettera g) è una funzione distinta."
+      },
+      {
+        "id": "b",
+        "text": "ordinare la rimozione dei comportamenti o atti contrastanti con i piani e le regole sulla trasparenza",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "chiedere al prefetto di adottare gli atti in sostituzione del Comune",
+        "why_wrong": "Al prefetto il comma 6 attribuisce solo il supporto tecnico e informativo agli enti locali."
+      },
+      {
+        "id": "d",
+        "text": "segnalare il caso all'organismo indipendente di valutazione, unico competente a intervenire",
+        "why_wrong": "È il RPCT che segnala le disfunzioni all'OIV (comma 7); l'Autorità ha propri poteri di ordine."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 3 attribuisce all'Autorità poteri ispettivi e il potere di ordinare l'adozione di atti richiesti dai piani e dalle regole sulla trasparenza, ovvero la rimozione di comportamenti o atti con essi contrastanti.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 3",
+        "text": "l'Autorità nazionale anticorruzione esercita poteri ispettivi mediante richiesta di notizie, informazioni, atti e documenti alle pubbliche amministrazioni, e ordina l'adozione di atti o provvedimenti richiesti dai piani di cui ai commi 4 e 5 e dalle regole sulla trasparenza dell'attività amministrativa previste dalle disposizioni vigenti, ovvero la rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza citati."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 3",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-010",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Tre Comuni, ciascuno con meno di 15.000 abitanti, vogliono predisporre insieme il piano triennale per la prevenzione della corruzione. Ai sensi dell'art. 1, comma 6, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "devono prima costituire un'unione di comuni, unica forma associata ammessa",
+        "why_wrong": "L'unione di comuni rileva per la nomina di un unico RPCT (comma 7); il comma 6 prevede accordi ai sensi dell'art. 15 della L. 241/1990."
+      },
+      {
+        "id": "b",
+        "text": "possono affidare congiuntamente l'elaborazione del piano a una società di consulenza esterna",
+        "why_wrong": "Il comma 8 vieta di affidare l'elaborazione del piano a soggetti estranei all'amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "possono aggregarsi per definirlo in comune tramite accordi ai sensi dell'art. 15 della L. 241/1990, secondo le indicazioni del Piano nazionale anticorruzione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "non possono farlo, perché ogni Comune deve adottare un proprio piano",
+        "why_wrong": "Il comma 6 consente espressamente l'aggregazione ai comuni con popolazione inferiore a 15.000 abitanti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 6 consente ai comuni con popolazione inferiore a 15.000 abitanti di aggregarsi per definire in comune il piano triennale, tramite accordi ex art. 15 della L. 241/1990 e secondo le indicazioni del Piano nazionale anticorruzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 6",
+        "text": "I comuni con popolazione inferiore a 15.000 abitanti possono aggregarsi per definire in comune, tramite accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241"
+      },
+      {
+        "ref": "art. 1, comma 6",
+        "text": "il piano triennale per la prevenzione della corruzione, secondo le indicazioni contenute nel Piano nazionale anticorruzione di cui al comma 2-bis."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 6",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-011",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai fini della predisposizione del piano triennale per la prevenzione della corruzione degli enti locali, l'art. 1, comma 6, della L. 190/2012 prevede che il prefetto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "approvi il piano degli enti locali",
+        "why_wrong": "Negli enti locali il piano è approvato dalla giunta (comma 8)."
+      },
+      {
+        "id": "b",
+        "text": "nomini il responsabile della prevenzione della corruzione in caso di inerzia dell'ente",
+        "why_wrong": "Il responsabile è individuato dall'organo di indirizzo (comma 7)."
+      },
+      {
+        "id": "c",
+        "text": "verifichi d'ufficio la conformità di tutti i piani al Piano nazionale",
+        "why_wrong": "Il supporto del prefetto è fornito su richiesta, non d'ufficio."
+      },
+      {
+        "id": "d",
+        "text": "fornisca, su richiesta, il necessario supporto tecnico e informativo agli enti locali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 6 prevede che il prefetto, su richiesta, fornisca agli enti locali il supporto tecnico e informativo necessario, anche perché i piani rispettino le linee guida del Piano nazionale.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 6",
+        "text": "Ai fini della predisposizione del piano triennale per la prevenzione della corruzione, il prefetto, su richiesta, fornisce il necessario supporto tecnico e informativo agli enti locali"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 6",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-012",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 7, della L. 190/2012, il Responsabile della prevenzione della corruzione e della trasparenza è individuato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dall'organo di indirizzo, di norma tra i dirigenti di ruolo in servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "dall'Autorità nazionale anticorruzione, su proposta dell'amministrazione",
+        "why_wrong": "L'Autorità riceve le segnalazioni di misure discriminatorie contro il responsabile, ma non lo individua."
+      },
+      {
+        "id": "c",
+        "text": "dall'organismo indipendente di valutazione, tra i propri componenti",
+        "why_wrong": "L'OIV riceve dal responsabile le segnalazioni delle disfunzioni; non lo individua."
+      },
+      {
+        "id": "d",
+        "text": "dal Dipartimento della funzione pubblica, tra i dirigenti di altre amministrazioni",
+        "why_wrong": "Il comma 7 affida la scelta all'organo di indirizzo, di norma tra i dirigenti di ruolo in servizio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 7 affida all'organo di indirizzo l'individuazione del RPCT, di norma tra i dirigenti di ruolo in servizio, con le modifiche organizzative necessarie ad assicurargli funzioni e poteri idonei.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 7",
+        "text": "L'organo di indirizzo individua, di norma tra i dirigenti di ruolo in servizio, il Responsabile della prevenzione della corruzione e della trasparenza"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 7",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-013",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Il sindaco di un Comune deve individuare il Responsabile della prevenzione della corruzione e della trasparenza. Ai sensi dell'art. 1, comma 7, della L. 190/2012, negli enti locali il responsabile è individuato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "necessariamente nel segretario comunale, senza possibilità di scelte diverse",
+        "why_wrong": "La norma prevede la regola «di norma» e ammette una diversa e motivata determinazione."
+      },
+      {
+        "id": "b",
+        "text": "di norma nel segretario o nel dirigente apicale, salva diversa e motivata determinazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "in un componente dell'organismo indipendente di valutazione",
+        "why_wrong": "L'OIV è destinatario delle segnalazioni del responsabile, non è il soggetto da nominare."
+      },
+      {
+        "id": "d",
+        "text": "in un soggetto esterno all'amministrazione dotato di specifica esperienza",
+        "why_wrong": "Negli enti locali la scelta cade di norma sul segretario o sul dirigente apicale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per gli enti locali il comma 7 stabilisce che il RPCT sia individuato, di norma, nel segretario o nel dirigente apicale, salva diversa e motivata determinazione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 7",
+        "text": "Negli enti locali, il Responsabile della prevenzione della corruzione e della trasparenza è individuato, di norma, nel segretario o nel dirigente apicale, salva diversa e motivata determinazione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 7",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-014",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 7, della L. 190/2012, il Responsabile della prevenzione della corruzione e della trasparenza segnala le disfunzioni inerenti all'attuazione delle misure di prevenzione e di trasparenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esclusivamente all'Autorità nazionale anticorruzione",
+        "why_wrong": "All'Autorità vanno segnalate le misure discriminatorie nei confronti del responsabile; le disfunzioni vanno all'organo di indirizzo e all'OIV."
+      },
+      {
+        "id": "b",
+        "text": "al prefetto, che ne informa l'Autorità nazionale anticorruzione",
+        "why_wrong": "Il prefetto fornisce supporto tecnico agli enti locali (comma 6); non riceve queste segnalazioni."
+      },
+      {
+        "id": "c",
+        "text": "all'organo di indirizzo e all'organismo indipendente di valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al Dipartimento della funzione pubblica",
+        "why_wrong": "Il Dipartimento ha compiti di coordinamento (comma 4); non è destinatario di queste segnalazioni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 7 prevede che il RPCT segnali le disfunzioni all'organo di indirizzo e all'OIV e indichi agli uffici competenti per l'azione disciplinare i nominativi dei dipendenti che non hanno attuato correttamente le misure.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 7",
+        "text": "Il Responsabile della prevenzione della corruzione e della trasparenza segnala all'organo di indirizzo e all'organismo indipendente di valutazione le disfunzioni inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza e indica agli uffici competenti all'esercizio dell'azione disciplinare i nominativi dei dipendenti che non hanno attuato correttamente le misure in materia di prevenzione della corruzione e di trasparenza."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 7",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-015",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Il Responsabile della prevenzione della corruzione e della trasparenza di una Regione subisce una misura che ritiene discriminatoria, collegata allo svolgimento delle sue funzioni. Ai sensi dell'art. 1, comma 7, della L. 190/2012, la misura deve essere segnalata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "all'organismo indipendente di valutazione, che decide sulla sua legittimità",
+        "why_wrong": "All'OIV il responsabile segnala le disfunzioni nell'attuazione delle misure, non le misure discriminatorie."
+      },
+      {
+        "id": "b",
+        "text": "al prefetto competente per territorio",
+        "why_wrong": "Il prefetto fornisce solo supporto tecnico e informativo agli enti locali (comma 6)."
+      },
+      {
+        "id": "c",
+        "text": "al Dipartimento della funzione pubblica",
+        "why_wrong": "Il comma 7 indica come destinataria l'Autorità nazionale anticorruzione."
+      },
+      {
+        "id": "d",
+        "text": "all'Autorità nazionale anticorruzione, che può chiedere informazioni all'organo di indirizzo e intervenire",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 7 stabilisce che le misure discriminatorie, dirette o indirette, nei confronti del RPCT per motivi collegati alle sue funzioni devono essere segnalate all'Autorità nazionale anticorruzione, che può chiedere informazioni all'organo di indirizzo e intervenire.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 7",
+        "text": "Eventuali misure discriminatorie, dirette o indirette, nei confronti del Responsabile della prevenzione della corruzione e della trasparenza per motivi collegati, direttamente o indirettamente, allo svolgimento delle sue funzioni devono essere segnalate all'Autorità nazionale anticorruzione, che può chiedere informazioni all'organo di indirizzo e intervenire"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 7",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-016",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 8, della L. 190/2012, il Piano triennale per la prevenzione della corruzione è adottato dall'organo di indirizzo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "su proposta del Responsabile della prevenzione della corruzione e della trasparenza, entro il 31 gennaio di ogni anno, curandone la trasmissione all'Autorità nazionale anticorruzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "su proposta dell'organismo indipendente di valutazione, entro il 31 gennaio di ogni anno",
+        "why_wrong": "La proposta spetta al RPCT; l'OIV verifica la coerenza dei piani (comma 8-bis)."
+      },
+      {
+        "id": "c",
+        "text": "su proposta del Responsabile, entro il 15 dicembre di ogni anno",
+        "why_wrong": "Il 15 dicembre è il termine della relazione annuale del responsabile (comma 14)."
+      },
+      {
+        "id": "d",
+        "text": "su proposta del Responsabile, entro il 31 dicembre di ogni anno, curandone la trasmissione al prefetto",
+        "why_wrong": "Il termine è il 31 gennaio e la trasmissione è all'Autorità nazionale anticorruzione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 8 prevede che l'organo di indirizzo adotti il Piano triennale su proposta del RPCT entro il 31 gennaio di ogni anno e ne curi la trasmissione all'Autorità nazionale anticorruzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8",
+        "text": "L'organo di indirizzo adotta il Piano triennale per la prevenzione della corruzione su proposta del Responsabile della prevenzione della corruzione e della trasparenza entro il 31 gennaio di ogni anno e ne cura la trasmissione all'Autorità nazionale anticorruzione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-017",
+    "subject": "trasparenza-anticorruzione",
+    "question": "In un Comune, quale organo approva il Piano triennale per la prevenzione della corruzione, ai sensi dell'art. 1, comma 8, della L. 190/2012?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il segretario comunale, in qualità di responsabile della prevenzione della corruzione",
+        "why_wrong": "Il responsabile formula la proposta; l'approvazione spetta alla giunta."
+      },
+      {
+        "id": "b",
+        "text": "Il consiglio comunale",
+        "why_wrong": "Il comma 8 attribuisce espressamente l'approvazione alla giunta."
+      },
+      {
+        "id": "c",
+        "text": "La giunta",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'organismo indipendente di valutazione",
+        "why_wrong": "L'OIV verifica la coerenza dei piani (comma 8-bis) ma non li approva."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 8 stabilisce che negli enti locali il piano è approvato dalla giunta.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8",
+        "text": "Negli enti locali il piano è approvato dalla giunta."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-018",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune intende affidare a una società di consulenza l'elaborazione del proprio Piano triennale per la prevenzione della corruzione. Ai sensi dell'art. 1, comma 8, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è possibile, purché la proposta finale sia formulata dal responsabile della prevenzione della corruzione",
+        "why_wrong": "Il comma 8 vieta l'affidamento dell'elaborazione a soggetti estranei, a prescindere da chi formuli la proposta."
+      },
+      {
+        "id": "b",
+        "text": "è possibile solo nei comuni con popolazione inferiore a 15.000 abitanti",
+        "why_wrong": "Per questi comuni il comma 6 prevede l'aggregazione tramite accordi, non l'affidamento a soggetti esterni."
+      },
+      {
+        "id": "c",
+        "text": "è possibile previo parere dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 8 non prevede alcuna deroga al divieto."
+      },
+      {
+        "id": "d",
+        "text": "non è possibile, perché l'elaborazione del piano non può essere affidata a soggetti estranei all'amministrazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 8 dispone che l'attività di elaborazione del piano non può essere affidata a soggetti estranei all'amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8",
+        "text": "L'attività di elaborazione del piano non può essere affidata a soggetti estranei all'amministrazione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-019",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 8, della L. 190/2012, gli obiettivi strategici in materia di prevenzione della corruzione e trasparenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono definiti dall'organo di indirizzo e costituiscono contenuto necessario dei documenti di programmazione strategico-gestionale e del Piano triennale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sono definiti dal responsabile della prevenzione della corruzione e approvati dall'OIV",
+        "why_wrong": "Il responsabile propone il piano; gli obiettivi strategici sono definiti dall'organo di indirizzo."
+      },
+      {
+        "id": "c",
+        "text": "sono definiti dall'Autorità nazionale anticorruzione, in modo uniforme, nel Piano nazionale",
+        "why_wrong": "Il Piano nazionale è atto di indirizzo (comma 2-bis); gli obiettivi strategici dell'ente sono definiti dal suo organo di indirizzo."
+      },
+      {
+        "id": "d",
+        "text": "sono definiti dall'OIV ai fini della validazione della Relazione sulla performance",
+        "why_wrong": "L'OIV verifica la coerenza dei piani con gli obiettivi (comma 8-bis), ma non li definisce."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 8 affida all'organo di indirizzo la definizione degli obiettivi strategici in materia di prevenzione della corruzione e trasparenza, che sono contenuto necessario dei documenti di programmazione strategico-gestionale e del Piano triennale.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8",
+        "text": "L'organo di indirizzo definisce gli obiettivi strategici in materia di prevenzione della corruzione e trasparenza, che costituiscono contenuto necessario dei documenti di programmazione strategico- gestionale e del Piano triennale per la prevenzione della corruzione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-020",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 8-bis, della L. 190/2012, l'Organismo indipendente di valutazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "adotta il Piano triennale in caso di inerzia dell'organo di indirizzo",
+        "why_wrong": "Il Piano è adottato dall'organo di indirizzo (comma 8); il comma 8-bis non prevede poteri sostitutivi dell'OIV."
+      },
+      {
+        "id": "b",
+        "text": "verifica che i piani triennali siano coerenti con gli obiettivi dei documenti di programmazione strategico-gestionale e che nella valutazione delle performance si tenga conto degli obiettivi di anticorruzione e trasparenza",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "elabora la proposta di Piano triennale da sottoporre all'organo di indirizzo",
+        "why_wrong": "La proposta spetta al responsabile della prevenzione della corruzione (comma 8)."
+      },
+      {
+        "id": "d",
+        "text": "individua il responsabile della prevenzione della corruzione e della trasparenza",
+        "why_wrong": "Il responsabile è individuato dall'organo di indirizzo (comma 7)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 8-bis affida all'OIV la verifica, anche ai fini della validazione della Relazione sulla performance, della coerenza dei piani con gli obiettivi della programmazione strategico-gestionale e della considerazione degli obiettivi di anticorruzione e trasparenza nella valutazione delle performance.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8-bis",
+        "text": "L'Organismo indipendente di valutazione verifica, anche ai fini della validazione della Relazione sulla performance, che i piani triennali per la prevenzione della corruzione siano coerenti con gli obiettivi stabiliti nei documenti di programmazione strategico- gestionale e che nella misurazione e valutazione delle performance si tenga conto degli obiettivi connessi all'anticorruzione e alla trasparenza."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-021",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Per svolgere il controllo previsto dall'art. 1, comma 8-bis, della L. 190/2012, l'Organismo indipendente di valutazione può:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ordinare la rimozione di comportamenti o atti contrastanti con il piano",
+        "why_wrong": "Il potere di ordinare la rimozione di comportamenti o atti spetta all'Autorità nazionale anticorruzione (comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "irrogare direttamente sanzioni disciplinari ai dipendenti inadempienti",
+        "why_wrong": "Il responsabile indica i nominativi agli uffici competenti per l'azione disciplinare (comma 7); l'OIV non irroga sanzioni."
+      },
+      {
+        "id": "c",
+        "text": "chiedere al responsabile della prevenzione della corruzione informazioni e documenti ed effettuare audizioni di dipendenti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sostituirsi al responsabile nella redazione della relazione annuale",
+        "why_wrong": "La relazione annuale è redatta dal responsabile e trasmessa anche all'OIV (comma 14)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 8-bis consente all'OIV di chiedere al RPCT le informazioni e i documenti necessari e di effettuare audizioni di dipendenti; l'OIV riferisce poi all'Autorità nazionale anticorruzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 8-bis",
+        "text": "A tal fine, l'Organismo medesimo può chiedere al Responsabile della prevenzione della corruzione e della trasparenza le informazioni e i documenti necessari per lo svolgimento del controllo e può effettuare audizioni di dipendenti."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 8-bis",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-022",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 9, della L. 190/2012, tra le esigenze cui risponde il piano di prevenzione della corruzione rientra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "definire criteri per assicurare la rotazione dei dirigenti nei settori particolarmente esposti alla corruzione",
+        "why_wrong": "La definizione di questi criteri è compito del Dipartimento della funzione pubblica (comma 4, lettera e)."
+      },
+      {
+        "id": "b",
+        "text": "predisporre percorsi di formazione dei dipendenti statali sui temi dell'etica e della legalità",
+        "why_wrong": "Questo compito spetta alla Scuola superiore della pubblica amministrazione (comma 11)."
+      },
+      {
+        "id": "c",
+        "text": "definire modelli standard delle informazioni e dei dati occorrenti per gli obiettivi della legge",
+        "why_wrong": "Questo compito spetta al Dipartimento della funzione pubblica (comma 4, lettera d)."
+      },
+      {
+        "id": "d",
+        "text": "individuare specifici obblighi di trasparenza ulteriori rispetto a quelli previsti da disposizioni di legge",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La lettera f) del comma 9 prevede che il piano individui specifici obblighi di trasparenza ulteriori rispetto a quelli previsti dalla legge.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 9",
+        "text": "individuare specifici obblighi di trasparenza ulteriori rispetto a quelli previsti da disposizioni di legge."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 9",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-023",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Nel redigere il piano di prevenzione della corruzione, un ente prevede di verificare le eventuali relazioni di parentela o affinità tra i titolari delle imprese che stipulano contratti con l'ente e i dipendenti dell'ente. Tale misura risponde, secondo l'art. 1, comma 9, della L. 190/2012, all'esigenza di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "definire le modalità di monitoraggio dei rapporti tra l'amministrazione e i soggetti che con la stessa stipulano contratti o sono interessati a procedimenti di autorizzazione, concessione o erogazione di vantaggi economici",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "definire le modalità di monitoraggio del rispetto dei termini per la conclusione dei procedimenti",
+        "why_wrong": "È l'esigenza della lettera d), che riguarda i tempi dei procedimenti, non i rapporti con i contraenti."
+      },
+      {
+        "id": "c",
+        "text": "prevedere obblighi di informazione nei confronti del responsabile chiamato a vigilare sul piano",
+        "why_wrong": "È l'esigenza della lettera c), che riguarda i flussi informativi verso il responsabile."
+      },
+      {
+        "id": "d",
+        "text": "prevedere meccanismi di formazione, attuazione e controllo delle decisioni idonei a prevenire il rischio",
+        "why_wrong": "È l'esigenza della lettera b), che non riguarda specificamente le relazioni di parentela o affinità."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La lettera e) del comma 9 riguarda il monitoraggio dei rapporti tra l'amministrazione e chi stipula contratti o è interessato a procedimenti di autorizzazione, concessione o erogazione di vantaggi economici, anche verificando relazioni di parentela o affinità con dirigenti e dipendenti.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 9",
+        "text": "definire le modalità di monitoraggio dei rapporti tra l'amministrazione e i soggetti che con la stessa stipulano contratti o che sono interessati a procedimenti di autorizzazione, concessione o erogazione di vantaggi economici di qualunque genere, anche verificando eventuali relazioni di parentela o affinità sussistenti tra i titolari, gli amministratori, i soci e i dipendenti degli stessi soggetti e i dirigenti e i dipendenti dell'amministrazione;"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 9",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-024",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 10, della L. 190/2012, il responsabile della prevenzione della corruzione verifica l'effettiva rotazione degli incarichi negli uffici in cui è più elevato il rischio di reati di corruzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "d'intesa con l'organismo indipendente di valutazione",
+        "why_wrong": "La lettera b) del comma 10 richiede l'intesa con il dirigente competente, non con l'OIV."
+      },
+      {
+        "id": "b",
+        "text": "d'intesa con il dirigente competente",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "su ordine dell'Autorità nazionale anticorruzione",
+        "why_wrong": "La lettera b) prevede l'intesa con il dirigente competente, senza bisogno di un ordine dell'Autorità."
+      },
+      {
+        "id": "d",
+        "text": "d'intesa con la Scuola superiore della pubblica amministrazione",
+        "why_wrong": "La Scuola si occupa della formazione (comma 11), non della verifica della rotazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La lettera b) del comma 10 affida al responsabile la verifica, d'intesa con il dirigente competente, dell'effettiva rotazione degli incarichi negli uffici a più elevato rischio.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 10",
+        "text": "alla verifica, d'intesa con il dirigente competente, dell'effettiva rotazione degli incarichi negli uffici preposti allo svolgimento delle attività nel cui ambito è più elevato il rischio che siano commessi reati di corruzione;"
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 10",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-025",
+    "subject": "trasparenza-anticorruzione",
+    "question": "In caso di commissione, all'interno dell'amministrazione, di un reato di corruzione accertato con sentenza passata in giudicato, il responsabile della prevenzione della corruzione, ai sensi dell'art. 1, comma 12, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non risponde in alcun caso, perché la responsabilità penale è personale dell'autore del reato",
+        "why_wrong": "Il comma 12 prevede espressamente la responsabilità del responsabile, salvo prova liberatoria."
+      },
+      {
+        "id": "b",
+        "text": "risponde solo se ha concorso nel reato",
+        "why_wrong": "La responsabilità prevista dal comma 12 prescinde dal concorso nel reato e si evita solo con la prova indicata."
+      },
+      {
+        "id": "c",
+        "text": "risponde sul piano dirigenziale e disciplinare, oltre che per il danno erariale e all'immagine, salvo che provi di avere predisposto il piano prima del fatto, osservato i commi 9 e 10 e vigilato sul piano",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "risponde solo sul piano disciplinare, e si libera provando di aver adottato il piano",
+        "why_wrong": "Il comma 12 prevede anche la responsabilità dirigenziale e per danno erariale e all'immagine, e richiede la prova di tutte le circostanze."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 12 prevede la responsabilità dirigenziale (art. 21 d.lgs. 165/2001), disciplinare, per danno erariale e all'immagine del responsabile, salvo che provi tutte le circostanze indicate: piano predisposto prima del fatto, osservanza dei commi 9 e 10, vigilanza sul funzionamento e sull'osservanza del piano.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 12",
+        "text": "nonché sul piano disciplinare, oltre che per il danno erariale e all'immagine della pubblica amministrazione, salvo che provi tutte le seguenti circostanze: a) di avere predisposto, prima della commissione del fatto, il piano di cui al comma 5 e di aver osservato le prescrizioni di cui ai commi 9 e 10 del presente articolo; b) di aver vigilato sul funzionamento e sull'osservanza del piano."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 12",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-026",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un dipendente comunale è condannato con sentenza passata in giudicato per un reato di corruzione. Il responsabile della prevenzione della corruzione dimostra di aver predisposto il piano prima del fatto e di averne osservato le prescrizioni dei commi 9 e 10, ma non di aver vigilato sul funzionamento e sull'osservanza del piano. Ai sensi dell'art. 1, comma 12, della L. 190/2012:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il responsabile non risponde, perché ha predisposto il piano prima del fatto",
+        "why_wrong": "La prova liberatoria richiede tutte le circostanze indicate, compresa la vigilanza sul piano."
+      },
+      {
+        "id": "b",
+        "text": "il responsabile risponde soltanto per il danno all'immagine",
+        "why_wrong": "Il comma 12 prevede una responsabilità dirigenziale, disciplinare, per danno erariale e all'immagine; la prova incompleta non la limita al solo danno all'immagine."
+      },
+      {
+        "id": "c",
+        "text": "il responsabile non risponde, perché il reato è stato commesso da un altro dipendente",
+        "why_wrong": "Il comma 12 riguarda proprio i reati commessi all'interno dell'amministrazione da altri soggetti."
+      },
+      {
+        "id": "d",
+        "text": "il responsabile risponde, perché deve provare tutte le circostanze indicate, compresa la vigilanza sul piano",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 12 esclude la responsabilità solo se il responsabile prova «tutte» le circostanze indicate: la predisposizione del piano con l'osservanza dei commi 9 e 10 (lettera a) e la vigilanza sul suo funzionamento e sulla sua osservanza (lettera b).",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 12",
+        "text": "salvo che provi tutte le seguenti circostanze: a) di avere predisposto, prima della commissione del fatto, il piano di cui al comma 5 e di aver osservato le prescrizioni di cui ai commi 9 e 10 del presente articolo; b) di aver vigilato sul funzionamento e sull'osservanza del piano."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 12",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-027",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 13, della L. 190/2012, la sanzione disciplinare a carico del responsabile della prevenzione della corruzione non può essere inferiore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "alla sospensione dal servizio con privazione della retribuzione da un minimo di un mese ad un massimo di sei mesi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "alla sospensione dal servizio con privazione della retribuzione da un minimo di sei mesi ad un massimo di un anno",
+        "why_wrong": "Il comma 13 fissa il minimo nella sospensione da un mese a sei mesi."
+      },
+      {
+        "id": "c",
+        "text": "alla sospensione dal servizio senza privazione della retribuzione per un mese",
+        "why_wrong": "Il comma 13 richiede la sospensione con privazione della retribuzione."
+      },
+      {
+        "id": "d",
+        "text": "al rimprovero scritto",
+        "why_wrong": "Il comma 13 fissa come minimo la sospensione dal servizio con privazione della retribuzione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 13 stabilisce un minimo per la sanzione disciplinare del responsabile: la sospensione dal servizio con privazione della retribuzione da un mese a sei mesi.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 13",
+        "text": "La sanzione disciplinare a carico del responsabile individuato ai sensi del comma 7 non può essere inferiore alla sospensione dal servizio con privazione della retribuzione da un minimo di un mese ad un massimo di sei mesi."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 13",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-028",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 14, della L. 190/2012, la violazione, da parte dei dipendenti dell'amministrazione, delle misure di prevenzione previste dal Piano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rileva solo se integra un reato di corruzione accertato con sentenza passata in giudicato",
+        "why_wrong": "Il comma 14 qualifica la violazione come illecito disciplinare, senza richiedere un reato."
+      },
+      {
+        "id": "b",
+        "text": "determina soltanto la responsabilità del responsabile della prevenzione della corruzione",
+        "why_wrong": "Il comma 14 prevede, oltre alla responsabilità del responsabile per omesso controllo, l'illecito disciplinare del dipendente."
+      },
+      {
+        "id": "c",
+        "text": "costituisce illecito disciplinare",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "comporta la decadenza automatica dall'incarico",
+        "why_wrong": "Il comma 14 qualifica la violazione come illecito disciplinare, senza prevedere la decadenza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 14 stabilisce che la violazione, da parte dei dipendenti, delle misure di prevenzione previste dal Piano costituisce illecito disciplinare.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 14",
+        "text": "La violazione, da parte dei dipendenti dell'amministrazione, delle misure di prevenzione previste dal Piano costituisce illecito disciplinare."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 14",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-029",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 14, della L. 190/2012, entro il 15 dicembre di ogni anno il responsabile della prevenzione della corruzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "propone all'organo di indirizzo il Piano triennale per l'anno successivo",
+        "why_wrong": "Il Piano è adottato su proposta del responsabile entro il 31 gennaio (comma 8)."
+      },
+      {
+        "id": "b",
+        "text": "trasmette all'organismo indipendente di valutazione e all'organo di indirizzo una relazione sui risultati dell'attività svolta e la pubblica nel sito web dell'amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "trasmette la relazione all'Autorità nazionale anticorruzione, che la presenta al Parlamento",
+        "why_wrong": "La relazione al Parlamento è quella dell'Autorità, entro il 31 dicembre (comma 2, lettera g)."
+      },
+      {
+        "id": "d",
+        "text": "trasmette al prefetto una relazione sull'attuazione del piano",
+        "why_wrong": "Il comma 14 indica come destinatari l'OIV e l'organo di indirizzo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 14 prevede che entro il 15 dicembre il responsabile trasmetta all'OIV e all'organo di indirizzo una relazione sui risultati dell'attività svolta e la pubblichi nel sito web dell'amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 14",
+        "text": "Entro il 15 dicembre di ogni anno, il dirigente individuato ai sensi del comma 7 del presente articolo trasmette all'organismo indipendente di valutazione e all'organo di indirizzo dell'amministrazione una relazione recante i risultati dell'attività svolta e la pubblica nel sito web dell'amministrazione."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 14",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l190-p-030",
+    "subject": "trasparenza-anticorruzione",
+    "question": "In un ente si verificano ripetute violazioni delle misure di prevenzione previste dal Piano. Ai sensi dell'art. 1, comma 14, della L. 190/2012, il responsabile della prevenzione della corruzione non risponde per omesso controllo se prova:",
+    "options": [
+      {
+        "id": "a",
+        "text": "di avere adottato il Piano entro il 31 gennaio",
+        "why_wrong": "L'adozione del Piano spetta all'organo di indirizzo (comma 8); la prova richiesta riguarda la comunicazione delle misure e la vigilanza."
+      },
+      {
+        "id": "b",
+        "text": "di avere trasmesso la relazione annuale entro il 15 dicembre",
+        "why_wrong": "La relazione annuale è un adempimento distinto; non è la prova liberatoria prevista per le ripetute violazioni."
+      },
+      {
+        "id": "c",
+        "text": "di avere segnalato le violazioni all'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 14 richiede la prova di aver comunicato le misure agli uffici e di aver vigilato sull'osservanza del Piano."
+      },
+      {
+        "id": "d",
+        "text": "di avere comunicato agli uffici le misure da adottare e le relative modalità e di avere vigilato sull'osservanza del Piano",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Per le ripetute violazioni delle misure del Piano, il comma 14 prevede la responsabilità dirigenziale e, per omesso controllo, disciplinare del responsabile, salvo che provi di aver comunicato agli uffici le misure e le modalità e di aver vigilato sull'osservanza del Piano.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 14",
+        "text": "nonché, per omesso controllo, sul piano disciplinare, salvo che provi di avere comunicato agli uffici le misure da adottare e le relative modalità e di avere vigilato sull'osservanza del Piano."
+      }
+    ],
+    "source": {
+      "act": "L. 190/2012",
+      "article": "art. 1, comma 14",
+      "file": "sources/L. 190 2012.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
