@@ -7,6 +7,51 @@ It runs in the phone's browser, works offline, and can be added to the home
 screen like a normal app. There are no accounts and no server: your progress
 is saved only on your phone.
 
+**Rules for the questions** (read these before asking a session to write or
+review questions):
+
+- [GENERAZIONE.md](GENERAZIONE.md): how new questions are generated.
+- [REVISIONE.md](REVISIONE.md): how questions are reviewed.
+
+---
+
+## How the site is updated (in plain words)
+
+You never publish the site by hand. Every time something is saved on the
+`main` branch (for example when you merge a pull request with new questions),
+GitHub runs an automatic check and, only if everything is fine, publishes the
+new version of the site. This is called the **deploy**.
+
+The check does three things, in this order:
+
+1. **Makes the list of question files.** Every `.json` file in
+   `data/questions/` is included automatically, whatever its name. Nobody has
+   to keep a list up to date.
+2. **Checks every question** with the same rules the app uses: missing
+   fields, a wrong `correct`, a repeated `id`, an unknown subject, or a file
+   that is not valid JSON (for example a missing comma).
+3. **Checks every quote of the law** (`evidence`): each one must be copied
+   word for word from the file named in its `source.file`.
+
+If any of these fails, **nothing is published**: the previous version of the
+site stays online, exactly as it was, and your phone keeps working normally.
+You fix the problem, save it on `main` again, and the check runs again.
+
+### How to see whether a deploy worked
+
+1. Open the repository on GitHub and click the **Actions** tab.
+2. Each line is one run of **Check and deploy**, newest at the top.
+   - Green tick ✅: the check passed and the site was updated.
+   - Red cross ❌: something is wrong and the site was **not** updated.
+   - Yellow dot 🟡: still running (it takes a minute or two).
+3. To see what went wrong, click the red line, then the job
+   **Check questions and build site**, then the step with the red cross.
+   The lines starting with `ERROR` name the file, the question `id` and the
+   problem.
+
+The same check also runs on every pull request (without publishing anything),
+so you can see a red cross on the pull request page before you merge it.
+
 ---
 
 ## What each file does
@@ -14,6 +59,7 @@ is saved only on your phone.
 | File | What it is |
 |---|---|
 | `index.html` | The page the browser opens. It is almost empty: the app draws every screen into it. |
+| `validation.js` | The rules that decide whether a question is valid. Used both by the app and by `tools/validate.js`, so they always agree. |
 | `style.css` | Colours, sizes and layout (including dark mode). |
 | `app.js` | All the app logic: loading questions, the quiz modes, statistics, backup. Comments explain each part. |
 | `manifest.json` | Name and icon used when you "install" the app on the home screen. |
@@ -21,11 +67,13 @@ is saved only on your phone.
 | `icons/` | App icons. |
 | `data/subjects.json` | The list of subjects (id, Italian name, block). |
 | `data/profiles.json` | The three profiles, their specific subjects, and the simulation rules. |
-| `data/questions/index.json` | The list of question files the app loads. |
-| `data/questions/*.json` | The questions, one file per subject (or per batch). |
-| `data/questions/_demo.json` | Fake demo questions for testing the app (can be hidden, see below). |
+| `data/questions/*.json` | The questions: one file per batch. Every `.json` file in this folder is loaded, whatever its name. |
 | `sources/` | The law texts used to write the questions (e.g. `L241-1990_2026-09-24.txt`, saved from Normattiva). |
-| `tools/check_evidence.py` | Checks that every `evidence` quote is copied word for word from the file in `sources/` (see below). |
+| `tools/build-index.js` | Makes `data/questions/index.json`, the list of question files the app loads. Runs automatically; that file is not in the repository and must never be edited by hand. |
+| `tools/validate.js` | Checks every question file with the same rules as the app. |
+| `tools/check_evidence.py` | Checks that every `evidence` quote is copied word for word from its `source.file` (see below). |
+| `.github/workflows/deploy.yml` | The automatic check and publication described above. |
+| `GENERAZIONE.md`, `REVISIONE.md` | The rules for generating and reviewing questions. |
 
 You will normally only edit files in the `data/` folder.
 
@@ -33,27 +81,15 @@ You will normally only edit files in the `data/` folder.
 
 ## How to add a new batch of questions
 
-1. Create a new file in `data/questions/`, for example `privacy.json`.
+1. Create a new file in `data/questions/`, for example `privacy.json`
+   (one file per batch; never change the existing files to add a batch).
    The file contains a list (`[ ... ]`) of questions separated by commas.
-2. Open `data/questions/index.json` and add the file name to the list:
-
-   ```json
-   {
-     "files": [
-       "accesso.json",
-       "diritto-amministrativo-enti-locali.json",
-       "comunicazione-pa-l150.json",
-       "privacy.json",
-       "_demo.json"
-     ]
-   }
-   ```
-
-   Watch the commas: every line except the last one ends with a comma.
-   (The app cannot "look inside" a folder on its own, so this list is how it
-   knows which files exist.)
-3. Save (commit) the changes on GitHub. Open the app: the new questions are there.
-4. Open **Diagnostica** in the app to check that no question was rejected.
+2. Save (commit) it on GitHub, usually through a pull request, and merge it
+   into `main`. There is **no list of files to update**: the new file is
+   picked up automatically.
+3. Check the **Actions** tab (see above). When the run is green, open the app:
+   the new questions are there.
+4. Open **Diagnostica** in the app to check the counts per subject.
 
 ### Question format
 
@@ -73,7 +109,7 @@ You will normally only edit files in the `data/` folder.
   "evidence": [
     { "ref": "art. 25, comma 4", "text": "Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta." }
   ],
-  "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+  "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
   "source_date": "2026-09-24",
   "status": "da_verificare",
   "no_shuffle": false
@@ -88,7 +124,8 @@ You will normally only edit files in the `data/` folder.
 | `options` | The possible answers. Each has its own `id` (`a`, `b`, …), the `text`, and `why_wrong` (why that option is wrong; `null` for the correct one, or when you have no explanation). |
 | `correct` | The `id` of the correct option. Exactly one option must have this id. |
 | `explanation` | Why the correct answer is correct. Shown after you answer. |
-| `source` | Where the answer comes from: `act` (the law), `article`, `url` (a link, or `null`). The whole `source` can be `null` for non-legal subjects. |
+| `source` | Where the answer comes from: `act` (the law), `article`, `file` (see below), `url` (a link, or `null`). The whole `source` can be `null` for non-legal subjects. |
+| `source.file` | *Optional.* The path of the law text in `sources/` the question was written from, e.g. `"sources/L241-1990_2026-09-24.txt"`, or `null`. **Required when the question has `evidence`**: the quote check reads the law from this file. |
 | `source_date` | The date you downloaded the law text you used (`YYYY-MM-DD`), or `null`. |
 | `evidence` | *Optional.* The text of the law that proves the correct answer: a list of `{ "ref": "art. X, comma Y", "text": "..." }`, where `text` is copied **word for word** from the file in `sources/`. Shown after you answer, under the explanation, in a collapsible section **"Testo della norma"**. If present it must be a non-empty list, and every item needs a non-empty `ref` and `text`. |
 | `status` | One of the statuses below. |
@@ -145,36 +182,30 @@ in practice or in the simulation.
 ## Checking the `evidence` quotes
 
 `tools/check_evidence.py` makes sure every `evidence.text` is really in the law
-file, word for word, **inside the article and comma named in `ref`**. The only
+file named in the question's `source.file`, word for word, **inside the article and comma named in `ref`**. The only
 difference it tolerates is whitespace (line breaks, double spaces). It also
 warns if `source.article` does not match the evidence.
 
-It needs Python 3 and nothing else. From the project folder run:
+It runs automatically before every deploy. To run it yourself you need
+Python 3 and nothing else. From the project folder run:
 
 ```
 python3 tools/check_evidence.py
 ```
 
 The last line says `all verbatim` when everything is fine; otherwise every
-wrong quote is listed with its question id. The law file is chosen from
-`source.act` and `source_date` (e.g. `L. 241/1990` + `2026-09-24` →
-`sources/L241-1990_2026-09-24.txt`). To support another law, add it to
-`ACT_FILES` at the top of the script.
+wrong quote is listed with its question id. A question with `evidence` but
+no `source.file` (or with a `source.file` that does not exist) is an error.
+To use another law, save its text in `sources/` and put its path in
+`source.file`: nothing in the script needs to change.
 
----
+The question check works the same way (it needs Node.js):
 
-## How to remove the demo questions
-
-`data/questions/_demo.json` contains 2 fake questions per subject (text starting
-with `[DEMO]`) so every screen can be tried out. To hide them, delete this line
-from `data/questions/index.json`:
-
-```json
-    "_demo.json"
+```
+node tools/validate.js
 ```
 
-(and remove the comma at the end of the line before it, if it becomes the last
-one). The file itself can stay; it is simply no longer loaded.
+The last line says `OK` or `FAILED`.
 
 ---
 
@@ -225,13 +256,22 @@ fix the data files.
 ## Updates and offline use
 
 - Any change (new questions, `app.js`, `style.css`, …) appears the next time
-  you open the app with an internet connection: the app always checks every
-  file online first, and uses the saved copy only when offline.
+  you open the app with an internet connection, once its deploy in the
+  **Actions** tab is green: the app always checks every file online first,
+  and uses the saved copy only when offline.
 - If you change `sw.js`, also change `CACHE_VERSION` at its top, so installed
   apps replace the old service worker and its saved copies.
 
 ## Trying it on a computer
 
 The app must be opened through a web server (opening `index.html` directly
-from the file system won't load the questions). For example, in the project
-folder run `python3 -m http.server 8000` and open <http://localhost:8000/>.
+from the file system won't load the questions). In the project folder, first
+build the list of question files, then start a server:
+
+```
+node tools/build-index.js
+python3 -m http.server 8000
+```
+
+and open <http://localhost:8000/>. Run `node tools/build-index.js` again
+whenever you add or remove a question file.

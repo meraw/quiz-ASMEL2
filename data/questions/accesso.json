@@ -14,7 +14,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "verificata",
     "no_shuffle": false
@@ -34,7 +34,7 @@
     "evidence": [
       { "ref": "art. 22, comma 1", "text": "a) per \"diritto di accesso\", il diritto degli interessati di prendere visione e di estrarre copia di documenti amministrativi;" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -54,7 +54,7 @@
     "evidence": [
       { "ref": "art. 22, comma 1", "text": "b) per \"interessati\", tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso;" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -74,7 +74,7 @@
     "evidence": [
       { "ref": "art. 22, comma 1", "text": "c) per \"controinteressati\", tutti i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall'esercizio dell'accesso vedrebbero compromesso il loro diritto alla riservatezza;" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -94,7 +94,7 @@
     "evidence": [
       { "ref": "art. 22, comma 1", "text": "d) per \"documento amministrativo\", ogni rappresentazione grafica, fotocinematografica, elettromagnetica o di qualunque altra specie del contenuto di atti, anche interni o non relativi ad uno specifico procedimento, detenuti da una pubblica amministrazione e concernenti attività di pubblico interesse, indipendentemente dalla natura pubblicistica o privatistica della loro disciplina sostanziale;" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -114,7 +114,7 @@
     "evidence": [
       { "ref": "art. 22, comma 2", "text": "L'accesso ai documenti amministrativi, attese le sue rilevanti finalità di pubblico interesse, costituisce principio generale dell'attività amministrativa al fine di favorire la partecipazione e di assicurarne l'imparzialità e la trasparenza" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 2", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -135,7 +135,7 @@
       { "ref": "art. 22, comma 4", "text": "Non sono accessibili le informazioni in possesso di una pubblica amministrazione che non abbiano forma di documento amministrativo, salvo quanto previsto dal decreto legislativo 30 giugno 2003, n. 196" },
       { "ref": "art. 22, comma 4", "text": "in materia di accesso a dati personali da parte della persona cui i dati si riferiscono." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -155,7 +155,7 @@
     "evidence": [
       { "ref": "art. 22, comma 6", "text": "Il diritto di accesso è esercitabile fino a quando la pubblica amministrazione ha l'obbligo di detenere i documenti amministrativi ai quali si chiede di accedere." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 22, comma 6", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 22, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -175,7 +175,7 @@
     "evidence": [
       { "ref": "art. 23, comma 1", "text": "Il diritto di accesso di cui all'articolo 22 si esercita nei confronti delle pubbliche amministrazioni, delle aziende autonome e speciali, degli enti pubblici e dei gestori di pubblici servizi. Il diritto di accesso nei confronti delle Autorità di garanzia e di vigilanza si esercita nell'ambito dei rispettivi ordinamenti, secondo quanto previsto dall'articolo 24." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 23, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 23, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -195,7 +195,7 @@
     "evidence": [
       { "ref": "art. 24, comma 1", "text": "c) nei confronti dell'attività della pubblica amministrazione diretta all'emanazione di atti normativi, amministrativi generali, di pianificazione e di programmazione, per i quali restano ferme le particolari norme che ne regolano la formazione;" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -215,7 +215,7 @@
     "evidence": [
       { "ref": "art. 24, comma 1", "text": "d) nei procedimenti selettivi, nei confronti dei documenti amministrativi contenenti informazioni di carattere psicoattitudinale relativi a terzi." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -235,7 +235,7 @@
     "evidence": [
       { "ref": "art. 24, comma 3", "text": "Non sono ammissibili istanze di accesso preordinate ad un controllo generalizzato dell'operato delle pubbliche amministrazioni." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 3", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -255,7 +255,7 @@
     "evidence": [
       { "ref": "art. 24, comma 4", "text": "L'accesso ai documenti amministrativi non può essere negato ove sia sufficiente fare ricorso al potere di differimento." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -275,7 +275,7 @@
     "evidence": [
       { "ref": "art. 24, comma 5", "text": "I documenti contenenti informazioni connesse agli interessi di cui al comma 1 sono considerati segreti solo nell'ambito e nei limiti di tale connessione. A tale fine le pubbliche amministrazioni fissano, per ogni categoria di documenti, anche l'eventuale periodo di tempo per il quale essi sono sottratti all'accesso." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 5", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -295,7 +295,7 @@
     "evidence": [
       { "ref": "art. 24, comma 2", "text": "Le singole pubbliche amministrazioni individuano le categorie di documenti da esse formati o comunque rientranti nella loro disponibilità sottratti all'accesso ai sensi del comma 1." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 2", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -315,7 +315,7 @@
     "evidence": [
       { "ref": "art. 24, comma 7", "text": "Deve comunque essere garantito ai richiedenti l'accesso ai documenti amministrativi la cui conoscenza sia necessaria per curare o per difendere i propri interessi giuridici. Nel caso di documenti contenenti dati sensibili e giudiziari, l'accesso è consentito nei limiti in cui sia strettamente indispensabile" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 7", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -336,7 +336,7 @@
       { "ref": "art. 24, comma 6", "text": "il Governo può prevedere casi di sottrazione all'accesso di documenti amministrativi:" },
       { "ref": "art. 24, comma 6", "text": "e) quando i documenti riguardino l'attività in corso di contrattazione collettiva nazionale di lavoro e gli atti interni connessi all'espletamento del relativo mandato." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 24, comma 6", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 24, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -356,7 +356,7 @@
     "evidence": [
       { "ref": "art. 25, comma 1", "text": "Il diritto di accesso si esercita mediante esame ed estrazione di copia dei documenti amministrativi, nei modi e con i limiti indicati dalla presente legge. L'esame dei documenti è gratuito. Il rilascio di copia è subordinato soltanto al rimborso del costo di riproduzione, salve le disposizioni vigenti in materia di bollo, nonché i diritti di ricerca e di visura." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -376,7 +376,7 @@
     "evidence": [
       { "ref": "art. 25, comma 2", "text": "La richiesta di accesso ai documenti deve essere motivata. Essa deve essere rivolta all'amministrazione che ha formato il documento o che lo detiene stabilmente." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 2", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -396,7 +396,7 @@
     "evidence": [
       { "ref": "art. 25, comma 3", "text": "Il rifiuto, il differimento e la limitazione dell'accesso sono ammessi nei casi e nei limiti stabiliti dall'articolo 24 e debbono essere motivati." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 3", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -416,7 +416,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "In caso di diniego dell'accesso, espresso o tacito, o di differimento dello stesso ai sensi dell'articolo 24, comma 4, il richiedente può presentare ricorso al tribunale amministrativo regionale ai sensi del comma 5, ovvero chiedere, nello stesso termine e nei confronti degli atti delle amministrazioni comunali, provinciali e regionali, al difensore civico competente per ambito territoriale, ove costituito, che sia riesaminata la suddetta determinazione." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -436,7 +436,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Qualora tale organo non sia stato istituito, la competenza è attribuita al difensore civico competente per l'ambito territoriale immediatamente superiore." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -456,7 +456,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Il difensore civico o la Commissione per l'accesso si pronunciano entro trenta giorni dalla presentazione dell'istanza. Scaduto infruttuosamente tale termine, il ricorso si intende respinto." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -476,7 +476,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Se il difensore civico o la Commissione per l'accesso ritengono illegittimo il diniego o il differimento, ne informano il richiedente e lo comunicano all'autorità disponente. Se questa non emana il provvedimento confermativo motivato entro trenta giorni dal ricevimento della comunicazione del difensore civico o della Commissione, l'accesso è consentito." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -496,7 +496,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Se l'accesso è negato o differito per motivi inerenti ai dati personali che si riferiscono a soggetti terzi, la Commissione provvede, sentito il Garante per la protezione dei dati personali, il quale si pronuncia entro il termine di dieci giorni dalla richiesta, decorso inutilmente il quale il parere si intende reso." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "da_rivedere",
     "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma che «Il difensore civico è un organo di riesame alternativo alla Commissione», ma il file non prevede un'alternativa tra i due organi: l'art. 25, comma 4, ripartisce la competenza per tipo di amministrazione («nei confronti degli atti delle amministrazioni comunali, provinciali e regionali, al difensore civico competente per ambito territoriale» e «Nei confronti degli atti delle amministrazioni centrali e periferiche dello Stato tale richiesta è inoltrata presso la Commissione per l'accesso»); l'unica alternativa prevista è tra il ricorso al TAR e la richiesta di riesame («può presentare ricorso al tribunale amministrativo regionale [...] ovvero chiedere [...]»). Correzione suggerita: «Il difensore civico è competente per il riesame degli atti delle amministrazioni comunali, provinciali e regionali, mentre la Commissione per quelli dello Stato; la legge non prevede che la Commissione acquisisca il suo parere (art. 25, comma 4).»",
@@ -517,7 +517,7 @@
     "evidence": [
       { "ref": "art. 25, comma 4", "text": "Qualora il richiedente l'accesso si sia rivolto al difensore civico o alla Commissione, il termine di cui al comma 5 decorre dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico o alla Commissione stessa." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -537,7 +537,7 @@
     "evidence": [
       { "ref": "art. 27, comma 1", "text": "È istituita presso la Presidenza del Consiglio dei Ministri la Commissione per l'accesso ai documenti amministrativi." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 27, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 27, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -558,7 +558,7 @@
       { "ref": "art. 27, comma 2", "text": "Essa è presieduta dal sottosegretario di Stato alla Presidenza del Consiglio dei Ministri ed ((è composta da dieci membri))" },
       { "ref": "art. 27, comma 2", "text": "È membro di diritto della Commissione il capo della struttura della Presidenza del Consiglio dei Ministri che costituisce il supporto organizzativo per il funzionamento della Commissione. La Commissione può avvalersi di un numero di esperti non superiore a cinque unità" }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 27, comma 2", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 27, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -578,7 +578,7 @@
     "evidence": [
       { "ref": "art. 27, comma 3", "text": "La Commissione è rinnovata ogni tre anni. Per i membri parlamentari si procede a nuova nomina in caso di scadenza o scioglimento anticipato delle Camere nel corso del triennio." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 27, comma 3", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 27, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -598,7 +598,7 @@
     "evidence": [
       { "ref": "art. 27, comma 5", "text": "La Commissione adotta le determinazioni previste dall'articolo 25, comma 4; vigila affinchè sia attuato il principio di piena conoscibilità dell'attività della pubblica amministrazione con il rispetto dei limiti fissati dalla presente legge; redige una relazione annuale sulla trasparenza dell'attività della pubblica amministrazione, che comunica alle Camere e al Presidente del Consiglio dei Ministri; propone al Governo modifiche dei testi legislativi e regolamentari che siano utili a realizzare la più ampia garanzia del diritto di accesso di cui all'articolo 22." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 27, comma 5", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 27, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false
@@ -618,7 +618,7 @@
     "evidence": [
       { "ref": "art. 28, comma 1", "text": "\"Art. 15. - (Segreto d'ufficio). - 1. L'impiegato deve mantenere il segreto d'ufficio. Non può trasmettere a chi non ne abbia diritto informazioni riguardanti provvedimenti od operazioni amministrative, in corso o concluse, ovvero notizie di cui sia venuto a conoscenza a causa delle sue funzioni, al di fuori delle ipotesi e delle modalità previste dalle norme sul diritto di accesso. Nell'ambito delle proprie attribuzioni, l'impiegato preposto ad un ufficio rilascia copie ed estratti di atti e documenti di ufficio nei casi non vietati dall'ordinamento\"." }
     ],
-    "source": { "act": "L. 241/1990", "article": "art. 28, comma 1", "url": null },
+    "source": { "act": "L. 241/1990", "article": "art. 28, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
     "status": "rivista",
     "no_shuffle": false

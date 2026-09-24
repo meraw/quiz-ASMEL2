@@ -23,10 +23,8 @@
 
   const STORE_KEY = 'asmel-quiz-v1'; // name of the localStorage entry
   const APP_ID = 'asmel-quiz';       // written in backups, checked on import
-  // verificata: checked by hand · rivista: passed the automated review ·
-  // da_verificare: not yet checked · da_rivedere: review found a problem
-  // (excluded from every quiz mode, listed in Diagnostica) · demo: fake question
-  const STATUS_VALUES = ['verificata', 'rivista', 'da_verificare', 'da_rivedere', 'demo'];
+  // Question statuses and validation rules live in validation.js (shared with tools/validate.js)
+  const { STATUS_VALUES, validateBank } = window.QuizValidation;
   const STATUS_LABELS = { verificata: 'Ver.', rivista: 'Riv.', da_verificare: 'DaV', da_rivedere: 'DaR', demo: 'Demo' };
   const BLOCK_NAMES = {
     specific: 'Materie specifiche',
@@ -164,49 +162,6 @@
     }
   }
 
-  /** Check one question. Returns a list of problems (empty list = valid). */
-  function validateQuestion(q) {
-    const problems = [];
-    if (!q || typeof q !== 'object' || Array.isArray(q)) return ['non è un oggetto JSON'];
-
-    const isText = (v) => typeof v === 'string' && v.trim() !== '';
-    if (!isText(q.id)) problems.push('campo "id" mancante o vuoto');
-    if (!isText(q.subject)) problems.push('campo "subject" mancante');
-    else if (!data.subjectById[q.subject]) problems.push('materia "' + q.subject + '" non presente in subjects.json');
-    if (!isText(q.question)) problems.push('campo "question" mancante o vuoto');
-    if (!isText(q.explanation)) problems.push('campo "explanation" mancante o vuoto');
-    if (q.no_shuffle != null && typeof q.no_shuffle !== 'boolean') problems.push('"no_shuffle" deve essere true o false');
-    if (q.source != null && (typeof q.source !== 'object' || Array.isArray(q.source))) problems.push('"source" deve essere un oggetto o null');
-    if (q.source_date != null && typeof q.source_date !== 'string') problems.push('"source_date" deve essere una data o null');
-    if (q.review_note != null && typeof q.review_note !== 'string') problems.push('"review_note" deve essere testo');
-    if (q.evidence != null) {
-      if (!Array.isArray(q.evidence) || !q.evidence.length) problems.push('"evidence" deve essere un elenco non vuoto');
-      else q.evidence.forEach((e, i) => {
-        if (!e || typeof e !== 'object' || Array.isArray(e) || !isText(e.ref) || !isText(e.text)) {
-          problems.push('evidence n. ' + (i + 1) + ': servono "ref" e "text" non vuoti');
-        }
-      });
-    }
-
-    if (!Array.isArray(q.options) || q.options.length < 2) {
-      problems.push('servono almeno 2 opzioni in "options"');
-    } else {
-      const ids = [];
-      q.options.forEach((o, i) => {
-        if (!o || typeof o !== 'object') { problems.push('opzione n. ' + (i + 1) + ' non valida'); return; }
-        if (!isText(o.id)) problems.push('opzione n. ' + (i + 1) + ' senza "id"');
-        if (!isText(o.text)) problems.push('opzione n. ' + (i + 1) + ' senza "text"');
-        if (o.why_wrong != null && typeof o.why_wrong !== 'string') problems.push('opzione n. ' + (i + 1) + ': "why_wrong" deve essere testo o null');
-        ids.push(o.id);
-      });
-      if (new Set(ids).size !== ids.length) problems.push('id delle opzioni ripetuti');
-      const matches = ids.filter((id) => id === q.correct).length;
-      if (!isText(q.correct)) problems.push('campo "correct" mancante');
-      else if (matches !== 1) problems.push('"correct" ("' + q.correct + '") deve corrispondere a esattamente una opzione');
-    }
-    return problems;
-  }
-
   async function loadAllData() {
     const [subjectsFile, profilesFile, indexFile] = await Promise.all([
       fetchJSON('data/subjects.json'),
@@ -220,7 +175,8 @@
     data.profiles.forEach((p) => { data.profileById[p.id] = p; });
     data.simRules = profilesFile.simulation;
 
-    // Load every question file listed in index.json (in parallel)
+    // Load every question file listed in index.json (in parallel).
+    // index.json is built automatically by tools/build-index.js: it lists every file in data/questions/.
     const files = (indexFile.files || []).filter((f) => typeof f === 'string');
     const results = await Promise.all(files.map((file) =>
       fetchJSON('data/questions/' + file)
@@ -228,32 +184,15 @@
         .catch((err) => ({ file, error: err.message }))
     ));
 
-    const firstSeenIn = {}; // question id -> file, to detect duplicates
-    results.forEach(({ file, json, error }) => {
-      if (error) { data.fileErrors.push({ file, error }); return; }
-      const list = Array.isArray(json) ? json : json && json.questions;
-      if (!Array.isArray(list)) { data.fileErrors.push({ file, error: 'il file deve contenere un elenco [ ... ] di domande' }); return; }
-
-      list.forEach((q, index) => {
-        let reasons;
-        try { reasons = validateQuestion(q); } catch (e) { reasons = ['errore inatteso: ' + e.message]; }
-        if (!reasons.length && firstSeenIn[q.id]) reasons.push('id duplicato (già presente in ' + firstSeenIn[q.id] + ')');
-        if (reasons.length) {
-          data.invalid.push({ file, index: index + 1, id: q && typeof q.id === 'string' ? q.id : '(senza id)', reasons });
-          return;
-        }
-        firstSeenIn[q.id] = file;
-        // An unknown status does not discard the question: it is loaded as "da_verificare"
-        if (!STATUS_VALUES.includes(q.status)) {
-          data.warnings.push({ file, index: index + 1, id: q.id,
-            message: 'status ' + (q.status === undefined ? 'mancante' : JSON.stringify(q.status) + ' sconosciuto') +
-              ': trattata come "da_verificare" (valori ammessi: ' + STATUS_VALUES.join(', ') + ')' });
-          q.status = 'da_verificare';
-        }
-        if (q.status === 'da_rivedere') { data.toRevise.push(q); return; }
-        data.questions.push(q);
-        data.qById[q.id] = q;
-      });
+    // Validation rules: see validation.js
+    const bank = validateBank(results, data.subjectById);
+    data.invalid = bank.invalid;
+    data.warnings = bank.warnings;
+    data.fileErrors = bank.fileErrors;
+    bank.questions.forEach((q) => {
+      if (q.status === 'da_rivedere') { data.toRevise.push(q); return; }
+      data.questions.push(q);
+      data.qById[q.id] = q;
     });
   }
 
@@ -1127,7 +1066,7 @@
     try {
       await loadAllData();
     } catch (e) {
-      render('<h1>Errore</h1><p>Non è stato possibile caricare i file di base (subjects.json, profiles.json o index.json).</p><p class="small muted">' + esc(e.message) + '</p>' +
+      render('<h1>Errore</h1><p>Non è stato possibile caricare i file di base (subjects.json, profiles.json o index.json). Se stai provando l’app sul computer, crea prima index.json con <code>node tools/build-index.js</code>.</p><p class="small muted">' + esc(e.message) + '</p>' +
         '<button type="button" class="btn primary" onclick="location.reload()">Riprova</button>');
       return;
     }

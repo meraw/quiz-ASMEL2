@@ -1,0 +1,65 @@
+# Check the questions and publish the site on GitHub Pages.
+#
+# On every push to main:
+#   1. build data/questions/index.json (tools/build-index.js)
+#   2. check every question file (tools/validate.js)
+#   3. check every evidence quote against its source file (tools/check_evidence.py)
+#   4. publish the site
+# If step 2 or 3 fails, step 4 does not run: the previous version of the site
+# stays online. On pull requests only steps 1-3 run, as a preview check.
+name: Check and deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; a newer push waits for the running one to finish
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Check questions and build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Build index.json
+        run: node tools/build-index.js
+
+      - name: Validate questions
+        run: node tools/validate.js
+
+      - name: Check evidence quotes (verbatim)
+        run: python3 tools/check_evidence.py
+
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp -r index.html app.js validation.js style.css sw.js manifest.json icons data _site/
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: check
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
