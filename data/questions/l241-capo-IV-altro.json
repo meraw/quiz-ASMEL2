@@ -1,0 +1,604 @@
+[
+  {
+    "id": "l241-c4-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 15 della L. 241/1990, le amministrazioni pubbliche possono concludere tra loro accordi:",
+    "options": [
+      {"id": "a", "text": "solo al fine di determinare il contenuto discrezionale di un provvedimento nei confronti di un privato", "why_wrong": "È la funzione degli accordi integrativi con gli interessati (art. 11, comma 1), non degli accordi tra amministrazioni."},
+      {"id": "b", "text": "sempre, anche al di fuori delle ipotesi di conferenza di servizi, per disciplinare lo svolgimento in collaborazione di attività di interesse comune", "why_wrong": null},
+      {"id": "c", "text": "solo nell'ambito di una conferenza di servizi decisoria", "why_wrong": "L'art. 15, comma 1, ammette gli accordi anche al di fuori delle ipotesi previste dall'art. 14."},
+      {"id": "d", "text": "solo previa determinazione del Presidente del Consiglio dei ministri", "why_wrong": "L'art. 15 non richiede alcuna determinazione presidenziale: le amministrazioni possono sempre concludere tra loro accordi."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 15, comma 1, consente alle amministrazioni pubbliche di concludere sempre tra loro accordi per disciplinare lo svolgimento in collaborazione di attività di interesse comune, anche al di fuori delle ipotesi dell'art. 14.",
+    "evidence": [
+      {"ref": "art. 15, comma 1", "text": "Anche al di fuori delle ipotesi previste dall'articolo 14, le amministrazioni pubbliche possono sempre concludere tra loro accordi per disciplinare lo svolgimento in collaborazione di attività di interesse comune."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 15, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Due Comuni stipulano un accordo per la gestione in collaborazione di un servizio di interesse comune, sottoscrivendolo con firma autografa su carta. Ai sensi dell'art. 15, comma 2-bis, della L. 241/1990, l'accordo:",
+    "options": [
+      {"id": "a", "text": "è nullo, perché deve essere sottoscritto con firma digitale, con firma elettronica avanzata o con altra firma elettronica qualificata", "why_wrong": null},
+      {"id": "b", "text": "è valido, perché per gli accordi tra amministrazioni basta la forma scritta", "why_wrong": "Il comma 2-bis impone la sottoscrizione con firma digitale, firma elettronica avanzata o altra firma elettronica qualificata, pena la nullità."},
+      {"id": "c", "text": "è valido ma inefficace fino alla sua pubblicazione", "why_wrong": "La sanzione prevista dal comma 2-bis per la mancata sottoscrizione elettronica è la nullità."},
+      {"id": "d", "text": "è annullabile solo su istanza di uno dei due Comuni", "why_wrong": "Il comma 2-bis prevede la nullità, non l'annullabilità."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 15, comma 2-bis, dispone che gli accordi tra amministrazioni siano sottoscritti con firma digitale, con firma elettronica avanzata o con altra firma elettronica qualificata, pena la nullità degli stessi.",
+    "evidence": [
+      {"ref": "art. 15, comma 2-bis", "text": "gli accordi di cui al comma 1 sono sottoscritti con firma digitale, ai sensi dell'articolo 24 del decreto legislativo 7 marzo 2005, n. 82"},
+      {"ref": "art. 15, comma 2-bis", "text": "ovvero con altra firma elettronica qualificata, pena la nullità degli stessi."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 15, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 16 della L. 241/1990, gli organi consultivi delle pubbliche amministrazioni sono tenuti a rendere i pareri ad essi obbligatoriamente richiesti entro:",
+    "options": [
+      {"id": "a", "text": "novanta giorni dal ricevimento della richiesta", "why_wrong": "Novanta giorni è il termine residuale per le valutazioni tecniche (art. 17, comma 1)."},
+      {"id": "b", "text": "quindici giorni dal ricevimento della richiesta", "why_wrong": "Quindici giorni è il termine per rendere definitivamente il parere dopo la ricezione degli elementi istruttori richiesti (art. 16, comma 4)."},
+      {"id": "c", "text": "venti giorni dal ricevimento della richiesta", "why_wrong": null},
+      {"id": "d", "text": "trenta giorni dal ricevimento della richiesta", "why_wrong": "Trenta giorni è il termine per gli assensi tra amministrazioni dell'art. 17-bis, comma 1; per i pareri obbligatori l'art. 16 prevede venti giorni."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 16, comma 1, obbliga gli organi consultivi a rendere i pareri obbligatori entro venti giorni dal ricevimento della richiesta; per i pareri facoltativi essi comunicano il termine, che comunque non può superare venti giorni.",
+    "evidence": [
+      {"ref": "art. 16, comma 1", "text": "sono tenuti a rendere i pareri ad essi obbligatoriamente richiesti entro venti giorni dal ricevimento della richiesta."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 16, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune ha richiesto un parere obbligatorio a un organo consultivo. Il termine è decorso senza che il parere sia stato comunicato e senza che l'organo abbia rappresentato esigenze istruttorie. Ai sensi dell'art. 16 della L. 241/1990, il Comune:",
+    "options": [
+      {"id": "a", "text": "considera il parere come reso in senso negativo", "why_wrong": "La legge non attribuisce al silenzio dell'organo consultivo valore di parere negativo: l'amministrazione procede indipendentemente dal parere."},
+      {"id": "b", "text": "procede indipendentemente dall'espressione del parere", "why_wrong": null},
+      {"id": "c", "text": "deve attendere il parere, che è obbligatorio", "why_wrong": "L'art. 16, comma 2, consente all'amministrazione richiedente di procedere indipendentemente dall'espressione del parere."},
+      {"id": "d", "text": "deve chiedere il parere a un istituto universitario", "why_wrong": "Il ricorso ad altri organi, enti o istituti universitari è previsto per le valutazioni tecniche (art. 17, comma 1), non per i pareri."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 16, comma 2, stabilisce che, decorso il termine senza che sia stato comunicato il parere o senza che l'organo abbia rappresentato esigenze istruttorie, l'amministrazione richiedente procede indipendentemente dall'espressione del parere.",
+    "evidence": [
+      {"ref": "art. 16, comma 2", "text": "In caso di decorrenza del termine senza che sia stato comunicato il parere o senza che l'organo adito abbia rappresentato esigenze istruttorie, l'amministrazione richiedente procede indipendentemente dall'espressione del parere."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 16, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 16, comma 3, della L. 241/1990, la regola che consente di procedere indipendentemente dal parere non espresso nei termini NON si applica ai pareri che debbano essere rilasciati da amministrazioni preposte alla tutela:",
+    "options": [
+      {"id": "a", "text": "dell'ordine pubblico e della sicurezza nei luoghi di lavoro", "why_wrong": "Il comma 3 elenca la tutela ambientale, paesaggistica, territoriale e della salute dei cittadini."},
+      {"id": "b", "text": "dei beni culturali soltanto", "why_wrong": "Il comma 3 non menziona i beni culturali, ma la tutela ambientale, paesaggistica, territoriale e della salute dei cittadini."},
+      {"id": "c", "text": "finanziaria e contabile dello Stato", "why_wrong": "La tutela finanziaria non è tra le esclusioni del comma 3."},
+      {"id": "d", "text": "ambientale, paesaggistica, territoriale e della salute dei cittadini", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 16, comma 3, esclude l'applicazione dei commi 1 e 2 ai pareri che debbano essere rilasciati da amministrazioni preposte alla tutela ambientale, paesaggistica, territoriale e della salute dei cittadini.",
+    "evidence": [
+      {"ref": "art. 16, comma 3", "text": "Le disposizioni di cui ai commi 1 e 2 non si applicano in caso di pareri che debbano essere rilasciati da amministrazioni preposte alla tutela ambientale, paesaggistica, territoriale e della salute dei cittadini."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 16, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "L'organo consultivo cui è stato richiesto un parere rappresenta esigenze istruttorie. Ai sensi dell'art. 16, comma 4, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "i termini possono essere interrotti più volte, fino a un massimo di novanta giorni", "why_wrong": "L'interruzione è ammessa per una sola volta."},
+      {"id": "b", "text": "il parere deve essere reso entro venti giorni dalla ricezione degli elementi istruttori", "why_wrong": "Venti giorni è il termine ordinario del comma 1; dopo la ricezione degli elementi istruttori il parere va reso entro quindici giorni."},
+      {"id": "c", "text": "i termini possono essere interrotti per una sola volta e il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori", "why_wrong": null},
+      {"id": "d", "text": "i termini sono sospesi per non più di trenta giorni", "why_wrong": "La sospensione per non più di trenta giorni riguarda i termini di conclusione del procedimento (art. 2, comma 7); l'art. 16, comma 4, prevede un'interruzione per una sola volta."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 16, comma 4, prevede che, se l'organo adito rappresenta esigenze istruttorie, i termini possono essere interrotti per una sola volta e il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori.",
+    "evidence": [
+      {"ref": "art. 16, comma 4", "text": "Nel caso in cui l'organo adito abbia rappresentato esigenze istruttorie, i termini di cui al comma 1 possono essere interrotti per una sola volta e il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori da parte delle amministrazioni interessate."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 16, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Per adottare un provvedimento, la legge prevede che un Comune acquisisca preventivamente la valutazione tecnica di un ente apposito, senza fissare un termine. L'ente non provvede. Decorso quale termine il responsabile del procedimento deve chiedere la valutazione ad altri organi o enti dotati di qualificazione equipollente, ovvero ad istituti universitari?",
+    "options": [
+      {"id": "a", "text": "Novanta giorni dal ricevimento della richiesta", "why_wrong": null},
+      {"id": "b", "text": "Venti giorni dal ricevimento della richiesta", "why_wrong": "Venti giorni è il termine per i pareri obbligatori (art. 16, comma 1), non per le valutazioni tecniche."},
+      {"id": "c", "text": "Trenta giorni dal ricevimento della richiesta", "why_wrong": "Trenta giorni è il termine per gli assensi tra amministrazioni (art. 17-bis, comma 1)."},
+      {"id": "d", "text": "Sessanta giorni dal ricevimento della richiesta", "why_wrong": "In mancanza di un termine fissato dalla disposizione, l'art. 17, comma 1, prevede novanta giorni."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 17, comma 1, prevede che, se gli organi o enti tenuti alla valutazione tecnica non provvedono nei termini prefissati o, in mancanza, entro novanta giorni, il responsabile del procedimento deve chiederla ad altri organi o enti pubblici con qualificazione e capacità tecnica equipollenti, ovvero ad istituti universitari.",
+    "evidence": [
+      {"ref": "art. 17, comma 1", "text": "nei termini prefissati dalla disposizione stessa o, in mancanza, entro novanta giorni dal ricevimento della richiesta, il responsabile del procedimento deve chiedere le suddette valutazioni tecniche ad altri organi dell'amministrazione pubblica o ad enti pubblici che siano dotati di qualificazione e capacità tecnica equipollenti, ovvero ad istituti universitari."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 17, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'amministrazione trasmette a un'altra amministrazione lo schema di un provvedimento di propria competenza, corredato della documentazione, per acquisirne il concerto. Ai sensi dell'art. 17-bis, comma 1, della L. 241/1990, il concerto va comunicato, di regola, entro:",
+    "options": [
+      {"id": "a", "text": "novanta giorni dal ricevimento dello schema di provvedimento", "why_wrong": "Novanta giorni si applica, salvo termine diverso, alle amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute (art. 17-bis, comma 3)."},
+      {"id": "b", "text": "sessanta giorni dal ricevimento dello schema di provvedimento", "why_wrong": "Il termine ordinario dell'art. 17-bis, comma 1, è di trenta giorni."},
+      {"id": "c", "text": "trenta giorni dal ricevimento dello schema di provvedimento", "why_wrong": null},
+      {"id": "d", "text": "venti giorni dal ricevimento dello schema di provvedimento", "why_wrong": "Venti giorni è il termine per i pareri obbligatori degli organi consultivi (art. 16, comma 1)."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 17-bis, comma 1, prevede che le amministrazioni o i gestori competenti comunichino il proprio assenso, concerto o nulla osta entro trenta giorni dal ricevimento dello schema di provvedimento, corredato della relativa documentazione.",
+    "evidence": [
+      {"ref": "art. 17-bis, comma 1", "text": "le amministrazioni o i gestori competenti comunicano il proprio assenso, concerto o nulla osta entro trenta giorni dal ricevimento dello schema di provvedimento, corredato della relativa documentazione, da parte dell'amministrazione procedente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 17-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nel rapporto tra amministrazioni disciplinato dall'art. 17-bis della L. 241/1990, decorsi i termini senza che sia stato comunicato l'assenso, il concerto o il nulla osta richiesto:",
+    "options": [
+      {"id": "a", "text": "lo stesso si intende acquisito", "why_wrong": null},
+      {"id": "b", "text": "lo stesso si intende negato", "why_wrong": "L'art. 17-bis, comma 2, attribuisce al silenzio il valore di assenso."},
+      {"id": "c", "text": "l'amministrazione procedente deve indire una conferenza di servizi", "why_wrong": "Il comma 2 prevede che l'assenso si intenda acquisito, senza necessità di una conferenza."},
+      {"id": "d", "text": "l'amministrazione procedente deve chiedere l'atto a un istituto universitario", "why_wrong": "La richiesta ad altri enti o istituti universitari riguarda le valutazioni tecniche (art. 17, comma 1)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 17-bis, comma 2, stabilisce che, decorsi i termini del comma 1 senza che sia stato comunicato l'assenso, il concerto o il nulla osta, lo stesso si intende acquisito (silenzio assenso tra amministrazioni).",
+    "evidence": [
+      {"ref": "art. 17-bis, comma 2", "text": "Decorsi i termini di cui al comma 1 senza che sia stato comunicato l'assenso, il concerto o il nulla osta, lo stesso si intende acquisito."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 17-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 17-bis, comma 3, della L. 241/1990, quando l'assenso deve essere reso da un'amministrazione preposta alla tutela dei beni culturali e né la legge né i provvedimenti dell'art. 2 prevedono un termine diverso, il termine per comunicarlo è di:",
+    "options": [
+      {"id": "a", "text": "trenta giorni dal ricevimento della richiesta, decorsi i quali l'assenso si intende acquisito", "why_wrong": "Trenta giorni è il termine ordinario del comma 1; per le amministrazioni preposte a interessi sensibili il comma 3 prevede novanta giorni."},
+      {"id": "b", "text": "novanta giorni, decorsi i quali l'assenso si intende negato", "why_wrong": "Anche per queste amministrazioni il comma 3 prevede che, decorso il termine, l'assenso si intenda acquisito."},
+      {"id": "c", "text": "sessanta giorni, decorsi i quali la questione è rimessa al Consiglio dei ministri", "why_wrong": "Sessanta giorni è il termine per le determinazioni delle amministrazioni sensibili nella conferenza semplificata (art. 14-bis, comma 2, lett. c)."},
+      {"id": "d", "text": "novanta giorni dal ricevimento della richiesta, decorsi i quali l'assenso si intende acquisito", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 17-bis, comma 3, estende il silenzio assenso anche alle amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute, con un termine, salvo diversa previsione, di novanta giorni dal ricevimento della richiesta.",
+    "evidence": [
+      {"ref": "art. 17-bis, comma 3", "text": "il termine entro il quale le amministrazioni competenti comunicano il proprio assenso, concerto o nulla osta è di novanta giorni dal ricevimento della richiesta da parte dell'amministrazione procedente. Decorsi i suddetti termini senza che sia stato comunicato l'assenso, il concerto o il nulla osta, lo stesso si intende acquisito."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 17-bis, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nei procedimenti di cui all'art. 17-bis della L. 241/1990, in caso di mancato accordo tra le amministrazioni statali coinvolte, sulle modifiche da apportare allo schema di provvedimento decide:",
+    "options": [
+      {"id": "a", "text": "il Ministro competente per materia", "why_wrong": "Il Ministro competente propone l'opposizione per le amministrazioni statali nella conferenza di servizi (art. 14-quinquies, comma 1)."},
+      {"id": "b", "text": "il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri", "why_wrong": null},
+      {"id": "c", "text": "il Prefetto", "why_wrong": "Il Prefetto nomina il rappresentante unico delle amministrazioni statali periferiche in conferenza (art. 14-ter, comma 4)."},
+      {"id": "d", "text": "l'amministrazione procedente, in via definitiva", "why_wrong": "Il comma 2 attribuisce la decisione al Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 17-bis, comma 2, prevede che, in caso di mancato accordo tra le amministrazioni statali, il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, decide sulle modifiche da apportare allo schema di provvedimento.",
+    "evidence": [
+      {"ref": "art. 17-bis, comma 2", "text": "In caso di mancato accordo tra le amministrazioni statali coinvolte nei procedimenti di cui al comma 1, il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, decide sulle modifiche da apportare allo schema di provvedimento."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 17-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nel corso di un procedimento, un Comune ha bisogno di un certificato di residenza di un richiedente, documento già detenuto dallo stesso Comune. Ai sensi dell'art. 18 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "l'interessato deve produrre il certificato a pena di improcedibilità dell'istanza", "why_wrong": "L'art. 18, comma 2, prevede l'acquisizione d'ufficio dei documenti in possesso dell'amministrazione procedente o detenuti da altre PA."},
+      {"id": "b", "text": "il Comune può sospendere il procedimento per trenta giorni in attesa che l'interessato produca il certificato", "why_wrong": "La sospensione dell'art. 2, comma 7, riguarda fatti non attestati in documenti già in possesso dell'amministrazione o non acquisibili presso altre PA."},
+      {"id": "c", "text": "il documento è acquisito d'ufficio solo se l'interessato ne fa espressa richiesta", "why_wrong": "L'acquisizione d'ufficio è un obbligo dell'amministrazione, non subordinato a una richiesta."},
+      {"id": "d", "text": "il documento è acquisito d'ufficio; all'interessato possono essere chiesti solo gli elementi necessari per la ricerca", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 18, comma 2, dispone che i documenti necessari per l'istruttoria siano acquisiti d'ufficio quando sono in possesso dell'amministrazione procedente o detenuti istituzionalmente da altre PA; agli interessati possono essere chiesti solo gli elementi necessari per la ricerca.",
+    "evidence": [
+      {"ref": "art. 18, comma 2", "text": "sono acquisiti d'ufficio quando sono in possesso dell'amministrazione procedente, ovvero sono detenuti, istituzionalmente, da altre pubbliche amministrazioni. L'amministrazione procedente può richiedere agli interessati i soli elementi necessari per la ricerca dei documenti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 18, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato presenta un'istanza a un Comune, ma l'ufficio non gli rilascia alcuna ricevuta. Ai sensi dell'art. 18-bis della L. 241/1990, l'istanza:",
+    "options": [
+      {"id": "a", "text": "deve essere ripresentata allo sportello unico", "why_wrong": "Lo sportello unico è previsto per la SCIA (art. 19-bis); il mancato rilascio della ricevuta non impone di ripresentare l'istanza."},
+      {"id": "b", "text": "produce comunque effetti, ferma restando la responsabilità del soggetto competente", "why_wrong": null},
+      {"id": "c", "text": "non produce effetti finché non viene rilasciata la ricevuta", "why_wrong": "L'art. 18-bis, comma 1, stabilisce che le istanze producono effetti anche in caso di mancato rilascio della ricevuta."},
+      {"id": "d", "text": "si intende respinta decorsi trenta giorni", "why_wrong": "L'art. 18-bis non prevede alcun silenzio-rigetto per la mancata ricevuta."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 18-bis, comma 1, prevede il rilascio immediato di una ricevuta, ma stabilisce che istanze, segnalazioni o comunicazioni producono effetti anche in caso di mancato rilascio, ferma restando la responsabilità del soggetto competente.",
+    "evidence": [
+      {"ref": "art. 18-bis, comma 1", "text": "Le istanze, segnalazioni o comunicazioni producono effetti anche in caso di mancato rilascio della ricevuta, ferma restando la responsabilità del soggetto competente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 18-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 18-bis della L. 241/1990, la ricevuta rilasciata per l'avvenuta presentazione di un'istanza costituisce comunicazione di avvio del procedimento:",
+    "options": [
+      {"id": "a", "text": "se contiene le informazioni previste dall'art. 8 per la comunicazione di avvio", "why_wrong": null},
+      {"id": "b", "text": "in ogni caso", "why_wrong": "La ricevuta vale come comunicazione di avvio solo se contiene le informazioni dell'art. 8."},
+      {"id": "c", "text": "mai, poiché la comunicazione di avvio deve essere sempre un atto distinto", "why_wrong": "L'art. 18-bis, comma 1, prevede espressamente che la ricevuta completa delle informazioni dell'art. 8 costituisca comunicazione di avvio."},
+      {"id": "d", "text": "solo se rilasciata in via telematica", "why_wrong": "Il comma 1 non distingue in base alla modalità di rilascio, ma al contenuto della ricevuta."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 18-bis, comma 1, stabilisce che, se la ricevuta contiene le informazioni dell'art. 8, essa costituisce comunicazione di avvio del procedimento ai sensi dell'art. 7.",
+    "evidence": [
+      {"ref": "art. 18-bis, comma 1", "text": "Se la ricevuta contiene le informazioni di cui all'articolo 8, essa costituisce comunicazione di avvio del procedimento ai sensi dell'articolo 7."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 18-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato presenta una SCIA a un ufficio comunale diverso da quello competente. Ai sensi dell'art. 18-bis, comma 2, della L. 241/1990, il termine per i controlli previsto dall'art. 19, comma 3, decorre:",
+    "options": [
+      {"id": "a", "text": "dalla data di protocollazione presso l'ufficio non competente", "why_wrong": "La regola sulla data di protocollazione (comma 1) non sposta la decorrenza fissata dal comma 2, che guarda al ricevimento da parte dell'ufficio competente."},
+      {"id": "b", "text": "dal rilascio della ricevuta da parte dell'ufficio non competente", "why_wrong": "Il comma 2 guarda al ricevimento da parte dell'ufficio competente."},
+      {"id": "c", "text": "dal ricevimento della segnalazione da parte dell'ufficio competente", "why_wrong": null},
+      {"id": "d", "text": "dalla presentazione della segnalazione all'ufficio non competente", "why_wrong": "Il comma 2 fa decorrere i termini dal ricevimento da parte dell'ufficio competente."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 18-bis, comma 2, prevede che, se l'istanza, la segnalazione o la comunicazione sono presentate a un ufficio diverso da quello competente, i termini degli artt. 19, comma 3, e 20, comma 1, decorrono dal ricevimento da parte dell'ufficio competente.",
+    "evidence": [
+      {"ref": "art. 18-bis, comma 2", "text": "Nel caso di istanza, segnalazione o comunicazione presentate ad un ufficio diverso da quello competente, i termini di cui agli articoli 19, comma 3, e 20, comma 1, decorrono dal ricevimento dell'istanza, segnalazione o della comunicazione da parte dell'ufficio competente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 18-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 19 della L. 241/1990, un atto di autorizzazione è sostituito da una segnalazione dell'interessato quando:",
+    "options": [
+      {"id": "a", "text": "l'interessato ne fa richiesta, qualunque sia il tipo di atto", "why_wrong": "La sostituzione con la SCIA dipende dai presupposti oggettivi del comma 1, non da una scelta dell'interessato."},
+      {"id": "b", "text": "il suo rilascio dipende esclusivamente dall'accertamento di requisiti e presupposti richiesti dalla legge o da atti amministrativi a contenuto generale, e non è previsto alcun limite o contingente complessivo o strumento di programmazione settoriale", "why_wrong": null},
+      {"id": "c", "text": "il suo rilascio comporta valutazioni discrezionali dell'amministrazione", "why_wrong": "La SCIA presuppone che il rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti, non da valutazioni discrezionali."},
+      {"id": "d", "text": "è previsto un contingente complessivo per il rilascio degli atti", "why_wrong": "L'art. 19, comma 1, esclude la SCIA quando è previsto un limite o contingente complessivo."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 19, comma 1, sostituisce con la segnalazione dell'interessato gli atti autorizzatori il cui rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti di legge o di atti a contenuto generale, senza limiti o contingenti complessivi né specifici strumenti di programmazione settoriale.",
+    "evidence": [
+      {"ref": "art. 19, comma 1", "text": "il cui rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti richiesti dalla legge o da atti amministrativi a contenuto generale, e non sia previsto alcun limite o contingente complessivo o specifici strumenti di programmazione settoriale per il rilascio degli atti stessi, è sostituito da una segnalazione dell'interessato"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 19, comma 1, della L. 241/1990, la SCIA NON sostituisce gli atti:",
+    "options": [
+      {"id": "a", "text": "relativi all'iscrizione in albi o ruoli richiesta per l'esercizio di attività commerciale o artigianale", "why_wrong": "Le domande per le iscrizioni in albi o ruoli per attività imprenditoriali, commerciali o artigianali sono espressamente comprese nella SCIA dal comma 1."},
+      {"id": "b", "text": "il cui rilascio dipende esclusivamente dall'accertamento di requisiti di legge", "why_wrong": "È proprio il presupposto per l'applicazione della SCIA."},
+      {"id": "c", "text": "per i quali la normativa prevede l'acquisizione di pareri di organi appositi", "why_wrong": "Il comma 1 prevede che tali pareri siano comunque sostituiti da autocertificazioni, attestazioni e asseverazioni, salve le verifiche successive."},
+      {"id": "d", "text": "rilasciati dalle amministrazioni preposte alla difesa nazionale, alla pubblica sicurezza, all'immigrazione, all'asilo e alla cittadinanza", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 19, comma 1, esclude dalla SCIA i casi in cui sussistano vincoli ambientali, paesaggistici o culturali e gli atti rilasciati dalle amministrazioni preposte alla difesa nazionale, alla pubblica sicurezza, all'immigrazione, all'asilo, alla cittadinanza, all'amministrazione della giustizia e delle finanze.",
+    "evidence": [
+      {"ref": "art. 19, comma 1", "text": "con la sola esclusione dei casi in cui sussistano vincoli ambientali, paesaggistici o culturali e degli atti rilasciati dalle amministrazioni preposte alla difesa nazionale, alla pubblica sicurezza, all'immigrazione, all'asilo, alla cittadinanza, all'amministrazione della giustizia, all'amministrazione delle finanze"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un artigiano presenta al Comune una SCIA regolarmente corredata. Ai sensi dell'art. 19, comma 2, della L. 241/1990, da quando può iniziare l'attività?",
+    "options": [
+      {"id": "a", "text": "Dal rilascio dell'attestazione di decorso dei termini da parte dell'amministrazione", "why_wrong": "L'attestazione telematica sul decorso dei termini riguarda il silenzio assenso (art. 20, comma 2-bis)."},
+      {"id": "b", "text": "Decorsi trenta giorni dalla presentazione", "why_wrong": "Il comma 2 consente l'avvio dell'attività dalla data di presentazione della segnalazione."},
+      {"id": "c", "text": "Dalla data di presentazione della segnalazione all'amministrazione competente", "why_wrong": null},
+      {"id": "d", "text": "Decorsi sessanta giorni dalla presentazione, se l'amministrazione non ha adottato provvedimenti di divieto", "why_wrong": "Sessanta giorni è il termine per i controlli dell'amministrazione (comma 3); l'attività può iniziare subito dalla presentazione."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 19, comma 2, stabilisce che l'attività oggetto della segnalazione può essere iniziata dalla data della presentazione della segnalazione all'amministrazione competente.",
+    "evidence": [
+      {"ref": "art. 19, comma 2", "text": "L'attività oggetto della segnalazione può essere iniziata, anche nei casi di cui all'articolo 19-bis, comma 2, dalla data della presentazione della segnalazione all'amministrazione competente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Entro quale termine dal ricevimento di una SCIA (non in materia edilizia) l'amministrazione, in caso di accertata carenza dei requisiti, adotta motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione degli effetti dannosi?",
+    "options": [
+      {"id": "a", "text": "Sessanta giorni", "why_wrong": null},
+      {"id": "b", "text": "Trenta giorni", "why_wrong": "Trenta giorni è il termine per la SCIA in materia edilizia (art. 19, comma 6-bis)."},
+      {"id": "c", "text": "Novanta giorni", "why_wrong": "L'art. 19, comma 3, fissa il termine in sessanta giorni."},
+      {"id": "d", "text": "Venti giorni", "why_wrong": "Venti giorni è il termine per i pareri obbligatori degli organi consultivi (art. 16, comma 1)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 19, comma 3, prevede che, in caso di accertata carenza dei requisiti e presupposti, l'amministrazione adotti entro sessanta giorni dal ricevimento della segnalazione motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione degli effetti dannosi.",
+    "evidence": [
+      {"ref": "art. 19, comma 3", "text": "L'amministrazione competente, in caso di accertata carenza dei requisiti e dei presupposti di cui al comma 1, nel termine di sessanta giorni dal ricevimento della segnalazione di cui al medesimo comma, adotta motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione degli eventuali effetti dannosi di essa."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nel controllo di una SCIA, il Comune accerta una carenza che può essere sanata conformando l'attività alla normativa vigente e invita il privato, con atto motivato, ad adottare le misure necessarie. Ai sensi dell'art. 19, comma 3, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il termine assegnato non può essere inferiore a trenta giorni e, se il privato non adotta le misure, il Comune deve indire una conferenza di servizi", "why_wrong": "In difetto di adozione delle misure, il comma 3 prevede che l'attività si intenda vietata, senza conferenza."},
+      {"id": "b", "text": "il Comune non può invitare alla conformazione, ma deve vietare subito l'attività", "why_wrong": "Il comma 3 prevede espressamente l'invito a conformare l'attività quando ciò sia possibile."},
+      {"id": "c", "text": "il termine assegnato non può essere inferiore a trenta giorni e, se il privato non adotta le misure, decorso il termine l'attività si intende vietata", "why_wrong": null},
+      {"id": "d", "text": "il termine assegnato non può essere superiore a dieci giorni e, se il privato non adotta le misure, l'attività prosegue fino a un nuovo provvedimento", "why_wrong": "Il comma 3 fissa un termine non inferiore a trenta giorni e prevede che, in difetto di adozione delle misure, l'attività si intenda vietata."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 19, comma 3, prevede che, quando è possibile conformare l'attività, l'amministrazione inviti il privato a provvedere fissando un termine non inferiore a trenta giorni; in difetto di adozione delle misure, decorso il termine, l'attività si intende vietata.",
+    "evidence": [
+      {"ref": "art. 19, comma 3", "text": "invita il privato a provvedere prescrivendo le misure necessarie con la fissazione di un termine non inferiore a trenta giorni per l'adozione di queste ultime. In difetto di adozione delle misure da parte del privato, decorso il suddetto termine, l'attività si intende vietata."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-021",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nei casi di SCIA in materia edilizia, il termine entro cui l'amministrazione può adottare i provvedimenti di divieto di prosecuzione dell'attività è:",
+    "options": [
+      {"id": "a", "text": "ridotto a trenta giorni", "why_wrong": null},
+      {"id": "b", "text": "di sessanta giorni, come per ogni altra SCIA", "why_wrong": "L'art. 19, comma 6-bis, riduce a trenta giorni il termine di sessanta giorni del comma 3 per la SCIA edilizia."},
+      {"id": "c", "text": "elevato a novanta giorni", "why_wrong": "Il comma 6-bis prevede una riduzione, non un aumento, del termine."},
+      {"id": "d", "text": "ridotto a quindici giorni", "why_wrong": "Il termine per la SCIA edilizia è di trenta giorni."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 19, comma 6-bis, stabilisce che nei casi di SCIA in materia edilizia il termine di sessanta giorni del comma 3 è ridotto a trenta giorni.",
+    "evidence": [
+      {"ref": "art. 19, comma 6-bis", "text": "Nei casi di Scia in materia edilizia, il termine di sessanta giorni di cui al primo periodo del comma 3 è ridotto a trenta giorni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 6-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-022",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il vicino di un esercizio commerciale avviato con SCIA ritiene che l'attività non sia conforme alla legge. Ai sensi dell'art. 19, comma 6-ter, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il vicino può impugnare direttamente la SCIA come provvedimento tacito di assenso", "why_wrong": "Il comma 6-ter esclude che la SCIA costituisca un provvedimento tacito direttamente impugnabile."},
+      {"id": "b", "text": "il vicino può proporre opposizione al Presidente del Consiglio dei ministri entro dieci giorni", "why_wrong": "L'opposizione al Presidente del Consiglio è un rimedio delle amministrazioni dissenzienti in conferenza di servizi (art. 14-quinquies)."},
+      {"id": "c", "text": "il vicino deve chiedere la conformazione dell'attività entro trenta giorni", "why_wrong": "L'invito alla conformazione è un potere dell'amministrazione (art. 19, comma 3), non un rimedio del terzo."},
+      {"id": "d", "text": "la SCIA non costituisce un provvedimento tacito direttamente impugnabile; il vicino può sollecitare l'esercizio delle verifiche spettanti all'amministrazione", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 19, comma 6-ter, stabilisce che SCIA, denuncia e dichiarazione di inizio attività non sono provvedimenti taciti direttamente impugnabili; gli interessati possono sollecitare le verifiche spettanti all'amministrazione e, in caso di inerzia, esperire l'azione indicata dalla norma.",
+    "evidence": [
+      {"ref": "art. 19, comma 6-ter", "text": "La segnalazione certificata di inizio attività, la denuncia e la dichiarazione di inizio attività non costituiscono provvedimenti taciti direttamente impugnabili. Gli interessati possono sollecitare l'esercizio delle verifiche spettanti all'amministrazione"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19, comma 6-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-023",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Per avviare un'attività soggetta a SCIA sono necessarie anche altre segnalazioni e comunicazioni di competenza di diverse amministrazioni. Ai sensi dell'art. 19-bis della L. 241/1990, l'interessato:",
+    "options": [
+      {"id": "a", "text": "presenta la SCIA al Prefetto, che la trasmette alle amministrazioni interessate", "why_wrong": "Il comma 1 individua come destinatario lo sportello unico indicato sul sito di ciascuna amministrazione."},
+      {"id": "b", "text": "presenta un'unica SCIA allo sportello unico, che la trasmette immediatamente alle altre amministrazioni interessate", "why_wrong": null},
+      {"id": "c", "text": "presenta separatamente ciascuna segnalazione all'amministrazione competente", "why_wrong": "L'art. 19-bis, comma 2, prevede un'unica SCIA presentata allo sportello unico."},
+      {"id": "d", "text": "deve chiedere l'indizione di una conferenza di servizi prima di presentare la SCIA", "why_wrong": "La conferenza è prevista dal comma 3 quando l'attività è condizionata ad atti di assenso o pareri; nel caso del comma 2 basta un'unica SCIA."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 19-bis, comma 2, prevede che, se per un'attività soggetta a SCIA sono necessarie altre SCIA, comunicazioni, attestazioni, asseverazioni e notifiche, l'interessato presenti un'unica SCIA allo sportello unico; l'amministrazione ricevente la trasmette immediatamente alle altre amministrazioni interessate.",
+    "evidence": [
+      {"ref": "art. 19-bis, comma 2", "text": "Se per lo svolgimento di un'attività soggetta a SCIA sono necessarie altre SCIA, comunicazioni, attestazioni, asseverazioni e notifiche, l'interessato presenta un'unica SCIA allo sportello di cui al comma 1. L'amministrazione che riceve la SCIA la trasmette immediatamente alle altre amministrazioni interessate"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-024",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 19-bis, comma 3, della L. 241/1990, quando l'attività oggetto di SCIA è condizionata all'acquisizione di atti di assenso o pareri di altri uffici e amministrazioni:",
+    "options": [
+      {"id": "a", "text": "l'attività può iniziare dalla data di presentazione della SCIA", "why_wrong": "La regola generale dell'art. 19, comma 2, cede qui al comma 3 dell'art. 19-bis, che subordina l'inizio dell'attività al rilascio degli atti."},
+      {"id": "b", "text": "gli atti si intendono acquisiti decorsi trenta giorni dalla presentazione", "why_wrong": "Il comma 3 subordina l'inizio dell'attività al rilascio degli atti e prevede la convocazione della conferenza dell'art. 14."},
+      {"id": "c", "text": "l'attività può iniziare decorsi sessanta giorni senza provvedimenti di divieto", "why_wrong": "Sessanta giorni è il termine per i controlli sulla SCIA (art. 19, comma 3), non una condizione per l'avvio nel caso del comma 3 dell'art. 19-bis."},
+      {"id": "d", "text": "l'inizio dell'attività resta subordinato al rilascio degli atti medesimi", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 19-bis, comma 3, prevede che, se l'attività è condizionata all'acquisizione di atti di assenso o pareri o a verifiche preventive, l'interessato presenti la relativa istanza allo sportello; il termine per convocare la conferenza di servizi decorre dalla presentazione e l'inizio dell'attività resta subordinato al rilascio degli atti.",
+    "evidence": [
+      {"ref": "art. 19-bis, comma 3", "text": "In tali casi, il termine per la convocazione della conferenza di cui all'articolo 14 decorre dalla data di presentazione dell'istanza e l'inizio dell'attività resta subordinato al rilascio degli atti medesimi, di cui lo sportello dà comunicazione all'interessato."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 19-bis, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-025",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 20 della L. 241/1990, nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi, se l'amministrazione non comunica il diniego nel termine previsto e non indice una conferenza di servizi, il silenzio:",
+    "options": [
+      {"id": "a", "text": "non produce effetti fino al rilascio dell'attestazione telematica", "why_wrong": "L'attestazione del comma 2-bis lascia fermi gli effetti comunque intervenuti del silenzio assenso."},
+      {"id": "b", "text": "equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide", "why_wrong": null},
+      {"id": "c", "text": "equivale a rigetto della domanda", "why_wrong": "L'art. 20, comma 1, disciplina il silenzio assenso; il silenzio con valore di rigetto riguarda i casi in cui la legge lo qualifica così, esclusi dall'art. 20 (comma 4)."},
+      {"id": "d", "text": "equivale ad accoglimento solo dopo una diffida del privato", "why_wrong": "Il comma 1 esclude espressamente la necessità di ulteriori istanze o diffide."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 20, comma 1, prevede che, fatta salva l'applicazione dell'art. 19, nei procedimenti ad istanza di parte il silenzio dell'amministrazione competente equivale ad accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se l'amministrazione non comunica il diniego nel termine dell'art. 2, commi 2 o 3, o non indice una conferenza di servizi.",
+    "evidence": [
+      {"ref": "art. 20, comma 1", "text": "il silenzio dell'amministrazione competente equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di cui all'articolo 2, commi 2 o 3, il provvedimento di diniego, ovvero non procede ai sensi del comma 2."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 20, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-026",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato presenta a un Comune un'istanza soggetta a silenzio assenso, ma priva degli elementi indispensabili per individuare l'oggetto del provvedimento richiesto. Decorso il termine senza risposta, ai sensi dell'art. 20 della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il silenzio assenso non si forma", "why_wrong": null},
+      {"id": "b", "text": "il silenzio assenso si forma comunque, perché il Comune non ha comunicato il diniego", "why_wrong": "L'art. 20, comma 1, esclude la formazione del silenzio assenso quando la domanda è priva degli elementi indispensabili per individuarne oggetto e ragioni."},
+      {"id": "c", "text": "il silenzio assenso si forma, ma il Comune deve rilasciare l'attestazione entro dieci giorni", "why_wrong": "L'attestazione del comma 2-bis presuppone che il silenzio assenso si sia formato."},
+      {"id": "d", "text": "si forma un silenzio-rigetto", "why_wrong": "La legge non prevede un silenzio-rigetto: si limita a escludere la formazione del silenzio assenso."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 20, comma 1, stabilisce che il silenzio assenso non si forma nei soli casi in cui la domanda non sia stata ricevuta dall'amministrazione competente o sia priva degli elementi indispensabili per individuare l'oggetto e le ragioni del provvedimento richiesto.",
+    "evidence": [
+      {"ref": "art. 20, comma 1", "text": "Il silenzio assenso non si forma nei soli casi in cui la domanda non sia stata ricevuta dalla amministrazione competente o sia priva degli elementi indispensabili per individuare l'oggetto e le ragioni del provvedimento richiesto."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 20, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-027",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Si è formato il silenzio assenso su un'istanza presentata in un procedimento non ancora telematizzato, ma il Comune non invia l'attestazione entro dieci giorni. Ai sensi dell'art. 20, comma 2-bis, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "il privato deve rivolgersi al titolare del potere sostitutivo per ottenere il provvedimento espresso", "why_wrong": "Il comma 2-bis risolve la mancata attestazione con la dichiarazione del privato, senza richiedere un provvedimento espresso."},
+      {"id": "b", "text": "il privato deve presentare una nuova istanza", "why_wrong": "Il silenzio assenso si è già formato; il comma 2-bis consente di sostituire l'attestazione con una dichiarazione del privato."},
+      {"id": "c", "text": "l'attestazione è sostituita da una dichiarazione del privato", "why_wrong": null},
+      {"id": "d", "text": "il silenzio assenso perde efficacia", "why_wrong": "Il comma 2-bis fa fermi gli effetti comunque intervenuti del silenzio assenso."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 20, comma 2-bis, obbliga l'amministrazione a rilasciare un'attestazione dell'intervenuto accoglimento; per i procedimenti non telematizzati la invia d'ufficio entro dieci giorni dalla formazione del silenzio assenso; decorso inutilmente tale termine, l'attestazione è sostituita da una dichiarazione del privato.",
+    "evidence": [
+      {"ref": "art. 20, comma 2-bis", "text": "all'indirizzo di posta elettronica certificata o ordinaria indicato nell'istanza ((entro dieci giorni dalla data di formazione del silenzio assenso."},
+      {"ref": "art. 20, comma 2-bis", "text": "Decorso inutilmente il termine di cui al secondo periodo, l'attestazione di cui al primo periodo è sostituita da una dichiarazione del privato"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 20, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-028",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quali delle seguenti materie sono espressamente indicate dall'art. 20, comma 4, della L. 241/1990 tra quelle per le quali il silenzio assenso NON si applica?",
+    "options": [
+      {"id": "a", "text": "i procedimenti tributari e gli atti di pianificazione e programmazione", "why_wrong": "Sono esclusi dalle norme sulla partecipazione (art. 13), non indicati dall'art. 20, comma 4."},
+      {"id": "b", "text": "il patrimonio culturale e paesaggistico, l'ambiente, la difesa nazionale, la pubblica sicurezza, la salute e la pubblica incolumità", "why_wrong": null},
+      {"id": "c", "text": "l'amministrazione della giustizia e l'amministrazione delle finanze", "why_wrong": "Sono materie escluse dalla SCIA (art. 19, comma 1), non indicate dall'art. 20, comma 4."},
+      {"id": "d", "text": "le procedure concorsuali e i procedimenti previdenziali e assistenziali", "why_wrong": "Sono esclusi dalla comunicazione dei motivi ostativi (art. 10-bis), non indicati dall'art. 20, comma 4."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 20, comma 4, esclude il silenzio assenso per gli atti e procedimenti riguardanti il patrimonio culturale e paesaggistico, l'ambiente, la tutela dal rischio idrogeologico, la difesa nazionale, la pubblica sicurezza, l'immigrazione, l'asilo e la cittadinanza, la salute e la pubblica incolumità, oltre ad altri casi indicati dalla norma.",
+    "evidence": [
+      {"ref": "art. 20, comma 4", "text": "Le disposizioni del presente articolo non si applicano agli atti e procedimenti riguardanti il patrimonio culturale e paesaggistico, l'ambiente, la tutela dal rischio idrogeologico, la difesa nazionale, la pubblica sicurezza, l'immigrazione, l'asilo e la cittadinanza, la salute e la pubblica incolumità"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 20, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-029",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un privato avvia un'attività con SCIA dichiarando falsamente il possesso di un requisito. Ai sensi dell'art. 21, comma 1, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "l'amministrazione deve comunque invitarlo a conformare l'attività entro trenta giorni", "why_wrong": "In caso di dichiarazioni mendaci o false attestazioni l'art. 21, comma 1, esclude la conformazione dell'attività."},
+      {"id": "b", "text": "l'attività può proseguire se il requisito viene acquisito entro sessanta giorni", "why_wrong": "Il comma 1 esclude la conformazione e la sanatoria previste dagli artt. 19 e 20."},
+      {"id": "c", "text": "la falsa dichiarazione rileva solo se accertata entro il termine per i controlli", "why_wrong": "L'art. 21, comma 1, non limita le conseguenze delle dichiarazioni mendaci al periodo dei controlli ordinari."},
+      {"id": "d", "text": "non è ammessa la conformazione dell'attività e dei suoi effetti a legge, né la sanatoria", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 21, comma 1, prevede che, in caso di dichiarazioni mendaci o di false attestazioni, non è ammessa la conformazione dell'attività e dei suoi effetti a legge o la sanatoria prevista dagli artt. 19 e 20, e il dichiarante è punito ai sensi della norma penale richiamata, salvo che il fatto costituisca più grave reato.",
+    "evidence": [
+      {"ref": "art. 21, comma 1", "text": "In caso di dichiarazioni mendaci o di false attestazioni non è ammessa la conformazione dell'attività e dei suoi effetti a legge o la sanatoria prevista dagli articoli medesimi"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 21, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4-030",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il termine per il controllo su una SCIA non conforme alle norme vigenti decorre senza che il funzionario competente adotti alcun provvedimento. Ai sensi dell'art. 21, comma 2-ter, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "la responsabilità ricade esclusivamente sul privato che ha presentato la SCIA", "why_wrong": "Il comma 2-ter fa salva la responsabilità del dipendente che non ha agito tempestivamente."},
+      {"id": "b", "text": "la responsabilità del dipendente sussiste solo in caso di silenzio assenso, non di SCIA", "why_wrong": "Il comma 2-ter riguarda sia la decorrenza del termine dell'art. 19, comma 3, sia la formazione del silenzio assenso."},
+      {"id": "c", "text": "la decorrenza del termine non esclude la responsabilità del dipendente che non abbia agito tempestivamente", "why_wrong": null},
+      {"id": "d", "text": "la decorrenza del termine esclude ogni responsabilità del dipendente", "why_wrong": "Il comma 2-ter stabilisce il contrario: la decorrenza del termine non esclude la responsabilità."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21, comma 2-ter, stabilisce che la decorrenza del termine dell'art. 19, comma 3, e la formazione del silenzio assenso non escludono la responsabilità del dipendente che non abbia agito tempestivamente se la segnalazione o l'istanza non era conforme alle norme vigenti.",
+    "evidence": [
+      {"ref": "art. 21, comma 2-ter", "text": "La decorrenza del termine previsto dall'articolo 19, comma 3, e la formazione del silenzio assenso ai sensi dell'articolo 20 non escludono la responsabilità del dipendente che non abbia agito tempestivamente nel caso in cui la segnalazione certificata o l'istanza del privato non fosse conforme alle norme vigenti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 21, comma 2-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

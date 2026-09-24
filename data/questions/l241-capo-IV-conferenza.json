@@ -1,0 +1,602 @@
+[
+  {
+    "id": "l241-c4cds-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14 della L. 241/1990, la conferenza di servizi istruttoria:",
+    "options": [
+      {"id": "a", "text": "è indetta esclusivamente su richiesta del privato interessato", "why_wrong": "L'art. 14, comma 1, prevede l'indizione da parte dell'amministrazione procedente, anche su richiesta di altra amministrazione o del privato."},
+      {"id": "b", "text": "può essere indetta dall'amministrazione procedente, anche su richiesta di altra amministrazione coinvolta o del privato interessato, quando lo ritenga opportuno per un esame contestuale degli interessi pubblici coinvolti", "why_wrong": null},
+      {"id": "c", "text": "è sempre indetta quando la conclusione positiva del procedimento è subordinata all'acquisizione di più atti di assenso di diverse amministrazioni", "why_wrong": "È il presupposto della conferenza decisoria, che è obbligatoria (art. 14, comma 2)."},
+      {"id": "d", "text": "è indetta su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, per progetti di particolare complessità", "why_wrong": "È la conferenza preliminare dell'art. 14, comma 3."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14, comma 1, configura la conferenza istruttoria come facoltativa: l'amministrazione procedente può indirla, anche su richiesta di altra amministrazione coinvolta o del privato interessato, quando lo ritenga opportuno per esaminare contestualmente gli interessi pubblici coinvolti in uno o più procedimenti connessi.",
+    "evidence": [
+      {"ref": "art. 14, comma 1", "text": "La conferenza di servizi istruttoria può essere indetta dall'amministrazione procedente, anche su richiesta di altra amministrazione coinvolta nel procedimento o del privato interessato, quando lo ritenga opportuno per effettuare un esame contestuale degli interessi pubblici coinvolti in un procedimento amministrativo"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Per concludere positivamente un procedimento, un Comune deve acquisire il parere dell'ASL, il nulla osta della Soprintendenza e l'assenso del gestore del servizio idrico. Ai sensi dell'art. 14 della L. 241/1990, il Comune:",
+    "options": [
+      {"id": "a", "text": "indice sempre la conferenza di servizi decisoria", "why_wrong": null},
+      {"id": "b", "text": "può scegliere se indire una conferenza istruttoria o acquisire separatamente gli atti", "why_wrong": "Quando la conclusione positiva richiede più atti di assenso di diverse amministrazioni, inclusi i gestori di beni o servizi pubblici, l'art. 14, comma 2, rende la conferenza decisoria obbligatoria."},
+      {"id": "c", "text": "indice la conferenza di servizi solo se lo richiede il privato interessato", "why_wrong": "La conferenza decisoria è sempre indetta dall'amministrazione procedente in presenza dei presupposti del comma 2, senza bisogno di richiesta."},
+      {"id": "d", "text": "indice una conferenza preliminare, previa presentazione di uno studio di fattibilità", "why_wrong": "La conferenza preliminare (art. 14, comma 3) riguarda progetti di particolare complessità prima della presentazione dell'istanza o del progetto definitivo."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14, comma 2, stabilisce che la conferenza decisoria è sempre indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso resi da diverse amministrazioni, inclusi i gestori di beni o servizi pubblici.",
+    "evidence": [
+      {"ref": "art. 14, comma 2", "text": "La conferenza di servizi decisoria è sempre indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, resi da diverse amministrazioni, inclusi i gestori di beni o servizi pubblici."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quando l'attività di un privato è subordinata a più atti di assenso da adottare a conclusione di distinti procedimenti di competenza di diverse amministrazioni, la conferenza di servizi, ai sensi dell'art. 14, comma 2, della L. 241/1990, è convocata:",
+    "options": [
+      {"id": "a", "text": "dal Prefetto competente per territorio", "why_wrong": "Il Prefetto nomina il rappresentante unico delle amministrazioni statali periferiche (art. 14-ter, comma 4), non convoca la conferenza."},
+      {"id": "b", "text": "congiuntamente da tutte le amministrazioni competenti", "why_wrong": "Il comma 2 prevede la convocazione da parte di una delle amministrazioni procedenti."},
+      {"id": "c", "text": "anche su richiesta dell'interessato, da una delle amministrazioni procedenti", "why_wrong": null},
+      {"id": "d", "text": "esclusivamente dalla Presidenza del Consiglio dei ministri", "why_wrong": "La Presidenza del Consiglio interviene nella fase di opposizione (art. 14-quinquies); la convocazione spetta a una delle amministrazioni procedenti."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14, comma 2, secondo periodo, prevede che, quando l'attività del privato è subordinata a più atti di assenso di diverse amministrazioni da adottare in distinti procedimenti, la conferenza è convocata, anche su richiesta dell'interessato, da una delle amministrazioni procedenti.",
+    "evidence": [
+      {"ref": "art. 14, comma 2", "text": "Quando l'attività del privato sia subordinata a più atti di assenso, comunque denominati, da adottare a conclusione di distinti procedimenti, di competenza di diverse amministrazioni pubbliche, la conferenza di servizi è convocata, anche su richiesta dell'interessato, da una delle amministrazioni procedenti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'impresa, prima di presentare il progetto definitivo di un complesso insediamento produttivo, chiede con richiesta motivata e corredata da uno studio di fattibilità l'indizione di una conferenza preliminare. Se l'amministrazione procedente accoglie la richiesta, entro quale termine indice la conferenza?",
+    "options": [
+      {"id": "a", "text": "Entro quindici giorni dalla ricezione della richiesta", "why_wrong": "Quindici giorni è il termine massimo per richiedere integrazioni documentali nella conferenza semplificata (art. 14-bis, comma 2, lett. b)."},
+      {"id": "b", "text": "Entro cinque giorni lavorativi dalla ricezione della richiesta", "why_wrong": null},
+      {"id": "c", "text": "Entro trenta giorni dalla ricezione della richiesta", "why_wrong": "Trenta giorni è, ad esempio, il termine entro cui convocare la riunione della conferenza simultanea (art. 14-bis, comma 7); per la preliminare il comma 3 dell'art. 14 prevede cinque giorni lavorativi."},
+      {"id": "d", "text": "Entro dieci giorni dalla ricezione della richiesta", "why_wrong": "Il termine dell'art. 14, comma 3, è di cinque giorni lavorativi."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14, comma 3, stabilisce che l'amministrazione procedente, se ritiene di accogliere la richiesta motivata di conferenza preliminare, la indice entro cinque giorni lavorativi dalla ricezione della richiesta.",
+    "evidence": [
+      {"ref": "art. 14, comma 3", "text": "L'amministrazione procedente, se ritiene di accogliere la richiesta motivata di indizione della conferenza, la indice entro cinque giorni lavorativi dalla ricezione della richiesta stessa."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14, comma 3, della L. 241/1990, la conferenza preliminare si svolge:",
+    "options": [
+      {"id": "a", "text": "secondo le disposizioni dell'art. 14-ter, con termini raddoppiati", "why_wrong": "Il comma 3 rinvia all'art. 14-bis (conferenza semplificata) e prevede un'abbreviazione, non un raddoppio, dei termini."},
+      {"id": "b", "text": "con modalità liberamente definite dall'amministrazione procedente", "why_wrong": "Modalità diverse definite dall'amministrazione procedente sono ammesse per la conferenza istruttoria (art. 14, comma 1)."},
+      {"id": "c", "text": "secondo le disposizioni dell'art. 14-bis, con termini ridotti a un terzo", "why_wrong": "L'abbreviazione prevista è fino alla metà."},
+      {"id": "d", "text": "secondo le disposizioni dell'art. 14-bis, con abbreviazione dei termini fino alla metà", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14, comma 3, prevede che la conferenza preliminare si svolga secondo le disposizioni dell'art. 14-bis, con abbreviazione dei termini fino alla metà.",
+    "evidence": [
+      {"ref": "art. 14, comma 3", "text": "La conferenza preliminare si svolge secondo le disposizioni dell'articolo 14-bis, con abbreviazione dei termini fino alla metà."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Dopo lo svolgimento di una conferenza preliminare, l'amministrazione procedente riceve il progetto definitivo e indice la conferenza simultanea. Le determinazioni espresse in sede di conferenza preliminare:",
+    "options": [
+      {"id": "a", "text": "perdono ogni efficacia e devono essere integralmente riformulate", "why_wrong": "Il comma 3 limita la possibilità di modificarle ai casi in cui emergano significativi elementi nuovi."},
+      {"id": "b", "text": "possono essere modificate liberamente da ciascuna amministrazione", "why_wrong": "La modifica è ammessa solo motivatamente e in presenza di significativi elementi emersi nel successivo procedimento."},
+      {"id": "c", "text": "possono essere motivatamente modificate o integrate solo in presenza di significativi elementi emersi nel successivo procedimento", "why_wrong": null},
+      {"id": "d", "text": "sono vincolanti e non possono essere modificate", "why_wrong": "L'art. 14, comma 3, ammette una modifica o integrazione motivata in presenza di significativi elementi emersi successivamente."}
+    ],
+    "correct": "c",
+    "explanation": "Per l'art. 14, comma 3, in sede di conferenza simultanea le determinazioni espresse nella conferenza preliminare possono essere motivatamente modificate o integrate solo in presenza di significativi elementi emersi nel successivo procedimento, anche a seguito delle osservazioni degli interessati sul progetto definitivo.",
+    "evidence": [
+      {"ref": "art. 14, comma 3", "text": "le determinazioni espresse in sede di conferenza preliminare possono essere motivatamente modificate o integrate solo in presenza di significativi elementi emersi nel successivo procedimento anche a seguito delle osservazioni degli interessati sul progetto definitivo."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nelle procedure di realizzazione di opere pubbliche o di interesse pubblico, ai sensi dell'art. 14, comma 3, della L. 241/1990, la conferenza di servizi si esprime:",
+    "options": [
+      {"id": "a", "text": "sul progetto di fattibilità tecnica ed economica, per indicare le condizioni per ottenere gli atti di assenso sul progetto definitivo", "why_wrong": null},
+      {"id": "b", "text": "soltanto sul progetto esecutivo", "why_wrong": "Il comma 3 prevede che la conferenza si esprima sul progetto di fattibilità tecnica ed economica."},
+      {"id": "c", "text": "sul progetto definitivo, dopo il rilascio di tutti gli atti di assenso", "why_wrong": "La conferenza si esprime prima, sul progetto di fattibilità, per indicare le condizioni per ottenere gli assensi sul progetto definitivo."},
+      {"id": "d", "text": "solo su richiesta del Consiglio dei ministri", "why_wrong": "Il Consiglio dei ministri interviene sulle opposizioni (art. 14-quinquies); il comma 3 disciplina l'oggetto della conferenza."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14, comma 3, ultimo periodo, prevede che nelle procedure di realizzazione di opere pubbliche o di interesse pubblico la conferenza si esprima sul progetto di fattibilità tecnica ed economica, al fine di indicare le condizioni per ottenere gli assensi sul progetto definitivo.",
+    "evidence": [
+      {"ref": "art. 14, comma 3", "text": "Nelle procedure di realizzazione di opere pubbliche o di interesse pubblico, la conferenza di servizi si esprime sul progetto di fattibilità tecnica ed economica, al fine di indicare le condizioni per ottenere, sul progetto definitivo, le intese, i pareri, le concessioni, le autorizzazioni, le licenze, i nullaosta e gli assensi, comunque denominati, richiesti dalla normativa vigente."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-bis della L. 241/1990, la conferenza decisoria si svolge, di regola:",
+    "options": [
+      {"id": "a", "text": "con modalità definite di volta in volta dall'amministrazione procedente", "why_wrong": "Le modalità diverse definite dall'amministrazione procedente sono previste per la conferenza istruttoria (art. 14, comma 1)."},
+      {"id": "b", "text": "in forma semplificata, ma sempre con una riunione in presenza", "why_wrong": "La modalità asincrona non prevede, di regola, una riunione; la riunione telematica è eventuale (art. 14-bis, comma 6)."},
+      {"id": "c", "text": "in forma semplificata e in modalità asincrona", "why_wrong": null},
+      {"id": "d", "text": "in forma simultanea e in modalità sincrona", "why_wrong": "La forma simultanea e sincrona (art. 14-ter) è l'eccezione, per i casi dei commi 6 e 7 dell'art. 14-bis."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-bis, comma 1, stabilisce che la conferenza decisoria si svolge in forma semplificata e in modalità asincrona, salvo i casi dei commi 6 e 7.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 1", "text": "La conferenza decisoria di cui all'articolo 14, comma 2, si svolge in forma semplificata e in modalità asincrona, salvo i casi di cui ai commi 6 e 7."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune riceve un'istanza che richiede una conferenza decisoria in forma semplificata. Entro quale termine deve indire la conferenza?",
+    "options": [
+      {"id": "a", "text": "Entro cinque giorni lavorativi dal ricevimento della domanda", "why_wrong": null},
+      {"id": "b", "text": "Entro trenta giorni dal ricevimento della domanda", "why_wrong": "Trenta giorni è il termine entro cui l'amministrazione può indire una conferenza nei procedimenti di silenzio assenso (art. 20, comma 2); l'art. 14-bis, comma 2, prevede cinque giorni lavorativi."},
+      {"id": "c", "text": "Entro quindici giorni dal ricevimento della domanda", "why_wrong": "Quindici giorni è il termine massimo per le richieste di integrazioni documentali (art. 14-bis, comma 2, lett. b)."},
+      {"id": "d", "text": "Entro dieci giorni dal ricevimento della domanda", "why_wrong": "Dieci giorni è il termine per tenere l'eventuale riunione telematica dopo la scadenza del termine della lett. c)."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14-bis, comma 2, prevede che la conferenza sia indetta entro cinque giorni lavorativi dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento è a iniziativa di parte.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 2", "text": "La conferenza è indetta dall'amministrazione procedente entro cinque giorni lavorativi dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento è ad iniziativa di parte."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nella conferenza semplificata, il termine perentorio entro il quale le amministrazioni coinvolte possono richiedere integrazioni documentali o chiarimenti non può essere superiore a:",
+    "options": [
+      {"id": "a", "text": "dieci giorni", "why_wrong": "Dieci giorni è il termine per la riunione telematica dopo la scadenza del termine della lett. c)."},
+      {"id": "b", "text": "trenta giorni", "why_wrong": "Trenta giorni è il limite ordinario del termine per rendere le determinazioni (art. 14-bis, comma 2, lett. c)."},
+      {"id": "c", "text": "sessanta giorni", "why_wrong": "Sessanta giorni è il termine per le determinazioni delle amministrazioni preposte alla tutela di interessi sensibili (lett. c)."},
+      {"id": "d", "text": "quindici giorni", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-bis, comma 2, lett. b), prevede un termine perentorio non superiore a quindici giorni entro il quale le amministrazioni coinvolte possono richiedere integrazioni documentali o chiarimenti.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 2", "text": "b) il termine perentorio, non superiore a quindici giorni, entro il quale le amministrazioni coinvolte possono richiedere, ai sensi dell'articolo 2, comma 7, integrazioni documentali o chiarimenti"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In una conferenza semplificata partecipa anche la Soprintendenza, preposta alla tutela dei beni culturali. Salvi i maggiori termini previsti dal diritto dell'Unione europea, il termine entro cui le amministrazioni devono rendere le proprie determinazioni è fissato in:",
+    "options": [
+      {"id": "a", "text": "quindici giorni", "why_wrong": "Quindici giorni è il termine massimo per le richieste di integrazioni documentali (lett. b)."},
+      {"id": "b", "text": "sessanta giorni", "why_wrong": null},
+      {"id": "c", "text": "trenta giorni", "why_wrong": "Trenta giorni è il limite massimo ordinario; se partecipano amministrazioni preposte alla tutela dei beni culturali, l'art. 14-bis, comma 2, lett. c), fissa il termine in sessanta giorni."},
+      {"id": "d", "text": "novanta giorni", "why_wrong": "Novanta giorni è il termine per gli assensi delle amministrazioni preposte a interessi sensibili nel silenzio tra amministrazioni (art. 17-bis, comma 3), non nella conferenza semplificata."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-bis, comma 2, lett. c), prevede un termine non superiore a trenta giorni, fissato però in sessanta giorni se tra le amministrazioni coinvolte vi sono quelle preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali, della salute dei cittadini o dell'incolumità pubblica.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 2", "text": "Se tra le suddette amministrazioni vi sono amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali, della salute dei cittadini o dell'incolumità pubblica, il suddetto termine è fissato in sessanta giorni"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nella conferenza semplificata, le determinazioni delle amministrazioni coinvolte, ai sensi dell'art. 14-bis, comma 3, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "possono limitarsi a esprimere un generico parere, anche senza motivazione", "why_wrong": "Il comma 3 richiede determinazioni congruamente motivate, in termini di assenso o dissenso."},
+      {"id": "b", "text": "sono formulate in termini di assenso o dissenso, senza possibilità di indicare prescrizioni", "why_wrong": "Il comma 3 prevede proprio l'indicazione delle prescrizioni e delle misure mitigatrici che rendano possibile l'assenso."},
+      {"id": "c", "text": "sono vincolanti solo per le amministrazioni competenti in materia urbanistica", "why_wrong": "Il comma 3 si applica senza deroghe a tutte le amministrazioni partecipanti, comprese quelle competenti in materia urbanistica, paesaggistica e archeologica."},
+      {"id": "d", "text": "sono congruamente motivate, formulate in termini di assenso o dissenso e indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-bis, comma 3, richiede che le determinazioni siano congruamente motivate, formulate in termini di assenso o dissenso, e indichino le prescrizioni e le misure mitigatrici che rendano possibile l'assenso, quantificandone ove possibile i costi.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 3", "text": "Tali determinazioni, congruamente motivate, sono formulate in termini di assenso o dissenso e indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso, quantificando altresì, ove possibile, i relativi costi."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In una conferenza semplificata, un'amministrazione coinvolta non comunica la propria determinazione entro il termine perentorio fissato. Salvi i casi in cui il diritto dell'Unione europea richiede provvedimenti espressi, la mancata comunicazione equivale a:",
+    "options": [
+      {"id": "a", "text": "rinuncia a partecipare, con sospensione della conferenza", "why_wrong": "Il comma 4 attribuisce al silenzio il valore di assenso senza condizioni, senza sospendere la conferenza."},
+      {"id": "b", "text": "assenso senza condizioni", "why_wrong": null},
+      {"id": "c", "text": "dissenso, che obbliga a convocare una riunione in modalità sincrona", "why_wrong": "L'art. 14-bis, comma 4, equipara la mancata comunicazione all'assenso senza condizioni."},
+      {"id": "d", "text": "assenso condizionato al rispetto delle prescrizioni previste dalla normativa di settore", "why_wrong": "La legge parla di assenso senza condizioni."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-bis, comma 4, stabilisce che la mancata comunicazione della determinazione entro il termine, o la comunicazione di una determinazione priva dei requisiti del comma 3, equivalgono ad assenso senza condizioni, salvi i casi in cui il diritto UE richiede provvedimenti espressi.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 4", "text": "la mancata comunicazione della determinazione entro il termine di cui al comma 2, lettera c), ovvero la comunicazione di una determinazione priva dei requisiti previsti dal comma 3, equivalgono ad assenso senza condizioni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'amministrazione comunica in conferenza semplificata un dissenso privo di motivazione e senza indicare le modifiche necessarie per l'assenso. Ai sensi dell'art. 14-bis, comma 4, della L. 241/1990, tale determinazione:",
+    "options": [
+      {"id": "a", "text": "equivale ad assenso senza condizioni, in quanto priva dei requisiti previsti dal comma 3", "why_wrong": null},
+      {"id": "b", "text": "impedisce la conclusione positiva della conferenza", "why_wrong": "Una determinazione priva dei requisiti del comma 3 equivale per legge ad assenso senza condizioni."},
+      {"id": "c", "text": "obbliga l'amministrazione procedente a trasmettere gli atti al Consiglio dei ministri", "why_wrong": "Il Consiglio dei ministri interviene solo in caso di opposizione e mancata intesa (art. 14-quinquies)."},
+      {"id": "d", "text": "sospende i termini della conferenza fino alla sua integrazione", "why_wrong": "L'art. 14-bis non prevede la sospensione: la determinazione priva dei requisiti vale assenso senza condizioni."}
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 14-bis, comma 4, la comunicazione di una determinazione priva dei requisiti del comma 3 (congrua motivazione, formulazione in termini di assenso o dissenso, indicazione delle prescrizioni) equivale ad assenso senza condizioni.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 4", "text": "ovvero la comunicazione di una determinazione priva dei requisiti previsti dal comma 3, equivalgono ad assenso senza condizioni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Scaduto il termine per le determinazioni, l'amministrazione procedente ha acquisito esclusivamente atti di assenso non condizionato. Ai sensi dell'art. 14-bis, comma 5, della L. 241/1990, essa adotta la determinazione motivata di conclusione positiva della conferenza:",
+    "options": [
+      {"id": "a", "text": "entro trenta giorni", "why_wrong": "Trenta giorni è il termine massimo ordinario per le determinazioni delle amministrazioni (lett. c)."},
+      {"id": "b", "text": "senza termine, purché entro il termine finale del procedimento", "why_wrong": "Il comma 5 fissa un termine specifico di cinque giorni lavorativi."},
+      {"id": "c", "text": "entro cinque giorni lavorativi", "why_wrong": null},
+      {"id": "d", "text": "entro dieci giorni", "why_wrong": "Dieci giorni è il termine entro cui tenere l'eventuale riunione telematica (art. 14-bis, comma 2, lett. d)."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-bis, comma 5, prevede che, scaduto il termine della lett. c) del comma 2, l'amministrazione procedente adotti entro cinque giorni lavorativi la determinazione motivata di conclusione positiva, se ha acquisito esclusivamente assensi non condizionati o se le condizioni indicate possono essere accolte senza modifiche sostanziali.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 5", "text": "Scaduto il termine di cui al comma 2, lettera c), l'amministrazione procedente adotta, entro cinque giorni lavorativi, la determinazione motivata di conclusione positiva della conferenza"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In una conferenza semplificata relativa a un procedimento a istanza di parte, l'amministrazione procedente acquisisce un dissenso che non ritiene superabile e adotta la determinazione di conclusione negativa. Tale determinazione:",
+    "options": [
+      {"id": "a", "text": "obbliga l'amministrazione a indire una conferenza preliminare", "why_wrong": "La conferenza preliminare (art. 14, comma 3) precede la presentazione dell'istanza o del progetto definitivo."},
+      {"id": "b", "text": "produce l'effetto del rigetto della domanda e gli effetti della comunicazione dei motivi ostativi di cui all'art. 10-bis", "why_wrong": null},
+      {"id": "c", "text": "è trasmessa d'ufficio al Consiglio dei ministri per la decisione finale", "why_wrong": "Il Consiglio dei ministri interviene sulle opposizioni dell'art. 14-quinquies; la determinazione negativa produce l'effetto del rigetto."},
+      {"id": "d", "text": "non produce effetti finché il privato non presenta ricorso", "why_wrong": "Il comma 5 dell'art. 14-bis attribuisce direttamente alla determinazione negativa l'effetto del rigetto della domanda."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-bis, comma 5, prevede che, in presenza di dissensi ritenuti non superabili, l'amministrazione procedente adotti la determinazione di conclusione negativa, che produce l'effetto del rigetto della domanda; nei procedimenti a istanza di parte produce gli effetti della comunicazione dell'art. 10-bis.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 5", "text": "Qualora abbia acquisito uno o più atti di dissenso che non ritenga superabili, l'amministrazione procedente adotta, entro il medesimo termine, la determinazione di conclusione negativa della conferenza che produce l'effetto del rigetto della domanda. Nei procedimenti a istanza di parte la suddetta determinazione produce gli effetti della comunicazione di cui all'articolo 10-bis."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-bis, comma 7, della L. 241/1990, l'amministrazione procedente può procedere direttamente in forma simultanea e in modalità sincrona:",
+    "options": [
+      {"id": "a", "text": "solo se tutte le amministrazioni coinvolte vi acconsentono", "why_wrong": "Il comma 7 lascia la scelta all'amministrazione procedente, in relazione alla particolare complessità della determinazione."},
+      {"id": "b", "text": "solo su richiesta del Presidente del Consiglio dei ministri", "why_wrong": "La scelta spetta all'amministrazione procedente, eventualmente su richiesta motivata delle altre amministrazioni o del privato."},
+      {"id": "c", "text": "solo dopo la scadenza del termine per le determinazioni in forma semplificata", "why_wrong": "Il comma 7 consente di procedere direttamente in forma simultanea, senza passare per la forma semplificata."},
+      {"id": "d", "text": "ove necessario in relazione alla particolare complessità della determinazione da assumere, convocando la riunione entro i successivi trenta giorni", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-bis, comma 7, consente all'amministrazione procedente, in relazione alla particolare complessità della determinazione, di procedere direttamente in forma simultanea e sincrona, indicendo la conferenza e convocando la riunione entro i successivi trenta giorni.",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 7", "text": "Ove necessario, in relazione alla particolare complessità della determinazione da assumere, l'amministrazione procedente può comunque procedere direttamente in forma simultanea e in modalità sincrona, ai sensi dell'articolo 14-ter. In tal caso indice la conferenza comunicando alle altre amministrazioni le informazioni di cui alle lettere a) e b) del comma 2 e convocando la riunione entro i successivi trenta giorni."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il privato interessato ritiene che la conferenza debba svolgersi in forma simultanea. Ai sensi dell'art. 14-bis, comma 7, della L. 241/1990, la sua richiesta motivata deve essere avanzata:",
+    "options": [
+      {"id": "a", "text": "in qualsiasi momento, fino alla conclusione della conferenza", "why_wrong": "Il comma 7 richiede che la richiesta sia avanzata entro il termine perentorio del comma 2, lett. b)."},
+      {"id": "b", "text": "contestualmente all'istanza, a pena di inammissibilità", "why_wrong": "Il comma 7 rinvia al termine perentorio del comma 2, lett. b), non al momento della presentazione dell'istanza."},
+      {"id": "c", "text": "entro il termine perentorio previsto per le richieste di integrazioni documentali o chiarimenti", "why_wrong": null},
+      {"id": "d", "text": "entro dieci giorni dalla comunicazione della determinazione conclusiva", "why_wrong": "Dieci giorni dalla comunicazione della determinazione è il termine per l'opposizione delle amministrazioni dissenzienti (art. 14-quinquies, comma 1)."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-bis, comma 7, consente di procedere in forma simultanea anche su richiesta motivata delle altre amministrazioni o del privato interessato, avanzata entro il termine perentorio del comma 2, lett. b) (quello per le richieste di integrazioni).",
+    "evidence": [
+      {"ref": "art. 14-bis, comma 7", "text": "L'amministrazione procedente può altresì procedere in forma simultanea e in modalità sincrona su richiesta motivata delle altre amministrazioni o del privato interessato avanzata entro il termine perentorio di cui al comma 2, lettera b)."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-bis, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nella conferenza in forma simultanea, i lavori si concludono, di regola, non oltre:",
+    "options": [
+      {"id": "a", "text": "trenta giorni dalla data della prima riunione", "why_wrong": null},
+      {"id": "b", "text": "sessanta giorni dalla data della prima riunione, in ogni caso", "why_wrong": "Sessanta giorni vale, nei casi dell'art. 14-bis, comma 7, solo se sono coinvolte amministrazioni preposte a interessi sensibili; la regola è trenta giorni."},
+      {"id": "c", "text": "novanta giorni dall'indizione della conferenza", "why_wrong": "L'art. 14-ter, comma 2, fa decorrere il termine di trenta giorni dalla data della prima riunione."},
+      {"id": "d", "text": "quindici giorni dalla data della prima riunione", "why_wrong": "Quindici giorni rilevano nella fase di opposizione (art. 14-quinquies); il termine dei lavori è di trenta giorni."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14-ter, comma 2, stabilisce che i lavori della conferenza simultanea si concludono non oltre trenta giorni dalla data della prima riunione; il termine è di sessanta giorni, nei casi dell'art. 14-bis, comma 7, se sono coinvolte amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 2", "text": "I lavori della conferenza si concludono non oltre trenta giorni decorrenti dalla data della riunione di cui al comma 1."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-ter, comma 3, della L. 241/1990, ciascun ente o amministrazione convocato alla riunione della conferenza simultanea è rappresentato:",
+    "options": [
+      {"id": "a", "text": "da un delegato con funzioni solo consultive, salva la successiva ratifica dell'organo di governo", "why_wrong": "Il rappresentante è abilitato ad esprimere definitivamente e in modo vincolante la posizione dell'amministrazione, senza ratifiche."},
+      {"id": "b", "text": "dal responsabile del procedimento dell'amministrazione procedente", "why_wrong": "Ogni amministrazione convocata ha un proprio rappresentante unico."},
+      {"id": "c", "text": "da un unico soggetto abilitato ad esprimere definitivamente e in modo univoco e vincolante la posizione dell'amministrazione", "why_wrong": null},
+      {"id": "d", "text": "da tutti i dirigenti degli uffici competenti per materia", "why_wrong": "Il comma 3 prevede un unico soggetto per ciascun ente o amministrazione."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-ter, comma 3, prevede che ciascun ente o amministrazione sia rappresentato da un unico soggetto abilitato ad esprimere definitivamente, in modo univoco e vincolante, la posizione dell'amministrazione su tutte le decisioni di competenza della conferenza.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 3", "text": "Ciascun ente o amministrazione convocato alla riunione è rappresentato da un unico soggetto abilitato ad esprimere definitivamente e in modo univoco e vincolante la posizione dell'amministrazione stessa su tutte le decisioni di competenza della conferenza"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-021",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "A una conferenza simultanea indetta da un Comune partecipano, oltre al Comune stesso, soltanto amministrazioni statali periferiche. Ai sensi dell'art. 14-ter, comma 4, della L. 241/1990, le amministrazioni statali sono rappresentate da un unico soggetto nominato:",
+    "options": [
+      {"id": "a", "text": "dal Prefetto", "why_wrong": null},
+      {"id": "b", "text": "dal Presidente del Consiglio dei ministri", "why_wrong": "Il Presidente del Consiglio nomina il rappresentante unico statale in via generale; se si tratta soltanto di amministrazioni periferiche la nomina spetta al Prefetto."},
+      {"id": "c", "text": "dal Sindaco del Comune procedente", "why_wrong": "Il comma 4 attribuisce la nomina del rappresentante statale al Presidente del Consiglio o al Prefetto; il Comune designa solo il proprio rappresentante (comma 5)."},
+      {"id": "d", "text": "dal Ministro competente per materia", "why_wrong": "Il Ministro competente propone l'opposizione per le amministrazioni statali (art. 14-quinquies, comma 1), non nomina il rappresentante unico."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14-ter, comma 4, prevede che, se alla conferenza partecipano anche amministrazioni non statali, quelle statali siano rappresentate da un unico soggetto nominato dal Presidente del Consiglio dei ministri o, se si tratta soltanto di amministrazioni periferiche, dal Prefetto.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 4", "text": "dal Presidente del Consiglio dei ministri, ovvero, ove si tratti soltanto di amministrazioni periferiche, dal Prefetto."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-022",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-ter, comma 5, della L. 241/1990, le modalità di designazione del rappresentante unico di tutte le amministrazioni riconducibili a un ente locale sono definite:",
+    "options": [
+      {"id": "a", "text": "dal Prefetto", "why_wrong": "Il Prefetto nomina il rappresentante unico delle amministrazioni statali periferiche (comma 4), non quello degli enti locali."},
+      {"id": "b", "text": "con decreto del Presidente del Consiglio dei ministri", "why_wrong": "Il comma 5 riconosce a ciascuna regione e a ciascun ente locale l'autonomia nel definire le modalità di designazione."},
+      {"id": "c", "text": "dall'amministrazione procedente, nell'atto di indizione", "why_wrong": "Il comma 5 attribuisce la scelta a ciascuna regione e a ciascun ente locale, non all'amministrazione procedente."},
+      {"id": "d", "text": "autonomamente dallo stesso ente locale", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-ter, comma 5, stabilisce che ciascuna regione e ciascun ente locale definisce autonomamente le modalità di designazione del rappresentante unico di tutte le amministrazioni ad essi riconducibili.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 5", "text": "Ciascuna regione e ciascun ente locale definisce autonomamente le modalità di designazione del rappresentante unico di tutte le amministrazioni riconducibili alla stessa regione o allo stesso ente locale"}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-023",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Al termine di una conferenza simultanea, il rappresentante di un'amministrazione convocata non ha mai partecipato alle riunioni. Ai sensi dell'art. 14-ter, comma 7, della L. 241/1990:",
+    "options": [
+      {"id": "a", "text": "l'amministrazione procedente deve convocare una seconda riunione entro quindici giorni", "why_wrong": "Una seconda riunione entro quindici giorni è prevista nella fase di opposizione con le regioni (art. 14-quinquies, comma 5)."},
+      {"id": "b", "text": "si considera acquisito l'assenso senza condizioni di quell'amministrazione", "why_wrong": null},
+      {"id": "c", "text": "la conferenza non può concludersi senza il parere di quell'amministrazione", "why_wrong": "Il comma 7 considera acquisito l'assenso senza condizioni delle amministrazioni il cui rappresentante non abbia partecipato."},
+      {"id": "d", "text": "si considera espresso un dissenso, che impedisce la conclusione positiva", "why_wrong": "La mancata partecipazione equivale ad assenso senza condizioni, non a dissenso."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-ter, comma 7, considera acquisito l'assenso senza condizioni delle amministrazioni il cui rappresentante non abbia partecipato alle riunioni, non abbia espresso la propria posizione o abbia espresso un dissenso non motivato o estraneo all'oggetto della conferenza.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 7", "text": "Si considera acquisito l'assenso senza condizioni delle amministrazioni il cui rappresentante non abbia partecipato alle riunioni ovvero, pur partecipandovi, non abbia espresso ai sensi del comma 3 la propria posizione, ovvero abbia espresso un dissenso non motivato o riferito a questioni che non costituiscono oggetto della conferenza."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-024",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-ter, comma 7, della L. 241/1990, l'amministrazione procedente adotta la determinazione motivata di conclusione della conferenza simultanea:",
+    "options": [
+      {"id": "a", "text": "solo in presenza dell'unanimità delle amministrazioni partecipanti", "why_wrong": "Il comma 7 fa riferimento alle posizioni prevalenti; l'unanimità rileva solo per l'immediata efficacia della determinazione (art. 14-quater, comma 3)."},
+      {"id": "b", "text": "sulla base della maggioranza numerica dei voti espressi", "why_wrong": "La legge richiama le posizioni prevalenti, non un criterio di voto a maggioranza numerica."},
+      {"id": "c", "text": "sulla base del solo parere dell'amministrazione statale", "why_wrong": "La determinazione tiene conto delle posizioni prevalenti di tutte le amministrazioni partecipanti."},
+      {"id": "d", "text": "sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti tramite i rispettivi rappresentanti", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-ter, comma 7, prevede che, all'esito dell'ultima riunione e comunque entro il termine del comma 2, l'amministrazione procedente adotti la determinazione motivata di conclusione della conferenza sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti.",
+    "evidence": [
+      {"ref": "art. 14-ter, comma 7", "text": "l'amministrazione procedente adotta la determinazione motivata di conclusione della conferenza, con gli effetti di cui all'articolo 14-quater, sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti alla conferenza tramite i rispettivi rappresentanti."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-ter, comma 7", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-025",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-quater della L. 241/1990, la determinazione motivata di conclusione della conferenza:",
+    "options": [
+      {"id": "a", "text": "acquista efficacia solo dopo l'approvazione del Consiglio dei ministri", "why_wrong": "Il Consiglio dei ministri interviene solo in caso di opposizione e mancata intesa (art. 14-quinquies)."},
+      {"id": "b", "text": "sostituisce a ogni effetto tutti gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati", "why_wrong": null},
+      {"id": "c", "text": "costituisce un semplice atto istruttorio, cui devono seguire i singoli atti di assenso delle amministrazioni", "why_wrong": "Il comma 1 dispone che la determinazione sostituisce a ogni effetto tutti gli atti di assenso."},
+      {"id": "d", "text": "sostituisce gli atti di assenso delle sole amministrazioni statali", "why_wrong": "La sostituzione riguarda gli atti di tutte le amministrazioni e dei gestori di beni o servizi pubblici interessati."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-quater, comma 1, stabilisce che la determinazione motivata di conclusione della conferenza sostituisce a ogni effetto tutti gli atti di assenso di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati.",
+    "evidence": [
+      {"ref": "art. 14-quater, comma 1", "text": "La determinazione motivata di conclusione della conferenza, adottata dall'amministrazione procedente all'esito della stessa, sostituisce a ogni effetto tutti gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quater, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-026",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Una conferenza di servizi si conclude con approvazione unanime delle amministrazioni partecipanti. Ai sensi dell'art. 14-quater, comma 3, della L. 241/1990, la determinazione conclusiva è:",
+    "options": [
+      {"id": "a", "text": "immediatamente efficace", "why_wrong": null},
+      {"id": "b", "text": "efficace decorsi dieci giorni dalla sua comunicazione", "why_wrong": "Dieci giorni è il termine per proporre opposizione (art. 14-quinquies, comma 1); in caso di approvazione unanime la determinazione è immediatamente efficace."},
+      {"id": "c", "text": "sospesa fino alla decisione del Consiglio dei ministri", "why_wrong": "La sospensione riguarda le determinazioni adottate sulla base delle posizioni prevalenti in presenza di dissensi qualificati."},
+      {"id": "d", "text": "efficace solo dopo la pubblicazione in \"Amministrazione trasparente\"", "why_wrong": "L'art. 14-quater, comma 3, dispone l'immediata efficacia in caso di approvazione unanime."}
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14-quater, comma 3, prevede che, in caso di approvazione unanime, la determinazione conclusiva sia immediatamente efficace; se adottata sulla base delle posizioni prevalenti, la sua efficacia è sospesa ove siano stati espressi dissensi qualificati, per il periodo utile ai rimedi dell'art. 14-quinquies.",
+    "evidence": [
+      {"ref": "art. 14-quater, comma 3", "text": "In caso di approvazione unanime, la determinazione di cui al comma 1 è immediatamente efficace."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quater, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-027",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-quater, comma 4, della L. 241/1990, i termini di efficacia di pareri, autorizzazioni, concessioni e nulla osta acquisiti nell'ambito della conferenza di servizi decorrono:",
+    "options": [
+      {"id": "a", "text": "dalla data della prima riunione della conferenza", "why_wrong": "Il comma 4 individua come dies a quo la comunicazione della determinazione conclusiva."},
+      {"id": "b", "text": "dalla data di indizione della conferenza", "why_wrong": "La decorrenza è fissata dalla comunicazione della determinazione conclusiva."},
+      {"id": "c", "text": "dalla data della comunicazione della determinazione motivata di conclusione della conferenza", "why_wrong": null},
+      {"id": "d", "text": "dalla data in cui ciascun atto è stato reso in conferenza", "why_wrong": "Il comma 4 fa decorrere i termini di efficacia di tutti gli atti acquisiti dalla comunicazione della determinazione conclusiva."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-quater, comma 4, stabilisce che i termini di efficacia di tutti gli atti di assenso acquisiti in conferenza decorrono dalla data della comunicazione della determinazione motivata di conclusione.",
+    "evidence": [
+      {"ref": "art. 14-quater, comma 4", "text": "I termini di efficacia di tutti i pareri, autorizzazioni, concessioni, nulla osta o atti di assenso comunque denominati acquisiti nell'ambito della conferenza di servizi decorrono dalla data della comunicazione della determinazione motivata di conclusione della conferenza."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quater, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-028",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un'amministrazione preposta alla tutela paesaggistica ha espresso in modo inequivoco un motivato dissenso prima della conclusione dei lavori, ma la conferenza si è conclusa con una determinazione favorevole. Ai sensi dell'art. 14-quinquies della L. 241/1990, essa può:",
+    "options": [
+      {"id": "a", "text": "adottare direttamente un provvedimento che annulla la determinazione conclusiva", "why_wrong": "Le amministrazioni i cui atti sono sostituiti possono solo sollecitare l'amministrazione procedente ad agire in autotutela (art. 14-quater, comma 2)."},
+      {"id": "b", "text": "proporre opposizione al Presidente del Consiglio dei ministri entro dieci giorni dalla comunicazione della determinazione", "why_wrong": null},
+      {"id": "c", "text": "proporre opposizione al Prefetto entro trenta giorni dalla comunicazione della determinazione", "why_wrong": "L'opposizione si propone al Presidente del Consiglio dei ministri entro dieci giorni; il Prefetto rileva per la nomina del rappresentante statale periferico (art. 14-ter, comma 4)."},
+      {"id": "d", "text": "chiedere all'amministrazione procedente di indire una conferenza preliminare", "why_wrong": "La conferenza preliminare (art. 14, comma 3) precede la presentazione del progetto definitivo e non è un rimedio contro la determinazione conclusiva."}
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14-quinquies, comma 1, consente alle amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali o della salute e della pubblica incolumità di proporre opposizione al Presidente del Consiglio dei ministri entro dieci giorni dalla comunicazione della determinazione, purché abbiano espresso in modo inequivoco il proprio motivato dissenso prima della conclusione dei lavori.",
+    "evidence": [
+      {"ref": "art. 14-quinquies, comma 1", "text": "Avverso la determinazione motivata di conclusione della conferenza, entro 10 giorni dalla sua comunicazione, le amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali o alla tutela della salute e della pubblica incolumità dei cittadini possono proporre opposizione al Presidente del Consiglio dei ministri a condizione che abbiano espresso in modo inequivoco il proprio motivato dissenso prima della conclusione dei lavori della conferenza."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quinquies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-029",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai sensi dell'art. 14-quinquies della L. 241/1990, quale effetto produce la proposizione dell'opposizione avverso la determinazione motivata di conclusione della conferenza?",
+    "options": [
+      {"id": "a", "text": "Annulla la determinazione, che deve essere riadottata", "why_wrong": "Il comma 3 prevede la sospensione dell'efficacia, non l'annullamento."},
+      {"id": "b", "text": "Nessun effetto finché il Consiglio dei ministri non si pronuncia", "why_wrong": "La sospensione dell'efficacia è effetto diretto della proposizione dell'opposizione."},
+      {"id": "c", "text": "Rende definitivamente efficace la determinazione", "why_wrong": "La determinazione acquisisce definitivamente efficacia solo se il Consiglio dei ministri non accoglie l'opposizione (comma 6)."},
+      {"id": "d", "text": "Sospende l'efficacia della determinazione", "why_wrong": null}
+    ],
+    "correct": "d",
+    "explanation": "L'art. 14-quinquies, comma 3, stabilisce che la proposizione dell'opposizione sospende l'efficacia della determinazione motivata di conclusione della conferenza.",
+    "evidence": [
+      {"ref": "art. 14-quinquies, comma 3", "text": "La proposizione dell'opposizione sospende l'efficacia della determinazione motivata di conclusione della conferenza."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quinquies, comma 3", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "l241-c4cds-030",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Dopo un'opposizione, le riunioni indette dalla Presidenza del Consiglio dei ministri si concludono senza intesa. Ai sensi dell'art. 14-quinquies, comma 6, della L. 241/1990, se il Consiglio dei ministri non accoglie l'opposizione:",
+    "options": [
+      {"id": "a", "text": "l'amministrazione procedente deve adottare una nuova determinazione", "why_wrong": "Una nuova determinazione è adottata quando nelle riunioni si raggiunge un'intesa; se il Consiglio dei ministri respinge l'opposizione, la determinazione originaria diventa definitivamente efficace."},
+      {"id": "b", "text": "la questione è rimessa al Presidente della Repubblica", "why_wrong": "Il comma 6 attribuisce la decisione finale al Consiglio dei ministri."},
+      {"id": "c", "text": "la determinazione motivata di conclusione della conferenza acquisisce definitivamente efficacia", "why_wrong": null},
+      {"id": "d", "text": "la determinazione decade e il procedimento deve essere riavviato", "why_wrong": "Il comma 6 prevede che, se l'opposizione non è accolta, la determinazione acquisisce definitivamente efficacia."}
+    ],
+    "correct": "c",
+    "explanation": "L'art. 14-quinquies, comma 6, prevede che, se l'intesa non è raggiunta, la questione è rimessa al Consiglio dei ministri; se questo non accoglie l'opposizione, la determinazione acquisisce definitivamente efficacia, mentre può anche accoglierla parzialmente, modificandone il contenuto.",
+    "evidence": [
+      {"ref": "art. 14-quinquies, comma 6", "text": "Qualora il Consiglio dei ministri non accolga l'opposizione, la determinazione motivata di conclusione della conferenza acquisisce definitivamente efficacia."}
+    ],
+    "source": {"act": "L. 241/1990", "article": "art. 14-quinquies, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
