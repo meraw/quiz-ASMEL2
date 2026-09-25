@@ -1,0 +1,366 @@
+[
+  {
+    "id": "re-pag-001",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, lo Stato membro può presentare, per programma, per fondo e per periodo contabile, al massimo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "quattro domande di pagamento",
+        "why_wrong": "L'art. 91, par. 1, consente fino a sei domande di pagamento."
+      },
+      {
+        "id": "b",
+        "text": "sei domande di pagamento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "dodici domande di pagamento, una al mese",
+        "why_wrong": "L'art. 91, par. 1, consente fino a sei domande, nei periodi delimitati da 28 febbraio, 31 maggio, 31 luglio, 31 ottobre, 30 novembre e 31 dicembre."
+      },
+      {
+        "id": "d",
+        "text": "una sola domanda di pagamento, entro il 31 luglio",
+        "why_wrong": "Il 31 luglio individua la domanda finale per il periodo contabile chiuso il 30 giugno, ma le domande possono essere fino a sei (art. 91, par. 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 91, par. 1, consente allo Stato membro di presentare al massimo sei domande di pagamento per programma, per fondo e per periodo contabile. L'ultima domanda presentata entro il 31 luglio si considera domanda di pagamento finale per il periodo contabile terminato il 30 giugno.",
+    "evidence": [
+      {
+        "ref": "art. 91 Reg. 2021/1060, par. 1",
+        "text": "Lo Stato membro presenta al massimo sei domande di pagamento per programma, per fondo e per periodo contabile."
+      },
+      {
+        "ref": "art. 91 Reg. 2021/1060, par. 1",
+        "text": "L’ultima domanda di pagamento presentata entro il 31 luglio si considera domanda di pagamento finale per il periodo contabile terminato il 30 giugno."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 91 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-002",
+    "subject": "rendicontazione-ue",
+    "question": "In base al Regolamento (UE) 2021/1060, a titolo di pagamenti intermedi la Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rimborsa il 100 % degli importi richiesti entro 80 giorni",
+        "why_wrong": "La Commissione rimborsa il 95 % entro 60 giorni (art. 93, par. 1 e 2); 80 giorni è il termine per i pagamenti dell'autorità di gestione ai beneficiari (art. 74, par. 1, lett. b))."
+      },
+      {
+        "id": "b",
+        "text": "rimborsa il 90 % degli importi, trattenendo il 10 % fino alla chiusura del programma",
+        "why_wrong": "La quota rimborsata è il 95 % (art. 93, par. 2); il 10 % è la maggiorazione che può essere richiesta nei casi dell'art. 93, par. 6."
+      },
+      {
+        "id": "c",
+        "text": "versa lo 0,5 % del sostegno totale a titolo di prefinanziamento",
+        "why_wrong": "Il prefinanziamento è una tipologia di pagamento distinta dai pagamenti intermedi (art. 89), versato in rate annuali (art. 90, par. 2)."
+      },
+      {
+        "id": "d",
+        "text": "rimborsa, entro 60 giorni dal ricevimento della domanda, il 95 % degli importi figuranti nella domanda di pagamento",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 93 stabilisce che la Commissione effettua i pagamenti intermedi entro 60 giorni dal ricevimento della domanda di pagamento (par. 1) e rimborsa il 95 % degli importi figuranti nella domanda, ottenuto applicando il tasso di cofinanziamento di ciascuna priorità; gli importi residui sono determinati nel calcolo del saldo dei conti (par. 2).",
+    "evidence": [
+      {
+        "ref": "art. 93 Reg. 2021/1060, par. 2",
+        "text": "A titolo di pagamenti intermedi la Commissione rimborsa il 95 % degli importi figuranti nella domanda di pagamento, ottenuto applicando il tasso di cofinanziamento per ciascuna priorità al totale delle spese ammissibili o al contributo pubblico, a seconda dei casi."
+      },
+      {
+        "ref": "art. 93 Reg. 2021/1060, par. 1",
+        "text": "la Commissione effettua i pagamenti intermedi entro 60 giorni dalla data di ricevimento della domanda di pagamento da parte della Commissione."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 93 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-003",
+    "subject": "rendicontazione-ue",
+    "question": "Il «pacchetto di affidabilità» previsto dal Regolamento (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è presentato entro il 31 luglio e comprende la domanda di pagamento finale",
+        "why_wrong": "Il 31 luglio è il termine per la domanda di pagamento finale del periodo contabile (art. 91, par. 1); il pacchetto è presentato entro il 15 febbraio (art. 98, par. 1)."
+      },
+      {
+        "id": "b",
+        "text": "è presentato entro il 31 maggio e comprende la strategia di audit",
+        "why_wrong": "Entro il 31 maggio la Commissione esamina i conti (art. 99); la strategia di audit è presentata alla Commissione su richiesta (art. 78, par. 2)."
+      },
+      {
+        "id": "c",
+        "text": "è presentato entro il 15 febbraio e comprende i conti, la dichiarazione di gestione, il parere di audit annuale e la relazione annuale di controllo, riferiti al periodo contabile precedente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è presentato entro il 30 giugno e comprende il piano di finanziamento modificato",
+        "why_wrong": "Il 30 giugno è il termine per presentare il piano di finanziamento modificato nella procedura di disimpegno (art. 107, par. 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 98, par. 1, prevede che, per ciascun periodo contabile per il quale sono state presentate domande di pagamento, lo Stato membro presenti alla Commissione entro il 15 febbraio il pacchetto di affidabilità relativo al periodo contabile precedente: conti, dichiarazione di gestione, parere di audit annuale e relazione annuale di controllo. Il termine può essere prorogato eccezionalmente al 1° marzo (par. 2).",
+    "evidence": [
+      {
+        "ref": "art. 98 Reg. 2021/1060, par. 1",
+        "text": "Per ciascun periodo contabile per il quale sono state presentate domande di pagamento lo Stato membro presenta alla Commissione entro il 15 febbraio i seguenti documenti («pacchetto di affidabilità») riferiti al periodo contabile precedente: a) i conti in conformità del modello riportato nell’allegato XXIV; b) la dichiarazione di gestione di cui all’articolo 74, paragrafo 1, lettera f), in conformità del modello riportato nell’allegato XVIII; c) il parere di audit annuale di cui all’articolo 77, paragrafo 3, lettera a), in conformità del modello riportato nell’allegato XIX; d) la relazione annuale di controllo"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 98 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-004",
+    "subject": "rendicontazione-ue",
+    "question": "Nel predisporre i conti di un programma, lo Stato membro rileva che il tasso di errore residuo delle spese incluse nei conti supera il 2 %. Secondo il Regolamento (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i conti restano ammissibili, purché l'autorità di audit emetta un parere con riserve",
+        "why_wrong": "Ai sensi dell'art. 98, par. 5, i conti non sono ammissibili se non sono state adottate le azioni correttive per ridurre il tasso di errore residuo al 2 % o meno."
+      },
+      {
+        "id": "b",
+        "text": "lo Stato membro detrae dai conti gli importi necessari per ridurre il tasso di errore residuo a un livello pari o inferiore al 2 %",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "la Commissione sospende automaticamente tutti i pagamenti del programma",
+        "why_wrong": "La sospensione non è automatica: la Commissione «può» sospendere i pagamenti nei casi dell'art. 97, par. 1, dopo aver dato allo Stato membro la possibilità di presentare osservazioni."
+      },
+      {
+        "id": "d",
+        "text": "lo Stato membro può presentare i conti entro il 1° marzo senza alcuna detrazione",
+        "why_wrong": "Il 1° marzo è il termine a cui la Commissione può eccezionalmente prorogare la presentazione (art. 98, par. 2); non esonera dalle detrazioni del par. 6."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 98, par. 5, stabilisce che i conti non sono ammissibili se lo Stato membro non ha adottato le azioni correttive necessarie per ridurre il tasso di errore residuo a un livello pari o inferiore al 2 %. Il par. 6, lett. c), impone di detrarre dai conti gli importi necessari a tale riduzione.",
+    "evidence": [
+      {
+        "ref": "art. 98 Reg. 2021/1060, par. 5",
+        "text": "I conti non sono ammissibili se gli Stati membri non hanno adottato le azioni correttive necessarie per ridurre a un livello pari o inferiore al 2 % il tasso di errore residuo in merito alla legittimità e regolarità delle spese incluse nei conti."
+      },
+      {
+        "ref": "art. 98 Reg. 2021/1060, par. 6",
+        "text": "c) gli altri importi necessari per ridurre il tasso di errore residuo delle spese dichiarate nei conti a un livello pari o inferiore al 2 %."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 98 Reg. 2021/1060, par. 6",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-005",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi del Regolamento (UE) 2021/1060, costituisce «irregolarità»:",
+    "options": [
+      {
+        "id": "a",
+        "text": "soltanto la violazione commessa con dolo al fine di ottenere indebitamente i fondi",
+        "why_wrong": "La definizione dell'art. 2, punto 31, comprende qualsiasi violazione del diritto applicabile derivante da un'azione o un'omissione; l'art. 69, par. 2, parla di «irregolarità, comprese le frodi»."
+      },
+      {
+        "id": "b",
+        "text": "la carenza nel funzionamento efficace del sistema di gestione e controllo per la quale sono necessari miglioramenti sostanziali",
+        "why_wrong": "È la definizione di «carenza grave» (art. 2, punto 32)."
+      },
+      {
+        "id": "c",
+        "text": "soltanto la violazione che abbia già arrecato un effettivo pregiudizio al bilancio dell'Unione",
+        "why_wrong": "La definizione comprende la violazione che «ha o può avere» come conseguenza un pregiudizio al bilancio dell'Unione (art. 2, punto 31)."
+      },
+      {
+        "id": "d",
+        "text": "qualsiasi violazione del diritto applicabile, derivante da un'azione o un'omissione di un operatore economico, che ha o può avere come conseguenza un pregiudizio al bilancio dell'Unione imputando a tale bilancio una spesa indebita",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2, punto 31, definisce irregolarità qualsiasi violazione del diritto applicabile, derivante da un'azione o da un'omissione di un operatore economico, che ha o può avere come conseguenza un pregiudizio al bilancio dell'Unione mediante l'imputazione di una spesa indebita. È «sistemica» l'irregolarità di natura ricorrente che deriva da una carenza grave (punto 33).",
+    "evidence": [
+      {
+        "ref": "art. 2 Reg. 2021/1060, punto 31",
+        "text": "«irregolarità»: qualsiasi violazione del diritto applicabile, derivante da un’azione o un’omissione di un operatore economico, che ha o può avere come conseguenza un pregiudizio al bilancio dell’Unione imputando a tale bilancio una spesa indebita;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 2 Reg. 2021/1060, punto 31",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-006",
+    "subject": "rendicontazione-ue",
+    "question": "Uno Stato membro accerta che le spese dichiarate per un'operazione, che non comprende strumenti finanziari, sono irregolari per un'irregolarità isolata, non sistemica, e sopprime il relativo sostegno dei fondi. Secondo il Regolamento (UE) 2021/1060, il sostegno soppresso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere reimpiegato nell'ambito del programma interessato, ma non per l'operazione oggetto della rettifica",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "deve essere restituito in ogni caso al bilancio dell'Unione",
+        "why_wrong": "L'art. 103, par. 3, consente allo Stato membro di reimpiegare il sostegno soppresso nell'ambito del programma."
+      },
+      {
+        "id": "c",
+        "text": "può essere reimpiegato anche per la stessa operazione, una volta sanata l'irregolarità",
+        "why_wrong": "L'art. 103, par. 3, esclude dal reimpiego l'operazione oggetto della rettifica."
+      },
+      {
+        "id": "d",
+        "text": "può essere reimpiegato solo dopo una decisione della Commissione adottata entro dieci mesi dall'audizione",
+        "why_wrong": "Il termine di dieci mesi dall'audizione riguarda le rettifiche finanziarie decise dalla Commissione (art. 104, par. 4)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 103 prevede che lo Stato membro applichi rettifiche finanziarie sopprimendo in tutto o in parte il sostegno dei fondi quando le spese dichiarate risultano irregolari (par. 1). Il sostegno soppresso può essere reimpiegato nell'ambito del programma, esclusa l'operazione oggetto della rettifica o, in caso di irregolarità sistemica, le operazioni da essa interessate (par. 3).",
+    "evidence": [
+      {
+        "ref": "art. 103 Reg. 2021/1060, par. 3",
+        "text": "Il sostegno dei fondi soppresso può essere reimpiegato dallo Stato membro nell’ambito del programma interessato, a esclusione dell’operazione oggetto della rettifica in questione"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 103 Reg. 2021/1060, par. 3",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-007",
+    "subject": "rendicontazione-ue",
+    "question": "L'autorità di gestione effettua l'ultimo pagamento al beneficiario di un'operazione il 10 marzo 2027. Fatte salve le norme sugli aiuti di Stato e in assenza di procedimenti giudiziari o di richieste della Commissione, i documenti giustificativi dell'operazione devono essere conservati fino al:",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 marzo 2032",
+        "why_wrong": "Il periodo di cinque anni decorre dal 31 dicembre dell'anno dell'ultimo pagamento, non dalla data del pagamento (art. 82, par. 1)."
+      },
+      {
+        "id": "b",
+        "text": "31 dicembre 2030",
+        "why_wrong": "Il periodo di conservazione è di cinque anni (art. 82, par. 1); tre anni civili è il limite entro cui la Commissione effettua audit dopo l'accettazione dei conti (art. 70, par. 2)."
+      },
+      {
+        "id": "c",
+        "text": "31 dicembre 2032",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "31 dicembre 2037",
+        "why_wrong": "L'art. 82, par. 1, prevede un periodo di cinque anni, non di dieci."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 82, par. 1, impone all'autorità di gestione di garantire che i documenti giustificativi siano conservati per cinque anni a decorrere dal 31 dicembre dell'anno in cui è effettuato l'ultimo pagamento al beneficiario: dal 31 dicembre 2027 il termine scade il 31 dicembre 2032.",
+    "evidence": [
+      {
+        "ref": "art. 82 Reg. 2021/1060, par. 1",
+        "text": "Fatte salve le norme in materia di aiuti di Stato, l’autorità di gestione garantisce che tutti i documenti giustificativi riguardanti un’operazione sostenuta dai fondi siano conservati al livello opportuno per un periodo di cinque anni a decorrere dal 31 dicembre dell’anno in cui è effettuato l’ultimo pagamento dell’autorità di gestione al beneficiario."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 82 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-pag-008",
+    "subject": "rendicontazione-ue",
+    "question": "Il periodo di conservazione dei documenti giustificativi di un'operazione, previsto dal Regolamento (UE) 2021/1060, si interrompe:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ogni volta che l'autorità di gestione effettua una verifica di gestione in loco",
+        "why_wrong": "L'art. 82, par. 2, prevede l'interruzione solo in caso di procedimento giudiziario o su richiesta della Commissione."
+      },
+      {
+        "id": "b",
+        "text": "in caso di procedimento giudiziario o su richiesta della Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "su richiesta motivata del beneficiario",
+        "why_wrong": "L'art. 82, par. 2, prevede l'interruzione solo in caso di procedimento giudiziario o su richiesta della Commissione."
+      },
+      {
+        "id": "d",
+        "text": "in caso di modifica del programma",
+        "why_wrong": "L'art. 82, par. 2, prevede l'interruzione solo in caso di procedimento giudiziario o su richiesta della Commissione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 82, par. 2, stabilisce che il periodo quinquennale di conservazione dei documenti si interrompe in caso di procedimento giudiziario o su richiesta della Commissione.",
+    "evidence": [
+      {
+        "ref": "art. 82 Reg. 2021/1060, par. 2",
+        "text": "Il periodo di cui al paragrafo 1 si interrompe in caso di procedimento giudiziario o su richiesta della Commissione."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 82 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

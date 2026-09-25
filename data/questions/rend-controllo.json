@@ -1,0 +1,546 @@
+[
+  {
+    "id": "re-con-001",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi del Regolamento (UE) 2021/1060, per ciascun programma lo Stato membro individua:",
+    "options": [
+      {
+        "id": "a",
+        "text": "un'autorità di gestione e un organismo intermedio",
+        "why_wrong": "Gli organismi intermedi sono facoltativi: è l'autorità di gestione che «può» individuarli (art. 71, par. 3)."
+      },
+      {
+        "id": "b",
+        "text": "soltanto un'autorità di gestione, che svolge anche le attività di audit",
+        "why_wrong": "L'art. 71, par. 1, richiede anche un'autorità di audit e il par. 4 impone la separazione delle funzioni tra le autorità del programma."
+      },
+      {
+        "id": "c",
+        "text": "un'autorità di gestione e un'autorità di audit",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "un'unica autorità per tutti i programmi, designata dalla Commissione",
+        "why_wrong": "Le autorità sono individuate dallo Stato membro; le stesse autorità «possono» essere responsabili di più programmi (art. 71, par. 1)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 71, par. 1, stabilisce che lo Stato membro individua per ciascun programma un'autorità di gestione e un'autorità di audit. Se la funzione contabile è affidata a un organismo diverso dall'autorità di gestione, anche tale organismo è individuato come autorità del programma. Le stesse autorità possono essere responsabili di più programmi.",
+    "evidence": [
+      {
+        "ref": "art. 71 Reg. 2021/1060, par. 1",
+        "text": "lo Stato membro individua per ciascun programma un’autorità di gestione e un’autorità di audit."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 71 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-002",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, l'autorità di audit:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere un soggetto privato, purché funzionalmente indipendente dai soggetti sottoposti all'audit",
+        "why_wrong": "L'art. 71, par. 2, stabilisce che l'autorità di audit è un'autorità pubblica; solo le attività di audit possono essere svolte da un organismo privato, sotto la sua responsabilità."
+      },
+      {
+        "id": "b",
+        "text": "deve svolgere direttamente tutte le attività di audit, senza avvalersi di altri organismi",
+        "why_wrong": "L'art. 71, par. 2, consente che le attività di audit siano svolte da un organismo pubblico o privato diverso dall'autorità di audit."
+      },
+      {
+        "id": "c",
+        "text": "è individuata dall'autorità di gestione tra i propri uffici",
+        "why_wrong": "L'autorità di audit è individuata dallo Stato membro (art. 71, par. 1) ed è funzionalmente indipendente dai soggetti sottoposti all'audit (art. 71, par. 2)."
+      },
+      {
+        "id": "d",
+        "text": "è un'autorità pubblica, ma le attività di audit possono essere svolte da un organismo pubblico o privato diverso, sotto la sua responsabilità",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 71, par. 2, qualifica l'autorità di audit come autorità pubblica. Le attività di audit possono essere svolte da un organismo pubblico o privato diverso, sotto la responsabilità dell'autorità di audit; l'autorità e gli organismi di cui si avvale sono funzionalmente indipendenti dai soggetti sottoposti all'audit.",
+    "evidence": [
+      {
+        "ref": "art. 71 Reg. 2021/1060, par. 2",
+        "text": "L’autorità di audit è un’autorità pubblica. Le attività di audit possono essere svolte da un organismo pubblico o privato diverso dall’autorità di audit, sotto la responsabilità di quest’ultima."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 71 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-003",
+    "subject": "rendicontazione-ue",
+    "question": "In base al Regolamento (UE) 2021/1060, gli organismi intermedi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono individuati dall'autorità di gestione per svolgere determinati compiti sotto la sua responsabilità, e i relativi accordi sono registrati per iscritto",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sono individuati dalla Commissione su proposta dello Stato membro",
+        "why_wrong": "Secondo l'art. 71, par. 3, è l'autorità di gestione che può individuare gli organismi intermedi."
+      },
+      {
+        "id": "c",
+        "text": "svolgono i compiti affidati sotto la propria esclusiva responsabilità, sollevandone l'autorità di gestione",
+        "why_wrong": "I compiti sono svolti sotto la responsabilità dell'autorità di gestione (art. 71, par. 3), che deve supervisionare gli organismi intermedi (art. 72, par. 1, lett. d))."
+      },
+      {
+        "id": "d",
+        "text": "devono essere necessariamente organismi pubblici",
+        "why_wrong": "L'art. 2, punto 8, definisce l'organismo intermedio come «un organismo pubblico o privato»."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 71, par. 3, consente all'autorità di gestione di individuare uno o più organismi intermedi che svolgano determinati compiti sotto la sua responsabilità; gli accordi tra autorità di gestione e organismi intermedi sono registrati per iscritto.",
+    "evidence": [
+      {
+        "ref": "art. 71 Reg. 2021/1060, par. 3",
+        "text": "L’autorità di gestione può individuare uno o più organismi intermedi che svolgano determinati compiti sotto la sua responsabilità. Gli accordi tra l’autorità di gestione e gli organismi intermedi sono registrati per iscritto."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 71 Reg. 2021/1060, par. 3",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-004",
+    "subject": "rendicontazione-ue",
+    "question": "Nel sistema di gestione e controllo previsto dal Regolamento (UE) 2021/1060, rientra nella funzione contabile:",
+    "options": [
+      {
+        "id": "a",
+        "text": "eseguire le verifiche di gestione sulle domande di pagamento presentate dai beneficiari",
+        "why_wrong": "Le verifiche di gestione spettano all'autorità di gestione (art. 74, par. 1, lett. a)) e la funzione contabile non comprende le verifiche a livello di beneficiari (art. 76, par. 2)."
+      },
+      {
+        "id": "b",
+        "text": "selezionare le operazioni da finanziare",
+        "why_wrong": "La selezione delle operazioni è una funzione dell'autorità di gestione (art. 72, par. 1, lett. a))."
+      },
+      {
+        "id": "c",
+        "text": "redigere e presentare le domande di pagamento alla Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "redigere il parere di audit annuale",
+        "why_wrong": "Il parere di audit annuale è redatto dall'autorità di audit (art. 77, par. 3, lett. a))."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Ai sensi dell'art. 76, par. 1, rientrano nella funzione contabile la redazione e presentazione delle domande di pagamento alla Commissione, la redazione e presentazione dei conti e la conversione in euro delle spese sostenute in altra valuta. La funzione contabile non comprende le verifiche a livello di beneficiari (par. 2).",
+    "evidence": [
+      {
+        "ref": "art. 76 Reg. 2021/1060, par. 1",
+        "text": "Rientrano nella funzione contabile i compiti seguenti: a) redigere e presentare le domande di pagamento alla Commissione in conformità degli articoli 91 e 92;"
+      },
+      {
+        "ref": "art. 76 Reg. 2021/1060, par. 2",
+        "text": "La funzione contabile non comprende le verifiche a livello di beneficiari."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 76 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-005",
+    "subject": "rendicontazione-ue",
+    "question": "Un Comune, beneficiario di un'operazione cofinanziata dal FESR, presenta la propria domanda di pagamento all'autorità di gestione. Subordinatamente alla disponibilità di finanziamento e salvo interruzione del termine, l'autorità di gestione deve garantire che il Comune riceva l'importo dovuto integralmente entro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "60 giorni dalla data di presentazione della domanda di pagamento",
+        "why_wrong": "60 giorni è il termine entro cui la Commissione effettua i pagamenti intermedi allo Stato membro (art. 93, par. 1)."
+      },
+      {
+        "id": "b",
+        "text": "80 giorni dalla data di presentazione della domanda di pagamento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "90 giorni dalla data di presentazione della domanda di pagamento",
+        "why_wrong": "L'art. 74, par. 1, lett. b), fissa il termine in 80 giorni."
+      },
+      {
+        "id": "d",
+        "text": "sei mesi dalla data di presentazione della domanda di pagamento",
+        "why_wrong": "Sei mesi è il periodo massimo per cui la Commissione può interrompere il termine di pagamento allo Stato membro (art. 96, par. 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 74, par. 1, lett. b), obbliga l'autorità di gestione a garantire, subordinatamente alla disponibilità di finanziamento, che ciascun beneficiario riceva l'importo dovuto integralmente ed entro 80 giorni dalla presentazione della domanda di pagamento. Il termine può essere interrotto se le informazioni presentate non consentono di stabilire se l'importo è dovuto.",
+    "evidence": [
+      {
+        "ref": "art. 74 Reg. 2021/1060, par. 1",
+        "text": "garantisce, subordinatamente alla disponibilità di finanziamento, che ciascun beneficiario riceva l’importo dovuto integralmente ed entro 80 giorni dalla data della presentazione della domanda di pagamento da parte del beneficiario; il termine può essere interrotto se le informazioni presentate dal beneficiario non consentono all’autorità di gestione di stabilire se l’importo è dovuto;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 74 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-006",
+    "subject": "rendicontazione-ue",
+    "question": "L'autorità di gestione di un programma intende trattenere l'1 % di ogni pagamento dovuto ai beneficiari a titolo di rimborso delle spese di istruttoria. Alla luce del Regolamento (UE) 2021/1060, la trattenuta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è consentita, se prevista nel documento che specifica le condizioni per il sostegno",
+        "why_wrong": "Il divieto dell'art. 74, par. 1, secondo comma, non prevede eccezioni legate al documento che specifica le condizioni per il sostegno."
+      },
+      {
+        "id": "b",
+        "text": "è consentita entro il limite del 7 % dei costi diretti ammissibili",
+        "why_wrong": "Il 7 % dei costi diretti ammissibili è il tasso forfettario per i costi indiretti dell'operazione (art. 54, lett. a)), non una ritenuta sui pagamenti."
+      },
+      {
+        "id": "c",
+        "text": "è consentita solo previa approvazione del comitato di sorveglianza",
+        "why_wrong": "L'approvazione del comitato di sorveglianza riguarda l'esenzione di operazioni di ricerca e innovazione dall'obbligo di usare opzioni semplificate (art. 53, par. 2)."
+      },
+      {
+        "id": "d",
+        "text": "non è consentita, perché non si applica alcuna detrazione o ritenuta che riduca gli importi dovuti ai beneficiari",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 74, par. 1, secondo comma, stabilisce che, in relazione al pagamento ai beneficiari, non si applica alcuna detrazione o ritenuta né si impone alcun onere specifico o con effetto equivalente che riduca gli importi loro dovuti.",
+    "evidence": [
+      {
+        "ref": "art. 74 Reg. 2021/1060, par. 1",
+        "text": "In relazione al primo comma, lettera b), non si applica alcuna detrazione o ritenuta né si impone alcun onere specifico o di altro genere con effetto equivalente che porti alla riduzione degli importi dovuti ai beneficiari."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 74 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-007",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, le verifiche di gestione svolte dall'autorità di gestione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono basate sulla valutazione dei rischi, comprendono verifiche amministrative e verifiche in loco e sono eseguite prima della presentazione dei conti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "riguardano sempre l'intera spesa dichiarata e sono eseguite dopo la presentazione dei conti",
+        "why_wrong": "L'art. 74, par. 2, prevede verifiche basate sulla valutazione dei rischi ed eseguite prima della presentazione dei conti."
+      },
+      {
+        "id": "c",
+        "text": "consistono in audit delle operazioni su un campione statistico",
+        "why_wrong": "Gli audit delle operazioni su un campione sono svolti dall'autorità di audit (art. 79, par. 1)."
+      },
+      {
+        "id": "d",
+        "text": "sono svolte esclusivamente in loco presso i beneficiari",
+        "why_wrong": "Le verifiche di gestione comprendono anche verifiche amministrative sulle domande di pagamento dei beneficiari (art. 74, par. 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 74, par. 2, stabilisce che le verifiche di gestione sono basate sulla valutazione dei rischi e proporzionate ai rischi individuati ex ante e per iscritto; comprendono verifiche amministrative sulle domande di pagamento dei beneficiari e verifiche in loco, eseguite prima della presentazione dei conti.",
+    "evidence": [
+      {
+        "ref": "art. 74 Reg. 2021/1060, par. 2",
+        "text": "Le verifiche di gestione di cui al paragrafo 1, primo comma, la lettera a), sono basate sulla valutazione dei rischi e proporzionate ai rischi individuati ex ante e per iscritto. Le verifiche di gestione comprendono verifiche amministrative riguardanti le domande di pagamento presentate dai beneficiari e le verifiche in loco delle operazioni. Tali verifiche sono eseguite prima della presentazione dei conti in conformità dell’articolo 98."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 74 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-008",
+    "subject": "rendicontazione-ue",
+    "question": "Una Regione è autorità di gestione di un programma FESR ed è anche beneficiaria di un'operazione finanziata dallo stesso programma. In questo caso il Regolamento (UE) 2021/1060 prevede che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'operazione non possa essere selezionata",
+        "why_wrong": "Il regolamento non esclude l'operazione: l'art. 74, par. 3, disciplina proprio il caso in cui l'autorità di gestione sia anche beneficiaria."
+      },
+      {
+        "id": "b",
+        "text": "le disposizioni per le verifiche di gestione garantiscano la separazione delle funzioni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "le verifiche di gestione su quell'operazione siano svolte dall'autorità di audit",
+        "why_wrong": "L'autorità di audit svolge audit dei sistemi, delle operazioni e dei conti (art. 77, par. 1); l'art. 74, par. 3, richiede che le verifiche di gestione garantiscano la separazione delle funzioni."
+      },
+      {
+        "id": "d",
+        "text": "le verifiche di gestione siano sostituite da una dichiarazione del beneficiario",
+        "why_wrong": "L'art. 74, par. 3, non sostituisce le verifiche di gestione: ne richiede disposizioni che garantiscano la separazione delle funzioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Ai sensi dell'art. 74, par. 3, se l'autorità di gestione è anche beneficiaria del programma, le disposizioni per le verifiche di gestione garantiscono la separazione delle funzioni.",
+    "evidence": [
+      {
+        "ref": "art. 74 Reg. 2021/1060, par. 3",
+        "text": "Se l’autorità di gestione è anche un beneficiario del programma, le disposizioni per le verifiche di gestione garantiscono la separazione delle funzioni."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 74 Reg. 2021/1060, par. 3",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-009",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi del Regolamento (UE) 2021/1060, l'autorità di audit redige e presenta alla Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la dichiarazione di gestione e i conti",
+        "why_wrong": "La dichiarazione di gestione è redatta dall'autorità di gestione (art. 74, par. 1, lett. f)); i conti rientrano nella funzione contabile (art. 76, par. 1, lett. b))."
+      },
+      {
+        "id": "b",
+        "text": "le domande di pagamento e le previsioni degli importi da richiedere",
+        "why_wrong": "Le domande di pagamento rientrano nella funzione contabile (art. 76, par. 1, lett. a)); le previsioni sono fornite dalle autorità di gestione (art. 69, par. 10)."
+      },
+      {
+        "id": "c",
+        "text": "un parere di audit annuale e una relazione annuale di controllo",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la descrizione del sistema di gestione e controllo",
+        "why_wrong": "La descrizione del sistema di gestione e controllo è predisposta e aggiornata dallo Stato membro (art. 69, par. 11)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 77, par. 3, prevede che l'autorità di audit rediga e presenti alla Commissione un parere di audit annuale (sulla completezza e veridicità dei conti, sulla legittimità e regolarità delle spese e sul funzionamento del sistema di gestione e controllo) e una relazione annuale di controllo che corrobori il parere.",
+    "evidence": [
+      {
+        "ref": "art. 77 Reg. 2021/1060, par. 3",
+        "text": "L’autorità di audit redige e presenta alla Commissione: a) un parere di audit annuale"
+      },
+      {
+        "ref": "art. 77 Reg. 2021/1060, par. 3",
+        "text": "b) una relazione annuale di controllo"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 77 Reg. 2021/1060, par. 3",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-010",
+    "subject": "rendicontazione-ue",
+    "question": "In un periodo contabile, la popolazione di spese di un programma da sottoporre ad audit è composta da 200 unità di campionamento. Secondo il Regolamento (UE) 2021/1060, l'autorità di audit:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve comunque utilizzare un metodo di campionamento statistico",
+        "why_wrong": "L'art. 79, par. 2, consente un metodo non statistico se la popolazione è composta da meno di 300 unità di campionamento."
+      },
+      {
+        "id": "b",
+        "text": "può limitarsi a 30 unità di campionamento scelte a sua discrezione",
+        "why_wrong": "Il campione di 30 unità, basato su una selezione statistica, riguarda le modalità proporzionate migliorate (art. 83, primo comma, lett. b))."
+      },
+      {
+        "id": "c",
+        "text": "deve sottoporre ad audit tutte le 200 unità",
+        "why_wrong": "Gli audit delle operazioni si svolgono in base a un campione (art. 79, par. 1)."
+      },
+      {
+        "id": "d",
+        "text": "può utilizzare, secondo il proprio giudizio professionale, un metodo non statistico che copra almeno il 10 % delle unità, selezionate in modo casuale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 79, par. 2, consente all'autorità di audit, se la popolazione è composta da meno di 300 unità di campionamento, di usare un metodo di campionamento non statistico secondo il proprio giudizio professionale; il metodo copre almeno il 10 % delle unità della popolazione del periodo contabile, selezionate in modo casuale.",
+    "evidence": [
+      {
+        "ref": "art. 79 Reg. 2021/1060, par. 2",
+        "text": "Se una popolazione è composta da meno di 300 unità di campionamento, può essere utilizzato un metodo di campionamento non statistico secondo il giudizio professionale dell’autorità di audit."
+      },
+      {
+        "ref": "art. 79 Reg. 2021/1060, par. 2",
+        "text": "Il metodo di campionamento non statistico copre almeno il 10 % delle unità di campionamento della popolazione del periodo contabile, selezionate in modo casuale."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 79 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-011",
+    "subject": "rendicontazione-ue",
+    "question": "Un'operazione cofinanziata dal FESR ha spese totali ammissibili pari a 350 000 EUR e non presenta rischi specifici di irregolarità né sospetti di frode. In base al principio dell'audit unico, prima della presentazione dei conti del periodo contabile in cui l'operazione è completata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la Commissione o l'autorità di audit non effettuano più di un audit sull'operazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'operazione può essere sottoposta a un audit per ogni periodo contabile",
+        "why_wrong": "Un audit per periodo contabile è la regola per le «altre operazioni», che superano le soglie; per il FESR la soglia è 400 000 EUR (art. 80, par. 3)."
+      },
+      {
+        "id": "c",
+        "text": "l'operazione non può essere sottoposta ad alcun audit, essendo sotto la soglia di 400 000 EUR",
+        "why_wrong": "Sotto la soglia l'art. 80, par. 3, limita gli audit a non più di uno, non li esclude."
+      },
+      {
+        "id": "d",
+        "text": "l'operazione supera la soglia prevista per il FESR, pari a 300 000 EUR, ed è quindi soggetta a un audit per periodo contabile",
+        "why_wrong": "300 000 EUR è la soglia prevista per il FSE+; per il FESR la soglia è 400 000 EUR (art. 80, par. 3)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 80, par. 3, stabilisce che, prima della presentazione dei conti del periodo contabile in cui l'operazione è completata, la Commissione o l'autorità di audit non effettuano più di un audit sulle operazioni le cui spese totali ammissibili non superano 400 000 EUR per il FESR (350 000 EUR per il JTF, 300 000 EUR per il FSE+). Il limite non si applica, tra l'altro, in caso di rischio specifico di irregolarità o sospetto di frode (par. 5).",
+    "evidence": [
+      {
+        "ref": "art. 80 Reg. 2021/1060, par. 3",
+        "text": "Prima della presentazione dei conti del periodo contabile in cui l’operazione è completata la Commissione o l’autorità di audit non effettuano più di un audit relativamente alle operazioni per le quali le spese totali ammissibili non superano 400 000 EUR per il FESR o il Fondo di coesione"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 80 Reg. 2021/1060, par. 3",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-con-012",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, la strategia di audit:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è predisposta dall'autorità di gestione, previa consultazione dell'autorità di audit",
+        "why_wrong": "L'art. 78, par. 1, attribuisce la strategia all'autorità di audit, previa consultazione dell'autorità di gestione."
+      },
+      {
+        "id": "b",
+        "text": "è predisposta dall'autorità di audit, previa consultazione dell'autorità di gestione, e comprende gli audit dei sistemi delle nuove autorità di gestione, da effettuare entro ventuno mesi dalla decisione che le individua",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è approvata dalla Commissione e aggiornata ogni tre anni",
+        "why_wrong": "La strategia è aggiornata annualmente dopo la prima relazione annuale di controllo e il parere di audit (art. 78, par. 1) ed è presentata alla Commissione su richiesta (par. 2)."
+      },
+      {
+        "id": "d",
+        "text": "deve sempre riguardare un solo programma",
+        "why_wrong": "L'art. 78, par. 1, prevede che la strategia possa riguardare uno o più programmi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Ai sensi dell'art. 78, par. 1, l'autorità di audit, previa consultazione dell'autorità di gestione, predispone una strategia di audit basata su una valutazione dei rischi. Essa comprende gli audit dei sistemi delle nuove autorità di gestione e delle autorità incaricate della funzione contabile, effettuati entro ventuno mesi dalla decisione di approvazione del programma o della modifica che individua tali autorità. È aggiornata annualmente e può riguardare uno o più programmi.",
+    "evidence": [
+      {
+        "ref": "art. 78 Reg. 2021/1060, par. 1",
+        "text": "Previa consultazione dell’autorità di gestione, l’autorità di audit predispone una strategia di audit che comprenda gli audit dei sistemi e gli audit delle operazioni, in base a una valutazione dei rischi,"
+      },
+      {
+        "ref": "art. 78 Reg. 2021/1060, par. 1",
+        "text": "La strategia di audit comprende audit dei sistemi delle nuove autorità di gestione e autorità incaricate della funzione contabile. Tali audit sono effettuati entro ventuno mesi dalla decisione di approvazione del programma o della modifica del programma che individua tale autorità."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 78 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
