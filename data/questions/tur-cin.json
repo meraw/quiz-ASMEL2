@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta (c) afferma che il Ministero del turismo «detiene e gestisce la relativa banca dati», ma l'evidence si interrompe a «destinate a contratti di locazione per finalità turistiche» e non contiene questa parte. Il file prosegue: «e alle strutture turistico-ricettive alberghiere ed extralberghiere definite ai sensi delle vigenti normative regionali e delle province autonome di Trento e di Bolzano e detiene e gestisce la relativa banca dati.» (art. 13-ter, comma 1). Correzione suggerita: aggiungere un secondo elemento di evidence con ref «art. 13-ter, comma 1» e testo «e detiene e gestisce la relativa banca dati.», oppure togliere questo inciso dall'opzione c.",
     "no_shuffle": false
   },
   {
@@ -84,7 +85,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +133,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -180,7 +181,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -228,7 +229,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

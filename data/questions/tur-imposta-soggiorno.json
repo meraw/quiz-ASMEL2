@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +172,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta (b) afferma che il gestore «è responsabile del pagamento», ma l'evidence inizia da «con diritto di rivalsa sui soggetti passivi, della presentazione della dichiarazione» e non contiene il soggetto né la responsabilità per il pagamento. Il comma inizia con: «Il gestore della struttura ricettiva è responsabile del pagamento dell'imposta di soggiorno di cui al comma 1» (art. 4, comma 1-ter). Correzione suggerita: aggiungere un elemento di evidence con ref «art. 4, comma 1-ter» e testo «Il gestore della struttura ricettiva è responsabile del pagamento dell'imposta di soggiorno di cui al comma 1».",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta (d) indica che il contributo di sbarco si istituisce «con regolamento», ma l'evidence inizia da «in alternativa all'imposta di soggiorno» e non contiene questo elemento. Il file recita: «I comuni che hanno sede giuridica nelle isole minori e i comuni nel cui territorio insistono isole minori possono istituire, con regolamento da adottare ai sensi dell'articolo 52 del decreto legislativo 15 dicembre 1997, n.446» (art. 4, comma 3-bis). Correzione suggerita: aggiungere un elemento di evidence con ref «art. 4, comma 3-bis» e testo «I comuni che hanno sede giuridica nelle isole minori e i comuni nel cui territorio insistono isole minori possono istituire, con regolamento», oppure togliere «Con regolamento» dall'opzione d.",
     "no_shuffle": false
   }
 ]
