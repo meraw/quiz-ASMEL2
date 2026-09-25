@@ -33,8 +33,9 @@ QUESTIONS_DIR = os.path.join(ROOT, 'data', 'questions')
 SOURCES_DIR = os.path.join(ROOT, 'sources')
 
 SUFFIX = r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies))?'
-# "Art. 25" (Normattiva laws) or "Art. 314." (codice penale): the final dot is optional
-ARTICLE_RE = re.compile(r'^\s*Art\.\s+(\d+' + SUFFIX + r')\.?\s*$')
+# "Art. 25" (Normattiva laws), "Articolo 25" (some Normattiva texts, e.g. the
+# TUEL) or "Art. 314." (codice penale): the final dot is optional
+ARTICLE_RE = re.compile(r'^\s*Art(?:\.|icolo)\s+(\d+' + SUFFIX + r')\.?\s*$')
 # A comma starts at the beginning of a line: "3. ", "2-bis. ", "((2. ", "1.((COMMA..."
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
 REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+comma\s+(\d+' + SUFFIX + r')$')
@@ -110,6 +111,9 @@ def parse_law(path):
             flush()
             end_article()
             article, comma, buf, raw = m.group(1), None, [], []
+            # The same article number seen again (e.g. the single article of an
+            # approving decree before the text it approves): the later one wins
+            law.pop(article, None)
             continue
         # A new Capo, or the "-----" line before the notes/updates: the comma ends here
         if line.strip().startswith('CAPO ') or line.strip().startswith('-----'):
