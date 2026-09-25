@@ -1,0 +1,882 @@
+Logo Governo *Presidenza del Consiglio dei Ministri* <https://
+www.governo.it/>
+ITA
+
+<#>
+
+  * ITA <https://www.normattiva.it/?language=it>
+  * ENG <https://www.normattiva.it/?language=en>
+
+Logo Normattiva
+
+
+  Normattiva - Il portale della legge vigente
+
+<https://www.normattiva.it/>
+
+close
+
+  * Homecurrent <https://www.normattiva.it/>
+  * Il progetto
+
+    <#>
+      o L'obiettivo <https://www.normattiva.it/staticPage/progettoObiettivo>
+      o Il coordinamento delle iniziative pubbliche <https://
+        www.normattiva.it/staticPage/progettoCoordinamento>
+      o I caratteri qualificanti del progetto <https://
+        www.normattiva.it/staticPage/progettoCaratteri>
+      o Obiettivi Raggiunti <https://www.normattiva.it/staticPage/
+        progettoObiettiviRaggiunti>
+      o Obiettivi Futuri <https://www.normattiva.it/staticPage/
+        progettoObiettiviFuturi>
+  * Collegamenti veloci
+
+    <https://www.normattiva.it/staticPage/ricercaNeiDocumenti>
+      o Costituzione e Codici <https://www.normattiva.it/staticPage/codici>
+      o Elenco atti per data di emanazione <https://www.normattiva.it/
+        ricerca/elencoPerData>
+      o Leggi approvate in attesa di pubblicazione <https://
+        www.normattiva.it/staticPage/leggi_approvate>
+      o Gazzetta Ufficiale <https://www.normattiva.it/staticPage/gazzetta>
+  * Open Data
+
+      o dati.normattiva.it<https://dati.normattiva.it/>
+  * Legislazione Regionale
+
+    <https://www.normattiva.it/staticPage/ricercaNeiDocumenti>
+      o Motore federato regionale<https://www.normattiva.it/mfr/>
+      o Banche dati giuridiche regionali <https://www.normattiva.it/
+        legislazioneRegionale>
+  * Guida all'uso
+
+    <#>
+      o Normattiva <https://www.normattiva.it/staticPage/
+        guidaAllUso_Normattiva>
+      o Normattiva regioni <https://www.normattiva.it/staticPage/
+        guidaAllUso_Regioni>
+      o Dichiarazione di accessibilità <https://form.agid.gov.it/view/
+        a2fb2081-2963-4daf-8044-03950a7e2fd0/>
+      o FAQ <https://www.normattiva.it/staticPage/faq>
+      o Utilità <https://www.normattiva.it/staticPage/utilita>
+
+Ricerca semplice
+
+cerca
+
+Ricerca avanzata <https://www.normattiva.it/ricerca/avanzata>
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62
+
+Regolamento recante codice di comportamento dei dipendenti pubblici, a
+norma dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165.
+(13G00104)
+
+ Vigente al: 25-9-2026  
+
+
+    IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'articolo 87, quinto comma, della Costituzione <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:costituzione:1947-12-27~art87-com5>;
+Visto l'articolo 17, comma 1, della legge 23 agosto 1988, n. 400
+<https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:1988-08-23;400~art17-com1>;
+Visto il decreto legislativo 30 marzo 2001, n. 165 <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001-03-30;165>, recante "Norme
+generali sull'ordinamento del lavoro alle dipendenze delle
+amministrazioni pubbliche";
+Visto, in particolare, l'articolo 54 del decreto legislativo n. 165 del
+2001 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art54>, come sostituito
+dall'articolo 1, comma 44, della legge 6 novembre 2012, n. 190 <https://
+www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~art1-
+com44>, che prevede l'emanazione di un Codice di comportamento dei
+dipendenti delle pubbliche amministrazioni al fine di assicurare la
+qualità dei servizi, la prevenzione dei fenomeni di corruzione, il
+rispetto dei doveri costituzionali di diligenza, lealtà, imparzialità e
+servizio esclusivo alla cura dell'interesse pubblico;
+Visto il decreto del Ministro per la funzione pubblica 28 novembre 2000,
+recante "Codice di comportamento dei dipendenti delle pubbliche
+amministrazioni", pubblicato nella Gazzetta Ufficiale n. 84 del 10
+aprile 2001 <http://www.gazzettaufficiale.it/gazzetta/serie_generale/
+caricaDettaglio?dataPubblicazioneGazzetta=2001-04-10&numeroGazzetta=84>;
+Vista l'intesa intervenuta in sede di Conferenza unificata di cui
+all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:1997-08-28;281~art8>, nella seduta del
+7 febbraio 2013;
+Udito il parere del Consiglio di Stato, espresso dalla Sezione
+consultiva per gli atti normativi nell'Adunanza del 21 febbraio 2013;
+Ritenuto di non poter accogliere le seguenti osservazioni contenute nel
+citato parere del Consiglio di Stato con le quali si chiede: di
+estendere, all'articolo 2, l'ambito soggettivo di applicazione del
+presente Codice a tutti i pubblici dipendenti, in considerazione del
+fatto che l'articolo 54 del decreto legislativo n. 165 del 2001
+<https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art54>, come modificato
+dall'articolo 1, comma 44, della legge n. 190 del 2012 <https://
+www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;190~art1-com44>,
+trova applicazione soltanto ai pubblici dipendenti il cui rapporto di
+lavoro è regolato contrattualmente; di prevedere, all'articolo 5, la
+valutazione, da parte dell'amministrazione, della compatibilità
+dell'adesione o dell'appartenenza del dipendente ad associazioni o ad
+organizzazioni, in quanto, assolto l'obbligo di comunicazione da parte
+del dipendente, l'amministrazione non appare legittimata, in via
+preventiva e generale, a sindacare la scelta associativa; di estendere
+l'obbligo di informazione di cui all'articolo 6, comma 1, ai rapporti di
+collaborazione non retribuiti, in considerazione del fatto che la
+finalità della norma è quella di far emergere solo i rapporti
+intrattenuti dal dipendente con soggetti esterni che abbiano risvolti di
+carattere economico; di eliminare, all'articolo 15, comma 2, il
+passaggio, agli uffici di disciplina, anche delle funzioni dei comitati
+o uffici etici, in quanto uffici non più previsti dalla vigente normativa;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella
+riunione dell'8 marzo 2013;
+Sulla proposta del Ministro per la pubblica amministrazione e la
+semplificazione;
+
+
+    Emana
+
+il seguente regolamento:
+
+
+    Art. 1
+
+Disposizioni di carattere generale
+1. Il presente codice di comportamento, di seguito denominato "Codice",
+definisce, ai fini dell'articolo 54 del decreto legislativo 30 marzo
+2001, n. 165 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001-03-30;165~art54>, i doveri minimi
+di diligenza, lealtà, imparzialità e buona condotta che i pubblici
+dipendenti sono tenuti ad osservare.
+2. Le previsioni del presente Codice sono integrate e specificate dai
+codici di comportamento adottati dalle singole amministrazioni ai sensi
+dell'articolo 54, comma 5, del citato decreto legislativo n. 165 del
+2001 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165>.
+
+
+    Art. 2
+
+Ambito di applicazione
+1. Il presente codice si applica ai dipendenti delle pubbliche
+amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo
+30 marzo 2001, n. 165 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2>, il cui
+rapporto di lavoro è disciplinato in base all'articolo 2, commi 2 e 3,
+del medesimo decreto.
+2. Fermo restando quanto previsto dall'articolo 54, comma 4, del decreto
+legislativo 30 marzo 2001, n. 165 <https://www.normattiva.it/uri-res/
+N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54-com4>, le
+norme contenute nel presente codice costituiscono principi di
+comportamento per le restanti categorie di personale di cui all'articolo
+3 del citato decreto n. 165 del 2001, in quanto compatibili con le
+disposizioni dei rispettivi ordinamenti.
+3. Le pubbliche amministrazioni di cui all'articolo 1, comma 2, del
+decreto legislativo n. 165 del 2001 <https://www.normattiva.it/uri-res/
+N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art1-com2> estendono,
+per quanto compatibili, gli obblighi di condotta previsti dal presente
+codice a tutti i collaboratori o consulenti, con qualsiasi tipologia di
+contratto o incarico e a qualsiasi titolo, ai titolari di organi e di
+incarichi negli uffici di diretta collaborazione delle autorità
+politiche, nonché nei confronti dei collaboratori a qualsiasi titolo di
+imprese fornitrici di beni o servizi e che realizzano opere in favore
+dell'amministrazione. A tale fine, negli atti di incarico o nei
+contratti di acquisizioni delle collaborazioni, delle consulenze o dei
+servizi, le amministrazioni inseriscono apposite disposizioni o clausole
+di risoluzione o decadenza del rapporto in caso di violazione degli
+obblighi derivanti dal presente codice.
+4. Le disposizioni del presente codice si applicano alle regioni a
+statuto speciale e alle province autonome di Trento e di Bolzano nel
+rispetto delle attribuzioni derivanti dagli statuti speciali e delle
+relative norme di attuazione, in materia di organizzazione e
+contrattazione collettiva del proprio personale, di quello dei loro enti
+funzionali e di quello degli enti locali del rispettivo territorio.
+
+
+    Art. 3
+
+Principi generali
+1. Il dipendente osserva la Costituzione, servendo la Nazione con
+disciplina ed onore e conformando la propria condotta ai principi di
+buon andamento e imparzialità dell'azione amministrativa. Il dipendente
+svolge i propri compiti nel rispetto della legge, perseguendo
+l'interesse pubblico senza abusare della posizione o dei poteri di cui è
+titolare.
+2. Il dipendente rispetta altresì i principi di integrità, correttezza,
+buona fede, proporzionalità, obiettività, trasparenza, equità e
+ragionevolezza e agisce in posizione di indipendenza e imparzialità,
+astenendosi in caso di conflitto di interessi.
+3. Il dipendente non usa a fini privati le informazioni di cui dispone
+per ragioni di ufficio, evita situazioni e comportamenti che possano
+ostacolare il corretto adempimento dei compiti o nuocere agli interessi
+o all'immagine della pubblica amministrazione. Prerogative e poteri
+pubblici sono esercitati unicamente per le finalità di interesse
+generale per le quali sono stati conferiti.
+4. Il dipendente esercita i propri compiti orientando l'azione
+amministrativa alla massima economicità, efficienza ed efficacia. La
+gestione di risorse pubbliche ai fini dello svolgimento delle attività
+amministrative deve seguire una logica di contenimento dei costi, che
+non pregiudichi la qualità dei risultati.
+5. Nei rapporti con i destinatari dell'azione amministrativa, il
+dipendente assicura la piena parità di trattamento a parità di
+condizioni, astenendosi, altresì, da azioni arbitrarie che abbiano
+effetti negativi sui destinatari dell'azione amministrativa o che
+comportino discriminazioni basate su sesso, nazionalità, origine etnica,
+caratteristiche genetiche, lingua, religione o credo, convinzioni
+personali o politiche, appartenenza a una minoranza nazionale,
+disabilità, condizioni sociali o di salute, età e orientamento sessuale
+o su altri diversi fattori.
+6. Il dipendente dimostra la massima disponibilità e collaborazione nei
+rapporti con le altre pubbliche amministrazioni, assicurando lo scambio
+e la trasmissione delle informazioni e dei dati in qualsiasi forma anche
+telematica, nel rispetto della normativa vigente.
+
+
+    Art. 4
+
+Regali, compensi e altre utilità
+1. Il dipendente non chiede, né sollecita, per sé o per altri, regali o
+altre utilità.
+2. Il dipendente non accetta, per sé o per altri, regali o altre
+utilità, salvo quelli d'uso di modico valore effettuati occasionalmente
+nell'ambito delle normali relazioni di cortesia e nell'ambito delle
+consuetudini internazionali. In ogni caso, indipendentemente dalla
+circostanza che il fatto costituisca reato, il dipendente non chiede,
+per sé o per altri, regali o altre utilità, neanche di modico valore a
+titolo di corrispettivo per compiere o per aver compiuto un atto del
+proprio ufficio da soggetti che possano trarre benefici da decisioni o
+attività inerenti all'ufficio, né da soggetti nei cui confronti è o sta
+per essere chiamato a svolgere o a esercitare attività o potestà proprie
+dell'ufficio ricoperto.
+3. Il dipendente non accetta, per sé o per altri, da un proprio
+subordinato, direttamente o indirettamente, regali o altre utilità,
+salvo quelli d'uso di modico valore. Il dipendente non offre,
+direttamente o indirettamente, regali o altre utilità a un proprio
+sovraordinato, salvo quelli d'uso di modico valore.
+4. I regali e le altre utilità comunque ricevuti fuori dai casi
+consentiti dal presente articolo, a cura dello stesso dipendente cui
+siano pervenuti, sono immediatamente messi a disposizione
+dell'Amministrazione per la restituzione o per essere devoluti a fini
+istituzionali.
+5. Ai fini del presente articolo, per regali o altre utilità di modico
+valore si intendono quelle di valore non superiore, in via orientativa,
+a 150 euro, anche sotto forma di sconto. I codici di comportamento
+adottati dalle singole amministrazioni possono prevedere limiti
+inferiori, anche fino all'esclusione della possibilità di riceverli, in
+relazione alle caratteristiche dell'ente e alla tipologia delle mansioni.
+6. Il dipendente non accetta incarichi di collaborazione da soggetti
+privati che abbiano, o abbiano avuto nel biennio precedente, un
+interesse economico significativo in decisioni o attività inerenti
+all'ufficio di appartenenza.
+7. Al fine di preservare il prestigio e l'imparzialità
+dell'amministrazione, il responsabile dell'ufficio vigila sulla corretta
+applicazione del presente articolo.
+
+
+    Art. 5
+
+Partecipazione ad associazioni e organizzazioni
+1. Nel rispetto della disciplina vigente del diritto di associazione, il
+dipendente comunica tempestivamente al responsabile dell'ufficio di
+appartenenza la propria adesione o appartenenza ad associazioni od
+organizzazioni, a prescindere dal loro carattere riservato o meno, i cui
+ambiti di interessi possano interferire con lo svolgimento dell'attività
+dell'ufficio. Il presente comma non si applica all'adesione a partiti
+politici o a sindacati.
+2. Il pubblico dipendente non costringe altri dipendenti ad aderire ad
+associazioni od organizzazioni, né esercita pressioni a tale fine,
+promettendo vantaggi o prospettando svantaggi di carriera.
+
+
+    Art. 6
+
+Comunicazione degli interessi finanziari
+e conflitti d'interesse
+1. Fermi restando gli obblighi di trasparenza previsti da leggi o
+regolamenti, il dipendente, all'atto dell'assegnazione all'ufficio,
+informa per iscritto il dirigente dell'ufficio di tutti i rapporti,
+diretti o indiretti, di collaborazione con soggetti privati in qualunque
+modo retribuiti che lo stesso abbia o abbia avuto negli ultimi tre anni,
+precisando:
+a) se in prima persona, o suoi parenti o affini entro il secondo grado,
+il coniuge o il convivente abbiano ancora rapporti finanziari con il
+soggetto con cui ha avuto i predetti rapporti di collaborazione;
+b) se tali rapporti siano intercorsi o intercorrano con soggetti che
+abbiano interessi in attività o decisioni inerenti all'ufficio,
+limitatamente alle pratiche a lui affidate.
+2. Il dipendente si astiene dal prendere decisioni o svolgere attività
+inerenti alle sue mansioni in situazioni di conflitto, anche potenziale,
+di interessi con interessi personali, del coniuge, di conviventi, di
+parenti, di affini entro il secondo grado. Il conflitto può riguardare
+interessi di qualsiasi natura, anche non patrimoniali, come quelli
+derivanti dall'intento di voler assecondare pressioni politiche,
+sindacali o dei superiori gerarchici.
+
+
+    Art. 7
+
+Obbligo di astensione
+1. Il dipendente si astiene dal partecipare all'adozione di decisioni o
+ad attività che possano coinvolgere interessi propri, ovvero di suoi
+parenti, affini entro il secondo grado, del coniuge o di conviventi,
+oppure di persone con le quali abbia rapporti di frequentazione
+abituale, ovvero, di soggetti od organizzazioni con cui egli o il
+coniuge abbia causa pendente o grave inimicizia o rapporti di credito o
+debito significativi, ovvero di soggetti od organizzazioni di cui sia
+tutore, curatore, procuratore o agente, ovvero di enti, associazioni
+anche non riconosciute, comitati, società o stabilimenti di cui sia
+amministratore o gerente o dirigente. Il dipendente si astiene in ogni
+altro caso in cui esistano gravi ragioni di convenienza. Sull'astensione
+decide il responsabile dell'ufficio di appartenenza.
+
+
+    Art. 8
+
+Prevenzione della corruzione
+1. Il dipendente rispetta le misure necessarie alla prevenzione degli
+illeciti nell'amministrazione. In particolare, il dipendente rispetta le
+prescrizioni contenute nel piano per la prevenzione della corruzione,
+presta la sua collaborazione al responsabile della prevenzione della
+corruzione e, fermo restando l'obbligo di denuncia all'autorità
+giudiziaria, segnala al proprio superiore gerarchico eventuali
+situazioni di illecito nell'amministrazione di cui sia venuto a conoscenza.
+
+
+    Art. 9
+
+Trasparenza e tracciabilità
+1. Il dipendente assicura l'adempimento degli obblighi di trasparenza
+previsti in capo alle pubbliche amministrazioni secondo le disposizioni
+normative vigenti, prestando la massima collaborazione
+nell'elaborazione, reperimento e trasmissione dei dati sottoposti
+all'obbligo di pubblicazione sul sito istituzionale.
+2. La tracciabilità dei processi decisionali adottati dai dipendenti
+deve essere, in tutti i casi, garantita attraverso un adeguato supporto
+documentale, che consenta in ogni momento la replicabilità.
+
+
+    Art. 10
+
+Comportamento nei rapporti privati
+1. Nei rapporti privati, comprese le relazioni extralavorative con
+pubblici ufficiali nell'esercizio delle loro funzioni, il dipendente non
+sfrutta, né menziona la posizione che ricopre nell'amministrazione per
+ottenere utilità che non gli spettino e non assume nessun altro
+comportamento che possa nuocere all'immagine dell'amministrazione.
+
+
+    Art. 11
+
+Comportamento in servizio
+1. Fermo restando il rispetto dei termini del procedimento
+amministrativo, il dipendente, salvo giustificato motivo, non ritarda né
+adotta comportamenti tali da far ricadere su altri dipendenti il
+compimento di attività o l'adozione di decisioni di propria spettanza.
+2. Il dipendente utilizza i permessi di astensione dal lavoro, comunque
+denominati, nel rispetto delle condizioni previste dalla legge, dai
+regolamenti e dai contratti collettivi.
+3. Il dipendente utilizza il materiale o le attrezzature di cui dispone
+per ragioni di ufficio e i servizi telematici e telefonici dell'ufficio
+nel rispetto dei vincoli posti dall'amministrazione. Il dipendente
+utilizza i mezzi di trasporto dell'amministrazione a sua disposizione
+soltanto per lo svolgimento dei compiti d'ufficio, astenendosi dal
+trasportare terzi, se non per motivi d'ufficio.
+
+
+    Art. 11-bis
+
+(( (Utilizzo delle tecnologie informatiche). ))
+((
+1. L'amministrazione, attraverso i propri responsabili di struttura, ha
+facoltà di svolgere gli accertamenti necessari e adottare ogni misura
+atta a garantire la sicurezza e la protezione dei sistemi informatici,
+delle informazioni e dei dati. Le modalità di svolgimento di tali
+accertamenti sono stabilite mediante linee guida adottate dall'Agenzia
+per l'Italia Digitale, sentito il Garante per la protezione dei dati
+personali. In caso di uso di dispositivi elettronici personali, trova
+applicazione l'articolo 12, comma 3-bis del decreto legislativo 7 marzo
+2005, n. 82 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2005-03-07;82~art12-com3bis>.
+2. L'utilizzo di account istituzionali è consentito per i soli fini
+connessi all'attività lavorativa o ad essa riconducibili e non può in
+alcun modo compromettere la sicurezza o la reputazione
+dell'amministrazione. L'utilizzo di caselle di posta elettroniche
+personali è di norma evitato per attività o comunicazioni afferenti il
+servizio, salvi i casi di forza maggiore dovuti a circostanze in cui il
+dipendente, per qualsiasi ragione, non possa accedere all'account
+istituzionale.
+3. Il dipendente è responsabile del contenuto dei messaggi inviati. I
+dipendenti si uniformano alle modalità di firma dei messaggi di posta
+elettronica di servizio individuate dall'amministrazione di
+appartenenza. Ciascun messaggio in uscita deve consentire
+l'identificazione del dipendente mittente e deve indicare un recapito
+istituzionale al quale il medesimo è reperibile.
+4. Al dipendente è consentito l'utilizzo degli strumenti informatici
+forniti dall'amministrazione per poter assolvere alle incombenze
+personali senza doversi allontanare dalla sede di servizio, purché
+l'attività sia contenuta in tempi ristretti e senza alcun pregiudizio
+per i compiti istituzionali.
+5. È vietato l'invio di messaggi di posta elettronica, all'interno o
+all'esterno dell'amministrazione, che siano oltraggiosi, discriminatori
+o che possano essere in qualunque modo fonte di responsabilità
+dell'amministrazione.
+))
+
+
+    Art. 11-ter
+
+(( (Utilizzo dei mezzi di informazione e dei social media). ))
+((
+1. Nell'utilizzo dei propri account di social media, il dipendente
+utilizza ogni cautela affinchè le proprie opinioni o i propri giudizi su
+eventi, cose o persone, non siano in alcun modo attribuibili
+direttamente alla pubblica amministrazione di appartenenza.
+2. In ogni caso il dipendente è tenuto ad astenersi da qualsiasi
+intervento o commento che possa nuocere al prestigio, al decoro o
+all'immagine dell'amministrazione di appartenenza o della pubblica
+amministrazione in generale.
+3. Al fine di garantirne i necessari profili di riservatezza le
+comunicazioni, afferenti direttamente o indirettamente il servizio non
+si svolgono, di norma, attraverso conversazioni pubbliche mediante
+l'utilizzo di piattaforme digitali o social media. Sono escluse da tale
+limitazione le attività o le comunicazioni per le quali l'utilizzo dei
+social media risponde ad una esigenza di carattere istituzionale.
+4. Nei codici di cui all'articolo 1, comma 2, le amministrazioni si
+possono dotare di una "social media policy" per ciascuna tipologia di
+piattaforma digitale, al fine di adeguare alle proprie specificità le
+disposizioni di cui al presente articolo. In particolare, la "social
+media policy" deve individuare, graduandole in base al livello
+gerarchico e di responsabilità del dipendente, le condotte che possono
+danneggiare la reputazione delle amministrazioni.
+5. Fermi restando i casi di divieto previsti dalla legge, i dipendenti
+non possono divulgare o diffondere per ragioni estranee al loro rapporto
+di lavoro con l'amministrazione e in difformità alle disposizioni di cui
+al decreto legislativo 13 marzo 2013, n. 33 <https://www.normattiva.it/
+uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-13;33>, e alla
+legge 7 agosto 1990, n. 241 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:1990-08-07;241>, documenti, anche istruttori, e
+informazioni di cui essi abbiano la disponibilità.
+))
+
+
+    Art. 12
+
+Rapporti con il pubblico
+1. Il dipendente in rapporto con il pubblico si fa riconoscere
+attraverso l'esposizione in modo visibile del badge od altro supporto
+identificativo messo a disposizione dall'amministrazione, salvo diverse
+disposizioni di servizio, anche in considerazione della sicurezza dei
+dipendenti, opera con spirito di servizio, correttezza, cortesia e
+disponibilità e, nel rispondere alla corrispondenza, a chiamate
+telefoniche e ai messaggi di posta elettronica, opera nella maniera più
+completa e accurata possibile ((e, in ogni caso, orientando il proprio
+comportamento alla soddisfazione dell'utente.))
+. Qualora non sia competente per posizione rivestita o per materia,
+indirizza l'interessato al funzionario o ufficio competente della
+medesima amministrazione. Il dipendente, fatte salve le norme sul
+segreto d'ufficio, fornisce le spiegazioni che gli siano richieste in
+ordine al comportamento proprio e di altri dipendenti dell'ufficio dei
+quali ha la responsabilità od il coordinamento.
+Nelle operazioni da svolgersi e nella trattazione delle pratiche il
+dipendente rispetta, salvo diverse esigenze di servizio o diverso ordine
+di priorità stabilito dall'amministrazione, l'ordine cronologico e non
+rifiuta prestazioni a cui sia tenuto con motivazioni generiche. Il
+dipendente rispetta gli appuntamenti con i cittadini e risponde senza
+ritardo ai loro reclami.
+2. Salvo il diritto di esprimere valutazioni e diffondere informazioni a
+tutela dei diritti sindacali, il dipendente si astiene da dichiarazioni
+pubbliche offensive nei confronti dell'amministrazione ((o che possano
+nuocere al prestigio, al decoro o all'immagine dell'amministrazione di
+appartenenza o della pubblica amministrazione in generale.))
+3. Il dipendente che svolge la sua attività lavorativa in
+un'amministrazione che fornisce servizi al pubblico cura il rispetto
+degli standard di qualità e di quantità fissati dall'amministrazione
+anche nelle apposite carte dei servizi. Il dipendente opera al fine di
+assicurare la continuità del servizio, di consentire agli utenti la
+scelta tra i diversi erogatori e di fornire loro informazioni sulle
+modalità di prestazione del servizio e sui livelli di qualità.
+4. Il dipendente non assume impegni né anticipa l'esito di decisioni o
+azioni proprie o altrui inerenti all'ufficio, al di fuori dei casi
+consentiti. Fornisce informazioni e notizie relative ad atti od
+operazioni amministrative, in corso o conclusi, nelle ipotesi previste
+dalle disposizioni di legge e regolamentari in materia di accesso,
+informando sempre gli interessati della possibilità di avvalersi anche
+dell'Ufficio per le relazioni con il pubblico.
+Rilascia copie ed estratti di atti o documenti secondo la sua
+competenza, con le modalità stabilite dalle norme in materia di accesso
+e dai regolamenti della propria amministrazione.
+5. Il dipendente osserva il segreto d'ufficio e la normativa in materia
+di tutela e trattamento dei dati personali e, qualora sia richiesto
+oralmente di fornire informazioni, atti, documenti non accessibili
+tutelati dal segreto d'ufficio o dalle disposizioni in materia di dati
+personali, informa il richiedente dei motivi che ostano all'accoglimento
+della richiesta. Qualora non sia competente a provvedere in merito alla
+richiesta cura, sulla base delle disposizioni interne, che la stessa
+venga inoltrata all'ufficio competente della medesima amministrazione.
+
+
+    Art. 13
+
+Disposizioni particolari per i dirigenti
+1. Ferma restando l'applicazione delle altre disposizioni del Codice, le
+norme del presente articolo si applicano ai dirigenti, ivi compresi i
+titolari di incarico ai sensi dell'articolo 19, comma 6, del decreto
+legislativo n. 165 del 2001 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art19-com6> e dell'articolo
+110 del decreto legislativo 18 agosto 2000, n. 267 <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2000-08-18;267~art110>, ai soggetti
+che svolgono funzioni equiparate ai dirigenti operanti negli uffici di
+diretta collaborazione delle autorità politiche, nonché ai funzionari
+responsabili di posizione organizzativa negli enti privi di dirigenza.
+2. Il dirigente svolge con diligenza le funzioni ad esso spettanti in
+base all'atto di conferimento dell'incarico, persegue gli obiettivi
+assegnati e adotta un comportamento organizzativo adeguato per
+l'assolvimento dell'incarico.
+3. Il dirigente, prima di assumere le sue funzioni, comunica
+all'amministrazione le partecipazioni azionarie e gli altri interessi
+finanziari che possano porlo in conflitto di interessi con la funzione
+pubblica che svolge e dichiara se ha parenti e affini entro il secondo
+grado, coniuge o convivente che esercitano attività politiche,
+professionali o economiche che li pongano in contatti frequenti con
+l'ufficio che dovrà dirigere o che siano coinvolti nelle decisioni o
+nelle attività inerenti all'ufficio. Il dirigente fornisce le
+informazioni sulla propria situazione patrimoniale e le dichiarazioni
+annuali dei redditi soggetti all'imposta sui redditi delle persone
+fisiche previste dalla legge.
+4. Il dirigente assume atteggiamenti leali e trasparenti e adotta un
+comportamento esemplare ((, in termini di integrità, imparzialità, buona
+fede e correttezza, parità di trattamento, equità, inclusione e
+ragionevolezza))
+e imparziale nei rapporti con i colleghi, i collaboratori e i
+destinatari dell'azione amministrativa. Il dirigente cura, altresì, che
+le risorse assegnate al suo ufficio siano utilizzate per finalità
+esclusivamente istituzionali e, in nessun caso, per esigenze personali.
+((
+4-bis. Il dirigente cura la crescita professionale dei collaboratori,
+favorendo le occasioni di formazione e promuovendo opportunità di
+sviluppo interne ed esterne alla struttura di cui è responsabile.
+))
+((
+5. Il dirigente cura, compatibilmente con le risorse disponibili, il
+benessere organizzativo nella struttura a cui è preposto, favorendo
+l'instaurarsi di rapporti cordiali e rispettosi tra i collaboratori,
+nonché di relazioni, interne ed esterne alla struttura, basate su una
+leale collaborazione e su una reciproca fiducia e assume iniziative
+finalizzate alla circolazione delle informazioni, all'inclusione e alla
+valorizzazione delle differenze di genere, di età e di condizioni
+personali.
+))
+6. Il dirigente assegna l'istruttoria delle pratiche sulla base di
+un'equa ripartizione del carico di lavoro, tenendo conto delle capacità,
+delle attitudini e della professionalità del personale a sua
+disposizione. Il dirigente affida gli incarichi aggiuntivi in base alla
+professionalità e, per quanto possibile, secondo criteri di rotazione.
+7. Il dirigente svolge la valutazione del personale assegnato alla
+struttura cui è preposto con imparzialità e rispettando le indicazioni
+ed i tempi prescritti ((, misurando il raggiungimento dei risultati ed
+il comportamento organizzativo))
+.
+8. Il dirigente intraprende con tempestività le iniziative necessarie
+ove venga a conoscenza di un illecito, attiva e conclude, se competente,
+il procedimento disciplinare, ovvero segnala tempestivamente l'illecito
+all'autorità disciplinare, prestando ove richiesta la propria
+collaborazione e provvede ad inoltrare tempestiva denuncia all'autorità
+giudiziaria penale o segnalazione alla corte dei conti per le rispettive
+competenze. Nel caso in cui riceva segnalazione di un illecito da parte
+di un dipendente, adotta ogni cautela di legge affinchè sia tutelato il
+segnalante e non sia indebitamente rilevata la sua identità nel
+procedimento disciplinare, ai sensi dell'articolo 54-bis del decreto
+legislativo n. 165 del 2001 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art54bis>.
+9. Il dirigente, nei limiti delle sue possibilità, evita che notizie non
+rispondenti al vero quanto all'organizzazione, all'attività e ai
+dipendenti pubblici possano diffondersi. Favorisce la diffusione della
+conoscenza di buone prassi e buoni esempi al fine di rafforzare il senso
+di fiducia nei confronti dell'amministrazione.
+
+
+    Art. 14
+
+Contratti ed altri atti negoziali
+1. Nella conclusione di accordi e negozi e nella stipulazione di
+contratti per conto dell'amministrazione, nonché nella fase di
+esecuzione degli stessi, il dipendente non ricorre a mediazione di
+terzi, né corrisponde o promette ad alcuno utilità a titolo di
+intermediazione, né per facilitare o aver facilitato la conclusione o
+l'esecuzione del contratto. Il presente comma non si applica ai casi in
+cui l'amministrazione abbia deciso di ricorrere all'attività di
+intermediazione professionale.
+2. Il dipendente non conclude, per conto dell'amministrazione, contratti
+di appalto, fornitura, servizio, finanziamento o assicurazione con
+imprese con le quali abbia stipulato contratti a titolo privato o
+ricevuto altre utilità nel biennio precedente, ad eccezione di quelli
+conclusi ai sensi dell'articolo 1342 del codice civile <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:codice.civile:1942-03-16;262~art1342>. Nel caso in cui
+l'amministrazione concluda contratti di appalto, fornitura, servizio,
+finanziamento o assicurazione, con imprese con le quali il dipendente
+abbia concluso contratti a titolo privato o ricevuto altre utilità nel
+biennio precedente, questi si astiene dal partecipare all'adozione delle
+decisioni ed alle attività relative all'esecuzione del contratto,
+redigendo verbale scritto di tale astensione da conservare agli atti
+dell'ufficio.
+3. Il dipendente che conclude accordi o negozi ovvero stipula contratti
+a titolo privato, ad eccezione di quelli conclusi ai sensi dell'articolo
+1342 del codice civile <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:codice.civile:1942-03-16;262~art1342>, con persone fisiche
+o giuridiche private con le quali abbia concluso, nel biennio
+precedente, contratti di appalto, fornitura, servizio, finanziamento ed
+assicurazione, per conto dell'amministrazione, ne informa per iscritto
+il dirigente dell'ufficio.
+4. Se nelle situazioni di cui ai commi 2 e 3 si trova il dirigente,
+questi informa per iscritto il dirigente apicale responsabile della
+gestione del personale.
+5. Il dipendente che riceva, da persone fisiche o giuridiche
+partecipanti a procedure negoziali nelle quali sia parte
+l'amministrazione, rimostranze orali o scritte sull'operato dell'ufficio
+o su quello dei propri collaboratori, ne informa immediatamente, di
+regola per iscritto, il proprio superiore gerarchico o funzionale.
+
+
+    Art. 15
+
+Vigilanza, monitoraggio e attività formative
+1. Ai sensi dell'articolo 54, comma 6, del decreto legislativo 30 marzo
+2001, n. 165 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001-03-30;165~art54-com6>, vigilano
+sull'applicazione del presente Codice e dei codici di comportamento
+adottati dalle singole amministrazioni, i dirigenti responsabili di
+ciascuna struttura, le strutture di controllo interno e gli uffici etici
+e di disciplina.
+2. Ai fini dell'attività di vigilanza e monitoraggio prevista dal
+presente articolo, le amministrazioni si avvalgono dell'ufficio
+procedimenti disciplinari istituito ai sensi dell'articolo 55-bis, comma
+4, del decreto legislativo n. 165 del 2001 <https://www.normattiva.it/
+uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art55bis-com4>
+che svolge, altresì, le funzioni dei comitati o uffici etici
+eventualmente già istituiti.
+3. Le attività svolte ai sensi del presente articolo dall'ufficio
+procedimenti disciplinari si conformano alle eventuali previsioni
+contenute nei piani di prevenzione della corruzione adottati dalle
+amministrazioni ai sensi dell'articolo 1, comma 2, della legge 6
+novembre 2012, n. 190 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:2012-11-06;190~art1-com2>. L'ufficio procedimenti
+disciplinari, oltre alle funzioni disciplinari di cui all'articolo 55-
+bis e seguenti del decreto legislativo n. 165 del 2001 <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art55bis>, cura
+l'aggiornamento del codice di comportamento dell'amministrazione,
+l'esame delle segnalazioni di violazione dei codici di comportamento, la
+raccolta delle condotte illecite accertate e sanzionate, assicurando le
+garanzie di cui all'articolo 54-bis del decreto legislativo n. 165 del
+2001 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165~art54bis>. Il responsabile
+della prevenzione della corruzione cura la diffusione della conoscenza
+dei codici di comportamento nell'amministrazione, il monitoraggio
+annuale sulla loro attuazione, ai sensi dell'articolo 54, comma 7, del
+decreto legislativo n. 165 del 2001 <https://www.normattiva.it/uri-res/
+N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art54-com7>, la
+pubblicazione sul sito istituzionale e della comunicazione all'Autorità
+nazionale anticorruzione, di cui all'articolo 1, comma 2, della legge 6
+novembre 2012, n. 190 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:2012-11-06;190~art1-com2>, dei risultati del
+monitoraggio. Ai fini dello svolgimento delle attività previste dal
+presente articolo, l'ufficio procedimenti disciplinari opera in raccordo
+con il responsabile della prevenzione di cui all'articolo 1, comma 7,
+della legge n. 190 del 2012 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:2012;190~art1-com7>.
+4. Ai fini dell'attivazione del procedimento disciplinare per violazione
+dei codici di comportamento, l'ufficio procedimenti disciplinari può
+chiedere all'Autorità nazionale anticorruzione parere facoltativo
+secondo quanto stabilito dall'articolo 1, comma 2, lettera d), della
+legge n. 190 del 2012 <https://www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:legge:2012;190~art1-com2-letd>.
+5. Al personale delle pubbliche amministrazioni sono rivolte attività
+formative in materia di trasparenza e integrità, che consentano ai
+dipendenti di conseguire una piena conoscenza dei contenuti del codice
+di comportamento, nonché un aggiornamento annuale e sistematico sulle
+misure e sulle disposizioni applicabili in tali ambiti.
+((
+5-bis. Le attività di cui al comma 5 includono anche cicli formativi sui
+temi dell'etica pubblica e sul comportamento etico, da svolgersi
+obbligatoriamente, sia a seguito di assunzione, sia in ogni caso di
+passaggio a ruoli o a funzioni superiori, nonché di trasferimento del
+personale, le cui durata e intensità sono proporzionate al grado di
+responsabilità.
+))
+6. Le Regioni e gli enti locali, definiscono, nell'ambito della propria
+autonomia organizzativa, le linee guida necessarie per l'attuazione dei
+principi di cui al presente articolo.
+7. Dall'attuazione delle disposizioni del presente articolo non devono
+derivare nuovi o maggiori oneri a carico della finanza pubblica. Le
+amministrazioni provvedono agli adempimenti previsti nell'ambito delle
+risorse umane, finanziarie, e strumentali disponibili a legislazione
+vigente.
+
+
+    Art. 16
+
+Responsabilità conseguente alla violazione
+dei doveri del codice
+1. La violazione degli obblighi previsti dal presente Codice integra
+comportamenti contrari ai doveri d'ufficio. Ferme restando le ipotesi in
+cui la violazione delle disposizioni contenute nel presente Codice,
+nonché dei doveri e degli obblighi previsti dal piano di prevenzione
+della corruzione, dà luogo anche a responsabilità penale, civile,
+amministrativa o contabile del pubblico dipendente, essa è fonte di
+responsabilità disciplinare accertata all'esito del procedimento
+disciplinare, nel rispetto dei principi di gradualità e proporzionalità
+delle sanzioni.
+2. Ai fini della determinazione del tipo e dell'entità della sanzione
+disciplinare concretamente applicabile, la violazione è valutata in ogni
+singolo caso con riguardo alla gravità del comportamento eall'entità del
+pregiudizio, anche morale, derivatone al decoro o al prestigio
+dell'amministrazione di appartenenza. Le sanzioni applicabili sono
+quelle previste dalla legge, dai regolamenti e dai contratti collettivi,
+incluse quelle espulsiveche possono essere applicate esclusivamente nei
+casi, da valutare in relazione alla gravità, di violazione delle
+disposizioni di cui agli articoli 4, qualora concorrano la non modicità
+del valore del regalo o delle altre utilità e l'immediata correlazione
+di questi ultimi con il compimento di un atto o di un'attività tipici
+dell'ufficio, 5, comma 2, 14, comma 2, primo periodo, valutata ai sensi
+del primo periodo. La disposizione di cui al secondo periodo si applica
+altresì nei casi di recidiva negli illeciti di cui agli articoli 4,
+comma 6, 6, comma 2, esclusi i conflitti meramente potenziali, e 13,
+comma 9, primo periodo. I contratti collettivi possono prevedere
+ulteriori criteri di individuazione delle sanzioni applicabili in
+relazione alle tipologie di violazione del presente codice.
+3. Resta ferma la comminazione del licenziamento senza preavviso per i
+casi già previsti dalla legge, dai regolamenti e dai contratti collettivi.
+4. Restano fermi gli ulteriori obblighi e le conseguenti ipotesi di
+responsabilità disciplinare dei pubblici dipendenti previsti da norme di
+legge, di regolamento o dai contratti collettivi.
+
+
+    Art. 17
+
+Disposizioni finali e abrogazioni
+1. Le amministrazioni danno la più ampia diffusione al presente decreto,
+pubblicandolo sul proprio sito internet istituzionale e nella rete
+intranet, nonché trasmettendolo tramite e-mail a tutti i propri
+dipendenti e ai titolari di contratti di consulenza o collaborazione a
+qualsiasi titolo, anche professionale, ai titolari di organi e di
+incarichi negli uffici di diretta collaborazione dei vertici politici
+dell'amministrazione, nonché ai collaboratori a qualsiasi titolo, anche
+professionale, di imprese fornitrici di servizi in favore
+dell'amministrazione. L'amministrazione, contestualmente alla
+sottoscrizione del contratto di lavoro o, in mancanza, all'atto di
+conferimento dell'incarico, consegna e fa sottoscrivere ai nuovi
+assunti, con rapporti comunque denominati, copia del codice di
+comportamento.
+2. Le amministrazioni danno la più ampia diffusione ai codici di
+comportamento da ciascuna definiti ai sensi dell'articolo 54, comma 5,
+del citato decreto legislativo n. 165 del 2001 <https://
+www.normattiva.it/uri-res/N2Ls?
+urn:nir:stato:decreto.legislativo:2001;165> secondo le medesime modalità
+previste dal comma 1 del presente articolo.
+((
+2-bis. Alle attività di cui al presente decreto le amministrazioni
+provvedono con le risorse umane, strumentali e finanziarie disponibili a
+legislazione vigente, senza nuovi o ulteriori oneri a carico della
+finanza pubblica.
+))
+3. Il decreto del Ministro per la funzione pubblica in data 28 novembre
+2000 recante "Codice di comportamento dei dipendenti delle pubbliche
+amministrazioni", pubblicato nella Gazzetta Ufficiale n. 84 del 10
+aprile 2001 <http://www.gazzettaufficiale.it/gazzetta/serie_generale/
+caricaDettaglio?dataPubblicazioneGazzetta=2001-04-10&numeroGazzetta=84>,
+è abrogato.
+
+
+    Il presente decreto, munito del sigillo dello Stato, sarà inserito
+    nella Raccolta ufficiale degli atti normativi della Repubblica
+    italiana. È fatto obbligo a chiunque spetti di osservarlo e di farlo
+    osservare.
+
+
+      Dato a Roma addì, 16 aprile 2013
+
+NAPOLITANO
+
+Monti, Presidente del Consiglio dei Ministri
+
+Patroni Griffi, Ministro per la pubblica amministrazione e la
+semplificazione
+
+Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 23
+maggio 2013 <https://e-justice.europa.eu/ecli/ECLI::::>
+
+Registro n. 4, foglio n. 300
+
+Realizzazione e gestione *Istituto Poligrafico e Zecca dello Stato *
+<https://www.ipzs.it/>
+
+*Contattaci*
+<https://www.normattiva.it/staticPage/contatti>
+
+
+            Normattiva
+
+
+            Normattiva
+
+  * Archivio news <https://www.normattiva.it/showArchivioNews>
+  * Il progetto <https://www.normattiva.it/staticPage/progetto>
+  * Guida all'uso <https://www.normattiva.it/staticPage/guidaAllUso>
+  * Collegamenti veloci <https://www.normattiva.it/staticPage/
+    ricercaNeiDocumenti>
+  * Ricerca avanzata <https://www.normattiva.it/ricerca/avanzata>
+
+
+            Collegamenti veloci
+
+
+            Collegamenti veloci
+
+  * Costituzione e Codici <https://www.normattiva.it/staticPage/codici>
+  * Elenco atti per data di emanazione <https://www.normattiva.it/
+    ricerca/elencoPerData>
+  * Gazzetta Ufficiale <https://www.normattiva.it/staticPage/gazzetta>
+  * Motore federato regionale <https://www.normattiva.it/
+    legislazioneRegionale>
+  * Leggi approvate in attesa di pubblicazione <https://
+    www.normattiva.it/staticPage/leggi_approvate>
+  * Utilità <https://www.normattiva.it/staticPage/utilita>
+
+
+            Con il contributo di
+
+
+            Con il contributo di
+
+  * Presidenza del Consiglio dei Ministri <https://www.governo.it/>
+  * Camera dei Deputati <https://www.camera.it/>
+  * Senato della Repubblica <https://www.senato.it/home>
+
+
+            In collaborazione con
+
+
+            In collaborazione con
+
+  * Corte Suprema di Cassazione <https://www.cortedicassazione.it/>
+  * Agenzia per l’Italia digitale e Presidenza del Consiglio dei
+    Ministri <https://www.agid.gov.it/>
+
+  * Privacy e Cookie policy <https://www.normattiva.it/staticPage/
+    privacy_policy>
+  * Note legali <https://www.normattiva.it/staticPage/legal>
+  * Mappa del sito <https://www.normattiva.it/mappa>
+  * FAQ <https://www.normattiva.it/staticPage/faq>
+  * Dichiarazione di accessibilità <https://form.agid.gov.it/view/
+    a2fb2081-2963-4daf-8044-03950a7e2fd0/>
+  * dati.normattiva.it <https://dati.normattiva.it/>
+
+Portale Normattiva, Versione 2.4.5
+torna su <#>
+
