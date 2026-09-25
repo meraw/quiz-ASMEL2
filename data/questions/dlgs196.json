@@ -1,0 +1,204 @@
+[
+  {
+    "id": "pv-cod-001",
+    "subject": "privacy",
+    "question": "Ai sensi del d.lgs. 196/2003, l'autorità di controllo di cui all'articolo 51 del Regolamento (UE) 2016/679 è individuata:",
+    "options": [
+      { "id": "a", "text": "nel Garante per la protezione dei dati personali", "why_wrong": null },
+      { "id": "b", "text": "nel Ministero della giustizia", "why_wrong": "L'art. 2-bis individua l'autorità di controllo nel Garante; al Ministro della giustizia spetta, ad esempio, riportare le regole deontologiche nell'allegato A del codice (art. 2-quater, comma 3)." },
+      { "id": "c", "text": "nell'Agenzia per l'Italia digitale", "why_wrong": "L'art. 2-bis individua l'autorità di controllo nel Garante; le linee guida dell'Agenzia per l'Italia digitale sono richiamate solo in materia di interoperabilità (art. 2-sexies, comma 1-ter)." },
+      { "id": "d", "text": "nell'Ente unico nazionale di accreditamento", "why_wrong": "L'Ente unico nazionale di accreditamento è l'organismo nazionale di accreditamento previsto dall'art. 2-septies-decies, non l'autorità di controllo." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-bis del codice individua nel Garante per la protezione dei dati personali, disciplinato dall'art. 153, l'autorità di controllo prevista dall'art. 51 del Regolamento.",
+    "evidence": [
+      { "ref": "art. 2-bis, comma 1", "text": "L'Autorità di controllo di cui all'articolo 51 del regolamento è individuata nel Garante per la protezione dei dati personali, di seguito «Garante», di cui all'articolo 153." }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-bis, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-002",
+    "subject": "privacy",
+    "question": "Ai sensi dell'art. 2-ter del d.lgs. 196/2003, la base giuridica prevista dall'articolo 6, paragrafo 3, lettera b), del Regolamento (UE) 2016/679 è costituita:",
+    "options": [
+      { "id": "a", "text": "da una norma di legge o di regolamento o da atti amministrativi generali", "why_wrong": null },
+      { "id": "b", "text": "esclusivamente da una norma di legge", "why_wrong": "L'art. 2-ter, comma 1, ammette anche una norma di regolamento o atti amministrativi generali." },
+      { "id": "c", "text": "dal consenso dell'interessato", "why_wrong": "L'art. 2-ter, comma 1, individua la base giuridica in una norma di legge o di regolamento o in atti amministrativi generali." },
+      { "id": "d", "text": "da un provvedimento del Garante", "why_wrong": "Il Garante adotta misure di garanzia (art. 2-septies) e approva regole deontologiche (art. 2-quater), ma la base giuridica è individuata dall'art. 2-ter, comma 1, in norme di legge o di regolamento o in atti amministrativi generali." }
+    ],
+    "correct": "a",
+    "explanation": "Il Regolamento rinvia al diritto degli Stati membri per la base giuridica dei trattamenti fondati su un obbligo legale o su un compito di interesse pubblico. L'art. 2-ter, comma 1, del codice precisa che tale base è costituita da una norma di legge o di regolamento o da atti amministrativi generali.",
+    "evidence": [
+      { "ref": "art. 2-ter, comma 1", "text": "La base giuridica prevista dall'articolo 6, paragrafo 3, lettera b), del regolamento è costituita ((...)) da una norma di legge o ((...)) di regolamento ((o da atti amministrativi generali))" }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-003",
+    "subject": "privacy",
+    "question": "Un Comune deve trattare dati personali comuni (non appartenenti a categorie particolari né relativi a reati) per svolgere un compito di interesse pubblico a esso attribuito, ma nessuna norma disciplina specificamente quel trattamento. Ai sensi del d.lgs. 196/2003, il trattamento:",
+    "options": [
+      { "id": "a", "text": "è consentito se necessario per l'adempimento di un compito svolto nel pubblico interesse o per l'esercizio di pubblici poteri attribuiti al Comune, nel rispetto dell'articolo 6 del Regolamento", "why_wrong": null },
+      { "id": "b", "text": "è vietato in assenza di una norma di legge che lo preveda espressamente", "why_wrong": "Il comma 1-bis dell'art. 2-ter consente alle amministrazioni pubbliche il trattamento necessario per un compito di interesse pubblico o per l'esercizio di pubblici poteri." },
+      { "id": "c", "text": "è consentito solo previa autorizzazione del Garante", "why_wrong": "Il comma 1-bis dell'art. 2-ter non richiede alcuna autorizzazione del Garante." },
+      { "id": "d", "text": "è consentito solo con il consenso degli interessati", "why_wrong": "Il comma 1-bis dell'art. 2-ter fonda il trattamento sulla necessità per il compito di interesse pubblico o per l'esercizio di pubblici poteri, non sul consenso." }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 1-bis dell'art. 2-ter consente alle amministrazioni pubbliche il trattamento dei dati necessario per adempiere un compito svolto nel pubblico interesse o per esercitare i pubblici poteri loro attribuiti. Resta fermo ogni altro obbligo del Regolamento e del codice e il rispetto dell'art. 6 del Regolamento.",
+    "evidence": [
+      { "ref": "art. 2-ter, comma 1-bis", "text": "è anche consentito se necessario per l'adempimento di un compito svolto nel pubblico interesse o per l'esercizio di pubblici poteri ad esse attribuiti. In modo da assicurare che tale esercizio non possa arrecare un pregiudizio effettivo e concreto alla tutela dei diritti e delle libertà degli interessati, le disposizioni di cui al presente comma sono esercitate nel rispetto dell'articolo 6 del Regolamento" }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 1-bis", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-004",
+    "subject": "privacy",
+    "question": "Un Comune, in assenza di una norma che la preveda e sulla base del solo comma 1-bis dell'art. 2-ter del d.lgs. 196/2003, ritiene necessario comunicare dati personali, trattati per un compito di interesse pubblico, a un soggetto che intende trattarli per altre finalità. Secondo lo stesso articolo:",
+    "options": [
+      { "id": "a", "text": "la comunicazione è ammessa se necessaria, e ne viene data notizia al Garante almeno dieci giorni prima del suo inizio", "why_wrong": null },
+      { "id": "b", "text": "la comunicazione richiede un parere del Garante, reso entro quarantacinque giorni", "why_wrong": "Quarantacinque giorni è il termine generale per i pareri del Garante (art. 154, comma 5); l'art. 2-ter, comma 3, prevede solo una notizia al Garante almeno dieci giorni prima." },
+      { "id": "c", "text": "la comunicazione è vietata in ogni caso", "why_wrong": "L'art. 2-ter, comma 3, ammette la comunicazione se prevista ai sensi del comma 1 o se necessaria ai sensi del comma 1-bis." },
+      { "id": "d", "text": "ne viene data notizia al Garante entro dieci giorni dall'inizio della comunicazione", "why_wrong": "L'art. 2-ter, comma 3, richiede che la notizia sia data almeno dieci giorni prima dell'inizio della comunicazione, non dopo." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-ter, comma 3, ammette la diffusione e la comunicazione di dati trattati per un compito di interesse pubblico a soggetti che intendono trattarli per altre finalità solo se previste da una norma (comma 1) o se necessarie ai sensi del comma 1-bis. In quest'ultimo caso ne va data notizia al Garante almeno dieci giorni prima dell'inizio.",
+    "evidence": [
+      { "ref": "art. 2-ter, comma 3", "text": "La diffusione e la comunicazione di dati personali, trattati per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri, a soggetti che intendono trattarli per altre finalità sono ammesse unicamente se previste ai sensi del comma 1 ((o se necessarie ai sensi del comma 1-bis. In tale ultimo caso, ne viene data notizia al Garante almeno dieci giorni prima dell'inizio della comunicazione o diffusione))" }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 3", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-005",
+    "subject": "privacy",
+    "question": "Un Comune pubblica sul proprio sito internet, liberamente consultabile da chiunque, un elenco contenente dati personali. Ai sensi del d.lgs. 196/2003, questa operazione costituisce:",
+    "options": [
+      { "id": "a", "text": "diffusione, perché consiste nel dare conoscenza dei dati a soggetti indeterminati, anche mediante la loro messa a disposizione o consultazione", "why_wrong": null },
+      { "id": "b", "text": "comunicazione, perché i dati sono messi a disposizione mediante consultazione", "why_wrong": "La comunicazione è il dare conoscenza dei dati a uno o più soggetti determinati (art. 2-ter, comma 4, lett. a)); qui i destinatari sono indeterminati." },
+      { "id": "c", "text": "interconnessione tra titolari", "why_wrong": "L'interconnessione è indicata dall'art. 2-ter, comma 4, lett. a), come una delle forme della comunicazione a soggetti determinati." },
+      { "id": "d", "text": "comunicazione fra titolari per l'esecuzione di un compito di interesse pubblico", "why_wrong": "È l'ipotesi dell'art. 2-ter, comma 2, che riguarda soggetti determinati; la messa a disposizione a soggetti indeterminati è diffusione." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-ter, comma 4, distingue la comunicazione, rivolta a uno o più soggetti determinati (lett. a)), dalla diffusione, che dà conoscenza dei dati a soggetti indeterminati, in qualunque forma, anche mediante messa a disposizione o consultazione (lett. b)). La pubblicazione su un sito aperto a tutti è diffusione.",
+    "evidence": [
+      { "ref": "art. 2-ter, comma 4, lett. b)", "text": "\"diffusione\", il dare conoscenza dei dati personali a soggetti indeterminati, in qualunque forma, anche mediante la loro messa a disposizione o consultazione." }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 4, lett. b)", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-006",
+    "subject": "privacy",
+    "question": "Ai sensi dell'art. 2-sexies del d.lgs. 196/2003, si considera rilevante l'interesse pubblico relativo ai trattamenti effettuati da soggetti che svolgono compiti di interesse pubblico o connessi all'esercizio di pubblici poteri, tra l'altro, nella materia:",
+    "options": [
+      { "id": "a", "text": "tenuta degli atti e dei registri dello stato civile e delle anagrafi della popolazione residente", "why_wrong": null },
+      { "id": "b", "text": "attività svolte in regime di libero mercato dalle società a controllo pubblico", "why_wrong": "I trattamenti correlati ad attività svolte in regime di libero mercato sono esclusi, per le società a controllo pubblico, dal comma 1-bis dell'art. 2-ter e non figurano nell'elenco dell'art. 2-sexies, comma 2." },
+      { "id": "c", "text": "offerta diretta di servizi della società dell'informazione ai minori", "why_wrong": "È disciplinata dall'art. 2-quinquies e non figura nell'elenco dell'art. 2-sexies, comma 2." },
+      { "id": "d", "text": "investigazioni o raccolta di informazioni per conto di terzi ai sensi dell'art. 134 del testo unico delle leggi di pubblica sicurezza", "why_wrong": "È una delle ipotesi dell'art. 2-octies, comma 3, sui dati relativi a condanne penali e reati, non una materia dell'elenco dell'art. 2-sexies, comma 2." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-sexies ammette i trattamenti di categorie particolari di dati necessari per motivi di interesse pubblico rilevante, se previsti da norme che ne specifichino dati, operazioni, motivo e garanzie (comma 1). Il comma 2 elenca le materie in cui l'interesse pubblico si considera rilevante, tra cui la tenuta dei registri dello stato civile e delle anagrafi (lett. b)).",
+    "evidence": [
+      { "ref": "art. 2-sexies, comma 2, lett. b)", "text": "tenuta degli atti e dei registri dello stato civile, delle anagrafi della popolazione residente in Italia e dei cittadini italiani residenti all'estero, e delle liste elettorali" }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-sexies, comma 2, lett. b)", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-007",
+    "subject": "privacy",
+    "question": "Un Comune intende pubblicare sul proprio sito internet la graduatoria per un contributo economico, indicando per ciascun beneficiario la patologia che gli ha dato diritto a un punteggio aggiuntivo. Ai sensi del d.lgs. 196/2003:",
+    "options": [
+      { "id": "a", "text": "la pubblicazione non è consentita, perché i dati relativi alla salute non possono essere diffusi", "why_wrong": null },
+      { "id": "b", "text": "la pubblicazione è consentita, perché la concessione di benefici economici è materia di interesse pubblico rilevante", "why_wrong": "L'art. 2-sexies, comma 3, dispone che per i dati relativi alla salute il trattamento avvenga comunque nel rispetto dell'art. 2-septies, il cui comma 8 ne vieta la diffusione." },
+      { "id": "c", "text": "la pubblicazione è consentita se ne è data notizia al Garante almeno dieci giorni prima", "why_wrong": "La notizia al Garante prevista dall'art. 2-ter, comma 3, non supera il divieto di diffusione dei dati relativi alla salute posto dall'art. 2-septies, comma 8." },
+      { "id": "d", "text": "la pubblicazione è consentita con il consenso dei beneficiari", "why_wrong": "Il divieto di diffusione dell'art. 2-septies, comma 8, non prevede eccezioni legate al consenso." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-septies, comma 8, vieta la diffusione dei dati genetici, biometrici e relativi alla salute. Anche quando il trattamento è di interesse pubblico rilevante, l'art. 2-sexies, comma 3, richiede per questi dati il rispetto dell'art. 2-septies: la patologia dei beneficiari non può quindi essere pubblicata sul sito.",
+    "evidence": [
+      { "ref": "art. 2-septies, comma 8", "text": "I dati personali di cui al comma 1 non possono essere diffusi." },
+      { "ref": "art. 2-sexies, comma 3", "text": "Per i dati genetici, biometrici e relativi alla salute il trattamento avviene comunque nel rispetto di quanto previsto dall'articolo 2-septies." }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 2-septies, comma 8", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-008",
+    "subject": "privacy",
+    "question": "Ai sensi del d.lgs. 196/2003, l'interessato che ritiene violati i propri diritti in materia di protezione dei dati personali e ha già presentato reclamo al Garante:",
+    "options": [
+      { "id": "a", "text": "non può proporre un'ulteriore domanda dinanzi all'autorità giudiziaria tra le stesse parti e per il medesimo oggetto, salvo quanto previsto dalla legge", "why_wrong": null },
+      { "id": "b", "text": "può proporre contemporaneamente ricorso all'autorità giudiziaria per il medesimo oggetto", "why_wrong": "L'art. 140-bis, comma 3, dispone che la presentazione del reclamo renda improponibile un'ulteriore domanda giudiziaria tra le stesse parti e per il medesimo oggetto." },
+      { "id": "c", "text": "può impugnare la decisione del Garante soltanto dinanzi al tribunale amministrativo regionale", "why_wrong": "Avverso la decisione sul reclamo è ammesso ricorso ai sensi dell'art. 152 (art. 143, comma 4), che attribuisce le controversie all'autorità giudiziaria ordinaria." },
+      { "id": "d", "text": "poteva presentarlo soltanto dopo aver adito l'autorità giudiziaria", "why_wrong": "È il contrario: il reclamo non può essere proposto se, per il medesimo oggetto e tra le stesse parti, è già stata adita l'autorità giudiziaria (art. 140-bis, comma 2)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 140-bis rende alternativi reclamo al Garante e ricorso giudiziario. Il reclamo non può essere proposto se per lo stesso oggetto e tra le stesse parti è già stata adita l'autorità giudiziaria (comma 2). Presentato il reclamo, è improponibile un'ulteriore domanda giudiziaria tra le stesse parti e per il medesimo oggetto, salvo quanto previsto dalla legge (comma 3).",
+    "evidence": [
+      { "ref": "art. 140-bis, comma 3", "text": "La presentazione del reclamo al Garante rende improponibile un'ulteriore domanda dinanzi all'autorità giudiziaria tra le stesse parti e per il medesimo oggetto" }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 140-bis, comma 3", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-009",
+    "subject": "privacy",
+    "question": "Ai sensi del d.lgs. 196/2003, il Collegio del Garante per la protezione dei dati personali:",
+    "options": [
+      { "id": "a", "text": "è costituito da quattro componenti, eletti due dalla Camera dei deputati e due dal Senato della Repubblica, con incarico di durata settennale non rinnovabile", "why_wrong": null },
+      { "id": "b", "text": "è costituito da quattro componenti, eletti due dalla Camera dei deputati e due dal Senato della Repubblica, con incarico di durata settennale rinnovabile una volta", "why_wrong": "L'art. 153, comma 3, dispone che gli incarichi di presidente e di componente non siano rinnovabili." },
+      { "id": "c", "text": "è costituito da cinque componenti nominati dal Presidente della Repubblica, con incarico di durata settennale non rinnovabile", "why_wrong": "L'art. 153, comma 1, prevede quattro componenti, eletti due dalla Camera e due dal Senato." },
+      { "id": "d", "text": "è costituito da quattro componenti, eletti due dalla Camera dei deputati e due dal Senato della Repubblica, con incarico di durata quinquennale non rinnovabile", "why_wrong": "L'art. 153, comma 3, prevede per presidente e componenti una durata settennale." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 153 stabilisce che il Garante è composto dal Collegio e dall'Ufficio. Il Collegio ha quattro componenti, eletti due dalla Camera e due dal Senato con voto limitato (comma 1). Gli incarichi di presidente e di componente durano sette anni e non sono rinnovabili (comma 3).",
+    "evidence": [
+      { "ref": "art. 153, comma 1", "text": "Il Collegio è costituito da quattro componenti, eletti due dalla Camera dei deputati e due dal Senato della Repubblica con voto limitato." },
+      { "ref": "art. 153, comma 3", "text": "L'incarico di presidente e quello di componente hanno durata settennale e non sono rinnovabili." }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 153, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-cod-010",
+    "subject": "privacy",
+    "question": "Ai sensi dell'art. 154 del d.lgs. 196/2003, fatti salvi i termini più brevi previsti per legge, il parere del Garante è reso:",
+    "options": [
+      { "id": "a", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione può procedere indipendentemente dall'acquisizione del parere", "why_wrong": null },
+      { "id": "b", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, il parere si intende reso in senso favorevole", "why_wrong": "L'art. 154, comma 5, non qualifica il silenzio come parere favorevole: prevede che l'amministrazione possa procedere indipendentemente dall'acquisizione del parere." },
+      { "id": "c", "text": "entro sessanta giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione deve rinnovare la richiesta", "why_wrong": "Sessanta giorni è la durata minima della consultazione pubblica sugli schemi di regole deontologiche (art. 2-quater, comma 2); per il parere l'art. 154, comma 5, prevede quarantacinque giorni." },
+      { "id": "d", "text": "entro venti giorni dal ricevimento della richiesta, senza possibilità di interruzione", "why_wrong": "Venti giorni è il termine entro cui il parere va reso dopo l'interruzione per esigenze istruttorie, decorrente dal ricevimento degli elementi istruttori (art. 154, comma 5)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 154, comma 5, fissa in quarantacinque giorni dal ricevimento della richiesta il termine per il parere del Garante; decorso il termine, l'amministrazione può procedere senza il parere. Per esigenze istruttorie il termine può essere interrotto una sola volta, e il parere va reso entro venti giorni dal ricevimento degli elementi istruttori.",
+    "evidence": [
+      { "ref": "art. 154, comma 5", "text": "Fatti salvi i termini più brevi previsti per legge, il parere del Garante, anche nei casi di cui agli articoli 36, paragrafo 4, del Regolamento, è reso nel termine di quarantacinque giorni dal ricevimento della richiesta. Decorso il termine, l'amministrazione può procedere indipendentemente dall'acquisizione del parere." }
+    ],
+    "source": { "act": "D.lgs. 196/2003", "article": "art. 154, comma 5", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
