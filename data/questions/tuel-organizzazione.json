@@ -16,7 +16,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 89, comma 6", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -36,7 +36,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 90, comma 3-bis", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -56,7 +56,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 90, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 non superato: l'evidence riportata per l'art. 90, comma 1, si interrompe a \"costituiti da dipendenti dell'ente, ovvero,\" e quindi non sostiene la parte della risposta corretta (d) relativa ai \"collaboratori a tempo determinato\", né l'affermazione della spiegazione sull'aspettativa senza assegni. Il testo completo di TUEL.txt prosegue: \"salvo che per gli enti dissestati o strutturalmente deficitari, da collaboratori assunti con contratto a tempo determinato, i quali, se dipendenti da una pubblica amministrazione, sono collocati in aspettativa senza assegni.\" Correzione suggerita: estendere l'evidence fino a \"aspettativa senza assegni.\" (eventualmente dividerla in due spezzoni verbatim). Valutare anche di menzionare nell'opzione d o nella spiegazione l'eccezione per gli enti dissestati o strutturalmente deficitari, prevista espressamente dal comma 1.",
     "no_shuffle": false
   },
   {
@@ -76,7 +77,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 91, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -96,7 +97,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 92, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -116,7 +117,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 93, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -136,7 +137,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 93, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -156,7 +157,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +177,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -196,7 +197,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 99, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -236,7 +237,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 99, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -256,7 +257,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 100, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -277,7 +278,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 101, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -297,7 +298,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -317,7 +318,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -337,7 +338,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -357,7 +358,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 108, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -377,7 +378,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 108, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -397,7 +398,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 109, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
