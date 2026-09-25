@@ -7,6 +7,7 @@
  * and returns a result.
  *
  *   - migrateStore:   bring saved data from older versions to the current one
+ *   - syncRevisions:  reset the progress of questions whose "rev" went up
  *   - recordAnswer:   update a question's statistics after an answer
  *   - isConsolidated: last two answers correct, on two different days
  *   - subjectProgress:copertura, consolidate, % corrette recenti
@@ -54,6 +55,8 @@
    *                              the last HISTORY_MAX answers, oldest first:
    *                              time in ms, ok 1/0; unknownDay 1 marks answers
    *                              given before version 2, whose day is unknown
+   *   rev                        the question's "rev" these answers belong to
+   *                              (missing = 1, see syncRevisions)
    * }
    * ------------------------------------------------------------------- */
 
@@ -121,6 +124,43 @@
     return store;
   }
 
+  /** A question's revision: its "rev" field, 1 when missing (or not a whole number >= 1). */
+  function questionRev(q) {
+    const r = q && q.rev;
+    return Number.isInteger(r) && r >= 1 ? r : 1;
+  }
+
+  /** Revision saved with a question's progress: 1 when missing (progress saved before "rev" existed). */
+  function progressRev(p) {
+    return p && Number.isInteger(p.rev) && p.rev >= 1 ? p.rev : 1;
+  }
+
+  function freshProgress(rev) {
+    return { attempts: 0, correct: 0, wrong: 0, lastCorrect: null, streak: 0, inErrors: false, h: [], rev };
+  }
+
+  /**
+   * When a question's "rev" is higher than the one saved with its progress,
+   * the question was changed enough that the old answers no longer count:
+   * its progress starts again (never seen, not in Ripasso errori, no answers
+   * for consolidation, statistics or the estimate). Every other question is
+   * left exactly as it is, including those with no progress or not in the bank.
+   * Returns the ids that were reset.
+   */
+  function syncRevisions(store, questions) {
+    const reset = [];
+    questions.forEach((q) => {
+      const p = store.progress[q.id];
+      if (!p) return;
+      const rev = questionRev(q);
+      if (rev > progressRev(p)) {
+        store.progress[q.id] = freshProgress(rev);
+        reset.push(q.id);
+      }
+    });
+    return reset;
+  }
+
   /** The last two answers were both correct AND given on two different (known) days. */
   function isConsolidated(p) {
     const h = p && p.h;
@@ -129,11 +169,19 @@
     return a[1] === 1 && b[1] === 1 && !a[2] && !b[2] && localDay(a[0]) !== localDay(b[0]);
   }
 
-  /** Update the statistics of one question after an answer. */
-  function recordAnswer(store, qid, isCorrect, now) {
+  /**
+   * Update the statistics of one question after an answer.
+   * `rev` is the question's revision (questionRev); it is saved with the progress.
+   */
+  function recordAnswer(store, qid, isCorrect, now, rev) {
     const t = now == null ? Date.now() : now;
-    const p = store.progress[qid] || { attempts: 0, correct: 0, wrong: 0, lastCorrect: null, streak: 0, inErrors: false, h: [] };
+    const r = Number.isInteger(rev) && rev >= 1 ? rev : 1;
+    let p = store.progress[qid];
+    // Answers saved for an older revision do not count (normally already reset by syncRevisions)
+    if (p && r > progressRev(p)) p = null;
+    if (!p) p = freshProgress(r);
     if (!Array.isArray(p.h)) p.h = rebuildHistory(p);
+    p.rev = Math.max(r, progressRev(p));
     p.attempts++;
     p.lastAt = t;
     p.lastCorrect = isCorrect;
@@ -356,6 +404,7 @@
   return {
     STORE_VERSION, HISTORY_MAX, RECENT_ANSWERS, MIN_ANSWERS, DEFAULT_SETTINGS,
     localDay, shuffle, emptyStore, migrateStore, rebuildHistory,
+    questionRev, progressRev, syncRevisions,
     isConsolidated, recordAnswer, recentAnswers, subjectProgress,
     examPlan, estimateScore, buildDaily, daysUntil
   };

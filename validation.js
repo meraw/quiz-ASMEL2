@@ -34,6 +34,7 @@
     if (!isText(q.question)) problems.push('campo "question" mancante o vuoto');
     if (!isText(q.explanation)) problems.push('campo "explanation" mancante o vuoto');
     if (q.no_shuffle != null && typeof q.no_shuffle !== 'boolean') problems.push('"no_shuffle" deve essere true o false');
+    if (q.rev != null && !(Number.isInteger(q.rev) && q.rev >= 1)) problems.push('"rev" deve essere un numero intero maggiore o uguale a 1');
     if (q.source != null && (typeof q.source !== 'object' || Array.isArray(q.source))) problems.push('"source" deve essere un oggetto o null');
     else if (q.source != null && q.source.file != null && !(isText(q.source.file) && q.source.file.startsWith('sources/'))) {
       problems.push('"source.file" deve essere il percorso di un file in sources/ (es. "sources/L241-1990_2026-09-24.txt") o null');

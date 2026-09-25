@@ -60,7 +60,7 @@ so you can see a red cross on the pull request page before you merge it.
 |---|---|
 | `index.html` | The page the browser opens. It is almost empty: the app draws every screen into it. |
 | `validation.js` | The rules that decide whether a question is valid. Used both by the app and by `tools/validate.js`, so they always agree. |
-| `study.js` | The study rules: answer history, "consolidata", error review, daily session, score estimate, migration of saved data. Tested by `tests/study.test.js`. |
+| `study.js` | The study rules: answer history, "consolidata", error review, daily session, score estimate, migration of saved data, reset of questions whose `rev` went up. Tested by `tests/study.test.js`. |
 | `style.css` | Colours, sizes and layout (including dark mode). |
 | `app.js` | The screens: home, quiz modes, statistics, settings, backup. Comments explain each part. |
 | `tests/study.test.js` | Automatic tests of `study.js` (run before every deploy). |
@@ -135,6 +135,7 @@ You will normally only edit files in the `data/` folder.
 | `status` | One of the statuses below. |
 | `review_note` | *Optional.* A note written during review (usually explaining what is wrong with a `da_rivedere` question). Shown in **Diagnostica** next to the question. |
 | `no_shuffle` | `true` keeps the options in the written order (useful for "tutte le precedenti"). Otherwise the app mixes them up each time. |
+| `rev` | *Optional.* The revision of the question: a whole number, `1` or more. Missing means `1`. Raise it (e.g. from `1` to `2`) only when you change a question so much that your old answers to it no longer mean anything (a different correct answer, a rewritten question). See [Resetting one question's progress](#resetting-one-questions-progress-rev). |
 
 #### Statuses
 
@@ -180,6 +181,23 @@ To fix a `da_rivedere` question: read its note in **Diagnostica**, correct the
 question in its file, delete the `review_note` line and set the status back to
 `da_verificare` (or `verificata` if you checked it). Until then it never appears
 in practice or in the simulation.
+
+### Resetting one question's progress (`rev`)
+
+The app saves, with your progress on each question, the `rev` the question had
+when you answered it (`1` for everything answered before `rev` existed). When
+the app loads a question whose `rev` is **higher** than the saved one, it
+resets the progress of **that question only**:
+
+- it counts as never seen (it can come back as a *nuova* question);
+- it leaves **Ripasso errori**;
+- its old answers no longer count for *consolidata*, the statistics per
+  subject or the **Stima** of the score.
+
+Your progress on every other question stays exactly as it was. Fixing a typo
+or improving an explanation does not need a new `rev`: leave it as it is.
+Never lower a `rev`. Your "Segnala dubbio" note and past simulation results
+are kept.
 
 ---
 
