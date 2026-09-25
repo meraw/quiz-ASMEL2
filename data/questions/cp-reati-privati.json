@@ -195,7 +195,7 @@
       {
         "id": "c",
         "text": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità",
-        "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la minaccia ai componenti di un Corpo amministrativo è prevista dall'art. 338."
+        "why_wrong": "L'art. 340 punisce chi cagiona un'interruzione o turba la regolarità di un ufficio o servizio pubblico solo «fuori dei casi preveduti da particolari disposizioni di legge»; la minaccia ai componenti di un Corpo amministrativo per impedirne l'attività è prevista dall'art. 338."
       },
       {
         "id": "d",
@@ -288,12 +288,12 @@
       {
         "id": "c",
         "text": "in luogo pubblico o aperto al pubblico, anche in assenza di altre persone, mentre il pubblico ufficiale compie un atto d'ufficio e a causa delle sue funzioni",
-        "why_wrong": "L'art. 341-bis richiede anche la presenza di più persone."
+        "why_wrong": "Il luogo pubblico e l'atto d'ufficio non bastano: l'art. 341-bis richiede anche che l'offesa avvenga «in presenza di più persone»."
       },
       {
         "id": "d",
         "text": "in luogo pubblico o aperto al pubblico e in presenza di più persone, anche quando il pubblico ufficiale non sta compiendo un atto d'ufficio, purché a causa delle sue funzioni",
-        "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga mentre il pubblico ufficiale compie un atto d'ufficio."
+        "why_wrong": "Il luogo e la presenza di più persone non bastano: l'art. 341-bis richiede che l'offesa avvenga «mentre compie un atto d'ufficio», oltre che a causa o nell'esercizio delle funzioni."
       }
     ],
     "correct": "a",
@@ -503,12 +503,12 @@
       {
         "id": "a",
         "text": "compiere un qualsiasi atto del suo ufficio, anche legittimo, dal quale possa derivare un vantaggio indebito",
-        "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato."
+        "why_wrong": "Il vantaggio indebito non basta: l'art. 346-bis, secondo comma, richiede che l'atto sia contrario ai doveri d'ufficio e costituisca reato, non un qualsiasi atto dell'ufficio."
       },
       {
         "id": "b",
         "text": "compiere un atto contrario ai doveri d'ufficio, anche se non costituente reato, dal quale possa derivare un vantaggio indebito",
-        "why_wrong": "Il secondo comma dell'art. 346-bis richiede che l'atto contrario ai doveri d'ufficio costituisca reato."
+        "why_wrong": "Il vantaggio indebito non basta: l'art. 346-bis, secondo comma, richiede che l'atto contrario ai doveri d'ufficio sia anche «costituente reato»."
       },
       {
         "id": "c",
@@ -592,7 +592,7 @@
       {
         "id": "a",
         "text": "non è punibile, essendo regolarmente abilitato all'esercizio della professione",
-        "why_wrong": "Il terzo comma dell'art. 348 punisce proprio il professionista che ha determinato altri a commettere il reato o ne ha diretto l'attività."
+        "why_wrong": "L'abilitazione non esclude la punibilità: l'art. 348, terzo comma, punisce proprio il professionista che ha determinato altri a commettere il reato o ha diretto l'attività di chi vi ha concorso."
       },
       {
         "id": "b",
@@ -833,7 +833,7 @@
       {
         "id": "c",
         "text": "L'art. 355 si applica soltanto ai subfornitori, ai mediatori e ai rappresentanti dei fornitori; l'art. 356 al fornitore principale che ha concluso il contratto con lo Stato o con altro ente pubblico",
-        "why_wrong": "L'art. 355 riguarda chiunque sia obbligato dal contratto di fornitura; il quarto comma lo estende ai subfornitori, ai mediatori e ai rappresentanti dei fornitori."
+        "why_wrong": "L'art. 355 si applica a chiunque sia obbligato da un contratto di fornitura con lo Stato, con un altro ente pubblico o con un'impresa esercente servizi pubblici; il quarto comma vi aggiunge soltanto i subfornitori, i mediatori e i rappresentanti dei fornitori."
       },
       {
         "id": "d",

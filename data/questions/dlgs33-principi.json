@@ -141,12 +141,12 @@
       {
         "id": "a",
         "text": "esclusivamente tramite la pubblicazione nei siti istituzionali di documenti, informazioni e dati concernenti l'organizzazione e l'attività delle amministrazioni",
-        "why_wrong": "Il comma 1 indica due strumenti: l'accesso civico e la pubblicazione."
+        "why_wrong": "Il comma 1 non si limita alla pubblicazione: la libertà di accesso è garantita anche tramite l'accesso civico."
       },
       {
         "id": "b",
         "text": "tramite l'accesso ai documenti amministrativi riservato ai titolari di un interesse diretto, concreto e attuale, corrispondente a una situazione giuridicamente tutelata",
-        "why_wrong": "Il comma 1 parla di libertà di accesso di «chiunque», tramite accesso civico e pubblicazione."
+        "why_wrong": "Il comma 1 garantisce la libertà di accesso di «chiunque», tramite accesso civico e pubblicazione, senza richiedere un interesse diretto, concreto e attuale."
       },
       {
         "id": "c",
@@ -196,7 +196,7 @@
       {
         "id": "c",
         "text": "è legittima per i soli dati che contengono informazioni personali, poiché per essi la consultazione deve essere riservata ai soggetti previamente identificati",
-        "why_wrong": "Il comma 2 non prevede questa distinzione; i dati personali non pertinenti vanno resi non intelligibili (art. 7-bis, comma 4)."
+        "why_wrong": "Il comma 2 non distingue per tipo di dati e non prevede identificazione; per i dati personali non pertinenti l'art. 7-bis, comma 4, prevede che siano resi non intelligibili."
       },
       {
         "id": "d",
@@ -320,7 +320,7 @@
       {
         "id": "a",
         "text": "Sì, perché il bilancio supera cinquecentomila euro e il finanziamento pubblico è maggioritario per almeno due esercizi consecutivi nell'ultimo triennio",
-        "why_wrong": "La lettera c) richiede anche che la totalità dei titolari o componenti dell'organo sia designata da pubbliche amministrazioni."
+        "why_wrong": "Le soglie di bilancio e di finanziamento sono rispettate, ma la lettera c) richiede anche che la totalità dei titolari o dei componenti dell'organo sia designata da pubbliche amministrazioni; qui ne è designata solo la metà."
       },
       {
         "id": "b",
@@ -410,7 +410,7 @@
       {
         "id": "a",
         "text": "integralmente, come per le pubbliche amministrazioni, a tutti i dati e documenti detenuti, indipendentemente dal tipo di attività svolta",
-        "why_wrong": "Il comma 3 limita l'applicazione ai dati e documenti inerenti all'attività di pubblico interesse."
+        "why_wrong": "Il comma 3 non prevede un'applicazione integrale: la disciplina si applica limitatamente ai dati e documenti inerenti all'attività di pubblico interesse."
       },
       {
         "id": "b",
@@ -425,7 +425,7 @@
       {
         "id": "d",
         "text": "soltanto per gli obblighi relativi ai titolari di incarichi politici e ai dirigenti, nonché per i dati sui pagamenti effettuati dalla società",
-        "why_wrong": "Il comma 3 fa riferimento ai dati e documenti inerenti all'attività di pubblico interesse."
+        "why_wrong": "Il comma 3 non limita l'applicazione agli obblighi su incarichi politici, dirigenti e pagamenti, ma ai dati e documenti inerenti all'attività di pubblico interesse."
       }
     ],
     "correct": "c",
@@ -460,12 +460,12 @@
       {
         "id": "b",
         "text": "sono pubblici e chiunque può conoscerli gratuitamente, ma possono essere riutilizzati solo per fini non commerciali e citando la fonte",
-        "why_wrong": "L'art. 3 rinvia all'art. 7, che consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
+        "why_wrong": "L'art. 3 rinvia all'art. 7, che non prevede la limitazione ai fini non commerciali: il riutilizzo è consentito senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
       },
       {
         "id": "c",
         "text": "sono conoscibili dai soli soggetti titolari di un interesse diretto, concreto e attuale, previo pagamento dei diritti di segreteria",
-        "why_wrong": "L'art. 3 riconosce a chiunque il diritto di conoscerli e di fruirne gratuitamente."
+        "why_wrong": "L'art. 3 riconosce a chiunque, senza necessità di un interesse qualificato, il diritto di conoscerli e di fruirne gratuitamente."
       },
       {
         "id": "d",
@@ -510,7 +510,7 @@
       {
         "id": "c",
         "text": "abrogare con propria delibera, sentito il Garante per la protezione dei dati personali, gli obblighi di pubblicazione non più attuali o sproporzionati",
-        "why_wrong": "Il comma 1-bis consente di sostituire la pubblicazione integrale con informazioni riassuntive, non di abrogare obblighi."
+        "why_wrong": "Il comma 1-bis non consente di abrogare obblighi, ma di sostituire la pubblicazione integrale con informazioni riassuntive; il Garante è sentito solo se sono coinvolti dati personali."
       },
       {
         "id": "d",
@@ -545,7 +545,7 @@
       {
         "id": "a",
         "text": "può esonerarlo dagli obblighi di pubblicazione con provvedimento individuale, adottato sentito il Garante per la protezione dei dati personali",
-        "why_wrong": "Il comma 1-ter consente di precisare obblighi e modalità, non di esonerare dagli obblighi."
+        "why_wrong": "Il comma 1-ter non prevede esoneri con provvedimento individuale, ma consente all'ANAC di precisare obblighi e modalità con il Piano nazionale anticorruzione."
       },
       {
         "id": "b",
@@ -600,7 +600,7 @@
       {
         "id": "c",
         "text": "alla tipologia di spesa sostenuta e all'ambito temporale di riferimento, con esclusione dei beneficiari",
-        "why_wrong": "Il comma 2 include espressamente i beneficiari."
+        "why_wrong": "Il comma 2 prevede la consultazione anche in relazione ai beneficiari, oltre che alla tipologia di spesa e all'ambito temporale."
       },
       {
         "id": "d",
@@ -689,7 +689,7 @@
       {
         "id": "b",
         "text": "l'integrità, il costante aggiornamento e la completezza, ma non la riutilizzabilità dei dati da parte di terzi",
-        "why_wrong": "Il comma 1 comprende anche la riutilizzabilità secondo l'art. 7."
+        "why_wrong": "Tra le qualità indicate dal comma 1 rientra anche la riutilizzabilità secondo l'art. 7, che non può quindi essere esclusa."
       },
       {
         "id": "c",
@@ -699,7 +699,7 @@
       {
         "id": "d",
         "text": "la consultabilità dei dati previa registrazione e identificazione dell'utente, a garanzia della provenienza delle richieste di accesso",
-        "why_wrong": "L'accesso ai siti avviene senza autenticazione ed identificazione (art. 2, comma 2)."
+        "why_wrong": "Il comma 1 non prevede la registrazione dell'utente; l'art. 2, comma 2, garantisce l'accesso ai siti senza autenticazione ed identificazione."
       }
     ],
     "correct": "c",
@@ -729,7 +729,7 @@
       {
         "id": "a",
         "text": "il rinvio è legittimo, perché la qualità delle informazioni, inclusa la loro completezza e la conformità ai documenti originali, prevale sempre sulla tempestività",
-        "why_wrong": "Il comma 2 esclude che l'esigenza di qualità giustifichi la ritardata pubblicazione."
+        "why_wrong": "Completezza e conformità agli originali sono requisiti di qualità del comma 1, ma il comma 2 esclude che l'esigenza di qualità possa in ogni caso giustificare la ritardata pubblicazione."
       },
       {
         "id": "b",
@@ -739,7 +739,7 @@
       {
         "id": "c",
         "text": "il rinvio è legittimo fino a un massimo di sei mesi, purché i dati siano poi pubblicati e mantenuti per il periodo di 5 anni",
-        "why_wrong": "Il comma 2 non prevede alcun termine di rinvio."
+        "why_wrong": "Il comma 2 non ammette alcun rinvio per esigenze di qualità; il periodo di 5 anni riguarda la durata della pubblicazione (art. 8, comma 3), non un termine di differimento."
       },
       {
         "id": "d",
@@ -779,7 +779,7 @@
       {
         "id": "b",
         "text": "deve chiedere preventivamente l'autorizzazione della Regione, indicando la fonte e le finalità del riutilizzo",
-        "why_wrong": "L'art. 7 consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
+        "why_wrong": "L'art. 7 non richiede alcuna autorizzazione né l'indicazione delle finalità: prevede solo l'obbligo di citare la fonte e di rispettarne l'integrità."
       },
       {
         "id": "c",
@@ -789,7 +789,7 @@
       {
         "id": "d",
         "text": "non può farlo, perché i dati pubblicati sono destinati alla sola consultazione sul sito istituzionale",
-        "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli e l'art. 7 li dichiara riutilizzabili."
+        "why_wrong": "I dati non sono destinati alla sola consultazione: l'art. 3 riconosce il diritto di utilizzarli e riutilizzarli e l'art. 7 li dichiara riutilizzabili."
       }
     ],
     "correct": "a",
@@ -823,7 +823,7 @@
       {
         "id": "a",
         "text": "non può farlo, perché nei siti istituzionali si possono pubblicare soltanto i dati oggetto di un obbligo di pubblicazione",
-        "why_wrong": "Il comma 3 consente espressamente la pubblicazione di dati non obbligatori."
+        "why_wrong": "Il comma 3 consente alle PA di pubblicare anche dati, informazioni e documenti che non hanno l'obbligo di pubblicare."
       },
       {
         "id": "b",
@@ -868,7 +868,7 @@
       {
         "id": "a",
         "text": "tutti i dati personali presenti nell'atto, compresi quelli pertinenti rispetto alle specifiche finalità di trasparenza della pubblicazione",
-        "why_wrong": "Il comma 4 riguarda solo i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili."
+        "why_wrong": "Il comma 4 non riguarda i dati pertinenti, ma solo i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili."
       },
       {
         "id": "b",
@@ -1006,17 +1006,17 @@
       {
         "id": "a",
         "text": "da ciascuna amministrazione, con proprio regolamento, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso ricevute",
-        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'Autorità nazionale anticorruzione."
+        "why_wrong": "I criteri indicati sono quelli del comma 3-bis, ma la determinazione spetta all'Autorità nazionale anticorruzione, non a ciascuna amministrazione con regolamento."
       },
       {
         "id": "b",
         "text": "dal Garante per la protezione dei dati personali, sentita l'Autorità nazionale anticorruzione, sulla base della natura dei dati personali pubblicati e delle esigenze di semplificazione",
-        "why_wrong": "Il Garante può solo formulare una proposta; la determinazione spetta all'ANAC."
+        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'ANAC; il Garante per la protezione dei dati personali può soltanto formulare una proposta."
       },
       {
         "id": "c",
         "text": "dal responsabile della prevenzione della corruzione e della trasparenza di ciascun ente, nell'apposita sezione del Piano triennale per la prevenzione della corruzione, sulla base di una valutazione del rischio corruttivo",
-        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'ANAC."
+        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'ANAC, non al RPCT; la sezione del Piano triennale indica i responsabili della trasmissione e della pubblicazione (art. 10, comma 1)."
       },
       {
         "id": "d",
@@ -1051,7 +1051,7 @@
       {
         "id": "a",
         "text": "è legittima, se la sezione resta raggiungibile dalla home page e i dati sono comunque pubblicati in formato di tipo aperto e riutilizzabili ai sensi dell'art. 7",
-        "why_wrong": "Il comma 1 vieta in ogni caso filtri e soluzioni tecniche che impediscano l'indicizzazione."
+        "why_wrong": "Il formato aperto e la riutilizzabilità (art. 7) non rilevano: il comma 1 vieta in ogni caso filtri e soluzioni tecniche che impediscano l'indicizzazione della sezione."
       },
       {
         "id": "b",
@@ -1066,7 +1066,7 @@
       {
         "id": "d",
         "text": "è legittima previa autorizzazione dell'Autorità nazionale anticorruzione, adottata sentito il Garante per la protezione dei dati personali",
-        "why_wrong": "Il comma 1 non prevede autorizzazioni in deroga al divieto."
+        "why_wrong": "Il comma 1 pone un divieto senza prevedere autorizzazioni in deroga da parte dell'ANAC o pareri del Garante."
       }
     ],
     "correct": "b",
@@ -1096,12 +1096,12 @@
       {
         "id": "a",
         "text": "al responsabile della prevenzione della corruzione e della trasparenza del Comune tenuto alla comunicazione dei dati",
-        "why_wrong": "Il RPCT dell'amministrazione tenuta alla comunicazione è competente quando l'omissione è imputabile a essa (comma 4)."
+        "why_wrong": "Il RPCT dell'amministrazione tenuta alla comunicazione è competente solo se l'omissione è imputabile a essa (comma 4); qui i dati sono stati effettivamente comunicati (comma 3)."
       },
       {
         "id": "b",
         "text": "all'Autorità nazionale anticorruzione, che ordina all'amministrazione titolare della banca dati di pubblicare i dati mancanti",
-        "why_wrong": "Il comma 3 indica il RPCT dell'amministrazione titolare della banca dati."
+        "why_wrong": "Il comma 3 non indica l'ANAC, ma il RPCT dell'amministrazione titolare della banca dati."
       },
       {
         "id": "c",
@@ -1111,7 +1111,7 @@
       {
         "id": "d",
         "text": "al difensore civico competente per ambito territoriale o, se non istituito, a quello dell'ambito immediatamente superiore",
-        "why_wrong": "Il difensore civico è competente per i ricorsi contro il diniego di accesso (art. 5, comma 8), non per la presentazione della richiesta."
+        "why_wrong": "Il difensore civico competente per ambito territoriale decide i ricorsi contro il diniego di accesso (art. 5, comma 8); la richiesta va presentata al RPCT dell'amministrazione titolare della banca dati (comma 3)."
       }
     ],
     "correct": "c",
@@ -1195,12 +1195,12 @@
       {
         "id": "c",
         "text": "è compito esclusivo dell'Autorità nazionale anticorruzione, che vi provvede con il Piano nazionale anticorruzione",
-        "why_wrong": "Il comma 3 la attribuisce a ogni amministrazione."
+        "why_wrong": "Il comma 3 qualifica la promozione della trasparenza come obiettivo strategico di ogni amministrazione, non come compito esclusivo dell'ANAC."
       },
       {
         "id": "d",
         "text": "costituisce un obiettivo strategico delle sole amministrazioni centrali dello Stato, da tradurre in obiettivi organizzativi e individuali",
-        "why_wrong": "Il comma 3 si riferisce a ogni amministrazione."
+        "why_wrong": "Il comma 3 riferisce l'obiettivo strategico a ogni amministrazione, non alle sole amministrazioni centrali dello Stato."
       }
     ],
     "correct": "b",

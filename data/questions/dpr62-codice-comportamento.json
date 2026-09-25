@@ -152,7 +152,7 @@
       {
         "id": "c",
         "text": "comunica l'adesione al responsabile dell'ufficio e deve comunque recedere dall'associazione entro trenta giorni dalla comunicazione",
-        "why_wrong": "Il comma 1 prevede solo l'obbligo di comunicazione, non il recesso."
+        "why_wrong": "La comunicazione al responsabile dell'ufficio è dovuta, ma il comma 1 non impone alcun recesso dall'associazione."
       },
       {
         "id": "d",
@@ -231,17 +231,17 @@
       {
         "id": "a",
         "text": "può istruire la pratica, purché ne dia notizia per iscritto al responsabile dell'ufficio e nel provvedimento finale",
-        "why_wrong": "L'art. 7 impone l'astensione quando la decisione o l'attività possono coinvolgere interessi del coniuge."
+        "why_wrong": "La comunicazione non basta: l'art. 7 impone l'astensione dalle decisioni o attività che possano coinvolgere interessi del coniuge."
       },
       {
         "id": "b",
         "text": "deve astenersi dal partecipare alla decisione e all'attività; sull'astensione decide il Responsabile della prevenzione della corruzione",
-        "why_wrong": "L'art. 7 attribuisce la decisione sull'astensione al responsabile dell'ufficio di appartenenza."
+        "why_wrong": "L'obbligo di astensione è corretto, ma l'art. 7 affida la decisione sull'astensione al responsabile dell'ufficio di appartenenza, non al Responsabile della prevenzione della corruzione."
       },
       {
         "id": "c",
         "text": "deve astenersi solo se il conflitto di interessi è attuale e di natura patrimoniale; sull'astensione decide il responsabile dell'ufficio",
-        "why_wrong": "L'art. 7 prevede l'astensione quando le attività possano coinvolgere interessi del coniuge, e anche in ogni caso di gravi ragioni di convenienza."
+        "why_wrong": "L'art. 7 non richiede un conflitto attuale e patrimoniale: basta che le attività possano coinvolgere interessi del coniuge, e l'astensione è dovuta anche per gravi ragioni di convenienza."
       },
       {
         "id": "d",
@@ -280,7 +280,7 @@
       {
         "id": "a",
         "text": "può esprimere liberamente qualsiasi commento sull'amministrazione di appartenenza, trattandosi di un account personale e non istituzionale",
-        "why_wrong": "Il comma 2 impone di astenersi da interventi o commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione."
+        "why_wrong": "L'uso di un account personale non esclude i limiti dell'art. 11-ter: il comma 2 impone in ogni caso di astenersi da commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione."
       },
       {
         "id": "b",
@@ -290,7 +290,7 @@
       {
         "id": "c",
         "text": "deve ottenere la preventiva autorizzazione dell'amministrazione di appartenenza prima di aprire un account personale su qualsiasi piattaforma digitale o social media",
-        "why_wrong": "L'art. 11-ter non prevede autorizzazioni per l'apertura di account personali."
+        "why_wrong": "L'art. 11-ter non subordina l'apertura di account personali ad alcuna autorizzazione; il comma 4 consente alle amministrazioni di dotarsi di una social media policy."
       },
       {
         "id": "d",
@@ -335,7 +335,7 @@
       {
         "id": "c",
         "text": "segue l'ordine di priorità indicato di volta in volta dall'utente e rispetta gli appuntamenti fissati con i cittadini",
-        "why_wrong": "Il comma 1 fa riferimento all'ordine cronologico e alle priorità stabilite dall'amministrazione, non a quelle indicate dall'utente."
+        "why_wrong": "Il rispetto degli appuntamenti è previsto dall'art. 12, comma 1, ma la trattazione delle pratiche segue l'ordine cronologico o le priorità stabilite dall'amministrazione, non quelle indicate dall'utente."
       },
       {
         "id": "d",

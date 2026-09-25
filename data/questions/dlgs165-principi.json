@@ -7,7 +7,7 @@
       {
         "id": "a",
         "text": "Gli enti pubblici economici nazionali, regionali e locali e le loro associazioni",
-        "why_wrong": "Il comma 2 richiama soltanto gli enti pubblici non economici nazionali, regionali e locali."
+        "why_wrong": "Il comma 2 include tutti gli enti pubblici non economici nazionali, regionali e locali; gli enti pubblici economici non figurano nell'elenco."
       },
       {
         "id": "b",
@@ -22,7 +22,7 @@
       {
         "id": "d",
         "text": "Le aziende pubbliche che producono servizi di pubblica utilità e le loro associazioni",
-        "why_wrong": "Queste aziende sono menzionate dall'art. 8, comma 2, ai soli fini dei limiti all'incremento del costo del lavoro, non dall'art. 1, comma 2."
+        "why_wrong": "Le aziende pubbliche che producono servizi di pubblica utilità non compaiono nell'elenco dell'art. 1, comma 2: sono richiamate dall'art. 8, comma 2, in materia di limiti all'incremento del costo del lavoro."
       }
     ],
     "correct": "b",
@@ -57,7 +57,7 @@
       {
         "id": "b",
         "text": "possono essere derogate anche dai contratti individuali di lavoro, se più favorevoli al dipendente e nel rispetto dei principi del decreto",
-        "why_wrong": "Il comma 2 consente la deroga solo da parte di successivi contratti o accordi collettivi nazionali."
+        "why_wrong": "Il comma 2 attribuisce la facoltà di deroga soltanto a successivi contratti o accordi collettivi nazionali, non ai contratti individuali."
       },
       {
         "id": "c",
@@ -235,12 +235,12 @@
       {
         "id": "b",
         "text": "l'atto spetta agli organi di governo, che definiscono obiettivi e programmi, e il dirigente può adottarlo solo su loro espressa delega",
-        "why_wrong": "Il comma 2 attribuisce direttamente ai dirigenti tutti gli atti che impegnano l'amministrazione verso l'esterno."
+        "why_wrong": "Agli organi di governo spetta la definizione di obiettivi e programmi (comma 1), ma il comma 2 attribuisce direttamente ai dirigenti l'adozione degli atti che impegnano l'amministrazione verso l'esterno, senza necessità di delega."
       },
       {
         "id": "c",
         "text": "l'atto rientra nelle attribuzioni del dirigente, ma produce effetti solo dopo la successiva ratifica da parte dell'organo di governo",
-        "why_wrong": "Il comma 2 non prevede ratifica: ai dirigenti spetta l'adozione degli atti e ne sono responsabili in via esclusiva."
+        "why_wrong": "Il comma 2 attribuisce ai dirigenti l'adozione degli atti che impegnano l'amministrazione verso l'esterno e non prevede alcuna ratifica dell'organo di governo."
       },
       {
         "id": "d",
@@ -279,7 +279,7 @@
       {
         "id": "a",
         "text": "possono essere derogate soltanto espressamente e ad opera di un regolamento adottato dall'organo di governo",
-        "why_wrong": "Il comma 3 esclude le deroghe regolamentari: occorrono specifiche disposizioni legislative."
+        "why_wrong": "La deroga deve essere espressa, ma il comma 3 la riserva a specifiche disposizioni legislative, non a regolamenti dell'organo di governo."
       },
       {
         "id": "b",
@@ -289,12 +289,12 @@
       {
         "id": "c",
         "text": "possono essere avocate dall'organo di governo in caso di urgenza, con atto espresso e motivato",
-        "why_wrong": "Il comma 3 ammette soltanto deroghe espresse previste da specifiche disposizioni legislative."
+        "why_wrong": "Il comma 3 non prevede l'avocazione da parte dell'organo di governo: le attribuzioni dei dirigenti sono derogabili solo espressamente da specifiche disposizioni legislative."
       },
       {
         "id": "d",
         "text": "possono essere derogate soltanto espressamente e ad opera dei contratti collettivi nazionali di lavoro",
-        "why_wrong": "Il comma 3 riserva la deroga a specifiche disposizioni legislative."
+        "why_wrong": "La deroga deve essere espressa, ma il comma 3 la riserva a specifiche disposizioni legislative, non ai contratti collettivi nazionali."
       }
     ],
     "correct": "b",
@@ -427,7 +427,7 @@
       {
         "id": "d",
         "text": "deve trasformarlo in rapporto di lavoro subordinato a tempo determinato, per la durata necessaria a completare il progetto",
-        "why_wrong": "Il comma 6 considera causa di responsabilità amministrativa l'utilizzo degli incaricati come lavoratori subordinati."
+        "why_wrong": "La lett. c) del comma 6 consente solo la proroga dell'incarico originario per completare il progetto; l'utilizzo degli incaricati come lavoratori subordinati è causa di responsabilità amministrativa per il dirigente."
       }
     ],
     "correct": "c",

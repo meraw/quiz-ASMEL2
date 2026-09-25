@@ -66,7 +66,7 @@
       {
         "id": "d",
         "text": "La Scuola superiore della pubblica amministrazione, d'intesa con le singole amministrazioni",
-        "why_wrong": "La Scuola superiore della pubblica amministrazione si occupa della formazione dei dipendenti (comma 11)."
+        "why_wrong": "Alla Scuola superiore della pubblica amministrazione il comma 11 affida la formazione dei dipendenti pubblici, d'intesa con le amministrazioni; l'Autorità nazionale anticorruzione è la Commissione di cui al comma 2."
       }
     ],
     "correct": "c",
@@ -149,12 +149,12 @@
       {
         "id": "b",
         "text": "in materia di autorizzazioni, di cui all'art. 53 del d.lgs. 165/2001, allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali, con particolare riferimento all'applicazione del comma 16-ter",
-        "why_wrong": "In materia di autorizzazioni agli incarichi esterni i pareri sono facoltativi (lettera e)."
+        "why_wrong": "Sulle autorizzazioni agli incarichi esterni dei dirigenti ex art. 53 del d.lgs. 165/2001 l'Autorità esprime pareri facoltativi, non obbligatori (comma 2, lettera e))."
       },
       {
         "id": "c",
         "text": "sui piani triennali di prevenzione della corruzione adottati dall'organo di indirizzo di ciascuna amministrazione su proposta del Responsabile della prevenzione della corruzione e della trasparenza, prima della loro trasmissione",
-        "why_wrong": "Il piano triennale è adottato dall'organo di indirizzo e trasmesso all'Autorità (comma 8); non è previsto un parere obbligatorio."
+        "why_wrong": "Il comma 8 prevede che l'organo di indirizzo adotti il piano su proposta del responsabile e lo trasmetta all'Autorità, senza alcun parere obbligatorio di quest'ultima."
       },
       {
         "id": "d",
@@ -417,12 +417,12 @@
       {
         "id": "a",
         "text": "devono prima costituire un'unione di comuni, unica forma associata ammessa, e nominare un unico responsabile della prevenzione della corruzione e della trasparenza",
-        "why_wrong": "L'unione di comuni rileva per la nomina di un unico RPCT (comma 7); il comma 6 prevede accordi ai sensi dell'art. 15 della L. 241/1990."
+        "why_wrong": "Il comma 6 prevede l'aggregazione tramite accordi ai sensi dell'art. 15 della L. 241/1990; l'unione di comuni rileva solo per la possibilità di nominare un unico responsabile (comma 7)."
       },
       {
         "id": "b",
         "text": "possono affidare congiuntamente l'elaborazione del piano a una società di consulenza esterna, scelta secondo le indicazioni del Piano nazionale anticorruzione",
-        "why_wrong": "Il comma 8 vieta di affidare l'elaborazione del piano a soggetti estranei all'amministrazione."
+        "why_wrong": "Il comma 8 vieta di affidare l'elaborazione del piano a soggetti estranei all'amministrazione; il Piano nazionale fornisce solo le indicazioni per l'aggregazione (comma 6)."
       },
       {
         "id": "c",
@@ -642,7 +642,7 @@
       {
         "id": "a",
         "text": "all'organismo indipendente di valutazione, che decide sulla sua legittimità e ne riferisce all'organo di indirizzo",
-        "why_wrong": "All'OIV il responsabile segnala le disfunzioni nell'attuazione delle misure, non le misure discriminatorie."
+        "why_wrong": "Il comma 7 indica come destinataria delle segnalazioni l'Autorità nazionale anticorruzione; all'OIV il responsabile segnala le disfunzioni nell'attuazione delle misure."
       },
       {
         "id": "b",
@@ -692,7 +692,7 @@
       {
         "id": "b",
         "text": "su proposta dell'OIV, entro il 31 gennaio di ogni anno, curandone la trasmissione all'Autorità nazionale anticorruzione",
-        "why_wrong": "La proposta spetta al RPCT; l'OIV verifica la coerenza dei piani (comma 8-bis)."
+        "why_wrong": "Il comma 8 attribuisce la proposta del Piano al Responsabile; l'OIV ne verifica la coerenza con gli obiettivi strategico-gestionali (comma 8-bis)."
       },
       {
         "id": "c",
@@ -825,17 +825,17 @@
       {
         "id": "b",
         "text": "sono definiti dal responsabile della prevenzione della corruzione e approvati dall'OIV, che ne verifica la coerenza con la Relazione sulla performance",
-        "why_wrong": "Il responsabile propone il piano; gli obiettivi strategici sono definiti dall'organo di indirizzo."
+        "why_wrong": "Gli obiettivi strategici sono definiti dall'organo di indirizzo (comma 8); il responsabile propone il piano e l'OIV verifica la coerenza dei piani con gli obiettivi (comma 8-bis)."
       },
       {
         "id": "c",
         "text": "sono definiti dall'Autorità nazionale anticorruzione, in modo uniforme per tutte le amministrazioni, nel Piano nazionale di durata triennale",
-        "why_wrong": "Il Piano nazionale è atto di indirizzo (comma 2-bis); gli obiettivi strategici dell'ente sono definiti dal suo organo di indirizzo."
+        "why_wrong": "Il Piano nazionale è atto di indirizzo per l'adozione dei piani delle amministrazioni (comma 2-bis); gli obiettivi strategici dell'ente sono definiti dal suo organo di indirizzo (comma 8)."
       },
       {
         "id": "d",
         "text": "sono definiti dall'OIV ai fini della validazione della Relazione sulla performance e costituiscono contenuto necessario dei documenti di programmazione strategico-gestionale",
-        "why_wrong": "L'OIV verifica la coerenza dei piani con gli obiettivi (comma 8-bis), ma non li definisce."
+        "why_wrong": "La validazione della Relazione sulla performance è il contesto della verifica dell'OIV (comma 8-bis), che non definisce gli obiettivi: li definisce l'organo di indirizzo (comma 8)."
       }
     ],
     "correct": "a",
@@ -865,7 +865,7 @@
       {
         "id": "a",
         "text": "adotta il Piano triennale in caso di inerzia dell'organo di indirizzo, anche ai fini della validazione della Relazione sulla performance, e ne cura la trasmissione all'Autorità nazionale anticorruzione",
-        "why_wrong": "Il Piano è adottato dall'organo di indirizzo (comma 8); il comma 8-bis non prevede poteri sostitutivi dell'OIV."
+        "why_wrong": "Il Piano è adottato dall'organo di indirizzo, che ne cura la trasmissione all'Autorità (comma 8); il comma 8-bis non attribuisce all'OIV poteri sostitutivi."
       },
       {
         "id": "b",
@@ -875,7 +875,7 @@
       {
         "id": "c",
         "text": "elabora la proposta di Piano triennale da sottoporre all'organo di indirizzo entro il 31 gennaio, in coerenza con gli obiettivi dei documenti di programmazione strategico-gestionale",
-        "why_wrong": "La proposta spetta al responsabile della prevenzione della corruzione (comma 8)."
+        "why_wrong": "La proposta di Piano da adottare entro il 31 gennaio spetta al Responsabile della prevenzione della corruzione e della trasparenza (comma 8), non all'OIV."
       },
       {
         "id": "d",
@@ -915,7 +915,7 @@
       {
         "id": "b",
         "text": "irrogare direttamente sanzioni disciplinari ai dipendenti che non hanno attuato correttamente le misure di prevenzione",
-        "why_wrong": "Il responsabile indica i nominativi agli uffici competenti per l'azione disciplinare (comma 7); l'OIV non irroga sanzioni."
+        "why_wrong": "L'OIV non irroga sanzioni: è il responsabile a indicare agli uffici competenti per l'azione disciplinare i nominativi dei dipendenti inadempienti (comma 7)."
       },
       {
         "id": "c",
@@ -1004,17 +1004,17 @@
       {
         "id": "b",
         "text": "definire le modalità di monitoraggio del rispetto dei termini, previsti dalla legge o dai regolamenti, per la conclusione dei procedimenti di autorizzazione, concessione o erogazione di vantaggi economici",
-        "why_wrong": "È l'esigenza della lettera d), che riguarda i tempi dei procedimenti, non i rapporti con i contraenti."
+        "why_wrong": "È l'esigenza della lettera d), che riguarda il monitoraggio dei termini di conclusione dei procedimenti, non le relazioni di parentela o affinità con i contraenti (lettera e))."
       },
       {
         "id": "c",
         "text": "prevedere obblighi di informazione nei confronti del responsabile chiamato a vigilare sul funzionamento e sull'osservanza del piano, con particolare riguardo alle attività nell'ambito delle quali è più elevato il rischio di corruzione",
-        "why_wrong": "È l'esigenza della lettera c), che riguarda i flussi informativi verso il responsabile."
+        "why_wrong": "È l'esigenza della lettera c), che riguarda gli obblighi di informazione verso il responsabile, non il monitoraggio dei rapporti con i contraenti (lettera e))."
       },
       {
         "id": "d",
         "text": "prevedere, per le attività nell'ambito delle quali è più elevato il rischio di corruzione, meccanismi di formazione, attuazione e controllo delle decisioni idonei a prevenire tale rischio",
-        "why_wrong": "È l'esigenza della lettera b), che non riguarda specificamente le relazioni di parentela o affinità."
+        "why_wrong": "È l'esigenza della lettera b), relativa ai meccanismi di formazione, attuazione e controllo delle decisioni, non al monitoraggio dei rapporti con i contraenti (lettera e))."
       }
     ],
     "correct": "a",
@@ -1266,7 +1266,7 @@
       {
         "id": "a",
         "text": "propone all'organo di indirizzo il Piano triennale per l'anno successivo, curandone la pubblicazione nel sito web dell'amministrazione",
-        "why_wrong": "Il Piano è adottato su proposta del responsabile entro il 31 gennaio (comma 8)."
+        "why_wrong": "Il Piano è adottato su proposta del responsabile entro il 31 gennaio (comma 8); entro il 15 dicembre il responsabile trasmette e pubblica la relazione annuale (comma 14)."
       },
       {
         "id": "b",

@@ -52,7 +52,7 @@
       {
         "id": "a",
         "text": "deve sempre svolgere il periodo di prova nella nuova area, ma conserva le giornate di ferie maturate e non fruite",
-        "why_wrong": "Il comma 2 prevede l'esonero dal periodo di prova, con il consenso del dipendente."
+        "why_wrong": "La conservazione delle ferie è corretta, ma il comma 2 esonera il dipendente dal periodo di prova, con il suo consenso."
       },
       {
         "id": "b",
@@ -67,7 +67,7 @@
       {
         "id": "d",
         "text": "è esonerato dal periodo di prova solo se ha più di dieci anni di servizio e conserva le ferie maturate e non fruite",
-        "why_wrong": "Il comma 2 non prevede requisiti di anzianità per l'esonero: occorre il consenso del dipendente."
+        "why_wrong": "Il comma 2 subordina l'esonero dal periodo di prova al solo consenso del dipendente, senza alcun requisito di anzianità di servizio."
       }
     ],
     "correct": "c",
@@ -142,7 +142,7 @@
       {
         "id": "a",
         "text": "L'articolazione su quattro giorni è obbligatoria per tutto il personale dell'ufficio e comporta il riproporzionamento delle ferie annue",
-        "why_wrong": "Il comma 2 stabilisce che l'adesione del lavoratore è volontaria."
+        "why_wrong": "Il comma 2 stabilisce che l'adesione del lavoratore all'articolazione su quattro giorni è volontaria, non obbligatoria."
       },
       {
         "id": "b",
@@ -152,7 +152,7 @@
       {
         "id": "c",
         "text": "L'adesione è volontaria; ferie e altre assenze giornaliere sono riproporzionate, compreso il permesso per matrimonio",
-        "why_wrong": "Il comma 3 fa salvo il permesso per matrimonio dal riproporzionamento."
+        "why_wrong": "L'adesione è volontaria (comma 2), ma il comma 3 esclude dal riproporzionamento il permesso per matrimonio."
       },
       {
         "id": "d",
@@ -191,7 +191,7 @@
       {
         "id": "a",
         "text": "entro la fine della settimana di maturazione, secondo le modalità e i tempi concordati con il dirigente",
-        "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione."
+        "why_wrong": "Le modalità e i tempi sono concordati con il dirigente, ma il comma 3 fissa il termine di recupero nei due mesi successivi alla maturazione, non nella settimana."
       },
       {
         "id": "b",
@@ -236,7 +236,7 @@
       {
         "id": "a",
         "text": "va garantito un riposo di almeno 8 ore consecutive ogni 24 ore e, salvo eccezioni o diversa previsione integrativa, non si possono superare 10 turni notturni al mese",
-        "why_wrong": "La lett. c) del comma 3 richiede almeno 11 ore consecutive di riposo."
+        "why_wrong": "Il limite di 10 turni notturni è previsto dal comma 4, ma la lett. c) del comma 3 richiede un riposo di almeno 11 ore consecutive, non 8."
       },
       {
         "id": "b",
@@ -246,7 +246,7 @@
       {
         "id": "c",
         "text": "va garantito un riposo di almeno 11 ore consecutive ogni 24 ore e per turno notturno si intende il periodo tra le ore 20 e le ore 8 del giorno successivo",
-        "why_wrong": "La lett. e) del comma 3 definisce turno notturno il periodo dalle ore 22 alle ore 6 del giorno successivo."
+        "why_wrong": "Il riposo di 11 ore è corretto (comma 3, lett. c), ma la lett. e) definisce turno notturno il periodo dalle ore 22 alle ore 6 del giorno successivo."
       },
       {
         "id": "d",
@@ -467,12 +467,12 @@
       {
         "id": "a",
         "text": "spettano nel limite di 36 ore annue, comprensive dei tempi di percorrenza, e non sono computati ai fini del periodo di comporto",
-        "why_wrong": "Il comma 1 prevede 18 ore annue e il comma 2 li assimila alle assenze per malattia ai fini del comporto."
+        "why_wrong": "Il comma 1 fissa il limite in 18 ore annue, non 36, e il comma 2 assimila tali permessi alle assenze per malattia ai fini del computo del comporto."
       },
       {
         "id": "b",
         "text": "spettano nel limite di 18 ore annue, esclusi i tempi di percorrenza, e sono assimilati alle assenze per malattia ai fini del comporto",
-        "why_wrong": "Il comma 1 comprende nelle 18 ore anche i tempi di percorrenza."
+        "why_wrong": "L'assimilazione alla malattia ai fini del comporto è corretta (comma 2), ma il comma 1 include nelle 18 ore anche i tempi di percorrenza."
       },
       {
         "id": "c",
@@ -521,7 +521,7 @@
       {
         "id": "b",
         "text": "le attività svolte dal personale con rapporto di lavoro a tempo parziale anziché a tempo pieno",
-        "why_wrong": "Il comma 1 consente il lavoro agile sia ai lavoratori a tempo pieno sia a quelli a tempo parziale."
+        "why_wrong": "Il comma 1 ammette al lavoro agile tutti i lavoratori, con rapporto a tempo pieno o parziale; il comma 2 esclude solo i lavori in turno e quelli con strumentazioni non remotizzabili."
       },
       {
         "id": "c",

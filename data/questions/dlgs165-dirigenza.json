@@ -96,12 +96,12 @@
       {
         "id": "a",
         "text": "richiede specifiche ragioni di servizio, può essere conferita a tempo indeterminato e anche in forma orale e non comporta l'applicazione dell'art. 2103 c.c.",
-        "why_wrong": "Il comma 1-bis richiede un periodo di tempo determinato e un atto scritto e motivato."
+        "why_wrong": "Il comma 1-bis consente la delega solo per un periodo di tempo determinato e con atto scritto e motivato, non a tempo indeterminato né in forma orale."
       },
       {
         "id": "b",
         "text": "richiede specifiche e comprovate ragioni di servizio, è conferita con atto scritto e motivato e comporta l'applicazione dell'art. 2103 c.c. con diritto alle mansioni superiori",
-        "why_wrong": "Il comma 1-bis esclude in ogni caso l'applicazione dell'art. 2103 del codice civile."
+        "why_wrong": "Il comma 1-bis stabilisce che alla delega non si applica in ogni caso l'art. 2103 del codice civile: non sorge quindi alcun diritto alle mansioni superiori."
       },
       {
         "id": "c",
@@ -234,7 +234,7 @@
       {
         "id": "b",
         "text": "non può essere inferiore a due anni né eccedere il termine di sette anni, salvo che la minore durata coincida con il raggiungimento del limite di età per il collocamento a riposo",
-        "why_wrong": "Il comma 2 fissa i limiti in tre e cinque anni."
+        "why_wrong": "Il comma 2 fissa la durata minima in tre anni e quella massima in cinque anni, non in due e sette anni."
       },
       {
         "id": "c",
@@ -284,7 +284,7 @@
       {
         "id": "c",
         "text": "è pari a cinque anni dalla data del conferimento, indipendentemente dalla scadenza del mandato del sindaco",
-        "why_wrong": "Il comma 2 fissa come limite massimo la durata del mandato del sindaco in carica alla data del conferimento."
+        "why_wrong": "Per gli incarichi a termine degli enti locali ex art. 110 TUEL, il comma 2 impone una durata non superiore a quella del mandato del sindaco in carica alla data del conferimento."
       },
       {
         "id": "d",
@@ -382,7 +382,7 @@
       {
         "id": "d",
         "text": "automaticamente in caso di cambio dell'organo di vertice che ha conferito l'incarico dirigenziale",
-        "why_wrong": "Il comma 1-ter limita la revoca ai casi dell'art. 21, comma 1, secondo periodo."
+        "why_wrong": "Il comma 1-ter non prevede revoche automatiche legate al cambio dell'organo di vertice: la revoca è ammessa esclusivamente nei casi e con le modalità dell'art. 21, comma 1, secondo periodo."
       }
     ],
     "correct": "b",
@@ -462,12 +462,12 @@
       {
         "id": "b",
         "text": "la retribuzione di posizione è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, di una quota fino al cinquanta per cento",
-        "why_wrong": "Il comma 1-bis riguarda la retribuzione di risultato e fissa il limite all'ottanta per cento."
+        "why_wrong": "Il comma 1-bis prevede la decurtazione della retribuzione di risultato, non di posizione, e fino all'ottanta per cento, non al cinquanta per cento."
       },
       {
         "id": "c",
         "text": "il dirigente è collocato a disposizione dei ruoli, sentito il Comitato dei garanti, senza alcuna decurtazione della retribuzione di risultato",
-        "why_wrong": "Il collocamento a disposizione dei ruoli è previsto dal comma 1 per la revoca nei casi gravi; il comma 1-bis prevede la decurtazione della retribuzione di risultato."
+        "why_wrong": "Per la violazione del dovere di vigilanza il comma 1-bis prevede proprio la decurtazione della retribuzione di risultato; il collocamento a disposizione dei ruoli accompagna la revoca dell'incarico prevista dal comma 1."
       },
       {
         "id": "d",
@@ -512,12 +512,12 @@
       {
         "id": "c",
         "text": "è reso entro sessanta giorni dalla richiesta; decorso inutilmente tale termine il provvedimento non può essere adottato",
-        "why_wrong": "Il comma 3 fissa quarantacinque giorni e prevede che, decorso il termine, si prescinda dal parere."
+        "why_wrong": "Il comma 3 fissa il termine in quarantacinque giorni e, decorso inutilmente il termine, consente di prescindere dal parere anziché impedire il provvedimento."
       },
       {
         "id": "d",
         "text": "è facoltativo e può essere richiesto solo dal dirigente interessato, entro quarantacinque giorni dalla contestazione",
-        "why_wrong": "Il comma 1 prevede che i provvedimenti dell'art. 21, commi 1 e 1-bis, siano adottati sentito il Comitato."
+        "why_wrong": "Il parere non è facoltativo né rimesso al dirigente: il comma 1 prevede che i provvedimenti dell'art. 21, commi 1 e 1-bis, siano adottati sentito il Comitato, e il termine di quarantacinque giorni del comma 3 decorre dalla richiesta."
       }
     ],
     "correct": "b",
@@ -552,7 +552,7 @@
       {
         "id": "b",
         "text": "spetta al dirigente nel limite del trenta per cento, mentre il resto confluisce nelle risorse destinate al trattamento accessorio della dirigenza",
-        "why_wrong": "Il comma 3 non prevede ripartizioni: i compensi sono corrisposti direttamente all'amministrazione."
+        "why_wrong": "Il comma 3 non riserva alcuna quota al dirigente: l'intero compenso dovuto dal terzo è corrisposto direttamente all'amministrazione."
       },
       {
         "id": "c",
@@ -592,7 +592,7 @@
       {
         "id": "a",
         "text": "almeno il 10 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
-        "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
+        "why_wrong": "Il comma 1-bis richiede che il trattamento accessorio collegato ai risultati costituisca almeno il 30 per cento, non il 10 per cento, della retribuzione complessiva."
       },
       {
         "id": "b",
@@ -602,7 +602,7 @@
       {
         "id": "c",
         "text": "almeno il 50 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
-        "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
+        "why_wrong": "Il comma 1-bis fissa la quota minima al 30 per cento della retribuzione complessiva, non al 50 per cento."
       },
       {
         "id": "d",
@@ -652,7 +652,7 @@
       {
         "id": "d",
         "text": "determinano l'immediato inserimento nei ruoli della dirigenza di seconda fascia, senza ulteriore valutazione della commissione",
-        "why_wrong": "Secondo il comma 1-octies l'inserimento nei ruoli consegue all'esito favorevole della valutazione dell'incarico temporaneo esercitato per almeno quattro anni."
+        "why_wrong": "Il comma 1-octies subordina l'inserimento nei ruoli all'esito favorevole della valutazione finale, affidata a una nuova commissione, dopo almeno quattro anni di incarico temporaneo."
       }
     ],
     "correct": "c",

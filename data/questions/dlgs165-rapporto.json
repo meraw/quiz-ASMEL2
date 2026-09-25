@@ -7,7 +7,7 @@
       {
         "id": "a",
         "text": "mediante chiamata diretta nominativa da parte del sindaco, fatti salvi gli eventuali ulteriori requisiti per specifiche professionalità",
-        "why_wrong": "La chiamata diretta nominativa è prevista dal comma 2 solo per particolari categorie (ad esempio familiari del personale deceduto in servizio)."
+        "why_wrong": "Per i profili che richiedono la sola scuola dell'obbligo il comma 1, lett. b), prevede l'avviamento degli iscritti nelle liste di collocamento; la chiamata diretta nominativa è riservata dal comma 2 a particolari categorie."
       },
       {
         "id": "b",
@@ -17,12 +17,12 @@
       {
         "id": "c",
         "text": "esclusivamente mediante corso-concorso selettivo di formazione bandito dalla Scuola nazionale dell'amministrazione",
-        "why_wrong": "Il corso-concorso della Scuola nazionale riguarda l'accesso alla dirigenza (art. 28), non i profili che richiedono la sola scuola dell'obbligo."
+        "why_wrong": "Il corso-concorso selettivo della Scuola nazionale dell'amministrazione è una modalità di accesso alla dirigenza di seconda fascia (art. 28, comma 1-ter), non ai profili della scuola dell'obbligo."
       },
       {
         "id": "d",
         "text": "mediante incarico individuale di lavoro autonomo conferito ai sensi dell'art. 7, comma 6, fatti salvi gli eventuali requisiti per specifiche professionalità",
-        "why_wrong": "L'art. 7, comma 6, riguarda incarichi a esperti di particolare e comprovata specializzazione, non le assunzioni."
+        "why_wrong": "L'art. 35, comma 1, disciplina l'assunzione con contratto individuale di lavoro; gli incarichi individuali di lavoro autonomo dell'art. 7, comma 6, non sono una forma di assunzione."
       }
     ],
     "correct": "b",
@@ -52,12 +52,12 @@
       {
         "id": "a",
         "text": "la nomina è legittima, purché il consigliere sia esperto di provata competenza nelle materie di concorso",
-        "why_wrong": "La lett. e) esclude comunque chi ricopre cariche politiche, anche se esperto."
+        "why_wrong": "La competenza nelle materie di concorso non basta: la lett. e) esclude in ogni caso dalle commissioni chi ricopre cariche politiche."
       },
       {
         "id": "b",
         "text": "la nomina è legittima se il consigliere appartiene alla minoranza e non fa parte dell'organo di direzione politica",
-        "why_wrong": "La lett. e) esclude chi ricopre cariche politiche, senza distinzioni tra maggioranza e minoranza."
+        "why_wrong": "La lett. e) esclude chi ricopre cariche politiche, oltre ai componenti dell'organo di direzione politica, senza distinguere tra maggioranza e minoranza."
       },
       {
         "id": "c",
@@ -67,7 +67,7 @@
       {
         "id": "d",
         "text": "la nomina è consentita solo con funzioni di presidente, purché il consigliere non sia rappresentante sindacale",
-        "why_wrong": "La lett. e) esclude chi ricopre cariche politiche da qualsiasi ruolo nella composizione della commissione."
+        "why_wrong": "La lett. e) esclude dalla commissione, in qualunque ruolo compreso quello di presidente, chi ricopre cariche politiche, anche se non è rappresentante sindacale."
       }
     ],
     "correct": "c",
@@ -189,12 +189,12 @@
       {
         "id": "a",
         "text": "può far parte di commissioni per l'accesso o la selezione a pubblici impieghi finché la sentenza non passi in giudicato",
-        "why_wrong": "L'art. 35-bis si applica anche in caso di condanna con sentenza non passata in giudicato."
+        "why_wrong": "Il divieto del comma 1, lett. a), opera già in caso di condanna con sentenza non passata in giudicato, non solo dopo che la sentenza è divenuta definitiva."
       },
       {
         "id": "b",
         "text": "può far parte di commissioni per l'accesso o la selezione a pubblici impieghi, ma soltanto con compiti di segreteria",
-        "why_wrong": "Il comma 1, lett. a), esclude la partecipazione alle commissioni anche con compiti di segreteria."
+        "why_wrong": "Il comma 1, lett. a), esclude il condannato dalle commissioni per l'accesso o la selezione a pubblici impieghi anche con compiti di segreteria."
       },
       {
         "id": "c",
@@ -323,12 +323,12 @@
       {
         "id": "a",
         "text": "solo con il loro consenso, qualunque sia la distanza della nuova sede dalla sede cui sono adibiti",
-        "why_wrong": "Il comma 2 consente il trasferimento in sedi nello stesso comune o entro cinquanta chilometri; il consenso è richiesto solo per particolari categorie."
+        "why_wrong": "Il comma 2 non subordina in generale il trasferimento al consenso e lo limita a sedi nello stesso comune o entro cinquanta chilometri; il consenso rileva solo per le particolari categorie indicate dallo stesso comma."
       },
       {
         "id": "b",
         "text": "in sedi collocate in qualsiasi comune della stessa regione o della stessa provincia della sede cui sono adibiti",
-        "why_wrong": "Il comma 2 si riferisce allo stesso comune o a una distanza non superiore a cinquanta chilometri."
+        "why_wrong": "Il comma 2 non fa riferimento all'ambito regionale o provinciale, ma allo stesso comune o a una distanza non superiore a cinquanta chilometri."
       },
       {
         "id": "c",
@@ -368,12 +368,12 @@
       {
         "id": "a",
         "text": "prevalentemente con contratti di lavoro subordinato a tempo determinato, seguendo le procedure di reclutamento dell'art. 35",
-        "why_wrong": "Il comma 1 impone per il fabbisogno ordinario l'assunzione esclusivamente a tempo indeterminato."
+        "why_wrong": "Per il fabbisogno ordinario il comma 1 impone esclusivamente contratti a tempo indeterminato; il tempo determinato è ammesso dal comma 2 solo per esigenze temporanee o eccezionali."
       },
       {
         "id": "b",
         "text": "indifferentemente con contratti a tempo indeterminato o di somministrazione di lavoro, secondo le procedure dell'art. 35",
-        "why_wrong": "La somministrazione è ammessa dal comma 2 solo per esigenze temporanee o eccezionali."
+        "why_wrong": "Il comma 1 non lascia scelta tra le due forme: la somministrazione di lavoro è consentita dal comma 2 soltanto per comprovate esigenze temporanee o eccezionali."
       },
       {
         "id": "c",
@@ -457,7 +457,7 @@
       {
         "id": "a",
         "text": "il rapporto si converte a tempo indeterminato con l'ente e il lavoratore ha diritto a un'indennità tra quattro e ventiquattro mensilità dell'ultima retribuzione di riferimento",
-        "why_wrong": "Il comma 5 esclude che la violazione possa comportare la costituzione di rapporti a tempo indeterminato."
+        "why_wrong": "Il comma 5 esclude che la violazione di disposizioni imperative comporti la costituzione di rapporti a tempo indeterminato; al lavoratore spetta il risarcimento del danno."
       },
       {
         "id": "b",
@@ -550,7 +550,7 @@
       {
         "id": "a",
         "text": "resta al dipendente, che è tenuto soltanto al pagamento di una sanzione pecuniaria irrogata dal Ministero delle finanze",
-        "why_wrong": "Il comma 7 prevede che il compenso sia versato all'amministrazione di appartenenza."
+        "why_wrong": "Il comma 7 non lascia il compenso al dipendente: esso va versato all'amministrazione di appartenenza; le sanzioni irrogate dal Ministero delle finanze riguardano gli enti e i soggetti privati che conferiscono l'incarico (comma 9)."
       },
       {
         "id": "b",
@@ -565,7 +565,7 @@
       {
         "id": "d",
         "text": "è ripartito in parti uguali tra il dipendente e l'amministrazione di appartenenza, che destina la propria quota al fondo di produttività",
-        "why_wrong": "Il comma 7 non prevede ripartizioni: l'intero compenso va versato all'amministrazione."
+        "why_wrong": "Il comma 7 impone il versamento dell'intero compenso all'amministrazione di appartenenza, senza alcuna quota per il dipendente."
       }
     ],
     "correct": "c",
@@ -685,7 +685,7 @@
       {
         "id": "a",
         "text": "non possono svolgere, per un anno dalla cessazione, alcuna attività lavorativa o professionale presso qualsiasi soggetto privato",
-        "why_wrong": "Il comma 16-ter prevede un divieto triennale, limitato ai soggetti privati destinatari dell'attività svolta con quei poteri."
+        "why_wrong": "Il comma 16-ter fissa il divieto in tre anni, non in uno, e lo riferisce ai soli soggetti privati destinatari dell'attività svolta con quei poteri."
       },
       {
         "id": "b",
@@ -695,12 +695,12 @@
       {
         "id": "c",
         "text": "possono svolgere attività lavorativa o professionale presso i soggetti privati destinatari dei loro atti, previa autorizzazione dell'ultima amministrazione di appartenenza",
-        "why_wrong": "Il comma 16-ter non prevede autorizzazioni: il divieto opera per tre anni."
+        "why_wrong": "Il comma 16-ter vieta per tre anni l'attività presso quei soggetti privati e non prevede alcuna autorizzazione che consenta di superare il divieto."
       },
       {
         "id": "d",
         "text": "non possono essere assunti da altre pubbliche amministrazioni nei cinque anni successivi alla cessazione del rapporto di pubblico impiego",
-        "why_wrong": "Il divieto riguarda i soggetti privati destinatari dell'attività, per tre anni."
+        "why_wrong": "Il comma 16-ter non riguarda l'assunzione presso altre pubbliche amministrazioni: vieta per tre anni l'attività presso i soggetti privati destinatari dell'attività svolta."
       }
     ],
     "correct": "b",
@@ -774,12 +774,12 @@
       {
         "id": "a",
         "text": "dell'ufficio per i procedimenti disciplinari individuato da ciascuna amministrazione",
-        "why_wrong": "L'ufficio per i procedimenti disciplinari è competente per le infrazioni punibili con sanzione superiore al rimprovero verbale (comma 2)."
+        "why_wrong": "Secondo il comma 2 l'ufficio per i procedimenti disciplinari è competente per le infrazioni punibili con sanzione superiore al rimprovero verbale; per il rimprovero verbale procede il responsabile della struttura (comma 1)."
       },
       {
         "id": "b",
         "text": "del segretario generale dell'ente, sentito il responsabile della struttura",
-        "why_wrong": "Il comma 1 attribuisce la competenza al responsabile della struttura presso cui presta servizio il dipendente."
+        "why_wrong": "Il comma 1 attribuisce la competenza direttamente al responsabile della struttura presso cui presta servizio il dipendente, non al segretario generale."
       },
       {
         "id": "c",
@@ -789,7 +789,7 @@
       {
         "id": "d",
         "text": "dell'Ispettorato per la funzione pubblica, su segnalazione del responsabile della struttura",
-        "why_wrong": "All'Ispettorato sono solo comunicati gli atti di avvio e conclusione del procedimento (comma 4)."
+        "why_wrong": "L'Ispettorato per la funzione pubblica riceve soltanto la comunicazione degli atti di avvio e conclusione del procedimento (comma 4); la competenza è del responsabile della struttura."
       }
     ],
     "correct": "c",
@@ -834,7 +834,7 @@
       {
         "id": "d",
         "text": "irrogare direttamente la sanzione, previa contestazione dell'addebito e audizione del dipendente in contraddittorio a sua difesa",
-        "why_wrong": "Per le sanzioni superiori al rimprovero verbale il procedimento è di competenza dell'ufficio per i procedimenti disciplinari."
+        "why_wrong": "Per le infrazioni punibili con sanzione superiore al rimprovero verbale la contestazione, l'audizione e l'irrogazione spettano all'ufficio per i procedimenti disciplinari (comma 4); il responsabile deve solo segnalare i fatti."
       }
     ],
     "correct": "b",
@@ -908,12 +908,12 @@
       {
         "id": "a",
         "text": "estingue sempre il procedimento disciplinare, anche se per l'infrazione è prevista la sanzione del licenziamento o è stata disposta la sospensione cautelare",
-        "why_wrong": "Il comma 9 prevede eccezioni: infrazioni punite con il licenziamento o casi di sospensione cautelare disposta."
+        "why_wrong": "Il comma 9 esclude l'estinzione proprio quando per l'infrazione è previsto il licenziamento o è stata disposta la sospensione cautelare dal servizio."
       },
       {
         "id": "b",
         "text": "non ha alcun effetto sul procedimento disciplinare in corso, che prosegue fino alla sua conclusione qualunque sia l'infrazione contestata",
-        "why_wrong": "Il comma 9 stabilisce come regola l'estinzione del procedimento."
+        "why_wrong": "Secondo il comma 9 la cessazione del rapporto estingue, di regola, il procedimento disciplinare; la prosecuzione è ammessa solo nelle ipotesi eccettuate."
       },
       {
         "id": "c",
@@ -923,7 +923,7 @@
       {
         "id": "d",
         "text": "sospende il procedimento disciplinare fino all'eventuale riassunzione del dipendente, salvo che per l'infrazione sia previsto il licenziamento",
-        "why_wrong": "Il comma 9 prevede l'estinzione, salvo le eccezioni indicate, non la sospensione."
+        "why_wrong": "Il comma 9 non prevede alcuna sospensione in attesa di riassunzione: la cessazione estingue il procedimento, salvo licenziamento o sospensione cautelare disposta."
       }
     ],
     "correct": "c",
@@ -1042,7 +1042,7 @@
       {
         "id": "a",
         "text": "è disposta con provvedimento motivato entro quarantotto ore dalla conoscenza del fatto, ma soltanto previa audizione dell'interessato in contraddittorio a sua difesa",
-        "why_wrong": "Il comma 3-bis prevede la sospensione senza obbligo di preventiva audizione dell'interessato."
+        "why_wrong": "Il comma 3-bis prevede che la sospensione sia disposta senza obbligo di preventiva audizione; il contraddittorio a difesa si svolge poi dinanzi all'ufficio disciplinare (comma 3-ter)."
       },
       {
         "id": "b",
@@ -1057,7 +1057,7 @@
       {
         "id": "d",
         "text": "è disposta in via immediata dal responsabile della struttura e comporta la perdita anche dell'assegno alimentare, senza preventiva audizione",
-        "why_wrong": "Il comma 3-bis fa salvo il diritto all'assegno alimentare."
+        "why_wrong": "La sospensione del comma 3-bis è senza stipendio, ma fa salvo il diritto all'assegno alimentare nella misura stabilita dalle disposizioni vigenti."
       }
     ],
     "correct": "b",
@@ -1091,7 +1091,7 @@
       {
         "id": "a",
         "text": "il licenziamento senza preavviso, indipendentemente dall'entità del risarcimento cui l'amministrazione è stata condannata",
-        "why_wrong": "Il comma 1 prevede la sospensione da tre giorni a tre mesi, salvo i presupposti per una sanzione più grave."
+        "why_wrong": "Il comma 1 non prevede il licenziamento ma la sospensione da tre giorni a tre mesi, graduata in proporzione all'entità del risarcimento."
       },
       {
         "id": "b",
@@ -1106,7 +1106,7 @@
       {
         "id": "d",
         "text": "il collocamento in disponibilità, con indicazione delle mansioni e della qualifica per l'eventuale ricollocamento",
-        "why_wrong": "Il collocamento in disponibilità è previsto dal comma 2 per il grave danno al funzionamento dell'ufficio dovuto a inefficienza o incompetenza."
+        "why_wrong": "Il collocamento in disponibilità è previsto dal comma 2 per chi cagiona grave danno al funzionamento dell'ufficio per inefficienza o incompetenza, fuori dei casi del comma 1."
       }
     ],
     "correct": "c",
