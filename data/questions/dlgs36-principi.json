@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +172,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +216,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -264,7 +264,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La risposta corretta (b) indica per nome i principi «del risultato, della fiducia e dell'accesso al mercato», ma l'evidence ne prova solo uno: l'art. 4, comma 1, rinvia genericamente ai «principi di cui agli articoli 1, 2 e 3» e la seconda evidence (art. 3, comma 1) riguarda solo l'accesso al mercato. Nessuna evidence collega l'art. 1 al principio del risultato e l'art. 2 al principio della fiducia. Suggerimento: aggiungere come evidence l'art. 1, comma 3 («Il principio del risultato costituisce attuazione, nel settore dei contratti pubblici, del principio del buon andamento e dei correlati principi di efficienza, efficacia ed economicità.») e l'art. 2, comma 1 («L'attribuzione e l'esercizio del potere nel settore dei contratti pubblici si fonda sul principio della reciproca fiducia nell'azione legittima, trasparente e corretta dell'amministrazione, dei suoi funzionari e degli operatori economici.»).",
     "no_shuffle": false
   },
   {
@@ -308,7 +309,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +353,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +397,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -440,7 +441,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -484,7 +485,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La risposta corretta (c) aggiunge che restano ferme le disposizioni del codice civile «in materia di forma, revocazione e azione di riduzione», ma l'evidence si ferma a «Restano ferme le disposizioni del codice civile» e non contiene questa parte. Nel file, dopo il link Normattiva, l'art. 8, comma 3, prosegue: «in materia di forma, revocazione e azione di riduzione delle donazioni.» Suggerimento: aggiungere questo testo come seconda evidence (ref «art. 8, comma 3»).",
     "no_shuffle": false
   },
   {
@@ -528,7 +530,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -572,7 +574,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -616,7 +618,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -660,7 +662,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

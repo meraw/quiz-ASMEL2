@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong dice che l'importo «rileva solo se la stazione appaltante ripartisce gli affidamenti in fasce (comma 3)», ma nel file l'importo conta anche per la deroga dell'art. 49, comma 6: «È comunque consentito derogare all'applicazione del principio di rotazione per gli affidamenti diretti di importo inferiore a 5.000 euro.» Correzione suggerita: «Il divieto dell'art. 49, comma 2, non dipende da un importo superiore al precedente; l'importo rileva per la ripartizione in fasce (comma 3) e per la deroga agli affidamenti diretti sotto 5.000 euro (comma 6).»",
     "no_shuffle": false
   },
   {
@@ -128,7 +129,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +173,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -260,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -304,7 +305,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -348,7 +349,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -392,7 +393,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -436,7 +437,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -480,7 +481,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -528,7 +529,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -572,7 +573,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -616,7 +617,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -664,7 +665,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
