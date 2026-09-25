@@ -162,12 +162,12 @@
     "options": [
       {
         "id": "a",
-        "text": "Al collaboratore sia affidato il compito ma non l'autorità necessaria per svolgerlo",
+        "text": "Al collaboratore sia affidato il compito, mentre l'autorità e le risorse per svolgerlo restano al delegante",
         "why_wrong": "Senza l'autorità e le risorse necessarie il collaboratore non può svolgere il compito delegato."
       },
       {
         "id": "b",
-        "text": "Il delegante si disinteressi del risultato una volta affidato il compito",
+        "text": "Il delegante, affidato il compito, trasferisca al collaboratore anche la responsabilità di verificarne il risultato",
         "why_wrong": "Il delegante resta responsabile di verificare il risultato."
       },
       {
@@ -177,7 +177,7 @@
       },
       {
         "id": "d",
-        "text": "Siano delegati soltanto compiti privi di contenuto decisionale",
+        "text": "Siano delegati soltanto compiti esecutivi privi di contenuto decisionale, riservando ogni scelta al delegante",
         "why_wrong": "La delega trasferisce anche un margine di decisione, non solo compiti esecutivi."
       }
     ],
@@ -191,8 +191,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-org-006",
@@ -240,22 +241,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Il livello delle retribuzioni corrisposte al personale",
+        "text": "Il livello delle retribuzioni e dei trattamenti economici accessori corrisposti al personale dell'ente",
         "why_wrong": "La retribuzione è solo uno dei fattori che incidono sul benessere organizzativo."
       },
       {
         "id": "b",
-        "text": "La capacità dell'organizzazione di promuovere e mantenere il benessere fisico, psicologico e sociale dei lavoratori",
+        "text": "La capacità dell'organizzazione di promuovere e mantenere il benessere fisico, psicologico e sociale del personale",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Il grado di soddisfazione degli utenti per i servizi ricevuti",
-        "why_wrong": "È la customer satisfaction, che riguarda gli utenti esterni."
+        "text": "Il grado di soddisfazione degli utenti esterni rispetto alla qualità e alla tempestività dei servizi ricevuti dall'ente",
+        "why_wrong": "È la customer satisfaction, che riguarda gli utenti esterni e non chi lavora nell'organizzazione."
       },
       {
         "id": "d",
-        "text": "La sola assenza di infortuni sul luogo di lavoro",
+        "text": "La sola assenza di infortuni e malattie professionali tra i lavoratori nei luoghi di lavoro dell'ente",
         "why_wrong": "Il benessere organizzativo comprende anche le dimensioni psicologica e sociale."
       }
     ],
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

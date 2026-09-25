@@ -201,7 +201,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Il numero di corsi svolti nell'anno",
+        "text": "Il numero di corsi di alfabetizzazione digitale svolti dal Comune nel corso dell'anno",
         "why_wrong": "È un output: misura ciò che l'amministrazione ha prodotto."
       },
       {
@@ -211,12 +211,12 @@
       },
       {
         "id": "c",
-        "text": "Le ore di docenza erogate",
+        "text": "Le ore di docenza complessivamente erogate ai partecipanti nel corso dell'anno",
         "why_wrong": "È una misura della quantità di attività svolta, cioè un output."
       },
       {
         "id": "d",
-        "text": "La spesa sostenuta per i docenti",
+        "text": "La spesa sostenuta dal Comune per retribuire i docenti e per il noleggio delle aule",
         "why_wrong": "È un input: misura le risorse impiegate."
       }
     ],
@@ -230,8 +230,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-mod-007",
@@ -240,17 +241,17 @@
     "options": [
       {
         "id": "a",
-        "text": "La capacità dell'ente di raggiungere gli obiettivi programmati",
+        "text": "La capacità dell'ente di raggiungere gli obiettivi programmati nei tempi previsti dai documenti di programmazione",
         "why_wrong": "È la definizione di efficacia."
       },
       {
         "id": "b",
-        "text": "Il sistema di contabilità finanziaria dell'ente",
+        "text": "Il sistema di contabilità finanziaria con cui l'ente registra le entrate e le spese del proprio bilancio",
         "why_wrong": "L'accountability non coincide con la tenuta della contabilità."
       },
       {
         "id": "c",
-        "text": "Il rapporto tra risultati ottenuti e risorse impiegate",
+        "text": "Il rapporto tra i risultati ottenuti dall'ente e le risorse umane e finanziarie impiegate per conseguirli",
         "why_wrong": "È la definizione di efficienza."
       },
       {
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

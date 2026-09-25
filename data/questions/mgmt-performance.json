@@ -234,13 +234,13 @@
     "options": [
       {
         "id": "a",
-        "text": "può conferire l'incarico, ma deve comunicare le ragioni del ritardo al Dipartimento della funzione pubblica",
-        "why_wrong": "La comunicazione al Dipartimento è prevista per il ritardo nell'adozione; in caso di mancata adozione l'amministrazione non può conferire incarichi di consulenza."
+        "text": "può conferire l'incarico, ma deve comunicare tempestivamente le ragioni del mancato rispetto dei termini al Dipartimento della funzione pubblica",
+        "why_wrong": "L'art. 10, comma 5, prevede la comunicazione al Dipartimento per il ritardo nell'adozione; in caso di mancata adozione l'amministrazione non può conferire incarichi di consulenza."
       },
       {
         "id": "b",
-        "text": "può conferire l'incarico previo parere dell'Organismo indipendente di valutazione",
-        "why_wrong": "L'art. 10, comma 5, stabilisce un divieto senza prevedere deroghe subordinate al parere dell'OIV."
+        "text": "può conferire l'incarico previo parere dell'Organismo indipendente di valutazione, ma ai dirigenti responsabili non spetta la retribuzione di risultato",
+        "why_wrong": "L'art. 10, comma 5, vieta il conferimento di incarichi di consulenza senza prevedere deroghe subordinate al parere dell'OIV."
       },
       {
         "id": "c",
@@ -249,8 +249,8 @@
       },
       {
         "id": "d",
-        "text": "non può conferire l'incarico, mentre resta ferma la retribuzione di risultato dei dirigenti",
-        "why_wrong": "Il comma 5 vieta anche l'erogazione della retribuzione di risultato ai dirigenti che hanno concorso alla mancata adozione per omissione o inerzia."
+        "text": "non può conferire l'incarico, mentre resta ferma la retribuzione di risultato dei dirigenti che hanno concorso alla mancata adozione",
+        "why_wrong": "L'art. 10, comma 5, vieta anche l'erogazione della retribuzione di risultato ai dirigenti che hanno concorso alla mancata adozione per omissione o inerzia."
       }
     ],
     "correct": "c",
@@ -268,8 +268,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-per-007",
@@ -410,22 +411,22 @@
     "options": [
       {
         "id": "a",
-        "text": "i punteggi apicali non possono superare il 20 per cento delle valutazioni effettuate per ciascuna categoria o qualifica",
-        "why_wrong": "Il 20 per cento è il limite per il riconoscimento delle eccellenze, calcolato sulle valutazioni apicali; per i punteggi apicali il limite è il 30 per cento."
+        "text": "i punteggi apicali non possono superare il 20 per cento delle valutazioni per categoria o qualifica e le eccellenze il 30 per cento delle valutazioni apicali",
+        "why_wrong": "Le percentuali sono invertite: l'art. 3, comma 5, fissa il 30 per cento per i punteggi apicali e il 20 per cento delle valutazioni apicali per le eccellenze."
       },
       {
         "id": "b",
-        "text": "i punteggi apicali non possono superare il 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica e le eccellenze non possono superare il 20 per cento delle valutazioni apicali",
+        "text": "i punteggi apicali non possono superare il 30 per cento delle valutazioni per categoria o qualifica e le eccellenze il 20 per cento delle valutazioni apicali",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "le eccellenze non possono superare il 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica",
-        "why_wrong": "Il 30 per cento riguarda i punteggi apicali; le eccellenze sono limitate al 20 per cento delle valutazioni apicali."
+        "text": "le eccellenze non possono superare il 30 per cento delle valutazioni per categoria o qualifica, mentre per i punteggi apicali non è previsto alcun tetto",
+        "why_wrong": "L'art. 3, comma 5, limita i punteggi apicali al 30 per cento delle valutazioni per categoria o qualifica e le eccellenze al 20 per cento delle valutazioni apicali."
       },
       {
         "id": "d",
-        "text": "almeno il 30 per cento delle valutazioni deve collocarsi nella fascia di merito più bassa",
+        "text": "almeno il 30 per cento delle valutazioni per categoria o qualifica deve collocarsi nella fascia di merito più bassa, senza limiti per le eccellenze",
         "why_wrong": "L'art. 3, comma 5, pone tetti ai punteggi apicali e alle eccellenze, non una quota minima di valutazioni nella fascia più bassa."
       }
     ],
@@ -444,7 +445,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]
