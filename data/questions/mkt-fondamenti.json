@@ -35,7 +35,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -74,7 +74,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -113,7 +113,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -152,7 +152,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -191,7 +191,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -230,7 +230,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -269,7 +269,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +308,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. «Partenariato pubblico-privato» ha nell'ordinamento un significato tecnico diverso da quello dell'opzione d, e la materia è nel programma d'esame (d.lgs. 36/2023). L'art. 174 del Codice dei contratti lo definisce come un'operazione con rapporto contrattuale di lungo periodo, fabbisogni finanziati in misura significativa dal privato, rischio operativo allocato in capo al privato, e con la parte pubblica che definisce gli obiettivi (non li «condivide»). La definizione generica dell'opzione d rischia di confondere il candidato. Suggerimento: usare «partnership» o «collaborazione pubblico-privato» e precisare nella spiegazione che non coincide con il PPP dell'art. 174 del d.lgs. 36/2023.",
     "no_shuffle": false
   },
   {
@@ -347,7 +348,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controlli 1 e 2 non superati. Un cofinanziamento di una campagna promozionale con decisioni condivise non è un partenariato pubblico-privato nel senso tecnico dell'art. 174 del d.lgs. 36/2023 (materia d'esame), che richiede un rapporto contrattuale di lungo periodo, un finanziamento significativo da parte del privato e l'allocazione del rischio operativo in capo al privato. Un candidato che conosce il Codice dei contratti potrebbe ritenere errata l'opzione a. Suggerimento: rinominare l'opzione in «Collaborazione (partnership) pubblico-privata» e precisare nella spiegazione la differenza con il PPP del Codice dei contratti.",
     "no_shuffle": false
   },
   {
@@ -386,7 +388,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
