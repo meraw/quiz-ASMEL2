@@ -1,0 +1,530 @@
+[
+  {
+    "id": "cost-tv-001",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 114 della Costituzione, i Comuni, le Province, le Città metropolitane e le Regioni sono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "enti titolari, ciascuno, di potestà legislativa",
+        "why_wrong": "La potestà legislativa è esercitata dallo Stato e dalle Regioni (art. 117)."
+      },
+      {
+        "id": "b",
+        "text": "enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "articolazioni periferiche dello Stato, prive di propri statuti",
+        "why_wrong": "L'art. 114 li qualifica enti autonomi con propri statuti, poteri e funzioni."
+      },
+      {
+        "id": "d",
+        "text": "enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla legge regionale",
+        "why_wrong": "L'art. 114 richiama i principi fissati dalla Costituzione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 114 stabilisce che la Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato, e che gli enti diversi dallo Stato sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione.",
+    "evidence": [
+      {
+        "ref": "art. 114, comma 2",
+        "text": "I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 114, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-002",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 116, terzo comma, della Costituzione, ulteriori forme e condizioni particolari di autonomia possono essere attribuite ad altre Regioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con legge regionale approvata a maggioranza assoluta del Consiglio regionale",
+        "why_wrong": "L'art. 116 prevede una legge dello Stato, approvata dalle Camere sulla base di intesa con la Regione."
+      },
+      {
+        "id": "b",
+        "text": "con legge dello Stato approvata a maggioranza semplice, su iniziativa del Governo",
+        "why_wrong": "L'art. 116 richiede l'iniziativa della Regione interessata e l'approvazione a maggioranza assoluta dei componenti."
+      },
+      {
+        "id": "c",
+        "text": "con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, approvata dalle Camere a maggioranza assoluta dei componenti sulla base di intesa fra lo Stato e la Regione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "con legge costituzionale, come avviene per gli statuti speciali",
+        "why_wrong": "Gli statuti speciali sono adottati con legge costituzionale (primo comma); le ulteriori forme di autonomia sono attribuite con legge dello Stato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il cosiddetto regionalismo differenziato richiede: iniziativa della Regione, parere degli enti locali, rispetto dei principi dell'art. 119, intesa tra Stato e Regione e legge dello Stato approvata a maggioranza assoluta dei componenti delle Camere.",
+    "evidence": [
+      {
+        "ref": "art. 116, comma 3",
+        "text": "possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all'articolo 119. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata))"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 116, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-003",
+    "subject": "diritto-pubblico",
+    "question": "Quale delle seguenti materie rientra, ai sensi dell'art. 117 della Costituzione, nella legislazione esclusiva dello Stato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tutela della salute",
+        "why_wrong": "La tutela della salute è materia di legislazione concorrente (art. 117, terzo comma)."
+      },
+      {
+        "id": "b",
+        "text": "Governo del territorio",
+        "why_wrong": "Il governo del territorio è materia di legislazione concorrente (art. 117, terzo comma)."
+      },
+      {
+        "id": "c",
+        "text": "Valorizzazione dei beni culturali e ambientali",
+        "why_wrong": "La valorizzazione dei beni culturali e ambientali è materia di legislazione concorrente; allo Stato spetta in via esclusiva la tutela."
+      },
+      {
+        "id": "d",
+        "text": "Tutela dell'ambiente, dell'ecosistema e dei beni culturali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 117, secondo comma, lett. s), riserva allo Stato la tutela dell'ambiente, dell'ecosistema e dei beni culturali; la valorizzazione dei beni culturali e ambientali è invece materia concorrente.",
+    "evidence": [
+      {
+        "ref": "art. 117, comma 2, lett. s)",
+        "text": "s) tutela dell'ambiente, dell'ecosistema e dei beni culturali."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 117, comma 2, lett. s)",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-004",
+    "subject": "diritto-pubblico",
+    "question": "Una Regione approva una legge in materia di protezione civile. In base all'art. 117 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si tratta di materia di legislazione concorrente, nella quale la Regione legifera salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "si tratta di materia di legislazione esclusiva dello Stato, nella quale la Regione non può legiferare",
+        "why_wrong": "La protezione civile è elencata tra le materie di legislazione concorrente (terzo comma)."
+      },
+      {
+        "id": "c",
+        "text": "si tratta di materia residuale, nella quale la Regione legifera senza il vincolo di principi fondamentali statali",
+        "why_wrong": "La protezione civile è elencata tra le materie di legislazione concorrente, nelle quali i principi fondamentali sono riservati allo Stato."
+      },
+      {
+        "id": "d",
+        "text": "la Regione può legiferare solo su delega dello Stato",
+        "why_wrong": "La delega dello Stato alle Regioni è prevista per la potestà regolamentare nelle materie di legislazione esclusiva (sesto comma)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La protezione civile è tra le materie di legislazione concorrente: la potestà legislativa spetta alle Regioni, salvo la determinazione dei principi fondamentali, riservata allo Stato.",
+    "evidence": [
+      {
+        "ref": "art. 117, comma 3",
+        "text": "Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 117, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-005",
+    "subject": "diritto-pubblico",
+    "question": "Un Comune approva un regolamento che disciplina l'organizzazione e lo svolgimento di una funzione ad esso attribuita. Ai sensi dell'art. 117 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la potestà regolamentare spetta allo Stato in ogni materia",
+        "why_wrong": "La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva e alle Regioni in ogni altra materia."
+      },
+      {
+        "id": "b",
+        "text": "il Comune ha potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni ad esso attribuite",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "la potestà regolamentare spetta soltanto allo Stato e alle Regioni",
+        "why_wrong": "L'art. 117, sesto comma, riconosce potestà regolamentare anche a Comuni, Province e Città metropolitane."
+      },
+      {
+        "id": "d",
+        "text": "il Comune può adottare il regolamento soltanto su delega della Regione",
+        "why_wrong": "La delega è prevista dallo Stato alle Regioni nelle materie di legislazione esclusiva; la potestà regolamentare dei Comuni è riconosciuta direttamente dall'art. 117."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 117, sesto comma, attribuisce a Comuni, Province e Città metropolitane potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite.",
+    "evidence": [
+      {
+        "ref": "art. 117, comma 6",
+        "text": "I Comuni, le Province e le Città metropolitane hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 117, comma 6",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-006",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 118 della Costituzione, le funzioni amministrative:",
+    "options": [
+      {
+        "id": "a",
+        "text": "spettano alle Regioni nelle materie di legislazione concorrente e allo Stato nelle altre",
+        "why_wrong": "L'art. 118 attribuisce le funzioni amministrative ai Comuni, salvo conferimento ad altri livelli per assicurarne l'esercizio unitario."
+      },
+      {
+        "id": "b",
+        "text": "sono attribuite ai Comuni, sulla base dei principi di buon andamento e imparzialità",
+        "why_wrong": "Buon andamento e imparzialità sono i fini dell'organizzazione dei pubblici uffici (art. 97); l'art. 118 richiama sussidiarietà, differenziazione ed adeguatezza."
+      },
+      {
+        "id": "c",
+        "text": "sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sono attribuite allo Stato, che può delegarle alle Regioni e agli enti locali",
+        "why_wrong": "L'art. 118 attribuisce in via generale le funzioni amministrative ai Comuni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 118, primo comma, attribuisce le funzioni amministrative ai Comuni; esse possono essere conferite a livelli superiori per assicurarne l'esercizio unitario, secondo i principi di sussidiarietà, differenziazione ed adeguatezza.",
+    "evidence": [
+      {
+        "ref": "art. 118, comma 1",
+        "text": "((Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 118, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-007",
+    "subject": "diritto-pubblico",
+    "question": "Un'associazione di volontariato propone al Comune di curare la manutenzione di un parco pubblico e il Comune ne sostiene l'iniziativa. Tale sostegno è espressione del principio, sancito dall'art. 118 della Costituzione, secondo cui:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le funzioni amministrative sono attribuite ai Comuni, salvo conferimento a livelli superiori per assicurarne l'esercizio unitario",
+        "why_wrong": "Il primo comma riguarda la distribuzione delle funzioni amministrative tra gli enti; l'iniziativa dei cittadini è oggetto dell'ultimo comma."
+      },
+      {
+        "id": "b",
+        "text": "i poteri sostitutivi sono esercitati nel rispetto del principio di leale collaborazione",
+        "why_wrong": "Il principio di leale collaborazione è richiamato dall'art. 120 per l'esercizio dei poteri sostitutivi del Governo."
+      },
+      {
+        "id": "c",
+        "text": "i Comuni sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale",
+        "why_wrong": "Il secondo comma riguarda le funzioni degli enti locali, non il sostegno all'iniziativa dei cittadini."
+      },
+      {
+        "id": "d",
+        "text": "Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'ultimo comma dell'art. 118 sancisce la sussidiarietà cosiddetta orizzontale: tutti i livelli di governo favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per attività di interesse generale.",
+    "evidence": [
+      {
+        "ref": "art. 118, comma 4",
+        "text": "Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà))"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 118, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-008",
+    "subject": "diritto-pubblico",
+    "question": "Un Comune intende contrarre un mutuo per finanziare le spese correnti per il personale. Ai sensi dell'art. 119 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può farlo, perché può ricorrere all'indebitamento solo per finanziare spese di investimento",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può farlo, se il prestito è assistito dalla garanzia dello Stato",
+        "why_wrong": "L'art. 119 esclude ogni garanzia dello Stato sui prestiti contratti dagli enti."
+      },
+      {
+        "id": "c",
+        "text": "può farlo previa autorizzazione delle Camere adottata a maggioranza assoluta",
+        "why_wrong": "L'autorizzazione delle Camere a maggioranza assoluta riguarda il ricorso all'indebitamento dello Stato al verificarsi di eventi eccezionali (art. 81)."
+      },
+      {
+        "id": "d",
+        "text": "può farlo, purché definisca contestualmente un piano di ammortamento",
+        "why_wrong": "Il piano di ammortamento è una condizione ulteriore: l'indebitamento resta consentito solo per finanziare spese di investimento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Comuni, Province, Città metropolitane e Regioni possono ricorrere all'indebitamento solo per finanziare spese di investimento, con contestuali piani di ammortamento e nel rispetto dell'equilibrio di bilancio del complesso degli enti di ciascuna Regione; è esclusa ogni garanzia dello Stato.",
+    "evidence": [
+      {
+        "ref": "art. 119, comma 7",
+        "text": "Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 119, comma 7",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-009",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 120 della Costituzione, il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Comuni, tra l'altro, in caso di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dimissioni contestuali della maggioranza dei componenti del Consiglio regionale",
+        "why_wrong": "Le dimissioni contestuali della maggioranza dei consiglieri comportano, ai sensi dell'art. 126, le dimissioni della Giunta e lo scioglimento del Consiglio."
+      },
+      {
+        "id": "b",
+        "text": "pericolo grave per l'incolumità e la sicurezza pubblica",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "atti contrari alla Costituzione o gravi violazioni di legge compiuti dal Consiglio regionale",
+        "why_wrong": "Per tali atti l'art. 126 prevede lo scioglimento del Consiglio regionale con decreto motivato del Presidente della Repubblica."
+      },
+      {
+        "id": "d",
+        "text": "approvazione di una legge regionale che ecceda la competenza della Regione",
+        "why_wrong": "In questo caso il Governo può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale (art. 127)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 120, secondo comma, consente al Governo di sostituirsi agli organi degli enti territoriali in caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria, di pericolo grave per l'incolumità e la sicurezza pubblica, o quando lo richiedono la tutela dell'unità giuridica o economica e dei livelli essenziali delle prestazioni.",
+    "evidence": [
+      {
+        "ref": "art. 120, comma 2",
+        "text": "Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l'incolumità e la sicurezza pubblica"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 120, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-010",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 123 della Costituzione, lo statuto regionale è approvato e modificato dal Consiglio regionale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con legge costituzionale, su proposta del Consiglio regionale",
+        "why_wrong": "La legge costituzionale è prevista per gli statuti speciali (art. 116); lo statuto ordinario è approvato dal Consiglio regionale con legge regionale."
+      },
+      {
+        "id": "b",
+        "text": "con un'unica deliberazione approvata a maggioranza dei due terzi dei componenti",
+        "why_wrong": "L'art. 123 richiede due deliberazioni successive a maggioranza assoluta dei componenti."
+      },
+      {
+        "id": "c",
+        "text": "con legge approvata a maggioranza assoluta dei suoi componenti, con due deliberazioni successive adottate ad intervallo non minore di due mesi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "con legge approvata a maggioranza assoluta dei suoi componenti, con due deliberazioni successive adottate ad intervallo non minore di tre mesi",
+        "why_wrong": "L'intervallo di tre mesi è previsto dall'art. 138 per le leggi di revisione costituzionale; per lo statuto regionale è di due mesi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Lo statuto delle Regioni ordinarie è approvato e modificato con legge regionale rinforzata: maggioranza assoluta dei componenti del Consiglio e due deliberazioni successive a distanza di almeno due mesi.",
+    "evidence": [
+      {
+        "ref": "art. 123, comma 2",
+        "text": "Lo statuto è approvato e modificato dal Consiglio regionale con legge approvata a maggioranza assoluta dei suoi componenti, con due deliberazioni successive adottate ad intervallo non minore di due mesi."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 123, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-011",
+    "subject": "diritto-pubblico",
+    "question": "Il Consiglio regionale approva una mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto. In base all'art. 126 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il Consiglio elegge tra i suoi componenti un nuovo Presidente della Giunta",
+        "why_wrong": "L'art. 126 collega all'approvazione della mozione di sfiducia le dimissioni della Giunta e lo scioglimento del Consiglio."
+      },
+      {
+        "id": "b",
+        "text": "il Presidente deve dimettersi, ma la Giunta e il Consiglio restano in carica",
+        "why_wrong": "L'approvazione della mozione comporta le dimissioni della Giunta e lo scioglimento del Consiglio."
+      },
+      {
+        "id": "c",
+        "text": "la mozione produce effetto solo dopo il decreto motivato del Presidente della Repubblica",
+        "why_wrong": "Il decreto motivato del Presidente della Repubblica riguarda lo scioglimento per atti contrari alla Costituzione, gravi violazioni di legge o ragioni di sicurezza nazionale."
+      },
+      {
+        "id": "d",
+        "text": "l'approvazione della mozione comporta le dimissioni della Giunta e lo scioglimento del Consiglio",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Se il Presidente della Giunta è eletto direttamente, l'approvazione della mozione di sfiducia (come la sua rimozione, l'impedimento permanente, la morte o le dimissioni volontarie) comporta le dimissioni della Giunta e lo scioglimento del Consiglio.",
+    "evidence": [
+      {
+        "ref": "art. 126, comma 3",
+        "text": "L'approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonché la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 126, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-tv-012",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 127 della Costituzione, il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro sessanta giorni dalla sua pubblicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "entro trenta giorni dalla sua pubblicazione",
+        "why_wrong": "Trenta giorni è il termine entro cui il Governo può impugnare gli statuti regionali (art. 123)."
+      },
+      {
+        "id": "c",
+        "text": "entro tre mesi dalla sua pubblicazione",
+        "why_wrong": "Tre mesi è il termine entro cui può essere richiesto il referendum sullo statuto regionale (art. 123)."
+      },
+      {
+        "id": "d",
+        "text": "prima della promulgazione, rinviando la legge al Consiglio regionale",
+        "why_wrong": "L'art. 127 prevede il ricorso alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il Governo può impugnare una legge regionale che ritenga eccedere la competenza della Regione promuovendo la questione di legittimità costituzionale entro sessanta giorni dalla pubblicazione; lo stesso termine vale per la Regione che impugna leggi statali o di altre Regioni.",
+    "evidence": [
+      {
+        "ref": "art. 127, comma 1",
+        "text": "((Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 127, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "cost-par-001",
+    "subject": "diritto-pubblico",
+    "question": "Un elettore di trentadue anni intende candidarsi alle elezioni politiche. In base agli artt. 56 e 58 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere eletto deputato, ma non senatore",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può essere eletto sia deputato sia senatore",
+        "why_wrong": "Per l'eleggibilità a senatore l'art. 58 richiede il compimento del quarantesimo anno."
+      },
+      {
+        "id": "c",
+        "text": "può essere eletto senatore, ma non deputato",
+        "why_wrong": "Per l'eleggibilità a deputato bastano venticinque anni (art. 56), mentre per il Senato occorrono quaranta anni (art. 58)."
+      },
+      {
+        "id": "d",
+        "text": "non può essere eletto in nessuna delle due Camere",
+        "why_wrong": "Ha già compiuto i venticinque anni richiesti dall'art. 56 per l'eleggibilità a deputato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Sono eleggibili a deputati gli elettori che nel giorno delle elezioni hanno compiuto venticinque anni (art. 56) e a senatori gli elettori che hanno compiuto il quarantesimo anno (art. 58).",
+    "evidence": [
+      {
+        "ref": "art. 56, comma 3",
+        "text": "Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età."
+      },
+      {
+        "ref": "art. 58, comma 2",
+        "text": "Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 56, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-002",
+    "subject": "diritto-pubblico",
+    "question": "In base all'art. 64 della Costituzione, salvo che la Costituzione prescriva una maggioranza speciale, le deliberazioni di ciascuna Camera sono valide se:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono adottate a maggioranza dei votanti, qualunque sia il numero dei presenti",
+        "why_wrong": "L'art. 64 richiede anche la presenza della maggioranza dei componenti."
+      },
+      {
+        "id": "b",
+        "text": "è presente la maggioranza dei componenti e sono adottate a maggioranza dei presenti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è presente un terzo dei componenti e sono adottate a maggioranza dei presenti",
+        "why_wrong": "L'art. 64 richiede la presenza della maggioranza dei componenti; un terzo dei componenti può chiedere la convocazione straordinaria della Camera (art. 62)."
+      },
+      {
+        "id": "d",
+        "text": "è presente la maggioranza dei componenti e sono adottate a maggioranza assoluta dei componenti",
+        "why_wrong": "La maggioranza assoluta dei componenti è richiesta, ad esempio, per l'adozione del regolamento di ciascuna Camera (art. 64, primo comma), non per le deliberazioni in generale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 64 fissa il numero legale (presenza della maggioranza dei componenti) e la maggioranza richiesta per deliberare (maggioranza dei presenti), salvo maggioranze speciali previste dalla Costituzione.",
+    "evidence": [
+      {
+        "ref": "art. 64, comma 3",
+        "text": "Le deliberazioni di ciascuna Camera e del Parlamento non sono valide se non è presente la maggioranza dei loro componenti, e se non sono adottate a maggioranza dei presenti, salvo che la Costituzione prescriva una maggioranza speciale."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 64, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-003",
+    "subject": "diritto-pubblico",
+    "question": "Un deputato è colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza. Secondo l'art. 68 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere arrestato solo previa autorizzazione del Parlamento in seduta comune",
+        "why_wrong": "L'autorizzazione, quando necessaria, è data dalla Camera di appartenenza; nel caso di flagranza per delitto con arresto obbligatorio non è richiesta."
+      },
+      {
+        "id": "b",
+        "text": "non può essere arrestato fino alla scadenza del mandato",
+        "why_wrong": "L'art. 68 consente l'arresto senza autorizzazione in caso di flagranza di delitto per il quale è previsto l'arresto obbligatorio."
+      },
+      {
+        "id": "c",
+        "text": "può essere arrestato anche senza l'autorizzazione della Camera alla quale appartiene",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può essere arrestato solo previa autorizzazione della Camera alla quale appartiene",
+        "why_wrong": "L'art. 68 esclude la necessità dell'autorizzazione per chi è colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Senza autorizzazione della Camera nessun parlamentare può essere arrestato, salvo che in esecuzione di una sentenza irrevocabile di condanna o se colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza.",
+    "evidence": [
+      {
+        "ref": "art. 68, comma 2",
+        "text": "Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a perquisizione personale o domiciliare, né può essere arrestato o altrimenti privato della libertà personale, o mantenuto in detenzione, salvo che in esecuzione di una sentenza irrevocabile di condanna, ovvero se sia colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 68, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-004",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 71 della Costituzione, il popolo esercita l'iniziativa delle leggi mediante la proposta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "da parte di almeno cinquecentomila elettori, di un progetto redatto in articoli",
+        "why_wrong": "Cinquecentomila elettori sono richiesti per il referendum abrogativo (art. 75)."
+      },
+      {
+        "id": "b",
+        "text": "da parte di almeno cinquantamila elettori, di una richiesta che indichi i principi generali della legge",
+        "why_wrong": "L'art. 71 richiede un progetto redatto in articoli."
+      },
+      {
+        "id": "c",
+        "text": "da parte di cinque Consigli regionali",
+        "why_wrong": "Cinque Consigli regionali possono richiedere il referendum abrogativo (art. 75); l'iniziativa popolare spetta ad almeno cinquantamila elettori."
+      },
+      {
+        "id": "d",
+        "text": "da parte di almeno cinquantamila elettori, di un progetto redatto in articoli",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'iniziativa legislativa popolare si esercita con la proposta, da parte di almeno cinquantamila elettori, di un progetto redatto in articoli.",
+    "evidence": [
+      {
+        "ref": "art. 71, comma 2",
+        "text": "Il popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di almeno cinquantamila elettori, di un progetto redatto in articoli."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 71, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-005",
+    "subject": "diritto-pubblico",
+    "question": "Un disegno di legge di delegazione legislativa al Governo è presentato alla Camera dei deputati. Ai sensi dell'art. 72 della Costituzione, esso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve seguire la procedura normale di esame e di approvazione diretta da parte della Camera",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può essere approvato in via definitiva da una commissione permanente, se il regolamento lo consente",
+        "why_wrong": "Per i disegni di legge di delegazione legislativa è sempre adottata la procedura normale di esame e di approvazione diretta da parte della Camera."
+      },
+      {
+        "id": "c",
+        "text": "può seguire un procedimento abbreviato, se ne è dichiarata l'urgenza",
+        "why_wrong": "I procedimenti abbreviati per i disegni di legge urgenti non derogano alla procedura normale, sempre adottata per i disegni di legge di delegazione legislativa."
+      },
+      {
+        "id": "d",
+        "text": "deve essere approvato dal Parlamento in seduta comune",
+        "why_wrong": "Il Parlamento si riunisce in seduta comune nei soli casi stabiliti dalla Costituzione (art. 55); l'art. 72 prevede l'approvazione diretta da parte di ciascuna Camera."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 72, ultimo comma, riserva alla procedura normale di esame e approvazione diretta da parte della Camera i disegni di legge in materia costituzionale ed elettorale e quelli di delegazione legislativa, di autorizzazione a ratificare trattati internazionali, di approvazione di bilanci e consuntivi.",
+    "evidence": [
+      {
+        "ref": "art. 72, comma 4",
+        "text": "La procedura normale di esame e di approvazione diretta da parte della Camera è sempre adottata per i disegni di legge in materia costituzionale ed elettorale e per quelli di delegazione legislativa, di autorizzazione a ratificare trattati internazionali, di approvazione di bilanci e consuntivi."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 72, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-006",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 73 della Costituzione, le leggi entrano in vigore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro un mese dall'approvazione",
+        "why_wrong": "Entro un mese dall'approvazione le leggi sono promulgate dal Presidente della Repubblica."
+      },
+      {
+        "id": "b",
+        "text": "il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il quindicesimo giorno successivo alla loro promulgazione",
+        "why_wrong": "Il termine decorre dalla pubblicazione, che segue la promulgazione."
+      },
+      {
+        "id": "d",
+        "text": "il giorno stesso della loro pubblicazione, salvo diversa disposizione",
+        "why_wrong": "L'art. 73 fissa, in via generale, il quindicesimo giorno successivo alla pubblicazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla pubblicazione, salvo che stabiliscano un termine diverso.",
+    "evidence": [
+      {
+        "ref": "art. 73, comma 3",
+        "text": "Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 73, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-007",
+    "subject": "diritto-pubblico",
+    "question": "Il Presidente della Repubblica, con messaggio motivato, chiede alle Camere una nuova deliberazione su una legge. Le Camere approvano nuovamente la legge. In base all'art. 74 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la legge deve essere sottoposta a referendum popolare",
+        "why_wrong": "L'art. 74 non prevede alcun referendum: la legge nuovamente approvata deve essere promulgata."
+      },
+      {
+        "id": "b",
+        "text": "la legge deve essere promulgata solo se riapprovata a maggioranza dei due terzi",
+        "why_wrong": "L'art. 74 non richiede maggioranze speciali per la nuova approvazione."
+      },
+      {
+        "id": "c",
+        "text": "la legge deve essere promulgata",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il Presidente può chiedere una ulteriore deliberazione con nuovo messaggio motivato",
+        "why_wrong": "Se le Camere approvano nuovamente la legge, l'art. 74 impone la promulgazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il rinvio con messaggio motivato è possibile prima della promulgazione; se le Camere approvano nuovamente la legge, questa deve essere promulgata.",
+    "evidence": [
+      {
+        "ref": "art. 74, comma 2",
+        "text": "Se le Camere approvano nuovamente la legge, questa deve essere promulgata."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 74, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-008",
+    "subject": "diritto-pubblico",
+    "question": "Un comitato promotore raccoglie le firme di cinquecentomila elettori per un referendum volto ad abrogare una legge di amnistia. Secondo l'art. 75 della Costituzione, il referendum:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è ammesso, perché richiesto da cinquecentomila elettori",
+        "why_wrong": "Il numero di firme è sufficiente, ma l'art. 75 esclude il referendum per le leggi di amnistia e di indulto."
+      },
+      {
+        "id": "b",
+        "text": "è ammesso solo se richiesto anche da cinque Consigli regionali",
+        "why_wrong": "Cinquecentomila elettori e cinque Consigli regionali sono richieste alternative; in ogni caso il referendum non è ammesso per le leggi di amnistia."
+      },
+      {
+        "id": "c",
+        "text": "è ammesso, ma solo per l'abrogazione parziale della legge",
+        "why_wrong": "L'art. 75 esclude il referendum per le leggi di amnistia e di indulto senza distinguere tra abrogazione totale e parziale."
+      },
+      {
+        "id": "d",
+        "text": "non è ammesso",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 75, secondo comma, esclude il referendum abrogativo per le leggi tributarie e di bilancio, di amnistia e di indulto, di autorizzazione a ratificare trattati internazionali.",
+    "evidence": [
+      {
+        "ref": "art. 75, comma 2",
+        "text": "Non è ammesso il referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di autorizzazione a ratificare trattati internazionali."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 75, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-009",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 75 della Costituzione, la proposta soggetta a referendum abrogativo è approvata se:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha partecipato alla votazione la maggioranza degli aventi diritto ed è raggiunta la maggioranza dei voti validamente espressi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "è raggiunta la maggioranza dei voti validamente espressi, qualunque sia il numero dei votanti",
+        "why_wrong": "L'art. 75 richiede anche la partecipazione alla votazione della maggioranza degli aventi diritto."
+      },
+      {
+        "id": "c",
+        "text": "vota a favore la maggioranza degli aventi diritto",
+        "why_wrong": "Basta la maggioranza dei voti validamente espressi, purché abbia partecipato alla votazione la maggioranza degli aventi diritto."
+      },
+      {
+        "id": "d",
+        "text": "ha partecipato alla votazione almeno un terzo degli aventi diritto ed è raggiunta la maggioranza dei voti validi",
+        "why_wrong": "L'art. 75 richiede la partecipazione della maggioranza degli aventi diritto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il referendum abrogativo richiede un doppio requisito: partecipazione della maggioranza degli aventi diritto (quorum strutturale) e maggioranza dei voti validamente espressi.",
+    "evidence": [
+      {
+        "ref": "art. 75, comma 4",
+        "text": "La proposta soggetta a referendum è approvata se ha partecipato alla votazione la maggioranza degli aventi diritto, e se è raggiunta la maggioranza dei voti validamente espressi."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 75, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-010",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 76 della Costituzione, l'esercizio della funzione legislativa può essere delegato al Governo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con deliberazione del Parlamento in seduta comune",
+        "why_wrong": "Il Parlamento si riunisce in seduta comune nei soli casi stabiliti dalla Costituzione (art. 55); l'art. 76 non prevede la seduta comune."
+      },
+      {
+        "id": "b",
+        "text": "con determinazione di principi e criteri direttivi, soltanto per tempo limitato e per oggetti definiti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "senza limiti di tempo, purché per oggetti definiti",
+        "why_wrong": "L'art. 76 richiede anche che la delega sia per tempo limitato."
+      },
+      {
+        "id": "d",
+        "text": "in casi straordinari di necessità e d'urgenza, senza determinazione di principi e criteri direttivi",
+        "why_wrong": "I casi straordinari di necessità e d'urgenza sono il presupposto dei decreti-legge (art. 77); la delega richiede la determinazione di principi e criteri direttivi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La delega legislativa al Governo è ammessa solo con determinazione di principi e criteri direttivi, per tempo limitato e per oggetti definiti.",
+    "evidence": [
+      {
+        "ref": "art. 76, comma 1",
+        "text": "L'esercizio della funzione legislativa non puo essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 76, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-011",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 77 della Costituzione, i decreti-legge non convertiti in legge entro sessanta giorni dalla loro pubblicazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "restano efficaci finché le Camere non regolano con legge i rapporti giuridici sorti sulla loro base",
+        "why_wrong": "La legge che regola i rapporti sorti è facoltativa e non mantiene in vita i decreti, che perdono efficacia sin dall'inizio."
+      },
+      {
+        "id": "b",
+        "text": "restano efficaci se il Governo li ripresenta alle Camere",
+        "why_wrong": "L'art. 77 dispone che i decreti non convertiti entro sessanta giorni perdono efficacia sin dall'inizio."
+      },
+      {
+        "id": "c",
+        "text": "perdono efficacia sin dall'inizio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "perdono efficacia dalla scadenza del termine, restando salvi gli effetti già prodotti",
+        "why_wrong": "L'art. 77 dispone che i decreti non convertiti perdono efficacia sin dall'inizio; le Camere possono regolare con legge i rapporti sorti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "I decreti-legge perdono efficacia sin dall'inizio se non sono convertiti in legge entro sessanta giorni dalla pubblicazione; le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti.",
+    "evidence": [
+      {
+        "ref": "art. 77, comma 3",
+        "text": "I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 77, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-par-012",
+    "subject": "diritto-pubblico",
+    "question": "In un caso straordinario di necessità e d'urgenza, il Governo adotta un decreto-legge mentre le Camere sono sciolte. Secondo l'art. 77 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la presentazione per la conversione è rinviata alla prima riunione delle nuove Camere",
+        "why_wrong": "L'art. 77 prevede la presentazione il giorno stesso alle Camere, che, anche se sciolte, sono appositamente convocate."
+      },
+      {
+        "id": "b",
+        "text": "il Governo non può adottare decreti-legge a Camere sciolte",
+        "why_wrong": "L'art. 77 disciplina espressamente la conversione anche quando le Camere sono sciolte."
+      },
+      {
+        "id": "c",
+        "text": "il decreto deve essere presentato alle Camere entro sessanta giorni dalla sua pubblicazione",
+        "why_wrong": "Sessanta giorni è il termine per la conversione; la presentazione deve avvenire il giorno stesso dell'adozione."
+      },
+      {
+        "id": "d",
+        "text": "il decreto deve essere presentato il giorno stesso per la conversione alle Camere, che sono appositamente convocate e si riuniscono entro cinque giorni",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il Governo deve presentare il decreto-legge per la conversione il giorno stesso; le Camere, anche se sciolte, sono appositamente convocate e si riuniscono entro cinque giorni.",
+    "evidence": [
+      {
+        "ref": "art. 77, comma 2",
+        "text": "Quando, in casi straordinari di necessità e d'urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono appositamente convocate e si riuniscono entro cinque giorni."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 77, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

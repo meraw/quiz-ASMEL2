@@ -1,0 +1,266 @@
+[
+  {
+    "id": "cost-pa-001",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 97 della Costituzione, i pubblici uffici sono organizzati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "secondo le direttive del Governo, al quale i pubblici impiegati rispondono in via esclusiva",
+        "why_wrong": "L'art. 98 dispone che i pubblici impiegati sono al servizio esclusivo della Nazione; l'organizzazione degli uffici è stabilita secondo disposizioni di legge."
+      },
+      {
+        "id": "b",
+        "text": "secondo disposizioni di legge, in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "secondo regolamenti adottati da ciascuna amministrazione, in modo che sia assicurato il buon andamento",
+        "why_wrong": "L'art. 97 richiede che i pubblici uffici siano organizzati secondo disposizioni di legge, assicurando buon andamento e imparzialità."
+      },
+      {
+        "id": "d",
+        "text": "secondo disposizioni di legge, in modo che sia assicurata l'autonomia finanziaria di entrata e di spesa",
+        "why_wrong": "L'autonomia finanziaria di entrata e di spesa è riconosciuta a Comuni, Province, Città metropolitane e Regioni dall'art. 119."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 97 pone una riserva di legge sull'organizzazione dei pubblici uffici e ne indica i fini: il buon andamento e l'imparzialità dell'amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 97, comma 2",
+        "text": "I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 97, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pa-002",
+    "subject": "diritto-pubblico",
+    "question": "Un Comune deve coprire un posto di istruttore amministrativo a tempo indeterminato. In base all'art. 97 della Costituzione, l'accesso all'impiego avviene:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per scelta diretta dell'amministrazione, purché motivata",
+        "why_wrong": "L'art. 97 prevede che agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge."
+      },
+      {
+        "id": "b",
+        "text": "mediante concorso solo se si tratta di amministrazioni dello Stato",
+        "why_wrong": "L'art. 97 si riferisce agli impieghi in tutte le pubbliche amministrazioni."
+      },
+      {
+        "id": "c",
+        "text": "mediante concorso, salvo i casi stabiliti dalla legge",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "mediante concorso, salvo i casi stabiliti dal regolamento dell'ente",
+        "why_wrong": "L'art. 97 ammette deroghe al concorso nei soli casi stabiliti dalla legge."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso; le eccezioni sono ammesse solo nei casi stabiliti dalla legge.",
+    "evidence": [
+      {
+        "ref": "art. 97, comma 4",
+        "text": "Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 97, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pa-003",
+    "subject": "diritto-pubblico",
+    "question": "Secondo il primo comma dell'art. 97 della Costituzione, le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'equilibrio tra le entrate e le spese del bilancio dello Stato, tenendo conto delle fasi del ciclo economico",
+        "why_wrong": "È l'obbligo che l'art. 81 pone in capo allo Stato per il proprio bilancio."
+      },
+      {
+        "id": "b",
+        "text": "il ricorso all'indebitamento solo per finanziare spese di investimento",
+        "why_wrong": "Il limite dell'indebitamento alle spese di investimento è previsto dall'art. 119 per Comuni, Province, Città metropolitane e Regioni."
+      },
+      {
+        "id": "c",
+        "text": "l'autonomia finanziaria di entrata e di spesa",
+        "why_wrong": "L'autonomia finanziaria di entrata e di spesa è riconosciuta dall'art. 119 a Comuni, Province, Città metropolitane e Regioni."
+      },
+      {
+        "id": "d",
+        "text": "l'equilibrio dei bilanci e la sostenibilità del debito pubblico",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il primo comma dell'art. 97, introdotto dalla riforma del 2012, impone a tutte le pubbliche amministrazioni di assicurare l'equilibrio dei bilanci e la sostenibilità del debito pubblico, in coerenza con l'ordinamento dell'Unione europea.",
+    "evidence": [
+      {
+        "ref": "art. 97, comma 1",
+        "text": "((Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico))"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 97, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pa-004",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 97 della Costituzione, nell'ordinamento degli uffici sono determinate:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "le limitazioni al diritto dei funzionari d'iscriversi ai partiti politici",
+        "why_wrong": "Le limitazioni all'iscrizione ai partiti possono essere stabilite con legge per le sole categorie indicate dall'art. 98."
+      },
+      {
+        "id": "c",
+        "text": "i casi in cui si accede agli impieghi senza concorso",
+        "why_wrong": "I casi di accesso senza concorso sono stabiliti dalla legge (art. 97, ultimo comma)."
+      },
+      {
+        "id": "d",
+        "text": "le promozioni dei dipendenti eletti membri del Parlamento",
+        "why_wrong": "Per i pubblici impiegati membri del Parlamento l'art. 98 ammette soltanto promozioni per anzianità."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 97, terzo comma, prevede che nell'ordinamento degli uffici siano determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari.",
+    "evidence": [
+      {
+        "ref": "art. 97, comma 3",
+        "text": "Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 97, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pa-005",
+    "subject": "diritto-pubblico",
+    "question": "Un funzionario di un ministero viene eletto deputato. In base all'art. 98 della Costituzione, durante il mandato parlamentare:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può conseguire alcuna promozione",
+        "why_wrong": "L'art. 98 ammette le promozioni per anzianità."
+      },
+      {
+        "id": "b",
+        "text": "non può conseguire promozioni se non per anzianità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "può conseguire promozioni per merito come gli altri dipendenti",
+        "why_wrong": "L'art. 98 dispone che i pubblici impiegati membri del Parlamento non possono conseguire promozioni se non per anzianità."
+      },
+      {
+        "id": "d",
+        "text": "perde il posto di lavoro, per incompatibilità con il servizio esclusivo della Nazione",
+        "why_wrong": "Chi è chiamato a funzioni pubbliche elettive ha diritto di conservare il suo posto di lavoro (art. 51)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "I pubblici impiegati che sono membri del Parlamento non possono conseguire promozioni se non per anzianità.",
+    "evidence": [
+      {
+        "ref": "art. 98, comma 2",
+        "text": "Se sono membri del Parlamento, non possono conseguire promozioni se non per anzianità."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 98, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pa-006",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 98 della Costituzione, con legge si possono stabilire limitazioni al diritto d'iscriversi ai partiti politici per:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i membri del Parlamento che siano pubblici impiegati",
+        "why_wrong": "Per i pubblici impiegati membri del Parlamento l'art. 98 prevede il limite delle promozioni per sola anzianità, non limitazioni all'iscrizione ai partiti."
+      },
+      {
+        "id": "b",
+        "text": "i soli militari di carriera in servizio attivo",
+        "why_wrong": "L'elenco dell'art. 98 comprende anche magistrati, funzionari ed agenti di polizia e rappresentanti diplomatici e consolari all'estero."
+      },
+      {
+        "id": "c",
+        "text": "i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "tutti i pubblici impiegati, in quanto al servizio esclusivo della Nazione",
+        "why_wrong": "Le limitazioni possono riguardare solo le categorie elencate dall'art. 98, non tutti i pubblici impiegati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 98, terzo comma, consente alla legge di limitare il diritto d'iscriversi ai partiti politici soltanto per magistrati, militari di carriera in servizio attivo, funzionari ed agenti di polizia, rappresentanti diplomatici e consolari all'estero.",
+    "evidence": [
+      {
+        "ref": "art. 98, comma 3",
+        "text": "Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 98, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

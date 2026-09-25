@@ -1,0 +1,666 @@
+[
+  {
+    "id": "cost-dir-001",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 13 della Costituzione, i provvedimenti provvisori restrittivi della libertà personale adottati dall'autorità di pubblica sicurezza devono essere comunicati all'autorità giudiziaria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro quarantotto ore",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "entro ventiquattro ore",
+        "why_wrong": "Il termine di ventiquattro ore è previsto dall'art. 21 per la denunzia del sequestro della stampa periodica eseguito da ufficiali di polizia giudiziaria."
+      },
+      {
+        "id": "c",
+        "text": "entro cinque giorni",
+        "why_wrong": "Cinque giorni è il termine entro cui si riuniscono le Camere convocate per la conversione dei decreti-legge (art. 77)."
+      },
+      {
+        "id": "d",
+        "text": "senza un termine prestabilito, purché il provvedimento sia motivato",
+        "why_wrong": "L'art. 13 fissa il termine di quarantotto ore per la comunicazione all'autorità giudiziaria."
+      }
+    ],
+    "correct": "a",
+    "explanation": "In casi eccezionali di necessità ed urgenza, indicati tassativamente dalla legge, l'autorità di pubblica sicurezza può adottare provvedimenti provvisori, che devono essere comunicati entro quarantotto ore all'autorità giudiziaria.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 3",
+        "text": "In casi eccezionali di necessità ed urgenza, indicati tassativamente dalla legge, l'autorità di pubblica sicurezza può adottare provvedimenti provvisori, che devono essere comunicati entro quarantotto ore all'autorità giudiziaria"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 13, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-002",
+    "subject": "diritto-pubblico",
+    "question": "In un caso eccezionale di necessità ed urgenza indicato tassativamente dalla legge, l'autorità di pubblica sicurezza adotta un provvedimento provvisorio restrittivo della libertà personale e lo comunica tempestivamente all'autorità giudiziaria, che però non lo convalida nelle successive quarantotto ore. Secondo l'art. 13 della Costituzione, il provvedimento:",
+    "options": [
+      {
+        "id": "a",
+        "text": "resta efficace fino a quando l'autorità di pubblica sicurezza non lo revoca",
+        "why_wrong": "Il provvedimento non convalidato si intende revocato e resta privo di ogni effetto, senza necessità di un atto di revoca."
+      },
+      {
+        "id": "b",
+        "text": "si intende revocato e resta privo di ogni effetto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "si intende convalidato per effetto del silenzio dell'autorità giudiziaria",
+        "why_wrong": "L'art. 13 prevede che, in mancanza di convalida nelle successive quarantotto ore, il provvedimento si intende revocato."
+      },
+      {
+        "id": "d",
+        "text": "resta efficace per sessanta giorni, salvo diversa decisione del giudice",
+        "why_wrong": "Il termine di sessanta giorni riguarda la conversione dei decreti-legge (art. 77); il provvedimento non convalidato si intende revocato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Se l'autorità giudiziaria non convalida il provvedimento provvisorio nelle quarantotto ore successive alla comunicazione, esso si intende revocato e resta privo di ogni effetto.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 3",
+        "text": "se questa non li convalida nelle successive quarantotto ore, si intendono revocati e restano privi di ogni effetto."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 13, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-003",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 53 della Costituzione, tutti sono tenuti a concorrere alle spese pubbliche:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in ragione della loro capacità contributiva, in un sistema tributario informato a criteri di proporzionalità",
+        "why_wrong": "L'art. 53 informa il sistema tributario a criteri di progressività."
+      },
+      {
+        "id": "b",
+        "text": "se cittadini italiani, in ragione della loro capacità contributiva",
+        "why_wrong": "L'art. 53 si riferisce a «tutti», non ai soli cittadini."
+      },
+      {
+        "id": "c",
+        "text": "in ragione della loro capacità contributiva, in un sistema tributario informato a criteri di progressività",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "in misura eguale per tutti, in un sistema tributario informato a criteri di proporzionalità",
+        "why_wrong": "L'art. 53 lega il concorso alla capacità contributiva e informa il sistema tributario a criteri di progressività."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 53 impone a tutti di concorrere alle spese pubbliche in ragione della propria capacità contributiva e stabilisce che il sistema tributario è informato a criteri di progressività.",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 1",
+        "text": "Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva."
+      },
+      {
+        "ref": "art. 53, comma 2",
+        "text": "Il sistema tributario è informato a criteri di progressività."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 53, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-004",
+    "subject": "diritto-pubblico",
+    "question": "Un comitato di cittadini organizza una riunione pacifica e senz'armi in una piazza cittadina. In base all'art. 17 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non è richiesto alcun preavviso",
+        "why_wrong": "L'esenzione dal preavviso riguarda le riunioni in luogo aperto al pubblico; per le riunioni in luogo pubblico il preavviso è dovuto."
+      },
+      {
+        "id": "b",
+        "text": "occorre un'autorizzazione preventiva delle autorità",
+        "why_wrong": "L'art. 17 prevede un preavviso alle autorità, non un'autorizzazione."
+      },
+      {
+        "id": "c",
+        "text": "le autorità possono vietare la riunione per qualsiasi motivo di opportunità",
+        "why_wrong": "Le autorità possono vietare le riunioni in luogo pubblico soltanto per comprovati motivi di sicurezza o di incolumità pubblica."
+      },
+      {
+        "id": "d",
+        "text": "deve essere dato preavviso alle autorità, che possono vietare la riunione soltanto per comprovati motivi di sicurezza o di incolumità pubblica",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Una piazza è un luogo pubblico: per le riunioni in luogo pubblico deve essere dato preavviso alle autorità, che possono vietarle soltanto per comprovati motivi di sicurezza o di incolumità pubblica.",
+    "evidence": [
+      {
+        "ref": "art. 17, comma 3",
+        "text": "Delle riunioni in luogo pubblico deve essere dato preavviso alle autorità, che possono vietarle soltanto per comprovati motivi di sicurezza o di incolumità pubblica."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 17, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-005",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 18 della Costituzione, i cittadini hanno diritto di associarsi liberamente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "senza autorizzazione, per fini che non sono vietati ai singoli dalla legge penale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "previa autorizzazione dell'autorità di pubblica sicurezza",
+        "why_wrong": "L'art. 18 riconosce il diritto di associarsi senza autorizzazione."
+      },
+      {
+        "id": "c",
+        "text": "previa registrazione presso uffici locali o centrali",
+        "why_wrong": "La registrazione presso uffici locali o centrali è prevista dall'art. 39 per i sindacati."
+      },
+      {
+        "id": "d",
+        "text": "per qualsiasi fine, compresi scopi politici perseguiti mediante organizzazioni di carattere militare",
+        "why_wrong": "L'art. 18 proibisce le associazioni che perseguono, anche indirettamente, scopi politici mediante organizzazioni di carattere militare."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 18 garantisce la libertà di associazione senza autorizzazione, per fini non vietati ai singoli dalla legge penale, e proibisce le associazioni segrete e quelle che perseguono scopi politici mediante organizzazioni di carattere militare.",
+    "evidence": [
+      {
+        "ref": "art. 18, comma 1",
+        "text": "I cittadini hanno diritto di associarsi liberamente, senza autorizzazione, per fini che non sono vietati ai singoli dalla legge penale."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 18, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-006",
+    "subject": "diritto-pubblico",
+    "question": "In un caso di assoluta urgenza, in cui non è possibile il tempestivo intervento dell'autorità giudiziaria, ufficiali di polizia giudiziaria sequestrano un quotidiano nei casi consentiti dalla legge. Secondo l'art. 21 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non devono farne denunzia, perché il sequestro della stampa periodica non richiede convalida",
+        "why_wrong": "L'art. 21 impone la denunzia all'autorità giudiziaria e ne richiede la convalida."
+      },
+      {
+        "id": "b",
+        "text": "devono farne denunzia all'autorità giudiziaria immediatamente e non mai oltre ventiquattro ore; se questa non convalida nelle ventiquattro ore successive, il sequestro s'intende revocato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "devono farne denunzia all'autorità giudiziaria entro quarantotto ore; se questa non convalida nelle quarantotto ore successive, il sequestro s'intende revocato",
+        "why_wrong": "I termini di quarantotto ore sono quelli dell'art. 13 per i provvedimenti provvisori dell'autorità di pubblica sicurezza; per il sequestro della stampa periodica l'art. 21 prevede ventiquattro ore."
+      },
+      {
+        "id": "d",
+        "text": "devono farne denunzia entro ventiquattro ore; in mancanza di convalida il sequestro resta efficace fino alla decisione del giudice",
+        "why_wrong": "In mancanza di convalida nelle ventiquattro ore successive il sequestro s'intende revocato e privo d'ogni effetto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il sequestro della stampa periodica da parte di ufficiali di polizia giudiziaria è ammesso solo in caso di assoluta urgenza: la denunzia all'autorità giudiziaria va fatta immediatamente e mai oltre ventiquattro ore; senza convalida nelle ventiquattro ore successive il sequestro s'intende revocato e privo d'ogni effetto.",
+    "evidence": [
+      {
+        "ref": "art. 21, comma 4",
+        "text": "il sequestro della stampa periodica può essere eseguito da ufficiali di polizia giudiziaria, che devono immediatamente, e non mai oltre ventiquattro ore, fare denunzia all'autorità giudiziaria. Se questa non lo convalida nelle ventiquattro ore successive, il sequestro s'intende revocato e privo d'ogni effetto."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 21, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-007",
+    "subject": "diritto-pubblico",
+    "question": "Quale delle seguenti affermazioni è conforme all'art. 21 della Costituzione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La legge può stabilire che siano resi noti i mezzi di finanziamento della stampa periodica, ma solo con norme riferite a singole testate",
+        "why_wrong": "L'art. 21 prevede che ciò avvenga con norme di carattere generale."
+      },
+      {
+        "id": "b",
+        "text": "Il sequestro della stampa può essere disposto in via ordinaria dall'autorità amministrativa con atto motivato",
+        "why_wrong": "Il sequestro si può disporre soltanto per atto motivato dell'autorità giudiziaria, salvo il caso di assoluta urgenza previsto per la stampa periodica."
+      },
+      {
+        "id": "c",
+        "text": "La stampa non può essere soggetta ad autorizzazioni o censure",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La legge può sottoporre la stampa periodica ad autorizzazione preventiva",
+        "why_wrong": "L'art. 21 dispone che la stampa non può essere soggetta ad autorizzazioni o censure."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 21 garantisce la libertà di manifestazione del pensiero e stabilisce che la stampa non può essere soggetta ad autorizzazioni o censure.",
+    "evidence": [
+      {
+        "ref": "art. 21, comma 2",
+        "text": "La stampa non può essere soggetta ad autorizzazioni o censure."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 21, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-008",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 24 della Costituzione, tutti possono agire in giudizio per la tutela:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dei soli diritti soggettivi",
+        "why_wrong": "L'art. 24 comprende anche gli interessi legittimi."
+      },
+      {
+        "id": "b",
+        "text": "dei soli interessi legittimi nei confronti della pubblica amministrazione",
+        "why_wrong": "L'art. 24 comprende sia i diritti sia gli interessi legittimi, senza limitarsi ai rapporti con la pubblica amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "dei propri diritti, purché cittadini italiani",
+        "why_wrong": "L'art. 24 si riferisce a «tutti», non ai soli cittadini."
+      },
+      {
+        "id": "d",
+        "text": "dei propri diritti e interessi legittimi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 24 riconosce a tutti il diritto di agire in giudizio per la tutela dei propri diritti e interessi legittimi e qualifica la difesa come diritto inviolabile in ogni stato e grado del procedimento.",
+    "evidence": [
+      {
+        "ref": "art. 24, comma 1",
+        "text": "Tutti possono agire in giudizio per la tutela dei propri diritti e interessi legittimi."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 24, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-009",
+    "subject": "diritto-pubblico",
+    "question": "Una legge entrata in vigore nel 2026 qualifica come reato una condotta che in precedenza era lecita. Un cittadino ha tenuto quella condotta nel 2025. Secondo l'art. 25 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può essere punito, perché nessuno può essere punito se non in forza di una legge entrata in vigore prima del fatto commesso",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può essere punito, se la nuova legge lo prevede espressamente",
+        "why_wrong": "L'art. 25 richiede che la legge sia entrata in vigore prima del fatto commesso, senza eccezioni."
+      },
+      {
+        "id": "c",
+        "text": "può essere punito, purché sia giudicato dal giudice naturale precostituito per legge",
+        "why_wrong": "La garanzia del giudice naturale (primo comma) non consente di punire in base a una legge entrata in vigore dopo il fatto."
+      },
+      {
+        "id": "d",
+        "text": "può essere punito, ma solo con una misura di sicurezza",
+        "why_wrong": "Le misure di sicurezza sono applicabili solo nei casi previsti dalla legge; la punizione richiede una legge entrata in vigore prima del fatto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 25, secondo comma, sancisce l'irretroattività della legge penale: nessuno può essere punito se non in forza di una legge entrata in vigore prima del fatto commesso.",
+    "evidence": [
+      {
+        "ref": "art. 25, comma 2",
+        "text": "Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 25, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-010",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 27 della Costituzione, le pene:",
+    "options": [
+      {
+        "id": "a",
+        "text": "devono tendere esclusivamente a punire il condannato in proporzione al fatto commesso",
+        "why_wrong": "L'art. 27 dispone che le pene devono tendere alla rieducazione del condannato."
+      },
+      {
+        "id": "b",
+        "text": "non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "possono applicarsi all'imputato prima della condanna definitiva, se la legge lo prevede",
+        "why_wrong": "L'art. 27 dispone che l'imputato non è considerato colpevole sino alla condanna definitiva."
+      },
+      {
+        "id": "d",
+        "text": "possono consistere nella pena di morte nei casi previsti dalle leggi militari",
+        "why_wrong": "Il testo vigente dell'art. 27 dispone che non è ammessa la pena di morte, senza eccezioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 27 stabilisce che le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato.",
+    "evidence": [
+      {
+        "ref": "art. 27, comma 3",
+        "text": "Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 27, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-011",
+    "subject": "diritto-pubblico",
+    "question": "Un dipendente di un Comune, nell'esercizio delle sue funzioni, compie un atto in violazione dei diritti di un cittadino. Secondo l'art. 28 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dipendente risponde soltanto sul piano disciplinare",
+        "why_wrong": "L'art. 28 prevede la responsabilità diretta secondo le leggi penali, civili e amministrative."
+      },
+      {
+        "id": "b",
+        "text": "la responsabilità civile resta esclusivamente a carico del dipendente",
+        "why_wrong": "L'art. 28 dispone che la responsabilità civile si estende allo Stato e agli enti pubblici."
+      },
+      {
+        "id": "c",
+        "text": "il dipendente è direttamente responsabile secondo le leggi penali, civili e amministrative, e la responsabilità civile si estende al Comune",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "risponde soltanto il Comune, con esclusione della responsabilità personale del dipendente",
+        "why_wrong": "L'art. 28 afferma la responsabilità diretta dei funzionari e dei dipendenti; quella civile si estende all'ente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili degli atti compiuti in violazione di diritti; la responsabilità civile si estende allo Stato e agli enti pubblici.",
+    "evidence": [
+      {
+        "ref": "art. 28, comma 1",
+        "text": "I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 28, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-012",
+    "subject": "diritto-pubblico",
+    "question": "In base all'art. 32 della Costituzione, un determinato trattamento sanitario può essere reso obbligatorio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per atto motivato dell'autorità giudiziaria, con le garanzie stabilite dalla legge",
+        "why_wrong": "L'atto motivato dell'autorità giudiziaria è la garanzia prevista per la libertà personale (art. 13); l'art. 32 richiede una disposizione di legge."
+      },
+      {
+        "id": "b",
+        "text": "con qualsiasi atto dell'autorità sanitaria, trattandosi di interesse della collettività",
+        "why_wrong": "L'art. 32 richiede una disposizione di legge."
+      },
+      {
+        "id": "c",
+        "text": "mai, perché la salute è un fondamentale diritto dell'individuo",
+        "why_wrong": "L'art. 32 ammette trattamenti obbligatori per disposizione di legge, nel rispetto della persona umana."
+      },
+      {
+        "id": "d",
+        "text": "soltanto per disposizione di legge, che non può in nessun caso violare i limiti imposti dal rispetto della persona umana",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 32 tutela la salute come fondamentale diritto dell'individuo e interesse della collettività: nessuno può essere obbligato a un determinato trattamento sanitario se non per disposizione di legge, che non può violare i limiti imposti dal rispetto della persona umana.",
+    "evidence": [
+      {
+        "ref": "art. 32, comma 2",
+        "text": "Nessuno può essere obbligato a un determinato trattamento sanitario se non per disposizione di legge. La legge non può in nessun caso violare i limiti imposti dal rispetto della persona umana."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 32, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-013",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 34 della Costituzione, l'istruzione inferiore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è impartita per almeno otto anni ed è obbligatoria e gratuita",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "è obbligatoria, ma i relativi costi sono a carico delle famiglie",
+        "why_wrong": "L'art. 34 dispone che l'istruzione inferiore è obbligatoria e gratuita."
+      },
+      {
+        "id": "c",
+        "text": "è gratuita solo per i capaci e meritevoli privi di mezzi",
+        "why_wrong": "Il diritto dei capaci e meritevoli privi di mezzi riguarda il raggiungimento dei gradi più alti degli studi."
+      },
+      {
+        "id": "d",
+        "text": "è gratuita, ma non obbligatoria",
+        "why_wrong": "L'art. 34 dispone che l'istruzione inferiore è obbligatoria e gratuita."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 34 stabilisce che la scuola è aperta a tutti e che l'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita.",
+    "evidence": [
+      {
+        "ref": "art. 34, comma 2",
+        "text": "L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 34, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-014",
+    "subject": "diritto-pubblico",
+    "question": "Un lavoratore sottoscrive con il datore di lavoro un accordo con cui rinuncia alle ferie annuali in cambio di un compenso aggiuntivo. Alla luce dell'art. 36 della Costituzione, tale rinuncia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è valida, se la durata massima della giornata lavorativa stabilita dalla legge è rispettata",
+        "why_wrong": "Il rispetto della durata massima della giornata lavorativa non rende rinunziabili le ferie annuali."
+      },
+      {
+        "id": "b",
+        "text": "contrasta con la Costituzione, perché il lavoratore ha diritto a ferie annuali retribuite e non può rinunziarvi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è valida, se la retribuzione complessiva resta proporzionata alla quantità e qualità del lavoro",
+        "why_wrong": "Il diritto a una retribuzione proporzionata (primo comma) non rende rinunziabili le ferie annuali (terzo comma)."
+      },
+      {
+        "id": "d",
+        "text": "è valida, purché sia garantito il riposo settimanale",
+        "why_wrong": "L'art. 36 riconosce sia il riposo settimanale sia le ferie annuali retribuite, e il lavoratore non può rinunziarvi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 36, terzo comma, riconosce al lavoratore il diritto al riposo settimanale e a ferie annuali retribuite e stabilisce che non può rinunziarvi.",
+    "evidence": [
+      {
+        "ref": "art. 36, comma 3",
+        "text": "Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 36, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-dir-015",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 48 della Costituzione, il diritto di voto può essere limitato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nei confronti di chi non ha esercitato il voto, che è dovere civico",
+        "why_wrong": "L'esercizio del voto è dovere civico, ma le limitazioni del diritto di voto sono solo quelle elencate dall'ultimo comma dell'art. 48."
+      },
+      {
+        "id": "b",
+        "text": "per motivi politici, nei casi stabiliti dalla legge",
+        "why_wrong": "L'art. 48 non prevede i motivi politici tra le cause di limitazione del diritto di voto."
+      },
+      {
+        "id": "c",
+        "text": "solo per incapacità civile, per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "anche per effetto di una sentenza penale di condanna non ancora irrevocabile",
+        "why_wrong": "L'art. 48 richiede una sentenza penale irrevocabile."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'ultimo comma dell'art. 48 elenca tassativamente le cause di limitazione del diritto di voto: incapacità civile, sentenza penale irrevocabile, casi di indegnità morale indicati dalla legge.",
+    "evidence": [
+      {
+        "ref": "art. 48, comma 4",
+        "text": "Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 48, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

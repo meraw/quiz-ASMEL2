@@ -209,6 +209,12 @@ heading of each treaty ("TRATTATO SULL'UNIONE EUROPEA (VERSIONE
 CONSOLIDATA)", "TRATTATO SUL FUNZIONAMENTO...") to know which treaty an
 article belongs to.
 
+The Costituzione does not number its commas and does not separate them with
+blank lines: each comma simply starts on a new line. In that file the check
+ends a comma at a line that ends with a full stop (note markers such as
+`((20))` are ignored), so `"art. 13, comma 3"` works as usual. It reads the
+Costituzione only up to the "DISPOSIZIONI TRANSITORIE E FINALI".
+
 The check reads a source file only up to the closing formula of its act
 ("Il presente decreto, munito del sigillo dello Stato..." or "Fatto a
 Bruxelles, il ..."). Annexes and other acts saved in the same file (the
