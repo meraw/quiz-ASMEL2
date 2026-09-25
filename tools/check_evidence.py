@@ -31,6 +31,14 @@ munito del sigillo dello Stato..." or, for EU acts, "Fatto a Bruxelles, il
 ..."): what follows (annexes, other acts published in the same Official
 Journal) is not read, so its article numbers never replace the act's own.
 
+The Costituzione (Normattiva) is a special case: its commas are neither
+numbered nor separated by blank lines. Each comma starts on a new line, so
+in that file a comma ends at a line ending with a full stop (note markers
+such as "((20))" or "(19)" ignored); list items ending with ";" or ":"
+stay in the same comma. The file is read up to the "DISPOSIZIONI
+TRANSITORIE E FINALI", and PARTE / TITOLO / SEZIONE headings end the
+article before them.
+
 Every .json file in data/questions/ is checked (index.json excluded).
 
 Usage (from the project folder):
@@ -71,6 +79,20 @@ TREATY_RE = re.compile(r"^TRATTATO (SULL'UNIONE EUROPEA|SUL FUNZIONAMENTO DELL'U
                        r" \(VERSIONE CONSOLIDATA\)\s*$")
 TREATIES = {"SULL'UNIONE EUROPEA": 'TUE', "SUL FUNZIONAMENTO DELL'UNIONE EUROPEA": 'TFUE'}
 END_RE = re.compile(r'^\s*(?:Il presente decreto, munito del sigillo dello Stato|Fatto a \S.*, il )')
+# The Costituzione: recognised by its title line; its articles end before the
+# transitional provisions, and its headings are not part of any article
+CONSTITUTION_RE = re.compile(r'^COSTITUZIONE DELLA REPUBBLICA ITALIANA\s*$')
+CONSTITUTION_END_RE = re.compile(r'^\s*DISPOSIZIONI TRANSITORIE E FINALI\s*$')
+CONSTITUTION_HEADING_RE = re.compile(r'^(?:PARTE|TITOLO|SEZIONE) [IVX]+\s*$')
+# Note markers "((20))", "(19)" and omitted text "(( . . . ))": ignored when
+# deciding whether a line of the Costituzione ends a comma
+CONSTITUTION_MARK_RE = re.compile(r'\(\(\s*\d+\s*\)\)|\(\d+\)|\(\(\s*(?:\.\s*)+\)\)')
+# The only places where a line of the Costituzione ends with a full stop in
+# the middle of a comma: the line after it continues that comma
+# (art. 48, comma 3; art. 102, comma 2; art. 123, comma 2)
+CONSTITUTION_CONTINUED = ('A tale fine è istituita una circoscrizione Estero',
+                          'Possono soltanto istituirsi presso gli organi giudiziari',
+                          'Per tale legge non è richiesta l\'apposizione del visto')
 
 
 def norm(text):
@@ -120,6 +142,32 @@ def unnumbered_commas(lines):
     return {str(i): norm(t) for i, t in enumerate(commas, 1)}
 
 
+def line_commas(lines):
+    """Split an article of the Costituzione into commas.
+
+    Each comma starts on a new line and ends with a full stop at the end of a
+    line (possibly followed by "))" or by note markers). Returns
+    {"1": text, "2": text, ...}.
+    """
+    commas, cur = [], []
+    for line in lines:
+        text = line.strip()
+        if not text:
+            continue
+        bare = CONSTITUTION_MARK_RE.sub('', text).strip()
+        # A line of note markers or a lone "." belongs to the previous comma; a
+        # listed continuation line reopens it
+        if not cur and commas and (MARKERS_RE.match(bare) or text.startswith(CONSTITUTION_CONTINUED)):
+            cur = [commas.pop()]
+        cur.append(text)
+        if bare.endswith('.') or bare.endswith('.))'):
+            commas.append(' '.join(cur))
+            cur = []
+    if cur:
+        commas.append(' '.join(cur))
+    return {str(i): norm(t) for i, t in enumerate(commas, 1)}
+
+
 def parse_law(path):
     """Return {article: {comma: normalised text}} for one source file.
 
@@ -129,6 +177,7 @@ def parse_law(path):
         lines = f.read().replace('\r\n', '\n').replace('\r', '\n').split('\n')
     law, article, comma, buf, raw = {}, None, None, [], []
     treaty = None
+    constitution = any(CONSTITUTION_RE.match(line) for line in lines)
     points, point, pbuf = {}, None, []
 
     def flush():
@@ -143,12 +192,12 @@ def parse_law(path):
     def end_article():
         # An article with no numbered comma: its paragraphs are its commas
         if article is not None and article not in law:
-            commas = unnumbered_commas(raw)
+            commas = line_commas(raw) if constitution else unnumbered_commas(raw)
             if commas:
                 law[article] = commas
 
     for line in lines:
-        if END_RE.match(line):
+        if END_RE.match(line) or (constitution and CONSTITUTION_END_RE.match(line)):
             break
         t = TREATY_RE.match(line)
         if t:
@@ -173,7 +222,8 @@ def parse_law(path):
             law.pop(article, None)
             continue
         # A new Capo, or the "-----" line before the notes/updates: the comma ends here
-        if line.strip().startswith('CAPO ') or line.strip().startswith('-----'):
+        if (line.strip().startswith('CAPO ') or line.strip().startswith('-----')
+                or (constitution and CONSTITUTION_HEADING_RE.match(line))):
             flush()
             flush_point()
             end_article()

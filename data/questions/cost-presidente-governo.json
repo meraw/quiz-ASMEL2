@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cost-pg-001",
+    "subject": "diritto-pubblico",
+    "question": "Al quarto scrutinio per l'elezione del Presidente della Repubblica, un candidato ottiene la maggioranza assoluta dell'assemblea, ma non i due terzi. Secondo l'art. 83 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il candidato è eletto solo se la votazione si è svolta per appello nominale",
+        "why_wrong": "L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto; l'appello nominale è previsto per le mozioni di fiducia (art. 94)."
+      },
+      {
+        "id": "b",
+        "text": "il candidato è eletto, perché dopo il terzo scrutinio è sufficiente la maggioranza assoluta",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il candidato non è eletto, perché è sempre necessaria la maggioranza di due terzi dell'assemblea",
+        "why_wrong": "La maggioranza di due terzi è richiesta nei primi tre scrutini; dopo il terzo basta la maggioranza assoluta."
+      },
+      {
+        "id": "d",
+        "text": "il candidato non è eletto, perché la maggioranza assoluta è sufficiente solo dopo il sesto scrutinio",
+        "why_wrong": "L'art. 83 rende sufficiente la maggioranza assoluta dopo il terzo scrutinio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'elezione del Presidente della Repubblica avviene per scrutinio segreto a maggioranza di due terzi dell'assemblea; dopo il terzo scrutinio è sufficiente la maggioranza assoluta.",
+    "evidence": [
+      {
+        "ref": "art. 83, comma 3",
+        "text": "L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 83, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-002",
+    "subject": "diritto-pubblico",
+    "question": "In base agli artt. 84 e 85 della Costituzione, può essere eletto Presidente della Repubblica ogni cittadino che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici; il Presidente è eletto per cinque anni",
+        "why_wrong": "Cinque anni è la durata delle Camere (art. 60); il Presidente della Repubblica è eletto per sette anni."
+      },
+      {
+        "id": "b",
+        "text": "abbia compiuto cinquanta anni d'età e sia membro del Parlamento; il Presidente è eletto per sette anni",
+        "why_wrong": "L'art. 84 non richiede di essere parlamentare e dichiara l'ufficio incompatibile con qualsiasi altra carica."
+      },
+      {
+        "id": "c",
+        "text": "abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici; il Presidente è eletto per sette anni",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "abbia compiuto quaranta anni d'età e goda dei diritti civili e politici; il Presidente è eletto per sette anni",
+        "why_wrong": "Quaranta anni è l'età richiesta per l'eleggibilità a senatore (art. 58); per il Presidente della Repubblica ne occorrono cinquanta."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 84 richiede cinquanta anni compiuti e il godimento dei diritti civili e politici; l'art. 85 fissa in sette anni la durata del mandato.",
+    "evidence": [
+      {
+        "ref": "art. 84, comma 1",
+        "text": "Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici."
+      },
+      {
+        "ref": "art. 85, comma 1",
+        "text": "Il Presidente della Repubblica è eletto per sette anni."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 84, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-003",
+    "subject": "diritto-pubblico",
+    "question": "Il Presidente della Repubblica non può temporaneamente adempiere le sue funzioni per motivi di salute. Secondo l'art. 86 della Costituzione, le sue funzioni sono esercitate:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal Presidente della Camera dei deputati",
+        "why_wrong": "Il Presidente della Camera indice l'elezione del nuovo Presidente in caso di impedimento permanente, morte o dimissioni; la supplenza spetta al Presidente del Senato."
+      },
+      {
+        "id": "b",
+        "text": "dal Presidente del Consiglio dei ministri",
+        "why_wrong": "L'art. 86 attribuisce l'esercizio delle funzioni al Presidente del Senato."
+      },
+      {
+        "id": "c",
+        "text": "dal più anziano dei senatori a vita",
+        "why_wrong": "L'art. 86 attribuisce l'esercizio delle funzioni al Presidente del Senato."
+      },
+      {
+        "id": "d",
+        "text": "dal Presidente del Senato",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "In ogni caso in cui il Presidente della Repubblica non possa adempiere le sue funzioni, esse sono esercitate dal Presidente del Senato.",
+    "evidence": [
+      {
+        "ref": "art. 86, comma 1",
+        "text": "Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 86, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-004",
+    "subject": "diritto-pubblico",
+    "question": "Mancano quattro mesi alla scadenza del mandato del Presidente della Repubblica, mentre alla fine della legislatura mancano ancora due anni. Secondo l'art. 88 della Costituzione, il Presidente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può sciogliere le Camere",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può sciogliere le Camere, sentiti i loro Presidenti",
+        "why_wrong": "Negli ultimi sei mesi del mandato il Presidente non può sciogliere le Camere, salvo che coincidano in tutto o in parte con gli ultimi sei mesi della legislatura."
+      },
+      {
+        "id": "c",
+        "text": "può sciogliere una sola delle due Camere",
+        "why_wrong": "Il divieto degli ultimi sei mesi del mandato riguarda la facoltà di scioglimento, anche di una sola Camera."
+      },
+      {
+        "id": "d",
+        "text": "può sciogliere le Camere previa autorizzazione del Parlamento in seduta comune",
+        "why_wrong": "L'art. 88 non prevede alcuna autorizzazione che consenta lo scioglimento negli ultimi sei mesi del mandato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il Presidente non può sciogliere le Camere negli ultimi sei mesi del suo mandato (il cosiddetto semestre bianco), salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura: nel caso descritto non c'è coincidenza.",
+    "evidence": [
+      {
+        "ref": "art. 88, comma 2",
+        "text": "((Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura))"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 88, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-005",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 89 della Costituzione, gli atti del Presidente della Repubblica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "devono essere controfirmati dal Presidente del Consiglio dei ministri soltanto se hanno valore legislativo, senza altra controfirma",
+        "why_wrong": "Tutti gli atti richiedono la controfirma dei ministri proponenti; quelli con valore legislativo anche del Presidente del Consiglio."
+      },
+      {
+        "id": "b",
+        "text": "non sono validi se non sono controfirmati dai ministri proponenti, che ne assumono la responsabilità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "sono validi anche senza controfirma, se il Presidente ne assume la responsabilità",
+        "why_wrong": "L'art. 89 richiede la controfirma a pena di invalidità; la responsabilità è assunta dai ministri proponenti."
+      },
+      {
+        "id": "d",
+        "text": "devono essere controfirmati soltanto dai Presidenti delle Camere",
+        "why_wrong": "L'art. 89 richiede la controfirma dei ministri proponenti e, per gli atti con valore legislativo, anche del Presidente del Consiglio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Nessun atto del Presidente della Repubblica è valido se non è controfirmato dai ministri proponenti, che ne assumono la responsabilità; gli atti con valore legislativo e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio.",
+    "evidence": [
+      {
+        "ref": "art. 89, comma 1",
+        "text": "Nessun atto del Presidente della Repubblica è valido se non è controfirmato dai ministri proponenti, che ne assumono la responsabilità."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 89, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-006",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 90 della Costituzione, il Presidente della Repubblica è responsabile degli atti compiuti nell'esercizio delle sue funzioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per qualsiasi reato, previa autorizzazione del Senato o della Camera",
+        "why_wrong": "L'autorizzazione di una Camera è prevista dall'art. 96 per i reati ministeriali del Presidente del Consiglio e dei ministri."
+      },
+      {
+        "id": "b",
+        "text": "in solido con i ministri che hanno controfirmato gli atti",
+        "why_wrong": "L'art. 90 esclude la responsabilità del Presidente salvo alto tradimento e attentato alla Costituzione; la responsabilità è assunta dai ministri controfirmanti (art. 89)."
+      },
+      {
+        "id": "c",
+        "text": "solo per alto tradimento o per attentato alla Costituzione, e in tali casi è messo in stato di accusa dal Parlamento in seduta comune a maggioranza assoluta dei suoi membri",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "solo per alto tradimento o per attentato alla Costituzione, e in tali casi è messo in stato di accusa dal Senato a maggioranza dei due terzi",
+        "why_wrong": "La messa in stato di accusa spetta al Parlamento in seduta comune, a maggioranza assoluta dei suoi membri."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle funzioni, tranne che per alto tradimento o attentato alla Costituzione; in tali casi è messo in stato di accusa dal Parlamento in seduta comune a maggioranza assoluta dei suoi membri.",
+    "evidence": [
+      {
+        "ref": "art. 90, comma 1",
+        "text": "Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione."
+      },
+      {
+        "ref": "art. 90, comma 2",
+        "text": "In tali casi è messo in stato di accusa dal Parlamento in seduta comune, a maggioranza assoluta dei suoi membri."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 90, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-007",
+    "subject": "diritto-pubblico",
+    "question": "Una Camera respinge un disegno di legge presentato dal Governo. In base all'art. 94 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il Governo ha l'obbligo di dimettersi, avendo perso la fiducia di una Camera",
+        "why_wrong": "Il voto contrario su una proposta del Governo non importa obbligo di dimissioni; la fiducia è revocata mediante mozione motivata."
+      },
+      {
+        "id": "b",
+        "text": "il Governo deve ripresentarsi alle Camere entro dieci giorni per ottenere la fiducia",
+        "why_wrong": "Il termine di dieci giorni riguarda la presentazione alle Camere dopo la formazione del Governo."
+      },
+      {
+        "id": "c",
+        "text": "si considera presentata una mozione di sfiducia, da discutere dopo tre giorni",
+        "why_wrong": "La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera; non deriva dal voto contrario su una proposta del Governo."
+      },
+      {
+        "id": "d",
+        "text": "il voto contrario non importa obbligo di dimissioni del Governo",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il voto contrario di una o di entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni: la fiducia si revoca con mozione motivata votata per appello nominale.",
+    "evidence": [
+      {
+        "ref": "art. 94, comma 4",
+        "text": "Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 94, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pg-008",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 95 della Costituzione, i ministri sono responsabili:",
+    "options": [
+      {
+        "id": "a",
+        "text": "collegialmente degli atti del Consiglio dei ministri, e individualmente degli atti dei loro dicasteri",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "individualmente degli atti del Consiglio dei ministri, e collegialmente degli atti dei loro dicasteri",
+        "why_wrong": "L'art. 95 prevede l'opposto: responsabilità collegiale per gli atti del Consiglio e individuale per quelli dei dicasteri."
+      },
+      {
+        "id": "c",
+        "text": "soltanto individualmente, perché la politica generale del Governo è diretta dal Presidente del Consiglio",
+        "why_wrong": "Il Presidente del Consiglio dirige la politica generale e ne è responsabile, ma i ministri sono anche responsabili collegialmente degli atti del Consiglio dei ministri."
+      },
+      {
+        "id": "d",
+        "text": "soltanto collegialmente, per tutti gli atti del Governo",
+        "why_wrong": "L'art. 95 prevede anche la responsabilità individuale per gli atti dei rispettivi dicasteri."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 95 distingue la responsabilità collegiale dei ministri per gli atti del Consiglio dei ministri da quella individuale per gli atti dei rispettivi dicasteri.",
+    "evidence": [
+      {
+        "ref": "art. 95, comma 2",
+        "text": "I ministri sono responsabili collegialmente degli atti del Consiglio dei ministri, e individualmente degli atti dei loro dicasteri."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 95, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

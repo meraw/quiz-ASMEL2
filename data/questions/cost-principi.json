@@ -1,0 +1,442 @@
+[
+  {
+    "id": "cost-pri-001",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 1 della Costituzione, la sovranità appartiene al popolo, che la esercita:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nelle forme e nei limiti della Costituzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "direttamente e senza limiti, in quanto titolare della sovranità",
+        "why_wrong": "L'art. 1 dispone che il popolo esercita la sovranità nelle forme e nei limiti della Costituzione."
+      },
+      {
+        "id": "c",
+        "text": "per mezzo del Parlamento, al quale la sovranità è trasferita con le elezioni",
+        "why_wrong": "Secondo l'art. 1 la sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione."
+      },
+      {
+        "id": "d",
+        "text": "nelle forme e nei limiti stabiliti dalla legge ordinaria",
+        "why_wrong": "L'art. 1 richiama le forme e i limiti della Costituzione, non della legge ordinaria."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, secondo comma, attribuisce la sovranità al popolo e ne vincola l'esercizio alle forme e ai limiti fissati dalla Costituzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 1, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-002",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 2 della Costituzione, la Repubblica richiede l'adempimento dei doveri inderogabili di solidarietà:",
+    "options": [
+      {
+        "id": "a",
+        "text": "familiare e sociale",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale."
+      },
+      {
+        "id": "b",
+        "text": "politica, economica e sociale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "politica e militare",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale."
+      },
+      {
+        "id": "d",
+        "text": "economica e fiscale",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale; il concorso alle spese pubbliche è previsto dall'art. 53."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2 riconosce e garantisce i diritti inviolabili dell'uomo, come singolo e nelle formazioni sociali, e richiede l'adempimento dei doveri inderogabili di solidarietà politica, economica e sociale.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 1",
+        "text": "La Repubblica riconosce e garantisce i diritti inviolabili dell'uomo, sia come singolo sia nelle formazioni sociali ove si svolge la sua personalità, e richiede l'adempimento dei doveri inderogabili di solidarietà politica, economica e sociale."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 2, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-003",
+    "subject": "diritto-pubblico",
+    "question": "Un Comune istituisce un servizio gratuito di trasporto scolastico per gli studenti di famiglie a basso reddito, che altrimenti non potrebbero frequentare la scuola. Tale intervento è espressione del principio, sancito dall'art. 3 della Costituzione, secondo cui:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la Repubblica riconosce e promuove le autonomie locali",
+        "why_wrong": "Il riconoscimento delle autonomie locali è oggetto dell'art. 5, non della rimozione degli ostacoli di ordine economico e sociale."
+      },
+      {
+        "id": "b",
+        "text": "la Repubblica promuove lo sviluppo della cultura",
+        "why_wrong": "La promozione della cultura è oggetto dell'art. 9, non della rimozione degli ostacoli di ordine economico e sociale."
+      },
+      {
+        "id": "c",
+        "text": "è compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "tutti i cittadini sono eguali davanti alla legge, senza distinzione di condizioni personali e sociali",
+        "why_wrong": "L'eguaglianza davanti alla legge è sancita dal primo comma; la rimozione degli ostacoli di ordine economico e sociale è compito della Repubblica ai sensi del secondo comma."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'intervento mira a rimuovere un ostacolo economico che, di fatto, limita l'eguaglianza degli studenti: è il compito affidato alla Repubblica dall'art. 3, secondo comma (eguaglianza sostanziale).",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 2",
+        "text": "È compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 3, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-004",
+    "subject": "diritto-pubblico",
+    "question": "L'art. 3, primo comma, della Costituzione dispone che tutti i cittadini sono eguali davanti alla legge senza distinzione di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sesso, razza, lingua e religione, senza riferimento alle opinioni politiche",
+        "why_wrong": "Il primo comma dell'art. 3 comprende espressamente le opinioni politiche e le condizioni personali e sociali."
+      },
+      {
+        "id": "b",
+        "text": "sesso, razza e religione, mentre le distinzioni di lingua sono rimesse alla legge",
+        "why_wrong": "Il primo comma dell'art. 3 comprende la lingua; la tutela delle minoranze linguistiche è prevista dall'art. 6."
+      },
+      {
+        "id": "c",
+        "text": "razza, lingua, religione e opinioni politiche, esclusa la distinzione di sesso",
+        "why_wrong": "Il primo comma dell'art. 3 comprende espressamente la distinzione di sesso."
+      },
+      {
+        "id": "d",
+        "text": "sesso, razza, lingua, religione, opinioni politiche, condizioni personali e sociali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il primo comma dell'art. 3 sancisce la pari dignità sociale e l'eguaglianza davanti alla legge, senza distinzione di sesso, razza, lingua, religione, opinioni politiche, condizioni personali e sociali.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1",
+        "text": "Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 3, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-005",
+    "subject": "diritto-pubblico",
+    "question": "In base all'art. 5 della Costituzione, nei servizi che dipendono dallo Stato la Repubblica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "attua il più ampio decentramento amministrativo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "attua l'accentramento delle funzioni, in quanto la Repubblica è una e indivisibile",
+        "why_wrong": "L'art. 5 affianca all'unità e indivisibilità della Repubblica il più ampio decentramento amministrativo."
+      },
+      {
+        "id": "c",
+        "text": "attua il decentramento soltanto nelle materie indicate dalle Regioni",
+        "why_wrong": "L'art. 5 prevede il più ampio decentramento amministrativo nei servizi che dipendono dallo Stato, senza limitarlo a materie indicate dalle Regioni."
+      },
+      {
+        "id": "d",
+        "text": "tutela con apposite norme le minoranze linguistiche",
+        "why_wrong": "La tutela delle minoranze linguistiche è oggetto dell'art. 6."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5 dispone che la Repubblica, una e indivisibile, riconosce e promuove le autonomie locali, attua nei servizi che dipendono dallo Stato il più ampio decentramento amministrativo e adegua la sua legislazione alle esigenze dell'autonomia e del decentramento.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 1",
+        "text": "La Repubblica, una e indivisibile, riconosce e promuove le autonomie locali; attua nei servizi che dipendono dallo Stato il più ampio decentramento amministrativo"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 5, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-006",
+    "subject": "diritto-pubblico",
+    "question": "Lo Stato e la Chiesa cattolica concordano una modificazione dei Patti Lateranensi, accettata da entrambe le parti. Secondo l'art. 7 della Costituzione, tale modificazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve essere sottoposta a referendum popolare",
+        "why_wrong": "L'art. 7 non prevede alcun referendum e dispone che le modificazioni accettate dalle due parti non richiedono procedimento di revisione costituzionale."
+      },
+      {
+        "id": "b",
+        "text": "non richiede il procedimento di revisione costituzionale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "richiede il procedimento di revisione costituzionale, poiché i Patti sono richiamati dalla Costituzione",
+        "why_wrong": "L'art. 7 dispone che le modificazioni dei Patti accettate dalle due parti non richiedono procedimento di revisione costituzionale."
+      },
+      {
+        "id": "d",
+        "text": "deve essere approvata con legge sulla base di intese con le rappresentanze della confessione",
+        "why_wrong": "Le intese con le rappresentanze riguardano, ai sensi dell'art. 8, le confessioni religiose diverse dalla cattolica."
+      }
+    ],
+    "correct": "b",
+    "explanation": "I rapporti tra Stato e Chiesa cattolica sono regolati dai Patti Lateranensi; le loro modificazioni, se accettate dalle due parti, non richiedono il procedimento di revisione costituzionale (art. 7, secondo comma).",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 2",
+        "text": "I loro rapporti sono regolati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 7, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-007",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 8 della Costituzione, i rapporti tra lo Stato e le confessioni religiose diverse dalla cattolica sono regolati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esclusivamente dagli statuti delle stesse confessioni",
+        "why_wrong": "Gli statuti riguardano l'organizzazione delle confessioni, in quanto non contrastino con l'ordinamento giuridico italiano; i rapporti con lo Stato sono regolati per legge sulla base di intese."
+      },
+      {
+        "id": "b",
+        "text": "con legge costituzionale",
+        "why_wrong": "L'art. 8 prevede la legge sulla base di intese, non la legge costituzionale."
+      },
+      {
+        "id": "c",
+        "text": "per legge sulla base di intese con le relative rappresentanze",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dai Patti Lateranensi",
+        "why_wrong": "I Patti Lateranensi regolano, ai sensi dell'art. 7, i rapporti tra lo Stato e la Chiesa cattolica."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8 riconosce a tutte le confessioni eguale libertà davanti alla legge; quelle diverse dalla cattolica si organizzano secondo i propri statuti e i loro rapporti con lo Stato sono regolati per legge sulla base di intese.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 3",
+        "text": "I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 8, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-008",
+    "subject": "diritto-pubblico",
+    "question": "Quale delle seguenti affermazioni è conforme all'art. 9 della Costituzione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "I modi e le forme di tutela degli animali sono disciplinati dalle leggi regionali",
+        "why_wrong": "L'art. 9 affida la disciplina dei modi e delle forme di tutela degli animali alla legge dello Stato."
+      },
+      {
+        "id": "b",
+        "text": "La Repubblica tutela il paesaggio, mentre la ricerca scientifica e tecnica è rimessa all'iniziativa privata",
+        "why_wrong": "L'art. 9 dispone che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica."
+      },
+      {
+        "id": "c",
+        "text": "La tutela dell'ambiente è affidata in via esclusiva ai Comuni",
+        "why_wrong": "L'art. 9 affida la tutela dell'ambiente alla Repubblica."
+      },
+      {
+        "id": "d",
+        "text": "La Repubblica tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 9, nel testo vigente, dispone che la Repubblica tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni, e che la legge dello Stato disciplina i modi e le forme di tutela degli animali.",
+    "evidence": [
+      {
+        "ref": "art. 9, comma 3",
+        "text": "((Tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali))"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 9, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-009",
+    "subject": "diritto-pubblico",
+    "question": "Uno Stato estero chiede all'Italia l'estradizione di un proprio cittadino, presente sul territorio italiano, per un reato politico. In base all'art. 10 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'estradizione non è ammessa",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'estradizione è ammessa se è espressamente prevista dalle convenzioni internazionali",
+        "why_wrong": "L'art. 10 esclude l'estradizione dello straniero per reati politici; la previsione delle convenzioni internazionali riguarda l'estradizione del cittadino (art. 26)."
+      },
+      {
+        "id": "c",
+        "text": "l'estradizione è ammessa se autorizzata con legge dalle Camere",
+        "why_wrong": "L'art. 10 dispone che non è ammessa l'estradizione dello straniero per reati politici."
+      },
+      {
+        "id": "d",
+        "text": "l'estradizione è ammessa se lo straniero non ha chiesto il diritto d'asilo",
+        "why_wrong": "L'art. 10 esclude l'estradizione dello straniero per reati politici, indipendentemente dalla richiesta di asilo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'ultimo comma dell'art. 10 dispone che non è ammessa l'estradizione dello straniero per reati politici.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 4",
+        "text": "Non è ammessa l'estradizione dello straniero per reati politici."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 10, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-pri-010",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 11 della Costituzione, l'Italia consente alle limitazioni di sovranità:",
+    "options": [
+      {
+        "id": "a",
+        "text": "quando siano necessarie alla risoluzione delle controversie internazionali mediante la guerra",
+        "why_wrong": "L'art. 11 ripudia la guerra come mezzo di risoluzione delle controversie internazionali."
+      },
+      {
+        "id": "b",
+        "text": "in condizioni di parità con gli altri Stati, se necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "senza condizioni, ogni volta che lo preveda un trattato internazionale",
+        "why_wrong": "L'art. 11 richiede condizioni di parità con gli altri Stati e la necessità per un ordinamento che assicuri la pace e la giustizia fra le Nazioni."
+      },
+      {
+        "id": "d",
+        "text": "solo previa approvazione con referendum popolare",
+        "why_wrong": "L'art. 11 non prevede alcun referendum: indica le condizioni di parità e il fine della pace e della giustizia fra le Nazioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11 ripudia la guerra come strumento di offesa e come mezzo di risoluzione delle controversie internazionali e consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni.",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 1",
+        "text": "consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni"
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 11, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

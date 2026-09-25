@@ -1,0 +1,314 @@
+[
+  {
+    "id": "cost-gar-001",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 104 della Costituzione, i componenti elettivi del Consiglio superiore della magistratura sono eletti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per due terzi da tutti i magistrati ordinari e per un terzo dal Parlamento in seduta comune",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "per metà dai magistrati ordinari e per metà dal Parlamento in seduta comune",
+        "why_wrong": "L'art. 104 prevede due terzi eletti dai magistrati ordinari e un terzo dal Parlamento in seduta comune."
+      },
+      {
+        "id": "c",
+        "text": "per un terzo dal Presidente della Repubblica, per un terzo dal Parlamento e per un terzo dai magistrati",
+        "why_wrong": "La ripartizione per terzi tra Presidente della Repubblica, Parlamento e supreme magistrature riguarda i giudici della Corte costituzionale (art. 135)."
+      },
+      {
+        "id": "d",
+        "text": "per due terzi dal Parlamento in seduta comune e per un terzo dai magistrati ordinari",
+        "why_wrong": "L'art. 104 prevede l'opposto: due terzi eletti dai magistrati ordinari e un terzo dal Parlamento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il CSM è presieduto dal Presidente della Repubblica; ne fanno parte di diritto il primo presidente e il procuratore generale della Cassazione; gli altri componenti sono eletti per due terzi dai magistrati ordinari e per un terzo dal Parlamento in seduta comune tra professori ordinari in materie giuridiche e avvocati con quindici anni di esercizio.",
+    "evidence": [
+      {
+        "ref": "art. 104, comma 4",
+        "text": "Gli altri componenti sono eletti per due terzi da tutti i magistrati ordinari tra gli appartenenti alle varie categorie, e per un terzo dal Parlamento in seduta comune tra professori ordinari di università in materie giuridiche ed avvocati dopo quindici anni di esercizio."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 104, comma 4",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-002",
+    "subject": "diritto-pubblico",
+    "question": "Il Ministro della giustizia intende destinare un magistrato ad altra sede senza il suo consenso. In base all'art. 107 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il trasferimento è disposto dal Presidente della Repubblica, in quanto presidente del CSM",
+        "why_wrong": "L'art. 107 richiede una decisione del Consiglio superiore della magistratura."
+      },
+      {
+        "id": "b",
+        "text": "il trasferimento può avvenire solo in seguito a decisione del Consiglio superiore della magistratura, adottata per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il Ministro può disporre il trasferimento con proprio decreto motivato",
+        "why_wrong": "Il Ministro della giustizia ha facoltà di promuovere l'azione disciplinare; la destinazione ad altra sede richiede una decisione del CSM."
+      },
+      {
+        "id": "d",
+        "text": "il trasferimento non è possibile in alcun caso, perché i magistrati sono inamovibili",
+        "why_wrong": "L'inamovibilità ammette la destinazione ad altra sede in seguito a decisione del CSM, per i motivi e con le garanzie stabilite dall'ordinamento giudiziario, o con il consenso del magistrato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "I magistrati sono inamovibili: non possono essere dispensati, sospesi o destinati ad altre sedi o funzioni se non in seguito a decisione del CSM, adottata per i motivi e con le garanzie di difesa previsti dall'ordinamento giudiziario, o con il loro consenso.",
+    "evidence": [
+      {
+        "ref": "art. 107, comma 1",
+        "text": "I magistrati sono inamovibili. Non possono essere dispensati o sospesi dal servizio né destinati ad altre ((sedi o funzioni)) se non in seguito a decisione del Consiglio superiore della magistratura, adottata o per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario o con il loro consenso."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 107, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-003",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 111 della Costituzione, contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo per le decisioni pronunciate in tempo di guerra",
+        "why_wrong": "Il riferimento al tempo di guerra riguarda la possibilità di derogare al ricorso in Cassazione per le sentenze dei tribunali militari."
+      },
+      {
+        "id": "b",
+        "text": "in nessun caso",
+        "why_wrong": "L'art. 111 ammette il ricorso per i soli motivi inerenti alla giurisdizione."
+      },
+      {
+        "id": "c",
+        "text": "per i soli motivi inerenti alla giurisdizione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sempre, per violazione di legge",
+        "why_wrong": "Il ricorso per violazione di legge è la regola generale; per le decisioni del Consiglio di Stato e della Corte dei conti l'art. 111 lo limita ai motivi inerenti alla giurisdizione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'ultimo comma dell'art. 111 limita il ricorso in Cassazione contro le decisioni del Consiglio di Stato e della Corte dei conti ai soli motivi inerenti alla giurisdizione.",
+    "evidence": [
+      {
+        "ref": "art. 111, comma 8",
+        "text": "Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 111, comma 8",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-004",
+    "subject": "diritto-pubblico",
+    "question": "Una legge dispone che contro una determinata categoria di provvedimenti comunali non sia ammessa alcuna tutela giurisdizionale. Alla luce dell'art. 113 della Costituzione, tale disposizione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è legittima, se la stessa legge determina quali organi di giurisdizione possono annullare gli atti",
+        "why_wrong": "La legge può determinare quali organi possono annullare gli atti, ma non può escludere la tutela giurisdizionale per determinate categorie di atti."
+      },
+      {
+        "id": "b",
+        "text": "è legittima, perché la tutela contro gli atti della pubblica amministrazione è ammessa solo nei casi stabiliti dalla legge",
+        "why_wrong": "L'art. 113 dispone che la tutela giurisdizionale contro gli atti della pubblica amministrazione è sempre ammessa."
+      },
+      {
+        "id": "c",
+        "text": "è legittima se riguarda solo gli interessi legittimi",
+        "why_wrong": "L'art. 113 garantisce sempre la tutela sia dei diritti sia degli interessi legittimi."
+      },
+      {
+        "id": "d",
+        "text": "contrasta con la Costituzione, perché la tutela giurisdizionale contro gli atti della pubblica amministrazione non può essere esclusa per determinate categorie di atti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi, che non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti.",
+    "evidence": [
+      {
+        "ref": "art. 113, comma 2",
+        "text": "Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 113, comma 2",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-005",
+    "subject": "diritto-pubblico",
+    "question": "Secondo l'art. 135 della Costituzione, la Corte costituzionale è composta di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "quindici giudici, nominati per nove anni e non nuovamente nominabili",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "quindici giudici, nominati per sette anni e rinnovabili una sola volta",
+        "why_wrong": "Sette anni è la durata del mandato del Presidente della Repubblica (art. 85); i giudici costituzionali sono nominati per nove anni e non possono essere nuovamente nominati."
+      },
+      {
+        "id": "c",
+        "text": "quindici giudici, nominati per nove anni e rieleggibili",
+        "why_wrong": "È il Presidente della Corte, che rimane in carica per un triennio, a essere rieleggibile; i giudici non possono essere nuovamente nominati."
+      },
+      {
+        "id": "d",
+        "text": "sedici giudici, nominati per nove anni",
+        "why_wrong": "Sedici sono i membri, tratti a sorte, che si aggiungono ai giudici ordinari della Corte nei giudizi d'accusa contro il Presidente della Repubblica."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La Corte costituzionale è composta di quindici giudici, nominati per un terzo dal Presidente della Repubblica, per un terzo dal Parlamento in seduta comune e per un terzo dalle supreme magistrature; restano in carica nove anni e non possono essere nuovamente nominati.",
+    "evidence": [
+      {
+        "ref": "art. 135, comma 1",
+        "text": "La Corte costituzionale è composta di quindici giudici nominati per un terzo dal Presidente della Repubblica, per un terzo dal Parlamento in seduta comune e per un terzo dalle supreme magistrature ordinaria ed amministrative."
+      },
+      {
+        "ref": "art. 135, comma 3",
+        "text": "I giudici della Corte costituzionale sono nominati per nove anni, decorrenti per ciascuno di essi dal giorno del giuramento, e non possono essere nuovamente nominati."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 135, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-006",
+    "subject": "diritto-pubblico",
+    "question": "Ai sensi dell'art. 136 della Costituzione, quando la Corte costituzionale dichiara l'illegittimità costituzionale di una norma di legge, la norma:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cessa di avere efficacia se la decisione non è impugnata entro sessanta giorni",
+        "why_wrong": "Contro le decisioni della Corte costituzionale non è ammessa alcuna impugnazione (art. 137)."
+      },
+      {
+        "id": "b",
+        "text": "cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "cessa di avere efficacia solo quando le Camere la abrogano",
+        "why_wrong": "Le Camere e i Consigli regionali interessati provvedono, ove lo ritengano necessario, nelle forme costituzionali; la norma cessa comunque di avere efficacia dal giorno successivo alla pubblicazione della decisione."
+      },
+      {
+        "id": "d",
+        "text": "cessa di avere efficacia il quindicesimo giorno successivo alla pubblicazione della decisione",
+        "why_wrong": "Il quindicesimo giorno successivo alla pubblicazione è il termine ordinario di entrata in vigore delle leggi (art. 73)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La norma dichiarata costituzionalmente illegittima cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione, che è comunicata alle Camere e ai Consigli regionali interessati.",
+    "evidence": [
+      {
+        "ref": "art. 136, comma 1",
+        "text": "Quando la Corte dichiara l'illegittimità costituzionale di una norma di legge o di atto avente forza di legge, la norma cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 136, comma 1",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cost-gar-007",
+    "subject": "diritto-pubblico",
+    "question": "Una legge di revisione costituzionale è approvata, nella seconda votazione, a maggioranza di due terzi dei componenti di ciascuna Camera. Ai sensi dell'art. 138 della Costituzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la legge è sempre sottoposta a referendum popolare",
+        "why_wrong": "Il referendum è eventuale e non ha luogo se la legge è approvata nella seconda votazione a maggioranza di due terzi."
+      },
+      {
+        "id": "b",
+        "text": "la legge deve essere sottoposta a una terza deliberazione a maggioranza assoluta",
+        "why_wrong": "L'art. 138 prevede due successive deliberazioni per ciascuna Camera."
+      },
+      {
+        "id": "c",
+        "text": "non si fa luogo a referendum",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "entro tre mesi dalla pubblicazione, un quinto dei membri di una Camera può chiedere il referendum",
+        "why_wrong": "La richiesta di referendum da parte di un quinto dei membri di una Camera non è ammessa quando la legge è approvata nella seconda votazione a maggioranza di due terzi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Le leggi costituzionali sono adottate con due deliberazioni per ciascuna Camera a distanza di almeno tre mesi; il referendum è possibile su richiesta di un quinto dei membri di una Camera, cinquecentomila elettori o cinque Consigli regionali, ma non ha luogo se nella seconda votazione è raggiunta la maggioranza di due terzi in ciascuna Camera.",
+    "evidence": [
+      {
+        "ref": "art. 138, comma 3",
+        "text": "Non si fa luogo a referendum se la legge è stata approvata nella seconda votazione da ciascuna delle Camere a maggioranza di due terzi dei suoi componenti."
+      }
+    ],
+    "source": {
+      "act": "Costituzione",
+      "article": "art. 138, comma 3",
+      "file": "sources/COSTITUZIONE DELLA REPUBBLICA ITALIANA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
