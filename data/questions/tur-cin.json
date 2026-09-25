@@ -56,18 +56,18 @@
       },
       {
         "id": "b",
-        "text": "Non ha obblighi, perché l'indicazione del CIN spetta solo al locatore",
-        "why_wrong": "Il comma 6 pone l'obbligo di indicare il CIN negli annunci anche a carico dei soggetti che gestiscono portali telematici."
+        "text": "Non ha obblighi, perché l'indicazione del CIN negli annunci spetta soltanto al locatore o al titolare della struttura",
+        "why_wrong": "Il comma 6 pone l'obbligo di indicare il CIN negli annunci anche a carico dei soggetti che gestiscono portali telematici, oltre che di chi concede in locazione."
       },
       {
         "id": "c",
-        "text": "Deve esporre il CIN all'esterno dello stabile in cui si trova l'appartamento",
-        "why_wrong": "L'esposizione all'esterno dello stabile è un obbligo di chi propone o concede in locazione l'unità o del titolare della struttura (comma 6)."
+        "text": "Deve esporre il CIN all'esterno dello stabile in cui è collocato l'appartamento, nel rispetto dei vincoli urbanistici",
+        "why_wrong": "L'esposizione del CIN all'esterno dello stabile è un obbligo di chi propone o concede in locazione l'unità o del titolare della struttura, non del gestore del portale (comma 6)."
       },
       {
         "id": "d",
-        "text": "Deve indicare il CIN solo negli annunci pubblicati in Italia",
-        "why_wrong": "Il comma 6 riferisce l'obbligo agli annunci ovunque pubblicati e comunicati."
+        "text": "Deve indicare il CIN solo negli annunci pubblicati in Italia e sui portali gestiti da soggetti italiani",
+        "why_wrong": "Il comma 6 riferisce l'obbligo agli annunci ovunque pubblicati e comunicati, senza limitazioni territoriali."
       }
     ],
     "correct": "a",
@@ -85,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -95,18 +96,18 @@
     "options": [
       {
         "id": "a",
-        "text": "Da euro 500 a euro 5.000",
-        "why_wrong": "Questa è la sanzione per la mancata esposizione e indicazione del CIN (comma 9, secondo periodo)."
+        "text": "Da euro 500 a euro 5.000, in relazione alle dimensioni della struttura o dell'immobile",
+        "why_wrong": "Questa è la sanzione per la mancata esposizione e indicazione del CIN ai sensi del comma 6 (comma 9, secondo periodo)."
       },
       {
         "id": "b",
-        "text": "Da euro 2.000 a euro 10.000",
-        "why_wrong": "Questa è la sanzione per l'esercizio in forma imprenditoriale senza SCIA (comma 9, ultimo periodo)."
+        "text": "Da euro 2.000 a euro 10.000, in relazione alle dimensioni della struttura o dell'immobile",
+        "why_wrong": "Questa è la sanzione per l'esercizio in forma imprenditoriale in assenza della SCIA di cui al comma 8 (comma 9, ultimo periodo)."
       },
       {
         "id": "c",
-        "text": "Da euro 600 a euro 6.000",
-        "why_wrong": "Questa è la sanzione per l'assenza dei dispositivi di sicurezza previsti dal secondo periodo del comma 7."
+        "text": "Da euro 600 a euro 6.000 per ciascuna violazione accertata e per ciascuna unità immobiliare",
+        "why_wrong": "La sanzione da 600 a 6.000 euro per ciascuna violazione riguarda l'assenza dei dispositivi di sicurezza previsti dal secondo periodo del comma 7, non la mancanza del CIN."
       },
       {
         "id": "d",
@@ -133,7 +134,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -143,23 +145,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Deve ottenere un'autorizzazione dal Ministero del turismo",
-        "why_wrong": "Il comma 8 richiede la SCIA presso il SUAP del comune, non un'autorizzazione ministeriale."
+        "text": "Deve ottenere un'autorizzazione preventiva del Ministero del turismo prima di pubblicare gli annunci",
+        "why_wrong": "Il comma 8 richiede la SCIA presso il SUAP del comune, non un'autorizzazione preventiva del Ministero del turismo."
       },
       {
         "id": "b",
-        "text": "È soggetto all'obbligo di SCIA presso lo sportello unico per le attività produttive del comune in cui è svolta l'attività",
+        "text": "È soggetto all'obbligo di SCIA presso il SUAP del comune nel cui territorio è svolta l'attività",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Deve solo comunicare l'inizio dell'attività alla regione",
-        "why_wrong": "Il comma 8 prevede la segnalazione certificata di inizio attività presso il SUAP del comune."
+        "text": "Deve soltanto comunicare l'inizio dell'attività alla regione in cui si trova l'immobile",
+        "why_wrong": "Il comma 8 prevede la segnalazione certificata di inizio attività presso il SUAP del comune, non una comunicazione alla regione."
       },
       {
         "id": "d",
-        "text": "Presenta la SCIA presso la camera di commercio, anche quando opera tramite società",
-        "why_wrong": "Il comma 8 individua il SUAP del comune e, per le società, attribuisce la presentazione al legale rappresentante."
+        "text": "Presenta la SCIA presso la camera di commercio della provincia in cui è svolta l'attività",
+        "why_wrong": "Il comma 8 individua come destinatario della SCIA il SUAP del comune nel cui territorio è svolta l'attività."
       }
     ],
     "correct": "b",
@@ -181,7 +183,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -191,23 +194,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Al Ministero del turismo; i proventi confluiscono nel bilancio dello Stato",
-        "why_wrong": "Il comma 11 attribuisce controlli e sanzioni al comune, che incamera i proventi."
+        "text": "Al Ministero del turismo, che gestisce la banca dati nazionale dei CIN; i proventi confluiscono nel bilancio dello Stato e finanziano la promozione turistica",
+        "why_wrong": "Il Ministero del turismo assegna il CIN e gestisce la banca dati (comma 1), ma il comma 11 attribuisce controlli e sanzioni al comune, che incamera i proventi."
       },
       {
         "id": "b",
-        "text": "Alla regione; i proventi finanziano la promozione turistica regionale",
-        "why_wrong": "Il comma 11 individua il comune in cui è ubicato l'immobile o la struttura, non la regione."
+        "text": "Alla regione in cui si trova l'immobile, tramite i propri uffici del turismo; i proventi finanziano la promozione turistica e le banche dati regionali",
+        "why_wrong": "Il comma 11 individua il comune in cui è ubicato l'immobile o la struttura, che incamera i proventi, non la regione."
       },
       {
         "id": "c",
-        "text": "Al comune in cui si trova l'immobile o la struttura, attraverso la polizia locale; i proventi finanziano investimenti per politiche del turismo e interventi di raccolta e smaltimento dei rifiuti",
+        "text": "Al comune in cui si trova l'immobile o la struttura; i proventi finanziano investimenti per politiche del turismo e la raccolta e lo smaltimento dei rifiuti",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Alla Guardia di finanza; i proventi sono destinati al contrasto dell'evasione fiscale",
-        "why_wrong": "La Guardia di finanza, con l'Agenzia delle entrate, svolge analisi del rischio (comma 12); le sanzioni del comma 9 sono applicate dal comune."
+        "text": "All'Agenzia delle entrate e alla Guardia di finanza; i proventi sono destinati al contrasto dell'evasione fiscale nel settore delle locazioni turistiche",
+        "why_wrong": "Agenzia delle entrate e Guardia di finanza svolgono analisi del rischio per contrastare l'evasione (comma 12); controlli e sanzioni del comma 9 spettano al comune (comma 11)."
       }
     ],
     "correct": "c",
@@ -229,7 +232,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

@@ -51,23 +51,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Costituisce condizione per usufruire delle agevolazioni, dei contributi, degli incentivi e dei benefici riservati all'impresa turistica",
+        "text": "È condizione per usufruire delle agevolazioni, dei contributi e dei benefici riservati all'impresa turistica",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Sostituisce la segnalazione certificata di inizio attività per l'apertura dell'esercizio",
-        "why_wrong": "L'art. 4, comma 2, collega l'iscrizione solo all'accesso ad agevolazioni e benefici, non all'avvio dell'attività."
+        "text": "Sostituisce la segnalazione certificata di inizio attività per l'apertura e la gestione dell'esercizio turistico",
+        "why_wrong": "L'art. 4, comma 2, collega l'iscrizione solo alla possibilità di usufruire di agevolazioni, contributi e benefici, non all'avvio dell'attività."
       },
       {
         "id": "c",
-        "text": "Consente automaticamente alle imprese di Stati non UE di stabilirsi in Italia",
-        "why_wrong": "Per le imprese non costituite secondo la legislazione di uno Stato UE o AELS l'art. 4, comma 4, richiede anche la reciprocità e il possesso dei requisiti di legge."
+        "text": "Consente automaticamente alle imprese di Stati non UE di stabilirsi in Italia, anche senza il requisito della reciprocità",
+        "why_wrong": "Per le imprese non costituite secondo la legislazione di uno Stato UE o AELS l'art. 4, comma 4, richiede il rispetto del principio di reciprocità, oltre all'iscrizione e al possesso dei requisiti di legge."
       },
       {
         "id": "d",
-        "text": "Dà diritto all'attestazione di eccellenza turistica",
-        "why_wrong": "L'attestazione di eccellenza turistica (art. 59) è attribuita ogni anno a imprese selezionate, non a seguito della mera iscrizione."
+        "text": "Dà diritto all'attestazione di eccellenza turistica attribuita ogni anno alle imprese della ristorazione e alberghiere",
+        "why_wrong": "L'attestazione di eccellenza turistica (art. 59) è attribuita ogni anno a un numero limitato di imprese, sulla base di criteri oggettivi, non a seguito della mera iscrizione."
       }
     ],
     "correct": "a",
@@ -85,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -95,23 +96,23 @@
     "options": [
       {
         "id": "a",
-        "text": "A favore di chiunque, purché senza scopo di lucro",
-        "why_wrong": "L'art. 5, comma 1, consente l'esercizio delle attività esclusivamente per gli associati."
+        "text": "A favore di chiunque ne faccia richiesta, purché le attività siano svolte senza scopo di lucro e per finalità ricreative o culturali",
+        "why_wrong": "L'art. 5, comma 1, consente l'esercizio delle attività esclusivamente per gli associati, non a favore di chiunque."
       },
       {
         "id": "b",
-        "text": "Esclusivamente per gli associati, anche se appartenenti ad associazioni straniere con finalità analoghe legate da accordi di collaborazione",
+        "text": "Solo per gli associati, anche se appartenenti ad associazioni straniere con finalità analoghe legate da accordi di collaborazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Solo per gli associati residenti in Italia",
-        "why_wrong": "L'art. 5, comma 1, ammette anche gli associati di associazioni straniere aventi finalità analoghe e legate da accordi di collaborazione."
+        "text": "Solo per gli associati residenti in Italia, esclusi gli appartenenti ad associazioni straniere con finalità analoghe",
+        "why_wrong": "L'art. 5, comma 1, ammette espressamente anche gli associati di associazioni straniere aventi finalità analoghe e legate da accordi di collaborazione."
       },
       {
         "id": "d",
-        "text": "A favore del pubblico, purché non più di due volte l'anno",
-        "why_wrong": "Il limite di due volte l'anno riguarda l'esclusione dalla disciplina dei pacchetti (art. 32, comma 2, lett. b), non l'ambito dei destinatari fissato dall'art. 5."
+        "text": "A favore del pubblico, purché agiscano occasionalmente, non più di due volte l'anno e senza fini di lucro",
+        "why_wrong": "Il limite di due volte l'anno senza fini di lucro riguarda l'esclusione dalla disciplina dei pacchetti (art. 32, comma 2, lett. b), che richiede anche l'assenza di offerta al pubblico; l'art. 5 limita le attività agli associati."
       }
     ],
     "correct": "b",
@@ -129,7 +130,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -227,22 +229,22 @@
     "options": [
       {
         "id": "a",
-        "text": "È sempre un pacchetto, perché riunisce due servizi turistici diversi",
-        "why_wrong": "L'art. 33, comma 2, esclude la qualifica di pacchetto quando l'altro servizio turistico vale meno del 25 per cento e non è pubblicizzato né essenziale."
+        "text": "È sempre un pacchetto, perché riunisce due tipi diversi di servizi turistici ai fini della stessa vacanza",
+        "why_wrong": "L'art. 33, comma 2, esclude la qualifica di pacchetto quando l'altro servizio turistico vale meno del 25 per cento, non è pubblicizzato e non è un elemento essenziale."
       },
       {
         "id": "b",
-        "text": "È un pacchetto solo se il prezzo è fatturato separatamente",
-        "why_wrong": "La fatturazione separata non incide sulla qualifica: l'art. 33, comma 3, la riferisce agli elementi di uno stesso pacchetto e non sottrae agli obblighi del Capo."
+        "text": "È un pacchetto solo se il prezzo della degustazione è fatturato separatamente da quello dell'alloggio",
+        "why_wrong": "La fatturazione separata non incide sulla qualifica: l'art. 33, comma 3, stabilisce che non sottrae l'organizzatore o il venditore agli obblighi del Capo."
       },
       {
         "id": "c",
-        "text": "È un servizio turistico collegato",
-        "why_wrong": "Anche per il servizio turistico collegato l'art. 33, comma 4, esclude le combinazioni in cui l'altro servizio vale meno del 25 per cento e non è essenziale."
+        "text": "È un servizio turistico collegato, proprio perché la degustazione vale meno del 25 per cento del prezzo complessivo",
+        "why_wrong": "Anche per il servizio turistico collegato l'art. 33, comma 4, esclude le combinazioni in cui l'altro servizio vale meno del 25 per cento e non è un elemento essenziale."
       },
       {
         "id": "d",
-        "text": "Non è un pacchetto, perché il servizio aggiunto vale meno del 25 per cento, non è pubblicizzato e non è un elemento essenziale",
+        "text": "Non è un pacchetto, perché il servizio aggiunto vale meno del 25 per cento, non è pubblicizzato né essenziale",
         "why_wrong": null
       }
     ],
@@ -261,7 +263,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -271,23 +274,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Previo preavviso all'organizzatore su supporto durevole entro e non oltre sette giorni prima dell'inizio del pacchetto",
+        "text": "Previo preavviso all'organizzatore su supporto durevole entro sette giorni prima dell'inizio del pacchetto",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Previo preavviso all'organizzatore entro venti giorni prima dell'inizio del pacchetto",
-        "why_wrong": "Venti giorni è il termine minimo di comunicazione degli aumenti di prezzo (art. 39, comma 4), non quello per la cessione."
+        "text": "Previo preavviso all'organizzatore su supporto durevole entro venti giorni prima dell'inizio del pacchetto",
+        "why_wrong": "Venti giorni è il termine minimo per la comunicazione degli aumenti di prezzo (art. 39, comma 4); per la cessione l'art. 38, comma 1, prevede sette giorni."
       },
       {
         "id": "c",
-        "text": "Solo con il consenso scritto dell'organizzatore",
-        "why_wrong": "L'art. 38, comma 1, richiede solo il preavviso su supporto durevole, non il consenso dell'organizzatore."
+        "text": "Solo con il consenso scritto dell'organizzatore, comunicato al viaggiatore su supporto durevole",
+        "why_wrong": "L'art. 38, comma 1, richiede soltanto il preavviso del viaggiatore su supporto durevole, non il consenso dell'organizzatore."
       },
       {
         "id": "d",
-        "text": "In qualunque momento, anche dopo l'inizio del pacchetto",
-        "why_wrong": "L'art. 38, comma 1, fissa il preavviso entro e non oltre sette giorni prima dell'inizio del pacchetto."
+        "text": "In qualunque momento, anche dopo l'inizio del pacchetto, previa semplice comunicazione al venditore o all'organizzatore",
+        "why_wrong": "L'art. 38, comma 1, richiede il preavviso all'organizzatore su supporto durevole entro e non oltre sette giorni prima dell'inizio del pacchetto."
       }
     ],
     "correct": "a",
@@ -305,7 +308,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -359,23 +363,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il costo del personale delle strutture ricettive e l'inflazione",
-        "why_wrong": "Questi fattori non sono compresi nell'elenco tassativo dell'art. 39, comma 2."
+        "text": "Le spese amministrative e di gestione delle pratiche sostenute dall'organizzatore, il costo del personale e il tasso di inflazione",
+        "why_wrong": "Questi fattori non sono compresi nell'elenco tassativo dell'art. 39, comma 2; le spese amministrative e di gestione delle pratiche rilevano solo come detrazione dal rimborso in caso di diminuzione del prezzo (comma 5)."
       },
       {
         "id": "b",
-        "text": "Il prezzo del trasporto in funzione del costo del carburante o di altre fonti di energia, il livello di tasse o diritti imposti da terzi e i tassi di cambio",
+        "text": "Il prezzo del trasporto in funzione del costo del carburante o di altre fonti di energia, tasse o diritti imposti da terzi e tassi di cambio",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Qualsiasi costo sopravvenuto, purché documentato",
-        "why_wrong": "L'art. 39, comma 2, ammette gli aumenti esclusivamente per le tre cause elencate."
+        "text": "Qualsiasi costo sopravvenuto dopo la conclusione del contratto, purché documentato e comunicato al viaggiatore su supporto durevole",
+        "why_wrong": "L'art. 39, comma 2, ammette gli aumenti esclusivamente per le tre cause elencate, non per qualsiasi costo sopravvenuto."
       },
       {
         "id": "d",
-        "text": "Il numero dei partecipanti al pacchetto inferiore al minimo",
-        "why_wrong": "Il mancato raggiungimento del numero minimo consente all'organizzatore di recedere (art. 41, comma 5, lett. a), non di aumentare il prezzo."
+        "text": "Il numero degli iscritti al pacchetto inferiore al minimo previsto dal contratto, comunicato non più tardi di venti giorni prima della partenza",
+        "why_wrong": "Il mancato raggiungimento del numero minimo consente all'organizzatore di recedere dal contratto (art. 41, comma 5, lett. a), non di aumentare il prezzo."
       }
     ],
     "correct": "b",
@@ -393,7 +397,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -403,13 +408,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Deve accettare l'aumento, perché dovuto al costo del carburante",
-        "why_wrong": "Quando l'aumento supera l'8 per cento, l'art. 40, comma 2, consente al viaggiatore di recedere senza spese."
+        "text": "Deve accettare l'aumento, perché il rincaro del carburante rientra tra le cause di aumento ammesse",
+        "why_wrong": "Anche se dovuto a una causa ammessa dall'art. 39, comma 2, l'aumento supera l'8 per cento: l'art. 40, comma 2, consente al viaggiatore di recedere senza spese."
       },
       {
         "id": "b",
-        "text": "Può recedere solo pagando le spese standard di recesso",
-        "why_wrong": "Il recesso previsto dall'art. 40, comma 2, avviene senza corrispondere spese di recesso."
+        "text": "Può recedere dal contratto soltanto pagando le spese standard di recesso previste dal contratto",
+        "why_wrong": "Il recesso previsto dall'art. 40, comma 2, avviene senza corrispondere spese di recesso; le spese standard riguardano il recesso ordinario (art. 41, comma 2)."
       },
       {
         "id": "c",
@@ -418,8 +423,8 @@
       },
       {
         "id": "d",
-        "text": "Ha diritto a un indennizzo pari al triplo dell'aumento",
-        "why_wrong": "Il Codice non prevede un indennizzo di questo tipo: il triplo del prezzo è il limite minimo alla limitazione contrattuale del risarcimento (art. 43, comma 5)."
+        "text": "Ha diritto a un indennizzo pari al triplo dell'aumento, oltre alla restituzione di quanto versato",
+        "why_wrong": "Il Codice non prevede un indennizzo di questo tipo: il triplo del prezzo è il limite minimo della limitazione contrattuale del risarcimento (art. 43, comma 5)."
       }
     ],
     "correct": "c",
@@ -437,7 +442,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -447,22 +453,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Almeno sette giorni prima dell'inizio del pacchetto",
-        "why_wrong": "Sette giorni è il termine del preavviso per la cessione del contratto (art. 38, comma 1)."
+        "text": "Su supporto durevole, con la giustificazione dell'aumento, almeno sette giorni prima dell'inizio del pacchetto",
+        "why_wrong": "Sette giorni è il termine del preavviso per la cessione del contratto (art. 38, comma 1); per l'aumento l'art. 39, comma 4, richiede almeno venti giorni."
       },
       {
         "id": "b",
-        "text": "Almeno quattordici giorni prima dell'inizio del pacchetto",
-        "why_wrong": "Quattordici giorni è il termine per i rimborsi dopo il recesso (art. 41, comma 6), non per la comunicazione degli aumenti."
+        "text": "Su supporto durevole, con giustificazione e modalità di calcolo, almeno quattordici giorni prima dell'inizio del pacchetto",
+        "why_wrong": "Quattordici giorni è il termine per i rimborsi dopo il recesso (art. 41, comma 6); per l'aumento l'art. 39, comma 4, richiede almeno venti giorni."
       },
       {
         "id": "c",
-        "text": "In qualsiasi momento prima della partenza, anche verbalmente",
-        "why_wrong": "L'art. 39, comma 4, richiede una comunicazione chiara e precisa su supporto durevole almeno venti giorni prima."
+        "text": "In qualsiasi momento prima della partenza, anche verbalmente, purché l'aumento non superi l'8 per cento del prezzo",
+        "why_wrong": "L'art. 39, comma 4, richiede per ogni aumento, indipendentemente dall'entità, una comunicazione su supporto durevole almeno venti giorni prima; la soglia dell'8 per cento rileva ai fini del recesso (art. 39, comma 3)."
       },
       {
         "id": "d",
-        "text": "Chiara e precisa, su supporto durevole, con la giustificazione e le modalità di calcolo, almeno venti giorni prima dell'inizio del pacchetto",
+        "text": "Su supporto durevole, con giustificazione e modalità di calcolo, almeno venti giorni prima dell'inizio del pacchetto",
         "why_wrong": null
       }
     ],
@@ -481,7 +487,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -496,18 +503,18 @@
       },
       {
         "id": "b",
-        "text": "Al rimborso integrale e a un indennizzo supplementare",
-        "why_wrong": "L'art. 41, comma 4, esclude espressamente l'indennizzo supplementare."
+        "text": "Al rimborso integrale dei pagamenti effettuati, senza spese di recesso, e anche a un indennizzo supplementare",
+        "why_wrong": "L'art. 41, comma 4, riconosce il rimborso integrale senza spese di recesso, ma esclude espressamente l'indennizzo supplementare."
       },
       {
         "id": "c",
-        "text": "Al rimborso dei pagamenti, detratte le spese standard di recesso",
-        "why_wrong": "Le spese di recesso si applicano al recesso ordinario (art. 41, commi 1-3), non in presenza di circostanze inevitabili e straordinarie."
+        "text": "Al rimborso dei pagamenti effettuati, detratte le spese standard di recesso previste dal contratto",
+        "why_wrong": "Le spese standard di recesso si applicano al recesso ordinario (art. 41, commi 1-3), non in presenza di circostanze inevitabili e straordinarie."
       },
       {
         "id": "d",
-        "text": "Soltanto a un pacchetto sostitutivo di qualità equivalente",
-        "why_wrong": "L'art. 41, comma 4, riconosce il rimborso integrale; il pacchetto sostitutivo è previsto in altre ipotesi, come le modifiche dell'art. 40."
+        "text": "Soltanto a un pacchetto sostitutivo di qualità equivalente o superiore offerto dall'organizzatore",
+        "why_wrong": "L'art. 41, comma 4, riconosce il rimborso integrale; il pacchetto sostitutivo è previsto in caso di recesso per modifiche del contratto (art. 40, comma 2)."
       }
     ],
     "correct": "a",
@@ -525,7 +532,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -579,23 +587,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Entro quattordici giorni dalla conclusione del contratto",
-        "why_wrong": "Quattordici giorni è il termine entro cui l'organizzatore effettua i rimborsi (art. 41, comma 6)."
+        "text": "Entro quattordici giorni dalla conclusione del contratto o dalla ricezione delle condizioni contrattuali e delle informazioni preliminari, se successiva",
+        "why_wrong": "Il termine dell'art. 41, comma 7, è di cinque giorni; quattordici giorni è il termine entro cui l'organizzatore effettua i rimborsi (art. 41, comma 6)."
       },
       {
         "id": "b",
-        "text": "Entro sette giorni dall'inizio del pacchetto",
-        "why_wrong": "Il termine dell'art. 41, comma 7, decorre dalla conclusione del contratto o dalla ricezione delle condizioni contrattuali, non dall'inizio del pacchetto."
+        "text": "Entro e non oltre sette giorni prima dell'inizio del pacchetto, con preavviso all'organizzatore dato su un supporto durevole",
+        "why_wrong": "Sette giorni prima dell'inizio del pacchetto è il termine del preavviso per la cessione del contratto (art. 38, comma 1); il termine dell'art. 41, comma 7, decorre dalla conclusione del contratto o dalla ricezione delle condizioni contrattuali."
       },
       {
         "id": "c",
-        "text": "Entro cinque giorni dalla conclusione del contratto o dalla ricezione delle condizioni contrattuali e delle informazioni preliminari, se successiva; il diritto è escluso per offerte con tariffe sensibilmente diminuite",
+        "text": "Entro cinque giorni dalla conclusione del contratto o dalla ricezione delle condizioni contrattuali e delle informazioni preliminari, se successiva",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Entro cinque giorni, anche nel caso di offerte con tariffe sensibilmente diminuite rispetto a quelle correnti",
-        "why_wrong": "Per le offerte con tariffe sensibilmente diminuite l'art. 41, comma 7, esclude il diritto di recesso."
+        "text": "Entro cinque giorni dalla conclusione del contratto, anche nel caso di offerte con tariffe sensibilmente diminuite rispetto alle offerte correnti",
+        "why_wrong": "Nei casi di offerte con tariffe sensibilmente diminuite rispetto alle offerte correnti l'art. 41, comma 7, esclude il diritto di recesso."
       }
     ],
     "correct": "c",
@@ -613,7 +621,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -623,22 +632,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Per un periodo non superiore a sette notti",
-        "why_wrong": "Il limite previsto dall'art. 42, comma 6, è di tre notti per viaggiatore."
+        "text": "Per non più di sette notti per viaggiatore, o per il periodo più lungo previsto dal contratto di pacchetto turistico",
+        "why_wrong": "L'art. 42, comma 6, fissa il limite di tre notti per viaggiatore, o il periodo più lungo eventualmente previsto dalla normativa dell'Unione europea sui diritti dei passeggeri."
       },
       {
         "id": "b",
-        "text": "Senza alcun limite di durata, per tutti i viaggiatori",
-        "why_wrong": "Il limite di tre notti non si applica solo alle categorie indicate dall'art. 42, comma 7 (ad esempio persone a mobilità ridotta), non a tutti i viaggiatori."
+        "text": "Senza alcun limite di durata, per tutti i viaggiatori, purché ne abbiano fatto richiesta almeno quarantotto ore prima della partenza",
+        "why_wrong": "L'art. 42, comma 7, esclude il limite di tre notti solo per determinate categorie (ad esempio persone a mobilità ridotta) le cui esigenze siano comunicate almeno quarantotto ore prima dell'inizio del pacchetto, non per tutti i viaggiatori."
       },
       {
         "id": "c",
-        "text": "Solo se l'impossibilità del rientro è imputabile all'organizzatore",
-        "why_wrong": "L'art. 42, comma 11, applica la regola anche quando l'impossibilità deriva da circostanze sopravvenute non imputabili all'organizzatore."
+        "text": "Solo se l'impossibilità del rientro è imputabile all'organizzatore e non a circostanze inevitabili e straordinarie",
+        "why_wrong": "L'art. 42, comma 11, applica i commi 6 e 7 anche quando l'impossibilità del rientro deriva da circostanze sopravvenute non imputabili all'organizzatore."
       },
       {
         "id": "d",
-        "text": "Per un periodo non superiore a tre notti per viaggiatore, o per il periodo più lungo eventualmente previsto dalla normativa UE sui diritti dei passeggeri",
+        "text": "Per non più di tre notti per viaggiatore, o per il periodo più lungo previsto dalla normativa UE sui diritti dei passeggeri",
         "why_wrong": null
       }
     ],
@@ -657,7 +666,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -667,23 +677,23 @@
     "options": [
       {
         "id": "a",
-        "text": "No, la limitazione è sempre nulla",
-        "why_wrong": "L'art. 43, comma 5, ammette la limitazione, entro i limiti indicati."
+        "text": "No, all'organizzatore si applicano soltanto le limitazioni del risarcimento previste dalle convenzioni internazionali",
+        "why_wrong": "Oltre alle limitazioni previste dalle convenzioni internazionali (art. 43, comma 4), l'art. 43, comma 5, ammette la limitazione contrattuale entro i limiti indicati."
       },
       {
         "id": "b",
-        "text": "Sì, salvo che per i danni alla persona o causati intenzionalmente o per colpa, purché non sia inferiore al triplo del prezzo totale del pacchetto",
+        "text": "Sì, salvo per i danni alla persona o causati intenzionalmente o per colpa, purché non inferiore al triplo del prezzo del pacchetto",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Sì, per qualunque danno, purché non sia inferiore al doppio del prezzo del pacchetto",
-        "why_wrong": "L'art. 43, comma 5, esclude i danni alla persona e quelli dolosi o colposi e fissa la soglia al triplo del prezzo."
+        "text": "Sì, per qualunque danno, compresi quelli alla persona e quelli colposi, purché non sia inferiore al doppio del prezzo totale del pacchetto",
+        "why_wrong": "L'art. 43, comma 5, esclude dalla limitazione i danni alla persona e quelli causati intenzionalmente o per colpa, e fissa la soglia al triplo del prezzo totale."
       },
       {
         "id": "d",
-        "text": "Sì, purché il viaggiatore rinunci espressamente ai diritti previsti dal Codice",
-        "why_wrong": "L'art. 51-sexies, comma 2, stabilisce che i viaggiatori non possono rinunciare ai diritti loro conferiti."
+        "text": "Sì, purché il viaggiatore rinunci espressamente, con dichiarazione scritta, ai diritti previsti dal Codice",
+        "why_wrong": "L'art. 51-sexies, comma 2, stabilisce che i viaggiatori non possono rinunciare ai diritti loro conferiti dal Capo."
       }
     ],
     "correct": "b",
@@ -701,7 +711,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -843,23 +854,23 @@
     "options": [
       {
         "id": "a",
-        "text": "È la struttura di supporto delle politiche del Governo nell'area funzionale del turismo",
-        "why_wrong": "Questa è la funzione del Dipartimento per lo sviluppo e la competitività del turismo (art. 55, comma 1)."
+        "text": "È la struttura di supporto delle politiche del Governo nell'area funzionale del turismo e si avvale delle società partecipate",
+        "why_wrong": "Questa è la funzione del Dipartimento per lo sviluppo e la competitività del turismo (art. 55, commi 1 e 2)."
       },
       {
         "id": "b",
-        "text": "Svolge le funzioni di monitoraggio dei circuiti nazionali di eccellenza",
-        "why_wrong": "Il monitoraggio è affidato al Comitato permanente di promozione del turismo in Italia (art. 26)."
+        "text": "Svolge le funzioni di monitoraggio delle attività relative ai circuiti nazionali di eccellenza e agli itinerari tematici",
+        "why_wrong": "Il monitoraggio delle attività relative ai circuiti nazionali di eccellenza è affidato al Comitato permanente di promozione del turismo in Italia (art. 26)."
       },
       {
         "id": "c",
-        "text": "Svolge tutte le funzioni di promozione all'estero dell'immagine unitaria dell'offerta turistica nazionale e ne favorisce la commercializzazione",
+        "text": "Svolge tutte le funzioni di promozione all'estero dell'immagine unitaria dell'offerta turistica nazionale",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "È indetta almeno ogni due anni per esprimere orientamenti sul piano strategico nazionale",
-        "why_wrong": "Si tratta della Conferenza nazionale del turismo (art. 56)."
+        "text": "Esprime orientamenti per la definizione e gli aggiornamenti delle linee guida del piano strategico nazionale",
+        "why_wrong": "Questa è la funzione della Conferenza nazionale del turismo, indetta almeno ogni due anni (art. 56, commi 1 e 3)."
       }
     ],
     "correct": "c",
@@ -877,7 +888,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

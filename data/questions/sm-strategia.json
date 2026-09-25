@@ -11,18 +11,18 @@
       },
       {
         "id": "b",
-        "text": "Migliorare l'immagine del Comune sui social",
-        "why_wrong": "Obiettivo generico: non è specifico, né misurabile, né collocato nel tempo."
+        "text": "Migliorare l'immagine del Comune sui social e la percezione dei servizi da parte dei cittadini nel corso dei prossimi anni",
+        "why_wrong": "Obiettivo generico: non è specifico né misurabile, e il riferimento ai prossimi anni non fissa una scadenza precisa."
       },
       {
         "id": "c",
-        "text": "Diventare il Comune più seguito d'Italia sui social",
-        "why_wrong": "Obiettivo privo di scadenza e difficilmente raggiungibile e realistico."
+        "text": "Diventare il Comune più seguito d'Italia sui social, superando per numero di follower tutte le grandi città",
+        "why_wrong": "Obiettivo privo di scadenza e difficilmente raggiungibile e realistico per un singolo Comune."
       },
       {
         "id": "d",
-        "text": "Pubblicare il più possibile su tutti i canali disponibili",
-        "why_wrong": "Descrive un'attività, non un risultato misurabile entro una scadenza."
+        "text": "Pubblicare il più possibile su tutti i canali disponibili, aumentando la presenza dell'ente in ogni fascia oraria",
+        "why_wrong": "Descrive un'attività generica, non un risultato misurabile da raggiungere entro una scadenza."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -84,7 +85,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Buyer persona (o semplicemente persona)",
+        "text": "Buyer persona",
         "why_wrong": null
       },
       {
@@ -113,7 +114,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -163,23 +165,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Programmare nel calendario editoriale, con anticipo, una serie di contenuti legati all'apertura e alla scadenza, lasciando spazio per comunicazioni non prevedibili",
+        "text": "Programmare per tempo nel calendario editoriale più contenuti su apertura e scadenza, lasciando spazio a comunicazioni impreviste",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Pubblicare un solo post il giorno della scadenza, per evitare di affaticare il pubblico",
-        "why_wrong": "Un unico avviso all'ultimo giorno non lascia ai cittadini il tempo di attivarsi."
+        "text": "Pubblicare un solo post il giorno della scadenza delle iscrizioni, così da non affaticare il pubblico con messaggi ripetuti",
+        "why_wrong": "Un unico avviso all'ultimo giorno non lascia ai cittadini il tempo di attivarsi per l'iscrizione."
       },
       {
         "id": "c",
-        "text": "Pubblicare ogni giorno lo stesso post identico fino alla scadenza",
-        "why_wrong": "La ripetizione identica non aggiunge informazioni e riduce l'attenzione del pubblico."
+        "text": "Pubblicare ogni giorno, dall'apertura fino alla scadenza delle iscrizioni, lo stesso post identico, per mantenere alta l'attenzione del pubblico",
+        "why_wrong": "La ripetizione identica non aggiunge informazioni e, anziché mantenerla, riduce l'attenzione del pubblico."
       },
       {
         "id": "d",
-        "text": "Non pianificare nulla e pubblicare solo in risposta alle domande dei cittadini",
-        "why_wrong": "Le scadenze note si pianificano in anticipo; la sola reazione alle domande non garantisce un'informazione tempestiva."
+        "text": "Non pianificare nulla in anticipo e pubblicare contenuti solo in risposta alle domande dei cittadini sui social",
+        "why_wrong": "Le scadenze note si pianificano in anticipo; la sola reazione alle domande dei cittadini non garantisce un'informazione tempestiva."
       }
     ],
     "correct": "a",
@@ -192,7 +194,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -207,18 +210,18 @@
       },
       {
         "id": "b",
-        "text": "Deciso di volta in volta dalla persona che pubblica, secondo il proprio stile",
-        "why_wrong": "Un tono che cambia con chi pubblica rende incoerente la voce dell'ente."
+        "text": "Deciso di volta in volta dalla persona che pubblica, secondo il proprio stile e la propria sensibilità",
+        "why_wrong": "Un tono che cambia con chi pubblica rende incoerente la voce dell'ente, che deve restare riconoscibile."
       },
       {
         "id": "c",
-        "text": "Identico al linguaggio degli atti amministrativi, per garantire la precisione",
-        "why_wrong": "Il linguaggio burocratico degli atti è poco adatto ai social, dove serve chiarezza e immediatezza."
+        "text": "Identico al linguaggio formale degli atti amministrativi in ogni situazione, per garantire la massima precisione",
+        "why_wrong": "Il linguaggio burocratico degli atti è poco adatto ai social, dove servono chiarezza e immediatezza, e il tono va adattato al contesto."
       },
       {
         "id": "d",
-        "text": "Irrilevante, perché sui social conta solo il contenuto informativo",
-        "why_wrong": "Il tono influisce sul modo in cui il messaggio viene percepito e sulla fiducia del pubblico."
+        "text": "Irrilevante, perché sui social conta soltanto il contenuto informativo e non il modo in cui è espresso",
+        "why_wrong": "Il modo in cui ci si esprime influisce sulla percezione del messaggio e sulla fiducia del pubblico."
       }
     ],
     "correct": "a",
@@ -231,7 +234,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -280,23 +284,23 @@
     "options": [
       {
         "id": "a",
-        "text": "I contenuti creati e pubblicati dagli utenti, ad esempio le foto di un evento scattate dai partecipanti",
+        "text": "I contenuti creati e pubblicati dagli utenti, come le foto di un evento scattate dai partecipanti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "I contenuti prodotti dall'ufficio comunicazione dell'ente",
-        "why_wrong": "Sono contenuti propri dell'organizzazione, non creati dagli utenti."
+        "text": "I contenuti prodotti dall'ufficio comunicazione dell'ente, ad esempio le foto ufficiali di un evento",
+        "why_wrong": "Sono contenuti propri dell'organizzazione, anche quando documentano un evento, non creati dagli utenti."
       },
       {
         "id": "c",
-        "text": "I contenuti sponsorizzati a pagamento",
-        "why_wrong": "La sponsorizzazione riguarda la modalità di diffusione, non l'autore del contenuto."
+        "text": "I contenuti sponsorizzati a pagamento, ad esempio un post promosso presso un pubblico selezionato",
+        "why_wrong": "La sponsorizzazione riguarda la modalità di diffusione del contenuto, non il suo autore."
       },
       {
         "id": "d",
-        "text": "I contenuti pubblicati automaticamente tramite strumenti di programmazione",
-        "why_wrong": "La programmazione automatica riguarda il momento di pubblicazione, non chi ha creato il contenuto."
+        "text": "I contenuti pubblicati automaticamente tramite strumenti di programmazione, ad esempio in orario notturno",
+        "why_wrong": "La pubblicazione programmata riguarda il momento in cui il contenuto esce, non chi lo ha creato."
       }
     ],
     "correct": "a",
@@ -309,7 +313,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -363,18 +368,18 @@
       },
       {
         "id": "b",
-        "text": "Un aumento del numero di post organici nello stesso giorno",
-        "why_wrong": "I post organici raggiungono soprattutto chi già segue la pagina e non consentono di scegliere il pubblico."
+        "text": "Un aumento del numero di post organici pubblicati nello stesso giorno sulla pagina",
+        "why_wrong": "I post organici, anche se più numerosi, raggiungono soprattutto chi già segue la pagina e non consentono di scegliere il pubblico."
       },
       {
         "id": "c",
-        "text": "La pubblicazione del post in orario serale",
-        "why_wrong": "L'orario può migliorare la visibilità, ma non consente di raggiungere un pubblico definito che non segue la pagina."
+        "text": "La pubblicazione del post in orario serale, con un testo pensato per i residenti",
+        "why_wrong": "L'orario e il testo possono migliorare la visibilità, ma non consentono di raggiungere un pubblico definito che non segue la pagina."
       },
       {
         "id": "d",
-        "text": "L'aggiunta di numerosi hashtag al post",
-        "why_wrong": "Gli hashtag favoriscono la ricerca per tema, ma non indirizzano il messaggio a un pubblico per età e territorio."
+        "text": "L'aggiunta al post di numerosi hashtag riferiti al territorio e alla fascia d'età",
+        "why_wrong": "Gli hashtag favoriscono la ricerca per tema, ma non indirizzano il messaggio a un pubblico definito per età e territorio."
       }
     ],
     "correct": "a",
@@ -387,7 +392,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

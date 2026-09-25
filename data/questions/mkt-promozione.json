@@ -6,8 +6,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Un bene materiale, prodotto e venduto da un'unica impresa",
-        "why_wrong": "Il prodotto turistico è formato soprattutto da servizi, offerti da soggetti diversi."
+        "text": "Un bene materiale, prodotto e venduto da un'unica impresa che ne controlla tutte le fasi di fruizione",
+        "why_wrong": "Il prodotto turistico è formato soprattutto da servizi, offerti da soggetti diversi e non da un'unica impresa."
       },
       {
         "id": "b",
@@ -16,13 +16,13 @@
       },
       {
         "id": "c",
-        "text": "Il solo pernottamento presso una struttura ricettiva",
-        "why_wrong": "L'alloggio è solo una delle componenti del prodotto turistico."
+        "text": "Il solo pernottamento presso una struttura ricettiva, alberghiera o extralberghiera, della località scelta",
+        "why_wrong": "L'alloggio, in qualunque tipo di struttura, è solo una delle componenti del prodotto turistico."
       },
       {
         "id": "d",
-        "text": "L'insieme dei beni culturali di proprietà pubblica",
-        "why_wrong": "I beni culturali sono una delle attrattive, non l'intero prodotto."
+        "text": "L'insieme dei beni culturali e paesaggistici di proprietà pubblica presenti nel territorio della destinazione",
+        "why_wrong": "I beni culturali e paesaggistici sono attrattive, cioè una delle componenti, non l'intero prodotto."
       }
     ],
     "correct": "b",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -89,18 +90,18 @@
       },
       {
         "id": "b",
-        "text": "Aumentare la capacità ricettiva della località",
-        "why_wrong": "Un evento non aumenta i posti letto disponibili: ne favorisce l'utilizzo."
+        "text": "Aumentare la capacità ricettiva della località in vista della successiva stagione estiva",
+        "why_wrong": "Un evento non aumenta i posti letto disponibili: ne favorisce l'utilizzo nei periodi di bassa affluenza."
       },
       {
         "id": "c",
-        "text": "Ridurre le presenze turistiche nel periodo estivo",
-        "why_wrong": "L'evento si svolge a novembre e non è pensato per ridurre i flussi estivi."
+        "text": "Ridurre le presenze turistiche nel periodo estivo, spostandole interamente in autunno",
+        "why_wrong": "L'evento si svolge a novembre per attirare visitatori in bassa stagione, non per ridurre i flussi estivi."
       },
       {
         "id": "d",
-        "text": "Sostituire la promozione del turismo balneare",
-        "why_wrong": "L'evento integra l'offerta estiva, non la sostituisce."
+        "text": "Sostituire la promozione del turismo balneare con quella del turismo enogastronomico",
+        "why_wrong": "L'evento integra l'offerta balneare estiva, non ne sostituisce la promozione."
       }
     ],
     "correct": "a",
@@ -113,7 +114,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -201,23 +203,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Sostituire le strutture ricettive nella vendita delle camere",
-        "why_wrong": "Il portale può rimandare alla prenotazione, ma non sostituisce le imprese nella vendita."
+        "text": "Sostituire le strutture ricettive nella vendita delle camere, gestendo direttamente prenotazioni e pagamenti",
+        "why_wrong": "Il portale può rimandare alla prenotazione, ma non sostituisce le imprese nella vendita e nella gestione delle prenotazioni."
       },
       {
         "id": "b",
-        "text": "Pubblicare gli atti amministrativi dell'ente",
-        "why_wrong": "La pubblicazione degli atti avviene nell'albo pretorio online e nella sezione Amministrazione trasparente."
+        "text": "Pubblicare gli atti amministrativi dell'ente, come delibere e determinazioni, per garantirne la piena conoscibilità",
+        "why_wrong": "La pubblicazione degli atti avviene nell'albo pretorio online e nella sezione Amministrazione trasparente, non nel portale turistico."
       },
       {
         "id": "c",
-        "text": "Essere il punto di riferimento online per informare e ispirare il visitatore e presentare l'offerta complessiva del territorio",
+        "text": "Essere il punto di riferimento online per informare il visitatore e presentare l'offerta complessiva del territorio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Raccogliere le recensioni dei turisti in sostituzione delle piattaforme specializzate",
-        "why_wrong": "Le recensioni sono raccolte soprattutto dalle piattaforme dedicate; non è la funzione principale del portale."
+        "text": "Raccogliere le recensioni dei turisti sulle strutture locali, in sostituzione delle piattaforme specializzate",
+        "why_wrong": "Le recensioni sono raccolte soprattutto dalle piattaforme dedicate, che il portale non sostituisce; non è la sua funzione principale."
       }
     ],
     "correct": "c",
@@ -230,7 +232,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +243,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Intermediari che vendono online servizi turistici forniti da altri, come camere d'albergo, di norma in cambio di una commissione",
+        "text": "Intermediari che vendono online servizi turistici forniti da altri, di norma in cambio di una commissione",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Siti web delle singole strutture ricettive che vendono direttamente le proprie camere",
-        "why_wrong": "La vendita dal sito della struttura è vendita diretta, senza intermediari."
+        "text": "Siti web delle singole strutture ricettive, che vendono direttamente le proprie camere ai clienti finali",
+        "why_wrong": "La vendita dal sito della struttura ai clienti finali è vendita diretta, senza intermediari."
       },
       {
         "id": "c",
-        "text": "Enti pubblici che coordinano la promozione di una destinazione",
-        "why_wrong": "Questa è la funzione delle DMO."
+        "text": "Enti pubblici che coordinano la promozione di una destinazione e ne gestiscono il portale turistico ufficiale",
+        "why_wrong": "Questa è la funzione delle DMO; le OTA sono intermediari commerciali."
       },
       {
         "id": "d",
-        "text": "Siti che pubblicano esclusivamente recensioni senza possibilità di prenotare",
-        "why_wrong": "Le OTA sono canali di vendita, anche se spesso ospitano recensioni."
+        "text": "Siti che pubblicano esclusivamente recensioni degli utenti, senza offrire alcuna possibilità di prenotare",
+        "why_wrong": "Le OTA sono canali di vendita che consentono di prenotare, anche se spesso ospitano recensioni."
       }
     ],
     "correct": "a",
@@ -269,7 +272,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,22 +322,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Soltanto dai contenuti pubblicati sul sito ufficiale",
-        "why_wrong": "I contenuti ufficiali sono solo una parte; pesano molto quelli generati dagli utenti."
+        "text": "Soltanto dai contenuti pubblicati sul sito ufficiale e sui canali social gestiti direttamente dal titolare",
+        "why_wrong": "I contenuti ufficiali, sul sito o sui social, sono solo una parte; pesano molto quelli generati dagli utenti."
       },
       {
         "id": "b",
-        "text": "Soltanto dal numero di follower sui social network",
-        "why_wrong": "Il numero di follower non misura il giudizio espresso su di essa."
+        "text": "Soltanto dal numero di follower sui social network e dalla frequenza con cui vengono pubblicati i post",
+        "why_wrong": "Il numero di follower e di post non misura il giudizio espresso su di essa."
       },
       {
         "id": "c",
-        "text": "Esclusivamente dalle campagne pubblicitarie a pagamento",
-        "why_wrong": "La pubblicità è controllata dall'impresa; la reputazione dipende soprattutto da ciò che dicono gli altri."
+        "text": "Esclusivamente dalle campagne pubblicitarie a pagamento svolte sui motori di ricerca e sui social network",
+        "why_wrong": "La pubblicità, ovunque sia svolta, è controllata dall'impresa; la reputazione dipende soprattutto da ciò che dicono gli altri."
       },
       {
         "id": "d",
-        "text": "Dall'insieme dei contenuti presenti in rete che la riguardano, in particolare recensioni e commenti degli utenti",
+        "text": "Dall'insieme dei contenuti in rete che la riguardano, in particolare recensioni e commenti degli utenti",
         "why_wrong": null
       }
     ],
@@ -347,7 +351,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

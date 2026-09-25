@@ -60,8 +60,8 @@
       },
       {
         "id": "d",
-        "text": "Trojan",
-        "why_wrong": "Il trojan si presenta come un programma legittimo per introdursi nel sistema; il suo tratto distintivo non è la richiesta di riscatto."
+        "text": "Trojan horse",
+        "why_wrong": "Il trojan horse si presenta come un programma legittimo per introdursi nel sistema; il suo tratto distintivo non è la richiesta di riscatto."
       }
     ],
     "correct": "a",
@@ -74,7 +74,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -89,18 +90,18 @@
       },
       {
         "id": "b",
-        "text": "Password e PIN",
-        "why_wrong": "Password e PIN sono entrambi qualcosa che l'utente conosce: si tratta dello stesso fattore."
+        "text": "Password e PIN numerico, da inserire uno dopo l'altro nella schermata di accesso",
+        "why_wrong": "Password e PIN sono entrambi qualcosa che l'utente conosce: anche se inseriti in sequenza, si tratta dello stesso fattore."
       },
       {
         "id": "c",
-        "text": "Due password diverse",
-        "why_wrong": "Due password appartengono allo stesso fattore (qualcosa che si conosce)."
+        "text": "Due password diverse, la seconda delle quali richiesta dopo l'inserimento della prima",
+        "why_wrong": "Due password, anche se richieste in sequenza, appartengono allo stesso fattore (qualcosa che si conosce)."
       },
       {
         "id": "d",
-        "text": "Nome utente e password",
-        "why_wrong": "Il nome utente identifica l'utente, ma l'unico fattore di autenticazione è la password."
+        "text": "Nome utente e password, entrambi scelti dall'utente al momento della registrazione",
+        "why_wrong": "Il nome utente identifica l'utente, ma l'unico fattore di autenticazione resta la password, cioè qualcosa che si conosce."
       }
     ],
     "correct": "a",
@@ -113,7 +114,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -128,18 +130,18 @@
       },
       {
         "id": "b",
-        "text": "L'attivazione del firewall dopo l'attacco",
-        "why_wrong": "Il firewall filtra il traffico di rete e può aiutare a prevenire attacchi, ma non recupera file già cifrati."
+        "text": "L'attivazione del firewall sul server dopo l'attacco, per bloccare il traffico sospetto",
+        "why_wrong": "Il firewall filtra il traffico di rete e può aiutare a prevenire nuovi attacchi, ma non recupera i file già cifrati."
       },
       {
         "id": "c",
-        "text": "Il cambio della password dell'amministratore",
-        "why_wrong": "Cambiare la password migliora la sicurezza futura, ma non rende di nuovo leggibili i file cifrati."
+        "text": "Il cambio immediato della password dell'amministratore del server colpito",
+        "why_wrong": "Cambiare la password migliora la sicurezza futura, ma non rende di nuovo leggibili i file già cifrati."
       },
       {
         "id": "d",
-        "text": "La copia dei file cifrati su un disco esterno",
-        "why_wrong": "Copiare file già cifrati non li rende leggibili."
+        "text": "La copia dei file cifrati su un disco esterno conservato separatamente dal server",
+        "why_wrong": "Copiare file già cifrati, anche su un supporto separato, non li rende leggibili."
       }
     ],
     "correct": "a",
@@ -152,7 +154,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -167,18 +170,18 @@
       },
       {
         "id": "b",
-        "text": "Un programma che ricerca e rimuove i virus presenti nei file",
-        "why_wrong": "Questa è la funzione dell'antivirus."
+        "text": "Un programma che analizza i file presenti sul computer per individuare e rimuovere virus e altri malware",
+        "why_wrong": "Questa è la funzione dell'antivirus, che opera sui file e non sul traffico di rete."
       },
       {
         "id": "c",
-        "text": "Una copia di sicurezza dei dati",
-        "why_wrong": "Questa è la definizione di backup."
+        "text": "Una copia di sicurezza dei dati, conservata separatamente dal sistema principale per consentirne il ripristino in caso di guasto",
+        "why_wrong": "Questa è la definizione di backup, non di firewall."
       },
       {
         "id": "d",
-        "text": "Un protocollo per l'invio della posta elettronica",
-        "why_wrong": "Il protocollo per l'invio della posta è SMTP."
+        "text": "Un protocollo per l'invio della posta elettronica dal client dell'utente al server di posta",
+        "why_wrong": "Il protocollo per l'invio della posta è SMTP, non il firewall."
       }
     ],
     "correct": "a",
@@ -191,7 +194,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

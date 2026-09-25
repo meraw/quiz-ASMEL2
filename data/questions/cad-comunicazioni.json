@@ -103,18 +103,18 @@
       },
       {
         "id": "b",
-        "text": "Il giovedì, quando il funzionario ha aperto il messaggio",
-        "why_wrong": "Per l'art. 45, comma 2, rileva il momento in cui il documento è reso disponibile nella casella del destinatario, non la sua lettura."
+        "text": "Il giovedì, quando il funzionario del Comune ha aperto e letto per la prima volta il messaggio",
+        "why_wrong": "Per l'art. 45, comma 2, rileva il momento in cui il documento è reso disponibile nella casella del destinatario, non la sua apertura o lettura."
       },
       {
         "id": "c",
-        "text": "Solo dopo la protocollazione da parte del Comune",
-        "why_wrong": "L'art. 45, comma 2, lega la consegna alla messa a disposizione nella casella del destinatario, non alla protocollazione."
+        "text": "Solo dopo la protocollazione da parte del Comune e l'invio della relativa ricevuta all'impresa",
+        "why_wrong": "L'art. 45, comma 2, lega la consegna alla messa a disposizione nella casella di posta elettronica del destinatario, non alla protocollazione."
       },
       {
         "id": "d",
-        "text": "Al momento in cui è stato inviato al gestore del mittente",
-        "why_wrong": "L'invio al proprio gestore determina, per l'art. 45, comma 2, la spedizione, non la consegna."
+        "text": "Al momento in cui è stato inviato dall'impresa al proprio gestore di posta elettronica certificata",
+        "why_wrong": "L'invio al proprio gestore determina, per l'art. 45, comma 2, la spedizione da parte del mittente, non la consegna."
       }
     ],
     "correct": "a",
@@ -132,7 +132,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

@@ -45,23 +45,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il numero di persone coinvolte",
-        "why_wrong": "In base a questo criterio avrebbe prevalso l'incidente all'estero, più grave."
+        "text": "Il numero delle persone coinvolte nell'incidente",
+        "why_wrong": "Secondo il criterio del numero di persone coinvolte avrebbe prevalso l'incidente all'estero, più grave."
       },
       {
         "id": "b",
-        "text": "La notorietà dei protagonisti",
-        "why_wrong": "Nel caso descritto nessuno dei due incidenti coinvolge personaggi noti."
+        "text": "La notorietà dei protagonisti degli incidenti",
+        "why_wrong": "Nel caso descritto nessuno dei due incidenti coinvolge persone note: la notorietà non è l'elemento che li distingue."
       },
       {
         "id": "c",
-        "text": "La vicinanza (prossimità) dell'evento al pubblico",
+        "text": "La prossimità geografica dell'evento ai lettori",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "La possibilità di prevedere l'evento",
-        "why_wrong": "Entrambi gli incidenti sono eventi imprevisti; non è questo l'elemento che li distingue."
+        "text": "La possibilità di prevedere in anticipo l'evento",
+        "why_wrong": "Entrambi gli incidenti sono eventi imprevisti: la prevedibilità non è l'elemento che li distingue."
       }
     ],
     "correct": "c",
@@ -74,7 +74,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -123,22 +124,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Il racconto segua l'ordine cronologico degli eventi, dal primo all'ultimo",
-        "why_wrong": "È la struttura cronologica, diversa dalla piramide rovesciata, che parte dal fatto principale."
+        "text": "Il racconto segua rigorosamente l'ordine cronologico degli eventi, dal primo all'ultimo",
+        "why_wrong": "Seguire l'ordine cronologico è la struttura cronologica, diversa dalla piramide rovesciata, che parte dal fatto principale."
       },
       {
         "id": "b",
-        "text": "La notizia principale sia rivelata solo nelle ultime righe, per creare attesa",
-        "why_wrong": "È la struttura della suspense, opposta alla piramide rovesciata."
+        "text": "La notizia principale sia rivelata solo nelle ultime righe, per creare attesa nel lettore",
+        "why_wrong": "Rivelare la notizia alla fine è la struttura della suspense, opposta alla piramide rovesciata."
       },
       {
         "id": "c",
-        "text": "Il titolo sia posto sotto il sommario",
-        "why_wrong": "Il sommario si trova sotto il titolo, non sopra."
+        "text": "Il titolo sia posto sotto il sommario, che anticipa i contenuti principali dell'articolo",
+        "why_wrong": "La piramide rovesciata riguarda l'ordine delle informazioni nel testo; inoltre il sommario si trova sotto il titolo, non sopra."
       },
       {
         "id": "d",
-        "text": "Le informazioni più importanti siano collocate all'inizio e seguite da quelle via via meno importanti",
+        "text": "Le informazioni più importanti siano all'inizio, seguite da quelle via via meno importanti",
         "why_wrong": null
       }
     ],
@@ -152,7 +153,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -201,23 +203,23 @@
     "options": [
       {
         "id": "a",
-        "text": "La riga posta sopra il titolo, che introduce l'argomento",
-        "why_wrong": "È l'occhiello."
+        "text": "La riga posta sopra il titolo, che introduce l'argomento o il contesto della notizia",
+        "why_wrong": "La riga sopra il titolo che introduce l'argomento è l'occhiello."
       },
       {
         "id": "b",
-        "text": "Il testo che accompagna una fotografia",
-        "why_wrong": "È la didascalia."
+        "text": "Il breve testo che accompagna una fotografia pubblicata e ne descrive il contenuto",
+        "why_wrong": "Il testo che accompagna una fotografia è la didascalia."
       },
       {
         "id": "c",
-        "text": "Il paragrafo iniziale, che riassume le informazioni essenziali della notizia rispondendo alle principali domande delle 5 W",
+        "text": "Il paragrafo iniziale, che riassume l'essenziale della notizia rispondendo alle 5 W",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "L'elenco delle fonti consultate, collocato in fondo all'articolo",
-        "why_wrong": "Il lead è in apertura dell'articolo e contiene la notizia, non le fonti."
+        "text": "L'elenco delle fonti consultate dal giornalista, collocato in fondo all'articolo",
+        "why_wrong": "Il lead è in apertura dell'articolo e contiene la notizia, non l'elenco delle fonti."
       }
     ],
     "correct": "c",
@@ -230,7 +232,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,22 +282,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Pubblicarla subito, perché il documento sembra autentico e la notizia è urgente",
-        "why_wrong": "L'urgenza non esonera dal verificare la notizia prima di pubblicarla."
+        "text": "Pubblicarla subito, perché il documento sembra autentico e la notizia è urgente per le famiglie",
+        "why_wrong": "L'urgenza della notizia non esonera dal verificarla prima di pubblicarla."
       },
       {
         "id": "b",
-        "text": "Pubblicarla precisando che la notizia circola sui social, senza ulteriori controlli",
-        "why_wrong": "Riportare un contenuto non verificato, anche citandone la provenienza, non sostituisce la verifica."
+        "text": "Pubblicarla precisando che la notizia circola sui social network, senza effettuare ulteriori controlli",
+        "why_wrong": "Riportare un contenuto non verificato, anche precisandone la provenienza dai social, non sostituisce la verifica."
       },
       {
         "id": "c",
-        "text": "Pubblicarla solo se la foto ha ricevuto molte condivisioni",
-        "why_wrong": "La diffusione di un contenuto non ne dimostra l'autenticità."
+        "text": "Pubblicarla solo se la foto ha ricevuto molte condivisioni e commenti da parte degli utenti",
+        "why_wrong": "La diffusione di un contenuto sui social, in condivisioni o commenti, non ne dimostra l'autenticità."
       },
       {
         "id": "d",
-        "text": "Verificarla alla fonte originaria, per esempio consultando l'atto pubblicato dal Comune o contattando l'ufficio competente",
+        "text": "Verificarla alla fonte originaria, consultando l'atto pubblicato dal Comune o l'ufficio competente",
         "why_wrong": null
       }
     ],
@@ -308,7 +311,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -362,18 +366,18 @@
       },
       {
         "id": "b",
-        "text": "Attendere che l'interessato presenti un reclamo formale",
-        "why_wrong": "Il dovere di rettificare gli errori non dipende dalla richiesta dell'interessato."
+        "text": "Attendere che l'interessato presenti un reclamo formale prima di correggere l'errore",
+        "why_wrong": "Il dovere di rettificare gli errori non dipende da una richiesta o da un reclamo dell'interessato."
       },
       {
         "id": "c",
-        "text": "Eliminare l'articolo senza darne conto ai lettori",
-        "why_wrong": "Far sparire l'articolo non corregge l'informazione già diffusa e non ne dà conto ai lettori."
+        "text": "Eliminare l'articolo dal sito senza darne alcuna comunicazione ai lettori",
+        "why_wrong": "Eliminare l'articolo non corregge l'informazione già diffusa e non ne dà conto ai lettori."
       },
       {
         "id": "d",
-        "text": "Correggere l'errore solo se riguarda persone note",
-        "why_wrong": "Il dovere di rettifica vale per qualsiasi errore, a prescindere da chi riguarda."
+        "text": "Correggere l'errore solo se riguarda persone note o titolari di incarichi pubblici",
+        "why_wrong": "Il dovere di rettifica vale per qualsiasi errore, a prescindere dalle persone che riguarda."
       }
     ],
     "correct": "a",
@@ -386,7 +390,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

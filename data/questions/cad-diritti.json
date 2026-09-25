@@ -51,23 +51,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Le pubbliche amministrazioni e gli altri soggetti di cui all'art. 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese",
+        "text": "I soggetti di cui all'art. 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Tutte le persone fisiche residenti in Italia, al compimento della maggiore età",
-        "why_wrong": "Per le persone fisiche l'art. 3-bis, comma 1-bis, prevede una facoltà di eleggere il domicilio digitale, non un obbligo."
+        "text": "Tutte le persone fisiche residenti in Italia, che al compimento della maggiore età devono eleggerlo presso l'ufficio anagrafe del proprio comune",
+        "why_wrong": "Per le persone fisiche l'art. 3-bis, comma 1-bis, prevede una facoltà di eleggere il domicilio digitale, non un obbligo; l'ufficio anagrafe è solo una delle modalità di elezione (comma 1-ter)."
       },
       {
         "id": "c",
-        "text": "Le sole pubbliche amministrazioni centrali",
-        "why_wrong": "L'art. 3-bis, comma 1, estende l'obbligo anche ai professionisti iscritti in albi ed elenchi e ai soggetti iscritti nel registro delle imprese."
+        "text": "Le sole pubbliche amministrazioni centrali, mentre per i professionisti iscritti in albi ed elenchi e per le imprese l'elezione del domicilio digitale è facoltativa",
+        "why_wrong": "L'art. 3-bis, comma 1, pone l'obbligo a carico di tutti i soggetti di cui all'art. 2, comma 2, e anche dei professionisti tenuti all'iscrizione in albi ed elenchi e dei soggetti tenuti all'iscrizione nel registro delle imprese."
       },
       {
         "id": "d",
-        "text": "Le sole imprese iscritte nel registro delle imprese",
-        "why_wrong": "L'art. 3-bis, comma 1, pone l'obbligo anche a carico dei soggetti di cui all'art. 2, comma 2, e dei professionisti iscritti in albi ed elenchi."
+        "text": "I soli professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese, escluse le PA",
+        "why_wrong": "L'art. 3-bis, comma 1, pone l'obbligo anche a carico dei soggetti di cui all'art. 2, comma 2, tra cui le pubbliche amministrazioni."
       }
     ],
     "correct": "a",
@@ -85,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

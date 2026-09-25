@@ -162,22 +162,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Evitare che la notizia venga ripresa dai media",
-        "why_wrong": "Lo scopo della conferenza stampa è proprio favorire la diffusione della notizia."
+        "text": "Garantire che la notizia sia riportata dai media esattamente come formulata dall'ente",
+        "why_wrong": "La conferenza stampa non fissa il testo degli articoli: i giornalisti rielaborano le informazioni, anche in base alle domande poste."
       },
       {
         "id": "b",
-        "text": "Poter essere utilizzata per qualsiasi notizia, anche di minima rilevanza",
-        "why_wrong": "Proprio perché richiede la presenza dei giornalisti, la conferenza stampa va riservata a notizie di particolare rilievo."
+        "text": "Poter essere convocata per qualsiasi notizia, anche di minima rilevanza per i media",
+        "why_wrong": "Poiché richiede la presenza dei giornalisti, la conferenza stampa va riservata a notizie di particolare rilievo."
       },
       {
         "id": "c",
-        "text": "Sostituire la rassegna stampa",
-        "why_wrong": "La rassegna stampa raccoglie gli articoli già usciti; ha una funzione diversa."
+        "text": "Sostituire la rassegna stampa nella raccolta degli articoli già pubblicati sull'ente",
+        "why_wrong": "La raccolta degli articoli già usciti è la funzione della rassegna stampa, strumento diverso dalla conferenza stampa."
       },
       {
         "id": "d",
-        "text": "Consentire un contatto diretto con i giornalisti, che possono porre domande e chiedere chiarimenti",
+        "text": "Consentire un contatto diretto con i giornalisti, che possono porre domande",
         "why_wrong": null
       }
     ],
@@ -191,7 +191,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +241,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il documento inviato ai giornalisti per annunciare una notizia",
-        "why_wrong": "È il comunicato stampa."
+        "text": "Il documento inviato ai giornalisti per annunciare una notizia o un'iniziativa dell'ente",
+        "why_wrong": "Il documento che annuncia una notizia ai giornalisti è il comunicato stampa."
       },
       {
         "id": "b",
-        "text": "La selezione e raccolta degli articoli e dei servizi dei media che riguardano l'ente o temi di suo interesse, destinata ad amministratori e uffici",
+        "text": "La raccolta degli articoli e dei servizi dei media che riguardano l'ente o temi di suo interesse",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "L'elenco dei giornalisti invitati a una conferenza stampa",
-        "why_wrong": "È la mailing list o l'elenco degli accreditati, non la rassegna stampa."
+        "text": "L'elenco dei giornalisti e delle testate invitati a partecipare a una conferenza stampa",
+        "why_wrong": "L'elenco dei giornalisti invitati è la mailing list o l'elenco degli accreditati, non la rassegna stampa."
       },
       {
         "id": "d",
-        "text": "Il materiale informativo consegnato ai giornalisti durante una conferenza stampa",
-        "why_wrong": "È la cartella stampa."
+        "text": "Il materiale informativo, con testi e dati, consegnato ai giornalisti durante una conferenza stampa",
+        "why_wrong": "Il materiale consegnato ai giornalisti durante la conferenza stampa è la cartella stampa."
       }
     ],
     "correct": "b",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,23 +281,23 @@
     "options": [
       {
         "id": "a",
-        "text": "La raccolta quotidiana degli articoli che parlano dell'ente",
-        "why_wrong": "È la rassegna stampa."
+        "text": "La raccolta quotidiana degli articoli e dei servizi dei media che parlano dell'ente e delle sue attività",
+        "why_wrong": "La raccolta quotidiana degli articoli sull'ente è la rassegna stampa."
       },
       {
         "id": "b",
-        "text": "L'elenco dei comunicati stampa inviati nell'anno",
-        "why_wrong": "È solo un archivio delle attività svolte, non uno strumento di programmazione."
+        "text": "L'elenco dei comunicati e delle conferenze stampa realizzati dall'ente nel corso dell'anno precedente",
+        "why_wrong": "È solo un archivio delle attività già svolte, non uno strumento di programmazione."
       },
       {
         "id": "c",
-        "text": "Uno strumento di programmazione che definisce obiettivi, pubblici di riferimento, azioni, strumenti, tempi, risorse e modalità di valutazione della comunicazione",
+        "text": "Uno strumento che programma obiettivi, pubblici, azioni, strumenti, tempi, risorse e valutazione della comunicazione",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Il regolamento che disciplina l'organizzazione dell'ufficio stampa",
-        "why_wrong": "Il piano non disciplina l'organizzazione degli uffici, ma programma le attività di comunicazione."
+        "text": "Il regolamento che disciplina l'organizzazione dell'ufficio stampa, i suoi compiti e i rapporti con gli altri uffici",
+        "why_wrong": "Il piano non disciplina l'organizzazione e i compiti degli uffici, ma programma le attività di comunicazione."
       }
     ],
     "correct": "c",
@@ -308,7 +310,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

@@ -11,18 +11,18 @@
       },
       {
         "id": "b",
-        "text": "L'insieme di segni e regole condiviso da emittente e destinatario",
-        "why_wrong": "È la definizione di codice."
+        "text": "L'insieme di segni e regole condiviso da emittente e destinatario per formulare il messaggio",
+        "why_wrong": "L'insieme di segni e regole condiviso è la definizione di codice."
       },
       {
         "id": "c",
-        "text": "Qualsiasi disturbo che interferisce con la trasmissione e altera il segnale tra emittente e destinatario",
+        "text": "Qualsiasi disturbo che interferisce con la trasmissione e altera il segnale",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Il mezzo fisico attraverso il quale viaggia il messaggio",
-        "why_wrong": "È la definizione di canale."
+        "text": "Il mezzo fisico attraverso il quale viaggia il messaggio, come un cavo telefonico",
+        "why_wrong": "Il mezzo fisico di trasmissione è la definizione di canale."
       }
     ],
     "correct": "c",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -255,8 +256,8 @@
       },
       {
         "id": "d",
-        "text": "Emotiva",
-        "why_wrong": "La funzione emotiva esprime gli stati d'animo dell'emittente."
+        "text": "Emotiva (o espressiva)",
+        "why_wrong": "La funzione emotiva (o espressiva) esprime gli stati d'animo dell'emittente."
       }
     ],
     "correct": "c",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,22 +281,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Il mezzo fisico attraverso cui passa il messaggio, come l'aria o la linea telefonica",
-        "why_wrong": "È la definizione di canale."
+        "text": "Il mezzo fisico attraverso cui il messaggio passa dall'emittente al destinatario, come l'aria o la linea telefonica",
+        "why_wrong": "Il mezzo fisico attraverso cui passa il messaggio è la definizione di canale."
       },
       {
         "id": "b",
-        "text": "La situazione in cui avviene lo scambio comunicativo",
-        "why_wrong": "È la definizione di contesto."
+        "text": "La situazione, fisica e sociale, in cui avviene lo scambio comunicativo tra emittente e destinatario",
+        "why_wrong": "La situazione in cui avviene lo scambio è la definizione di contesto."
       },
       {
         "id": "c",
-        "text": "Il contenuto informativo trasmesso dall'emittente",
-        "why_wrong": "È la definizione di messaggio."
+        "text": "Il contenuto informativo che l'emittente intende trasmettere al destinatario attraverso il canale",
+        "why_wrong": "Il contenuto informativo trasmesso è la definizione di messaggio."
       },
       {
         "id": "d",
-        "text": "Il sistema di segni e di regole, condiviso da emittente e destinatario, con cui il messaggio viene formulato e interpretato",
+        "text": "Il sistema di segni e regole, condiviso da emittente e destinatario, per formulare e interpretare il messaggio",
         "why_wrong": null
       }
     ],
@@ -308,7 +310,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

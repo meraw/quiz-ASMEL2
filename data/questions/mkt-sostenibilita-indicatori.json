@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Tiene pienamente conto dei suoi impatti economici, sociali e ambientali, attuali e futuri, rispondendo alle esigenze dei visitatori, del settore, dell'ambiente e delle comunità ospitanti",
+        "text": "Tiene pienamente conto dei suoi impatti economici, sociali e ambientali, attuali e futuri, rispondendo alle esigenze di visitatori, settore, ambiente e comunità ospitanti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Si svolge esclusivamente in aree naturali protette",
-        "why_wrong": "Riguarda ogni forma di turismo, non solo quello nelle aree naturali."
+        "text": "Si svolge esclusivamente in aree naturali protette, con flussi contingentati e attività compatibili con la tutela degli ecosistemi e della fauna locale",
+        "why_wrong": "Riguarda ogni forma di turismo, non solo quello nelle aree naturali protette."
       },
       {
         "id": "c",
-        "text": "Coincide con la riduzione del numero dei turisti",
-        "why_wrong": "La sostenibilità riguarda la gestione degli impatti, non la sola riduzione dei flussi."
+        "text": "Coincide con la riduzione del numero dei turisti, da ottenere con limiti di accesso e tasse di ingresso fino a riportare i flussi entro la capacità di carico del territorio ospitante",
+        "why_wrong": "La sostenibilità riguarda la gestione degli impatti, non la sola riduzione dei flussi attraverso limiti e tasse."
       },
       {
         "id": "d",
-        "text": "Considera soltanto gli impatti ambientali",
-        "why_wrong": "La definizione comprende anche gli impatti economici e sociali."
+        "text": "Considera soltanto gli impatti ambientali, attuali e futuri, rispondendo alle esigenze di tutela del paesaggio, delle risorse naturali e della biodiversità",
+        "why_wrong": "La definizione comprende anche gli impatti economici e sociali e le esigenze di visitatori, settore e comunità ospitanti."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -45,23 +46,23 @@
     "options": [
       {
         "id": "a",
-        "text": "La crescita del turismo nelle aree interne poco conosciute",
-        "why_wrong": "La crescita in aree poco frequentate non comporta di per sé sovraffollamento."
+        "text": "La crescita del turismo nelle aree interne poco conosciute, favorita dalle politiche di redistribuzione dei flussi",
+        "why_wrong": "La crescita in aree poco frequentate non comporta di per sé sovraffollamento né un peggioramento della vita dei residenti."
       },
       {
         "id": "b",
-        "text": "Un afflusso turistico eccessivo, che peggiora la qualità della vita dei residenti e/o la qualità dell'esperienza dei visitatori",
+        "text": "Un afflusso turistico eccessivo, che peggiora la qualità della vita dei residenti e/o l'esperienza dei visitatori",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Il turismo di lusso ad alta capacità di spesa",
-        "why_wrong": "L'overtourism riguarda la quantità e la concentrazione dei flussi, non la loro capacità di spesa."
+        "text": "Il turismo di lusso ad alta capacità di spesa, rivolto a una clientela ristretta e prevalentemente internazionale",
+        "why_wrong": "L'overtourism riguarda la quantità e la concentrazione dei flussi, non la capacità di spesa o la provenienza dei turisti."
       },
       {
         "id": "d",
-        "text": "La permanenza dei turisti oltre la durata prenotata",
-        "why_wrong": "Non riguarda la durata del soggiorno del singolo turista."
+        "text": "La permanenza dei turisti oltre la durata prenotata, con il conseguente prolungamento dei soggiorni nella località",
+        "why_wrong": "Non riguarda la durata del soggiorno del singolo turista, ma l'eccesso dei flussi."
       }
     ],
     "correct": "b",
@@ -74,7 +75,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -84,23 +86,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Aumentare i prezzi nei mesi di bassa stagione",
-        "why_wrong": "Prezzi più alti in bassa stagione scoraggerebbero ancora di più i visitatori in quei mesi."
+        "text": "Aumentare i prezzi nei mesi di bassa stagione, per compensare il minor numero di presenze registrate",
+        "why_wrong": "Prezzi più alti in bassa stagione scoraggerebbero ancora di più i visitatori in quei mesi, accentuando la stagionalità."
       },
       {
         "id": "b",
-        "text": "Concentrare la promozione sui mesi di luglio e agosto",
-        "why_wrong": "Rafforzerebbe la concentrazione dei flussi nei mesi già più frequentati."
+        "text": "Concentrare la promozione sui mesi di luglio e agosto, quando la domanda turistica è già più elevata",
+        "why_wrong": "Promuovere i mesi di maggiore domanda rafforzerebbe la concentrazione dei flussi nei periodi già più frequentati."
       },
       {
         "id": "c",
-        "text": "Creare prodotti ed eventi adatti alla primavera e all'autunno, come escursionismo e percorsi enogastronomici",
+        "text": "Creare prodotti ed eventi per la primavera e l'autunno, come escursionismo e percorsi enogastronomici",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Chiudere gli uffici turistici nei mesi di bassa affluenza",
-        "why_wrong": "Ridurrebbe i servizi proprio nei periodi in cui si vogliono attirare visitatori."
+        "text": "Chiudere gli uffici turistici nei mesi di bassa affluenza, per ridurre i costi di gestione della località",
+        "why_wrong": "Ridurrebbe i servizi, anche se con un risparmio di costi, proprio nei periodi in cui si vogliono attirare visitatori."
       }
     ],
     "correct": "c",
@@ -113,7 +115,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -123,13 +126,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Il numero delle notti trascorse dai clienti negli esercizi ricettivi",
-        "why_wrong": "Sono le presenze."
+        "text": "Il numero delle notti trascorse dai clienti, italiani e stranieri, negli esercizi ricettivi nel periodo",
+        "why_wrong": "Il numero delle notti trascorse dai clienti corrisponde alle presenze, non agli arrivi."
       },
       {
         "id": "b",
-        "text": "Il numero di posti letto disponibili nel periodo",
-        "why_wrong": "È un dato di capacità ricettiva, non di movimento dei clienti."
+        "text": "Il numero di posti letto e di camere disponibili negli esercizi ricettivi nel periodo considerato",
+        "why_wrong": "Posti letto e camere sono un dato di capacità ricettiva, non di movimento dei clienti."
       },
       {
         "id": "c",
@@ -138,8 +141,8 @@
       },
       {
         "id": "d",
-        "text": "Il numero di persone che entrano nel territorio comunale, anche senza pernottare",
-        "why_wrong": "Le statistiche sul movimento negli esercizi ricettivi non rilevano i visitatori che non vi alloggiano."
+        "text": "Il numero di persone che entrano nel territorio comunale nel periodo considerato, anche senza pernottare",
+        "why_wrong": "Le statistiche sul movimento negli esercizi ricettivi non rilevano gli ingressi nel territorio né i visitatori che non vi alloggiano."
       }
     ],
     "correct": "c",
@@ -152,7 +155,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,23 +322,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il tasso lordo comprende anche i clienti che non pernottano",
-        "why_wrong": "Entrambi i tassi si calcolano sulle presenze, cioè sulle notti."
+        "text": "Il tasso lordo comprende anche i clienti che non pernottano, mentre quello netto soltanto i clienti che pernottano",
+        "why_wrong": "Entrambi i tassi si calcolano sulle presenze, cioè sulle notti; cambia il denominatore."
       },
       {
         "id": "b",
-        "text": "Il tasso netto si calcola sulle giornate di effettiva disponibilità dei posti letto, mentre quello lordo sull'intero periodo di riferimento",
+        "text": "Il tasso netto si calcola sulle giornate di effettiva disponibilità dei posti letto, quello lordo sull'intero periodo",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Il tasso netto si calcola sugli arrivi invece che sulle presenze",
-        "why_wrong": "Anche il tasso netto usa le presenze; cambia il denominatore."
+        "text": "Il tasso netto si calcola sugli arrivi invece che sulle presenze, mentre quello lordo sulle presenze dell'intero periodo",
+        "why_wrong": "Anche il tasso netto usa le presenze; cambia il denominatore, cioè le giornate di disponibilità dei posti letto."
       },
       {
         "id": "d",
-        "text": "Il tasso lordo riguarda solo gli esercizi alberghieri, quello netto solo gli extralberghieri",
-        "why_wrong": "La distinzione non dipende dal tipo di esercizio."
+        "text": "Il tasso lordo riguarda solo gli esercizi alberghieri, mentre quello netto soltanto gli esercizi extralberghieri",
+        "why_wrong": "La distinzione non dipende dal tipo di esercizio, ma dalle giornate considerate al denominatore."
       }
     ],
     "correct": "b",
@@ -347,7 +351,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -357,18 +362,18 @@
     "options": [
       {
         "id": "a",
-        "text": "Presenze e arrivi",
-        "why_wrong": "Questo rapporto dà la permanenza media."
+        "text": "Presenze e arrivi dei clienti nello stesso periodo",
+        "why_wrong": "Il rapporto tra presenze e arrivi dà la permanenza media, non l'occupazione delle camere."
       },
       {
         "id": "b",
-        "text": "Arrivi e popolazione residente",
-        "why_wrong": "Non è un indicatore di occupazione delle strutture."
+        "text": "Arrivi del periodo e popolazione residente nel Comune",
+        "why_wrong": "Il rapporto con la popolazione residente non è un indicatore di occupazione delle strutture."
       },
       {
         "id": "c",
-        "text": "Posti letto e camere disponibili",
-        "why_wrong": "È un dato sulla dimensione delle camere, non sul loro utilizzo."
+        "text": "Posti letto e camere disponibili nell'esercizio",
+        "why_wrong": "È un dato sulla dimensione delle camere (letti per camera), non sul loro utilizzo."
       },
       {
         "id": "d",
@@ -386,7 +391,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
