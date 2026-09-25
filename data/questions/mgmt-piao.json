@@ -1,0 +1,278 @@
+[
+  {
+    "id": "mg-piao-001",
+    "subject": "management-pubblico",
+    "question": "Un'amministrazione pubblica di cui all'art. 1, comma 2, del d.lgs. 165/2001 conta 120 dipendenti. Ai sensi dell'art. 6, comma 1, del d.l. 80/2021, è tenuta ad adottare il Piano integrato di attività e organizzazione (PIAO)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sì, entro il 31 gennaio di ogni anno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Sì, entro il 30 giugno di ogni anno",
+        "why_wrong": "Il 30 giugno 2022 era il termine previsto solo in sede di prima applicazione (art. 6, comma 6-bis); a regime il termine è il 31 gennaio."
+      },
+      {
+        "id": "c",
+        "text": "No, perché l'obbligo riguarda solo le amministrazioni con più di duecento dipendenti",
+        "why_wrong": "L'art. 6, comma 1, fissa la soglia a più di cinquanta dipendenti."
+      },
+      {
+        "id": "d",
+        "text": "Sì, entro il 31 marzo di ogni anno",
+        "why_wrong": "Il termine a regime è il 31 gennaio; il 31 marzo 2022 era il termine per l'adozione dei decreti attuativi (art. 6, comma 5)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 6, comma 1, obbliga le pubbliche amministrazioni di cui all'art. 1, comma 2, del d.lgs. 165/2001 con più di cinquanta dipendenti, escluse le scuole di ogni ordine e grado e le istituzioni educative, ad adottare il PIAO entro il 31 gennaio di ogni anno, nel rispetto delle discipline di settore e in particolare del d.lgs. 150/2009 e della L. 190/2012.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 1",
+        "text": "le pubbliche amministrazioni, con esclusione delle scuole di ogni ordine e grado e delle istituzioni educative, di cui all'articolo 1, comma 2,"
+      },
+      {
+        "ref": "art. 6, comma 1",
+        "text": "cinquanta dipendenti, entro il 31 gennaio di ogni anno adottano il Piano integrato di attività e organizzazione, di seguito denominato Piano"
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 1",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-piao-002",
+    "subject": "management-pubblico",
+    "question": "Ai sensi dell'art. 6 del d.l. 80/2021, il Piano integrato di attività e organizzazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha durata annuale ed è pubblicato entro il 30 giugno sul sito istituzionale",
+        "why_wrong": "Il Piano ha durata triennale (art. 6, comma 2) e va pubblicato entro il 31 gennaio (art. 6, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "ha durata triennale, è aggiornato annualmente ed è pubblicato, con i relativi aggiornamenti, entro il 31 gennaio sul sito istituzionale e inviato al Dipartimento della funzione pubblica",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "ha durata triennale ed è trasmesso entro il 31 gennaio all'Autorità nazionale anticorruzione per l'approvazione",
+        "why_wrong": "L'art. 6, comma 4, prevede l'invio al Dipartimento della funzione pubblica per la pubblicazione sul relativo portale, non l'approvazione dell'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "ha durata quinquennale ed è aggiornato ogni tre anni",
+        "why_wrong": "L'art. 6, comma 2, stabilisce durata triennale e aggiornamento annuale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il PIAO ha durata triennale e viene aggiornato annualmente (art. 6, comma 2). Le amministrazioni lo pubblicano, insieme ai relativi aggiornamenti, entro il 31 gennaio di ogni anno sul proprio sito istituzionale e lo inviano al Dipartimento della funzione pubblica per la pubblicazione sul relativo portale (art. 6, comma 4).",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 2",
+        "text": "Il Piano ha durata triennale, viene aggiornato annualmente e definisce:"
+      },
+      {
+        "ref": "art. 6, comma 4",
+        "text": "Le pubbliche amministrazioni di cui al comma 1 del presente articolo pubblicano il Piano e i relativi aggiornamenti entro il 31 gennaio di ogni anno nel proprio sito internet istituzionale e li inviano al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri per la pubblicazione sul relativo portale."
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 2",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-piao-003",
+    "subject": "management-pubblico",
+    "question": "Un ente deve inserire nel proprio PIAO la parte dedicata alla semplificazione. In base all'art. 6, comma 2, lett. e), del d.l. 80/2021, il Piano definisce:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'elenco delle procedure da semplificare e reingegnerizzare ogni anno, anche mediante il ricorso alla tecnologia e sulla base della consultazione degli utenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "gli strumenti e le fasi per giungere alla piena trasparenza dei risultati dell'attività e dell'organizzazione amministrativa",
+        "why_wrong": "È il contenuto della lett. d), dedicata alla trasparenza e al contrasto alla corruzione."
+      },
+      {
+        "id": "c",
+        "text": "il fabbisogno di personale per la transizione digitale e l'innovazione tecnologica",
+        "why_wrong": "È il contenuto della lett. c-bis), relativa al fabbisogno di personale."
+      },
+      {
+        "id": "d",
+        "text": "le modalità e le azioni per la piena accessibilità, fisica e digitale, dei cittadini ultrasessantacinquenni e con disabilità",
+        "why_wrong": "È il contenuto della lett. f), relativa all'accessibilità."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 6, comma 2, lett. e), prevede che il PIAO definisca l'elenco delle procedure da semplificare e reingegnerizzare ogni anno, anche mediante il ricorso alla tecnologia e sulla base della consultazione degli utenti, nonché la pianificazione delle attività, inclusa la graduale misurazione dei tempi effettivi di completamento delle procedure con strumenti automatizzati.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 2",
+        "text": "e) l'elenco delle procedure da semplificare e reingegnerizzare ogni anno, anche mediante il ricorso alla tecnologia e sulla base della consultazione degli utenti, nonché la pianificazione delle attività inclusa la graduale misurazione dei tempi effettivi di completamento delle procedure effettuata attraverso strumenti automatizzati;"
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 2",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-piao-004",
+    "subject": "management-pubblico",
+    "question": "Secondo l'art. 6 del d.l. 80/2021, con quale atto sono individuati e abrogati gli adempimenti relativi ai piani assorbiti dal PIAO?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Con decreto del Ministro per la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze",
+        "why_wrong": "È l'atto con cui è adottato il Piano tipo (art. 6, comma 6), non quello che abroga gli adempimenti dei piani assorbiti."
+      },
+      {
+        "id": "b",
+        "text": "Con delibera dell'Autorità nazionale anticorruzione nell'ambito del Piano nazionale anticorruzione",
+        "why_wrong": "Il Piano nazionale anticorruzione è richiamato solo per gli indirizzi in materia di trasparenza e anticorruzione (art. 6, comma 2, lett. d))."
+      },
+      {
+        "id": "c",
+        "text": "Con uno o più decreti del Presidente della Repubblica, previa intesa in sede di Conferenza unificata",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Con decreto del Ministro per la pubblica amministrazione, sentito l'Osservatorio nazionale del lavoro pubblico",
+        "why_wrong": "L'Osservatorio ha compiti di promozione e monitoraggio (art. 6, comma 8-bis); il decreto del Ministro ne definisce composizione e funzionamento."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 6, comma 5, affida a uno o più decreti del Presidente della Repubblica, adottati ai sensi dell'art. 17, comma 2, della L. 400/1988 previa intesa in Conferenza unificata, il compito di individuare e abrogare gli adempimenti relativi ai piani assorbiti dal PIAO. Il Piano tipo, invece, è adottato con decreto del Ministro per la pubblica amministrazione di concerto con il Ministro dell'economia e delle finanze (comma 6).",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 5",
+        "text": "Entro il 31 marzo 2022, con uno o più decreti del Presidente della Repubblica, adottati ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400"
+      },
+      {
+        "ref": "art. 6, comma 5",
+        "text": "sono individuati e abrogati gli adempimenti relativi ai piani assorbiti da quello di cui al presente articolo."
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 5",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-piao-005",
+    "subject": "management-pubblico",
+    "question": "Un Comune con 30 dipendenti chiede come adempiere alla disciplina del PIAO. Secondo l'art. 6 del d.l. 80/2021:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è escluso da ogni previsione in materia di PIAO, come le scuole",
+        "why_wrong": "L'esclusione espressa riguarda le scuole e le istituzioni educative (art. 6, comma 1); per le amministrazioni con meno di cinquanta dipendenti il Piano tipo prevede modalità semplificate."
+      },
+      {
+        "id": "b",
+        "text": "adotta il PIAO con le stesse modalità previste per le amministrazioni con più di cinquanta dipendenti",
+        "why_wrong": "L'art. 6, comma 6, prevede per le amministrazioni con meno di cinquanta dipendenti modalità semplificate."
+      },
+      {
+        "id": "c",
+        "text": "per esso il Piano tipo definisce modalità semplificate per l'adozione del Piano",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "deve obbligatoriamente individuare un dirigente per l'accessibilità, senza possibilità di gestione associata",
+        "why_wrong": "Per le amministrazioni con meno di cinquanta dipendenti l'applicazione del comma 2-bis è eventuale e può avvenire anche in forma associata (art. 6, comma 2-ter)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 6, comma 6, prevede che nel Piano tipo, adottato con decreto del Ministro per la pubblica amministrazione di concerto con il Ministro dell'economia e delle finanze, siano definite modalità semplificate per l'adozione del Piano da parte delle amministrazioni con meno di cinquanta dipendenti.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 6",
+        "text": "Nel Piano tipo sono definite modalità semplificate per l'adozione del Piano di cui al comma 1 da parte delle amministrazioni con meno di cinquanta dipendenti."
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 6",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-piao-006",
+    "subject": "management-pubblico",
+    "question": "Il termine per l'approvazione del bilancio di un Comune è stato differito e il PIAO non è ancora approvato. Ai sensi dell'art. 6, comma 7, del d.l. 80/2021, nelle more dell'approvazione del Piano il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può aggiornare alcuna sezione del Piano fino all'approvazione del bilancio",
+        "why_wrong": "Il comma 7 consente di aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale."
+      },
+      {
+        "id": "b",
+        "text": "può aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale al solo fine di procedere ad assunzioni con contratto a tempo determinato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "può aggiornare la sottosezione del fabbisogno di personale per procedere ad assunzioni a tempo indeterminato senza limiti",
+        "why_wrong": "Il comma 7 consente l'aggiornamento al solo fine di assunzioni con contratto a tempo determinato, compatibilmente con gli stanziamenti di bilancio."
+      },
+      {
+        "id": "d",
+        "text": "può aggiornare la sezione relativa all'anticorruzione al solo fine di recepire il Piano nazionale anticorruzione",
+        "why_wrong": "Il comma 7 riguarda soltanto la sottosezione relativa alla programmazione del fabbisogno di personale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 6, comma 7, stabilisce che, in caso di differimento del termine per l'approvazione del bilancio, gli enti locali, nelle more dell'approvazione del Piano, possono aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale al solo fine di procedere ad assunzioni con contratto a tempo determinato, compatibilmente con gli stanziamenti di bilancio e nel rispetto delle regole sugli impegni di spesa durante l'esercizio provvisorio.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 7",
+        "text": "In caso di differimento del termine previsto a legislazione vigente per l'approvazione del bilancio, gli enti locali, nelle more dell'approvazione del Piano, possono aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale al solo fine di procedere, compatibilmente con gli stanziamenti di bilancio e nel rispetto delle regole per l'assunzione degli impegni di spesa durante l'esercizio provvisorio, alle assunzioni di personale con contratto di lavoro a tempo determinato"
+      }
+    ],
+    "source": {
+      "act": "D.L. 80/2021",
+      "article": "art. 6, comma 7",
+      "file": "sources/DECRETO-LEGGE 9 giugno 2021 , n. 80.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
