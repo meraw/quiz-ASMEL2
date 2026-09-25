@@ -110,8 +110,8 @@
       },
       {
         "id": "d",
-        "text": "di controllo delle regioni sugli atti e sull'attività informativa degli enti locali del proprio territorio, anche in forma associata, di cui all'art. 117, quarto comma, della Costituzione",
-        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale (art. 117, secondo comma, lettera r)."
+        "text": "di disciplina degli organi di governo e delle funzioni fondamentali di Comuni, Province e Città metropolitane, di cui all'art. 117, secondo comma, lettera p), della Costituzione",
+        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati (art. 117, secondo comma, lettera r), non la lettera p) relativa a organi di governo e funzioni fondamentali degli enti locali."
       }
     ],
     "correct": "a",

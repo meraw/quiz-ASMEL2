@@ -55,17 +55,17 @@
       },
       {
         "id": "b",
-        "text": "svolta da un dipendente pubblico, qualunque siano le mansioni che esercita",
-        "why_wrong": "L'art. 357 definisce la funzione in base alla disciplina e ai poteri esercitati, non alla qualità di dipendente pubblico."
+        "text": "svolta da un dipendente pubblico, qualunque siano le mansioni che esercita, anche se consistenti in semplici mansioni di ordine o nella prestazione di opera meramente materiale, e a prescindere dalle norme che la disciplinano",
+        "why_wrong": "L'art. 357, secondo comma, definisce la funzione in base alla disciplina di diritto pubblico e ai poteri esercitati, non alla qualità di dipendente pubblico."
       },
       {
         "id": "c",
-        "text": "disciplinata da norme di diritto privato, purché svolta nell'interesse della collettività",
-        "why_wrong": "L'art. 357 richiede che la funzione sia disciplinata da norme di diritto pubblico e da atti autoritativi."
+        "text": "disciplinata da norme di diritto privato e da atti negoziali e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione, purché svolta nell'interesse della collettività",
+        "why_wrong": "L'art. 357, secondo comma, richiede che la funzione sia disciplinata da norme di diritto pubblico e da atti autoritativi."
       },
       {
         "id": "d",
-        "text": "disciplinata nelle stesse forme della pubblica funzione, ma priva dei poteri tipici di questa",
+        "text": "disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di questa ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale",
         "why_wrong": "È la definizione di pubblico servizio data dall'art. 358, secondo comma."
       }
     ],
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

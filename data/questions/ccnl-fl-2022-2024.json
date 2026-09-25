@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "mediante concorso pubblico riservato interamente al personale interno",
-        "why_wrong": "Il comma 1 prevede una procedura comparativa e fa salva una riserva di almeno il 50 per cento delle posizioni per l'accesso dall'esterno."
+        "text": "mediante concorso pubblico interamente riservato al personale interno, senza alcuna quota di posizioni destinata all'accesso dall'esterno",
+        "why_wrong": "Il comma 1 prevede una procedura comparativa e fa salva una riserva di almeno il 50 per cento delle posizioni disponibili per l'accesso dall'esterno."
       },
       {
         "id": "b",
-        "text": "tramite procedura comparativa, fatta salva una riserva di almeno il 50 per cento delle posizioni disponibili destinata all'accesso dall'esterno",
+        "text": "tramite procedura comparativa, fatta salva una riserva di almeno il 50 per cento delle posizioni disponibili per l'accesso dall'esterno",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "sulla base della sola anzianità di servizio nell'area di provenienza",
-        "why_wrong": "Il comma 1 indica come criteri la valutazione degli ultimi tre anni, l'assenza di provvedimenti disciplinari, i titoli e gli incarichi, non la sola anzianità."
+        "text": "tramite procedura comparativa basata sulla sola anzianità di servizio nell'area di provenienza, senza riserva di posizioni per l'esterno",
+        "why_wrong": "Il comma 1 indica come criteri la valutazione degli ultimi tre anni, l'assenza di provvedimenti disciplinari, i titoli e gli incarichi, e fa salva una riserva di almeno il 50 per cento per l'accesso dall'esterno."
       },
       {
         "id": "d",
-        "text": "tramite procedura comparativa, con una riserva di almeno il 30 per cento dei posti per l'accesso dall'esterno",
-        "why_wrong": "La riserva per l'accesso dall'esterno è di almeno il 50 per cento."
+        "text": "tramite procedura comparativa, fatta salva una riserva di almeno il 30 per cento delle posizioni disponibili destinata all'accesso dall'esterno",
+        "why_wrong": "Il comma 1 fissa la riserva per l'accesso dall'esterno in almeno il 50 per cento delle posizioni disponibili."
       }
     ],
     "correct": "b",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -50,13 +51,13 @@
     "options": [
       {
         "id": "a",
-        "text": "deve sempre svolgere il periodo di prova nella nuova area",
+        "text": "deve sempre svolgere il periodo di prova nella nuova area, ma conserva le giornate di ferie maturate e non fruite",
         "why_wrong": "Il comma 2 prevede l'esonero dal periodo di prova, con il consenso del dipendente."
       },
       {
         "id": "b",
-        "text": "perde le giornate di ferie maturate e non fruite nell'area di provenienza",
-        "why_wrong": "Il comma 2 stabilisce che il dipendente conserva le ferie maturate e non fruite."
+        "text": "è esonerato dal periodo di prova, con il suo consenso, ma perde le giornate di ferie maturate e non fruite",
+        "why_wrong": "Il comma 2 stabilisce che il dipendente conserva le giornate di ferie maturate e non fruite."
       },
       {
         "id": "c",
@@ -65,7 +66,7 @@
       },
       {
         "id": "d",
-        "text": "è esonerato dal periodo di prova solo se ha più di dieci anni di servizio",
+        "text": "è esonerato dal periodo di prova solo se ha più di dieci anni di servizio e conserva le ferie maturate e non fruite",
         "why_wrong": "Il comma 2 non prevede requisiti di anzianità per l'esonero: occorre il consenso del dipendente."
       }
     ],
@@ -84,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,23 +96,23 @@
     "options": [
       {
         "id": "a",
-        "text": "si configura come progressione economica all'interno dell'area, non determina l'attribuzione di mansioni superiori e avviene mediante procedura selettiva di area",
+        "text": "è una progressione economica all'interno dell'area, non determina l'attribuzione di mansioni superiori e avviene con procedura selettiva di area",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "comporta il passaggio all'area immediatamente superiore",
-        "why_wrong": "Il comma 2 la qualifica come progressione economica all'interno dell'area, senza mansioni superiori."
+        "text": "è una progressione tra le aree, comporta il passaggio all'area immediatamente superiore e avviene tramite procedura comparativa",
+        "why_wrong": "Il comma 2 la qualifica come progressione economica all'interno dell'area, senza mansioni superiori; la procedura comparativa riguarda le progressioni tra le aree (art. 13)."
       },
       {
         "id": "c",
-        "text": "è automatica al compimento di tre anni di servizio",
-        "why_wrong": "Il comma 2 prevede una procedura selettiva, con graduatoria basata su valutazioni, esperienza e altri criteri."
+        "text": "è una progressione economica all'interno dell'area, attribuita automaticamente dopo tre anni di servizio senza alcuna procedura selettiva",
+        "why_wrong": "Il comma 2 prevede una procedura selettiva di area, con graduatoria basata su valutazioni, esperienza professionale e ulteriori criteri."
       },
       {
         "id": "d",
-        "text": "consente di attribuire più differenziali allo stesso dipendente in una sola procedura",
-        "why_wrong": "La lett. c) esclude l'attribuzione di più di un differenziale per dipendente in ciascuna procedura selettiva."
+        "text": "è una progressione economica all'interno dell'area, avviene con procedura selettiva e consente più differenziali allo stesso dipendente in una sola procedura",
+        "why_wrong": "La lett. c) del comma 2 esclude l'attribuzione di più di un differenziale stipendiale per dipendente in ciascuna procedura selettiva."
       }
     ],
     "correct": "a",
@@ -128,7 +130,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -138,22 +141,22 @@
     "options": [
       {
         "id": "a",
-        "text": "L'articolazione su quattro giorni si applica obbligatoriamente a tutto il personale dell'ufficio interessato",
+        "text": "L'articolazione su quattro giorni è obbligatoria per tutto il personale dell'ufficio e comporta il riproporzionamento delle ferie annue",
         "why_wrong": "Il comma 2 stabilisce che l'adesione del lavoratore è volontaria."
       },
       {
         "id": "b",
-        "text": "L'articolazione su quattro giorni non incide sul numero delle giornate di ferie annue",
-        "why_wrong": "Il comma 3 prevede il riproporzionamento delle giornate di ferie annue."
+        "text": "L'adesione è volontaria e l'articolazione su quattro giorni non incide sul numero delle giornate di ferie annue né sulle altre assenze",
+        "why_wrong": "Il comma 3 prevede il riproporzionamento delle giornate di ferie annue e delle altre assenze giornaliere."
       },
       {
         "id": "c",
-        "text": "Comporta il riproporzionamento di tutte le assenze giornaliere, compreso il permesso per matrimonio",
+        "text": "L'adesione è volontaria; ferie e altre assenze giornaliere sono riproporzionate, compreso il permesso per matrimonio",
         "why_wrong": "Il comma 3 fa salvo il permesso per matrimonio dal riproporzionamento."
       },
       {
         "id": "d",
-        "text": "L'adesione del lavoratore è volontaria e comporta il riproporzionamento delle ferie e delle altre assenze giornaliere, fatto salvo il permesso per matrimonio",
+        "text": "L'adesione è volontaria; ferie e altre assenze giornaliere sono riproporzionate, fatto salvo il permesso per matrimonio",
         "why_wrong": null
       }
     ],
@@ -176,7 +179,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -186,13 +190,13 @@
     "options": [
       {
         "id": "a",
-        "text": "entro la fine della settimana in cui è maturato",
+        "text": "entro la fine della settimana di maturazione, secondo le modalità e i tempi concordati con il dirigente",
         "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione."
       },
       {
         "id": "b",
-        "text": "entro il mese successivo, secondo le modalità decise unilateralmente dal dipendente",
-        "why_wrong": "Il comma 3 prevede due mesi e modalità e tempi concordati con il dirigente."
+        "text": "entro il mese successivo alla maturazione, secondo le modalità e i tempi decisi unilateralmente dal dipendente",
+        "why_wrong": "Il comma 3 prevede i due mesi successivi alla maturazione e modalità e tempi concordati con il dirigente."
       },
       {
         "id": "c",
@@ -201,8 +205,8 @@
       },
       {
         "id": "d",
-        "text": "entro il 31 dicembre dell'anno di maturazione",
-        "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione."
+        "text": "entro il 31 dicembre dell'anno di maturazione, secondo le modalità e i tempi stabiliti dalla contrattazione integrativa",
+        "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione, con modalità e tempi concordati con il dirigente."
       }
     ],
     "correct": "c",
@@ -220,7 +224,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -230,23 +235,23 @@
     "options": [
       {
         "id": "a",
-        "text": "all'interno di ogni periodo di 24 ore deve essere garantito un riposo di almeno 8 ore consecutive",
+        "text": "va garantito un riposo di almeno 8 ore consecutive ogni 24 ore e, salvo eccezioni o diversa previsione integrativa, non si possono superare 10 turni notturni al mese",
         "why_wrong": "La lett. c) del comma 3 richiede almeno 11 ore consecutive di riposo."
       },
       {
         "id": "b",
-        "text": "all'interno di ogni periodo di 24 ore deve essere garantito un riposo di almeno 11 ore consecutive e, salvo esigenze eccezionali o diversa previsione integrativa, i turni notturni nel mese non possono essere più di 10",
+        "text": "va garantito un riposo di almeno 11 ore consecutive ogni 24 ore e, salvo eccezioni o diversa previsione integrativa, non si possono superare 10 turni notturni al mese",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "per turno notturno si intende il periodo compreso tra le ore 20 e le ore 8 del giorno successivo",
+        "text": "va garantito un riposo di almeno 11 ore consecutive ogni 24 ore e per turno notturno si intende il periodo tra le ore 20 e le ore 8 del giorno successivo",
         "why_wrong": "La lett. e) del comma 3 definisce turno notturno il periodo dalle ore 22 alle ore 6 del giorno successivo."
       },
       {
         "id": "d",
-        "text": "il numero dei turni notturni nel mese non è soggetto ad alcun limite",
-        "why_wrong": "Il comma 4 fissa il limite di 10 turni notturni al mese, salvo eccezioni o diversa previsione della contrattazione integrativa."
+        "text": "va garantito un riposo di almeno 11 ore consecutive ogni 24 ore, mentre il numero dei turni notturni effettuabili nel mese da ciascun dipendente non è soggetto ad alcun limite",
+        "why_wrong": "Il comma 4 fissa il limite di 10 turni notturni al mese, salvo esigenze eccezionali o diversa previsione della contrattazione integrativa."
       }
     ],
     "correct": "b",
@@ -268,7 +273,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -278,23 +284,23 @@
     "options": [
       {
         "id": "a",
-        "text": "28 giorni lavorativi di ferie fin dal primo anno",
-        "why_wrong": "I 28 giorni spettano dopo tre anni di servizio; ai neoassunti su cinque giorni ne spettano 26 (commi 4 e 5)."
+        "text": "28 giorni lavorativi fin dal primo anno, che diventano 32 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione",
+        "why_wrong": "Ai neoassunti con orario su cinque giorni spettano 26 giorni (comma 4); i 28 giorni spettano dopo tre anni di servizio (commi 2 e 5)."
       },
       {
         "id": "b",
-        "text": "30 giorni lavorativi di ferie",
-        "why_wrong": "Trenta giorni spettano ai neoassunti con orario su sei giorni."
+        "text": "30 giorni lavorativi, che diventano 32 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione",
+        "why_wrong": "Trenta giorni spettano ai neoassunti con orario su sei giorni (comma 4); su cinque giorni ne spettano 26."
       },
       {
         "id": "c",
-        "text": "26 giorni lavorativi di ferie, che diventano 28 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione",
+        "text": "26 giorni lavorativi, che diventano 28 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "32 giorni di ferie",
-        "why_wrong": "Trentadue giorni spettano al personale non neoassunto con orario su sei giorni (comma 3)."
+        "text": "26 giorni lavorativi, che diventano 28 solo dopo cinque anni di servizio presso la medesima amministrazione",
+        "why_wrong": "Il comma 5 riconosce i giorni dei commi 2 e 3 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione."
       }
     ],
     "correct": "c",
@@ -316,7 +322,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -459,22 +466,22 @@
     "options": [
       {
         "id": "a",
-        "text": "sono pari a 36 ore annue e non incidono sul periodo di comporto",
+        "text": "spettano nel limite di 36 ore annue, comprensive dei tempi di percorrenza, e non sono computati ai fini del periodo di comporto",
         "why_wrong": "Il comma 1 prevede 18 ore annue e il comma 2 li assimila alle assenze per malattia ai fini del comporto."
       },
       {
         "id": "b",
-        "text": "sono pari a 18 ore annue, esclusi i tempi di percorrenza",
+        "text": "spettano nel limite di 18 ore annue, esclusi i tempi di percorrenza, e sono assimilati alle assenze per malattia ai fini del comporto",
         "why_wrong": "Il comma 1 comprende nelle 18 ore anche i tempi di percorrenza."
       },
       {
         "id": "c",
-        "text": "richiedono sempre una domanda presentata con almeno dieci giorni di preavviso",
-        "why_wrong": "Il comma 8 prevede un preavviso di almeno tre giorni, riducibile nei casi urgenti."
+        "text": "spettano nel limite di 18 ore annue, comprensive dei tempi di percorrenza, e richiedono sempre una domanda con preavviso di almeno dieci giorni",
+        "why_wrong": "Il comma 8 prevede un preavviso di almeno tre giorni, riducibile nei casi di particolare e comprovata urgenza o necessità."
       },
       {
         "id": "d",
-        "text": "sono riconosciuti nella misura massima di 18 ore annuali, comprensive dei tempi di percorrenza, e sono assimilati alle assenze per malattia ai fini del computo del periodo di comporto",
+        "text": "spettano nel limite di 18 ore annue, comprensive dei tempi di percorrenza, e sono assimilati alle assenze per malattia ai fini del comporto",
         "why_wrong": null
       }
     ],
@@ -497,7 +504,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -507,12 +515,12 @@
     "options": [
       {
         "id": "a",
-        "text": "le attività svolte dal personale a tempo determinato",
-        "why_wrong": "Il comma 1 consente il lavoro agile a tutti i lavoratori, a tempo indeterminato o determinato."
+        "text": "le attività svolte dal personale assunto con contratto di lavoro a tempo determinato",
+        "why_wrong": "Il comma 1 consente il lavoro agile a tutti i lavoratori, assunti a tempo indeterminato o determinato."
       },
       {
         "id": "b",
-        "text": "le attività svolte dal personale a tempo parziale",
+        "text": "le attività svolte dal personale con rapporto di lavoro a tempo parziale anziché a tempo pieno",
         "why_wrong": "Il comma 1 consente il lavoro agile sia ai lavoratori a tempo pieno sia a quelli a tempo parziale."
       },
       {
@@ -522,8 +530,8 @@
       },
       {
         "id": "d",
-        "text": "tutte le attività che comportano rapporti con il pubblico",
-        "why_wrong": "Il comma 2 esclude solo i lavori in turno e quelli con uso costante di strumentazioni non remotizzabili."
+        "text": "i lavori in turno e tutte le attività che comportano rapporti diretti e continuativi con il pubblico",
+        "why_wrong": "Il comma 2 esclude solo i lavori in turno e quelli che richiedono l'utilizzo costante di strumentazioni non remotizzabili."
       }
     ],
     "correct": "c",
@@ -541,7 +549,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -551,18 +560,18 @@
     "options": [
       {
         "id": "a",
-        "text": "il dipendente è tenuto a rispondere, perché in lavoro agile non vi sono limiti di orario",
-        "why_wrong": "Il comma 1, lett. b), prevede una fascia di inoperabilità in cui non può essere erogata alcuna prestazione."
+        "text": "il dipendente è tenuto a rispondere, perché nel lavoro agile la fascia di contattabilità copre l'intera giornata, anche oltre l'orario medio giornaliero di lavoro",
+        "why_wrong": "Il comma 1, lett. a), stabilisce che la fascia di contattabilità non può superare l'orario medio giornaliero; la lett. b) prevede una fascia di inoperabilità."
       },
       {
         "id": "b",
-        "text": "la fascia tra le ore 22 e le ore 6 rientra nella fascia di inoperabilità, nella quale il lavoratore non può erogare alcuna prestazione lavorativa, e il lavoratore ha diritto alla disconnessione",
+        "text": "la fascia tra le ore 22 e le ore 6 è di inoperabilità, nella quale non può essere erogata alcuna prestazione, e il lavoratore ha diritto alla disconnessione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "il dipendente può rispondere e le ore sono retribuite come lavoro straordinario",
-        "why_wrong": "Il comma 3 esclude il lavoro straordinario nelle giornate in modalità agile."
+        "text": "la fascia tra le ore 22 e le ore 6 è di contattabilità e l'eventuale attività prestata è retribuita come lavoro straordinario",
+        "why_wrong": "Il comma 1, lett. b), include la fascia 22-6 nella fascia di inoperabilità e il comma 3 esclude il lavoro straordinario nelle giornate in modalità agile."
       },
       {
         "id": "d",
@@ -589,7 +598,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -643,22 +653,22 @@
     "options": [
       {
         "id": "a",
-        "text": "conserva il diritto all'intera retribuzione fino alla sentenza definitiva",
-        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio con privazione della retribuzione."
+        "text": "conserva il servizio e l'intera retribuzione fino alla sentenza penale definitiva di condanna",
+        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio dal servizio con privazione della retribuzione."
       },
       {
         "id": "b",
-        "text": "può essere sospeso solo al termine del procedimento disciplinare",
-        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio per la durata dello stato restrittivo."
+        "text": "può essere sospeso dal servizio solo se l'ente dispone la sospensione del procedimento disciplinare fino al termine di quello penale",
+        "why_wrong": "Questa ipotesi è prevista dal comma 2 per il procedimento penale senza restrizione della libertà; il comma 1 prevede la sospensione d'ufficio per la durata dello stato restrittivo."
       },
       {
         "id": "c",
-        "text": "è licenziato senza preavviso",
-        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio, non il licenziamento."
+        "text": "è licenziato senza preavviso a decorrere dall'inizio dello stato restrittivo della libertà personale",
+        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio dal servizio, non il licenziamento."
       },
       {
         "id": "d",
-        "text": "è sospeso d'ufficio dal servizio con privazione della retribuzione per la durata dello stato di detenzione o comunque dello stato restrittivo della libertà",
+        "text": "è sospeso d'ufficio dal servizio con privazione della retribuzione per la durata dello stato restrittivo della libertà",
         "why_wrong": null
       }
     ],
@@ -677,7 +687,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

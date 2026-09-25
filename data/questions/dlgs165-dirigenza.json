@@ -95,22 +95,22 @@
     "options": [
       {
         "id": "a",
-        "text": "può essere conferita a tempo indeterminato e anche in forma orale",
+        "text": "richiede specifiche ragioni di servizio, può essere conferita a tempo indeterminato e anche in forma orale e non comporta l'applicazione dell'art. 2103 c.c.",
         "why_wrong": "Il comma 1-bis richiede un periodo di tempo determinato e un atto scritto e motivato."
       },
       {
         "id": "b",
-        "text": "comporta l'applicazione dell'art. 2103 del codice civile e il diritto alle mansioni superiori",
+        "text": "richiede specifiche e comprovate ragioni di servizio, è conferita con atto scritto e motivato e comporta l'applicazione dell'art. 2103 c.c. con diritto alle mansioni superiori",
         "why_wrong": "Il comma 1-bis esclude in ogni caso l'applicazione dell'art. 2103 del codice civile."
       },
       {
         "id": "c",
-        "text": "può essere conferita a qualsiasi dipendente dell'ufficio, indipendentemente dalla posizione",
-        "why_wrong": "Il comma 1-bis limita la delega ai dipendenti che ricoprono le posizioni funzionali più elevate."
+        "text": "è conferita con atto scritto e motivato, per un periodo determinato, a qualsiasi dipendente dell'ufficio, indipendentemente dalla posizione funzionale ricoperta",
+        "why_wrong": "Il comma 1-bis limita la delega ai dipendenti che ricoprono le posizioni funzionali più elevate nell'ambito degli uffici affidati al dirigente."
       },
       {
         "id": "d",
-        "text": "richiede specifiche e comprovate ragioni di servizio, è conferita per un periodo determinato con atto scritto e motivato e non comporta l'applicazione dell'art. 2103 del codice civile",
+        "text": "richiede specifiche e comprovate ragioni di servizio, è conferita per un periodo determinato con atto scritto e motivato e non comporta l'applicazione dell'art. 2103 c.c.",
         "why_wrong": null
       }
     ],
@@ -129,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -227,23 +228,23 @@
     "options": [
       {
         "id": "a",
-        "text": "è sempre pari a cinque anni e gli incarichi non sono rinnovabili",
-        "why_wrong": "Il comma 2 prevede una durata tra tre e cinque anni e stabilisce che gli incarichi sono rinnovabili."
+        "text": "è sempre pari a cinque anni, anche quando l'interessato raggiunga prima il limite di età per il collocamento a riposo, e gli incarichi non sono rinnovabili",
+        "why_wrong": "Il comma 2 prevede una durata tra tre e cinque anni, ammette una durata inferiore se coincide con il limite di età per il collocamento a riposo e stabilisce che gli incarichi sono rinnovabili."
       },
       {
         "id": "b",
-        "text": "non può essere inferiore a due anni né superiore a sette anni",
+        "text": "non può essere inferiore a due anni né eccedere il termine di sette anni, salvo che la minore durata coincida con il raggiungimento del limite di età per il collocamento a riposo",
         "why_wrong": "Il comma 2 fissa i limiti in tre e cinque anni."
       },
       {
         "id": "c",
-        "text": "non può essere inferiore a tre anni né eccedere il termine di cinque anni, salvo che la minore durata coincida con il raggiungimento del limite di età per il collocamento a riposo",
+        "text": "non può essere inferiore a tre anni né eccedere cinque anni, salvo che la minore durata coincida con il raggiungimento del limite di età per il collocamento a riposo",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "è liberamente determinata dall'organo di vertice, purché non superi la durata del mandato del Governo",
-        "why_wrong": "Il comma 2 lega la durata agli obiettivi, entro il minimo di tre e il massimo di cinque anni."
+        "text": "è liberamente determinata dall'organo di vertice in relazione agli obiettivi prefissati, purché non superi la durata del mandato del Governo in carica",
+        "why_wrong": "Il comma 2 lega la durata agli obiettivi, entro il minimo di tre e il massimo di cinque anni; il limite del mandato riguarda solo il sindaco per gli incarichi degli enti locali."
       }
     ],
     "correct": "c",
@@ -261,7 +262,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -271,17 +273,17 @@
     "options": [
       {
         "id": "a",
-        "text": "deve essere comunque di almeno tre anni",
-        "why_wrong": "Il comma 2 prevede per gli enti locali che la durata non superi quella del mandato del sindaco in carica."
+        "text": "deve essere comunque di almeno tre anni, anche se eccede la durata del mandato del sindaco in carica",
+        "why_wrong": "Il comma 2 prevede per gli enti locali che la durata non superi quella del mandato del sindaco in carica alla data del conferimento."
       },
       {
         "id": "b",
-        "text": "non può superare un anno, rinnovabile",
-        "why_wrong": "Il comma 2 non fissa un limite annuale, ma lo collega al mandato del sindaco."
+        "text": "non può superare un anno, rinnovabile, indipendentemente dalla durata residua del mandato del sindaco",
+        "why_wrong": "Il comma 2 non fissa un limite annuale, ma lo collega al mandato del sindaco in carica alla data del conferimento."
       },
       {
         "id": "c",
-        "text": "coincide sempre con cinque anni dalla data del conferimento",
+        "text": "è pari a cinque anni dalla data del conferimento, indipendentemente dalla scadenza del mandato del sindaco",
         "why_wrong": "Il comma 2 fissa come limite massimo la durata del mandato del sindaco in carica alla data del conferimento."
       },
       {
@@ -309,7 +311,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -363,8 +366,8 @@
     "options": [
       {
         "id": "a",
-        "text": "in qualsiasi momento, per scelta fiduciaria dell'organo di governo",
-        "why_wrong": "Il comma 1-ter ammette la revoca esclusivamente nei casi e con le modalità dell'art. 21, comma 1, secondo periodo."
+        "text": "in qualsiasi momento, per scelta fiduciaria dell'organo di governo, anche in assenza di previa contestazione",
+        "why_wrong": "Il comma 1-ter ammette la revoca esclusivamente nei casi e con le modalità dell'art. 21, comma 1, secondo periodo, che richiede la previa contestazione."
       },
       {
         "id": "b",
@@ -373,12 +376,12 @@
       },
       {
         "id": "c",
-        "text": "solo con il consenso del dirigente interessato",
-        "why_wrong": "Il comma 1-ter rinvia all'art. 21, comma 1; il consenso riguarda la risoluzione consensuale del rapporto prevista dal comma 2."
+        "text": "solo con il consenso del dirigente interessato, nella forma della risoluzione consensuale del rapporto",
+        "why_wrong": "Il comma 1-ter rinvia all'art. 21, comma 1; la risoluzione consensuale del rapporto è prevista distintamente dal comma 2."
       },
       {
         "id": "d",
-        "text": "automaticamente in caso di cambio dell'organo di vertice",
+        "text": "automaticamente in caso di cambio dell'organo di vertice che ha conferito l'incarico dirigenziale",
         "why_wrong": "Il comma 1-ter limita la revoca ai casi dell'art. 21, comma 1, secondo periodo."
       }
     ],
@@ -397,7 +400,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -452,22 +456,22 @@
     "options": [
       {
         "id": "a",
-        "text": "l'incarico è revocato di diritto",
-        "why_wrong": "Il comma 1-bis prevede la decurtazione della retribuzione di risultato, non la revoca di diritto."
+        "text": "l'incarico è revocato di diritto, sentito il Comitato dei garanti, con collocamento del dirigente a disposizione dei ruoli",
+        "why_wrong": "Il comma 1-bis prevede la decurtazione della retribuzione di risultato; la revoca con collocamento a disposizione dei ruoli è prevista dal comma 1 nei casi gravi."
       },
       {
         "id": "b",
-        "text": "la retribuzione di posizione è decurtata fino al cinquanta per cento",
+        "text": "la retribuzione di posizione è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, di una quota fino al cinquanta per cento",
         "why_wrong": "Il comma 1-bis riguarda la retribuzione di risultato e fissa il limite all'ottanta per cento."
       },
       {
         "id": "c",
-        "text": "il dirigente è collocato a disposizione dei ruoli senza ulteriori conseguenze economiche",
+        "text": "il dirigente è collocato a disposizione dei ruoli, sentito il Comitato dei garanti, senza alcuna decurtazione della retribuzione di risultato",
         "why_wrong": "Il collocamento a disposizione dei ruoli è previsto dal comma 1 per la revoca nei casi gravi; il comma 1-bis prevede la decurtazione della retribuzione di risultato."
       },
       {
         "id": "d",
-        "text": "la retribuzione di risultato è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, di una quota fino all'ottanta per cento",
+        "text": "la retribuzione di risultato è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, fino all'ottanta per cento",
         "why_wrong": null
       }
     ],
@@ -486,7 +490,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -496,8 +501,8 @@
     "options": [
       {
         "id": "a",
-        "text": "è vincolante e deve essere reso entro trenta giorni",
-        "why_wrong": "Il comma 3 fissa il termine di quarantacinque giorni e consente di prescindere dal parere se il termine decorre inutilmente."
+        "text": "è reso entro trenta giorni dalla richiesta; decorso inutilmente tale termine si prescinde dal parere",
+        "why_wrong": "Il comma 3 fissa il termine di quarantacinque giorni dalla richiesta."
       },
       {
         "id": "b",
@@ -506,12 +511,12 @@
       },
       {
         "id": "c",
-        "text": "è reso entro sessanta giorni; in mancanza, il provvedimento non può essere adottato",
+        "text": "è reso entro sessanta giorni dalla richiesta; decorso inutilmente tale termine il provvedimento non può essere adottato",
         "why_wrong": "Il comma 3 fissa quarantacinque giorni e prevede che, decorso il termine, si prescinda dal parere."
       },
       {
         "id": "d",
-        "text": "è facoltativo e può essere richiesto solo dal dirigente interessato",
+        "text": "è facoltativo e può essere richiesto solo dal dirigente interessato, entro quarantacinque giorni dalla contestazione",
         "why_wrong": "Il comma 1 prevede che i provvedimenti dell'art. 21, commi 1 e 1-bis, siano adottati sentito il Comitato."
       }
     ],
@@ -530,7 +535,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -540,12 +546,12 @@
     "options": [
       {
         "id": "a",
-        "text": "spetta personalmente al dirigente, in aggiunta alla retribuzione",
-        "why_wrong": "Il comma 3 prevede che il trattamento economico del dirigente remuneri anche gli incarichi conferiti su designazione dell'amministrazione."
+        "text": "spetta personalmente al dirigente, in aggiunta al trattamento economico determinato dai contratti collettivi",
+        "why_wrong": "Il comma 3 prevede che il trattamento economico del dirigente remuneri anche gli incarichi conferiti su designazione dell'amministrazione e che i compensi dei terzi siano corrisposti all'amministrazione."
       },
       {
         "id": "b",
-        "text": "spetta al dirigente nel limite del trenta per cento, e il resto all'amministrazione",
+        "text": "spetta al dirigente nel limite del trenta per cento, mentre il resto confluisce nelle risorse destinate al trattamento accessorio della dirigenza",
         "why_wrong": "Il comma 3 non prevede ripartizioni: i compensi sono corrisposti direttamente all'amministrazione."
       },
       {
@@ -555,8 +561,8 @@
       },
       {
         "id": "d",
-        "text": "è versato all'entrata del bilancio dello Stato",
-        "why_wrong": "Il comma 3 stabilisce che i compensi confluiscano nelle risorse destinate al trattamento accessorio della dirigenza."
+        "text": "è versato all'entrata del bilancio dello Stato, a cura del terzo erogante o, in difetto, del dirigente percettore",
+        "why_wrong": "Il comma 3 stabilisce che i compensi siano corrisposti direttamente all'amministrazione e confluiscano nelle risorse destinate al trattamento accessorio della dirigenza."
       }
     ],
     "correct": "c",
@@ -574,7 +580,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -584,22 +591,22 @@
     "options": [
       {
         "id": "a",
-        "text": "almeno il 10 per cento della retribuzione complessiva",
+        "text": "almeno il 10 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
         "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
       },
       {
         "id": "b",
-        "text": "non più del 30 per cento della retribuzione complessiva",
-        "why_wrong": "Il 30 per cento è una soglia minima, non massima."
+        "text": "non più del 30 per cento della retribuzione complessiva, comprensiva della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
+        "why_wrong": "Il 30 per cento è una soglia minima, non massima, e la retribuzione complessiva è considerata al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi."
       },
       {
         "id": "c",
-        "text": "almeno il 50 per cento della retribuzione complessiva",
+        "text": "almeno il 50 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
         "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
       },
       {
         "id": "d",
-        "text": "almeno il 30 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti al regime dell'onnicomprensività",
+        "text": "almeno il 30 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività",
         "why_wrong": null
       }
     ],
@@ -618,7 +625,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -628,22 +636,22 @@
     "options": [
       {
         "id": "a",
-        "text": "hanno durata di cinque anni e non sono rinnovabili",
-        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta."
+        "text": "hanno durata non inferiore a quattro anni, pari al periodo di osservazione, e non sono rinnovabili",
+        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta; i quattro anni sono il periodo minimo di osservazione previsto dal comma 1-quinquies, lett. b)."
       },
       {
         "id": "b",
-        "text": "hanno durata non superiore a un anno, rinnovabile senza limiti",
-        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta."
+        "text": "hanno durata non superiore a un anno e sono rinnovabili senza limiti, previa valutazione favorevole del dirigente sovraordinato",
+        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta previa valutazione favorevole della commissione del comma 1-sexies."
       },
       {
         "id": "c",
-        "text": "non possono avere durata superiore a tre anni e sono rinnovabili una sola volta, previa valutazione favorevole della commissione",
+        "text": "non possono durare più di tre anni e sono rinnovabili una sola volta, previa valutazione favorevole della commissione",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "determinano l'immediato inserimento nei ruoli della dirigenza di seconda fascia",
+        "text": "determinano l'immediato inserimento nei ruoli della dirigenza di seconda fascia, senza ulteriore valutazione della commissione",
         "why_wrong": "Secondo il comma 1-octies l'inserimento nei ruoli consegue all'esito favorevole della valutazione dell'incarico temporaneo esercitato per almeno quattro anni."
       }
     ],
@@ -666,7 +674,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

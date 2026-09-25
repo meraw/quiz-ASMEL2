@@ -6,7 +6,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Gli enti pubblici economici nazionali",
+        "text": "Gli enti pubblici economici nazionali, regionali e locali e le loro associazioni",
         "why_wrong": "Il comma 2 richiama soltanto gli enti pubblici non economici nazionali, regionali e locali."
       },
       {
@@ -16,12 +16,12 @@
       },
       {
         "id": "c",
-        "text": "Le società a partecipazione pubblica maggioritaria",
-        "why_wrong": "Le società partecipate non compaiono nell'elenco delle amministrazioni pubbliche del comma 2."
+        "text": "Le società a partecipazione pubblica maggioritaria e i loro consorzi e associazioni",
+        "why_wrong": "Le società a partecipazione pubblica non compaiono nell'elenco delle amministrazioni pubbliche del comma 2."
       },
       {
         "id": "d",
-        "text": "Le aziende pubbliche che producono servizi di pubblica utilità",
+        "text": "Le aziende pubbliche che producono servizi di pubblica utilità e le loro associazioni",
         "why_wrong": "Queste aziende sono menzionate dall'art. 8, comma 2, ai soli fini dei limiti all'incremento del costo del lavoro, non dall'art. 1, comma 2."
       }
     ],
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -50,23 +51,23 @@
     "options": [
       {
         "id": "a",
-        "text": "sono inderogabili da parte dei contratti collettivi, in quanto disposizioni a carattere imperativo",
-        "why_wrong": "Il carattere imperativo è riferito alle disposizioni del d.lgs. 165/2001; le discipline speciali possono essere derogate dai successivi contratti collettivi nazionali."
+        "text": "sono inderogabili da parte di qualsiasi contratto collettivo, anche nelle materie affidate alla contrattazione collettiva, in quanto disposizioni a carattere imperativo",
+        "why_wrong": "Il carattere imperativo è riferito alle disposizioni del d.lgs. 165/2001; le discipline speciali possono essere derogate da successivi contratti o accordi collettivi nazionali."
       },
       {
         "id": "b",
-        "text": "possono essere derogate anche dai contratti individuali di lavoro, se più favorevoli al dipendente",
+        "text": "possono essere derogate anche dai contratti individuali di lavoro, se più favorevoli al dipendente e nel rispetto dei principi del decreto",
         "why_wrong": "Il comma 2 consente la deroga solo da parte di successivi contratti o accordi collettivi nazionali."
       },
       {
         "id": "c",
-        "text": "possono essere derogate, nelle materie affidate alla contrattazione collettiva e nel rispetto dei principi del decreto, da successivi contratti o accordi collettivi nazionali",
+        "text": "possono essere derogate da successivi contratti o accordi collettivi nazionali, nelle materie affidate alla contrattazione collettiva e nel rispetto dei principi del decreto",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "possono essere derogate dai contratti integrativi di ciascun ente, previa informazione sindacale",
-        "why_wrong": "Il comma 2 attribuisce il potere di deroga ai contratti o accordi collettivi nazionali."
+        "text": "possono essere derogate, nelle materie affidate alla contrattazione collettiva e nel rispetto dei principi del decreto, soltanto dai contratti integrativi di ciascuna amministrazione",
+        "why_wrong": "Il comma 2 attribuisce il potere di deroga a successivi contratti o accordi collettivi nazionali."
       }
     ],
     "correct": "c",
@@ -84,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -182,23 +184,23 @@
     "options": [
       {
         "id": "a",
-        "text": "L'adozione degli atti che impegnano l'amministrazione verso l'esterno",
-        "why_wrong": "Il comma 2 attribuisce ai dirigenti l'adozione degli atti e provvedimenti, compresi quelli che impegnano l'amministrazione verso l'esterno."
+        "text": "L'adozione degli atti e provvedimenti amministrativi, compresi quelli che impegnano l'amministrazione verso l'esterno",
+        "why_wrong": "Il comma 2 attribuisce ai dirigenti l'adozione degli atti e provvedimenti amministrativi, compresi quelli che impegnano l'amministrazione verso l'esterno."
       },
       {
         "id": "b",
-        "text": "La gestione finanziaria, tecnica e amministrativa mediante autonomi poteri di spesa",
-        "why_wrong": "La gestione finanziaria, tecnica e amministrativa spetta ai dirigenti ai sensi del comma 2."
+        "text": "La gestione finanziaria, tecnica e amministrativa degli uffici, mediante autonomi poteri di spesa e di controllo",
+        "why_wrong": "La gestione finanziaria, tecnica e amministrativa mediante autonomi poteri di spesa spetta ai dirigenti ai sensi del comma 2."
       },
       {
         "id": "c",
-        "text": "La definizione di obiettivi, priorità, piani, programmi e direttive generali per l'azione amministrativa e per la gestione",
+        "text": "La definizione di obiettivi, priorità, piani, programmi e direttive generali per l'azione amministrativa e la gestione",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "L'organizzazione delle risorse umane e strumentali assegnate agli uffici",
-        "why_wrong": "Gli autonomi poteri di organizzazione delle risorse umane e strumentali sono attribuiti ai dirigenti dal comma 2."
+        "text": "L'organizzazione delle risorse umane e strumentali degli uffici, con responsabilità esclusiva della gestione e dei relativi risultati",
+        "why_wrong": "I poteri di organizzazione delle risorse umane e strumentali e la responsabilità esclusiva della gestione e dei risultati sono attribuiti ai dirigenti dal comma 2."
       }
     ],
     "correct": "c",
@@ -216,7 +218,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -226,23 +229,23 @@
     "options": [
       {
         "id": "a",
-        "text": "il dirigente agisce nell'ambito delle proprie attribuzioni ed è responsabile in via esclusiva dell'attività amministrativa, della gestione e dei relativi risultati",
+        "text": "l'atto rientra nelle attribuzioni del dirigente, che è responsabile in via esclusiva dell'attività amministrativa, della gestione e dei relativi risultati",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "l'atto è di competenza degli organi di governo e il dirigente può adottarlo solo su loro delega",
+        "text": "l'atto spetta agli organi di governo, che definiscono obiettivi e programmi, e il dirigente può adottarlo solo su loro espressa delega",
         "why_wrong": "Il comma 2 attribuisce direttamente ai dirigenti tutti gli atti che impegnano l'amministrazione verso l'esterno."
       },
       {
         "id": "c",
-        "text": "l'atto richiede la successiva ratifica dell'organo di governo per produrre effetti",
+        "text": "l'atto rientra nelle attribuzioni del dirigente, ma produce effetti solo dopo la successiva ratifica da parte dell'organo di governo",
         "why_wrong": "Il comma 2 non prevede ratifica: ai dirigenti spetta l'adozione degli atti e ne sono responsabili in via esclusiva."
       },
       {
         "id": "d",
-        "text": "la responsabilità del risultato grava in via esclusiva sull'organo di governo che ha definito gli obiettivi",
-        "why_wrong": "Il comma 2 attribuisce ai dirigenti la responsabilità esclusiva dell'attività amministrativa, della gestione e dei risultati."
+        "text": "l'atto rientra nelle attribuzioni del dirigente, ma la responsabilità dei risultati grava in via esclusiva sull'organo di governo che ha definito gli obiettivi",
+        "why_wrong": "Il comma 2 attribuisce ai dirigenti la responsabilità esclusiva dell'attività amministrativa, della gestione e dei relativi risultati."
       }
     ],
     "correct": "a",
@@ -264,7 +267,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -274,7 +278,7 @@
     "options": [
       {
         "id": "a",
-        "text": "possono essere derogate con regolamento dell'organo di governo",
+        "text": "possono essere derogate soltanto espressamente e ad opera di un regolamento adottato dall'organo di governo",
         "why_wrong": "Il comma 3 esclude le deroghe regolamentari: occorrono specifiche disposizioni legislative."
       },
       {
@@ -284,12 +288,12 @@
       },
       {
         "id": "c",
-        "text": "possono essere avocate dall'organo di governo in caso di urgenza",
+        "text": "possono essere avocate dall'organo di governo in caso di urgenza, con atto espresso e motivato",
         "why_wrong": "Il comma 3 ammette soltanto deroghe espresse previste da specifiche disposizioni legislative."
       },
       {
         "id": "d",
-        "text": "possono essere derogate dai contratti collettivi nazionali",
+        "text": "possono essere derogate soltanto espressamente e ad opera dei contratti collettivi nazionali di lavoro",
         "why_wrong": "Il comma 3 riserva la deroga a specifiche disposizioni legislative."
       }
     ],
@@ -308,7 +312,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -406,22 +411,22 @@
     "options": [
       {
         "id": "a",
-        "text": "può rinnovare l'incarico per un periodo pari a quello originario",
-        "why_wrong": "La lett. c) del comma 6 stabilisce che non è ammesso il rinnovo."
+        "text": "può, in via eccezionale, rinnovarlo per un periodo pari a quello originario, ferma restando la misura del compenso pattuito",
+        "why_wrong": "La lett. c) del comma 6 stabilisce che non è ammesso il rinnovo; è consentita solo la proroga per completare il progetto."
       },
       {
         "id": "b",
-        "text": "può prorogare l'incarico, rideterminando in aumento il compenso pattuito",
-        "why_wrong": "La proroga è consentita ferma restando la misura del compenso pattuito in sede di affidamento."
+        "text": "può, in via eccezionale, prorogarlo al solo fine di completare il progetto, rideterminando in aumento il compenso pattuito",
+        "why_wrong": "La lett. c) del comma 6 consente la proroga ferma restando la misura del compenso pattuito in sede di affidamento."
       },
       {
         "id": "c",
-        "text": "può, in via eccezionale, prorogare l'incarico al solo fine di completare il progetto, ferma restando la misura del compenso pattuito",
+        "text": "può, in via eccezionale, prorogarlo al solo fine di completare il progetto, ferma restando la misura del compenso pattuito",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "deve trasformare l'incarico in rapporto di lavoro subordinato a tempo determinato",
+        "text": "deve trasformarlo in rapporto di lavoro subordinato a tempo determinato, per la durata necessaria a completare il progetto",
         "why_wrong": "Il comma 6 considera causa di responsabilità amministrativa l'utilizzo degli incaricati come lavoratori subordinati."
       }
     ],
@@ -440,7 +445,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

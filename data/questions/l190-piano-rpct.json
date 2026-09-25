@@ -50,8 +50,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Il Dipartimento della funzione pubblica",
-        "why_wrong": "Al Dipartimento della funzione pubblica il comma 4 attribuisce compiti di coordinamento delle strategie di prevenzione."
+        "text": "Il Dipartimento della funzione pubblica, secondo le linee di indirizzo del Comitato interministeriale",
+        "why_wrong": "Al Dipartimento della funzione pubblica il comma 4 attribuisce compiti di coordinamento delle strategie di prevenzione, anche secondo linee di indirizzo del Comitato interministeriale."
       },
       {
         "id": "b",
@@ -60,12 +60,12 @@
       },
       {
         "id": "c",
-        "text": "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche, di cui all'art. 13 del d.lgs. 150/2009",
+        "text": "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "La Scuola superiore della pubblica amministrazione",
+        "text": "La Scuola superiore della pubblica amministrazione, d'intesa con le singole amministrazioni",
         "why_wrong": "La Scuola superiore della pubblica amministrazione si occupa della formazione dei dipendenti (comma 11)."
       }
     ],
@@ -88,7 +88,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -142,23 +143,23 @@
     "options": [
       {
         "id": "a",
-        "text": "sugli atti di direttiva e di indirizzo, nonché sulle circolari del Ministro per la pubblica amministrazione e la semplificazione in materia di conformità di atti e comportamenti dei funzionari pubblici alla legge, ai codici di comportamento e ai contratti",
+        "text": "sugli atti di direttiva e di indirizzo e sulle circolari del Ministro per la pubblica amministrazione e la semplificazione, in materia di conformità di atti e comportamenti dei funzionari pubblici alla legge, ai codici di comportamento e ai contratti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "in materia di autorizzazioni allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali",
+        "text": "in materia di autorizzazioni, di cui all'art. 53 del d.lgs. 165/2001, allo svolgimento di incarichi esterni da parte dei dirigenti amministrativi dello Stato e degli enti pubblici nazionali, con particolare riferimento all'applicazione del comma 16-ter",
         "why_wrong": "In materia di autorizzazioni agli incarichi esterni i pareri sono facoltativi (lettera e)."
       },
       {
         "id": "c",
-        "text": "sui piani triennali di prevenzione della corruzione adottati da ciascuna amministrazione",
+        "text": "sui piani triennali di prevenzione della corruzione adottati dall'organo di indirizzo di ciascuna amministrazione su proposta del Responsabile della prevenzione della corruzione e della trasparenza, prima della loro trasmissione",
         "why_wrong": "Il piano triennale è adottato dall'organo di indirizzo e trasmesso all'Autorità (comma 8); non è previsto un parere obbligatorio."
       },
       {
         "id": "d",
-        "text": "sul Piano nazionale anticorruzione, prima della sua adozione da parte del Comitato interministeriale",
-        "why_wrong": "Il Piano nazionale anticorruzione è adottato dall'Autorità stessa, sentito il Comitato interministeriale (lettera b e comma 2-bis)."
+        "text": "sul Piano nazionale anticorruzione, prima della sua adozione da parte del Comitato interministeriale e della Conferenza unificata, che ne curano anche l'aggiornamento annuale ai fini dell'adozione dei piani triennali delle pubbliche amministrazioni",
+        "why_wrong": "Il Piano nazionale anticorruzione è adottato dall'Autorità stessa, sentiti il Comitato interministeriale e la Conferenza unificata (lettera b e comma 2-bis)."
       }
     ],
     "correct": "a",
@@ -176,7 +177,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -414,12 +416,12 @@
     "options": [
       {
         "id": "a",
-        "text": "devono prima costituire un'unione di comuni, unica forma associata ammessa",
+        "text": "devono prima costituire un'unione di comuni, unica forma associata ammessa, e nominare un unico responsabile della prevenzione della corruzione e della trasparenza",
         "why_wrong": "L'unione di comuni rileva per la nomina di un unico RPCT (comma 7); il comma 6 prevede accordi ai sensi dell'art. 15 della L. 241/1990."
       },
       {
         "id": "b",
-        "text": "possono affidare congiuntamente l'elaborazione del piano a una società di consulenza esterna",
+        "text": "possono affidare congiuntamente l'elaborazione del piano a una società di consulenza esterna, scelta secondo le indicazioni del Piano nazionale anticorruzione",
         "why_wrong": "Il comma 8 vieta di affidare l'elaborazione del piano a soggetti estranei all'amministrazione."
       },
       {
@@ -429,8 +431,8 @@
       },
       {
         "id": "d",
-        "text": "non possono farlo, perché ogni Comune deve adottare un proprio piano",
-        "why_wrong": "Il comma 6 consente espressamente l'aggregazione ai comuni con popolazione inferiore a 15.000 abitanti."
+        "text": "non possono farlo, perché ogni Comune deve adottare un proprio piano, avvalendosi eventualmente del supporto tecnico e informativo del prefetto",
+        "why_wrong": "Il comma 6 consente espressamente l'aggregazione ai comuni con popolazione inferiore a 15.000 abitanti; il supporto del prefetto agli enti locali è previsto dallo stesso comma."
       }
     ],
     "correct": "c",
@@ -452,7 +454,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -638,18 +641,18 @@
     "options": [
       {
         "id": "a",
-        "text": "all'organismo indipendente di valutazione, che decide sulla sua legittimità",
+        "text": "all'organismo indipendente di valutazione, che decide sulla sua legittimità e ne riferisce all'organo di indirizzo",
         "why_wrong": "All'OIV il responsabile segnala le disfunzioni nell'attuazione delle misure, non le misure discriminatorie."
       },
       {
         "id": "b",
-        "text": "al prefetto competente per territorio",
-        "why_wrong": "Il prefetto fornisce solo supporto tecnico e informativo agli enti locali (comma 6)."
+        "text": "al prefetto competente per territorio, che può chiedere informazioni all'organo di indirizzo e intervenire",
+        "why_wrong": "Il comma 7 indica come destinataria l'Autorità nazionale anticorruzione; il prefetto fornisce supporto tecnico e informativo agli enti locali (comma 6)."
       },
       {
         "id": "c",
-        "text": "al Dipartimento della funzione pubblica",
-        "why_wrong": "Il comma 7 indica come destinataria l'Autorità nazionale anticorruzione."
+        "text": "al Dipartimento della funzione pubblica, che coordina l'attuazione delle strategie di prevenzione della corruzione",
+        "why_wrong": "Il comma 7 indica come destinataria l'Autorità nazionale anticorruzione; il Dipartimento coordina l'attuazione delle strategie di prevenzione (comma 4)."
       },
       {
         "id": "d",
@@ -672,7 +675,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -682,23 +686,23 @@
     "options": [
       {
         "id": "a",
-        "text": "su proposta del Responsabile della prevenzione della corruzione e della trasparenza, entro il 31 gennaio di ogni anno, curandone la trasmissione all'Autorità nazionale anticorruzione",
+        "text": "su proposta del Responsabile, entro il 31 gennaio di ogni anno, curandone la trasmissione all'Autorità nazionale anticorruzione",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "su proposta dell'organismo indipendente di valutazione, entro il 31 gennaio di ogni anno",
+        "text": "su proposta dell'OIV, entro il 31 gennaio di ogni anno, curandone la trasmissione all'Autorità nazionale anticorruzione",
         "why_wrong": "La proposta spetta al RPCT; l'OIV verifica la coerenza dei piani (comma 8-bis)."
       },
       {
         "id": "c",
-        "text": "su proposta del Responsabile, entro il 15 dicembre di ogni anno",
-        "why_wrong": "Il 15 dicembre è il termine della relazione annuale del responsabile (comma 14)."
+        "text": "su proposta del Responsabile, entro il 15 dicembre di ogni anno, curandone la pubblicazione nel sito web dell'amministrazione",
+        "why_wrong": "Il 15 dicembre è il termine della relazione annuale del responsabile, che la pubblica nel sito web (comma 14)."
       },
       {
         "id": "d",
-        "text": "su proposta del Responsabile, entro il 31 dicembre di ogni anno, curandone la trasmissione al prefetto",
-        "why_wrong": "Il termine è il 31 gennaio e la trasmissione è all'Autorità nazionale anticorruzione."
+        "text": "su proposta del Responsabile, entro il 31 dicembre di ogni anno, curandone la trasmissione al prefetto competente per territorio",
+        "why_wrong": "Il termine è il 31 gennaio e la trasmissione è all'Autorità nazionale anticorruzione; il prefetto fornisce supporto tecnico e informativo agli enti locali (comma 6)."
       }
     ],
     "correct": "a",
@@ -716,7 +720,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -819,17 +824,17 @@
       },
       {
         "id": "b",
-        "text": "sono definiti dal responsabile della prevenzione della corruzione e approvati dall'OIV",
+        "text": "sono definiti dal responsabile della prevenzione della corruzione e approvati dall'OIV, che ne verifica la coerenza con la Relazione sulla performance",
         "why_wrong": "Il responsabile propone il piano; gli obiettivi strategici sono definiti dall'organo di indirizzo."
       },
       {
         "id": "c",
-        "text": "sono definiti dall'Autorità nazionale anticorruzione, in modo uniforme, nel Piano nazionale",
+        "text": "sono definiti dall'Autorità nazionale anticorruzione, in modo uniforme per tutte le amministrazioni, nel Piano nazionale di durata triennale",
         "why_wrong": "Il Piano nazionale è atto di indirizzo (comma 2-bis); gli obiettivi strategici dell'ente sono definiti dal suo organo di indirizzo."
       },
       {
         "id": "d",
-        "text": "sono definiti dall'OIV ai fini della validazione della Relazione sulla performance",
+        "text": "sono definiti dall'OIV ai fini della validazione della Relazione sulla performance e costituiscono contenuto necessario dei documenti di programmazione strategico-gestionale",
         "why_wrong": "L'OIV verifica la coerenza dei piani con gli obiettivi (comma 8-bis), ma non li definisce."
       }
     ],
@@ -848,7 +853,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -858,23 +864,23 @@
     "options": [
       {
         "id": "a",
-        "text": "adotta il Piano triennale in caso di inerzia dell'organo di indirizzo",
+        "text": "adotta il Piano triennale in caso di inerzia dell'organo di indirizzo, anche ai fini della validazione della Relazione sulla performance, e ne cura la trasmissione all'Autorità nazionale anticorruzione",
         "why_wrong": "Il Piano è adottato dall'organo di indirizzo (comma 8); il comma 8-bis non prevede poteri sostitutivi dell'OIV."
       },
       {
         "id": "b",
-        "text": "verifica che i piani triennali siano coerenti con gli obiettivi dei documenti di programmazione strategico-gestionale e che nella valutazione delle performance si tenga conto degli obiettivi di anticorruzione e trasparenza",
+        "text": "verifica che i piani triennali siano coerenti con gli obiettivi della programmazione strategico-gestionale e che la valutazione delle performance tenga conto degli obiettivi di anticorruzione e trasparenza",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "elabora la proposta di Piano triennale da sottoporre all'organo di indirizzo",
+        "text": "elabora la proposta di Piano triennale da sottoporre all'organo di indirizzo entro il 31 gennaio, in coerenza con gli obiettivi dei documenti di programmazione strategico-gestionale",
         "why_wrong": "La proposta spetta al responsabile della prevenzione della corruzione (comma 8)."
       },
       {
         "id": "d",
-        "text": "individua il responsabile della prevenzione della corruzione e della trasparenza",
-        "why_wrong": "Il responsabile è individuato dall'organo di indirizzo (comma 7)."
+        "text": "individua il responsabile della prevenzione della corruzione e della trasparenza, di norma tra i dirigenti di ruolo in servizio, disponendo le modifiche organizzative necessarie per lo svolgimento dell'incarico con piena autonomia",
+        "why_wrong": "Il responsabile è individuato dall'organo di indirizzo, che dispone anche le eventuali modifiche organizzative (comma 7)."
       }
     ],
     "correct": "b",
@@ -892,7 +898,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -902,12 +909,12 @@
     "options": [
       {
         "id": "a",
-        "text": "ordinare la rimozione di comportamenti o atti contrastanti con il piano",
-        "why_wrong": "Il potere di ordinare la rimozione di comportamenti o atti spetta all'Autorità nazionale anticorruzione (comma 3)."
+        "text": "ordinare l'adozione di atti richiesti dal piano o la rimozione di comportamenti o atti contrastanti con il piano",
+        "why_wrong": "Il potere di ordinare l'adozione di atti o la rimozione di comportamenti o atti spetta all'Autorità nazionale anticorruzione (comma 3)."
       },
       {
         "id": "b",
-        "text": "irrogare direttamente sanzioni disciplinari ai dipendenti inadempienti",
+        "text": "irrogare direttamente sanzioni disciplinari ai dipendenti che non hanno attuato correttamente le misure di prevenzione",
         "why_wrong": "Il responsabile indica i nominativi agli uffici competenti per l'azione disciplinare (comma 7); l'OIV non irroga sanzioni."
       },
       {
@@ -917,8 +924,8 @@
       },
       {
         "id": "d",
-        "text": "sostituirsi al responsabile nella redazione della relazione annuale",
-        "why_wrong": "La relazione annuale è redatta dal responsabile e trasmessa anche all'OIV (comma 14)."
+        "text": "sostituirsi al responsabile nella redazione della relazione annuale e pubblicarla entro il 15 dicembre nel sito web dell'amministrazione",
+        "why_wrong": "La relazione annuale è redatta e pubblicata dal responsabile e trasmessa anche all'OIV (comma 14)."
       }
     ],
     "correct": "c",
@@ -936,7 +943,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -990,22 +998,22 @@
     "options": [
       {
         "id": "a",
-        "text": "definire le modalità di monitoraggio dei rapporti tra l'amministrazione e i soggetti che con la stessa stipulano contratti o sono interessati a procedimenti di autorizzazione, concessione o erogazione di vantaggi economici",
+        "text": "definire le modalità di monitoraggio dei rapporti tra l'amministrazione e i soggetti che con essa stipulano contratti o sono interessati a procedimenti di autorizzazione, concessione o erogazione di vantaggi economici",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "definire le modalità di monitoraggio del rispetto dei termini per la conclusione dei procedimenti",
+        "text": "definire le modalità di monitoraggio del rispetto dei termini, previsti dalla legge o dai regolamenti, per la conclusione dei procedimenti di autorizzazione, concessione o erogazione di vantaggi economici",
         "why_wrong": "È l'esigenza della lettera d), che riguarda i tempi dei procedimenti, non i rapporti con i contraenti."
       },
       {
         "id": "c",
-        "text": "prevedere obblighi di informazione nei confronti del responsabile chiamato a vigilare sul piano",
+        "text": "prevedere obblighi di informazione nei confronti del responsabile chiamato a vigilare sul funzionamento e sull'osservanza del piano, con particolare riguardo alle attività nell'ambito delle quali è più elevato il rischio di corruzione",
         "why_wrong": "È l'esigenza della lettera c), che riguarda i flussi informativi verso il responsabile."
       },
       {
         "id": "d",
-        "text": "prevedere meccanismi di formazione, attuazione e controllo delle decisioni idonei a prevenire il rischio",
+        "text": "prevedere, per le attività nell'ambito delle quali è più elevato il rischio di corruzione, meccanismi di formazione, attuazione e controllo delle decisioni idonei a prevenire tale rischio",
         "why_wrong": "È l'esigenza della lettera b), che non riguarda specificamente le relazioni di parentela o affinità."
       }
     ],
@@ -1024,7 +1032,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1256,23 +1265,23 @@
     "options": [
       {
         "id": "a",
-        "text": "propone all'organo di indirizzo il Piano triennale per l'anno successivo",
+        "text": "propone all'organo di indirizzo il Piano triennale per l'anno successivo, curandone la pubblicazione nel sito web dell'amministrazione",
         "why_wrong": "Il Piano è adottato su proposta del responsabile entro il 31 gennaio (comma 8)."
       },
       {
         "id": "b",
-        "text": "trasmette all'organismo indipendente di valutazione e all'organo di indirizzo una relazione sui risultati dell'attività svolta e la pubblica nel sito web dell'amministrazione",
+        "text": "trasmette all'OIV e all'organo di indirizzo una relazione sui risultati dell'attività svolta e la pubblica nel sito web dell'amministrazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "trasmette la relazione all'Autorità nazionale anticorruzione, che la presenta al Parlamento",
-        "why_wrong": "La relazione al Parlamento è quella dell'Autorità, entro il 31 dicembre (comma 2, lettera g)."
+        "text": "trasmette all'Autorità nazionale anticorruzione una relazione sui risultati dell'attività svolta, che l'Autorità presenta poi al Parlamento entro il 31 dicembre",
+        "why_wrong": "La relazione al Parlamento è quella dell'Autorità, entro il 31 dicembre (comma 2, lettera g); la relazione del responsabile va all'OIV e all'organo di indirizzo (comma 14)."
       },
       {
         "id": "d",
-        "text": "trasmette al prefetto una relazione sull'attuazione del piano",
-        "why_wrong": "Il comma 14 indica come destinatari l'OIV e l'organo di indirizzo."
+        "text": "trasmette al prefetto e all'organo di indirizzo una relazione sull'attuazione del piano e la pubblica nel sito web dell'amministrazione",
+        "why_wrong": "Il comma 14 indica come destinatari l'OIV e l'organo di indirizzo; il prefetto fornisce supporto tecnico e informativo agli enti locali (comma 6)."
       }
     ],
     "correct": "b",
@@ -1290,7 +1299,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

@@ -25,9 +25,9 @@
     "question": "Ai sensi dell'art. 2-ter del d.lgs. 196/2003, la base giuridica prevista dall'articolo 6, paragrafo 3, lettera b), del Regolamento (UE) 2016/679 è costituita:",
     "options": [
       { "id": "a", "text": "da una norma di legge o di regolamento o da atti amministrativi generali", "why_wrong": null },
-      { "id": "b", "text": "esclusivamente da una norma di legge", "why_wrong": "L'art. 2-ter, comma 1, ammette anche una norma di regolamento o atti amministrativi generali." },
-      { "id": "c", "text": "dal consenso dell'interessato", "why_wrong": "L'art. 2-ter, comma 1, individua la base giuridica in una norma di legge o di regolamento o in atti amministrativi generali." },
-      { "id": "d", "text": "da un provvedimento del Garante", "why_wrong": "Il Garante adotta misure di garanzia (art. 2-septies) e approva regole deontologiche (art. 2-quater), ma la base giuridica è individuata dall'art. 2-ter, comma 1, in norme di legge o di regolamento o in atti amministrativi generali." }
+      { "id": "b", "text": "esclusivamente da una norma di legge, con esclusione delle norme di regolamento", "why_wrong": "L'art. 2-ter, comma 1, ammette anche una norma di regolamento o atti amministrativi generali." },
+      { "id": "c", "text": "dal consenso dell'interessato o da un provvedimento del titolare del trattamento", "why_wrong": "L'art. 2-ter, comma 1, individua la base giuridica in una norma di legge o di regolamento o in atti amministrativi generali." },
+      { "id": "d", "text": "da un provvedimento del Garante o dalle regole deontologiche da questo promosse", "why_wrong": "Il Garante promuove e approva le regole deontologiche (art. 2-quater), ma la base giuridica è individuata dall'art. 2-ter, comma 1, in norme di legge o di regolamento o in atti amministrativi generali." }
     ],
     "correct": "a",
     "explanation": "Il Regolamento rinvia al diritto degli Stati membri per la base giuridica dei trattamenti fondati su un obbligo legale o su un compito di interesse pubblico. L'art. 2-ter, comma 1, del codice precisa che tale base è costituita da una norma di legge o di regolamento o da atti amministrativi generali.",
@@ -36,7 +36,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -66,9 +67,9 @@
     "question": "Un Comune, in assenza di una norma che la preveda e sulla base del solo comma 1-bis dell'art. 2-ter del d.lgs. 196/2003, ritiene necessario comunicare dati personali, trattati per un compito di interesse pubblico, a un soggetto che intende trattarli per altre finalità. Secondo lo stesso articolo:",
     "options": [
       { "id": "a", "text": "la comunicazione è ammessa se necessaria, e ne viene data notizia al Garante almeno dieci giorni prima del suo inizio", "why_wrong": null },
-      { "id": "b", "text": "la comunicazione richiede un parere del Garante, reso entro quarantacinque giorni", "why_wrong": "Quarantacinque giorni è il termine generale per i pareri del Garante (art. 154, comma 5); l'art. 2-ter, comma 3, prevede solo una notizia al Garante almeno dieci giorni prima." },
-      { "id": "c", "text": "la comunicazione è vietata in ogni caso", "why_wrong": "L'art. 2-ter, comma 3, ammette la comunicazione se prevista ai sensi del comma 1 o se necessaria ai sensi del comma 1-bis." },
-      { "id": "d", "text": "ne viene data notizia al Garante entro dieci giorni dall'inizio della comunicazione", "why_wrong": "L'art. 2-ter, comma 3, richiede che la notizia sia data almeno dieci giorni prima dell'inizio della comunicazione, non dopo." }
+      { "id": "b", "text": "la comunicazione è ammessa solo previo parere del Garante, reso entro quarantacinque giorni dalla richiesta", "why_wrong": "Quarantacinque giorni è il termine generale per i pareri del Garante (art. 154, comma 5); l'art. 2-ter, comma 3, prevede solo una notizia al Garante almeno dieci giorni prima." },
+      { "id": "c", "text": "la comunicazione non è ammessa, perché occorre in ogni caso che sia prevista da una norma di legge o di regolamento o da atti amministrativi generali", "why_wrong": "L'art. 2-ter, comma 3, ammette la comunicazione non solo se prevista ai sensi del comma 1, ma anche se necessaria ai sensi del comma 1-bis." },
+      { "id": "d", "text": "la comunicazione è ammessa se necessaria, e ne viene data notizia al Garante entro dieci giorni dal suo inizio", "why_wrong": "L'art. 2-ter, comma 3, richiede che la notizia sia data almeno dieci giorni prima dell'inizio della comunicazione, non dopo." }
     ],
     "correct": "a",
     "explanation": "L'art. 2-ter, comma 3, ammette la diffusione e la comunicazione di dati trattati per un compito di interesse pubblico a soggetti che intendono trattarli per altre finalità solo se previste da una norma (comma 1) o se necessarie ai sensi del comma 1-bis. In quest'ultimo caso ne va data notizia al Garante almeno dieci giorni prima dell'inizio.",
@@ -77,7 +78,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 3", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -85,10 +87,10 @@
     "subject": "privacy",
     "question": "Un Comune pubblica sul proprio sito internet, liberamente consultabile da chiunque, un elenco contenente dati personali. Ai sensi del d.lgs. 196/2003, questa operazione costituisce:",
     "options": [
-      { "id": "a", "text": "diffusione, perché consiste nel dare conoscenza dei dati a soggetti indeterminati, anche mediante la loro messa a disposizione o consultazione", "why_wrong": null },
-      { "id": "b", "text": "comunicazione, perché i dati sono messi a disposizione mediante consultazione", "why_wrong": "La comunicazione è il dare conoscenza dei dati a uno o più soggetti determinati (art. 2-ter, comma 4, lett. a)); qui i destinatari sono indeterminati." },
-      { "id": "c", "text": "interconnessione tra titolari", "why_wrong": "L'interconnessione è indicata dall'art. 2-ter, comma 4, lett. a), come una delle forme della comunicazione a soggetti determinati." },
-      { "id": "d", "text": "comunicazione fra titolari per l'esecuzione di un compito di interesse pubblico", "why_wrong": "È l'ipotesi dell'art. 2-ter, comma 2, che riguarda soggetti determinati; la messa a disposizione a soggetti indeterminati è diffusione." }
+      { "id": "a", "text": "diffusione, perché consiste nel dare conoscenza dei dati a soggetti indeterminati, anche mediante messa a disposizione o consultazione", "why_wrong": null },
+      { "id": "b", "text": "comunicazione, perché consiste nel dare conoscenza dei dati a uno o più soggetti, anche mediante la loro messa a disposizione o consultazione", "why_wrong": "La comunicazione è il dare conoscenza dei dati a uno o più soggetti determinati (art. 2-ter, comma 4, lett. a)); qui i destinatari sono indeterminati." },
+      { "id": "c", "text": "interconnessione, perché i dati sono messi a disposizione di soggetti diversi dall'interessato e dalle persone autorizzate al trattamento", "why_wrong": "L'interconnessione è indicata dall'art. 2-ter, comma 4, lett. a), come una delle forme della comunicazione a soggetti determinati; il dare conoscenza a soggetti indeterminati è diffusione." },
+      { "id": "d", "text": "comunicazione fra titolari per l'esecuzione di un compito di interesse pubblico, ammessa se prevista da una norma di legge o di regolamento", "why_wrong": "È l'ipotesi dell'art. 2-ter, comma 2, che riguarda soggetti determinati; la messa a disposizione a soggetti indeterminati è diffusione." }
     ],
     "correct": "a",
     "explanation": "L'art. 2-ter, comma 4, distingue la comunicazione, rivolta a uno o più soggetti determinati (lett. a)), dalla diffusione, che dà conoscenza dei dati a soggetti indeterminati, in qualunque forma, anche mediante messa a disposizione o consultazione (lett. b)). La pubblicazione su un sito aperto a tutti è diffusione.",
@@ -97,7 +99,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 4, lett. b)", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -188,10 +191,10 @@
     "subject": "privacy",
     "question": "Ai sensi dell'art. 154 del d.lgs. 196/2003, fatti salvi i termini più brevi previsti per legge, il parere del Garante è reso:",
     "options": [
-      { "id": "a", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione può procedere indipendentemente dall'acquisizione del parere", "why_wrong": null },
-      { "id": "b", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, il parere si intende reso in senso favorevole", "why_wrong": "L'art. 154, comma 5, non qualifica il silenzio come parere favorevole: prevede che l'amministrazione possa procedere indipendentemente dall'acquisizione del parere." },
-      { "id": "c", "text": "entro sessanta giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione deve rinnovare la richiesta", "why_wrong": "Sessanta giorni è la durata minima della consultazione pubblica sugli schemi di regole deontologiche (art. 2-quater, comma 2); per il parere l'art. 154, comma 5, prevede quarantacinque giorni." },
-      { "id": "d", "text": "entro venti giorni dal ricevimento della richiesta, senza possibilità di interruzione", "why_wrong": "Venti giorni è il termine entro cui il parere va reso dopo l'interruzione per esigenze istruttorie, decorrente dal ricevimento degli elementi istruttori (art. 154, comma 5)." }
+      { "id": "a", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione può procedere anche senza il parere", "why_wrong": null },
+      { "id": "b", "text": "entro quarantacinque giorni dal ricevimento della richiesta; decorso il termine, il parere si intende reso in senso favorevole alla richiesta", "why_wrong": "L'art. 154, comma 5, non qualifica il silenzio come parere favorevole: prevede che l'amministrazione possa procedere indipendentemente dall'acquisizione del parere." },
+      { "id": "c", "text": "entro sessanta giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione può procedere anche senza il parere", "why_wrong": "Sessanta giorni è la durata minima della consultazione pubblica sugli schemi di regole deontologiche (art. 2-quater, comma 2); per il parere l'art. 154, comma 5, prevede quarantacinque giorni." },
+      { "id": "d", "text": "entro venti giorni dal ricevimento della richiesta, termine che non può essere interrotto neppure per esigenze istruttorie", "why_wrong": "Venti giorni è il termine entro cui il parere va reso dopo l'interruzione, ammessa una sola volta per esigenze istruttorie, decorrente dal ricevimento degli elementi istruttori (art. 154, comma 5)." }
     ],
     "correct": "a",
     "explanation": "L'art. 154, comma 5, fissa in quarantacinque giorni dal ricevimento della richiesta il termine per il parere del Garante; decorso il termine, l'amministrazione può procedere senza il parere. Per esigenze istruttorie il termine può essere interrotto una sola volta, e il parere va reso entro venti giorni dal ricevimento degli elementi istruttori.",
@@ -200,7 +203,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 154, comma 5", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

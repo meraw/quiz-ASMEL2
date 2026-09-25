@@ -21,8 +21,8 @@
       },
       {
         "id": "d",
-        "text": "Istigazione alla corruzione",
-        "why_wrong": "L'art. 322 riguarda l'offerta o la promessa di denaro o altra utilità, non la minaccia."
+        "text": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità",
+        "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la minaccia per costringere il pubblico ufficiale a omettere un atto dell'ufficio è prevista dall'art. 336."
       }
     ],
     "correct": "b",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,23 +95,23 @@
     "options": [
       {
         "id": "a",
-        "text": "a coloro che, richiesti, prestano assistenza al pubblico ufficiale o all'incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio",
+        "text": "a chi, richiesto, presta assistenza al pubblico ufficiale o all'incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "a un pubblico ufficiale dopo che ha compiuto l'atto di ufficio",
-        "why_wrong": "L'art. 337 richiede che l'opposizione avvenga mentre il pubblico ufficiale «compie un atto di ufficio o di servizio»."
+        "text": "a un pubblico ufficiale o a un incaricato di un pubblico servizio dopo che ha compiuto l'atto di ufficio o di servizio, per ritorsione",
+        "why_wrong": "L'art. 337 richiede che l'opposizione avvenga mentre il pubblico ufficiale o l'incaricato di un pubblico servizio «compie un atto di ufficio o di servizio»."
       },
       {
         "id": "c",
-        "text": "a una pubblica Autorità costituita in collegio, per turbarne l'attività",
-        "why_wrong": "È la condotta prevista dall'art. 338 (violenza o minaccia a un Corpo politico, amministrativo o giudiziario)."
+        "text": "a una qualsiasi pubblica Autorità costituita in collegio o ai suoi singoli componenti, per impedirne o turbarne comunque l'attività",
+        "why_wrong": "È la condotta prevista dall'art. 338 (violenza o minaccia a un Corpo politico, amministrativo o giudiziario o ai suoi singoli componenti)."
       },
       {
         "id": "d",
-        "text": "a qualsiasi privato che svolga un'attività professionale",
-        "why_wrong": "L'art. 337 tutela il pubblico ufficiale, l'incaricato di un pubblico servizio e coloro che, richiesti, gli prestano assistenza."
+        "text": "a qualsiasi privato che, senza esserne stato richiesto, si offra spontaneamente di coadiuvare il pubblico ufficiale nel compimento dell'atto di ufficio",
+        "why_wrong": "L'art. 337 tutela, oltre al pubblico ufficiale e all'incaricato di un pubblico servizio, solo coloro che, «richiesti», gli prestano assistenza."
       }
     ],
     "correct": "a",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -192,13 +194,13 @@
       },
       {
         "id": "c",
-        "text": "Interruzione di un ufficio o servizio pubblico",
+        "text": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità",
         "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la minaccia ai componenti di un Corpo amministrativo è prevista dall'art. 338."
       },
       {
         "id": "d",
-        "text": "Resistenza a un pubblico ufficiale",
-        "why_wrong": "L'art. 337 riguarda l'opposizione al pubblico ufficiale mentre compie un atto di ufficio; la minaccia rivolta a un Corpo o ai suoi componenti è prevista dall'art. 338."
+        "text": "Resistenza a un pubblico ufficiale o a un incaricato di un pubblico servizio",
+        "why_wrong": "L'art. 337 riguarda l'opposizione al pubblico ufficiale o all'incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio; la minaccia rivolta a un Corpo o ai suoi componenti è prevista dall'art. 338."
       }
     ],
     "correct": "b",
@@ -220,7 +222,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -274,22 +277,22 @@
     "options": [
       {
         "id": "a",
-        "text": "in luogo pubblico o aperto al pubblico e in presenza di più persone, mentre il pubblico ufficiale compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni",
+        "text": "in luogo pubblico o aperto al pubblico e in presenza di più persone, mentre il pubblico ufficiale compie un atto d'ufficio e a causa o nell'esercizio delle sue funzioni",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "in qualsiasi luogo, anche privato, purché a causa delle funzioni",
-        "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga in luogo pubblico o aperto al pubblico e in presenza di più persone."
+        "text": "in qualsiasi luogo, anche privato, purché in presenza di più persone, mentre il pubblico ufficiale compie un atto d'ufficio e a causa delle sue funzioni",
+        "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga in luogo pubblico o aperto al pubblico, oltre che in presenza di più persone."
       },
       {
         "id": "c",
-        "text": "in luogo pubblico, anche in assenza di altre persone",
+        "text": "in luogo pubblico o aperto al pubblico, anche in assenza di altre persone, mentre il pubblico ufficiale compie un atto d'ufficio e a causa delle sue funzioni",
         "why_wrong": "L'art. 341-bis richiede anche la presenza di più persone."
       },
       {
         "id": "d",
-        "text": "in presenza di più persone, anche quando il pubblico ufficiale non sta compiendo un atto d'ufficio",
+        "text": "in luogo pubblico o aperto al pubblico e in presenza di più persone, anche quando il pubblico ufficiale non sta compiendo un atto d'ufficio, purché a causa delle sue funzioni",
         "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga mentre il pubblico ufficiale compie un atto d'ufficio."
       }
     ],
@@ -308,7 +311,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -498,12 +502,12 @@
     "options": [
       {
         "id": "a",
-        "text": "compiere un qualsiasi atto del suo ufficio, anche legittimo",
+        "text": "compiere un qualsiasi atto del suo ufficio, anche legittimo, dal quale possa derivare un vantaggio indebito",
         "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato."
       },
       {
         "id": "b",
-        "text": "compiere un atto contrario ai doveri d'ufficio, anche se non costituente reato",
+        "text": "compiere un atto contrario ai doveri d'ufficio, anche se non costituente reato, dal quale possa derivare un vantaggio indebito",
         "why_wrong": "Il secondo comma dell'art. 346-bis richiede che l'atto contrario ai doveri d'ufficio costituisca reato."
       },
       {
@@ -513,8 +517,8 @@
       },
       {
         "id": "d",
-        "text": "accelerare il compimento di un atto dovuto, senza alcun vantaggio indebito",
-        "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito."
+        "text": "omettere o ritardare un atto del suo ufficio, anche se non costituente reato, dal quale possa derivare un vantaggio indebito",
+        "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato; l'omissione o il ritardo di un atto dell'ufficio sono richiamati dal quinto comma solo come circostanza aggravante."
       }
     ],
     "correct": "c",
@@ -532,7 +536,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -586,12 +591,12 @@
     "options": [
       {
         "id": "a",
-        "text": "non è punibile, perché è regolarmente abilitato",
+        "text": "non è punibile, essendo regolarmente abilitato all'esercizio della professione",
         "why_wrong": "Il terzo comma dell'art. 348 punisce proprio il professionista che ha determinato altri a commettere il reato o ne ha diretto l'attività."
       },
       {
         "id": "b",
-        "text": "è punito con una pena più grave di quella prevista per chi esercita abusivamente la professione",
+        "text": "è punito più gravemente di chi esercita abusivamente la professione",
         "why_wrong": null
       },
       {
@@ -601,8 +606,8 @@
       },
       {
         "id": "d",
-        "text": "è punito con la stessa pena prevista dal primo comma",
-        "why_wrong": "Il terzo comma dell'art. 348 prevede per il professionista pene più elevate di quelle del primo comma."
+        "text": "è punito con la stessa pena prevista per chi esercita abusivamente la professione",
+        "why_wrong": "Il terzo comma dell'art. 348 prevede per il professionista la reclusione da uno a cinque anni e la multa da euro 15.000 a euro 75.000, pene più elevate di quelle del primo comma."
       }
     ],
     "correct": "b",
@@ -624,7 +629,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -634,13 +640,13 @@
     "options": [
       {
         "id": "a",
-        "text": "l'interdizione perpetua dai pubblici uffici",
-        "why_wrong": "L'interdizione perpetua dai pubblici uffici è prevista dall'art. 317-bis per i delitti ivi elencati, tra i quali non figura l'art. 348."
+        "text": "l'interdizione perpetua dai pubblici uffici e l'incapacità in perpetuo di contrattare con la pubblica amministrazione",
+        "why_wrong": "Queste pene accessorie sono previste dall'art. 317-bis per i delitti ivi elencati, tra i quali non figura l'art. 348."
       },
       {
         "id": "b",
-        "text": "la revoca della concessione o della licenza di cui il colpevole sia titolare",
-        "why_wrong": "La revoca del titolo abilitante è prevista dall'art. 337-bis, terzo comma, per l'occultamento o l'alterazione di mezzi di trasporto."
+        "text": "la revoca della concessione, autorizzazione, licenza o altro titolo abilitante l'attività di cui il colpevole sia titolare",
+        "why_wrong": "La revoca del titolo abilitante è prevista dall'art. 337-bis, terzo comma, per l'occultamento, la custodia o l'alterazione di mezzi di trasporto."
       },
       {
         "id": "c",
@@ -649,8 +655,8 @@
       },
       {
         "id": "d",
-        "text": "la sola pubblicazione della sentenza, senza alcuna confisca",
-        "why_wrong": "Il secondo comma dell'art. 348 prevede anche la confisca delle cose che servirono o furono destinate a commettere il reato."
+        "text": "la sola pubblicazione della sentenza, senza confisca, e l'interdizione perpetua dalla professione regolarmente esercitata",
+        "why_wrong": "Il secondo comma dell'art. 348 prevede anche la confisca delle cose che servirono o furono destinate a commettere il reato; l'interdizione dalla professione regolarmente esercitata è da uno a tre anni."
       }
     ],
     "correct": "c",
@@ -668,7 +674,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -736,13 +743,13 @@
       },
       {
         "id": "c",
-        "text": "Astensione dagli incanti",
-        "why_wrong": "L'art. 354 riguarda chi, per denaro o altra utilità, si astiene dal concorrere agli incanti."
+        "text": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessità",
+        "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la turbativa del procedimento di redazione del bando è prevista dall'art. 353-bis."
       },
       {
         "id": "d",
-        "text": "Frode nelle pubbliche forniture",
-        "why_wrong": "L'art. 356 riguarda la frode nell'esecuzione dei contratti di fornitura."
+        "text": "Inadempimento di contratti di pubbliche forniture",
+        "why_wrong": "L'art. 355 riguarda chi, non adempiendo gli obblighi di un contratto di fornitura, fa mancare cose od opere necessarie a uno stabilimento pubblico o a un pubblico servizio."
       }
     ],
     "correct": "a",
@@ -760,7 +767,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -814,22 +822,22 @@
     "options": [
       {
         "id": "a",
-        "text": "L'art. 356 riguarda solo i contratti con lo Stato; l'art. 355 i contratti con qualsiasi ente pubblico",
-        "why_wrong": "L'art. 356 richiama i contratti di fornitura e gli obblighi contrattuali «indicati nell'articolo precedente»."
+        "text": "L'art. 356 riguarda solo i contratti di fornitura conclusi con lo Stato; l'art. 355 anche quelli con altri enti pubblici o con imprese esercenti servizi pubblici o di pubblica necessità",
+        "why_wrong": "L'art. 356 richiama i contratti di fornitura e gli obblighi contrattuali «indicati nell'articolo precedente», cioè gli stessi contratti dell'art. 355."
       },
       {
         "id": "b",
-        "text": "L'art. 355 punisce solo i fatti dolosi; l'art. 356 anche quelli colposi",
-        "why_wrong": "È l'art. 355 a prevedere, al terzo comma, una pena per il fatto commesso per colpa."
+        "text": "L'art. 355 punisce soltanto i fatti dolosi del fornitore; l'art. 356 punisce anche i fatti commessi per colpa, con la reclusione fino a un anno ovvero con la multa",
+        "why_wrong": "È l'art. 355 a prevedere, al terzo comma, la reclusione fino a un anno ovvero la multa per il fatto commesso per colpa."
       },
       {
         "id": "c",
-        "text": "L'art. 355 si applica solo ai subfornitori; l'art. 356 al fornitore principale",
+        "text": "L'art. 355 si applica soltanto ai subfornitori, ai mediatori e ai rappresentanti dei fornitori; l'art. 356 al fornitore principale che ha concluso il contratto con lo Stato o con altro ente pubblico",
         "why_wrong": "L'art. 355 riguarda chiunque sia obbligato dal contratto di fornitura; il quarto comma lo estende ai subfornitori, ai mediatori e ai rappresentanti dei fornitori."
       },
       {
         "id": "d",
-        "text": "L'art. 356 punisce la frode nell'esecuzione del contratto di fornitura; l'art. 355 punisce chi, non adempiendo gli obblighi contrattuali, fa mancare cose od opere necessarie a uno stabilimento pubblico o a un pubblico servizio",
+        "text": "L'art. 356 punisce la frode nell'esecuzione del contratto di fornitura; l'art. 355 l'inadempimento che fa mancare cose od opere necessarie a uno stabilimento pubblico o a un pubblico servizio",
         "why_wrong": null
       }
     ],
@@ -856,7 +864,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
