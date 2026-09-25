@@ -1,0 +1,310 @@
+[
+  {
+    "id": "op-inh-001",
+    "subject": "organismi-partecipati",
+    "question": "Secondo l'art. 2 del d.lgs. 175/2016, il «controllo analogo» è la situazione in cui l'amministrazione esercita su una società un controllo analogo a quello esercitato sui propri servizi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Detenendo la maggioranza dei voti nell'assemblea ordinaria",
+        "why_wrong": "La maggioranza dei voti rileva per il «controllo» dell'art. 2359 c.c., richiamato dall'art. 2, comma 1, lett. b); il controllo analogo richiede un'influenza determinante su obiettivi strategici e decisioni significative."
+      },
+      {
+        "id": "b",
+        "text": "Esercitando un'influenza determinante sia sugli obiettivi strategici che sulle decisioni significative della società controllata",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Esercitando tale controllo esclusivamente in via diretta, senza possibilità di avvalersi di altre persone giuridiche",
+        "why_wrong": "L'art. 2, comma 1, lett. c), ammette che il controllo sia esercitato da una persona giuridica diversa, a sua volta controllata allo stesso modo dall'amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "Congiuntamente con altre amministrazioni, al ricorrere delle condizioni previste dal codice dei contratti pubblici",
+        "why_wrong": "Descrive il «controllo analogo congiunto» (art. 2, comma 1, lett. d)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 1, lett. c), definisce il controllo analogo come influenza determinante sia sugli obiettivi strategici sia sulle decisioni significative della società; può essere esercitato anche tramite una persona giuridica controllata allo stesso modo.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 1, lett. c)",
+        "text": "c) «controllo analogo»: la situazione in cui l'amministrazione esercita su una società un controllo analogo a quello esercitato sui propri servizi, esercitando un'influenza determinante sia sugli obiettivi strategici che sulle decisioni significative della società controllata."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 2, comma 1, lett. c)",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-002",
+    "subject": "organismi-partecipati",
+    "question": "Un investitore privato propone di entrare con il 10 per cento del capitale in una società in house di più Comuni, ottenendo un diritto di veto sulle decisioni strategiche; nessuna norma di legge prescrive tale partecipazione. Ai sensi dell'art. 16 del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La società può continuare a ricevere affidamenti diretti, perché la quota privata è di minoranza",
+        "why_wrong": "L'art. 16, comma 1, ammette solo la partecipazione privata prescritta da norme di legge e priva di controllo o potere di veto, a prescindere dall'entità della quota."
+      },
+      {
+        "id": "b",
+        "text": "La società può continuare a ricevere affidamenti diretti se il socio privato è scelto con procedura di evidenza pubblica",
+        "why_wrong": "La selezione con gara del socio privato è la regola delle società miste (art. 17, comma 1), non una condizione per gli affidamenti diretti in house."
+      },
+      {
+        "id": "c",
+        "text": "La società non potrebbe più ricevere affidamenti diretti, perché la partecipazione privata non è prescritta dalla legge e comporta un potere di veto",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La società potrebbe ricevere affidamenti diretti solo dal Comune che detiene la quota maggiore",
+        "why_wrong": "L'art. 16, comma 1, ammette gli affidamenti da ciascuna delle amministrazioni che esercitano il controllo analogo congiunto, ma solo in assenza di capitali privati non consentiti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 16, comma 1, consente gli affidamenti diretti alle società in house solo in assenza di capitali privati, salvo la partecipazione prescritta da norme di legge che avvenga in forme che non comportino controllo, potere di veto o influenza determinante.",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 1",
+        "text": "solo se non vi sia partecipazione di capitali privati, ad eccezione di quella prescritta da norme di legge e che avvenga in forme che non comportino controllo o potere di veto, né l'esercizio di un'influenza determinante sulla società controllata."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 16, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-003",
+    "subject": "organismi-partecipati",
+    "question": "Gli statuti delle società in house devono prevedere che, del loro fatturato, sia effettuato nello svolgimento dei compiti affidati dall'ente o dagli enti pubblici soci:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Almeno il 50 per cento",
+        "why_wrong": "L'art. 16, comma 3, fissa la soglia in «oltre l'ottanta per cento» del fatturato."
+      },
+      {
+        "id": "b",
+        "text": "Almeno il 70 per cento",
+        "why_wrong": "L'art. 16, comma 3, fissa la soglia in «oltre l'ottanta per cento» del fatturato."
+      },
+      {
+        "id": "c",
+        "text": "Oltre l'80 per cento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'intero fatturato, senza eccezioni",
+        "why_wrong": "L'art. 16, comma 3-bis, consente una produzione ulteriore rispetto al limite, a determinate condizioni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 16, comma 3, impone che gli statuti delle società in house prevedano che oltre l'80 per cento del fatturato derivi dai compiti affidati dagli enti soci.",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 3",
+        "text": "Gli statuti delle società di cui al presente articolo devono prevedere che oltre l'ottanta per cento del loro fatturato"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 16, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-004",
+    "subject": "organismi-partecipati",
+    "question": "A quale condizione una società in house può svolgere una produzione ulteriore rispetto al limite di fatturato previsto dall'art. 16, comma 3, del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solo se la produzione ulteriore è rivolta alle stesse finalità dei compiti affidati dagli enti soci",
+        "why_wrong": "L'art. 16, comma 3-bis, precisa che la produzione ulteriore «può essere rivolta anche a finalità diverse»."
+      },
+      {
+        "id": "b",
+        "text": "Solo se permette di conseguire economie di scala o altri recuperi di efficienza sul complesso dell'attività principale della società",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Solo previa autorizzazione della Sezione regionale di controllo della Corte dei conti",
+        "why_wrong": "L'art. 16, comma 3-bis, non prevede alcuna autorizzazione della Corte dei conti."
+      },
+      {
+        "id": "d",
+        "text": "Solo se la società ha chiuso in utile gli ultimi tre esercizi",
+        "why_wrong": "L'art. 16, comma 3-bis, collega la produzione ulteriore alle economie di scala o ai recuperi di efficienza, non ai risultati di esercizio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 16, comma 3-bis, consente la produzione ulteriore, anche per finalità diverse, solo se permette di conseguire economie di scala o altri recuperi di efficienza sul complesso dell'attività principale.",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 3-bis",
+        "text": "La produzione ulteriore rispetto al limite di fatturato di cui al comma 3, che può essere rivolta anche a finalità diverse, è consentita solo a condizione che la stessa permetta di conseguire economie di scala o altri recuperi di efficienza sul complesso dell'attività principale della società."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 16, comma 3-bis",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-005",
+    "subject": "organismi-partecipati",
+    "question": "Una società in house ha superato il limite quantitativo di fatturato verso soggetti terzi. Ai sensi dell'art. 16 del d.lgs. 175/2016, la società:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può sanare l'irregolarità se, entro tre mesi dalla data in cui si è manifestata, rinuncia a una parte dei rapporti con soggetti terzi o agli affidamenti diretti degli enti soci",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Può sanare l'irregolarità entro sei mesi, rinunciando a una parte dei rapporti con soggetti terzi",
+        "why_wrong": "Sei mesi è il termine entro cui gli enti soci devono riaffidare con gara le attività, dopo la rinuncia agli affidamenti diretti (art. 16, comma 5); la sanatoria va fatta entro tre mesi."
+      },
+      {
+        "id": "c",
+        "text": "È posta immediatamente in liquidazione, senza possibilità di sanatoria",
+        "why_wrong": "L'art. 16, comma 5, prevede la possibilità di sanare l'irregolarità."
+      },
+      {
+        "id": "d",
+        "text": "Non commette alcuna irregolarità, se il superamento è stato autorizzato dall'assemblea",
+        "why_wrong": "Il mancato rispetto del limite costituisce grave irregolarità ai sensi dell'art. 2409 c.c. (art. 16, comma 4)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il mancato rispetto del limite dell'art. 16, comma 3, è una grave irregolarità (comma 4); la società può sanarla entro tre mesi rinunciando a parte dei rapporti con terzi o agli affidamenti diretti degli enti soci (comma 5).",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 5",
+        "text": "Nel caso di cui al comma 4, la società può sanare l'irregolarità se, entro tre mesi dalla data in cui la stessa si è manifestata,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 16, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-006",
+    "subject": "organismi-partecipati",
+    "question": "Per sanare il superamento del limite di fatturato, una società in house rinuncia agli affidamenti diretti ricevuti dal Comune socio. Che cosa prevede l'art. 16, comma 5, del d.lgs. 175/2016 per le attività già affidate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Comune le riaffida alla stessa società con un nuovo affidamento diretto",
+        "why_wrong": "L'art. 16, comma 5, impone il riaffidamento mediante procedure competitive regolate dalla disciplina dei contratti pubblici."
+      },
+      {
+        "id": "b",
+        "text": "Il Comune le riaffida mediante procedure competitive entro sei mesi dallo scioglimento del rapporto e, nelle more della gara, i beni o servizi continuano a essere forniti dalla stessa società",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Le attività cessano immediatamente, fino all'aggiudicazione della nuova gara",
+        "why_wrong": "L'art. 16, comma 5, stabilisce che nelle more delle procedure di gara i beni o servizi continuano a essere forniti dalla stessa società."
+      },
+      {
+        "id": "d",
+        "text": "Il Comune le riaffida mediante procedure competitive entro tre mesi dalla rinuncia",
+        "why_wrong": "Tre mesi è il termine per sanare l'irregolarità; il riaffidamento avviene entro i sei mesi successivi allo scioglimento del rapporto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "In caso di rinuncia agli affidamenti diretti, l'art. 16, comma 5, prevede che le attività siano riaffidate con procedure competitive entro sei mesi dallo scioglimento del rapporto; nelle more delle gare, la società continua a fornire i beni o servizi.",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 5",
+        "text": "In quest'ultimo caso le attività precedentemente affidate alla società controllata devono essere riaffidate, dall'ente o dagli enti pubblici soci, mediante procedure competitive regolate dalla disciplina in materia di contratti pubblici, entro i sei mesi successivi allo scioglimento del rapporto contrattuale. Nelle more dello svolgimento delle procedure di gara i beni o servizi continueranno ad essere forniti dalla stessa società controllata."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 16, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-inh-007",
+    "subject": "organismi-partecipati",
+    "question": "Ai sensi dell'art. 12 del d.lgs. 175/2016, per il danno erariale causato dagli amministratori e dai dipendenti delle società in house:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sussiste la giurisdizione della Corte dei conti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Sono esperibili esclusivamente le azioni civili di responsabilità previste per le società di capitali",
+        "why_wrong": "Le azioni civili ordinarie sono la regola per le società partecipate, «salva la giurisdizione della Corte dei conti» per il danno erariale nelle società in house (art. 12, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "È competente il tribunale, su denunzia di gravi irregolarità di qualsiasi amministrazione socia",
+        "why_wrong": "La denunzia di gravi irregolarità al tribunale è disciplinata dall'art. 13 per le società a controllo pubblico e riguarda la gestione, non il danno erariale."
+      },
+      {
+        "id": "d",
+        "text": "La giurisdizione della Corte dei conti sussiste solo nei limiti della quota di partecipazione pubblica",
+        "why_wrong": "Il limite della quota di partecipazione riguarda la giurisdizione sulle controversie per il danno erariale subito dagli enti partecipanti (art. 12, commi 1 e 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 12, comma 1, assoggetta i componenti degli organi delle società partecipate alle ordinarie azioni civili di responsabilità, salva la giurisdizione della Corte dei conti per il danno erariale causato da amministratori e dipendenti delle società in house.",
+    "evidence": [
+      {
+        "ref": "art. 12, comma 1",
+        "text": "I componenti degli organi di amministrazione e controllo delle società partecipate sono soggetti alle azioni civili di responsabilità previste dalla disciplina ordinaria delle società di capitali, salva la giurisdizione della Corte dei conti per il danno erariale causato dagli amministratori e dai dipendenti delle società in house."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 12, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
