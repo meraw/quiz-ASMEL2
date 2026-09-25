@@ -1,0 +1,358 @@
+[
+  {
+    "id": "op-raz-001",
+    "subject": "organismi-partecipati",
+    "question": "Con quale cadenza e entro quale termine le amministrazioni pubbliche adottano l'analisi dell'assetto complessivo delle società partecipate e gli eventuali piani di razionalizzazione, ai sensi dell'art. 20 del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ogni tre anni, entro il 30 settembre",
+        "why_wrong": "Il 30 settembre 2017 era il termine della revisione straordinaria una tantum (art. 24, comma 1); la razionalizzazione periodica è annuale."
+      },
+      {
+        "id": "b",
+        "text": "Annualmente, entro il 31 dicembre di ogni anno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Annualmente, entro il 30 aprile, insieme al rendiconto",
+        "why_wrong": "L'art. 20, comma 3, fissa il termine al 31 dicembre di ogni anno."
+      },
+      {
+        "id": "d",
+        "text": "Solo quando la Corte dei conti ne faccia richiesta",
+        "why_wrong": "L'art. 20, comma 1, impone l'analisi annuale con proprio provvedimento, indipendentemente da richieste della Corte dei conti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 20 prevede un'analisi annuale dell'assetto delle partecipazioni (comma 1); i provvedimenti di analisi e razionalizzazione sono adottati entro il 31 dicembre di ogni anno (comma 3).",
+    "evidence": [
+      {
+        "ref": "art. 20, comma 3",
+        "text": "I provvedimenti di cui ai commi 1 e 2 sono adottati entro il 31 dicembre di ogni anno"
+      },
+      {
+        "ref": "art. 20, comma 1",
+        "text": "pubbliche effettuano annualmente, con proprio provvedimento, un'analisi dell'assetto complessivo delle società in cui detengono partecipazioni,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 20, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-002",
+    "subject": "organismi-partecipati",
+    "question": "In sede di analisi annuale, un Comune rileva di partecipare a una società che nel triennio precedente ha conseguito un fatturato medio di 800.000 euro. Ai sensi dell'art. 20 del d.lgs. 175/2016, il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non deve fare nulla, se la società ha chiuso l'ultimo esercizio in utile",
+        "why_wrong": "Il fatturato medio non superiore a un milione di euro è un presupposto autonomo del piano (art. 20, comma 2, lett. d), indipendente dal risultato di esercizio."
+      },
+      {
+        "id": "b",
+        "text": "Deve adottare un piano di razionalizzazione, corredato di un'apposita relazione tecnica, perché la società ha un fatturato medio non superiore a un milione di euro",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Deve adottare un piano di razionalizzazione solo se la società ha anche prodotto un risultato negativo per quattro dei cinque esercizi precedenti",
+        "why_wrong": "Il risultato negativo per quattro esercizi su cinque è un diverso presupposto (art. 20, comma 2, lett. e); ciascuna ipotesi del comma 2 basta da sola."
+      },
+      {
+        "id": "d",
+        "text": "Deve procedere alla cancellazione della società dal registro delle imprese",
+        "why_wrong": "La cancellazione d'ufficio è compiuta dal conservatore del registro delle imprese per le società inattive (art. 20, comma 9)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 20, comma 2, lett. d), include tra i presupposti dei piani di razionalizzazione le partecipazioni in società che nel triennio precedente hanno avuto un fatturato medio non superiore a un milione di euro.",
+    "evidence": [
+      {
+        "ref": "art. 20, comma 2, lett. d)",
+        "text": "d) partecipazioni in società che, nel triennio precedente, abbiano conseguito un fatturato medio non superiore a un milione di euro;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 20, comma 2, lett. d)",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-003",
+    "subject": "organismi-partecipati",
+    "question": "Una società partecipata da un Comune, costituita per la gestione di un servizio d'interesse generale, ha prodotto un risultato negativo in quattro dei cinque esercizi precedenti. Con riferimento al presupposto dell'art. 20, comma 2, lett. e), del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il presupposto ricorre e impone la messa in liquidazione della società",
+        "why_wrong": "Il presupposto della lett. e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale; in ogni caso l'art. 20 prevede un piano, non la liquidazione automatica."
+      },
+      {
+        "id": "b",
+        "text": "Il presupposto non ricorre, perché la lettera e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il presupposto ricorre, perché la lettera e) si applica a tutte le società partecipate",
+        "why_wrong": "La lett. e) esclude espressamente le società costituite per la gestione di un servizio d'interesse generale."
+      },
+      {
+        "id": "d",
+        "text": "Il presupposto ricorre solo se i risultati negativi sono consecutivi",
+        "why_wrong": "La lett. e) richiede un risultato negativo per quattro dei cinque esercizi precedenti, senza richiedere che siano consecutivi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 20, comma 2, lett. e), riguarda le partecipazioni in società diverse da quelle costituite per la gestione di un servizio d'interesse generale che abbiano prodotto un risultato negativo per quattro dei cinque esercizi precedenti.",
+    "evidence": [
+      {
+        "ref": "art. 20, comma 2, lett. e)",
+        "text": "e) partecipazioni in società diverse da quelle costituite per la gestione di un servizio d'interesse generale che abbiano prodotto un risultato negativo per quattro dei cinque esercizi precedenti;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 20, comma 2, lett. e)",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-004",
+    "subject": "organismi-partecipati",
+    "question": "Quale sanzione è prevista per la mancata adozione, da parte degli enti locali, degli atti di razionalizzazione periodica delle partecipazioni?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La sanzione amministrativa del pagamento di una somma da 5.000 a 500.000 euro, comminata dalla competente sezione giurisdizionale regionale della Corte dei conti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La sanzione amministrativa da 5.000 a 500.000 euro, irrogata dall'Autorità garante della concorrenza e del mercato",
+        "why_wrong": "L'art. 20, comma 7, attribuisce la sanzione alla competente sezione giurisdizionale regionale della Corte dei conti."
+      },
+      {
+        "id": "c",
+        "text": "La riduzione del 30 per cento dei compensi degli amministratori delle società partecipate",
+        "why_wrong": "La riduzione del 30 per cento dei compensi degli amministratori è prevista dall'art. 21, comma 3, per le società in perdita nei tre esercizi precedenti."
+      },
+      {
+        "id": "d",
+        "text": "La cancellazione d'ufficio delle società partecipate dal registro delle imprese",
+        "why_wrong": "La cancellazione d'ufficio riguarda le società che per oltre due anni non hanno depositato il bilancio o compiuto atti di gestione (art. 20, comma 9)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 20, comma 7, punisce la mancata adozione degli atti di razionalizzazione da parte degli enti locali con una sanzione da 5.000 a 500.000 euro, comminata dalla sezione giurisdizionale regionale della Corte dei conti.",
+    "evidence": [
+      {
+        "ref": "art. 20, comma 7",
+        "text": "La mancata adozione degli atti di cui ai commi da 1 a 4 da parte degli enti locali comporta la sanzione amministrativa del pagamento di una somma da un minimo di euro 5.000 a un massimo di euro 500.000, salvo il danno eventualmente rilevato in sede di giudizio amministrativo contabile, comminata dalla competente sezione giurisdizionale regionale della Corte dei conti\""
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 20, comma 7",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-005",
+    "subject": "organismi-partecipati",
+    "question": "Una società partecipata da una Regione, non quotata e diversa da un istituto di credito, ha registrato perdite di esercizio per tre esercizi consecutivi. Salvo quanto previsto dagli artt. 2447 e 2482-ter c.c., la Regione, rientrante tra le amministrazioni di cui all'art. 1, comma 3, della legge n. 196 del 2009:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può sottoscrivere un aumento di capitale, purché motivato analiticamente ai sensi dell'art. 5",
+        "why_wrong": "L'art. 14, comma 5, vieta la sottoscrizione di aumenti di capitale in tale situazione; la motivazione dell'art. 5 non supera il divieto."
+      },
+      {
+        "id": "b",
+        "text": "Non può, di regola, sottoscrivere aumenti di capitale, effettuare trasferimenti straordinari, aperture di credito né rilasciare garanzie a favore della società",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Può rilasciare garanzie, perché il divieto riguarda solo gli aumenti di capitale",
+        "why_wrong": "L'art. 14, comma 5, vieta anche trasferimenti straordinari, aperture di credito e rilascio di garanzie."
+      },
+      {
+        "id": "d",
+        "text": "Deve dismettere la partecipazione entro cinque anni",
+        "why_wrong": "I cinque anni sono il periodo successivo al fallimento di una società a controllo pubblico con affidamenti diretti, nel quale non si possono costituire società per gli stessi servizi (art. 14, comma 6)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14, comma 5, vieta alle amministrazioni di cui all'art. 1, comma 3, della legge n. 196/2009 aumenti di capitale, trasferimenti straordinari, aperture di credito e garanzie a favore di società partecipate (non quotate né istituti di credito) con perdite per tre esercizi consecutivi, salve le eccezioni previste.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 5",
+        "text": "((sottoscrivere aumenti di capitale, effettuare trasferimenti straordinari, aperture di credito)) , né rilasciare garanzie a favore delle società partecipate, con esclusione delle società quotate e degli istituti di credito, che abbiano registrato, per tre esercizi consecutivi, perdite di esercizio ovvero che abbiano utilizzato riserve disponibili per il ripianamento di perdite anche infrannuali."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 14, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-006",
+    "subject": "organismi-partecipati",
+    "question": "Una società a controllo pubblico, titolare di affidamenti diretti per la gestione dei rifiuti, è stata dichiarata fallita. Ai sensi dell'art. 14, comma 6, del d.lgs. 175/2016, le amministrazioni controllanti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nei cinque anni successivi non possono costituire nuove società, né acquisire o mantenere partecipazioni in società, che gestiscano i medesimi servizi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nei tre anni successivi non possono costituire nuove società di qualsiasi tipo",
+        "why_wrong": "L'art. 14, comma 6, prevede un periodo di cinque anni e riguarda le società che gestiscono i medesimi servizi di quella fallita."
+      },
+      {
+        "id": "c",
+        "text": "Possono costituire subito una nuova società per gli stessi servizi, previo piano di risanamento approvato dalla Corte dei conti",
+        "why_wrong": "Il piano di risanamento comunicato alla Corte dei conti riguarda i trasferimenti straordinari consentiti dall'art. 14, comma 5, non la costituzione di nuove società dopo il fallimento."
+      },
+      {
+        "id": "d",
+        "text": "Nei cinque anni successivi non possono detenere partecipazioni in alcuna società",
+        "why_wrong": "Il divieto dell'art. 14, comma 6, riguarda solo le società che gestiscono i medesimi servizi di quella dichiarata fallita."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14, comma 6, vieta alle amministrazioni controllanti, nei cinque anni successivi al fallimento di una società a controllo pubblico titolare di affidamenti diretti, di costituire o partecipare a società che gestiscano i medesimi servizi.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 6",
+        "text": "Nei cinque anni successivi alla dichiarazione di fallimento di una società a controllo pubblico titolare di affidamenti diretti, le pubbliche amministrazioni controllanti non possono costituire nuove società, né acquisire o mantenere partecipazioni in società, qualora le stesse gestiscano i medesimi servizi di quella dichiarata fallita."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 14, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-007",
+    "subject": "organismi-partecipati",
+    "question": "Una società a controllo pubblico assume personale senza aver adottato i provvedimenti sui criteri e le modalità di reclutamento né seguito le procedure previste dall'art. 19, comma 2, del d.lgs. 175/2016. I contratti di lavoro così stipulati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sono validi, perché ai dipendenti delle società a controllo pubblico si applicano le norme del codice civile sul lavoro nell'impresa",
+        "why_wrong": "L'applicazione delle norme civilistiche (art. 19, comma 1) vale «salvo quanto previsto dal presente decreto»; il comma 4 sancisce la nullità."
+      },
+      {
+        "id": "b",
+        "text": "Sono annullabili su ricorso al giudice amministrativo",
+        "why_wrong": "L'art. 19, comma 4, prevede la nullità e mantiene la giurisdizione ordinaria sulla validità dei provvedimenti e delle procedure di reclutamento."
+      },
+      {
+        "id": "c",
+        "text": "Sono nulli, salvo quanto previsto dall'art. 2126 del codice civile ai fini retributivi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Sono convertiti in contratti a tempo determinato",
+        "why_wrong": "L'art. 19, comma 4, sancisce la nullità dei contratti, senza prevederne la conversione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 19, comma 4, dichiara nulli i contratti stipulati in assenza dei provvedimenti o delle procedure di reclutamento, salvo l'art. 2126 c.c. ai fini retributivi; resta ferma la giurisdizione ordinaria.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 4",
+        "text": "retributivi, i contratti di lavoro stipulati in assenza dei provvedimenti o delle procedure di cui al comma 2, sono nulli. Resta ferma la giurisdizione ordinaria sulla validità dei provvedimenti e delle procedure di reclutamento del personale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 19, comma 4",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-raz-008",
+    "subject": "organismi-partecipati",
+    "question": "Secondo l'art. 10 del d.lgs. 175/2016, l'alienazione di partecipazioni sociali delle amministrazioni pubbliche:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È effettuata sempre mediante asta pubblica, senza eccezioni",
+        "why_wrong": "L'art. 10, comma 2, ammette in casi eccezionali la negoziazione diretta con un singolo acquirente."
+      },
+      {
+        "id": "b",
+        "text": "È effettuata nel rispetto dei principi di pubblicità, trasparenza e non discriminazione e, in casi eccezionali, con deliberazione motivata sulla convenienza economica, anche mediante negoziazione diretta con un singolo acquirente",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Può essere effettuata liberamente mediante negoziazione diretta, se il prezzo è pari al valore nominale della quota",
+        "why_wrong": "La negoziazione diretta è ammessa solo in casi eccezionali, con deliberazione che dia analiticamente atto della convenienza economica e della congruità del prezzo (art. 10, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "È valida anche in mancanza di atto deliberativo, se il contratto è stato stipulato",
+        "why_wrong": "La mancanza o invalidità dell'atto deliberativo rende inefficace l'atto di alienazione (art. 10, comma 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 10, comma 2, richiede che l'alienazione rispetti i principi di pubblicità, trasparenza e non discriminazione; in casi eccezionali, con deliberazione motivata sulla convenienza economica e sulla congruità del prezzo, è ammessa la negoziazione diretta.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 2",
+        "text": "L'alienazione delle partecipazioni è effettuata nel rispetto dei principi di pubblicità, trasparenza e non discriminazione. In casi eccezionali, a seguito di deliberazione motivata dell'organo competente ai sensi del comma 1, che dà analiticamente atto della convenienza economica dell'operazione, con particolare riferimento alla congruità del prezzo di vendita, l'alienazione può essere effettuata mediante negoziazione diretta con un singolo acquirente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 10, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

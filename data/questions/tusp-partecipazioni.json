@@ -1,0 +1,530 @@
+[
+  {
+    "id": "op-par-001",
+    "subject": "organismi-partecipati",
+    "question": "In quali tipi di società le amministrazioni pubbliche possono detenere partecipazioni, ai sensi del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Esclusivamente in società, anche consortili, costituite in forma di società per azioni o di società a responsabilità limitata, anche in forma cooperativa",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "In qualsiasi organismo di cui ai titoli V e VI, capo I, del libro V del codice civile",
+        "why_wrong": "È la definizione di «società» dell'art. 2, comma 1, lett. l); l'art. 3, comma 1, limita invece la partecipazione alle sole s.p.a. e s.r.l."
+      },
+      {
+        "id": "c",
+        "text": "Esclusivamente in società per azioni, con esclusione delle società a responsabilità limitata",
+        "why_wrong": "L'art. 3, comma 1, ammette espressamente anche le società a responsabilità limitata."
+      },
+      {
+        "id": "d",
+        "text": "In società per azioni e a responsabilità limitata, con esclusione delle società consortili e cooperative",
+        "why_wrong": "L'art. 3, comma 1, ammette le società «anche consortili» e «anche in forma cooperativa»."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 1, consente alle amministrazioni pubbliche di partecipare esclusivamente a società per azioni o a responsabilità limitata, anche consortili e anche in forma cooperativa.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1",
+        "text": "Le amministrazioni pubbliche possono partecipare esclusivamente a società, anche consortili, costituite in forma di società per azioni o di società a responsabilità limitata, anche in forma cooperativa."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 3, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-002",
+    "subject": "organismi-partecipati",
+    "question": "Un Comune detiene il controllo di una società per azioni e intende affidare la revisione legale dei conti al collegio sindacale. Secondo il d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È possibile, se lo statuto lo prevede espressamente",
+        "why_wrong": "L'art. 3, comma 2, esclude l'affidamento al collegio sindacale nelle s.p.a. a controllo pubblico, senza eccezioni statutarie."
+      },
+      {
+        "id": "b",
+        "text": "Non è possibile: nelle società per azioni a controllo pubblico la revisione legale dei conti non può essere affidata al collegio sindacale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È possibile, perché l'unico obbligo previsto riguarda la nomina dell'organo di controllo o di un revisore",
+        "why_wrong": "L'obbligo di prevedere l'organo di controllo o un revisore riguarda le s.r.l. a controllo pubblico (art. 3, comma 2, primo periodo)."
+      },
+      {
+        "id": "d",
+        "text": "È possibile solo previa deliberazione del consiglio comunale",
+        "why_wrong": "L'art. 3, comma 2, pone un divieto per le s.p.a. a controllo pubblico che nessuna deliberazione può superare."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 3, comma 2, secondo periodo, stabilisce che nelle società per azioni a controllo pubblico la revisione legale dei conti non può essere affidata al collegio sindacale.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 2",
+        "text": "Nelle società per azioni a controllo pubblico la revisione legale dei conti non può essere affidata al collegio sindacale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 3, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-003",
+    "subject": "organismi-partecipati",
+    "question": "Una Provincia possiede una partecipazione di minoranza, pari al 2 per cento del capitale, in una società che produce beni non strettamente necessari per il perseguimento delle finalità istituzionali dell'ente. Ai sensi dell'art. 4, comma 1, del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può mantenerla, perché il divieto riguarda solo le partecipazioni di controllo",
+        "why_wrong": "L'art. 4, comma 1, vieta di mantenere partecipazioni «anche di minoranza» in tali società."
+      },
+      {
+        "id": "b",
+        "text": "Può mantenerla, perché la partecipazione non supera l'1 per cento del capitale",
+        "why_wrong": "Il limite dell'1 per cento riguarda solo le società bancarie di finanza etica e sostenibile (art. 4, comma 9-ter); qui, in ogni caso, la quota è del 2 per cento."
+      },
+      {
+        "id": "c",
+        "text": "Non può mantenerla, perché il divieto riguarda anche le partecipazioni di minoranza",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Può mantenerla, purché l'atto deliberativo sia analiticamente motivato",
+        "why_wrong": "La motivazione analitica dell'art. 5 si riferisce alla necessità della società per le finalità istituzionali di cui all'art. 4; non consente di superare il divieto del comma 1."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 4, comma 1, vieta alle amministrazioni di costituire società con attività non strettamente necessarie alle proprie finalità istituzionali e di acquisire o mantenere in esse partecipazioni, anche di minoranza.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1",
+        "text": "Le amministrazioni pubbliche non possono, direttamente o indirettamente, costituire società aventi per oggetto attività di produzione di beni e servizi non strettamente necessarie per il perseguimento delle proprie finalità istituzionali, né acquisire o mantenere partecipazioni, anche di minoranza, in tali società."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 4, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-004",
+    "subject": "organismi-partecipati",
+    "question": "Al solo fine di ottimizzare e valorizzare l'utilizzo di beni immobili del proprio patrimonio, le amministrazioni pubbliche possono acquisire partecipazioni in società aventi per oggetto sociale esclusivo la valorizzazione del patrimonio delle amministrazioni stesse:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solo se si tratta di società in house",
+        "why_wrong": "L'art. 4, comma 3, non richiede che la società sia in house."
+      },
+      {
+        "id": "b",
+        "text": "Anche in deroga al comma 1 dell'art. 4, tramite il conferimento di beni immobili, per realizzare un investimento secondo criteri propri di un qualsiasi operatore di mercato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Solo previo decreto del Presidente del Consiglio dei ministri di esclusione dall'applicazione dell'art. 4",
+        "why_wrong": "Il DPCM di esclusione è previsto dall'art. 4, comma 9; la possibilità del comma 3 opera direttamente."
+      },
+      {
+        "id": "d",
+        "text": "Esclusivamente mediante conferimento in denaro, per garantire la liquidità della società",
+        "why_wrong": "L'art. 4, comma 3, prevede l'acquisizione «tramite il conferimento di beni immobili»."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4, comma 3, consente, anche in deroga al comma 1, di acquisire partecipazioni in società di valorizzazione del patrimonio immobiliare, mediante conferimento di immobili e secondo criteri propri di un operatore di mercato.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 3",
+        "text": "Al solo fine di ottimizzare e valorizzare l'utilizzo di beni immobili facenti parte del proprio patrimonio, le amministrazioni pubbliche possono, altresì, anche in deroga al comma 1, acquisire partecipazioni in società aventi per oggetto sociale esclusivo la valorizzazione del patrimonio delle amministrazioni stesse, tramite il conferimento di beni immobili allo scopo di realizzare un investimento secondo criteri propri di un qualsiasi operatore di mercato."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 4, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-005",
+    "subject": "organismi-partecipati",
+    "question": "Una società controllata da un Comune, costituita per l'autoproduzione di servizi strumentali all'ente, intende acquisire una nuova partecipazione in un'altra società. Salvo diverse previsioni di legge regionali, secondo il d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può farlo, previa deliberazione del consiglio comunale",
+        "why_wrong": "L'art. 4, comma 5, pone un divieto per le società strumentali controllate da enti locali, non superabile con una deliberazione dell'ente."
+      },
+      {
+        "id": "b",
+        "text": "Può farlo solo se la nuova società svolge anch'essa attività strumentali",
+        "why_wrong": "Il divieto dell'art. 4, comma 5, riguarda ogni nuova partecipazione, senza distinguere l'attività della società partecipata."
+      },
+      {
+        "id": "c",
+        "text": "Non può farlo, salvo che abbia come oggetto sociale esclusivo la gestione delle partecipazioni societarie di enti locali",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Può farlo liberamente, perché il divieto riguarda solo la costituzione di nuove società",
+        "why_wrong": "L'art. 4, comma 5, vieta sia di costituire nuove società sia di acquisire nuove partecipazioni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 4, comma 5, vieta alle società strumentali (comma 2, lett. d) controllate da enti locali di costituire nuove società e di acquisire nuove partecipazioni; il divieto non si applica alle società che hanno come oggetto esclusivo la gestione delle partecipazioni di enti locali.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 5",
+        "text": "è fatto divieto alle società di cui al comma 2, lettera d), controllate da enti locali, di costituire nuove società e di acquisire nuove partecipazioni in società. Il divieto non si applica alle società che hanno come oggetto sociale esclusivo la gestione delle partecipazioni societarie di enti locali,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 4, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-006",
+    "subject": "organismi-partecipati",
+    "question": "Entro quale limite le amministrazioni pubbliche possono acquisire o mantenere partecipazioni in società bancarie di finanza etica e sostenibile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non oltre il 10 per cento del capitale sociale",
+        "why_wrong": "Il 10 per cento è la soglia di partecipazione oltre la quale, nelle società non a controllo pubblico, l'amministrazione propone misure analoghe a quelle dell'art. 11, commi 6 e 10 (art. 11, comma 16)."
+      },
+      {
+        "id": "b",
+        "text": "Non oltre l'1 per cento del capitale sociale, senza ulteriori oneri finanziari rispetto a quelli derivanti dalla partecipazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Non oltre il 30 per cento del capitale sociale",
+        "why_wrong": "Il 30 per cento è la quota minima del socio privato nelle società miste (art. 17, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Senza limiti, purché l'atto deliberativo sia comunicato alla Corte dei conti",
+        "why_wrong": "L'art. 4, comma 9-ter, fissa un limite massimo dell'1 per cento del capitale sociale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4, comma 9-ter, fa salva la possibilità di detenere partecipazioni non superiori all'1 per cento del capitale in società bancarie di finanza etica e sostenibile, senza ulteriori oneri finanziari.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 9-ter",
+        "text": "acquisire o mantenere partecipazioni, comunque non superiori all'1 per cento del capitale sociale, in società bancarie di finanza etica e sostenibile,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 4, comma 9-ter",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-007",
+    "subject": "organismi-partecipati",
+    "question": "Secondo l'art. 5 del d.lgs. 175/2016, l'atto deliberativo di costituzione di una società a partecipazione pubblica NON deve essere analiticamente motivato quando:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'acquisto della partecipazione avviene attraverso un aumento di capitale",
+        "why_wrong": "L'art. 5, comma 1, include espressamente l'acquisto «anche attraverso aumento di capitale»; l'esenzione dipende solo dalla conformità a espresse previsioni legislative."
+      },
+      {
+        "id": "b",
+        "text": "La costituzione o l'acquisto avviene in conformità a espresse previsioni legislative",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Si tratta di una partecipazione indiretta",
+        "why_wrong": "L'art. 5, comma 1, richiede la motivazione analitica anche per l'acquisto di partecipazioni «anche indirette»."
+      },
+      {
+        "id": "d",
+        "text": "La società è costituita con un socio privato scelto con gara ai sensi dell'art. 17",
+        "why_wrong": "L'art. 5, comma 1, richiede la motivazione «anche nei casi di cui all'articolo 17»."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'obbligo di motivazione analitica dell'art. 5, comma 1, non si applica solo quando la costituzione della società o l'acquisto della partecipazione avviene in conformità a espresse previsioni legislative.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 1",
+        "text": "A eccezione dei casi in cui la costituzione di una società o l'acquisto di una partecipazione, anche attraverso aumento di capitale, avvenga in conformità a espresse previsioni legislative,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 5, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-008",
+    "subject": "organismi-partecipati",
+    "question": "L'atto deliberativo di costituzione di una società o di acquisizione di una partecipazione è inviato alla Corte dei conti. Che cosa accade se la Corte non si pronuncia entro sessanta giorni dal ricevimento?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'atto si intende respinto e l'amministrazione non può procedere",
+        "why_wrong": "L'art. 5, comma 3, prevede l'effetto opposto: in caso di silenzio l'amministrazione può procedere."
+      },
+      {
+        "id": "b",
+        "text": "Il termine è prorogato di ulteriori sessanta giorni",
+        "why_wrong": "L'art. 5, comma 3, non prevede alcuna proroga del termine."
+      },
+      {
+        "id": "c",
+        "text": "L'amministrazione può procedere alla costituzione della società o all'acquisto della partecipazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'atto è trasmesso all'Autorità garante della concorrenza e del mercato, che decide in via definitiva",
+        "why_wrong": "All'AGCM l'atto è inviato in ogni caso, ai fini dei poteri dell'art. 21-bis della legge n. 287 del 1990; non subentra alla Corte dei conti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Secondo l'art. 5, comma 3, la Corte dei conti delibera entro sessanta giorni dal ricevimento; se non si pronuncia entro tale termine, l'amministrazione può procedere.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 3",
+        "text": "che delibera, entro il termine di sessanta giorni dal ricevimento, in ordine alla conformità dell'atto a quanto disposto dai commi 1 e 2 del presente articolo, nonché dagli articoli 4, 7 e 8, con particolare riguardo alla sostenibilità finanziaria e alla compatibilità della scelta con i principi di efficienza, di efficacia e di economicità dell'azione amministrativa. Qualora la Corte non si pronunci entro il termine di cui al primo periodo, l'amministrazione può procedere alla costituzione della società o all'acquisto della partecipazione di cui al presente articolo))"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 5, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-009",
+    "subject": "organismi-partecipati",
+    "question": "Un Comune ha trasmesso alla Corte dei conti la delibera di acquisto di una partecipazione e ha ricevuto un parere in parte negativo. Se intende procedere egualmente, il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve motivare analiticamente le ragioni per le quali intende discostarsi dal parere e dare pubblicità a tali ragioni nel proprio sito internet istituzionale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Non può procedere, perché il parere negativo è vincolante",
+        "why_wrong": "L'art. 5, comma 4, ammette che l'amministrazione proceda egualmente, con motivazione analitica e pubblicità."
+      },
+      {
+        "id": "c",
+        "text": "Deve sottoporre la delibera alle Sezioni Riunite in sede di controllo",
+        "why_wrong": "Le Sezioni Riunite sono competenti per gli atti delle amministrazioni dello Stato e degli enti nazionali; per gli enti locali è competente la Sezione regionale di controllo (art. 5, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "Deve attendere il decorso di sessanta giorni dal parere",
+        "why_wrong": "I sessanta giorni sono il termine entro cui la Corte delibera (art. 5, comma 3), non un'attesa successiva al parere negativo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, comma 4, stabilisce che, in caso di parere in tutto o in parte negativo, l'amministrazione che intende procedere egualmente deve motivare analiticamente le ragioni del dissenso e pubblicarle sul proprio sito istituzionale.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 4",
+        "text": "In caso di parere in tutto o in parte negativo, ove l'amministrazione pubblica interessata intenda procedere egualmente è tenuta a motivare analiticamente le ragioni per le quali intenda discostarsi dal parere e a dare pubblicità, nel proprio sito internet istituzionale, a tali ragioni))"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 5, comma 4",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-010",
+    "subject": "organismi-partecipati",
+    "question": "Un Comune intende partecipare alla costituzione di una nuova società. Da quale organo è adottata la deliberazione di partecipazione, ai sensi dell'art. 7 del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dalla giunta comunale",
+        "why_wrong": "L'art. 7, comma 1, lett. c), attribuisce la deliberazione al consiglio comunale."
+      },
+      {
+        "id": "b",
+        "text": "Dal sindaco",
+        "why_wrong": "Al sindaco (o al suo delegato) spetta l'esercizio dei diritti del socio per le partecipazioni di enti locali (art. 9, comma 3), non la deliberazione di partecipazione."
+      },
+      {
+        "id": "c",
+        "text": "Dal consiglio comunale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Dall'organo amministrativo dell'ente",
+        "why_wrong": "La delibera dell'organo amministrativo è prevista per tutti gli altri casi di partecipazioni pubbliche (art. 7, comma 1, lett. d)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Per le partecipazioni comunali, l'art. 7, comma 1, lett. c), prevede che la deliberazione di partecipazione alla costituzione di una società sia adottata dal consiglio comunale.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 1",
+        "text": "c) deliberazione del consiglio comunale, in caso di partecipazioni comunali;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 7, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-011",
+    "subject": "organismi-partecipati",
+    "question": "Quale conseguenza produce la mancanza o l'invalidità dell'atto deliberativo avente ad oggetto l'acquisto di una partecipazione in una società già costituita?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le partecipazioni sono liquidate secondo quanto disposto dall'art. 24, comma 5",
+        "why_wrong": "La liquidazione ai sensi dell'art. 24, comma 5, è prevista dall'art. 7, comma 6, per la società costituita senza atto deliberativo, non per l'acquisto in società già esistenti."
+      },
+      {
+        "id": "b",
+        "text": "Si applicano le disposizioni dell'art. 2332 del codice civile sulla nullità della società",
+        "why_wrong": "L'art. 2332 c.c. è richiamato dall'art. 7, comma 6, quando manca l'atto relativo a una partecipazione essenziale in sede di costituzione."
+      },
+      {
+        "id": "c",
+        "text": "Il contratto di acquisto della partecipazione è inefficace",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Nessuna, se l'acquisto è stato comunicato alla Corte dei conti",
+        "why_wrong": "L'art. 8, comma 2, collega direttamente l'inefficacia del contratto alla mancanza o invalidità dell'atto deliberativo."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8, comma 2, stabilisce che la mancanza o invalidità dell'atto deliberativo di acquisto rende inefficace il contratto di acquisto della partecipazione.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 2",
+        "text": "L'eventuale mancanza o invalidità dell'atto deliberativo avente ad oggetto l'acquisto della partecipazione rende inefficace il contratto di acquisto della partecipazione medesima."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 8, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-par-012",
+    "subject": "organismi-partecipati",
+    "question": "Ai sensi dell'art. 2 del d.lgs. 175/2016, per «partecipazione indiretta» si intende:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La titolarità di strumenti finanziari che attribuiscono diritti amministrativi",
+        "why_wrong": "È parte della definizione generale di «partecipazione» (art. 2, comma 1, lett. f)."
+      },
+      {
+        "id": "b",
+        "text": "La partecipazione in una società detenuta da un'amministrazione pubblica per il tramite di società o altri organismi soggetti a controllo da parte della medesima amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "La partecipazione detenuta da un'amministrazione congiuntamente con altre amministrazioni che esercitano il controllo analogo",
+        "why_wrong": "Descrive il «controllo analogo congiunto» (art. 2, comma 1, lett. d), non la partecipazione indiretta."
+      },
+      {
+        "id": "d",
+        "text": "La partecipazione detenuta da un'amministrazione in una società quotata in mercati regolamentati",
+        "why_wrong": "Le società quotate sono definite dall'art. 2, comma 1, lett. p), senza riferimento al carattere indiretto della partecipazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 1, lett. g), definisce la partecipazione indiretta come quella detenuta da un'amministrazione per il tramite di società o altri organismi da essa controllati.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 1, lett. g)",
+        "text": "g) «partecipazione indiretta»: la partecipazione in una società detenuta da un'amministrazione pubblica per il tramite di società o altri organismi soggetti a controllo da parte della medesima amministrazione pubblica;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 2, comma 1, lett. g)",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
