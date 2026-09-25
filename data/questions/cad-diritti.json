@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta a contiene anche «valido ai fini delle comunicazioni elettroniche aventi valore legale», ma l'evidence si ferma a «...o un servizio elettronico di recapito certificato qualificato» e non riporta questa parte. Nel file, art. 1, comma 1, lett. n-ter), la definizione prosegue dopo il rinvio al Regolamento eIDAS: «di seguito \"Regolamento eIDAS\",valido ai fini delle comunicazioni elettroniche aventi valore legale;». Suggerimento: aggiungere una seconda evidence (art. 1, comma 1) con «valido ai fini delle comunicazioni elettroniche aventi valore legale».",
     "no_shuffle": false
   },
   {
@@ -84,7 +85,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +133,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La seconda evidence («ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.») parte da metà frase e, letta da sola, non dice né chi può farlo né che cosa si fa presso l'ufficio anagrafe, cioè proprio la parte finale della risposta corretta a. Nel file, art. 3-bis, comma 1-ter, il periodo è: «Le persone fisiche possono altresì eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line dall'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.». Suggerimento: citare il periodo intero da «Le persone fisiche possono altresì eleggere il domicilio digitale».",
     "no_shuffle": false
   },
   {
@@ -176,7 +178,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +222,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -268,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La prima evidence («non più di due soggetti iscritti») è un frammento che, letto da solo, non dice che si tratta della delega dell'accesso ai servizi in rete, né chi può delegare: è il contenuto principale della risposta corretta a. Nel file, art. 64-ter, comma 1: «Il cittadino iscritto ((nell'ANPR)) può delegare l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono ((l'identificazione informatica a)) non più di due soggetti iscritti ((nell'ANPR))». Suggerimento: citare il comma 1 da «può delegare l'accesso ai servizi in rete» fino a «non più di due soggetti iscritti» (verificando il testo carattere per carattere con le doppie parentesi).",
     "no_shuffle": false
   }
 ]
