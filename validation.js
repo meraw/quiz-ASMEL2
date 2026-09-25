@@ -7,6 +7,9 @@
  *   - by tools/validate.js on the command line (and in the GitHub Actions
  *     deploy), which stops the deploy if anything is invalid.
  * Change the rules only here, so the two can never disagree.
+ *
+ * It also holds the option-length check (optionLengthCue), shared by
+ * Diagnostica and tools/check_lengths.js. That one is only a warning.
  */
 (function (root, factory) {
   if (typeof module === 'object' && module.exports) module.exports = factory();
@@ -65,6 +68,27 @@
     return problems;
   }
 
+  // A question is flagged for the length cue when the correct option is the
+  // longest AND at least this many times longer than the longest distractor.
+  const LENGTH_CUE_RATIO = 1.25;
+
+  /**
+   * Length cue: is the correct option noticeably longer than the distractors?
+   * Lengths are in characters, after trimming. Call it only on a valid question.
+   * Returns { correctLen, maxDistractorLen, longest, flagged }:
+   *   longest - the correct option is strictly longer than every distractor
+   *   flagged - longest, and correctLen >= LENGTH_CUE_RATIO * maxDistractorLen
+   * Not a validation error: flagged questions stay in every quiz mode.
+   */
+  function optionLengthCue(q) {
+    const len = (o) => o.text.trim().length;
+    const correct = q.options.find((o) => o.id === q.correct);
+    const correctLen = len(correct);
+    const maxDistractorLen = Math.max(...q.options.filter((o) => o !== correct).map(len));
+    const longest = correctLen > maxDistractorLen;
+    return { correctLen, maxDistractorLen, longest, flagged: longest && correctLen >= LENGTH_CUE_RATIO * maxDistractorLen };
+  }
+
   /**
    * Check every question file.
    * `results` is a list of { file, json } (file read and parsed) or
@@ -105,5 +129,5 @@
     return out;
   }
 
-  return { STATUS_VALUES, validateQuestion, validateBank };
+  return { STATUS_VALUES, LENGTH_CUE_RATIO, validateQuestion, validateBank, optionLengthCue };
 });

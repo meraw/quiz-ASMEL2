@@ -74,6 +74,7 @@ so you can see a red cross on the pull request page before you merge it.
 | `sources/` | The law texts used to write the questions (e.g. `L241-1990_2026-09-24.txt`, saved from Normattiva). |
 | `tools/build-index.js` | Makes `data/questions/index.json`, the list of question files the app loads. Runs automatically; that file is not in the repository and must never be edited by hand. |
 | `tools/validate.js` | Checks every question file with the same rules as the app. |
+| `tools/check_lengths.js` | Reports, per file and per subject, how often the correct option is the longest, and flags questions where it is also at least 25% longer than every distractor. Report only: it never stops the deploy. |
 | `tools/check_evidence.py` | Checks that every `evidence` quote is copied word for word from its `source.file` (see below). |
 | `.github/workflows/deploy.yml` | The automatic check and publication described above. |
 | `GENERAZIONE.md`, `REVISIONE.md` | The rules for generating and reviewing questions. |
@@ -256,6 +257,17 @@ node tools/validate.js
 ```
 
 The last line says `OK` or `FAILED`.
+
+The option length check reports how often the correct option is the longest
+(the same count appears in **Diagnostica**, as a warning):
+
+```
+node tools/check_lengths.js                   whole bank
+node tools/check_lengths.js new-file.json --list --strict
+```
+
+`--list` names every flagged question; `--strict` exits with an error when
+any question is flagged (use it on new files, see GENERAZIONE.md).
 
 The study rules have their own tests (Node.js only, nothing to install):
 

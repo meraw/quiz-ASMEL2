@@ -26,6 +26,7 @@ Each request specifies:
 - Every `why_wrong` must only state what the source says. Keep it short: name the rule or concept the distractor confuses, without adding explanations of your own. If you can't justify why a distractor is wrong from the source, choose a different distractor.
 - Avoid "tutte le precedenti" / "nessuna delle precedenti"; if used, set `no_shuffle: true`.
 - Avoid negative stems; if unavoidable, write NON in capitals.
+- All options must be similar in length, structure and level of detail. The correct option must not be systematically the longest: give distractors the same kind of qualifications and specifics as the correct answer, and cut unnecessary detail from the correct answer.
 - Mix of difficulty: roughly one third straightforward, one third medium, one third tricky.
 - Correct, formal Italian, in the style of Italian public competition quizzes.
 
@@ -72,6 +73,7 @@ Source: a list of topics given in the prompt.
 1. Run `tools/validate.js` on the whole bank: no question may be invalid.
 2. For type `norma`, run the verbatim evidence check in `tools/`: every `evidence.text` must appear in its `source.file`. Fix every mismatch.
 3. Run the index build script and check that the new files are included.
+4. Run tools/check_lengths.js on the new files: no question may be flagged. Rewrite the options of any flagged question before opening the PR.
 
 ## Pull request description
 
