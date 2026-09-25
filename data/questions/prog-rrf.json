@@ -6,22 +6,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Politiche per la prossima generazione, l'infanzia e i giovani, come l'istruzione e le competenze",
+        "text": "Politiche per la prossima generazione, l'infanzia e i giovani",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Politica agricola comune e pesca",
+        "text": "Politica agricola comune, sviluppo rurale e pesca sostenibile",
         "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
       },
       {
         "id": "c",
-        "text": "Gestione delle frontiere e politica dei visti",
+        "text": "Gestione delle frontiere esterne, migrazione e politica dei visti",
         "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
       },
       {
         "id": "d",
-        "text": "Politica estera e di sicurezza comune",
+        "text": "Politica estera e di sicurezza comune, inclusa la difesa comune",
         "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
       }
     ],
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rrf-002",
@@ -138,23 +139,23 @@
     "options": [
       {
         "id": "a",
-        "text": "sostituire le spese di bilancio correnti degli Stati membri colpite dalla crisi COVID-19",
+        "text": "sostituire le spese di bilancio correnti a livello nazionale, così da attenuare l'impatto sociale ed economico della crisi COVID-19 negli Stati membri",
         "why_wrong": "L'art. 5, par. 1, stabilisce che il sostegno non sostituisce, salvo casi debitamente motivati, le spese di bilancio correnti."
       },
       {
         "id": "b",
-        "text": "fornire un sostegno finanziario che consenta agli Stati membri di raggiungere i traguardi e gli obiettivi delle riforme e degli investimenti stabiliti nei loro piani per la ripresa e la resilienza",
+        "text": "fornire un sostegno finanziario che consenta agli Stati membri di raggiungere i traguardi e gli obiettivi delle riforme e degli investimenti dei loro piani",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "promuovere la coesione economica, sociale e territoriale dell'Unione",
+        "text": "promuovere la coesione economica, sociale e territoriale dell'Unione, migliorando la resilienza, la preparazione alle crisi e il potenziale di crescita degli Stati membri",
         "why_wrong": "È l'obiettivo generale del dispositivo (art. 4, par. 1), non quello specifico."
       },
       {
         "id": "d",
-        "text": "finanziare le azioni specifiche dei fondi strutturali non coperte dai programmi",
-        "why_wrong": "L'art. 4, par. 2, riferisce l'obiettivo specifico ai traguardi e agli obiettivi dei piani per la ripresa e la resilienza."
+        "text": "finanziare le azioni specifiche dei fondi strutturali non coperte dai programmi operativi e dagli accordi di partenariato degli Stati membri",
+        "why_wrong": "L'art. 4, par. 2, riferisce l'obiettivo specifico ai traguardi e agli obiettivi dei piani per la ripresa e la resilienza; accordi di partenariato e programmi operativi sono documenti con cui i piani devono essere coerenti (art. 17, par. 3)."
       }
     ],
     "correct": "b",
@@ -172,8 +173,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rrf-005",
@@ -182,22 +184,22 @@
     "options": [
       {
         "id": "a",
-        "text": "è possibile, perché il dispositivo finanzia qualsiasi misura inserita nel piano",
+        "text": "è possibile, perché il dispositivo finanzia qualsiasi misura inserita nel piano per la ripresa e la resilienza presentato dallo Stato membro alla Commissione",
         "why_wrong": "L'art. 5, par. 1, esclude la sostituzione delle spese di bilancio correnti, salvo casi debitamente motivati."
       },
       {
         "id": "b",
-        "text": "è possibile, purché la misura rispetti il principio «non arrecare un danno significativo»",
-        "why_wrong": "Il rispetto del principio «non arrecare un danno significativo» (art. 5, par. 2) non supera il divieto di sostituire le spese di bilancio correnti posto dal par. 1."
+        "text": "è possibile, purché la misura rispetti il principio «non arrecare un danno significativo» e sia avviata dal 1° febbraio 2020",
+        "why_wrong": "Il rispetto del principio «non arrecare un danno significativo» (art. 5, par. 2) e la data di avvio delle misure (art. 17, par. 2) non superano il divieto di sostituire le spese di bilancio correnti posto dall'art. 5, par. 1."
       },
       {
         "id": "c",
-        "text": "non è possibile, perché il sostegno non sostituisce, salvo casi debitamente motivati, le spese di bilancio correnti a livello nazionale e rispetta il principio dell'addizionalità",
+        "text": "non è possibile, perché il sostegno non sostituisce, salvo casi debitamente motivati, le spese di bilancio correnti a livello nazionale",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "non è possibile in nessun caso, perché il dispositivo finanzia solo investimenti privati",
+        "text": "non è possibile in nessun caso, perché il dispositivo finanzia soltanto investimenti privati incentivati da regimi pubblici",
         "why_wrong": "L'art. 5, par. 1, ammette la sostituzione in casi debitamente motivati; inoltre i piani comprendono riforme e investimenti pubblici (art. 17, par. 1)."
       }
     ],
@@ -216,8 +218,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rrf-006",
@@ -270,17 +273,17 @@
     "options": [
       {
         "id": "a",
-        "text": "non sostituire le spese di bilancio correnti a livello nazionale",
+        "text": "non sostituire, salvo casi debitamente motivati, le spese di bilancio correnti a livello nazionale",
         "why_wrong": "È il contenuto dell'art. 5, par. 1, legato al principio dell'addizionalità."
       },
       {
         "id": "b",
-        "text": "non duplicare i finanziamenti tra il dispositivo e altri programmi dell'Unione",
+        "text": "non duplicare i finanziamenti da parte del dispositivo e di altri programmi dell'Unione",
         "why_wrong": "Evitare la duplicazione dei finanziamenti è oggetto dell'art. 18, par. 4, lett. r), non della definizione del principio."
       },
       {
         "id": "c",
-        "text": "non annullare le misure relative ai traguardi e agli obiettivi già conseguiti",
+        "text": "non annullare le misure relative ai traguardi e agli obiettivi già conseguiti in misura soddisfacente in precedenza",
         "why_wrong": "È una condizione per il conseguimento soddisfacente dei traguardi e degli obiettivi ai fini dei pagamenti (art. 24, par. 3)."
       },
       {
@@ -304,8 +307,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rrf-008",
@@ -314,22 +318,22 @@
     "options": [
       {
         "id": "a",
-        "text": "esclusivamente investimenti pubblici in infrastrutture",
+        "text": "esclusivamente investimenti pubblici in infrastrutture, strutturati in un pacchetto completo e coerente, senza regimi pubblici a favore degli investimenti privati",
         "why_wrong": "L'art. 17, par. 1, comprende sia riforme sia investimenti pubblici, e ammette regimi pubblici per incentivare gli investimenti privati."
       },
       {
         "id": "b",
-        "text": "misure per l'attuazione di riforme e investimenti pubblici, strutturati in un pacchetto completo e coerente, che può anche includere regimi pubblici finalizzati a incentivare gli investimenti privati",
+        "text": "misure per riforme e investimenti pubblici in un pacchetto completo e coerente, che può includere regimi pubblici per incentivare gli investimenti privati",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "solo riforme, poiché gli investimenti sono finanziati dai fondi strutturali",
-        "why_wrong": "L'art. 17, par. 1, include nei piani sia riforme sia investimenti pubblici."
+        "text": "solo riforme strutturali, poiché gli investimenti pubblici e i regimi di incentivo agli investimenti privati sono finanziati dai fondi strutturali",
+        "why_wrong": "L'art. 17, par. 1, include nei piani sia riforme sia investimenti pubblici, e ammette regimi pubblici per incentivare gli investimenti privati."
       },
       {
         "id": "d",
-        "text": "i programmi operativi dei fondi dell'Unione, riuniti in un unico documento",
+        "text": "i programmi operativi e gli accordi di partenariato a titolo dei fondi dell'Unione, riuniti in un unico documento strategico nazionale",
         "why_wrong": "Accordi di partenariato e programmi operativi sono documenti con cui i piani devono essere coerenti (art. 17, par. 3), non il loro contenuto."
       }
     ],
@@ -348,8 +352,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rrf-009",
@@ -402,22 +407,22 @@
     "options": [
       {
         "id": "a",
-        "text": "il pagamento della totalità o di parte del contributo finanziario è sospeso, e lo Stato membro può presentare osservazioni entro un mese dalla comunicazione della valutazione",
+        "text": "il pagamento di tutto o parte del contributo è sospeso e lo Stato membro può presentare osservazioni entro un mese dalla comunicazione della valutazione",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "la Commissione risolve immediatamente gli accordi e recupera integralmente il prefinanziamento",
+        "text": "la Commissione risolve immediatamente gli accordi, disimpegna il contributo e recupera integralmente il prefinanziamento eventualmente versato allo Stato membro",
         "why_wrong": "La risoluzione degli accordi e il recupero del prefinanziamento sono previsti dall'art. 24, par. 9, solo in mancanza di progressi concreti entro 18 mesi dalla decisione di esecuzione del Consiglio."
       },
       {
         "id": "c",
-        "text": "la Commissione riduce subito in proporzione l'importo del contributo",
+        "text": "la Commissione riduce subito in proporzione il contributo, dando allo Stato membro due mesi per presentare le proprie osservazioni",
         "why_wrong": "La riduzione proporzionale è prevista dall'art. 24, par. 8, solo se lo Stato membro non adotta le misure necessarie entro sei mesi dalla sospensione."
       },
       {
         "id": "d",
-        "text": "il pagamento è comunque erogato, ma lo Stato membro deve modificare il piano",
+        "text": "il pagamento è comunque erogato per intero, ma lo Stato membro deve modificare il piano entro sei mesi dalla valutazione della Commissione",
         "why_wrong": "L'art. 24, par. 6, prevede la sospensione del pagamento, revocata solo quando lo Stato membro ha adottato le misure necessarie."
       }
     ],
@@ -436,7 +441,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

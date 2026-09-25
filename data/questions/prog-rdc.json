@@ -187,18 +187,18 @@
       },
       {
         "id": "b",
-        "text": "Il FEAMPA",
-        "why_wrong": "Il FEAMPA è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+        "text": "Il Fondo europeo di sviluppo regionale (FESR)",
+        "why_wrong": "Il FESR è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
       },
       {
         "id": "c",
-        "text": "Il Fondo di coesione",
-        "why_wrong": "Il Fondo di coesione è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+        "text": "Il Fondo sociale europeo Plus (FSE+)",
+        "why_wrong": "Il FSE+ è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
       },
       {
         "id": "d",
-        "text": "Il FSE+",
-        "why_wrong": "Il FSE+ è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+        "text": "Il Fondo Sicurezza interna (ISF)",
+        "why_wrong": "L'ISF non figura tra i fondi dell'art. 5, par. 1, che attribuisce l'obiettivo specifico sulla transizione verso gli obiettivi per l'energia e il clima al JTF."
       }
     ],
     "correct": "a",
@@ -216,8 +216,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-006",
@@ -226,8 +227,8 @@
     "options": [
       {
         "id": "a",
-        "text": "«Un'Europa più connessa»",
-        "why_wrong": "La lett. c) riguarda il rafforzamento della mobilità; la mobilità urbana sostenibile e l'adattamento ai cambiamenti climatici sono espressamente indicati alla lett. b)."
+        "text": "«Un'Europa più connessa» attraverso il rafforzamento della mobilità",
+        "why_wrong": "La lett. c) riguarda il rafforzamento della mobilità in generale; la mobilità urbana sostenibile e l'adattamento ai cambiamenti climatici sono espressamente indicati alla lett. b)."
       },
       {
         "id": "b",
@@ -236,13 +237,13 @@
       },
       {
         "id": "c",
-        "text": "«Un'Europa più vicina ai cittadini»",
+        "text": "«Un'Europa più vicina ai cittadini» attraverso le iniziative locali",
         "why_wrong": "La lett. e) riguarda lo sviluppo sostenibile e integrato dei territori e le iniziative locali, non l'adattamento climatico e la mobilità urbana sostenibile, previsti alla lett. b)."
       },
       {
         "id": "d",
-        "text": "«Un'Europa più competitiva e intelligente»",
-        "why_wrong": "La lett. a) riguarda la trasformazione economica innovativa e la connettività alle TIC."
+        "text": "«Un'Europa più competitiva e intelligente» attraverso le TIC",
+        "why_wrong": "La lett. a) riguarda la trasformazione economica innovativa e intelligente e la connettività regionale alle TIC, non l'adattamento climatico e la mobilità urbana sostenibile, previsti alla lett. b)."
       }
     ],
     "correct": "b",
@@ -260,8 +261,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-007",
@@ -314,23 +316,23 @@
     "options": [
       {
         "id": "a",
-        "text": "la scelta è corretta, perché il partenariato globale riguarda solo l'accordo di partenariato e non i singoli programmi",
-        "why_wrong": "L'art. 8, par. 1, impone il partenariato «per l'accordo di partenariato e per ogni programma»."
+        "text": "la scelta è corretta, perché il partenariato globale esteso alla società civile è richiesto solo per l'accordo di partenariato e non per i singoli programmi regionali",
+        "why_wrong": "L'art. 8, par. 1, impone il partenariato globale «per l'accordo di partenariato e per ogni programma»."
       },
       {
         "id": "b",
-        "text": "la scelta non è corretta, perché il partenariato deve includere almeno anche gli organismi pertinenti che rappresentano la società civile e, se del caso, le organizzazioni di ricerca e le università",
+        "text": "la scelta non è corretta, perché il partenariato include almeno anche gli organismi che rappresentano la società civile e, se del caso, ricerca e università",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "la scelta è corretta, perché la composizione del partenariato è rimessa interamente alla discrezionalità dello Stato membro",
-        "why_wrong": "L'art. 8, par. 1, elenca i partner che il partenariato include «almeno»."
+        "text": "la scelta è corretta, perché la composizione del partenariato è rimessa interamente alla discrezionalità dello Stato membro, secondo il proprio ordinamento",
+        "why_wrong": "L'art. 8, par. 1, elenca i partner che il partenariato include «almeno»: la composizione minima non è rimessa allo Stato membro."
       },
       {
         "id": "d",
-        "text": "la scelta non è corretta, perché nel partenariato deve essere inclusa come partner anche la Commissione",
-        "why_wrong": "L'art. 8, par. 1, non annovera la Commissione tra i partner; i partner sono autorità pubbliche, parti economiche e sociali, società civile e, se del caso, ricerca e università."
+        "text": "la scelta non è corretta, perché il partenariato deve includere come partner anche la Commissione e la BEI, oltre alle autorità locali e alle parti sociali",
+        "why_wrong": "L'art. 8, par. 1, non annovera la Commissione né la BEI tra i partner; la BEI può partecipare alla preparazione dell'accordo di partenariato solo su richiesta dello Stato membro (art. 10, par. 8)."
       }
     ],
     "correct": "b",
@@ -348,8 +350,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-009",
@@ -446,22 +449,22 @@
     "options": [
       {
         "id": "a",
-        "text": "la scelta è conforme, perché la parità di genere rileva solo nella valutazione dei risultati",
+        "text": "la scelta è conforme, perché la parità di genere va considerata soltanto nella valutazione dei risultati, dopo l'attuazione del programma",
         "why_wrong": "L'art. 9, par. 2, richiede di considerare e promuovere la parità in tutte le fasi, non solo nella valutazione."
       },
       {
         "id": "b",
-        "text": "la scelta è conforme, purché il programma riguardi l'obiettivo «un'Europa più sociale e inclusiva»",
-        "why_wrong": "L'art. 9, par. 2, è un principio orizzontale che vale per tutti i programmi."
+        "text": "la scelta è conforme, perché la parità di genere va considerata in tutte le fasi solo nei programmi dell'obiettivo «un'Europa più sociale e inclusiva»",
+        "why_wrong": "L'art. 9, par. 2, è un principio orizzontale che vale per tutti i programmi, non solo per quelli di un determinato obiettivo strategico."
       },
       {
         "id": "c",
-        "text": "la scelta non è conforme, perché la parità di genere va considerata solo nella fase di preparazione",
+        "text": "la scelta non è conforme, perché la parità di genere va considerata e promossa soltanto nella fase di preparazione, prima della presentazione dei programmi",
         "why_wrong": "L'art. 9, par. 2, non la limita alla preparazione: comprende preparazione, attuazione, sorveglianza, rendicontazione e valutazione."
       },
       {
         "id": "d",
-        "text": "la scelta non è conforme, perché la parità, l'integrazione di genere e della prospettiva di genere vanno prese in considerazione e promosse in tutte le fasi, dalla preparazione alla valutazione dei programmi",
+        "text": "la scelta non è conforme, perché la parità e la prospettiva di genere vanno considerate e promosse in tutte le fasi, dalla preparazione alla valutazione",
         "why_wrong": null
       }
     ],
@@ -480,8 +483,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-012",
@@ -710,23 +714,23 @@
     "options": [
       {
         "id": "a",
-        "text": "adotta due decisioni distinte, una sull'accordo e una sul programma, rispettivamente entro quattro e cinque mesi",
-        "why_wrong": "L'art. 12, par. 5, prevede in questo caso un'unica decisione che approva sia l'accordo di partenariato sia il programma."
+        "text": "adotta due decisioni distinte, una sull'accordo e una sul programma, rispettivamente entro quattro e cinque mesi dalla prima presentazione di ciascuno",
+        "why_wrong": "L'art. 12, par. 5, prevede in questo caso un'unica decisione; i termini di quattro e cinque mesi valgono per l'approvazione separata dell'accordo (art. 12, par. 4) e del programma (art. 23, par. 4)."
       },
       {
         "id": "b",
-        "text": "adotta, mediante un atto di esecuzione, un'unica decisione che approva sia l'accordo di partenariato sia il programma, entro sei mesi dalla presentazione del programma",
+        "text": "adotta con atto di esecuzione un'unica decisione che approva l'accordo di partenariato e il programma, entro sei mesi dalla presentazione del programma",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "deve respingere il programma, perché l'accordo di partenariato non può essere inserito in un programma",
-        "why_wrong": "L'art. 10, par. 6, consente espressamente allo Stato membro di inserire l'accordo di partenariato in uno dei suoi programmi."
+        "text": "adotta, mediante un atto di esecuzione, un'unica decisione che approva l'accordo e il programma, entro quattro mesi dalla prima presentazione dell'accordo di partenariato",
+        "why_wrong": "Il termine di quattro mesi dalla prima presentazione dell'accordo vale per la sua approvazione separata (art. 12, par. 4); per la decisione unica l'art. 12, par. 5, fissa sei mesi dalla presentazione del programma."
       },
       {
         "id": "d",
-        "text": "approva il solo programma, mentre l'accordo di partenariato è approvato dal comitato di sorveglianza",
-        "why_wrong": "L'art. 12, par. 5, prevede un'unica decisione della Commissione che approva entrambi."
+        "text": "approva mediante un atto di esecuzione il solo programma, mentre l'accordo di partenariato è approvato dal comitato di sorveglianza",
+        "why_wrong": "L'art. 12, par. 5, prevede un'unica decisione della Commissione che approva sia l'accordo di partenariato sia il programma."
       }
     ],
     "correct": "b",
@@ -744,8 +748,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-018",
@@ -798,7 +803,7 @@
     "options": [
       {
         "id": "a",
-        "text": "può corrispondere a più obiettivi strategici contemporaneamente",
+        "text": "può corrispondere contemporaneamente a più obiettivi strategici, purché riceva il sostegno di più fondi",
         "why_wrong": "L'art. 22, par. 2, stabilisce che ciascuna priorità corrisponde a un unico obiettivo strategico (o all'obiettivo specifico del JTF o all'assistenza tecnica)."
       },
       {
@@ -808,12 +813,12 @@
       },
       {
         "id": "c",
-        "text": "coincide necessariamente con l'intero programma, che non può avere più priorità",
+        "text": "coincide necessariamente con l'intero programma, che non può essere costituito da più priorità distinte",
         "why_wrong": "L'art. 22, par. 2, prevede che un programma sia costituito da una o più priorità."
       },
       {
         "id": "d",
-        "text": "può ricevere il sostegno di un solo fondo in ogni caso",
+        "text": "può ricevere in ogni caso il sostegno di un solo fondo, anche quando corrisponde a un obiettivo strategico",
         "why_wrong": "L'art. 22, par. 2, consente il sostegno di uno o più fondi, salvo che la priorità riceva il sostegno del JTF o riguardi determinate forme di assistenza tecnica."
       }
     ],
@@ -832,8 +837,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-rdc-020",
