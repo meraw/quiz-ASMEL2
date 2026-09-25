@@ -16,7 +16,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-bis, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -36,7 +36,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -56,7 +56,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 1-bis", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La domanda si fonda sul fatto che il soggetto sia un Comune, ma l'evidence parte da metà frase («è anche consentito se necessario per l'adempimento di un compito svolto nel pubblico interesse [...]») e, letta da sola, non indica a quali soggetti si applica la regola. Il soggetto è nella parte iniziale dell'art. 2-ter, comma 1-bis: «il trattamento dei dati personali da parte di un'amministrazione pubblica di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165 [...] è anche consentito se necessario [...]». Suggerimento: estendere l'evidence dall'inizio del comma 1-bis («Fermo restando ogni altro obbligo previsto dal Regolamento e dal presente codice, il trattamento dei dati personali da parte di un'amministrazione pubblica [...]»). Risposta, distrattori e why_wrong sono per il resto corretti.",
     "no_shuffle": false
   },
   {
@@ -76,7 +77,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 3", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -96,7 +97,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-ter, comma 4, lett. b)", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -116,7 +117,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-sexies, comma 2, lett. b)", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -137,7 +138,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 2-septies, comma 8", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -157,7 +158,8 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 140-bis, comma 3", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta a contiene anche «salvo quanto previsto dalla legge», ma l'evidence si ferma a «tra le stesse parti e per il medesimo oggetto» e non riporta l'eccezione. Inoltre il file non contiene una clausola generica: l'art. 140-bis, comma 3, prosegue «salvo quanto previsto dall'articolo 10, comma 4, del decreto legislativo 1° settembre 2011, n. 150». Suggerimento: estendere l'evidence fino alla fine del comma 3 e riformulare l'opzione a come «[...] salvo quanto previsto dall'art. 10, comma 4, del d.lgs. 150/2011» (oppure eliminare l'inciso). Anche la spiegazione va allineata.",
     "no_shuffle": false
   },
   {
@@ -178,7 +180,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 153, comma 1", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -198,7 +200,7 @@
     ],
     "source": { "act": "D.lgs. 196/2003", "article": "art. 154, comma 5", "file": "sources/DECRETO LEGISLATIVO 30 giugno 2003 , n. 196.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
