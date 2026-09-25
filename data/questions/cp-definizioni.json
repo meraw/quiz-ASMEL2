@@ -1,0 +1,446 @@
+[
+  {
+    "id": "cp-def-001",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 357 c.p., agli effetti della legge penale sono pubblici ufficiali coloro i quali esercitano una pubblica funzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "soltanto amministrativa",
+        "why_wrong": "L'art. 357 indica la pubblica funzione legislativa, giudiziaria o amministrativa."
+      },
+      {
+        "id": "b",
+        "text": "legislativa o giudiziaria, mentre chi esercita una funzione amministrativa è incaricato di un pubblico servizio",
+        "why_wrong": "L'art. 357 comprende espressamente anche la pubblica funzione amministrativa."
+      },
+      {
+        "id": "c",
+        "text": "legislativa, giudiziaria o amministrativa",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "di qualsiasi tipo, purché siano dipendenti di ruolo di una pubblica amministrazione",
+        "why_wrong": "L'art. 357 fa riferimento all'esercizio di una pubblica funzione, non al rapporto di impiego."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 357, primo comma, c.p. stabilisce che, agli effetti della legge penale, sono pubblici ufficiali coloro i quali esercitano una pubblica funzione legislativa, giudiziaria o amministrativa.",
+    "evidence": [
+      {
+        "ref": "art. 357, comma 1",
+        "text": "Agli effetti della legge penale, sono pubblici ufficiali coloro i quali esercitano una pubblica funzione legislativa, ((giudiziaria)) o amministrativa."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 357, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-002",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 357, secondo comma, c.p., è pubblica la funzione amministrativa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "svolta da un dipendente pubblico, qualunque siano le mansioni che esercita",
+        "why_wrong": "L'art. 357 definisce la funzione in base alla disciplina e ai poteri esercitati, non alla qualità di dipendente pubblico."
+      },
+      {
+        "id": "c",
+        "text": "disciplinata da norme di diritto privato, purché svolta nell'interesse della collettività",
+        "why_wrong": "L'art. 357 richiede che la funzione sia disciplinata da norme di diritto pubblico e da atti autoritativi."
+      },
+      {
+        "id": "d",
+        "text": "disciplinata nelle stesse forme della pubblica funzione, ma priva dei poteri tipici di questa",
+        "why_wrong": "È la definizione di pubblico servizio data dall'art. 358, secondo comma."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 357, secondo comma, c.p. definisce pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi.",
+    "evidence": [
+      {
+        "ref": "art. 357, comma 2",
+        "text": "((Agli stessi effetti è pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 357, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-003",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 358 c.p., sono incaricati di un pubblico servizio coloro i quali prestano un pubblico servizio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo se legati alla pubblica amministrazione da un rapporto di impiego a tempo indeterminato",
+        "why_wrong": "L'art. 358 stabilisce che rileva la prestazione del pubblico servizio «a qualunque titolo»."
+      },
+      {
+        "id": "b",
+        "text": "a qualunque titolo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo se nominati con un atto autoritativo",
+        "why_wrong": "L'art. 358 stabilisce che rileva la prestazione del pubblico servizio «a qualunque titolo»."
+      },
+      {
+        "id": "d",
+        "text": "solo se esercitano poteri autoritativi o certificativi",
+        "why_wrong": "I poteri autoritativi o certificativi caratterizzano la pubblica funzione (art. 357); il pubblico servizio è caratterizzato dalla mancanza dei poteri tipici di questa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 358, primo comma, c.p. stabilisce che, agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio.",
+    "evidence": [
+      {
+        "ref": "art. 358, comma 1",
+        "text": "((Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 358, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-004",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 358 c.p., per pubblico servizio si intende un'attività:",
+    "options": [
+      {
+        "id": "a",
+        "text": "caratterizzata dall'esercizio di poteri autoritativi o certificativi",
+        "why_wrong": "Questi poteri caratterizzano la pubblica funzione amministrativa (art. 357, secondo comma)."
+      },
+      {
+        "id": "b",
+        "text": "comprensiva anche delle semplici mansioni di ordine e della prestazione di opera meramente materiale",
+        "why_wrong": "L'art. 358 esclude espressamente le semplici mansioni di ordine e la prestazione di opera meramente materiale."
+      },
+      {
+        "id": "c",
+        "text": "svolta da privati che esercitano professioni forensi o sanitarie",
+        "why_wrong": "Questi privati, alle condizioni dell'art. 359, esercitano un servizio di pubblica necessità."
+      },
+      {
+        "id": "d",
+        "text": "disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di quest'ultima",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 358, secondo comma, c.p. definisce il pubblico servizio come un'attività disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di quest'ultima, con esclusione delle semplici mansioni di ordine e della prestazione di opera meramente materiale.",
+    "evidence": [
+      {
+        "ref": "art. 358, comma 2",
+        "text": "Per pubblico servizio deve intendersi un'attività disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di questa ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 358, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-005",
+    "subject": "reati-pa",
+    "question": "Il dipendente di un ente che gestisce un pubblico servizio svolge esclusivamente la pulizia dei locali, cioè una prestazione di opera meramente materiale. Ai sensi dell'art. 358 c.p., tale attività:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è esclusa dalla nozione di pubblico servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "lo rende incaricato di un pubblico servizio, perché è svolta all'interno di un pubblico servizio",
+        "why_wrong": "L'art. 358 esclude dal pubblico servizio la prestazione di opera meramente materiale."
+      },
+      {
+        "id": "c",
+        "text": "lo rende pubblico ufficiale",
+        "why_wrong": "L'art. 357 richiede l'esercizio di una pubblica funzione legislativa, giudiziaria o amministrativa."
+      },
+      {
+        "id": "d",
+        "text": "lo qualifica come esercente un servizio di pubblica necessità",
+        "why_wrong": "L'art. 359 riguarda i privati che esercitano determinate professioni o adempiono un servizio dichiarato di pubblica necessità con un atto della pubblica amministrazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 358, secondo comma, c.p. esclude dalla nozione di pubblico servizio lo svolgimento di semplici mansioni di ordine e la prestazione di opera meramente materiale.",
+    "evidence": [
+      {
+        "ref": "art. 358, comma 2",
+        "text": "Per pubblico servizio deve intendersi un'attività disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di questa ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 358, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-006",
+    "subject": "reati-pa",
+    "question": "Un funzionario dell'ufficio anagrafe di un Comune rilascia certificati esercitando poteri certificativi disciplinati da norme di diritto pubblico. Agli effetti della legge penale, egli è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "incaricato di un pubblico servizio",
+        "why_wrong": "Il pubblico servizio è caratterizzato dalla mancanza dei poteri tipici della pubblica funzione (art. 358), tra cui i poteri certificativi."
+      },
+      {
+        "id": "b",
+        "text": "esercente un servizio di pubblica necessità",
+        "why_wrong": "L'art. 359 riguarda i privati che esercitano determinate professioni o adempiono un servizio dichiarato di pubblica necessità."
+      },
+      {
+        "id": "c",
+        "text": "pubblico ufficiale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "privo di qualifica pubblicistica, perché svolge un'attività di mera documentazione",
+        "why_wrong": "L'art. 357 qualifica pubblica la funzione amministrativa che si svolge per mezzo di poteri certificativi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Ai sensi dell'art. 357 c.p., è pubblico ufficiale chi esercita una pubblica funzione amministrativa, cioè disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata, tra l'altro, dal suo svolgersi per mezzo di poteri autoritativi o certificativi.",
+    "evidence": [
+      {
+        "ref": "art. 357, comma 2",
+        "text": "((Agli stessi effetti è pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volontà della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi))"
+      },
+      {
+        "ref": "art. 357, comma 1",
+        "text": "Agli effetti della legge penale, sono pubblici ufficiali coloro i quali esercitano una pubblica funzione legislativa, ((giudiziaria)) o amministrativa."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 357, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-007",
+    "subject": "reati-pa",
+    "question": "Un avvocato del libero foro, della cui opera il pubblico sia per legge obbligato a valersi, agli effetti della legge penale è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pubblico ufficiale",
+        "why_wrong": "L'art. 357 riguarda chi esercita una pubblica funzione legislativa, giudiziaria o amministrativa; il privato che esercita la professione forense rientra nell'art. 359."
+      },
+      {
+        "id": "b",
+        "text": "persona che esercita un servizio di pubblica necessità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "incaricato di un pubblico servizio",
+        "why_wrong": "L'art. 359, n. 1, qualifica espressamente i privati che esercitano professioni forensi, a queste condizioni, come esercenti un servizio di pubblica necessità."
+      },
+      {
+        "id": "d",
+        "text": "privo di qualifica rilevante, in quanto privato",
+        "why_wrong": "L'art. 359, n. 1, attribuisce a questi privati la qualità di esercenti un servizio di pubblica necessità."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 359, n. 1, c.p. considera esercenti un servizio di pubblica necessità i privati che esercitano professioni forensi o sanitarie, o altre professioni per le quali è richiesta una speciale abilitazione dello Stato, quando dell'opera di essi il pubblico sia per legge obbligato a valersi.",
+    "evidence": [
+      {
+        "ref": "art. 359, comma 1",
+        "text": "1° i privati che esercitano professioni forensi o sanitarie, o altre professioni il cui esercizio sia per legge vietato senza una speciale abilitazione dello Stato, quando dell'opera di essi il pubblico sia per legge obbligato a valersi;"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 359, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-008",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 359, n. 2, c.p., esercitano un servizio di pubblica necessità anche i privati che, non esercitando una pubblica funzione né prestando un pubblico servizio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono iscritti a un albo professionale",
+        "why_wrong": "L'art. 359, n. 2, richiede che il servizio sia dichiarato di pubblica necessità mediante un atto della pubblica amministrazione."
+      },
+      {
+        "id": "b",
+        "text": "svolgono una qualsiasi attività di interesse generale",
+        "why_wrong": "L'art. 359, n. 2, richiede che il servizio sia dichiarato di pubblica necessità mediante un atto della pubblica amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "sono dipendenti di un'impresa privata che ha rapporti contrattuali con la pubblica amministrazione",
+        "why_wrong": "L'art. 359, n. 2, richiede che il servizio sia dichiarato di pubblica necessità mediante un atto della pubblica amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica amministrazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 359, n. 2, c.p. considera esercenti un servizio di pubblica necessità i privati che, non esercitando una pubblica funzione né prestando un pubblico servizio, adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 359, comma 1",
+        "text": "2° i privati che, non esercitando una pubblica funzione, né prestando un pubblico servizio, adempiono un servizio dichiarato di pubblica necessità mediante un atto della pubblica Amministrazione."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 359, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-009",
+    "subject": "reati-pa",
+    "question": "Un funzionario comunale, cessato dal servizio, commette un fatto per il quale la legge considera la qualità di pubblico ufficiale come elemento costitutivo del reato; il fatto si riferisce all'ufficio da lui esercitato. Ai sensi dell'art. 360 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il reato è escluso, perché al momento del fatto egli non era più pubblico ufficiale",
+        "why_wrong": "L'art. 360 stabilisce che la cessazione della qualità non esclude l'esistenza del reato, se il fatto si riferisce all'ufficio esercitato."
+      },
+      {
+        "id": "b",
+        "text": "la cessazione della qualità non esclude l'esistenza del reato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il reato sussiste solo se la cessazione è avvenuta da meno di un anno",
+        "why_wrong": "L'art. 360 non prevede alcun limite temporale; richiede che il fatto si riferisca all'ufficio o al servizio esercitato."
+      },
+      {
+        "id": "d",
+        "text": "il reato sussiste, ma non si applicano le circostanze aggravanti legate alla qualità",
+        "why_wrong": "L'art. 360 stabilisce che la cessazione della qualità non esclude né il reato né la circostanza aggravante."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 360 c.p. stabilisce che, quando la legge considera la qualità di pubblico ufficiale come elemento costitutivo o circostanza aggravante di un reato, la cessazione di tale qualità al momento del fatto non esclude né il reato né la circostanza aggravante, se il fatto si riferisce all'ufficio o al servizio esercitato.",
+    "evidence": [
+      {
+        "ref": "art. 360, comma 1",
+        "text": "Quando la legge considera la qualità di pubblico ufficiale, o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessità, come elemento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualità, nel momento in cui il reato è commesso, non esclude la esistenza di questo né la circostanza aggravante, se il fatto si riferisce all'ufficio o al servizio esercitato."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 360, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-def-010",
+    "subject": "reati-pa",
+    "question": "L'art. 360 c.p., sulla cessazione della qualità di pubblico ufficiale, si applica quando la legge considera come elemento costitutivo o circostanza aggravante di un reato la qualità di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pubblico ufficiale, incaricato di un pubblico servizio o esercente un servizio di pubblica necessità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "pubblico ufficiale soltanto",
+        "why_wrong": "L'art. 360 menziona anche l'incaricato di un pubblico servizio e l'esercente un servizio di pubblica necessità."
+      },
+      {
+        "id": "c",
+        "text": "pubblico ufficiale o incaricato di un pubblico servizio, ma non di esercente un servizio di pubblica necessità",
+        "why_wrong": "L'art. 360 menziona espressamente anche l'esercente un servizio di pubblica necessità."
+      },
+      {
+        "id": "d",
+        "text": "esercente un servizio di pubblica necessità soltanto",
+        "why_wrong": "L'art. 360 menziona anche il pubblico ufficiale e l'incaricato di un pubblico servizio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 360 c.p. riguarda la qualità di pubblico ufficiale, di incaricato di un pubblico servizio o di esercente un servizio di pubblica necessità: la sua cessazione non esclude il reato né la circostanza aggravante se il fatto si riferisce all'ufficio o al servizio esercitato.",
+    "evidence": [
+      {
+        "ref": "art. 360, comma 1",
+        "text": "Quando la legge considera la qualità di pubblico ufficiale, o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessità, come elemento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualità, nel momento in cui il reato è commesso, non esclude la esistenza di questo né la circostanza aggravante, se il fatto si riferisce all'ufficio o al servizio esercitato."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 360, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

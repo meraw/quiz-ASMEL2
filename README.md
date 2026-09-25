@@ -189,6 +189,11 @@ file named in the question's `source.file`, word for word, **inside the article 
 difference it tolerates is whitespace (line breaks, double spaces). It also
 warns if `source.article` does not match the evidence.
 
+Some texts, such as the codice penale, do not number their commas: each comma
+is a paragraph. For an article like that, the check counts the paragraphs after
+the article title as comma 1, comma 2, and so on. A numbered list inside a
+comma ("1)", "1°", "a)") stays part of that comma.
+
 It runs automatically before every deploy. To run it yourself you need
 Python 3 and nothing else. From the project folder run:
 
