@@ -1,0 +1,670 @@
+[
+  {
+    "id": "cc-sot-001",
+    "subject": "contratti-pubblici",
+    "question": "Per un contratto di servizi di importo inferiore alle soglie europee, un Comune accerta l'esistenza di un interesse transfrontaliero certo. Secondo l'art. 48 del d.lgs. 36/2023, la stazione appaltante:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Procede comunque con affidamento diretto, se l'importo lo consente",
+        "why_wrong": "L'art. 48, comma 2, impone di seguire le procedure ordinarie quando è accertato un interesse transfrontaliero certo."
+      },
+      {
+        "id": "b",
+        "text": "Segue le procedure ordinarie previste dalle Parti successive del Libro II",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Deve chiedere il parere preventivo dell'ANAC",
+        "why_wrong": "L'art. 48, comma 2, non prevede pareri dell'ANAC, ma il passaggio alle procedure ordinarie."
+      },
+      {
+        "id": "d",
+        "text": "Svolge una procedura negoziata consultando almeno dieci operatori",
+        "why_wrong": "La consultazione di almeno dieci operatori è prevista dall'art. 50, comma 1, lett. d), per i lavori di importo pari o superiore a 1 milione; con interesse transfrontaliero certo si seguono le procedure ordinarie."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 48, comma 2, stabilisce che, quando per un contratto sotto soglia la stazione appaltante accerta un interesse transfrontaliero certo, segue le procedure ordinarie delle Parti seguenti del Libro II.",
+    "evidence": [
+      {
+        "ref": "art. 48, comma 2",
+        "text": "Quando per uno dei contratti di cui al comma 1 la stazione appaltante accerta l'esistenza di un interesse transfrontaliero certo, segue le procedure ordinarie di cui alle Parti seguenti del presente Libro."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 48, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-002",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune ha affidato a una ditta la fornitura di cancelleria; per il successivo affidamento, nello stesso settore merceologico, intende affidare nuovamente la fornitura alla stessa ditta. Secondo l'art. 49 del codice, in via generale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'affidamento è libero, perché il principio di rotazione riguarda solo i lavori",
+        "why_wrong": "L'art. 49, comma 2, riferisce il divieto anche allo stesso settore merceologico e allo stesso settore di servizi, non solo alle categorie di opere."
+      },
+      {
+        "id": "b",
+        "text": "L'affidamento è consentito se la ditta offre un ribasso maggiore rispetto al contratto precedente",
+        "why_wrong": "Il ribasso non è una deroga prevista dall'art. 49; le deroghe sono quelle dei commi 4, 5 e 6."
+      },
+      {
+        "id": "c",
+        "text": "È vietato l'affidamento al contraente uscente, perché due consecutivi affidamenti riguardano lo stesso settore merceologico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "È vietato solo se il nuovo affidamento ha importo superiore al precedente",
+        "why_wrong": "Il divieto dell'art. 49, comma 2, non dipende dall'importo superiore; l'importo rileva solo se la stazione appaltante ripartisce gli affidamenti in fasce (comma 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 49, comma 2, in applicazione del principio di rotazione, vieta l'affidamento al contraente uscente quando due consecutivi affidamenti riguardano lo stesso settore merceologico, la stessa categoria di opere o lo stesso settore di servizi, salve le deroghe dei commi 4, 5 e 6.",
+    "evidence": [
+      {
+        "ref": "art. 49, comma 2",
+        "text": "In applicazione del principio di rotazione è vietato l'affidamento o l'aggiudicazione di un appalto al contraente uscente nei casi in cui due consecutivi affidamenti abbiano a oggetto una commessa rientrante nello stesso settore merceologico, oppure nella stessa categoria di opere, oppure nello stesso settore di servizi."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 49, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-003",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 49 del codice, in casi motivati, il contraente uscente può essere reinvitato o individuato quale affidatario diretto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Con riferimento alla struttura del mercato e all'effettiva assenza di alternative, previa verifica dell'accurata esecuzione del precedente contratto e della qualità della prestazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Solo previa autorizzazione dell'ANAC",
+        "why_wrong": "L'art. 49, comma 4, non richiede autorizzazioni dell'ANAC, ma una motivazione riferita alla struttura del mercato e all'assenza di alternative."
+      },
+      {
+        "id": "c",
+        "text": "Solo se il nuovo contratto ha importo inferiore a 40.000 euro",
+        "why_wrong": "La soglia di 40.000 euro riguarda il controllo dei requisiti tramite dichiarazione sostitutiva (art. 52, comma 1), non la deroga alla rotazione."
+      },
+      {
+        "id": "d",
+        "text": "Solo se l'affidamento precedente era avvenuto mediante procedura negoziata",
+        "why_wrong": "L'art. 49, comma 4, non fa dipendere la deroga dal tipo di procedura del precedente affidamento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 49, comma 4, consente, in casi motivati, di reinvitare il contraente uscente o di affidargli direttamente il contratto, con riferimento alla struttura del mercato e all'effettiva assenza di alternative e previa verifica dell'accurata esecuzione del contratto precedente e della qualità della prestazione.",
+    "evidence": [
+      {
+        "ref": "art. 49, comma 4",
+        "text": "In casi motivati, con riferimento alla struttura del mercato e alla effettiva assenza di alternative, previa verifica dell'accurata esecuzione del precedente contratto nonché della qualità della prestazione resa, il contraente uscente può essere reinvitato o essere individuato quale affidatario diretto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 49, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-004",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 49 del codice, è comunque consentito derogare all'applicazione del principio di rotazione per gli affidamenti diretti di importo inferiore a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "40.000 euro",
+        "why_wrong": "40.000 euro è la soglia sotto la quale i requisiti si attestano con dichiarazione sostitutiva (art. 52, comma 1), non quella della deroga alla rotazione."
+      },
+      {
+        "id": "b",
+        "text": "1.000 euro",
+        "why_wrong": "L'art. 49, comma 6, indica 5.000 euro."
+      },
+      {
+        "id": "c",
+        "text": "5.000 euro",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "150.000 euro",
+        "why_wrong": "150.000 euro è il limite per l'affidamento diretto di lavori (art. 50, comma 1, lett. a)), non per la deroga alla rotazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 49, comma 6, consente comunque di derogare al principio di rotazione per gli affidamenti diretti di importo inferiore a 5.000 euro.",
+    "evidence": [
+      {
+        "ref": "art. 49, comma 6",
+        "text": "È comunque consentito derogare all'applicazione del principio di rotazione per gli affidamenti diretti di importo inferiore a 5.000 euro."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 49, comma 6",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-005",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 50 del codice, l'affidamento diretto di lavori, anche senza consultazione di più operatori economici, è consentito per importi inferiori a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "140.000 euro",
+        "why_wrong": "140.000 euro è il limite per l'affidamento diretto di servizi e forniture (art. 50, comma 1, lett. b))."
+      },
+      {
+        "id": "b",
+        "text": "40.000 euro",
+        "why_wrong": "40.000 euro rileva per il controllo dei requisiti mediante dichiarazione sostitutiva (art. 52, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "1 milione di euro",
+        "why_wrong": "Tra 150.000 euro e 1 milione di euro si procede con procedura negoziata senza bando previa consultazione di almeno cinque operatori (art. 50, comma 1, lett. c))."
+      },
+      {
+        "id": "d",
+        "text": "150.000 euro",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 50, comma 1, lett. a), consente l'affidamento diretto per lavori di importo inferiore a 150.000 euro, anche senza consultazione di più operatori, purché siano scelti soggetti con documentate esperienze pregresse idonee.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 1",
+        "text": "a) affidamento diretto per lavori di importo inferiore a 150.000 euro, anche senza consultazione di più operatori economici, assicurando che siano scelti soggetti in possesso di documentate esperienze pregresse idonee all'esecuzione delle prestazioni contrattuali"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-006",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune deve affidare un servizio di progettazione di importo pari a 120.000 euro. Secondo l'art. 50 del codice, può procedere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Con affidamento diretto, anche senza consultazione di più operatori economici",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Solo con procedura negoziata senza bando, previa consultazione di almeno cinque operatori",
+        "why_wrong": "La procedura negoziata con almeno cinque operatori (art. 50, comma 1, lett. e)) riguarda servizi e forniture di importo pari o superiore a 140.000 euro."
+      },
+      {
+        "id": "c",
+        "text": "Solo con procedura aperta, trattandosi di servizi di ingegneria e architettura",
+        "why_wrong": "L'art. 50, comma 1, lett. b), include espressamente i servizi di ingegneria e architettura e la progettazione tra quelli affidabili direttamente sotto 140.000 euro."
+      },
+      {
+        "id": "d",
+        "text": "Con affidamento diretto, ma solo previa consultazione di almeno tre operatori",
+        "why_wrong": "L'art. 50, comma 1, lett. b), consente l'affidamento diretto anche senza consultazione di più operatori economici."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 50, comma 1, lett. b), consente l'affidamento diretto di servizi e forniture, compresi i servizi di ingegneria e architettura e la progettazione, di importo inferiore a 140.000 euro, anche senza consultare più operatori.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 1",
+        "text": "b) affidamento diretto dei servizi e forniture, ivi compresi i servizi di ingegneria e architettura e l'attività di progettazione, di importo inferiore a 140.000 euro, anche senza consultazione di più operatori economici"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-007",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune deve affidare lavori di manutenzione stradale per un importo di 600.000 euro. Secondo l'art. 50 del codice, la procedura da utilizzare è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'affidamento diretto, previa consultazione di almeno due operatori",
+        "why_wrong": "L'affidamento diretto di lavori è ammesso solo sotto 150.000 euro (art. 50, comma 1, lett. a))."
+      },
+      {
+        "id": "b",
+        "text": "La procedura negoziata senza bando, previa consultazione di almeno dieci operatori economici, ove esistenti",
+        "why_wrong": "Dieci operatori sono richiesti per lavori di importo pari o superiore a 1 milione di euro (art. 50, comma 1, lett. d))."
+      },
+      {
+        "id": "c",
+        "text": "La procedura negoziata senza bando, previa consultazione di almeno cinque operatori economici, ove esistenti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Necessariamente la procedura aperta",
+        "why_wrong": "Per lavori tra 150.000 euro e 1 milione di euro l'art. 50, comma 1, lett. c), prevede la procedura negoziata senza bando."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 50, comma 1, lett. c), prevede per i lavori di importo pari o superiore a 150.000 euro e inferiore a 1 milione di euro la procedura negoziata senza bando, previa consultazione di almeno cinque operatori, ove esistenti, individuati con indagini di mercato o elenchi.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 1",
+        "text": "c) procedura negoziata senza bando, previa consultazione di almeno cinque operatori economici, ove esistenti, individuati in base a indagini di mercato o tramite elenchi di operatori economici, per i lavori di importo pari o superiore a 150.000 euro e inferiore a 1 milione di euro;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-008",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 50 del codice, per i lavori di importo pari o superiore a 1 milione di euro e fino alle soglie europee, la procedura negoziata senza bando richiede la consultazione di almeno:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cinque operatori economici, ove esistenti",
+        "why_wrong": "Cinque operatori sono richiesti per i lavori tra 150.000 euro e 1 milione di euro e per servizi e forniture dai 140.000 euro (art. 50, comma 1, lett. c) ed e))."
+      },
+      {
+        "id": "b",
+        "text": "Tre operatori economici, ove esistenti",
+        "why_wrong": "L'art. 50, comma 1, lett. d), richiede almeno dieci operatori."
+      },
+      {
+        "id": "c",
+        "text": "Quindici operatori economici, ove esistenti",
+        "why_wrong": "L'art. 50, comma 1, lett. d), richiede almeno dieci operatori."
+      },
+      {
+        "id": "d",
+        "text": "Dieci operatori economici, ove esistenti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 50, comma 1, lett. d), prevede per i lavori da 1 milione di euro fino alle soglie europee la procedura negoziata senza bando con consultazione di almeno dieci operatori, salva la possibilità di ricorrere alle procedure ordinarie.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 1",
+        "text": "d) procedura negoziata senza bando, previa consultazione di almeno dieci operatori economici, ove esistenti, individuati in base a indagini di mercato o tramite elenchi di operatori economici, per lavori di importo pari o superiore a 1 milione di euro e fino alle soglie di cui all'articolo 14"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-009",
+    "subject": "contratti-pubblici",
+    "question": "Per la selezione degli operatori da invitare alle procedure negoziate sotto soglia, secondo l'art. 50 del codice, il sorteggio o altro metodo di estrazione casuale dei nominativi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È il metodo ordinario, a garanzia dell'imparzialità",
+        "why_wrong": "L'art. 50, comma 2, esclude il sorteggio come metodo ordinario, ammettendolo solo in situazioni particolari e motivate."
+      },
+      {
+        "id": "b",
+        "text": "Non può essere utilizzato, se non in presenza di situazioni particolari e specificamente motivate, quando non risulti praticabile nessun altro metodo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È sempre vietato",
+        "why_wrong": "L'art. 50, comma 2, ammette il sorteggio in situazioni particolari e specificamente motivate, quando nessun altro metodo è praticabile."
+      },
+      {
+        "id": "d",
+        "text": "È obbligatorio quando gli operatori iscritti nell'elenco sono più di dieci",
+        "why_wrong": "L'art. 50, comma 2, non prevede alcun obbligo di sorteggio legato al numero degli iscritti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 50, comma 2, vieta di selezionare gli operatori da invitare mediante sorteggio o estrazione casuale, salvo situazioni particolari e specificamente motivate in cui non sia praticabile nessun altro metodo. I nominativi degli operatori consultati sono pubblicati sul sito istituzionale.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 2",
+        "text": "Per la selezione degli operatori da invitare alle procedure negoziate, le stazioni appaltanti non possono utilizzare il sorteggio o altro metodo di estrazione casuale dei nominativi, se non in presenza di situazioni particolari e specificamente motivate, nei casi in cui non risulti praticabile nessun altro metodo di selezione degli operatori."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-010",
+    "subject": "contratti-pubblici",
+    "question": "Per i contratti sotto soglia, secondo l'art. 50 del codice, la stazione appaltante può sostituire il certificato di collaudo o di verifica di conformità con il certificato di regolare esecuzione, che è emesso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non oltre tre mesi dalla data di ultimazione delle prestazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Non oltre sei mesi dalla data di ultimazione delle prestazioni",
+        "why_wrong": "L'art. 50, comma 7, fissa il termine in tre mesi."
+      },
+      {
+        "id": "c",
+        "text": "Entro trenta giorni dalla stipula del contratto",
+        "why_wrong": "Trenta giorni è il termine per la stipulazione dall'aggiudicazione (art. 55, comma 1), non per il certificato di regolare esecuzione."
+      },
+      {
+        "id": "d",
+        "text": "Contestualmente all'ultimo stato di avanzamento dei lavori",
+        "why_wrong": "L'art. 50, comma 7, prevede un termine di tre mesi dall'ultimazione delle prestazioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 50, comma 7, consente di sostituire collaudo e verifica di conformità con il certificato di regolare esecuzione, rilasciato dal direttore dei lavori o, per servizi e forniture, dal RUP o dal direttore dell'esecuzione, ed emesso non oltre tre mesi dall'ultimazione delle prestazioni.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 7",
+        "text": "Il certificato di regolare esecuzione è emesso non oltre tre mesi dalla data di ultimazione delle prestazioni oggetto del contratto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 50, comma 7",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-011",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune aggiudica un contratto sotto soglia con il criterio dell'offerta economicamente più vantaggiosa. Secondo l'art. 51 del codice, il RUP:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non può far parte della commissione giudicatrice per incompatibilità",
+        "why_wrong": "L'art. 51 consente espressamente la partecipazione del RUP alla commissione nei contratti sotto soglia."
+      },
+      {
+        "id": "b",
+        "text": "Può partecipare alla commissione solo come segretario verbalizzante",
+        "why_wrong": "L'art. 51 consente al RUP di partecipare alla commissione anche in qualità di presidente."
+      },
+      {
+        "id": "c",
+        "text": "Può partecipare alla commissione giudicatrice, anche in qualità di presidente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Deve necessariamente presiedere la commissione",
+        "why_wrong": "L'art. 51 prevede una facoltà (\"può partecipare\"), non un obbligo."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 51 prevede che, nei contratti sotto soglia aggiudicati con l'offerta economicamente più vantaggiosa, il RUP possa partecipare alla commissione giudicatrice, anche in qualità di presidente.",
+    "evidence": [
+      {
+        "ref": "art. 51, comma 1",
+        "text": "Nel caso di aggiudicazione dei contratti di cui alla presente Parte con il criterio dell'offerta economicamente più vantaggiosa, alla commissione giudicatrice può partecipare il RUP, anche in qualità di presidente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 51, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-012",
+    "subject": "contratti-pubblici",
+    "question": "In un affidamento diretto di 30.000 euro l'operatore ha attestato i requisiti con dichiarazione sostitutiva; dalla verifica successiva il possesso dei requisiti dichiarati non risulta confermato. Secondo l'art. 52 del codice, la stazione appaltante procede, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alla sola segnalazione alla Procura della Repubblica, mantenendo il contratto",
+        "why_wrong": "L'art. 52, comma 2, prevede la risoluzione del contratto, l'escussione della garanzia, la comunicazione all'ANAC e la sospensione dell'operatore."
+      },
+      {
+        "id": "b",
+        "text": "Alla risoluzione del contratto e alla sospensione dell'operatore dalle proprie procedure di affidamento per un periodo da uno a dodici mesi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "All'esclusione dell'operatore da tutte le gare pubbliche per cinque anni",
+        "why_wrong": "L'art. 52, comma 2, prevede una sospensione da uno a dodici mesi, limitata alle procedure indette dalla medesima stazione appaltante."
+      },
+      {
+        "id": "d",
+        "text": "Al soccorso istruttorio per consentire all'operatore di acquisire i requisiti mancanti",
+        "why_wrong": "L'art. 52, comma 2, non prevede il soccorso istruttorio, ma la risoluzione del contratto e le altre misure indicate."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 52, comma 2, prevede, se la verifica non conferma i requisiti dichiarati, la risoluzione del contratto, l'escussione dell'eventuale garanzia definitiva, la comunicazione all'ANAC e la sospensione dell'operatore dalle procedure della medesima stazione appaltante per un periodo da uno a dodici mesi.",
+    "evidence": [
+      {
+        "ref": "art. 52, comma 1",
+        "text": "Nelle procedure di affidamento di cui all'articolo 50, comma 1, lettere a) e b), di importo inferiore a 40.000 euro, gli operatori economici attestano con dichiarazione sostitutiva di atto di notorietà il possesso dei requisiti di partecipazione e di qualificazione richiesti."
+      },
+      {
+        "ref": "art. 52, comma 2",
+        "text": "Quando in conseguenza della verifica non sia confermato il possesso dei requisiti generali o speciali dichiarati, la stazione appaltante procede alla risoluzione del contratto, all'escussione della eventuale garanzia definitiva, alla comunicazione all'ANAC e alla sospensione dell'operatore economico dalla partecipazione alle procedure di affidamento indette dalla medesima stazione appaltante per un periodo da uno a dodici mesi decorrenti dall'adozione del provvedimento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 52, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-013",
+    "subject": "contratti-pubblici",
+    "question": "In una procedura negoziata sotto soglia, la stazione appaltante, in presenza di particolari esigenze indicate nella decisione di contrarre, richiede la garanzia provvisoria. Secondo l'art. 53 del codice, il suo ammontare:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È pari al 2 per cento del prezzo base indicato nel bando",
+        "why_wrong": "L'art. 53, comma 2, pone un limite massimo dell'uno per cento per i contratti sotto soglia."
+      },
+      {
+        "id": "b",
+        "text": "Non può superare il 5 per cento dell'importo contrattuale",
+        "why_wrong": "Il 5 per cento è la misura della garanzia definitiva, quando richiesta (art. 53, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "È liberamente determinato dalla stazione appaltante",
+        "why_wrong": "L'art. 53, comma 2, fissa un limite massimo dell'uno per cento."
+      },
+      {
+        "id": "d",
+        "text": "Non può superare l'uno per cento dell'importo previsto nell'avviso o nell'invito",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 53, comma 1, esclude di regola la garanzia provvisoria nelle procedure dell'art. 50, salvo particolari esigenze nelle procedure negoziate; quando è richiesta, il comma 2 ne limita l'ammontare all'uno per cento dell'importo previsto nell'avviso o nell'invito.",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 2",
+        "text": "Quando è richiesta la garanzia provvisoria, il relativo ammontare non può superare l'uno per cento dell'importo previsto nell'avviso o nell'invito per il contratto oggetto di affidamento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 53, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-014",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 54 del codice, nell'aggiudicazione con il criterio del prezzo più basso di appalti di lavori o servizi sotto soglia privi di interesse transfrontaliero certo, gli atti di gara prevedono l'esclusione automatica delle offerte anomale quando il numero delle offerte ammesse è pari o superiore a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cinque",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Dieci",
+        "why_wrong": "L'art. 54, comma 1, indica cinque offerte ammesse."
+      },
+      {
+        "id": "c",
+        "text": "Tre",
+        "why_wrong": "L'art. 54, comma 1, indica cinque offerte ammesse."
+      },
+      {
+        "id": "d",
+        "text": "Quindici",
+        "why_wrong": "L'art. 54, comma 1, indica cinque offerte ammesse."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 54, comma 1, prevede l'esclusione automatica delle offerte anomale, in deroga all'art. 110, se le offerte ammesse sono almeno cinque; la regola non si applica agli affidamenti diretti dell'art. 50, comma 1, lett. a) e b).",
+    "evidence": [
+      {
+        "ref": "art. 54, comma 1",
+        "text": "le stazioni appaltanti, in deroga a quanto previsto dall'articolo 110, prevedono negli atti di gara l'esclusione automatica delle offerte che risultano anomale, qualora il numero delle offerte ammesse sia pari o superiore a cinque. Il primo periodo non si applica agli affidamenti di cui all'articolo 50, comma 1, lettere a) e b)."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 54, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sot-015",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 55 del codice, per i contratti di importo inferiore alle soglie europee la stipulazione del contratto avviene:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro sessanta giorni dall'aggiudicazione",
+        "why_wrong": "Sessanta giorni è il termine ordinario dell'art. 18, comma 2; per il sotto soglia l'art. 55, comma 1, prevede trenta giorni."
+      },
+      {
+        "id": "b",
+        "text": "Non prima di trentadue giorni dall'ultima comunicazione dell'aggiudicazione",
+        "why_wrong": "L'art. 55, comma 2, esclude per il sotto soglia i termini dilatori dell'art. 18, commi 3 e 4."
+      },
+      {
+        "id": "c",
+        "text": "Entro trenta giorni dall'aggiudicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Entro novanta giorni dalla scadenza del termine per le offerte",
+        "why_wrong": "L'art. 55, comma 1, fa decorrere il termine di trenta giorni dall'aggiudicazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 55 prevede che, nel sotto soglia, il contratto sia stipulato entro trenta giorni dall'aggiudicazione e che non si applichino i termini dilatori dell'art. 18, commi 3 e 4.",
+    "evidence": [
+      {
+        "ref": "art. 55, comma 1",
+        "text": "La stipulazione del contratto avviene entro trenta giorni dall'aggiudicazione."
+      },
+      {
+        "ref": "art. 55, comma 2",
+        "text": "I termini dilatori previsti dall'articolo 18, commi 3 e 4, non si applicano agli affidamenti dei contratti di importo inferiore alle soglie di rilevanza europea"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 55, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
