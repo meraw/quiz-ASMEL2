@@ -138,23 +138,23 @@
     "options": [
       {
         "id": "a",
-        "text": "A seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno della Regione relativo al contributo",
+        "text": "A seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno della Regione erogante",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "A seguito di emissione di ruoli",
-        "why_wrong": "L'accertamento a seguito di emissione di ruoli riguarda le entrate di carattere tributario (art. 179, comma 2, lettera a))."
+        "text": "A seguito di emissione di ruoli o a seguito delle altre forme stabilite per legge per la relativa riscossione",
+        "why_wrong": "L'accertamento a seguito di emissione di ruoli o di altre forme stabilite per legge riguarda le entrate di carattere tributario (art. 179, comma 2, lettera a))."
       },
       {
         "id": "c",
-        "text": "Solo al momento dell'effettivo incasso delle somme da parte del tesoriere",
-        "why_wrong": "Per i trasferimenti da altre amministrazioni pubbliche l'accertamento avviene a seguito della comunicazione dell'atto di impegno dell'ente erogante (art. 179, comma 2, lettera c-bis))."
+        "text": "Solo al momento dell'effettivo incasso delle somme da parte del tesoriere, a mezzo di ordinativo di incasso",
+        "why_wrong": "Per i trasferimenti da altre amministrazioni pubbliche l'accertamento avviene a seguito della comunicazione dell'atto di impegno dell'ente erogante (art. 179, comma 2, lettera c-bis)); l'ordinativo di incasso attiene alla riscossione (art. 180, comma 2)."
       },
       {
         "id": "d",
-        "text": "In corrispondenza dell'assunzione del relativo impegno di spesa da parte del Comune",
-        "why_wrong": "Questo criterio vale per le entrate relative a partite compensative delle spese dei servizi per conto terzi e partite di giro (art. 179, comma 2, lettera c))."
+        "text": "In corrispondenza dell'assunzione, da parte del Comune, del relativo impegno di spesa per la realizzazione del progetto",
+        "why_wrong": "L'accertamento in corrispondenza dell'impegno di spesa riguarda le partite compensative dei servizi per conto terzi e partite di giro (art. 179, comma 2, lettera c)); per i contributi di altre amministrazioni rileva l'atto di impegno dell'ente erogante (lettera c-bis))."
       }
     ],
     "correct": "a",
@@ -172,7 +172,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -182,13 +183,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Al tesoriere",
-        "why_wrong": "Il tesoriere interviene nella riscossione (art. 180, comma 1); la documentazione dell'accertamento va al responsabile del servizio finanziario (art. 179, comma 3)."
+        "text": "Al tesoriere incaricato della riscossione",
+        "why_wrong": "Il tesoriere è incaricato della riscossione (art. 180, comma 1), ma la documentazione dell'accertamento è trasmessa al responsabile del servizio finanziario (art. 179, comma 3)."
       },
       {
         "id": "b",
-        "text": "All'organo di revisione",
-        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario (art. 179, comma 3)."
+        "text": "All'organo di revisione economico-finanziaria",
+        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario, non l'organo di revisione (art. 179, comma 3)."
       },
       {
         "id": "c",
@@ -197,8 +198,8 @@
       },
       {
         "id": "d",
-        "text": "Alla Giunta",
-        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario (art. 179, comma 3)."
+        "text": "Alla Giunta, organo esecutivo dell'ente",
+        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario, non la Giunta (art. 179, comma 3)."
       }
     ],
     "correct": "c",
@@ -216,7 +217,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -226,22 +228,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Nel trasferimento delle somme riscosse nelle casse dell'ente",
-        "why_wrong": "Questo è il versamento, ultima fase dell'entrata (art. 181, comma 1)."
+        "text": "Nel trasferimento nelle casse dell'ente delle somme già riscosse dagli incaricati interni ed esterni della riscossione",
+        "why_wrong": "Questo è il versamento, ultima fase dell'entrata (art. 181, commi 1 e 2)."
       },
       {
         "id": "b",
-        "text": "Nella verifica della ragione del credito e nell'individuazione del debitore",
-        "why_wrong": "Questo è il contenuto dell'accertamento (art. 179, comma 1)."
+        "text": "Nella verifica della ragione del credito e del titolo giuridico, con individuazione del debitore e della scadenza",
+        "why_wrong": "Questo è il contenuto dell'accertamento, prima fase dell'entrata (art. 179, comma 1)."
       },
       {
         "id": "c",
-        "text": "Nella determinazione della somma certa e liquida da incassare",
-        "why_wrong": "La determinazione della somma certa e liquida è propria della liquidazione, fase della spesa (art. 184, comma 1)."
+        "text": "Nella determinazione della somma certa e liquida da incassare, in base ai documenti che comprovano il diritto dell'ente",
+        "why_wrong": "La determinazione della somma certa e liquida in base ai documenti che comprovano il diritto del creditore è propria della liquidazione, fase della spesa (art. 184, comma 1); la riscossione è il materiale introito delle somme (art. 180, comma 1)."
       },
       {
         "id": "d",
-        "text": "Nel materiale introito, da parte del tesoriere o di altri eventuali incaricati della riscossione, delle somme dovute all'ente",
+        "text": "Nel materiale introito, da parte del tesoriere o di altri incaricati della riscossione, delle somme dovute all'ente",
         "why_wrong": null
       }
     ],
@@ -260,7 +262,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -270,8 +273,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Il tesoriere",
-        "why_wrong": "Il tesoriere riceve l'ordinativo d'incasso (art. 180, comma 2), ma non lo sottoscrive."
+        "text": "Il tesoriere dell'ente, al quale l'ordinativo perviene nelle forme e nei tempi previsti dalla convenzione",
+        "why_wrong": "Il tesoriere riceve l'ordinativo d'incasso (art. 180, comma 2), ma non lo sottoscrive (art. 180, comma 3)."
       },
       {
         "id": "b",
@@ -280,13 +283,13 @@
       },
       {
         "id": "c",
-        "text": "Il sindaco, quale legale rappresentante dell'ente",
-        "why_wrong": "La norma attribuisce la sottoscrizione al responsabile del servizio finanziario o ad altro dipendente individuato dal regolamento (art. 180, comma 3)."
+        "text": "Il sindaco, quale legale rappresentante dell'ente, o l'assessore al bilancio da lui appositamente delegato",
+        "why_wrong": "La norma attribuisce la sottoscrizione al responsabile del servizio finanziario o ad altro dipendente individuato dal regolamento di contabilità (art. 180, comma 3)."
       },
       {
         "id": "d",
-        "text": "Il responsabile del procedimento che ha accertato l'entrata",
-        "why_wrong": "Il responsabile del procedimento trasmette la documentazione dell'accertamento al servizio finanziario (art. 179, comma 3); l'ordinativo è sottoscritto dal responsabile del servizio finanziario (art. 180, comma 3)."
+        "text": "Il responsabile del procedimento con il quale è stata accertata l'entrata, dopo averne trasmesso la documentazione",
+        "why_wrong": "Il responsabile del procedimento di accertamento trasmette la documentazione al responsabile del servizio finanziario (art. 179, comma 3); l'ordinativo è sottoscritto da quest'ultimo o da altro dipendente individuato dal regolamento (art. 180, comma 3)."
       }
     ],
     "correct": "b",
@@ -304,7 +307,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -314,13 +318,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Deve rifiutare la somma, perché la riscossione è disposta solo a mezzo di ordinativo d'incasso",
-        "why_wrong": "Il tesoriere deve accettare la riscossione di ogni somma versata in favore dell'ente anche senza preventivo ordinativo (art. 180, comma 4)."
+        "text": "Deve rifiutare la somma, perché la riscossione è disposta solo a mezzo di ordinativo d'incasso fatto pervenire al tesoriere dall'ente",
+        "why_wrong": "La riscossione è disposta con ordinativo (art. 180, comma 2), ma il tesoriere deve accettare ogni somma versata in favore dell'ente anche senza preventivo ordinativo (art. 180, comma 4)."
       },
       {
         "id": "b",
-        "text": "Deve accettarla e imputarla provvisoriamente alle partite di giro in attesa di istruzioni",
-        "why_wrong": "È vietata l'imputazione provvisoria degli incassi in attesa di regolarizzazione alle partite di giro (art. 180, comma 4-quater)."
+        "text": "Deve accettarla e imputarla provvisoriamente alle partite di giro, in attesa della regolarizzazione da parte dell'ente entro 60 giorni",
+        "why_wrong": "Il termine di 60 giorni per la regolarizzazione è corretto (art. 180, comma 4), ma è vietata l'imputazione provvisoria degli incassi alle partite di giro (art. 180, comma 4-quater)."
       },
       {
         "id": "c",
@@ -329,8 +333,8 @@
       },
       {
         "id": "d",
-        "text": "Deve accettarla; l'ente emette il mandato di regolarizzazione entro trenta giorni",
-        "why_wrong": "Il mandato entro trenta giorni riguarda i pagamenti effettuati dal tesoriere senza mandato (art. 185, comma 4); per gli incassi il termine è di 60 giorni (art. 180, comma 4)."
+        "text": "Deve accettarla, darne immediata comunicazione all'ente e chiedere la regolarizzazione, che l'ente effettua entro i successivi trenta giorni",
+        "why_wrong": "Il termine di trenta giorni riguarda la regolarizzazione dei pagamenti effettuati dal tesoriere senza mandato (art. 185, comma 4); per gli incassi il termine è di 60 giorni (art. 180, comma 4)."
       }
     ],
     "correct": "c",
@@ -348,7 +352,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -539,18 +544,18 @@
       },
       {
         "id": "b",
-        "text": "Per un contratto d'appalto di lavori da aggiudicare nel corso dell'esercizio",
-        "why_wrong": "La norma elenca solo trattamento tabellare, rate di ammortamento e somministrazioni continuative (art. 183, comma 2); le procedure in corso possono al più essere prenotate (art. 183, comma 3)."
+        "text": "Per un contratto d'appalto di lavori la cui procedura di gara è in via di espletamento nel corso dell'esercizio",
+        "why_wrong": "Per le procedure in via di espletamento l'impegno può solo essere prenotato (art. 183, comma 3); non rientrano tra le spese elencate dall'art. 183, comma 2."
       },
       {
         "id": "c",
-        "text": "Per i contributi straordinari che la Giunta intende concedere ad associazioni",
-        "why_wrong": "Non rientrano tra le spese elencate dall'art. 183, comma 2, per le quali l'impegno è automatico."
+        "text": "Per i contributi straordinari che la Giunta intende concedere ad associazioni del territorio nel corso dell'anno",
+        "why_wrong": "Non rientrano tra le spese elencate dall'art. 183, comma 2, per le quali l'impegno è costituito con l'approvazione del bilancio."
       },
       {
         "id": "d",
-        "text": "Per i debiti fuori bilancio derivanti da sentenze esecutive",
-        "why_wrong": "I debiti fuori bilancio richiedono il riconoscimento della loro legittimità con deliberazione consiliare (art. 194, comma 1)."
+        "text": "Per i debiti fuori bilancio derivanti da sentenze esecutive pronunciate nei confronti dell'ente nell'esercizio",
+        "why_wrong": "Anche se derivanti da sentenze esecutive, i debiti fuori bilancio richiedono il riconoscimento della legittimità con deliberazione consiliare (art. 194, comma 1) e non rientrano nell'elenco dell'art. 183, comma 2."
       }
     ],
     "correct": "a",
@@ -568,7 +573,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -578,18 +584,18 @@
     "options": [
       {
         "id": "a",
-        "text": "Dalla sua sottoscrizione da parte del responsabile del servizio",
-        "why_wrong": "La determinazione è trasmessa al responsabile del servizio finanziario ed è esecutiva solo con il visto di regolarità contabile (art. 183, comma 7)."
+        "text": "Dalla sottoscrizione da parte del responsabile del servizio che ha adottato la determinazione",
+        "why_wrong": "La sottoscrizione del responsabile del servizio non basta: la determinazione è trasmessa al responsabile del servizio finanziario ed è esecutiva con il visto di regolarità contabile (art. 183, comma 7)."
       },
       {
         "id": "b",
-        "text": "Dalla pubblicazione all'albo pretorio per quindici giorni",
-        "why_wrong": "Per gli atti di impegno l'esecutività è legata all'apposizione del visto di regolarità contabile attestante la copertura finanziaria (art. 183, comma 7)."
+        "text": "Dalla pubblicazione della determinazione all'albo pretorio dell'ente per quindici giorni consecutivi",
+        "why_wrong": "L'esecutività dei provvedimenti di impegno non dipende dalla pubblicazione all'albo, ma dall'apposizione del visto di regolarità contabile attestante la copertura finanziaria (art. 183, comma 7)."
       },
       {
         "id": "c",
-        "text": "Dall'approvazione da parte della Giunta",
-        "why_wrong": "La norma non prevede l'approvazione della Giunta, ma il visto del responsabile del servizio finanziario (art. 183, comma 7)."
+        "text": "Dall'approvazione da parte della Giunta, previo parere del responsabile del servizio finanziario",
+        "why_wrong": "La norma non prevede l'approvazione della Giunta, ma il visto di regolarità contabile del responsabile del servizio finanziario (art. 183, comma 7)."
       },
       {
         "id": "d",
@@ -612,7 +618,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -622,8 +629,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Si trasforma automaticamente in residuo passivo",
-        "why_wrong": "Costituiscono residui passivi solo le somme impegnate e non pagate; è vietata la conservazione tra i residui di somme non impegnate (art. 190, commi 1 e 2)."
+        "text": "Si trasforma automaticamente in residuo passivo e viene conservata nel conto dei residui fino all'aggiudicazione della gara",
+        "why_wrong": "Costituiscono residui passivi solo le somme impegnate e non pagate; è vietata la conservazione nel conto dei residui di somme non impegnate (art. 190, commi 1 e 2)."
       },
       {
         "id": "b",
@@ -632,13 +639,13 @@
       },
       {
         "id": "c",
-        "text": "Resta valida fino alla conclusione della gara, anche negli esercizi successivi",
-        "why_wrong": "I provvedimenti per i quali entro il termine dell'esercizio non è stata assunta l'obbligazione decadono (art. 183, comma 3)."
+        "text": "Resta valida fino alla conclusione della gara anche negli esercizi successivi, senza incidere sul risultato di amministrazione",
+        "why_wrong": "I provvedimenti per i quali entro il termine dell'esercizio non è stata assunta l'obbligazione decadono e concorrono al risultato di amministrazione (art. 183, comma 3)."
       },
       {
         "id": "d",
-        "text": "Diventa un debito fuori bilancio da riconoscere dal Consiglio",
-        "why_wrong": "I debiti fuori bilancio riconoscibili sono quelli elencati all'art. 194, comma 1; la prenotazione non seguita da obbligazione costituisce economia (art. 183, comma 3)."
+        "text": "Diventa un debito fuori bilancio, la cui legittimità deve essere riconosciuta dal Consiglio in sede di salvaguardia degli equilibri",
+        "why_wrong": "Non sorge alcun debito, perché l'ente non ha assunto obbligazioni verso terzi: la prenotazione decade e costituisce economia (art. 183, comma 3); il riconoscimento consiliare riguarda i debiti fuori bilancio dell'art. 194, comma 1."
       }
     ],
     "correct": "b",
@@ -656,7 +663,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -666,23 +674,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il soggetto creditore e la ragione del debito, con vincolo sulle previsioni di bilancio",
-        "why_wrong": "Questi elementi sono determinati con l'impegno (art. 183, comma 1)."
+        "text": "Il soggetto creditore, la ragione e la scadenza del debito, a seguito di obbligazione giuridicamente perfezionata e con vincolo sulle previsioni di bilancio",
+        "why_wrong": "Questi elementi sono determinati con l'impegno, prima fase della spesa (art. 183, comma 1)."
       },
       {
         "id": "b",
-        "text": "L'ordine al tesoriere di pagare la somma al creditore",
-        "why_wrong": "L'ordine al tesoriere è dato con il mandato di pagamento, nella fase dell'ordinazione (art. 185)."
+        "text": "L'ordine al tesoriere di pagare la somma al creditore, mediante mandato sottoscritto dal dipendente individuato dal regolamento di contabilità",
+        "why_wrong": "L'ordine al tesoriere è dato con il mandato di pagamento, nella fase dell'ordinazione (art. 185, comma 2)."
       },
       {
         "id": "c",
-        "text": "La somma certa e liquida da pagare, nei limiti dell'ammontare dell'impegno definitivo assunto, in base ai documenti che comprovano il diritto acquisito del creditore",
+        "text": "La somma certa e liquida da pagare, nei limiti dell'impegno definitivo assunto, in base ai documenti che comprovano il diritto acquisito del creditore",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "La copertura finanziaria della spesa negli stanziamenti di bilancio",
-        "why_wrong": "La copertura finanziaria è attestata con il visto di regolarità contabile sugli atti di impegno (art. 183, comma 7)."
+        "text": "La copertura finanziaria della spesa negli stanziamenti di bilancio, attestata con il visto di regolarità contabile del responsabile del servizio finanziario",
+        "why_wrong": "Il visto di regolarità contabile attestante la copertura finanziaria riguarda i provvedimenti di impegno (art. 183, comma 7); con la liquidazione si determina la somma certa e liquida da pagare (art. 184, comma 1)."
       }
     ],
     "correct": "c",
@@ -700,7 +708,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -710,23 +719,23 @@
     "options": [
       {
         "id": "a",
-        "text": "All'ufficio che ha dato esecuzione al provvedimento di spesa, a seguito del riscontro sulla regolarità della fornitura e sulla sua rispondenza ai requisiti e alle condizioni pattuite",
+        "text": "All'ufficio che ha dato esecuzione al provvedimento di spesa, previo riscontro sulla regolarità della fornitura e sulla sua rispondenza ai requisiti e alle condizioni pattuite",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Al servizio finanziario, che riceve direttamente la fattura e liquida senza altri riscontri",
-        "why_wrong": "La liquidazione compete all'ufficio che ha dato esecuzione al provvedimento; il servizio finanziario effettua poi i controlli sugli atti di liquidazione (art. 184, commi 2 e 4)."
+        "text": "Al servizio finanziario, che riceve direttamente la fattura dall'impresa e dispone la liquidazione sulla base dei soli controlli amministrativi, contabili e fiscali",
+        "why_wrong": "Il servizio finanziario effettua i controlli amministrativi, contabili e fiscali sugli atti di liquidazione (art. 184, comma 4), ma la liquidazione compete all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
       },
       {
         "id": "c",
-        "text": "Al tesoriere, che verifica la fornitura prima di pagare",
-        "why_wrong": "Il tesoriere estingue i mandati (art. 217); la liquidazione compete all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
+        "text": "Al tesoriere dell'ente, che prima di estinguere il mandato verifica la regolarità della fornitura e la sua rispondenza ai requisiti quantitativi e qualitativi pattuiti",
+        "why_wrong": "Il riscontro sulla regolarità della fornitura e la liquidazione competono all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
       },
       {
         "id": "d",
-        "text": "All'organo di revisione, che attesta la regolarità della prestazione",
-        "why_wrong": "La norma attribuisce la liquidazione all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
+        "text": "All'organo di revisione economico-finanziaria, che attesta la regolarità della prestazione e la sua rispondenza ai requisiti quantitativi e qualitativi e alle condizioni pattuite",
+        "why_wrong": "Il riscontro sulla regolarità della prestazione e la liquidazione competono all'ufficio che ha dato esecuzione al provvedimento di spesa, non all'organo di revisione (art. 184, comma 2)."
       }
     ],
     "correct": "a",
@@ -744,7 +753,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -754,8 +764,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Sulla congruità del prezzo rispetto ai valori di mercato",
-        "why_wrong": "La norma non prevede questo controllo; il servizio finanziario verifica impegno, liquidazione e autorizzazione di cassa (art. 185, comma 3)."
+        "text": "Sulla congruità del prezzo pattuito rispetto ai valori di mercato e sulla convenienza della spesa",
+        "why_wrong": "Il controllo del servizio finanziario sul mandato non riguarda congruità del prezzo o convenienza della spesa, ma la sussistenza di impegno e liquidazione e il rispetto dell'autorizzazione di cassa (art. 185, comma 3)."
       },
       {
         "id": "b",
@@ -764,13 +774,13 @@
       },
       {
         "id": "c",
-        "text": "Sulla regolarità della fornitura e sulla rispondenza ai requisiti pattuiti",
-        "why_wrong": "Questo riscontro precede la liquidazione ed è svolto dall'ufficio che ha dato esecuzione al provvedimento (art. 184, comma 2)."
+        "text": "Sulla regolarità della fornitura e sulla sua rispondenza ai requisiti quantitativi e qualitativi pattuiti",
+        "why_wrong": "Il riscontro sulla regolarità della fornitura e sui requisiti quantitativi e qualitativi precede la liquidazione ed è svolto dall'ufficio che ha dato esecuzione al provvedimento (art. 184, comma 2)."
       },
       {
         "id": "d",
-        "text": "Sulla sola presenza della firma del sindaco",
-        "why_wrong": "Il mandato è sottoscritto dal dipendente individuato dal regolamento (art. 185, comma 2) e il controllo riguarda impegno, liquidazione e cassa (art. 185, comma 3)."
+        "text": "Sulla sola presenza della firma del sindaco e dell'indicazione del soggetto tenuto a rilasciare quietanza",
+        "why_wrong": "Il mandato è sottoscritto dal dipendente individuato dal regolamento (art. 185, comma 2) e il controllo riguarda impegno, liquidazione e autorizzazione di cassa (art. 185, comma 3)."
       }
     ],
     "correct": "b",
@@ -788,7 +798,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -798,13 +809,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Deve contestare il pagamento, perché il tesoriere può pagare solo in presenza di mandato",
-        "why_wrong": "Per obblighi tributari, somme iscritte a ruolo, delegazioni di pagamento e altri obblighi di legge il tesoriere paga anche senza mandato (art. 185, comma 4)."
+        "text": "Deve contestare il pagamento al tesoriere, perché il tesoriere può effettuare pagamenti solo in presenza di un mandato emesso dall'ente",
+        "why_wrong": "Per obblighi tributari, somme iscritte a ruolo, delegazioni di pagamento e altri obblighi di legge il tesoriere paga anche senza mandato, e l'ente regolarizza entro trenta giorni (art. 185, comma 4)."
       },
       {
         "id": "b",
-        "text": "Entro sessanta giorni emette il mandato, imputandolo all'esercizio in cui riceve la comunicazione",
-        "why_wrong": "Il termine è di trenta giorni e l'imputazione va all'esercizio in cui il tesoriere ha pagato (art. 185, comma 4); i 60 giorni riguardano la regolarizzazione degli incassi (art. 180, comma 4)."
+        "text": "Entro sessanta giorni emette il mandato di regolarizzazione, imputandolo all'esercizio in cui ha ricevuto la comunicazione del tesoriere",
+        "why_wrong": "Il mandato va emesso entro trenta giorni e imputato all'esercizio in cui il tesoriere ha pagato, anche se la comunicazione arriva nell'esercizio successivo (art. 185, comma 4); i 60 giorni riguardano gli incassi (art. 180, comma 4)."
       },
       {
         "id": "c",
@@ -813,8 +824,8 @@
       },
       {
         "id": "d",
-        "text": "Deve riconoscere la spesa come debito fuori bilancio con deliberazione consiliare",
-        "why_wrong": "La norma prevede la regolarizzazione con mandato, non il riconoscimento del debito fuori bilancio (art. 185, comma 4)."
+        "text": "Deve riconoscere la spesa come debito fuori bilancio con deliberazione consiliare, in sede di salvaguardia degli equilibri di bilancio",
+        "why_wrong": "La norma prevede la regolarizzazione con mandato entro trenta giorni, non il riconoscimento del debito fuori bilancio (art. 185, comma 4)."
       }
     ],
     "correct": "c",
@@ -832,7 +843,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -842,23 +854,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Residuo attivo: somme previste e non accertate; residuo passivo: somme stanziate e non impegnate",
-        "why_wrong": "Le somme non accertate costituiscono minori entrate (art. 189, comma 4) e quelle non impegnate economie di spesa (art. 190, comma 3), non residui."
+        "text": "Residuo attivo: somme previste e non accertate; residuo passivo: somme stanziate e non impegnate, entrambe entro il termine dell'esercizio",
+        "why_wrong": "Le somme non accertate e quelle non impegnate entro l'esercizio non sono residui: le prime costituiscono minori entrate (art. 189, comma 4), le seconde economia di spesa (art. 190, comma 3)."
       },
       {
         "id": "b",
-        "text": "Residuo attivo: somme riscosse e non versate; residuo passivo: somme liquidate e non ordinate",
-        "why_wrong": "La norma collega i residui attivi all'accertamento senza riscossione e i passivi all'impegno senza pagamento (artt. 189, comma 1, e 190, comma 1)."
+        "text": "Residuo attivo: somme riscosse e non versate; residuo passivo: somme liquidate e non ordinate, entrambe entro il termine dell'esercizio",
+        "why_wrong": "Residui attivi sono le somme accertate e non riscosse, residui passivi le somme impegnate e non pagate (artt. 189, comma 1, e 190, comma 1): la norma non fa riferimento al versamento o all'ordinazione."
       },
       {
         "id": "c",
-        "text": "Residuo attivo: somme accertate e non riscosse entro il termine dell'esercizio; residuo passivo: somme impegnate e non pagate entro il termine dell'esercizio",
+        "text": "Residuo attivo: somme accertate e non riscosse; residuo passivo: somme impegnate e non pagate, entrambe entro il termine dell'esercizio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Residuo attivo: somme accertate e non riscosse; residuo passivo: somme stanziate e non impegnate",
-        "why_wrong": "È vietata la conservazione nel conto dei residui di somme non impegnate (art. 190, comma 2)."
+        "text": "Residuo attivo: somme accertate e non riscosse; residuo passivo: somme stanziate e non impegnate, entrambe entro il termine dell'esercizio",
+        "why_wrong": "Costituiscono residui passivi le somme impegnate e non pagate; è vietata la conservazione nel conto dei residui di somme non impegnate (art. 190, commi 1 e 2)."
       }
     ],
     "correct": "c",
@@ -880,7 +892,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -934,18 +947,18 @@
     "options": [
       {
         "id": "a",
-        "text": "La dichiarazione automatica dello stato di dissesto",
-        "why_wrong": "La norma non prevede il dissesto automatico, ma l'equiparazione alla mancata approvazione del bilancio di previsione (art. 193, comma 4)."
+        "text": "È equiparata ad ogni effetto alla deliberazione dello stato di dissesto, con conseguente nomina dell'organo straordinario di liquidazione",
+        "why_wrong": "La norma non prevede l'equiparazione al dissesto, ma alla mancata approvazione del bilancio di previsione (art. 193, comma 4)."
       },
       {
         "id": "b",
-        "text": "La sola responsabilità disciplinare del responsabile del servizio finanziario",
-        "why_wrong": "La norma collega all'omissione una conseguenza per l'ente: l'equiparazione alla mancata approvazione del bilancio (art. 193, comma 4)."
+        "text": "Comporta la sola responsabilità disciplinare e amministrativa del responsabile del servizio finanziario, senza conseguenze per gli organi dell'ente",
+        "why_wrong": "La norma collega all'omissione una conseguenza per l'ente: l'equiparazione alla mancata approvazione del bilancio, con la procedura dell'art. 141, comma 2 (art. 193, comma 4)."
       },
       {
         "id": "c",
-        "text": "L'obbligo di ricorrere all'esercizio provvisorio",
-        "why_wrong": "L'esercizio provvisorio è autorizzato con legge o decreto ministeriale (art. 163, comma 3); la mancata adozione del riequilibrio è equiparata alla mancata approvazione del bilancio (art. 193, comma 4)."
+        "text": "Comporta l'obbligo di ricorrere all'esercizio provvisorio, con pagamenti mensili limitati a un dodicesimo delle somme stanziate nell'ultimo bilancio",
+        "why_wrong": "La norma non prevede l'esercizio provvisorio, ma l'equiparazione alla mancata approvazione del bilancio di previsione (art. 193, comma 4)."
       },
       {
         "id": "d",
@@ -968,7 +981,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1022,13 +1036,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Tra il fornitore e l'ente, che deve comunque pagare l'intero importo",
-        "why_wrong": "Per la parte non riconoscibile ai sensi dell'art. 194, comma 1, lettera e), il rapporto intercorre con chi ha consentito la fornitura (art. 191, comma 4)."
+        "text": "Tra il fornitore e l'ente, che deve comunque pagare l'intero importo della fornitura ricevuta",
+        "why_wrong": "L'ente risponde solo nei limiti del debito riconoscibile per utilità e arricchimento (art. 194, comma 1, lettera e)); per la parte non riconoscibile il rapporto intercorre con chi ha consentito la fornitura (art. 191, comma 4)."
       },
       {
         "id": "b",
-        "text": "Tra il fornitore e il tesoriere dell'ente",
-        "why_wrong": "Il tesoriere non è parte del rapporto: la norma indica l'amministratore, funzionario o dipendente che ha consentito la fornitura (art. 191, comma 4)."
+        "text": "Tra il fornitore e il tesoriere dell'ente, tenuto a pagare anche in assenza di mandato",
+        "why_wrong": "Il tesoriere paga senza mandato solo nei casi dell'art. 185, comma 4, e non è parte del rapporto, che intercorre con l'amministratore, funzionario o dipendente che ha consentito la fornitura (art. 191, comma 4)."
       },
       {
         "id": "c",
@@ -1037,8 +1051,8 @@
       },
       {
         "id": "d",
-        "text": "Tra il fornitore e il responsabile del servizio finanziario, in ogni caso",
-        "why_wrong": "Il rapporto intercorre con chi ha consentito la fornitura, non necessariamente con il responsabile finanziario (art. 191, comma 4)."
+        "text": "Tra il fornitore e il responsabile del servizio finanziario, in ogni caso e per l'intero importo",
+        "why_wrong": "Il rapporto intercorre, per la sola parte non riconoscibile, con chi ha consentito la fornitura, non necessariamente con il responsabile finanziario (art. 191, comma 4)."
       }
     ],
     "correct": "c",
@@ -1056,7 +1070,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1066,23 +1081,23 @@
     "options": [
       {
         "id": "a",
-        "text": "La Giunta, entro venti giorni dall'ordinazione, su proposta del responsabile del procedimento, sottopone al Consiglio il provvedimento di riconoscimento della spesa, che il Consiglio adotta entro 30 giorni",
+        "text": "La Giunta, entro venti giorni dall'ordinazione e su proposta del responsabile del procedimento, sottopone al Consiglio il riconoscimento della spesa, da adottare entro 30 giorni",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Il responsabile del procedimento adotta una determinazione di impegno entro sessanta giorni, senza passaggi consiliari",
-        "why_wrong": "Per la somma urgenza è previsto il riconoscimento della spesa da parte del Consiglio, su proposta della Giunta (art. 191, comma 3)."
+        "text": "Il responsabile del procedimento, entro venti giorni dall'ordinazione, adotta una determinazione di impegno, esecutiva con il visto di regolarità contabile, senza passaggi consiliari",
+        "why_wrong": "Il responsabile del procedimento formula solo la proposta: entro venti giorni la Giunta sottopone al Consiglio il riconoscimento della spesa, adottato entro 30 giorni (art. 191, comma 3)."
       },
       {
         "id": "c",
-        "text": "La Giunta adotta una variazione di bilancio d'urgenza da ratificare entro sessanta giorni",
-        "why_wrong": "La ratifica entro sessanta giorni riguarda le variazioni di bilancio d'urgenza (art. 175, comma 4); la somma urgenza segue la procedura di riconoscimento dell'art. 191, comma 3."
+        "text": "La Giunta adotta in via d'urgenza una variazione di bilancio opportunamente motivata, che il Consiglio ratifica entro i sessanta giorni seguenti e comunque entro il 31 dicembre",
+        "why_wrong": "La ratifica entro sessanta giorni riguarda le variazioni di bilancio adottate d'urgenza dall'organo esecutivo (art. 175, comma 4); la somma urgenza segue la procedura di riconoscimento dell'art. 191, comma 3."
       },
       {
         "id": "d",
-        "text": "Il Consiglio riconosce la spesa entro il 31 luglio, in sede di verifica degli equilibri",
-        "why_wrong": "Il riconoscimento è adottato entro 30 giorni dalla deliberazione della proposta della Giunta, e comunque entro il 31 dicembre (art. 191, comma 3)."
+        "text": "La Giunta, entro sessanta giorni dall'ordinazione, sottopone al Consiglio il riconoscimento della spesa, da adottare entro il 31 luglio in sede di salvaguardia degli equilibri",
+        "why_wrong": "La Giunta provvede entro venti giorni dall'ordinazione e il Consiglio entro 30 giorni dalla proposta, e comunque entro il 31 dicembre (art. 191, comma 3)."
       }
     ],
     "correct": "a",
@@ -1104,7 +1119,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
