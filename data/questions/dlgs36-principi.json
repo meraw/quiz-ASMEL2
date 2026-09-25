@@ -1,0 +1,666 @@
+[
+  {
+    "id": "cc-pri-001",
+    "subject": "contratti-pubblici",
+    "question": "Secondo il principio del risultato (art. 1 del d.lgs. 36/2023), le stazioni appaltanti e gli enti concedenti perseguono il risultato dell'affidamento del contratto e della sua esecuzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Con la massima tempestività e il migliore rapporto possibile tra qualità e prezzo, nel rispetto dei principi di legalità, trasparenza e concorrenza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Con il minor prezzo possibile, nel rispetto dei principi di economicità e pubblicità",
+        "why_wrong": "L'art. 1, comma 1, richiama il migliore rapporto tra qualità e prezzo, non il minor prezzo, e i principi di legalità, trasparenza e concorrenza."
+      },
+      {
+        "id": "c",
+        "text": "Con la massima tempestività, anche in deroga ai principi di concorrenza quando lo richiede l'urgenza",
+        "why_wrong": "L'art. 1, comma 1, impone di perseguire il risultato nel rispetto dei principi di legalità, trasparenza e concorrenza, senza prevederne deroghe."
+      },
+      {
+        "id": "d",
+        "text": "Con la massima partecipazione degli operatori economici, anche a scapito della tempestività",
+        "why_wrong": "La massima partecipazione è oggetto dell'art. 10; l'art. 1, comma 1, indica la massima tempestività come modalità di perseguimento del risultato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 1, definisce il principio del risultato: il risultato va perseguito con la massima tempestività e il migliore rapporto qualità/prezzo, sempre nel rispetto di legalità, trasparenza e concorrenza.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1",
+        "text": "Le stazioni appaltanti e gli enti concedenti perseguono il risultato dell'affidamento del contratto e della sua esecuzione con la massima tempestività e il migliore rapporto possibile tra qualità e prezzo, nel rispetto dei principi di legalità, trasparenza e concorrenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 1, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-002",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 1 del codice dei contratti pubblici, il principio del risultato costituisce attuazione, nel settore dei contratti pubblici:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Del principio di imparzialità e dei correlati principi di pubblicità e trasparenza",
+        "why_wrong": "Imparzialità e pubblicità sono richiamati dall'art. 3 per l'accesso al mercato; l'art. 1, comma 3, richiama il buon andamento."
+      },
+      {
+        "id": "b",
+        "text": "Del principio di legalità e del correlato principio di tassatività delle cause di esclusione",
+        "why_wrong": "La tassatività delle cause di esclusione è un principio autonomo (art. 10); l'art. 1, comma 3, richiama il buon andamento."
+      },
+      {
+        "id": "c",
+        "text": "Del principio di sussidiarietà orizzontale e di solidarietà sociale",
+        "why_wrong": "Solidarietà e sussidiarietà orizzontale sono oggetto dell'art. 6, non del principio del risultato."
+      },
+      {
+        "id": "d",
+        "text": "Del principio del buon andamento e dei correlati principi di efficienza, efficacia ed economicità",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 1, comma 3, collega il principio del risultato al buon andamento e ai principi di efficienza, efficacia ed economicità; il risultato è perseguito nell'interesse della comunità e per gli obiettivi dell'Unione europea.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 3",
+        "text": "Il principio del risultato costituisce attuazione, nel settore dei contratti pubblici, del principio del buon andamento e dei correlati principi di efficienza, efficacia ed economicità."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 1, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-003",
+    "subject": "contratti-pubblici",
+    "question": "Oltre che per l'esercizio del potere discrezionale e l'individuazione della regola del caso concreto, il principio del risultato costituisce criterio prioritario, secondo l'art. 1 del codice, anche per:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Determinare le soglie di rilevanza europea degli appalti",
+        "why_wrong": "L'art. 1, comma 4, non riguarda le soglie, disciplinate da altra disposizione del codice (art. 14)."
+      },
+      {
+        "id": "b",
+        "text": "Valutare la responsabilità del personale che svolge funzioni amministrative o tecniche e attribuire gli incentivi secondo la contrattazione collettiva",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Individuare le cause di esclusione ulteriori rispetto a quelle previste dal codice",
+        "why_wrong": "L'art. 10, comma 2, stabilisce che le cause di esclusione sono tassative e che le clausole che ne prevedono di ulteriori sono nulle."
+      },
+      {
+        "id": "d",
+        "text": "Scegliere il contratto collettivo applicabile al personale dell'appaltatore",
+        "why_wrong": "Il contratto collettivo è individuato secondo i criteri dell'art. 11, non in base al principio del risultato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 1, comma 4, lett. a) e b), prevede che il principio del risultato sia criterio prioritario anche per valutare la responsabilità del personale nelle fasi di programmazione, progettazione, affidamento ed esecuzione e per attribuire gli incentivi.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 4",
+        "text": "Il principio del risultato costituisce criterio prioritario per l'esercizio del potere discrezionale e per l'individuazione della regola del caso concreto, nonché per: a) valutare la responsabilità del personale che svolge funzioni amministrative o tecniche nelle fasi di programmazione, progettazione, affidamento ed esecuzione dei contratti; b) attribuire gli incentivi secondo le modalità previste dalla contrattazione collettiva."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 1, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-004",
+    "subject": "contratti-pubblici",
+    "question": "Il RUP di un Comune, nell'affidare un appalto, si è attenuto all'indirizzo giurisprudenziale prevalente sulla questione controversa; successivamente quell'interpretazione si rivela errata. Ai fini della responsabilità amministrativa, secondo l'art. 2 del codice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La condotta costituisce sempre colpa grave, perché consiste in una violazione di norme di diritto",
+        "why_wrong": "L'art. 2, comma 3, esclude espressamente la colpa grave quando la violazione deriva dal riferimento a indirizzi giurisprudenziali prevalenti."
+      },
+      {
+        "id": "b",
+        "text": "La condotta costituisce colpa grave solo se il funzionario non ha acquisito anche un parere dell'ANAC",
+        "why_wrong": "L'art. 2, comma 3, esclude la colpa grave sia per il riferimento a indirizzi giurisprudenziali prevalenti sia per quello a pareri delle autorità competenti, in alternativa."
+      },
+      {
+        "id": "c",
+        "text": "La violazione determinata dal riferimento a indirizzi giurisprudenziali prevalenti non costituisce colpa grave",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La condotta costituisce colpa grave in quanto violazione di un auto-vincolo amministrativo",
+        "why_wrong": "La violazione degli auto-vincoli è ipotesi di colpa grave, ma l'art. 2, comma 3, esclude la colpa grave quando la violazione dipende da indirizzi giurisprudenziali prevalenti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2, comma 3, dopo aver definito la colpa grave, precisa che non la costituisce la violazione o l'omissione determinata dal riferimento a indirizzi giurisprudenziali prevalenti o a pareri delle autorità competenti.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 3",
+        "text": "Non costituisce colpa grave la violazione o l'omissione determinata dal riferimento a indirizzi giurisprudenziali prevalenti o a pareri delle autorità competenti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 2, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-005",
+    "subject": "contratti-pubblici",
+    "question": "Per promuovere la fiducia nell'azione legittima, trasparente e corretta dell'amministrazione, l'art. 2 del codice prevede che le stazioni appaltanti adottino, tra l'altro, azioni per:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La copertura assicurativa dei rischi per il personale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La rotazione obbligatoria annuale dei funzionari addetti agli acquisti",
+        "why_wrong": "L'art. 2, comma 4, non prevede la rotazione del personale: indica la copertura assicurativa, la riqualificazione delle stazioni appaltanti e la valorizzazione delle capacità professionali."
+      },
+      {
+        "id": "c",
+        "text": "L'esonero dei funzionari dalla responsabilità amministrativa",
+        "why_wrong": "L'art. 2, comma 3, non esonera i funzionari da responsabilità, ma definisce quando la loro condotta costituisce colpa grave."
+      },
+      {
+        "id": "d",
+        "text": "La pubblicazione dei curricula degli operatori economici aggiudicatari",
+        "why_wrong": "L'art. 2, comma 4, riguarda il personale delle stazioni appaltanti, non gli operatori economici."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2, comma 4, prevede azioni per la copertura assicurativa dei rischi per il personale, per riqualificare le stazioni appaltanti e per valorizzare le capacità professionali dei dipendenti, compresi i piani di formazione.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 4",
+        "text": "Per promuovere la fiducia nell'azione legittima, trasparente e corretta dell'amministrazione, le stazioni appaltanti e gli enti concedenti adottano azioni per la copertura assicurativa dei rischi per il personale, nonché per riqualificare le stazioni appaltanti e per rafforzare e dare valore alle capacità professionali dei dipendenti"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 2, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-006",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 4 del codice dei contratti pubblici, le disposizioni del codice si interpretano e si applicano in base ai principi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Di buona fede e di tutela dell'affidamento",
+        "why_wrong": "Buona fede e affidamento (art. 5) regolano il comportamento reciproco nella gara; l'art. 4 richiama i principi degli articoli 1, 2 e 3."
+      },
+      {
+        "id": "b",
+        "text": "Del risultato, della fiducia e dell'accesso al mercato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Di tassatività delle cause di esclusione e di massima partecipazione",
+        "why_wrong": "Sono i principi dell'art. 10, non quelli richiamati dall'art. 4 come criterio interpretativo."
+      },
+      {
+        "id": "d",
+        "text": "Di auto-organizzazione amministrativa e di autonomia contrattuale",
+        "why_wrong": "Sono i principi degli artt. 7 e 8; l'art. 4 richiama i principi degli articoli 1, 2 e 3."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4 stabilisce che le disposizioni del codice si interpretano e si applicano in base ai principi degli articoli 1 (risultato), 2 (fiducia) e 3 (accesso al mercato).",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1",
+        "text": "Le disposizioni del codice si interpretano e si applicano in base ai principi di cui agli articoli 1, 2 e 3."
+      },
+      {
+        "ref": "art. 3, comma 1",
+        "text": "Le stazioni appaltanti e gli enti concedenti favoriscono, secondo le modalità indicate dal codice, l'accesso al mercato degli operatori economici"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 4, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-007",
+    "subject": "contratti-pubblici",
+    "question": "Un'aggiudicazione viene annullata in autotutela per un vizio che qualsiasi concorrente, con la diligenza professionale richiesta, avrebbe potuto facilmente rilevare. Secondo l'art. 5 del codice, l'affidamento dell'aggiudicatario:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È sempre tutelato, perché sorge con l'aggiudicazione",
+        "why_wrong": "L'art. 5, comma 3, esclude che l'affidamento sia incolpevole quando l'illegittimità è agevolmente rilevabile."
+      },
+      {
+        "id": "b",
+        "text": "Dà diritto al risarcimento del mancato utile per l'intera durata del contratto",
+        "why_wrong": "L'art. 5, comma 3, non prevede tale risarcimento; nei casi in cui non spetta l'aggiudicazione limita il danno ai pregiudizi economici effettivamente subiti e provati."
+      },
+      {
+        "id": "c",
+        "text": "È tutelato solo se l'annullamento è disposto su ricorso di terzi e non in autotutela",
+        "why_wrong": "L'art. 5, comma 3, applica la stessa regola sia all'annullamento su ricorso di terzi sia a quello in autotutela."
+      },
+      {
+        "id": "d",
+        "text": "Non si considera incolpevole, perché l'illegittimità era agevolmente rilevabile in base alla diligenza professionale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 5, comma 3, stabilisce che, in caso di aggiudicazione annullata su ricorso di terzi o in autotutela, l'affidamento non si considera incolpevole se l'illegittimità è agevolmente rilevabile in base alla diligenza professionale richiesta ai concorrenti.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 3",
+        "text": "In caso di aggiudicazione annullata su ricorso di terzi o in autotutela, l'affidamento non si considera incolpevole se l'illegittimità è agevolmente rilevabile in base alla diligenza professionale richiesta ai concorrenti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 5, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-008",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune intende affidare direttamente a una propria società in house un servizio strumentale. Secondo l'art. 7 del codice, il provvedimento di affidamento si intende sufficientemente motivato se dà conto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dell'impossibilità di reperire il servizio sul mercato",
+        "why_wrong": "L'art. 7, comma 2, non richiede di dimostrare l'impossibilità di reperire il servizio sul mercato."
+      },
+      {
+        "id": "b",
+        "text": "Del parere favorevole dell'ANAC sull'affidamento",
+        "why_wrong": "L'art. 7, comma 2, non prevede alcun parere dell'ANAC sul singolo affidamento in house."
+      },
+      {
+        "id": "c",
+        "text": "Dei vantaggi in termini di economicità, di celerità o di perseguimento di interessi strategici",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Del ribasso ottenuto rispetto al prezzo a base di gara",
+        "why_wrong": "L'affidamento in house non presuppone una gara con prezzo a base d'asta; l'art. 7, comma 2, richiede di dar conto dei vantaggi di economicità, celerità o interessi strategici."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 7, comma 2, richiede per ogni affidamento in house un provvedimento motivato; per le prestazioni strumentali la motivazione è sufficiente se dà conto dei vantaggi di economicità, di celerità o di perseguimento di interessi strategici.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 2",
+        "text": "In caso di prestazioni strumentali, il provvedimento si intende sufficientemente motivato qualora dia conto dei vantaggi in termini di economicità, di celerità o di perseguimento di interessi strategici."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 7, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-009",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 7 del codice, la cooperazione tra stazioni appaltanti volta al perseguimento di obiettivi di interesse comune non rientra nell'ambito di applicazione del codice quando, tra le altre condizioni, le amministrazioni partecipanti svolgono sul mercato aperto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Meno del 20 per cento delle attività interessate dalla cooperazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Meno del 30 per cento delle attività interessate dalla cooperazione",
+        "why_wrong": "Il 30 per cento è la soglia dell'art. 11, comma 2-bis, relativa alle prestazioni diverse da quelle prevalenti; l'art. 7, comma 4, indica il 20 per cento."
+      },
+      {
+        "id": "c",
+        "text": "Meno del 50 per cento delle attività interessate dalla cooperazione",
+        "why_wrong": "L'art. 7, comma 4, lett. d), fissa la soglia al 20 per cento."
+      },
+      {
+        "id": "d",
+        "text": "Nessuna attività, dovendo operare esclusivamente per le amministrazioni aderenti",
+        "why_wrong": "L'art. 7, comma 4, lett. d), non esclude del tutto l'attività sul mercato aperto, ma la limita a meno del 20 per cento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7, comma 4, elenca le condizioni che devono concorrere tutte; la lett. d) richiede che i partecipanti svolgano sul mercato aperto meno del 20 per cento delle attività interessate dalla cooperazione.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 4",
+        "text": "d) le stazioni appaltanti o gli enti concedenti partecipanti svolgono sul mercato aperto meno del 20 per cento delle attività interessate dalla cooperazione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 7, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-010",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune chiede a un architetto di redigere gratuitamente uno studio di fattibilità. Secondo l'art. 8 del codice, le prestazioni d'opera intellettuale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Possono sempre essere rese gratuitamente, in forza dell'autonomia contrattuale dell'amministrazione",
+        "why_wrong": "L'autonomia contrattuale (art. 8, comma 1) incontra i divieti previsti dal codice, tra cui quello del comma 2 sulle prestazioni d'opera intellettuale."
+      },
+      {
+        "id": "b",
+        "text": "Non possono essere rese gratuitamente, salvo che in casi eccezionali e previa adeguata motivazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Non possono mai essere rese gratuitamente, senza eccezioni",
+        "why_wrong": "L'art. 8, comma 2, ammette la gratuità in casi eccezionali e previa adeguata motivazione."
+      },
+      {
+        "id": "d",
+        "text": "Possono essere rese gratuitamente solo se ricevute per donazione senza obbligo di gara",
+        "why_wrong": "La donazione senza obbligo di gara (art. 8, comma 3) riguarda beni o prestazioni ricevuti; per le prestazioni d'opera intellettuale vale il divieto del comma 2, salvo casi eccezionali."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 8, comma 2, vieta che le prestazioni d'opera intellettuale siano rese gratuitamente dai professionisti, salvo casi eccezionali e previa adeguata motivazione; fuori da tali casi si applica l'equo compenso.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 2",
+        "text": "Le prestazioni d'opera intellettuale non possono essere rese dai professionisti gratuitamente, salvo che in casi eccezionali e previa adeguata motivazione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 8, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-011",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 8 del codice, le pubbliche amministrazioni possono ricevere per donazione beni o prestazioni rispondenti all'interesse pubblico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solo previa procedura negoziata con almeno tre donatori",
+        "why_wrong": "L'art. 8, comma 3, consente di ricevere donazioni senza obbligo di gara."
+      },
+      {
+        "id": "b",
+        "text": "Solo se il valore non supera la soglia dell'affidamento diretto",
+        "why_wrong": "L'art. 8, comma 3, non pone limiti di valore collegati all'affidamento diretto."
+      },
+      {
+        "id": "c",
+        "text": "Senza obbligo di gara, ferme le disposizioni del codice civile in materia di forma, revocazione e azione di riduzione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Solo previa autorizzazione dell'ANAC",
+        "why_wrong": "L'art. 8, comma 3, non richiede alcuna autorizzazione dell'ANAC."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8, comma 3, consente di ricevere per donazione beni o prestazioni rispondenti all'interesse pubblico senza obbligo di gara; restano ferme le norme del codice civile su forma, revocazione e riduzione delle donazioni.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 3",
+        "text": "Le pubbliche amministrazioni possono ricevere per donazione beni o prestazioni rispondenti all'interesse pubblico senza obbligo di gara. Restano ferme le disposizioni del codice civile"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 8, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-012",
+    "subject": "contratti-pubblici",
+    "question": "Durante l'esecuzione di un appalto di lavori sopravvengono circostanze straordinarie e imprevedibili, estranee alla normale alea, che alterano in maniera rilevante l'equilibrio originario del contratto. Secondo l'art. 9 del codice, la parte svantaggiata che non abbia volontariamente assunto il relativo rischio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può recedere dal contratto senza oneri",
+        "why_wrong": "L'art. 9, comma 1, non prevede il recesso, ma il diritto alla rinegoziazione."
+      },
+      {
+        "id": "b",
+        "text": "Ha diritto alla risoluzione del contratto per eccessiva onerosità",
+        "why_wrong": "L'art. 9, comma 1, prevede la rinegoziazione secondo buona fede, finalizzata a conservare l'equilibrio contrattuale."
+      },
+      {
+        "id": "c",
+        "text": "Ha diritto a una riduzione proporzionale del corrispettivo",
+        "why_wrong": "La riduzione proporzionale del corrispettivo (art. 9, comma 3) spetta quando la prestazione diventa in parte o temporaneamente inutile o inutilizzabile."
+      },
+      {
+        "id": "d",
+        "text": "Ha diritto alla rinegoziazione secondo buona fede delle condizioni contrattuali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 9, comma 1, riconosce alla parte svantaggiata il diritto alla rinegoziazione secondo buona fede; per il comma 2 la rinegoziazione si limita al ripristino dell'equilibrio originario senza alterare la sostanza economica del contratto.",
+    "evidence": [
+      {
+        "ref": "art. 9, comma 1",
+        "text": "Se sopravvengono circostanze straordinarie e imprevedibili, estranee alla normale alea, all'ordinaria fluttuazione economica e al rischio di mercato e tali da alterare in maniera rilevante l'equilibrio originario del contratto, la parte svantaggiata, che non abbia volontariamente assunto il relativo rischio, ha diritto alla rinegoziazione secondo buona fede delle condizioni contrattuali."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 9, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-013",
+    "subject": "contratti-pubblici",
+    "question": "Il bando di gara di un Comune prevede una causa di esclusione non contemplata dagli articoli 94 e 95 del codice. Secondo l'art. 10, tale clausola:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È nulla e si considera non apposta",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "È valida se attinente e proporzionata all'oggetto del contratto",
+        "why_wrong": "Il criterio di attinenza e proporzionalità riguarda i requisiti speciali (art. 10, comma 3), non le cause di esclusione, che sono tassative."
+      },
+      {
+        "id": "c",
+        "text": "È annullabile solo su ricorso dell'operatore escluso",
+        "why_wrong": "L'art. 10, comma 2, qualifica tali clausole come nulle e non apposte, non come annullabili."
+      },
+      {
+        "id": "d",
+        "text": "Rende nullo l'intero bando di gara",
+        "why_wrong": "L'art. 10, comma 2, colpisce la sola clausola, che si considera non apposta, non l'intero bando."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10, comma 2, stabilisce che le cause di esclusione degli artt. 94 e 95 sono tassative e integrano di diritto i bandi; le clausole che prevedono cause ulteriori sono nulle e si considerano non apposte.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 2",
+        "text": "Le cause di esclusione di cui agli articoli 94 e 95 sono tassative e integrano di diritto i bandi e le lettere di invito; le clausole che prevedono cause ulteriori di esclusione sono nulle e si considerano non apposte."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 10, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-014",
+    "subject": "contratti-pubblici",
+    "question": "Nei documenti di gara un Comune indica il contratto collettivo applicabile al personale. Un operatore economico applica un diverso contratto collettivo. Secondo l'art. 11 del codice, l'operatore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve essere escluso, perché il contratto indicato dalla stazione appaltante è vincolante",
+        "why_wrong": "L'art. 11, comma 3, consente di indicare un diverso contratto collettivo, purché garantisca le stesse tutele."
+      },
+      {
+        "id": "b",
+        "text": "Può indicare nella propria offerta il differente contratto collettivo, purché garantisca ai dipendenti le stesse tutele",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Può applicare il diverso contratto solo se autorizzato dall'ANAC",
+        "why_wrong": "L'art. 11, comma 3, non prevede autorizzazioni dell'ANAC; prima dell'aggiudicazione la stazione appaltante acquisisce la dichiarazione di equivalenza delle tutele (comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "Può applicare il diverso contratto solo al personale impiegato in subappalto",
+        "why_wrong": "Il comma 5 dell'art. 11 riguarda la garanzia delle medesime tutele ai lavoratori in subappalto, non la scelta del contratto da parte dell'offerente."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, comma 3, consente agli operatori economici di indicare nell'offerta un contratto collettivo diverso da quello indicato dalla stazione appaltante, purché garantisca le stesse tutele; in tal caso si acquisisce la dichiarazione di equivalenza (comma 4).",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 3",
+        "text": "possono indicare nella propria offerta il differente contratto collettivo da essi applicato, purché garantisca ai dipendenti le stesse tutele di quello indicato dalla stazione appaltante o dall'ente concedente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 11, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-pri-015",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 12 del codice, per quanto non espressamente previsto nel codice, alla stipula del contratto e alla fase di esecuzione si applicano le disposizioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Della legge 7 agosto 1990, n. 241",
+        "why_wrong": "La legge n. 241/1990 si applica, per l'art. 12, lett. a), alle procedure di affidamento e alle altre attività amministrative."
+      },
+      {
+        "id": "b",
+        "text": "Del codice civile",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Del testo unico degli enti locali",
+        "why_wrong": "L'art. 12 non rinvia al testo unico degli enti locali."
+      },
+      {
+        "id": "d",
+        "text": "Delle direttive dell'ANAC",
+        "why_wrong": "L'art. 12 non rinvia alle direttive dell'ANAC, ma alla legge n. 241/1990 e al codice civile."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 12 prevede un doppio rinvio esterno: alla legge n. 241/1990 per le procedure di affidamento e le altre attività amministrative, al codice civile per la stipula e l'esecuzione del contratto.",
+    "evidence": [
+      {
+        "ref": "art. 12, comma 1",
+        "text": "b) alla stipula del contratto e alla fase di esecuzione si applicano le disposizioni del codice civile"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 12, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

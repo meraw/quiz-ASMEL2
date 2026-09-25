@@ -1,0 +1,226 @@
+[
+  {
+    "id": "cc-ese-001",
+    "subject": "contratti-pubblici",
+    "question": "L'aggiudicatario di un appalto di servizi stipula con un'altra impresa un accordo con cui le affida l'integrale esecuzione delle prestazioni appaltate. Secondo l'art. 119 del d.lgs. 36/2023, tale accordo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È valido, se autorizzato dalla stazione appaltante come subappalto",
+        "why_wrong": "Il subappalto riguarda l'esecuzione di parte delle prestazioni (art. 119, comma 2); l'affidamento dell'integrale esecuzione è nullo (comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "È nullo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È valido, purché l'impresa terza sia una piccola o media impresa",
+        "why_wrong": "La quota da affidare alle piccole e medie imprese riguarda i contratti di subappalto; l'accordo per l'integrale esecuzione è comunque nullo (art. 119, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "È valido, ma l'aggiudicatario resta responsabile in solido",
+        "why_wrong": "L'art. 119, comma 1, qualifica l'accordo come nullo, non come valido con responsabilità solidale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 119, comma 1, impone agli affidatari di eseguire in proprio il contratto, dichiara nulla la cessione del contratto (salvo l'art. 120, comma 1, lett. d)) e nullo l'accordo con cui a terzi sia affidata l'integrale esecuzione delle prestazioni; è ammesso il subappalto secondo l'articolo.",
+    "evidence": [
+      {
+        "ref": "art. 119, comma 1",
+        "text": "I soggetti affidatari dei contratti eseguono in proprio le opere o i lavori, i servizi e le forniture compresi nel contratto. Fatto salvo quanto previsto dall'articolo 120, comma 1, lettera d), la cessione del contratto è nulla. È altresì nullo l'accordo con cui a terzi sia affidata l'integrale esecuzione delle prestazioni o lavorazioni appaltate"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 119, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-ese-002",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 119 del codice, il subappalto è il contratto con il quale l'appaltatore affida a terzi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'esecuzione di parte delle prestazioni o lavorazioni oggetto del contratto, con organizzazione di mezzi e rischi a carico del subappaltatore",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "L'intero contratto, subentrando il terzo nella posizione dell'appaltatore",
+        "why_wrong": "È la cessione del contratto, che l'art. 119, comma 1, dichiara nulla salvo l'art. 120, comma 1, lett. d)."
+      },
+      {
+        "id": "c",
+        "text": "L'esecuzione di parte delle prestazioni, con organizzazione di mezzi e rischi a carico dell'appaltatore",
+        "why_wrong": "L'art. 119, comma 2, pone l'organizzazione dei mezzi e i rischi a carico del subappaltatore."
+      },
+      {
+        "id": "d",
+        "text": "La sola fornitura di materiali, senza impiego di manodopera",
+        "why_wrong": "L'art. 119, comma 2, definisce il subappalto con riferimento all'esecuzione di parte delle prestazioni; le forniture con posa in opera possono anzi costituire subappalto di lavori."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 119, comma 2, definisce il subappalto come il contratto con cui l'appaltatore affida a terzi l'esecuzione di parte delle prestazioni o lavorazioni, con organizzazione di mezzi e rischi a carico del subappaltatore.",
+    "evidence": [
+      {
+        "ref": "art. 119, comma 2",
+        "text": "Il subappalto è il contratto con il quale l'appaltatore affida a terzi l'esecuzione di parte delle prestazioni o lavorazioni oggetto del contratto di appalto, con organizzazione di mezzi e rischi a carico del subappaltatore."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 119, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-ese-003",
+    "subject": "contratti-pubblici",
+    "question": "Durante l'esecuzione di un appalto di lavori del valore iniziale di 800.000 euro si rende necessaria una variante in corso d'opera per rinvenimenti imprevisti. Secondo l'art. 120 del codice, il contratto può essere modificato senza nuova procedura solo se l'eventuale aumento di prezzo non eccede:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il 15 per cento del valore del contratto iniziale",
+        "why_wrong": "Il 15 per cento riguarda le modifiche di minore entità dei contratti di lavori ai sensi dell'art. 120, comma 3, lett. b), non le varianti del comma 1, lett. c)."
+      },
+      {
+        "id": "b",
+        "text": "Il 20 per cento del valore del contratto iniziale",
+        "why_wrong": "L'art. 120, comma 2, fissa il limite al 50 per cento."
+      },
+      {
+        "id": "c",
+        "text": "Il 10 per cento del valore del contratto iniziale",
+        "why_wrong": "Il 10 per cento riguarda le modifiche di minore entità dei contratti di servizi e forniture (art. 120, comma 3, lett. b))."
+      },
+      {
+        "id": "d",
+        "text": "Il 50 per cento del valore del contratto iniziale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 120, comma 2, prevede che nei casi del comma 1, lett. b) e c) (prestazioni supplementari e varianti in corso d'opera) il contratto possa essere modificato solo se l'aumento di prezzo non eccede il 50 per cento del valore iniziale; in caso di più modifiche il limite si applica a ciascuna.",
+    "evidence": [
+      {
+        "ref": "art. 120, comma 2",
+        "text": "Nei casi di cui al comma 1, lettere b) e c), il contratto può essere modificato solo se l'eventuale aumento di prezzo non ecceda il 50 per cento del valore del contratto iniziale. In caso di più modifiche successive, la limitazione si applica al valore di ciascuna modifica."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 120, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-ese-004",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 120, comma 3, del codice, un contratto di lavori può essere modificato senza una nuova procedura, ferma restando l'inalterata struttura del contratto e dell'operazione economica, se il valore della modifica è al di sotto sia delle soglie europee sia del:",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 per cento del valore iniziale del contratto",
+        "why_wrong": "Il 10 per cento vale per i contratti di servizi e forniture; per i lavori l'art. 120, comma 3, lett. b), indica il 15 per cento."
+      },
+      {
+        "id": "b",
+        "text": "15 per cento del valore iniziale del contratto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "20 per cento del valore iniziale del contratto",
+        "why_wrong": "L'art. 120, comma 3, lett. b), indica il 15 per cento per i lavori."
+      },
+      {
+        "id": "d",
+        "text": "50 per cento del valore iniziale del contratto",
+        "why_wrong": "Il 50 per cento è il limite all'aumento di prezzo per le modifiche dell'art. 120, comma 1, lett. b) e c) (comma 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 120, comma 3, consente modifiche senza nuova procedura se il valore è inferiore sia alle soglie dell'art. 14 sia al 10 per cento del valore iniziale per servizi e forniture o al 15 per cento per i lavori.",
+    "evidence": [
+      {
+        "ref": "art. 120, comma 3",
+        "text": "b) il 10 per cento del valore iniziale del contratto per i contratti di servizi e forniture; il 15 per cento del valore iniziale del contratto per i contratti di lavori;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 120, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-ese-005",
+    "subject": "contratti-pubblici",
+    "question": "Un appalto è aggiudicato con un ribasso del 15 per cento. Secondo l'art. 117 del codice, senza considerare eventuali riduzioni, la garanzia definitiva è pari al:",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 per cento dell'importo contrattuale, qualunque sia il ribasso",
+        "why_wrong": "L'art. 117, comma 2, prevede l'aumento della garanzia per ribassi superiori al 10 per cento."
+      },
+      {
+        "id": "b",
+        "text": "2 per cento dell'importo contrattuale",
+        "why_wrong": "Il 2 per cento è la misura ordinaria della garanzia provvisoria (art. 106, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "15 per cento dell'importo contrattuale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "20 per cento dell'importo contrattuale",
+        "why_wrong": "L'aumento di due punti per ogni punto di ribasso si applica solo alla parte di ribasso superiore al 20 per cento (art. 117, comma 2)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 117 fissa la garanzia definitiva al 10 per cento dell'importo contrattuale (comma 1) e, per ribassi superiori al 10 per cento, la aumenta di tanti punti quanti sono quelli eccedenti il 10 per cento (comma 2): con un ribasso del 15 per cento, 10 + 5 = 15 per cento.",
+    "evidence": [
+      {
+        "ref": "art. 117, comma 1",
+        "text": "Per la sottoscrizione del contratto l'appaltatore costituisce una garanzia, denominata «garanzia definitiva», a sua scelta sotto forma di cauzione o fideiussione con le modalità previste dall'articolo 106, pari al 10 per cento dell'importo contrattuale"
+      },
+      {
+        "ref": "art. 117, comma 2",
+        "text": "Per salvaguardare l'interesse pubblico alla conclusione del contratto nei termini e nei modi programmati in caso di aggiudicazione con ribassi superiori al 10 per cento, la garanzia è aumentata di tanti punti percentuali quanti sono quelli eccedenti il 10 per cento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 117, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

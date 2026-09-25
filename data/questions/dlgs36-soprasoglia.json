@@ -1,0 +1,666 @@
+[
+  {
+    "id": "cc-sop-001",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 70 del d.lgs. 36/2023, la procedura negoziata senza pubblicazione di un bando di gara può essere utilizzata dalle stazioni appaltanti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "In alternativa alla procedura aperta, a libera scelta della stazione appaltante",
+        "why_wrong": "L'art. 70, comma 2, limita la procedura negoziata senza bando ai soli casi dell'art. 76; non è una scelta libera."
+      },
+      {
+        "id": "b",
+        "text": "Nei soli casi previsti dall'articolo 76",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Ogni volta che le esigenze implicano soluzioni o progetti innovativi",
+        "why_wrong": "Per le esigenze che implicano soluzioni innovative l'art. 70, comma 3, indica la procedura competitiva con negoziazione o il dialogo competitivo."
+      },
+      {
+        "id": "d",
+        "text": "Quando in esito a una procedura aperta sono state presentate soltanto offerte inammissibili, senza ulteriori condizioni",
+        "why_wrong": "Questa ipotesi è prevista dall'art. 70, comma 3, lett. b), per la procedura competitiva con negoziazione o il dialogo competitivo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 70, comma 1, elenca le procedure ordinarie (aperta, ristretta, competitiva con negoziazione, dialogo competitivo, partenariato per l'innovazione); il comma 2 consente la procedura negoziata senza bando nei soli casi previsti dall'art. 76.",
+    "evidence": [
+      {
+        "ref": "art. 70, comma 2",
+        "text": "Nei soli casi previsti dall'articolo 76 le stazioni appaltanti possono utilizzare la procedura negoziata senza pubblicazione di un bando di gara."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 70, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-002",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 70 del codice, quando la stazione appaltante limita il numero di candidati da invitare, il numero minimo di candidati non può essere inferiore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tre nelle procedure ristrette e a cinque nelle altre procedure",
+        "why_wrong": "L'art. 70, comma 6, prevede l'inverso: cinque nelle procedure ristrette e tre nelle altre."
+      },
+      {
+        "id": "b",
+        "text": "A dieci nelle procedure ristrette e a cinque nelle altre procedure",
+        "why_wrong": "L'art. 70, comma 6, indica cinque e tre; dieci operatori è il numero previsto per alcune procedure negoziate sotto soglia (art. 50, comma 1, lett. d))."
+      },
+      {
+        "id": "c",
+        "text": "A cinque nelle procedure ristrette e a tre nelle altre procedure",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "A cinque in tutte le procedure",
+        "why_wrong": "L'art. 70, comma 6, distingue: cinque nelle procedure ristrette, tre nelle altre."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 70, comma 6, consente di limitare il numero dei candidati qualificati da invitare con criteri obiettivi indicati nel bando, ma il minimo non può essere inferiore a cinque nelle procedure ristrette e a tre nelle altre procedure.",
+    "evidence": [
+      {
+        "ref": "art. 70, comma 6",
+        "text": "In ogni caso, il numero minimo di candidati non può essere inferiore a cinque nelle procedure ristrette e a tre nelle altre procedure."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 70, comma 6",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-003",
+    "subject": "contratti-pubblici",
+    "question": "Una stazione appaltante indice una procedura aperta sopra soglia e, per ragioni di urgenza specificamente motivate, non può rispettare il termine minimo ordinario per la ricezione delle offerte. Secondo l'art. 71 del codice, può fissare un termine non inferiore a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quindici giorni dalla data di trasmissione del bando di gara",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Dieci giorni dalla data di trasmissione del bando di gara",
+        "why_wrong": "Dieci giorni sono previsti nella procedura ristretta per le offerte, in caso di urgenza (art. 72, comma 6, lett. b))."
+      },
+      {
+        "id": "c",
+        "text": "Trenta giorni dalla data di trasmissione del bando di gara",
+        "why_wrong": "Trenta giorni è il termine minimo ordinario della procedura aperta (art. 71, comma 2), non quello ridotto per urgenza."
+      },
+      {
+        "id": "d",
+        "text": "Cinque giorni dalla data di trasmissione del bando di gara",
+        "why_wrong": "L'art. 71, comma 3, fissa il termine ridotto per urgenza in quindici giorni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella procedura aperta il termine minimo per le offerte è di trenta giorni dalla trasmissione del bando (art. 71, comma 2); per ragioni di urgenza specificamente motivate può essere fissato un termine non inferiore a quindici giorni (comma 3).",
+    "evidence": [
+      {
+        "ref": "art. 71, comma 3",
+        "text": "Le stazioni appaltanti possono fissare un termine non inferiore a quindici giorni a decorrere dalla data di trasmissione del bando di gara ai sensi dell'articolo 84, se per ragioni di urgenza, specificamente motivate, il termine minimo stabilito dal comma 2 del presente articolo non può essere rispettato."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 71, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-004",
+    "subject": "contratti-pubblici",
+    "question": "Una stazione appaltante, dopo aver lasciato decorrere per propria inerzia il tempo utile per bandire una gara, invoca l'estrema urgenza per ricorrere alla procedura negoziata senza bando. Secondo l'art. 76 del codice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il ricorso è legittimo, purché la stazione appaltante consulti almeno tre operatori",
+        "why_wrong": "La consultazione di almeno tre operatori (art. 76, comma 7) non supera il requisito della non imputabilità dell'urgenza previsto dal comma 2, lett. c)."
+      },
+      {
+        "id": "b",
+        "text": "Il ricorso è legittimo se l'urgenza è dichiarata dal RUP",
+        "why_wrong": "L'art. 76, comma 2, lett. c), richiede che l'urgenza derivi da eventi imprevedibili e non sia imputabile alla stazione appaltante, non una semplice dichiarazione."
+      },
+      {
+        "id": "c",
+        "text": "Il ricorso è legittimo se autorizzato dall'ANAC",
+        "why_wrong": "L'art. 76 non prevede autorizzazioni dell'ANAC per il ricorso alla procedura negoziata senza bando."
+      },
+      {
+        "id": "d",
+        "text": "Il ricorso non è consentito, perché le circostanze invocate per giustificare l'estrema urgenza non devono essere in alcun caso imputabili alla stazione appaltante",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 76, comma 2, lett. c), ammette la procedura negoziata senza bando per estrema urgenza derivante da eventi imprevedibili, nella misura strettamente necessaria, precisando che le circostanze invocate non devono essere in alcun caso imputabili alla stazione appaltante.",
+    "evidence": [
+      {
+        "ref": "art. 76, comma 2",
+        "text": "c) nella misura strettamente necessaria quando, per ragioni di estrema urgenza derivante da eventi imprevedibili dalla stazione appaltante, i termini per le procedure aperte o per le procedure ristrette o per le procedure competitive con negoziazione non possono essere rispettati; le circostanze invocate per giustificare l'estrema urgenza non devono essere in alcun caso imputabili alle stazioni appaltanti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 76, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-005",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 100 del codice, sono requisiti di ordine speciale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'assenza di condanne penali, la regolarità contributiva e la regolarità fiscale",
+        "why_wrong": "Condanne e violazioni fiscali o contributive riguardano le cause di esclusione degli artt. 94 e 95, non i requisiti di ordine speciale."
+      },
+      {
+        "id": "b",
+        "text": "L'idoneità professionale, la capacità economica e finanziaria, le capacità tecniche e professionali",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "L'iscrizione all'albo fornitori della stazione appaltante e il possesso della certificazione di qualità",
+        "why_wrong": "L'art. 100, comma 1, non elenca tali elementi tra i requisiti di ordine speciale."
+      },
+      {
+        "id": "d",
+        "text": "La capacità economica e finanziaria e l'assenza di conflitti di interesse",
+        "why_wrong": "Il conflitto di interessi rileva come causa di esclusione non automatica (art. 95, comma 1, lett. b)), non come requisito di ordine speciale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 100, comma 1, individua tre requisiti di ordine speciale: idoneità professionale, capacità economica e finanziaria, capacità tecniche e professionali; il comma 2 impone che siano proporzionati e attinenti all'oggetto dell'appalto.",
+    "evidence": [
+      {
+        "ref": "art. 100, comma 1",
+        "text": "Sono requisiti di ordine speciale: a) l'idoneità professionale; b) la capacità economica e finanziaria; c) le capacità tecniche e professionali."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 100, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-006",
+    "subject": "contratti-pubblici",
+    "question": "In una gara per un appalto di servizi del valore stimato di 500.000 euro, il bando chiede come requisito di capacità economica e finanziaria un fatturato globale pari a 1.500.000 euro. Secondo l'art. 100, comma 11, del codice, tale richiesta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È legittima, perché la stazione appaltante può fissare liberamente il fatturato minimo",
+        "why_wrong": "L'art. 100, comma 11, pone un limite: il fatturato richiesto non può superare il doppio del valore stimato."
+      },
+      {
+        "id": "b",
+        "text": "È legittima solo se il fatturato è riferito all'ultimo anno",
+        "why_wrong": "Il problema non è il periodo di riferimento, ma l'importo, superiore al doppio del valore stimato."
+      },
+      {
+        "id": "c",
+        "text": "Supera il limite, perché il fatturato globale richiesto non può essere superiore al doppio del valore stimato dell'appalto",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Supera il limite, perché il fatturato non può mai superare il valore stimato dell'appalto",
+        "why_wrong": "L'art. 100, comma 11, consente di chiedere un fatturato fino al doppio del valore stimato, non solo fino al valore stimato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 100, comma 11, consente di richiedere, per servizi e forniture, un fatturato globale non superiore al doppio del valore stimato dell'appalto: nel caso, al massimo 1.000.000 euro.",
+    "evidence": [
+      {
+        "ref": "art. 100, comma 11",
+        "text": "le stazioni appaltanti possono richiedere agli operatori economici quale requisito di capacità economica e finanziaria un fatturato globale non superiore al doppio del valore stimato dell'appalto"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 100, comma 11",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-007",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 100 del codice, per le procedure di aggiudicazione di appalti di lavori di importo pari o superiore a 150.000 euro, le stazioni appaltanti richiedono che gli operatori economici siano qualificati; l'attestazione di qualificazione è rilasciata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dall'ANAC, direttamente",
+        "why_wrong": "L'art. 100, comma 4, prevede che l'attestazione sia rilasciata da organismi di diritto privato autorizzati dall'ANAC, non dall'ANAC stessa."
+      },
+      {
+        "id": "b",
+        "text": "Dalla camera di commercio competente per territorio",
+        "why_wrong": "L'iscrizione alla camera di commercio riguarda l'idoneità professionale (art. 100, comma 3), non l'attestazione di qualificazione."
+      },
+      {
+        "id": "c",
+        "text": "Dalla stazione appaltante, per ciascuna gara",
+        "why_wrong": "L'art. 100, comma 4, affida il rilascio ad organismi di diritto privato autorizzati dall'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "Da organismi di diritto privato autorizzati dall'ANAC",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 100, comma 4, richiede la qualificazione per i lavori di importo pari o superiore a 150.000 euro; l'attestazione è rilasciata da organismi di diritto privato autorizzati dall'ANAC e, se in categorie e classifiche adeguate, è condizione necessaria e sufficiente per dimostrare i requisiti.",
+    "evidence": [
+      {
+        "ref": "art. 100, comma 4",
+        "text": "Per le procedure di aggiudicazione di appalti di lavori di importo pari o superiore a 150.000 euro le stazioni appaltanti richiedono che gli operatori economici siano qualificati. L'attestazione di qualificazione è rilasciata da organismi di diritto privato autorizzati dall'ANAC."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 100, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-008",
+    "subject": "contratti-pubblici",
+    "question": "Secondo il d.lgs. 36/2023, la partecipazione di un operatore economico che determini una situazione di conflitto di interesse non diversamente risolvibile costituisce:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Una causa di esclusione non automatica, prevista dall'art. 95",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Una causa di esclusione automatica, prevista dall'art. 94",
+        "why_wrong": "L'art. 94 riguarda condanne, misure antimafia e le altre ipotesi ivi elencate; il conflitto di interesse è previsto dall'art. 95, comma 1, lett. b)."
+      },
+      {
+        "id": "c",
+        "text": "Un'irregolarità sanabile mediante soccorso istruttorio",
+        "why_wrong": "Il soccorso istruttorio (art. 101) riguarda carenze documentali, non le cause di esclusione."
+      },
+      {
+        "id": "d",
+        "text": "Un grave illecito professionale che rileva per tre anni",
+        "why_wrong": "Il conflitto di interesse è un'autonoma causa di esclusione (art. 95, comma 1, lett. b)) e rileva per la sola gara cui la condotta si riferisce (art. 96, comma 10, lett. b))."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 95, comma 1, lett. b), tra le cause di esclusione non automatica, prevede che la stazione appaltante escluda l'operatore la cui partecipazione determini un conflitto di interesse ai sensi dell'art. 16 non diversamente risolvibile.",
+    "evidence": [
+      {
+        "ref": "art. 95, comma 1",
+        "text": "b) che la partecipazione dell'operatore economico determini una situazione di conflitto di interesse di cui all'articolo 16 non diversamente risolvibile;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 95, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-009",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 96 del codice, la causa di esclusione non automatica derivante da un conflitto di interesse non diversamente risolvibile rileva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Per tre anni decorrenti dalla commissione del fatto",
+        "why_wrong": "Il triennio riguarda, tra l'altro, le gravi infrazioni in materia di salute, sicurezza e obblighi ambientali, sociali e del lavoro (art. 96, comma 10, lett. a))."
+      },
+      {
+        "id": "b",
+        "text": "Per cinque anni, salvo riabilitazione",
+        "why_wrong": "Il periodo di cinque anni riguarda l'effetto escludente di alcune condanne penali (art. 96, comma 8, lett. c))."
+      },
+      {
+        "id": "c",
+        "text": "Per la sola gara cui la condotta si riferisce",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Fino a quando opera l'iscrizione nel casellario informatico dell'ANAC",
+        "why_wrong": "Questa durata riguarda l'iscrizione per false dichiarazioni o falsa documentazione (art. 94, comma 5, lett. e))."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 96, comma 10, lett. b), stabilisce che le cause di esclusione dell'art. 95, comma 1, lett. b), c) e d) (tra cui il conflitto di interesse) rilevano per la sola gara cui la condotta si riferisce.",
+    "evidence": [
+      {
+        "ref": "art. 96, comma 10",
+        "text": "b) per la sola gara cui la condotta si riferisce, nei casi di cui all'articolo 95, comma 1, lettere b),"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 96, comma 10",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-010",
+    "subject": "contratti-pubblici",
+    "question": "Un operatore economico ha commesso una grave violazione, definitivamente accertata, degli obblighi di pagamento dei contributi previdenziali, ma paga integralmente il dovuto, con interessi e sanzioni, prima della scadenza del termine di presentazione dell'offerta. Secondo l'art. 94 del codice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È comunque escluso, trattandosi di causa di esclusione automatica",
+        "why_wrong": "L'art. 94, comma 6, precisa che la causa non si applica quando l'operatore ha pagato prima della scadenza del termine per l'offerta."
+      },
+      {
+        "id": "b",
+        "text": "Non è escluso, perché il pagamento si è perfezionato anteriormente alla scadenza del termine di presentazione dell'offerta",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Non è escluso solo se il pagamento avviene prima dell'aggiudicazione",
+        "why_wrong": "L'art. 94, comma 6, richiede che il pagamento si perfezioni prima della scadenza del termine per l'offerta, non prima dell'aggiudicazione."
+      },
+      {
+        "id": "d",
+        "text": "È escluso per la sola gara in corso e può partecipare alle successive",
+        "why_wrong": "La regola della sola gara riguarda alcune cause dell'art. 95 (art. 96, comma 10, lett. b)); qui la causa non si applica affatto per effetto del pagamento tempestivo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 94, comma 6, prevede l'esclusione per gravi violazioni definitivamente accertate in materia di imposte, tasse o contributi, ma non si applica se l'operatore ha pagato o si è impegnato in modo vincolante a pagare prima della scadenza del termine di presentazione dell'offerta.",
+    "evidence": [
+      {
+        "ref": "art. 94, comma 6",
+        "text": "Il presente comma non si applica quando l'operatore economico ha ottemperato ai suoi obblighi pagando o impegnandosi in modo vincolante a pagare le imposte o i contributi previdenziali dovuti, compresi eventuali interessi o sanzioni, oppure quando il debito tributario o previdenziale sia comunque integralmente estinto, purché l'estinzione, il pagamento o l'impegno si siano perfezionati anteriormente alla scadenza del termine di presentazione dell'offerta."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 94, comma 6",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-011",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 96 del codice, l'operatore economico che si trovi in una causa di esclusione e intenda dimostrare la propria affidabilità mediante misure di cosiddetto self-cleaning deve dimostrare, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Di aver presentato ricorso contro il provvedimento da cui deriva la causa di esclusione",
+        "why_wrong": "L'art. 96, comma 6, non richiede l'impugnazione, ma il risarcimento del danno, la collaborazione con le autorità e l'adozione di misure organizzative."
+      },
+      {
+        "id": "b",
+        "text": "Di aver ottenuto il parere favorevole dell'ANAC sulle misure adottate",
+        "why_wrong": "L'art. 96, comma 6, affida la valutazione delle misure alla stazione appaltante, senza parere dell'ANAC."
+      },
+      {
+        "id": "c",
+        "text": "Di aver sostituito integralmente i propri soci",
+        "why_wrong": "L'art. 96, comma 6, parla di provvedimenti concreti di carattere tecnico, organizzativo e relativi al personale, non della sostituzione di tutti i soci."
+      },
+      {
+        "id": "d",
+        "text": "Di aver risarcito o essersi impegnato a risarcire il danno causato dal reato o dall'illecito",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 96, comma 6, richiede che l'operatore dimostri di aver risarcito o di essersi impegnato a risarcire il danno, di aver chiarito i fatti collaborando con le autorità investigative e di aver adottato provvedimenti tecnici, organizzativi e relativi al personale idonei a prevenire ulteriori illeciti.",
+    "evidence": [
+      {
+        "ref": "art. 96, comma 6",
+        "text": "A tal fine, l'operatore economico dimostra di aver risarcito o di essersi impegnato a risarcire qualunque danno causato dal reato o dall'illecito, di aver chiarito i fatti e le circostanze in modo globale collaborando attivamente con le autorità investigative e di aver adottato provvedimenti concreti di carattere tecnico, organizzativo e relativi al personale idonei a prevenire ulteriori reati o illeciti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 96, comma 6",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-012",
+    "subject": "contratti-pubblici",
+    "question": "In una gara, un concorrente ha trasmesso un documento di gara unico europeo incompleto; il documento mancante non è presente nel suo fascicolo virtuale. Secondo l'art. 101 del codice, la stazione appaltante:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Assegna un termine non inferiore a cinque giorni e non superiore a dieci giorni per integrare la documentazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Esclude immediatamente il concorrente",
+        "why_wrong": "L'art. 101, comma 1, prevede il soccorso istruttorio per integrare la documentazione mancante; l'esclusione segue solo se il concorrente non adempie nel termine (comma 2)."
+      },
+      {
+        "id": "c",
+        "text": "Assegna un termine non superiore a trenta giorni per integrare la documentazione",
+        "why_wrong": "L'art. 101, comma 1, fissa un termine da cinque a dieci giorni."
+      },
+      {
+        "id": "d",
+        "text": "Può consentire l'integrazione anche dell'offerta economica, se incompleta",
+        "why_wrong": "L'art. 101, comma 1, lett. a), esclude dal soccorso istruttorio la documentazione che compone l'offerta tecnica e l'offerta economica."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 101, comma 1, prevede che, salvo che il documento sia già nel fascicolo virtuale, la stazione appaltante assegni un termine da cinque a dieci giorni per integrare la documentazione mancante, esclusa quella dell'offerta tecnica ed economica; se l'operatore non adempie è escluso (comma 2).",
+    "evidence": [
+      {
+        "ref": "art. 101, comma 1",
+        "text": "Salvo che al momento della scadenza del termine per la presentazione dell'offerta il documento sia presente nel fascicolo virtuale dell'operatore economico, la stazione appaltante assegna un termine non inferiore a cinque giorni e non superiore a dieci giorni per:"
+      },
+      {
+        "ref": "art. 101, comma 2",
+        "text": "L'operatore economico che non adempie alle richieste della stazione appaltante nel termine stabilito è escluso dalla procedura di gara."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 101, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-013",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 101 del codice, la mancata presentazione della garanzia provvisoria in sede di gara:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Comporta sempre l'esclusione del concorrente",
+        "why_wrong": "L'art. 101, comma 1, lett. a), considera sanabile la mancata presentazione della garanzia provvisoria."
+      },
+      {
+        "id": "b",
+        "text": "È sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È sanabile con una garanzia costituita anche dopo il termine di presentazione delle offerte",
+        "why_wrong": "L'art. 101, comma 1, lett. a), richiede documenti con data certa anteriore al termine per le offerte."
+      },
+      {
+        "id": "d",
+        "text": "È sanabile solo se il concorrente è un raggruppamento non ancora costituito",
+        "why_wrong": "L'art. 101, comma 1, lett. a), elenca garanzia provvisoria, contratto di avvalimento e impegno a conferire mandato come ipotesi distinte, tutte sanabili."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 101, comma 1, lett. a), prevede che la mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale sia sanabile con documenti aventi data certa anteriore al termine per le offerte.",
+    "evidence": [
+      {
+        "ref": "art. 101, comma 1",
+        "text": "la mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale in caso di raggruppamenti di concorrenti non ancora costituiti è sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 101, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-014",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune deve affidare il servizio di ristorazione scolastica. Secondo l'art. 108 del codice, il contratto è aggiudicato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A scelta della stazione appaltante, con il minor prezzo o con l'offerta economicamente più vantaggiosa",
+        "why_wrong": "L'art. 108, comma 2, lett. a), impone per la ristorazione scolastica il solo criterio del miglior rapporto qualità/prezzo."
+      },
+      {
+        "id": "b",
+        "text": "Con il criterio del minor prezzo, trattandosi di servizio con caratteristiche standardizzate",
+        "why_wrong": "Il minor prezzo (art. 108, comma 3) è ammesso per servizi standardizzati, ma la ristorazione scolastica rientra tra i casi del comma 2."
+      },
+      {
+        "id": "c",
+        "text": "Con l'offerta economicamente più vantaggiosa individuata sulla base del solo elemento prezzo",
+        "why_wrong": "L'art. 108, comma 2, richiede il miglior rapporto qualità/prezzo, non il solo prezzo o costo."
+      },
+      {
+        "id": "d",
+        "text": "Esclusivamente con il criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 108, comma 2, lett. a), prevede che i contratti relativi ai servizi sociali e di ristorazione ospedaliera, assistenziale e scolastica, nonché ai servizi ad alta intensità di manodopera, siano aggiudicati esclusivamente con il miglior rapporto qualità/prezzo.",
+    "evidence": [
+      {
+        "ref": "art. 108, comma 2",
+        "text": "Sono aggiudicati esclusivamente sulla base del criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo: a) i contratti relativi ai servizi sociali e di ristorazione ospedaliera, assistenziale e scolastica, nonché ai servizi ad alta intensità di manodopera"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 108, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sop-015",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 108 del codice, nell'offerta economica l'operatore economico indica, a pena di esclusione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il nominativo dei subappaltatori",
+        "why_wrong": "L'art. 108, comma 9, riguarda i costi della manodopera e gli oneri di sicurezza, non i subappaltatori."
+      },
+      {
+        "id": "b",
+        "text": "Il costo del ciclo di vita del prodotto offerto",
+        "why_wrong": "Il costo del ciclo di vita è un possibile criterio di comparazione costo/efficacia (art. 108, comma 1), non un'indicazione richiesta a pena di esclusione."
+      },
+      {
+        "id": "c",
+        "text": "I costi della manodopera e gli oneri aziendali per la sicurezza sui luoghi di lavoro, eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il contratto collettivo applicato, senza eccezioni",
+        "why_wrong": "L'indicazione del contratto collettivo è disciplinata dall'art. 11, comma 3, come facoltà dell'operatore; l'art. 108, comma 9, riguarda i costi della manodopera e gli oneri di sicurezza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 108, comma 9, impone di indicare nell'offerta economica, a pena di esclusione, i costi della manodopera e gli oneri aziendali per la salute e sicurezza sul lavoro, salvo nelle forniture senza posa in opera e nei servizi di natura intellettuale.",
+    "evidence": [
+      {
+        "ref": "art. 108, comma 9",
+        "text": "Nell'offerta economica l'operatore indica, a pena di esclusione, i costi della manodopera e gli oneri aziendali per l'adempimento delle disposizioni in materia di salute e sicurezza sui luoghi di lavoro eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 108, comma 9",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

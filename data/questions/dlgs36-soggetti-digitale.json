@@ -1,0 +1,446 @@
+[
+  {
+    "id": "cc-sog-001",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 15 del d.lgs. 36/2023, il responsabile unico del progetto (RUP) è nominato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nel primo atto di avvio dell'intervento pubblico, per le fasi di programmazione, progettazione, affidamento ed esecuzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nel provvedimento di aggiudicazione, per la sola fase di esecuzione",
+        "why_wrong": "L'art. 15, comma 1, colloca la nomina nel primo atto di avvio dell'intervento e la riferisce a tutte le fasi, dalla programmazione all'esecuzione."
+      },
+      {
+        "id": "c",
+        "text": "Nella decisione di contrarre, per la sola fase di affidamento",
+        "why_wrong": "Per l'art. 15, comma 1, il RUP è nominato nel primo atto di avvio dell'intervento e opera anche per programmazione, progettazione ed esecuzione."
+      },
+      {
+        "id": "d",
+        "text": "Dall'ANAC, su proposta della stazione appaltante, per ciascuna procedura",
+        "why_wrong": "L'art. 15, comma 1, attribuisce la nomina alle stazioni appaltanti e agli enti concedenti, non all'ANAC."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 15, comma 1, prevede che il RUP sia nominato nel primo atto di avvio dell'intervento pubblico, per le fasi di programmazione, progettazione, affidamento ed esecuzione di ciascuna procedura.",
+    "evidence": [
+      {
+        "ref": "art. 15, comma 1",
+        "text": "Nel primo atto di avvio dell'intervento pubblico da realizzare mediante un contratto le stazioni appaltanti e gli enti concedenti nominano nell'interesse proprio o di altre amministrazioni un responsabile unico del progetto (RUP) per le fasi di programmazione, progettazione, affidamento e per l'esecuzione di ciascuna procedura soggetta al codice."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 15, comma 1",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-002",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune avvia un intervento pubblico, ma nell'atto di avvio non nomina il RUP. Secondo l'art. 15 del codice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La procedura è nulla e deve essere riavviata",
+        "why_wrong": "L'art. 15, comma 2, non prevede la nullità, ma individua chi svolge l'incarico in caso di mancata nomina."
+      },
+      {
+        "id": "b",
+        "text": "Le funzioni di RUP sono svolte dal segretario comunale",
+        "why_wrong": "L'art. 15, comma 2, attribuisce l'incarico al responsabile dell'unità organizzativa competente per l'intervento."
+      },
+      {
+        "id": "c",
+        "text": "L'incarico è svolto dal responsabile dell'unità organizzativa competente per l'intervento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Le funzioni di RUP sono assunte dal responsabile di procedimento per la fase di affidamento",
+        "why_wrong": "Il responsabile di procedimento per la fase di affidamento (art. 15, comma 4) è una figura eventuale che opera ferma l'unicità del RUP; non lo sostituisce in caso di mancata nomina."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 15, comma 2, stabilisce che l'ufficio di RUP è obbligatorio e non può essere rifiutato e che, se il RUP non è nominato nell'atto di avvio, l'incarico è svolto dal responsabile dell'unità organizzativa competente per l'intervento.",
+    "evidence": [
+      {
+        "ref": "art. 15, comma 2",
+        "text": "L'ufficio di RUP è obbligatorio e non può essere rifiutato. In caso di mancata nomina del RUP nell'atto di avvio dell'intervento pubblico, l'incarico è svolto dal responsabile dell'unità organizzativa competente per l'intervento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 15, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-003",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 16 del codice, la percepita minaccia all'imparzialità e all'indipendenza che integra un conflitto di interessi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Si presume ogni volta che il funzionario abbia rapporti con un operatore economico concorrente",
+        "why_wrong": "L'art. 16, comma 2, esclude presunzioni: la minaccia va provata sulla base di presupposti specifici e documentati."
+      },
+      {
+        "id": "b",
+        "text": "Deve essere provata da chi invoca il conflitto, sulla base di presupposti specifici e documentati, e riferirsi a interessi effettivi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Deve essere accertata dall'ANAC prima dell'aggiudicazione",
+        "why_wrong": "L'art. 16, comma 2, pone l'onere della prova su chi invoca il conflitto; non prevede un accertamento preventivo dell'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "Rileva anche se riferita a interessi solo potenziali",
+        "why_wrong": "L'art. 16, comma 2, richiede che la minaccia si riferisca a interessi effettivi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 16, comma 2, in coerenza con il principio della fiducia, pone l'onere di provare la percepita minaccia a carico di chi invoca il conflitto, su presupposti specifici e documentati e con riferimento a interessi effettivi.",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 2",
+        "text": "In coerenza con il principio della fiducia e per preservare la funzionalità dell'azione amministrativa, la percepita minaccia all'imparzialità e indipendenza deve essere provata da chi invoca il conflitto sulla base di presupposti specifici e documentati e deve riferirsi a interessi effettivi, la cui soddisfazione sia conseguibile solo subordinando un interesse all'altro."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 16, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-004",
+    "subject": "contratti-pubblici",
+    "question": "Un funzionario comunale, componente del gruppo che segue una gara, si accorge di avere un interesse economico personale collegato a uno dei concorrenti, idoneo a minacciare la sua imparzialità. Secondo l'art. 16 del codice, egli deve:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Darne comunicazione alla stazione appaltante e astenersi dal partecipare alla procedura di aggiudicazione e all'esecuzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Darne comunicazione all'ANAC e proseguire l'attività fino alla sua decisione",
+        "why_wrong": "L'art. 16, comma 3, prevede la comunicazione alla stazione appaltante e l'astensione, non la prosecuzione in attesa dell'ANAC."
+      },
+      {
+        "id": "c",
+        "text": "Astenersi solo dalla fase di esecuzione, potendo partecipare alla valutazione delle offerte",
+        "why_wrong": "L'art. 16, comma 3, impone l'astensione sia dalla procedura di aggiudicazione sia dall'esecuzione."
+      },
+      {
+        "id": "d",
+        "text": "Proseguire l'attività, dichiarando l'interesse nel verbale di gara",
+        "why_wrong": "L'art. 16, comma 3, richiede l'astensione, non la semplice dichiarazione a verbale."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 16, comma 3, impone al personale che si trovi in conflitto di interessi di darne comunicazione alla stazione appaltante e di astenersi dal partecipare alla procedura di aggiudicazione e all'esecuzione; la stazione appaltante vigila sul rispetto di tali adempimenti (comma 4).",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 3",
+        "text": "Il personale che versa nelle ipotesi di cui al comma 1 ne dà comunicazione alla stazione appaltante o all'ente concedente e si astiene dal partecipare alla procedura di aggiudicazione e all'esecuzione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 16, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-005",
+    "subject": "contratti-pubblici",
+    "question": "Un bando di gara non indica il periodo per il quale le offerte restano vincolanti. Secondo l'art. 17 del codice, l'offerta è vincolante:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Per novanta giorni dalla scadenza del termine per la sua presentazione",
+        "why_wrong": "L'art. 17, comma 4, indica centottanta giorni, non novanta."
+      },
+      {
+        "id": "b",
+        "text": "Fino all'aggiudicazione, dopo la quale può essere revocata",
+        "why_wrong": "L'art. 17, comma 6, rende l'offerta dell'aggiudicatario irrevocabile fino al termine stabilito per la stipulazione."
+      },
+      {
+        "id": "c",
+        "text": "Per sessanta giorni dall'aggiudicazione",
+        "why_wrong": "Sessanta giorni è il termine per la stipula del contratto (art. 18, comma 2), non per la vincolatività dell'offerta."
+      },
+      {
+        "id": "d",
+        "text": "Per centottanta giorni dalla scadenza del termine per la sua presentazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 17, comma 4, stabilisce che ogni concorrente può presentare una sola offerta, vincolante per il periodo indicato nel bando o nell'invito e, in mancanza, per centottanta giorni dalla scadenza del termine di presentazione.",
+    "evidence": [
+      {
+        "ref": "art. 17, comma 4",
+        "text": "Ogni concorrente può presentare una sola offerta, che è vincolante per il periodo indicato nel bando o nell'invito e, in caso di mancata indicazione, per centottanta giorni dalla scadenza del termine per la sua presentazione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 17, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-006",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 17 del codice, l'aggiudicazione disposta dall'organo competente, dopo aver verificato il possesso dei requisiti in capo all'offerente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Diventa efficace solo dopo la stipula del contratto",
+        "why_wrong": "L'art. 17, comma 5, qualifica l'aggiudicazione come immediatamente efficace; la stipula segue l'aggiudicazione efficace (art. 18, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Diventa efficace decorsi trentadue giorni dalla sua comunicazione",
+        "why_wrong": "Il termine di trentadue giorni (art. 18, comma 3) riguarda il divieto di stipulare il contratto, non l'efficacia dell'aggiudicazione."
+      },
+      {
+        "id": "c",
+        "text": "È immediatamente efficace",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Equivale ad accettazione dell'offerta e perfeziona il contratto",
+        "why_wrong": "L'art. 17, comma 6, precisa che l'aggiudicazione non equivale ad accettazione dell'offerta."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 17, comma 5, prevede che l'organo competente, esaminata la proposta di aggiudicazione e verificati i requisiti, disponga l'aggiudicazione, che è immediatamente efficace. Il comma 6 precisa che essa non equivale ad accettazione dell'offerta.",
+    "evidence": [
+      {
+        "ref": "art. 17, comma 5",
+        "text": "L'organo competente a disporre l'aggiudicazione esamina la proposta, e, se la ritiene legittima e conforme all'interesse pubblico, dopo aver verificato il possesso dei requisiti in capo all'offerente, dispone l'aggiudicazione, che è immediatamente efficace."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 17, comma 5",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-007",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune aggiudica un contratto di importo inferiore alle soglie europee. Secondo l'art. 18 del codice, il termine dilatorio per la stipula del contratto (cosiddetto stand still):",
+    "options": [
+      {
+        "id": "a",
+        "text": "Si applica in misura ridotta a quindici giorni",
+        "why_wrong": "L'art. 18, comma 3, non prevede un termine ridotto: esclude del tutto il termine per i contratti sotto soglia."
+      },
+      {
+        "id": "b",
+        "text": "Non si applica",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Si applica nella misura ordinaria di trentadue giorni",
+        "why_wrong": "L'art. 18, comma 3, lett. d), esclude il termine dilatorio per i contratti di importo inferiore alle soglie europee."
+      },
+      {
+        "id": "d",
+        "text": "Si applica solo se è stata presentata una sola offerta",
+        "why_wrong": "La presentazione di una sola offerta, senza impugnazioni tempestive, è un'altra ipotesi in cui il termine non si applica (lett. a)), non una condizione della sua applicazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 18, comma 3, vieta di stipulare il contratto prima di trentadue giorni dall'invio dell'ultima comunicazione dell'aggiudicazione, ma esclude tale termine dilatorio, tra l'altro, per i contratti di importo inferiore alle soglie europee (lett. d)).",
+    "evidence": [
+      {
+        "ref": "art. 18, comma 3",
+        "text": "Il contratto non può essere stipulato prima di ((trentadue)) giorni dall'invio dell'ultima delle comunicazioni del provvedimento di aggiudicazione. Tale termine dilatorio non si applica nei casi:"
+      },
+      {
+        "ref": "art. 18, comma 3",
+        "text": "d) di contratti di importo inferiore alle soglie europee"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 18, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-008",
+    "subject": "contratti-pubblici",
+    "question": "Nell'ambito della digitalizzazione del ciclo di vita dei contratti, il principio dell'unicità dell'invio (art. 19 del codice) comporta che ciascun dato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sia trasmesso contestualmente a tutte le banche dati interessate",
+        "why_wrong": "L'art. 19, comma 2, prevede che il dato sia fornito a un solo sistema informativo, non a tutte le banche dati."
+      },
+      {
+        "id": "b",
+        "text": "Sia pubblicato una sola volta sul sito istituzionale della stazione appaltante",
+        "why_wrong": "L'art. 19, comma 2, riguarda la fornitura dei dati ai sistemi informativi, non la pubblicazione sul sito istituzionale."
+      },
+      {
+        "id": "c",
+        "text": "Sia fornito una sola volta a un solo sistema informativo e non possa essere richiesto da altri sistemi o banche dati, ma sia reso disponibile dal sistema ricevente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Sia inviato una sola volta per ciascuna procedura, ma ripetuto per ogni nuova gara",
+        "why_wrong": "L'art. 19, comma 2, non prevede la ripetizione dell'invio per ogni gara: il dato è reso disponibile dal sistema informativo ricevente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 19, comma 2, definisce il principio dell'unicità dell'invio: ciascun dato è fornito una sola volta a un solo sistema informativo, non può essere richiesto da altri sistemi o banche dati ed è reso disponibile dal sistema ricevente.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 2",
+        "text": "In attuazione del principio dell'unicità dell'invio, ciascun dato è fornito una sola volta a un solo sistema informativo, non può essere richiesto da altri sistemi o banche dati, ma è reso disponibile dal sistema informativo ricevente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 19, comma 2",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-009",
+    "subject": "contratti-pubblici",
+    "question": "Un Comune che utilizza una piattaforma di approvvigionamento digitale intende addebitare agli operatori economici concorrenti una quota dei costi di gestione della piattaforma. Secondo l'art. 25 del codice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È consentito, purché la quota sia indicata nel bando",
+        "why_wrong": "L'art. 25, comma 4, pone un divieto senza eccezioni legate alla previsione nel bando."
+      },
+      {
+        "id": "b",
+        "text": "È consentito addebitare i costi solo all'aggiudicatario",
+        "why_wrong": "Il divieto dell'art. 25, comma 4, riguarda sia i concorrenti sia l'aggiudicatario."
+      },
+      {
+        "id": "c",
+        "text": "È consentito solo se la piattaforma è messa a disposizione da una centrale di committenza",
+        "why_wrong": "L'art. 25, comma 3, consente di usare le piattaforme di altri soggetti, ma il divieto di porre i costi a carico degli operatori (comma 4) vale in ogni caso."
+      },
+      {
+        "id": "d",
+        "text": "È vietato porre a carico dei concorrenti o dell'aggiudicatario i costi connessi alla gestione delle piattaforme",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 25, comma 4, vieta di porre a carico dei concorrenti o dell'aggiudicatario eventuali costi connessi alla gestione delle piattaforme di approvvigionamento digitale.",
+    "evidence": [
+      {
+        "ref": "art. 25, comma 4",
+        "text": "È fatto divieto di porre a carico dei concorrenti o dell'aggiudicatario eventuali costi connessi alla gestione delle piattaforme."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 25, comma 4",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cc-sog-010",
+    "subject": "contratti-pubblici",
+    "question": "Secondo l'art. 30 del codice, le decisioni assunte mediante automazione rispettano il principio di non esclusività della decisione algoritmica, in base al quale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ogni operatore economico ha diritto a conoscere l'esistenza di processi decisionali automatizzati che lo riguardino",
+        "why_wrong": "È il contenuto del principio di conoscibilità e comprensibilità (art. 30, comma 3, lett. a))."
+      },
+      {
+        "id": "b",
+        "text": "Nel processo decisionale esiste comunque un contributo umano capace di controllare, validare ovvero smentire la decisione automatizzata",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il titolare adotta misure per impedire effetti discriminatori nei confronti degli operatori economici",
+        "why_wrong": "È il contenuto del principio di non discriminazione algoritmica (art. 30, comma 3, lett. c))."
+      },
+      {
+        "id": "d",
+        "text": "La stazione appaltante assicura la disponibilità del codice sorgente delle soluzioni utilizzate",
+        "why_wrong": "È un obbligo relativo all'acquisto o sviluppo delle soluzioni tecnologiche (art. 30, comma 2, lett. a)), non il principio di non esclusività."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 30, comma 3, lett. b), definisce il principio di non esclusività della decisione algoritmica: nel processo decisionale esiste comunque un contributo umano capace di controllare, validare o smentire la decisione automatizzata.",
+    "evidence": [
+      {
+        "ref": "art. 30, comma 3",
+        "text": "b) non esclusività della decisione algoritmica, per cui comunque esiste nel processo decisionale un contributo umano capace di controllare, validare ovvero smentire la decisione automatizzata;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 36/2023 (Codice dei contratti pubblici)",
+      "article": "art. 30, comma 3",
+      "file": "sources/Codice dei contratti pubblici.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
