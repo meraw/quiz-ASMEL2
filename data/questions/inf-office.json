@@ -1,0 +1,314 @@
+[
+  {
+    "id": "inf-off-001",
+    "subject": "informatica",
+    "question": "In un foglio di calcolo la cella B2 contiene la formula =A2*$E$1. Se la formula viene copiata nella cella B3, quale formula si ottiene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "=A3*$E$1",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "=A3*$E$2",
+        "why_wrong": "$E$1 è un riferimento assoluto: il simbolo $ blocca sia la colonna sia la riga, che non cambiano con la copia."
+      },
+      {
+        "id": "c",
+        "text": "=A2*$E$1",
+        "why_wrong": "A2 è un riferimento relativo: copiando la formula una riga più in basso diventa A3."
+      },
+      {
+        "id": "d",
+        "text": "=A3*E2",
+        "why_wrong": "Il riferimento $E$1 è assoluto e resta invariato, compresi i simboli $."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella copia i riferimenti relativi si adattano alla nuova posizione (A2 diventa A3), mentre quelli assoluti, preceduti da $ davanti a colonna e riga, restano fissi ($E$1).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: riferimenti relativi e assoluti",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-002",
+    "subject": "informatica",
+    "question": "In un foglio di calcolo la colonna C contiene, per ogni dipendente, la parola \"Presente\" o \"Assente\". Quale funzione permette di contare quante celle contengono \"Presente\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CONTA.SE",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "SOMMA",
+        "why_wrong": "SOMMA addiziona valori numerici e non conta le celle che soddisfano una condizione."
+      },
+      {
+        "id": "c",
+        "text": "MEDIA",
+        "why_wrong": "MEDIA calcola la media aritmetica di valori numerici."
+      },
+      {
+        "id": "d",
+        "text": "CERCA.VERT",
+        "why_wrong": "CERCA.VERT cerca un valore nella prima colonna di una tabella e restituisce un dato della stessa riga; non conta le occorrenze."
+      }
+    ],
+    "correct": "a",
+    "explanation": "CONTA.SE conta le celle di un intervallo che soddisfano un criterio, ad esempio =CONTA.SE(C2:C50;\"Presente\").",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: funzioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-003",
+    "subject": "informatica",
+    "question": "La cella A1 contiene il valore 18. Quale risultato restituisce la formula =SE(A1>=18;\"Maggiorenne\";\"Minorenne\")?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maggiorenne",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Minorenne",
+        "why_wrong": "\"Minorenne\" sarebbe restituito solo se la condizione A1>=18 fosse falsa; con 18 la condizione è vera."
+      },
+      {
+        "id": "c",
+        "text": "VERO",
+        "why_wrong": "La funzione SE non restituisce il valore logico della condizione, ma il valore indicato per il caso vero."
+      },
+      {
+        "id": "d",
+        "text": "Un messaggio di errore",
+        "why_wrong": "La formula è scritta correttamente: condizione, valore se vero e valore se falso separati da punto e virgola."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La funzione SE verifica una condizione e restituisce il secondo argomento se è vera, il terzo se è falsa. Poiché 18>=18 è vero, il risultato è \"Maggiorenne\".",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: funzioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-004",
+    "subject": "informatica",
+    "question": "Le celle da A1 ad A4 contengono i valori 2, 4, 6 e 8. Quale risultato restituisce la formula =MEDIA(A1:A4)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "5",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "20",
+        "why_wrong": "20 è la somma dei valori, che si otterrebbe con la funzione SOMMA."
+      },
+      {
+        "id": "c",
+        "text": "4",
+        "why_wrong": "4 è il numero delle celle dell'intervallo, non la loro media."
+      },
+      {
+        "id": "d",
+        "text": "8",
+        "why_wrong": "8 è il valore più alto dell'intervallo, non la media."
+      }
+    ],
+    "correct": "a",
+    "explanation": "MEDIA calcola la media aritmetica: somma dei valori (2+4+6+8=20) divisa per il loro numero (4), cioè 5.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: funzioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-005",
+    "subject": "informatica",
+    "question": "La funzione CERCA.VERT di un foglio di calcolo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cerca un valore nella prima colonna di una tabella e restituisce il valore che si trova nella stessa riga, in una colonna indicata",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Conta le celle di un intervallo che soddisfano un criterio",
+        "why_wrong": "Questa è la funzione CONTA.SE."
+      },
+      {
+        "id": "c",
+        "text": "Restituisce un valore diverso a seconda che una condizione sia vera o falsa",
+        "why_wrong": "Questa è la funzione SE."
+      },
+      {
+        "id": "d",
+        "text": "Addiziona i valori numerici di un intervallo",
+        "why_wrong": "Questa è la funzione SOMMA."
+      }
+    ],
+    "correct": "a",
+    "explanation": "CERCA.VERT (ricerca verticale) cerca un valore nella prima colonna di una tabella e restituisce il dato presente nella stessa riga, nella colonna indicata dal numero passato come argomento.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: funzioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-006",
+    "subject": "informatica",
+    "question": "Un ufficio vuole rappresentare con un grafico come si ripartisce in percentuale la spesa totale tra le diverse voci di bilancio di un solo anno. Quale tipo di grafico è il più adatto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un grafico a torta",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un grafico a linee",
+        "why_wrong": "Il grafico a linee è adatto a mostrare l'andamento di un valore nel tempo, non la composizione di un totale."
+      },
+      {
+        "id": "c",
+        "text": "Un grafico a dispersione",
+        "why_wrong": "Il grafico a dispersione mostra la relazione tra due variabili numeriche."
+      },
+      {
+        "id": "d",
+        "text": "Un grafico ad area con più anni",
+        "why_wrong": "Un grafico ad area rappresenta soprattutto l'andamento nel tempo; qui interessa la composizione di un solo totale."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il grafico a torta mostra le parti che compongono un totale, ciascuna come spicchio proporzionale alla sua percentuale: è la scelta tipica per la ripartizione di una spesa complessiva.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: grafici",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-007",
+    "subject": "informatica",
+    "question": "Nella maggior parte delle applicazioni, la combinazione di tasti Ctrl+Z serve a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Annullare l'ultima operazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Copiare il testo selezionato",
+        "why_wrong": "Per copiare si usa Ctrl+C."
+      },
+      {
+        "id": "c",
+        "text": "Incollare il contenuto degli appunti",
+        "why_wrong": "Per incollare si usa Ctrl+V."
+      },
+      {
+        "id": "d",
+        "text": "Tagliare il testo selezionato",
+        "why_wrong": "Per tagliare si usa Ctrl+X."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Ctrl+Z annulla l'ultima operazione. Le altre combinazioni standard sono Ctrl+C (copia), Ctrl+X (taglia) e Ctrl+V (incolla).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: scorciatoie da tastiera",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-off-008",
+    "subject": "informatica",
+    "question": "Un Comune deve inviare la stessa lettera a trecento cittadini, personalizzando nome e indirizzo di ciascuno a partire da un elenco. Quale funzione del programma di videoscrittura è più adatta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La stampa unione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il controllo ortografico",
+        "why_wrong": "Il controllo ortografico segnala gli errori di scrittura, ma non genera documenti personalizzati da un elenco."
+      },
+      {
+        "id": "c",
+        "text": "L'interruzione di pagina",
+        "why_wrong": "L'interruzione di pagina fa iniziare il testo su una nuova pagina, ma non inserisce i dati dei destinatari."
+      },
+      {
+        "id": "d",
+        "text": "Il sommario automatico",
+        "why_wrong": "Il sommario automatico elenca i titoli del documento con i numeri di pagina."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La stampa unione combina un documento modello con un elenco di dati (ad esempio una tabella di nomi e indirizzi) e produce una copia personalizzata per ogni destinatario.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Applicazioni di office automation: videoscrittura",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

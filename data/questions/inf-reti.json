@@ -1,0 +1,314 @@
+[
+  {
+    "id": "inf-ret-001",
+    "subject": "informatica",
+    "question": "I computer degli uffici di un Comune, situati tutti nello stesso edificio, sono collegati tra loro per condividere stampanti e cartelle. Si tratta di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Una rete LAN (rete locale)",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Una rete WAN (rete geografica)",
+        "why_wrong": "La WAN collega dispositivi o reti distribuiti su aree geografiche molto estese, come regioni o Stati."
+      },
+      {
+        "id": "c",
+        "text": "Una rete MAN (rete metropolitana)",
+        "why_wrong": "La MAN copre l'area di una città, collegando più sedi distinte, non un solo edificio."
+      },
+      {
+        "id": "d",
+        "text": "Internet",
+        "why_wrong": "Internet è la rete mondiale che interconnette reti diverse; il collegamento interno a un edificio è una rete locale."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La LAN (Local Area Network) collega dispositivi in un'area limitata, come un ufficio o un edificio. La WAN (Wide Area Network) copre aree geografiche estese; Internet è la più grande rete geografica, formata dall'interconnessione di reti diverse.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: LAN e WAN",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-002",
+    "subject": "informatica",
+    "question": "Il servizio che traduce un nome di dominio, come www.esempio.it, nel corrispondente indirizzo IP è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il DNS",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "L'SMTP",
+        "why_wrong": "SMTP è il protocollo per l'invio dei messaggi di posta elettronica."
+      },
+      {
+        "id": "c",
+        "text": "L'FTP",
+        "why_wrong": "FTP è il protocollo per il trasferimento di file tra computer."
+      },
+      {
+        "id": "d",
+        "text": "L'HTTP",
+        "why_wrong": "HTTP è il protocollo con cui il browser richiede e riceve le pagine web."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il DNS (Domain Name System) associa i nomi di dominio, facili da ricordare, agli indirizzi IP numerici usati dai dispositivi per comunicare in rete.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: DNS",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-003",
+    "subject": "informatica",
+    "question": "L'indirizzo IP è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un identificativo numerico assegnato a ciascun dispositivo connesso a una rete che utilizza il protocollo IP",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "L'indirizzo di posta elettronica di un utente",
+        "why_wrong": "L'indirizzo di posta identifica una casella email, non un dispositivo in rete."
+      },
+      {
+        "id": "c",
+        "text": "Il nome di dominio di un sito web",
+        "why_wrong": "Il nome di dominio è un nome testuale che il DNS traduce nell'indirizzo IP."
+      },
+      {
+        "id": "d",
+        "text": "Il nome del browser usato per navigare",
+        "why_wrong": "Il browser è il programma per consultare il web e non identifica il dispositivo in rete."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'indirizzo IP (Internet Protocol) identifica un dispositivo in una rete e permette di instradare i dati verso di esso. Esistono indirizzi IPv4 (quattro numeri separati da punti) e IPv6.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: indirizzo IP",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-004",
+    "subject": "informatica",
+    "question": "Un cittadino accede al portale dei pagamenti del Comune e vede nella barra del browser un indirizzo che inizia con https://. Che cosa indica?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Che la comunicazione tra browser e sito è cifrata",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Che il sito è accessibile solo dalla rete locale del Comune",
+        "why_wrong": "Il protocollo HTTPS non limita l'accesso a una rete locale: riguarda la protezione della comunicazione."
+      },
+      {
+        "id": "c",
+        "text": "Che il sito trasferisce file tramite il protocollo FTP",
+        "why_wrong": "FTP è un protocollo diverso, dedicato al trasferimento di file."
+      },
+      {
+        "id": "d",
+        "text": "Che la pagina è stata salvata sul computer dell'utente",
+        "why_wrong": "HTTPS indica il protocollo di comunicazione con il server, non il salvataggio locale della pagina."
+      }
+    ],
+    "correct": "a",
+    "explanation": "HTTPS è la versione sicura di HTTP: i dati scambiati tra browser e server sono cifrati (tramite TLS) e l'identità del sito è verificata con un certificato digitale. HTTP, invece, trasmette i dati in chiaro.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: HTTP e HTTPS",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-005",
+    "subject": "informatica",
+    "question": "Quale protocollo è utilizzato per l'invio dei messaggi di posta elettronica?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SMTP",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "POP3",
+        "why_wrong": "POP3 è un protocollo per la ricezione della posta, che scarica i messaggi dal server."
+      },
+      {
+        "id": "c",
+        "text": "IMAP",
+        "why_wrong": "IMAP è un protocollo per la ricezione e la consultazione della posta mantenuta sul server."
+      },
+      {
+        "id": "d",
+        "text": "FTP",
+        "why_wrong": "FTP è il protocollo per il trasferimento di file, non per la posta elettronica."
+      }
+    ],
+    "correct": "a",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) serve a inviare i messaggi e a trasferirli tra server di posta; POP3 e IMAP servono al client per ricevere i messaggi dalla propria casella.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: protocolli di posta",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-006",
+    "subject": "informatica",
+    "question": "Un dipendente consulta la stessa casella di posta dal computer dell'ufficio e dallo smartphone e vuole che messaggi, cartelle e stato di lettura restino sincronizzati sul server. Quale protocollo di ricezione è più adatto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IMAP",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "POP3",
+        "why_wrong": "POP3 è pensato per scaricare i messaggi sul dispositivo, di solito rimuovendoli dal server, e non sincronizza cartelle e stato di lettura."
+      },
+      {
+        "id": "c",
+        "text": "SMTP",
+        "why_wrong": "SMTP è il protocollo per l'invio della posta, non per la ricezione."
+      },
+      {
+        "id": "d",
+        "text": "HTTP",
+        "why_wrong": "HTTP è il protocollo del web, non un protocollo di ricezione della posta elettronica."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Con IMAP i messaggi restano sul server e ogni dispositivo ne vede lo stesso stato (letti, cartelle, eliminati). POP3 invece scarica i messaggi sul singolo dispositivo.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: protocolli di posta",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-007",
+    "subject": "informatica",
+    "question": "Un ufficio deve inviare la stessa email a duecento cittadini senza che ciascun destinatario possa vedere gli indirizzi degli altri. In quale campo conviene inserire gli indirizzi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ccn (copia conoscenza nascosta)",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "A",
+        "why_wrong": "Gli indirizzi inseriti nel campo A sono visibili a tutti i destinatari."
+      },
+      {
+        "id": "c",
+        "text": "Cc (copia conoscenza)",
+        "why_wrong": "Gli indirizzi inseriti nel campo Cc sono visibili a tutti i destinatari."
+      },
+      {
+        "id": "d",
+        "text": "Oggetto",
+        "why_wrong": "Il campo Oggetto contiene il titolo del messaggio, non gli indirizzi dei destinatari."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Gli indirizzi nel campo Ccn ricevono il messaggio ma non sono visibili agli altri destinatari; quelli nei campi A e Cc sono invece visibili a tutti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: campi dell'email",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-ret-008",
+    "subject": "informatica",
+    "question": "Il cloud computing consiste:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nell'utilizzo, tramite la rete, di risorse informatiche come spazio di archiviazione, potenza di calcolo o applicazioni fornite da un provider e usate secondo necessità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nell'installazione di tutte le applicazioni esclusivamente sul disco del computer dell'utente",
+        "why_wrong": "Il cloud computing si basa su risorse erogate a distanza attraverso la rete, non installate solo in locale."
+      },
+      {
+        "id": "c",
+        "text": "Nel collegamento dei computer di un singolo ufficio senza accesso a internet",
+        "why_wrong": "Questa descrizione corrisponde a una rete locale isolata, non al cloud computing."
+      },
+      {
+        "id": "d",
+        "text": "Nella copia periodica dei dati su un disco esterno conservato in ufficio",
+        "why_wrong": "Questa è una forma di backup locale, non il cloud computing."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nel cloud computing risorse come archiviazione, server e software sono erogate da un fornitore tramite la rete: l'utente vi accede quando ne ha bisogno, senza gestire direttamente l'infrastruttura.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reti, internet e posta elettronica: cloud computing",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

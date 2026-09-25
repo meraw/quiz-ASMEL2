@@ -1,0 +1,314 @@
+[
+  {
+    "id": "inf-sic-001",
+    "subject": "informatica",
+    "question": "Un dipendente riceve un'email che sembra provenire dalla sua banca e lo invita a cliccare su un link per \"confermare\" nome utente e password. Si tratta tipicamente di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phishing",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un worm",
+        "why_wrong": "Il worm è un malware che si propaga automaticamente attraverso la rete, senza bisogno di ingannare l'utente per ottenere credenziali."
+      },
+      {
+        "id": "c",
+        "text": "Un firewall",
+        "why_wrong": "Il firewall è uno strumento di protezione che filtra il traffico di rete, non un attacco."
+      },
+      {
+        "id": "d",
+        "text": "Un backup",
+        "why_wrong": "Il backup è una copia di sicurezza dei dati, non un tentativo di frode."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il phishing è una truffa in cui l'aggressore si finge un soggetto affidabile (banca, ente, fornitore) per indurre la vittima a fornire credenziali o dati personali, spesso tramite link a siti contraffatti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: phishing",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-002",
+    "subject": "informatica",
+    "question": "Il malware che cifra i file del computer colpito e chiede un pagamento per restituirne l'accesso è chiamato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ransomware",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Spyware",
+        "why_wrong": "Lo spyware raccoglie di nascosto informazioni sull'utente, senza bloccarne i file."
+      },
+      {
+        "id": "c",
+        "text": "Worm",
+        "why_wrong": "Il worm si caratterizza per la capacità di replicarsi e diffondersi autonomamente nella rete."
+      },
+      {
+        "id": "d",
+        "text": "Trojan",
+        "why_wrong": "Il trojan si presenta come un programma legittimo per introdursi nel sistema; il suo tratto distintivo non è la richiesta di riscatto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il ransomware rende inaccessibili i dati, di solito cifrandoli, e chiede un riscatto (ransom) per restituirli.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: malware",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-003",
+    "subject": "informatica",
+    "question": "Quale delle seguenti modalità di accesso è un esempio di autenticazione a più fattori?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Password e codice temporaneo generato su uno smartphone in possesso dell'utente",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Password e PIN",
+        "why_wrong": "Password e PIN sono entrambi qualcosa che l'utente conosce: si tratta dello stesso fattore."
+      },
+      {
+        "id": "c",
+        "text": "Due password diverse",
+        "why_wrong": "Due password appartengono allo stesso fattore (qualcosa che si conosce)."
+      },
+      {
+        "id": "d",
+        "text": "Nome utente e password",
+        "why_wrong": "Il nome utente identifica l'utente, ma l'unico fattore di autenticazione è la password."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'autenticazione a più fattori combina elementi di categorie diverse: qualcosa che si conosce (password, PIN), qualcosa che si possiede (smartphone, token) e qualcosa che si è (dati biometrici). Due elementi della stessa categoria non bastano.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: autenticazione a più fattori",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-004",
+    "subject": "informatica",
+    "question": "Un ransomware ha cifrato i file del server di un ufficio. Quale misura consente di recuperare i dati senza pagare il riscatto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il ripristino da un backup recente conservato separatamente dal sistema colpito",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "L'attivazione del firewall dopo l'attacco",
+        "why_wrong": "Il firewall filtra il traffico di rete e può aiutare a prevenire attacchi, ma non recupera file già cifrati."
+      },
+      {
+        "id": "c",
+        "text": "Il cambio della password dell'amministratore",
+        "why_wrong": "Cambiare la password migliora la sicurezza futura, ma non rende di nuovo leggibili i file cifrati."
+      },
+      {
+        "id": "d",
+        "text": "La copia dei file cifrati su un disco esterno",
+        "why_wrong": "Copiare file già cifrati non li rende leggibili."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il backup è una copia di sicurezza dei dati. Se è recente e conservato separatamente (non raggiungibile dal malware), permette di ripristinare i file dopo un attacco o un guasto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: backup",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-005",
+    "subject": "informatica",
+    "question": "Il firewall è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un sistema che controlla il traffico di rete in entrata e in uscita e lo consente o blocca in base a regole stabilite",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un programma che ricerca e rimuove i virus presenti nei file",
+        "why_wrong": "Questa è la funzione dell'antivirus."
+      },
+      {
+        "id": "c",
+        "text": "Una copia di sicurezza dei dati",
+        "why_wrong": "Questa è la definizione di backup."
+      },
+      {
+        "id": "d",
+        "text": "Un protocollo per l'invio della posta elettronica",
+        "why_wrong": "Il protocollo per l'invio della posta è SMTP."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il firewall, hardware o software, filtra le comunicazioni tra reti (ad esempio tra la rete interna e internet) secondo regole predefinite, bloccando il traffico non autorizzato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: firewall",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-006",
+    "subject": "informatica",
+    "question": "Nella crittografia simmetrica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La stessa chiave è usata sia per cifrare sia per decifrare",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Si usa una coppia di chiavi, una pubblica e una privata",
+        "why_wrong": "La coppia di chiavi pubblica e privata caratterizza la crittografia asimmetrica."
+      },
+      {
+        "id": "c",
+        "text": "I dati sono trasmessi in chiaro, senza alcuna chiave",
+        "why_wrong": "Senza chiave non c'è cifratura: la crittografia simmetrica usa una chiave condivisa."
+      },
+      {
+        "id": "d",
+        "text": "Il messaggio cifrato non può più essere decifrato da nessuno",
+        "why_wrong": "Chi possiede la chiave può decifrare il messaggio: è lo scopo stesso della cifratura."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella crittografia simmetrica mittente e destinatario condividono una sola chiave segreta, usata per cifrare e decifrare. Nella crittografia asimmetrica si usano invece due chiavi correlate, una pubblica e una privata.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: crittografia",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-007",
+    "subject": "informatica",
+    "question": "In una tabella che contiene i dati anagrafici dei residenti di un Comune, quale campo è il più adatto a fungere da chiave primaria?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il codice fiscale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il cognome",
+        "why_wrong": "Più residenti possono avere lo stesso cognome: il campo non identifica ogni record in modo univoco."
+      },
+      {
+        "id": "c",
+        "text": "La data di nascita",
+        "why_wrong": "Più residenti possono essere nati nello stesso giorno: il valore non è univoco."
+      },
+      {
+        "id": "d",
+        "text": "La via di residenza",
+        "why_wrong": "Molti residenti abitano nella stessa via: il valore non è univoco."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La chiave primaria è il campo (o l'insieme di campi) che identifica in modo univoco ogni record della tabella: non può avere valori ripetuti né vuoti. Il codice fiscale è diverso per ogni persona.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: chiave primaria",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-sic-008",
+    "subject": "informatica",
+    "question": "In una tabella di un database relazionale, ogni riga, che contiene tutti i dati relativi a un singolo elemento, è chiamata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Record",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Campo",
+        "why_wrong": "Il campo corrisponde a una colonna: contiene un solo tipo di dato (ad esempio il cognome) per tutti i record."
+      },
+      {
+        "id": "c",
+        "text": "Query",
+        "why_wrong": "La query è un'interrogazione per estrarre o elaborare dati dal database."
+      },
+      {
+        "id": "d",
+        "text": "Chiave primaria",
+        "why_wrong": "La chiave primaria è il campo che identifica in modo univoco ciascun record, non la riga stessa."
+      }
+    ],
+    "correct": "a",
+    "explanation": "In una tabella ogni riga è un record (i dati di un elemento, ad esempio un residente) e ogni colonna è un campo (un attributo, ad esempio il cognome). Le query servono a interrogare il database.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Sicurezza informatica e basi di dati: concetti di base di dati",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
