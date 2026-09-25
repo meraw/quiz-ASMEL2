@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 7 non superato. La spiegazione qualifica l'ipotesi del secondo comma come «cosiddetto peculato d'uso», ma il file non usa questa denominazione: l'art. 314, secondo comma, dice solo «Si applica la pena della reclusione da sei mesi a tre anni quando il colpevole ha agisto al solo scopo di fare uso momentaneo della cosa, e questa, dopo l'uso momentaneo, è stata immediatamente restituita.» Correzione suggerita: eliminare l'inciso «(cosiddetto peculato d'uso)».",
     "no_shuffle": false
   },
   {
@@ -172,7 +173,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -260,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -304,7 +305,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -348,7 +349,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -392,7 +393,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -444,7 +445,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -488,7 +489,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma che l'art. 322 riguarda «l'offerta o la sollecitazione di denaro non accettata», estendendo alla sollecitazione la condizione della mancata accettazione. Nel file tale condizione («qualora l'offerta o la promessa non sia accettata») compare solo nel primo e nel secondo comma, riferita all'offerta o alla promessa; il terzo e il quarto comma puniscono il pubblico ufficiale o l'incaricato di un pubblico servizio «che sollecita una promessa o dazione di denaro o altra utilità» senza alcuna condizione di mancata accettazione. Correzione suggerita: «L'art. 322 riguarda l'offerta o la promessa non accettata, o la sollecitazione del pubblico ufficiale; qui il pubblico ufficiale costringe il privato a pagare.»",
     "no_shuffle": false
   },
   {
@@ -532,7 +534,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -576,7 +578,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -624,7 +626,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -668,7 +670,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -712,7 +714,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -756,7 +758,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -804,7 +806,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -848,7 +850,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -892,7 +894,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -936,7 +938,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -980,7 +982,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1028,7 +1030,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1072,7 +1074,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione b). Il why_wrong afferma che interdizione e divieto sono temporanei «solo» se è inflitta la reclusione non superiore a due anni o ricorre l'attenuante dell'art. 323-bis, primo comma, ma il file prevede un terzo caso di sanzioni temporanee nel secondo comma dell'art. 317-bis: «Quando ricorre la circostanza attenuante prevista dall'articolo 323-bis, secondo comma, la condanna per i delitti ivi previsti importa le sanzioni accessorie di cui al primo comma del presente articolo per una durata non inferiore a un anno né superiore a cinque anni». Correzione suggerita: eliminare «solo» o aggiungere il caso del secondo comma.",
     "no_shuffle": false
   },
   {
@@ -1116,7 +1119,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1160,7 +1163,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1204,7 +1207,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1248,7 +1251,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1292,7 +1295,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1336,7 +1339,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
