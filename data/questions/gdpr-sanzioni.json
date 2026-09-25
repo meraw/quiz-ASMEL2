@@ -16,7 +16,7 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 77, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -57,7 +57,7 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 82, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -99,7 +99,7 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 83, par. 7", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   }
