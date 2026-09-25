@@ -84,23 +84,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Nella registrazione del nome di una località come marchio commerciale",
-        "why_wrong": "La registrazione di un marchio è un atto giuridico, non coincide con il processo di costruzione dell'identità di un luogo."
+        "text": "Nella registrazione del nome di una località come marchio commerciale, per impedirne l'uso da parte di terzi",
+        "why_wrong": "La registrazione di un marchio è un atto giuridico di tutela del nome, non il processo di costruzione dell'identità di un luogo."
       },
       {
         "id": "b",
-        "text": "Nella sola ideazione del logo e dello slogan di una località",
-        "why_wrong": "Logo e slogan sono elementi visivi del brand, ma il place branding non si esaurisce in essi."
+        "text": "Nella sola ideazione del logo, dello slogan e della grafica coordinata con cui una località si presenta ai visitatori",
+        "why_wrong": "Logo, slogan e grafica sono elementi visivi del brand, ma il place branding non si esaurisce in essi."
       },
       {
         "id": "c",
-        "text": "Nella costruzione e gestione dell'identità e dell'immagine di un luogo, affinché sia percepito in modo distintivo e coerente dai suoi pubblici",
+        "text": "Nella costruzione e gestione dell'identità e dell'immagine di un luogo, affinché sia percepito in modo distintivo",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Nella vendita online dei servizi turistici della località",
-        "why_wrong": "La vendita online riguarda la distribuzione, non l'identità del luogo."
+        "text": "Nella vendita online dei servizi turistici della località tramite il portale e le piattaforme di prenotazione",
+        "why_wrong": "La vendita online riguarda la distribuzione dei servizi, non l'identità e l'immagine del luogo."
       }
     ],
     "correct": "c",
@@ -113,7 +113,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -123,22 +124,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Il destination marketing comprende il destination management come sua fase operativa",
-        "why_wrong": "È il contrario: il marketing è una delle funzioni del management."
+        "text": "Il destination marketing comprende il destination management, che ne costituisce la sola fase operativa di attuazione",
+        "why_wrong": "È il contrario: il marketing è una delle funzioni del management della destinazione."
       },
       {
         "id": "b",
-        "text": "Sono attività alternative: una destinazione sceglie di praticare l'una o l'altra",
-        "why_wrong": "Non sono alternative: il marketing è parte della gestione complessiva della destinazione."
+        "text": "Sono attività alternative: ogni destinazione sceglie di praticare l'una o l'altra in base alle proprie risorse",
+        "why_wrong": "Non sono alternative: il marketing è parte della gestione complessiva della destinazione, qualunque siano le sue risorse."
       },
       {
         "id": "c",
-        "text": "Il destination management riguarda solo le strutture ricettive private",
-        "why_wrong": "Il destination management riguarda l'intera destinazione e il coordinamento di tutti i suoi attori."
+        "text": "Il destination management riguarda solo le strutture ricettive private, mentre il destination marketing riguarda l'intero territorio",
+        "why_wrong": "Il destination management riguarda l'intera destinazione e il coordinamento di tutti i suoi attori, non le sole strutture ricettive."
       },
       {
         "id": "d",
-        "text": "Il destination management è la gestione coordinata di tutti gli elementi della destinazione, di cui il destination marketing è una componente",
+        "text": "Il destination management è la gestione coordinata della destinazione, di cui il destination marketing è una componente",
         "why_wrong": null
       }
     ],
@@ -152,7 +153,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -162,23 +164,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Un'organizzazione che coordina la gestione e la promozione di una destinazione, mettendo in rete gli attori pubblici e privati del territorio",
+        "text": "Un'organizzazione che coordina gestione e promozione di una destinazione, mettendo in rete gli attori pubblici e privati",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Un'agenzia di viaggi online che vende pacchetti relativi a una destinazione",
-        "why_wrong": "Le agenzie di viaggi online sono intermediari commerciali, non organismi di gestione della destinazione."
+        "text": "Un'agenzia di viaggi online che vende pacchetti relativi a una destinazione, trattenendo una commissione sulle vendite",
+        "why_wrong": "Le agenzie di viaggi online sono intermediari commerciali che vendono servizi, non organismi di gestione della destinazione."
       },
       {
         "id": "c",
-        "text": "Un albergo che gestisce direttamente le attrattive della propria località",
-        "why_wrong": "Una singola impresa ricettiva non svolge il coordinamento dell'intera destinazione."
+        "text": "Un albergo che gestisce direttamente le attrattive della propria località e ne cura la promozione presso i propri clienti",
+        "why_wrong": "Una singola impresa ricettiva non svolge il coordinamento dell'intera destinazione e dei suoi attori."
       },
       {
         "id": "d",
-        "text": "Un ufficio statale che rilascia le autorizzazioni all'apertura delle strutture ricettive",
-        "why_wrong": "Il rilascio di autorizzazioni è un'attività amministrativa, non la funzione di una DMO."
+        "text": "Un ufficio statale che rilascia le autorizzazioni all'apertura delle strutture ricettive e ne verifica i requisiti",
+        "why_wrong": "Il rilascio di autorizzazioni e la verifica dei requisiti sono attività amministrative, non la funzione di una DMO."
       }
     ],
     "correct": "a",
@@ -191,7 +193,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +243,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Soggetti estranei, perché non acquistano servizi turistici",
-        "why_wrong": "I residenti sono coinvolti dagli effetti del turismo e contribuiscono all'accoglienza: sono portatori di interesse."
+        "text": "Soggetti estranei, perché non acquistano servizi turistici e non partecipano quindi all'economia della destinazione",
+        "why_wrong": "I residenti subiscono gli effetti del turismo e contribuiscono all'accoglienza: sono portatori di interesse, non soggetti estranei."
       },
       {
         "id": "b",
-        "text": "Portatori di interesse, perché il turismo incide sulla loro qualità della vita e la loro accoglienza fa parte dell'esperienza del visitatore",
+        "text": "Portatori di interesse, perché il turismo incide sulla loro vita e la loro accoglienza fa parte dell'esperienza del visitatore",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Destinatari esclusivi delle politiche turistiche, in quanto elettori",
-        "why_wrong": "Le politiche turistiche si rivolgono a più soggetti (visitatori, imprese, residenti), non ai soli residenti."
+        "text": "Destinatari esclusivi delle politiche turistiche, in quanto elettori dell'amministrazione comunale che le adotta e le finanzia",
+        "why_wrong": "Le politiche turistiche si rivolgono a più soggetti (visitatori, imprese, residenti), non ai soli residenti in quanto elettori."
       },
       {
         "id": "d",
-        "text": "Concorrenti delle imprese turistiche",
-        "why_wrong": "I residenti non sono concorrenti, ma parte della comunità ospitante."
+        "text": "Concorrenti delle imprese turistiche, perché utilizzano gli stessi servizi pubblici e le stesse infrastrutture destinati ai visitatori",
+        "why_wrong": "Condividere servizi e infrastrutture non rende i residenti concorrenti: sono parte della comunità ospitante."
       }
     ],
     "correct": "b",
@@ -269,7 +272,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -359,23 +363,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Perché la legge impone che ogni destinazione sia gestita da un unico ente pubblico",
-        "why_wrong": "Il coordinamento nasce dalla natura dell'offerta turistica, non da un obbligo di gestione unica."
+        "text": "Perché la legge impone che ogni destinazione turistica sia gestita da un unico ente pubblico territoriale",
+        "why_wrong": "Il coordinamento nasce dalla natura dell'offerta turistica, non da un obbligo di gestione affidata a un unico ente."
       },
       {
         "id": "b",
-        "text": "Perché le imprese turistiche sono tutte di grandi dimensioni",
-        "why_wrong": "La necessità di coordinamento non dipende dalla dimensione delle imprese, ma dalla frammentazione dell'offerta."
+        "text": "Perché le imprese turistiche sono tutte di grandi dimensioni e devono quindi ripartirsi i mercati di riferimento",
+        "why_wrong": "La necessità di coordinamento non dipende dalla dimensione delle imprese né dalla ripartizione dei mercati, ma dalla frammentazione dell'offerta."
       },
       {
         "id": "c",
-        "text": "Perché il turista vive la destinazione come un'esperienza unitaria, ma i servizi che la compongono sono forniti da soggetti diversi",
+        "text": "Perché il turista vive la destinazione come un'esperienza unitaria, ma i servizi sono forniti da soggetti diversi",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Perché il turista acquista sempre un pacchetto da un unico operatore",
-        "why_wrong": "Il turista spesso acquista i servizi separatamente, da fornitori diversi."
+        "text": "Perché il turista acquista sempre un pacchetto completo da un unico operatore, che deve accordarsi con i fornitori",
+        "why_wrong": "Il turista spesso acquista i servizi separatamente, da fornitori diversi, e non sempre tramite un pacchetto."
       }
     ],
     "correct": "c",
@@ -388,7 +392,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

@@ -89,18 +89,18 @@
       },
       {
         "id": "b",
-        "text": "Minacce",
-        "why_wrong": "Le minacce sono fattori esterni; posti letto e segnaletica sono caratteristiche interne della destinazione."
+        "text": "Minacce da contrastare",
+        "why_wrong": "Le minacce sono fattori esterni sfavorevoli; posti letto e segnaletica sono caratteristiche interne della destinazione."
       },
       {
         "id": "c",
-        "text": "Opportunità",
-        "why_wrong": "Le opportunità sono fattori esterni favorevoli."
+        "text": "Opportunità da sfruttare",
+        "why_wrong": "Le opportunità sono fattori esterni favorevoli, non caratteristiche interne della destinazione."
       },
       {
         "id": "d",
-        "text": "Punti di forza",
-        "why_wrong": "Sono caratteristiche interne sfavorevoli, non favorevoli."
+        "text": "Punti di forza interni",
+        "why_wrong": "Sono caratteristiche interne, ma sfavorevoli, non favorevoli."
       }
     ],
     "correct": "a",
@@ -113,7 +113,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +241,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il posto che la destinazione occupa nella mente dei clienti obiettivo rispetto alle destinazioni concorrenti",
+        "text": "Il posto che essa occupa nella mente dei clienti obiettivo rispetto alle destinazioni concorrenti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "La sua collocazione geografica rispetto alle principali vie di comunicazione",
-        "why_wrong": "La collocazione geografica riguarda l'accessibilità, non il posizionamento di marketing."
+        "text": "La sua collocazione geografica rispetto alle principali vie di comunicazione e ai mercati di origine",
+        "why_wrong": "La collocazione geografica riguarda l'accessibilità, non il posizionamento di marketing nella mente dei clienti."
       },
       {
         "id": "c",
-        "text": "La posizione della destinazione nei risultati dei motori di ricerca",
-        "why_wrong": "Il posizionamento nei motori di ricerca è un aspetto tecnico della visibilità online."
+        "text": "La posizione della destinazione nei risultati dei motori di ricerca per le parole chiave turistiche",
+        "why_wrong": "Il posizionamento nei motori di ricerca è un aspetto tecnico della visibilità online, non il posizionamento di marketing."
       },
       {
         "id": "d",
-        "text": "Il livello dei prezzi rispetto alla media nazionale",
-        "why_wrong": "Il prezzo può contribuire al posizionamento, ma non lo esaurisce."
+        "text": "Il livello dei prezzi dei suoi servizi turistici rispetto alla media delle altre destinazioni nazionali",
+        "why_wrong": "Il prezzo può contribuire al posizionamento rispetto alle altre destinazioni, ma non lo esaurisce."
       }
     ],
     "correct": "a",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

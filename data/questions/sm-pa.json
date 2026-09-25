@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Descrivere il contenuto dell'immagine a chi non può vederla, ad esempio agli utenti che usano un lettore di schermo",
+        "text": "Descrivere il contenuto dell'immagine a chi non può vederla, come chi usa un lettore di schermo",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Indicare l'autore della foto e i diritti d'autore",
-        "why_wrong": "È il ruolo dei crediti fotografici, non del testo alternativo."
+        "text": "Indicare l'autore della foto e i diritti d'autore, in modo da tutelare chi ha realizzato l'immagine",
+        "why_wrong": "Autore e diritti si indicano nei crediti fotografici, non nel testo alternativo."
       },
       {
         "id": "c",
-        "text": "Inserire gli hashtag relativi all'immagine",
-        "why_wrong": "Gli hashtag servono a classificare i contenuti per tema, non a descriverli."
+        "text": "Inserire gli hashtag relativi all'immagine, per aumentarne la visibilità nelle ricerche sulla piattaforma",
+        "why_wrong": "Gli hashtag servono a classificare i contenuti per tema e a renderli ricercabili, non a descrivere l'immagine."
       },
       {
         "id": "d",
-        "text": "Sostituire il testo del post",
-        "why_wrong": "Il testo alternativo descrive l'immagine; il post conserva il proprio testo."
+        "text": "Sostituire il testo del post, così da non dover scrivere una didascalia accanto all'immagine",
+        "why_wrong": "Il testo alternativo descrive l'immagine; il post conserva il proprio testo e la propria funzione."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -50,18 +51,18 @@
       },
       {
         "id": "b",
-        "text": "Scrivere come testo alternativo soltanto \"locandina\"",
-        "why_wrong": "Una descrizione così generica non trasmette le informazioni contenute nell'immagine."
+        "text": "Scrivere come testo alternativo soltanto \"locandina\", lasciando i dettagli dell'evento nell'immagine",
+        "why_wrong": "Una descrizione così generica non trasmette data, orario e luogo, che restano solo nell'immagine."
       },
       {
         "id": "c",
-        "text": "Usare caratteri grandi nella locandina, senza altro",
-        "why_wrong": "Aiuta chi vede male, ma il testo nell'immagine resta inaccessibile a chi usa un lettore di schermo."
+        "text": "Usare caratteri grandi e ben contrastati nella locandina, senza aggiungere altro testo al post",
+        "why_wrong": "Migliora la leggibilità per chi vede male, ma il testo nell'immagine resta inaccessibile a chi usa un lettore di schermo."
       },
       {
         "id": "d",
-        "text": "Aggiungere al post alcuni hashtag relativi all'evento",
-        "why_wrong": "Gli hashtag non riportano data, orario e luogo."
+        "text": "Aggiungere al post alcuni hashtag relativi all'evento, come il nome della manifestazione e del Comune",
+        "why_wrong": "Gli hashtag non riportano data, orario e luogo dell'evento, che restano solo nell'immagine."
       }
     ],
     "correct": "a",
@@ -74,7 +75,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -89,18 +91,18 @@
       },
       {
         "id": "b",
-        "text": "Permette di ridurre la durata del video",
-        "why_wrong": "I sottotitoli non modificano la durata del video."
+        "text": "Permette di ridurre la durata del video, eliminando le parti già riportate nel testo",
+        "why_wrong": "I sottotitoli trascrivono il parlato, non modificano la durata del video."
       },
       {
         "id": "c",
-        "text": "Sostituisce l'obbligo di pubblicare l'ordinanza nelle sedi previste",
-        "why_wrong": "Il video divulga il contenuto, non sostituisce la pubblicazione dell'atto."
+        "text": "Sostituisce l'obbligo di pubblicare il testo dell'ordinanza nelle sedi previste dalla legge",
+        "why_wrong": "Il video divulga il contenuto, non sostituisce la pubblicazione dell'atto nelle sedi previste."
       },
       {
         "id": "d",
-        "text": "Rende superfluo il testo del post",
-        "why_wrong": "Il post resta utile per sintetizzare e rinviare alle fonti."
+        "text": "Rende superfluo il testo del post e il rinvio alla pagina del sito con l'ordinanza",
+        "why_wrong": "Il post resta utile per sintetizzare il contenuto e rinviare alle fonti ufficiali."
       }
     ],
     "correct": "a",
@@ -113,7 +115,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -128,18 +131,18 @@
       },
       {
         "id": "b",
-        "text": "Scrivere tutto in minuscolo, ad esempio #estateincomune",
-        "why_wrong": "Senza maiuscole le parole sono difficili da distinguere, anche per i lettori di schermo."
+        "text": "Scrivere tutte le parole in minuscolo e unite, ad esempio #estateincomune",
+        "why_wrong": "Senza maiuscole le parole unite sono difficili da distinguere, anche per i lettori di schermo."
       },
       {
         "id": "c",
-        "text": "Scrivere tutto in maiuscolo, ad esempio #ESTATEINCOMUNE",
-        "why_wrong": "Il tutto maiuscolo rende difficile distinguere le parole e riduce la leggibilità."
+        "text": "Scrivere tutte le parole in maiuscolo e unite, ad esempio #ESTATEINCOMUNE",
+        "why_wrong": "Il tutto maiuscolo rende difficile distinguere le singole parole e riduce la leggibilità."
       },
       {
         "id": "d",
-        "text": "Separare le parole con spazi, ad esempio #Estate In Comune",
-        "why_wrong": "Lo spazio interrompe l'hashtag, che resterebbe composto solo dalla prima parola."
+        "text": "Separare ogni parola dalla successiva con uno spazio, ad esempio #Estate In Comune",
+        "why_wrong": "Lo spazio interrompe l'hashtag, che resterebbe composto dalla sola prima parola."
       }
     ],
     "correct": "a",
@@ -152,7 +155,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -206,18 +210,18 @@
       },
       {
         "id": "b",
-        "text": "Pubblicare liberamente le foto, perché si tratta di un evento pubblico",
-        "why_wrong": "Il carattere pubblico dell'evento non rende liberamente pubblicabili le immagini di minori riconoscibili."
+        "text": "Pubblicare liberamente tutte le foto, perché si tratta di un evento pubblico organizzato dallo stesso Comune",
+        "why_wrong": "Il carattere pubblico dell'evento, anche se organizzato dal Comune, non rende liberamente pubblicabili le immagini di minori riconoscibili."
       },
       {
         "id": "c",
-        "text": "Pubblicare le foto senza indicare i nomi dei bambini",
-        "why_wrong": "I minori restano identificabili dal volto anche senza nome."
+        "text": "Pubblicare anche le foto con i volti dei bambini ben visibili, purché nelle didascalie non siano indicati i loro nomi e cognomi",
+        "why_wrong": "I minori restano identificabili dal volto anche senza indicazione del nome."
       },
       {
         "id": "d",
-        "text": "Pubblicare le foto con il solo consenso degli insegnanti",
-        "why_wrong": "Il consenso spetta a chi esercita la responsabilità genitoriale, non agli insegnanti."
+        "text": "Pubblicare le foto con il solo consenso degli insegnanti che hanno accompagnato i bambini alla festa",
+        "why_wrong": "Il consenso spetta a chi esercita la responsabilità genitoriale, non agli insegnanti accompagnatori."
       }
     ],
     "correct": "a",
@@ -230,7 +234,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -245,18 +250,18 @@
       },
       {
         "id": "b",
-        "text": "Pubblicare l'immagine della graduatoria con nomi e cognomi dei beneficiari",
-        "why_wrong": "Si diffonderebbero dati personali su un canale non destinato alla pubblicità degli atti."
+        "text": "Pubblicare l'immagine della graduatoria con nomi e cognomi dei beneficiari e l'importo del contributo",
+        "why_wrong": "Nomi, cognomi e importi sono dati personali: il canale social non è destinato alla pubblicità degli atti."
       },
       {
         "id": "c",
-        "text": "Pubblicare la graduatoria con le sole iniziali e la data di nascita",
-        "why_wrong": "Iniziali e data di nascita possono comunque rendere identificabili le persone."
+        "text": "Pubblicare la graduatoria riportando dei beneficiari soltanto le iniziali, la data di nascita e l'importo ricevuto",
+        "why_wrong": "Iniziali e data di nascita, insieme agli altri dati, possono comunque rendere identificabili le persone."
       },
       {
         "id": "d",
-        "text": "Pubblicare i nominativi nei commenti, anziché nel post",
-        "why_wrong": "Anche i commenti sono pubblici: i dati personali verrebbero diffusi comunque."
+        "text": "Pubblicare i nominativi dei beneficiari nei commenti, anziché nel testo del post, per limitarne la visibilità",
+        "why_wrong": "Anche i commenti sono pubblici e visibili a tutti: i dati personali verrebbero diffusi comunque."
       }
     ],
     "correct": "a",
@@ -269,7 +274,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,23 +285,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Collocare all'inizio le informazioni più importanti, lasciando dettagli e approfondimenti alla parte successiva",
+        "text": "Collocare all'inizio le informazioni più importanti, lasciando i dettagli alla parte successiva",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Partire dal contesto generale e arrivare alle informazioni essenziali solo alla fine",
-        "why_wrong": "È l'ordine opposto, tipico della scrittura narrativa o argomentativa."
+        "text": "Partire dal contesto generale e dai precedenti, arrivando alle informazioni essenziali solo alla fine",
+        "why_wrong": "È l'ordine opposto, tipico della scrittura narrativa o argomentativa, non della piramide rovesciata."
       },
       {
         "id": "c",
-        "text": "Dividere il testo in paragrafi di lunghezza crescente",
-        "why_wrong": "Non riguarda la lunghezza dei paragrafi, ma l'ordine di importanza delle informazioni."
+        "text": "Dividere il testo in paragrafi di lunghezza crescente, dal più breve al più ampio e dettagliato",
+        "why_wrong": "La tecnica non riguarda la lunghezza dei paragrafi, ma l'ordine di importanza delle informazioni."
       },
       {
         "id": "d",
-        "text": "Riassumere le informazioni principali solo nelle conclusioni",
-        "why_wrong": "Nella piramide rovesciata il nucleo del messaggio viene per primo."
+        "text": "Riassumere le informazioni principali solo nelle conclusioni, dopo aver esposto tutti i dettagli",
+        "why_wrong": "Nella piramide rovesciata il nucleo del messaggio viene per primo, non nelle conclusioni."
       }
     ],
     "correct": "a",
@@ -308,7 +314,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -323,18 +330,18 @@
       },
       {
         "id": "b",
-        "text": "Ripetere la stessa parola chiave il maggior numero di volte possibile",
-        "why_wrong": "La ripetizione forzata peggiora la leggibilità e viene penalizzata dai motori di ricerca."
+        "text": "Ripetere la stessa parola chiave il maggior numero di volte possibile, sia nel titolo sia nel testo",
+        "why_wrong": "La ripetizione forzata della parola chiave peggiora la leggibilità e viene penalizzata dai motori di ricerca."
       },
       {
         "id": "c",
-        "text": "Usare nel titolo la denominazione tecnico-giuridica del procedimento",
-        "why_wrong": "I cittadini raramente cercano con termini tecnici: la pagina sarebbe più difficile da trovare."
+        "text": "Usare nel titolo e nel testo la denominazione tecnico-giuridica ufficiale del procedimento",
+        "why_wrong": "I cittadini raramente cercano con termini tecnico-giuridici: la pagina sarebbe più difficile da trovare."
       },
       {
         "id": "d",
-        "text": "Pubblicare le informazioni solo come immagine o come documento scansionato",
-        "why_wrong": "Il testo in un'immagine o in una scansione non è leggibile dai motori di ricerca, né dai lettori di schermo."
+        "text": "Pubblicare le informazioni sul servizio solo come immagine o come documento PDF scansionato",
+        "why_wrong": "Il testo contenuto in un'immagine o in una scansione non è leggibile dai motori di ricerca, né dai lettori di schermo."
       }
     ],
     "correct": "a",
@@ -347,7 +354,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -357,23 +365,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Sintetizzare nel post le informazioni principali e rinviare con un link alla pagina del sito istituzionale con i documenti completi",
+        "text": "Riassumere nel post le informazioni principali e rinviare con un link al sito istituzionale con i documenti completi",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Pubblicare il bando solo sui social, dove il pubblico è più numeroso",
-        "why_wrong": "Il sito istituzionale resta il riferimento ufficiale; i social sono un canale complementare."
+        "text": "Pubblicare il bando e tutti i relativi allegati solo sui social, dove il pubblico raggiunto è più numeroso che sul sito",
+        "why_wrong": "I social sono un canale complementare: il riferimento ufficiale per il bando resta il sito istituzionale."
       },
       {
         "id": "c",
-        "text": "Pubblicare l'intero testo del bando come immagine",
-        "why_wrong": "Il testo in immagine non è accessibile e rende difficile la lettura."
+        "text": "Pubblicare l'intero testo del bando in una sequenza di immagini, così da renderlo leggibile direttamente sul social",
+        "why_wrong": "Il testo in immagine non è accessibile ai lettori di schermo e rende difficile la lettura del bando."
       },
       {
         "id": "d",
-        "text": "Rinviare a un gruppo social privato riservato agli iscritti",
-        "why_wrong": "Le informazioni istituzionali devono essere accessibili a tutti, non solo agli iscritti a un gruppo."
+        "text": "Rinviare a un gruppo social privato, riservato agli iscritti, in cui pubblicare i documenti completi del bando",
+        "why_wrong": "Le informazioni istituzionali devono essere accessibili a tutti i cittadini, non solo agli iscritti a un gruppo."
       }
     ],
     "correct": "a",
@@ -386,7 +394,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

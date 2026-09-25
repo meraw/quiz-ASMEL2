@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "L'insieme delle regole di buon comportamento per comunicare in rete in modo corretto e rispettoso",
+        "text": "L'insieme delle regole di buon comportamento per comunicare in rete in modo corretto",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "La legge che disciplina la responsabilità dei gestori delle piattaforme",
-        "why_wrong": "È un insieme di regole di comportamento condivise, non una legge."
+        "text": "La legge che disciplina la responsabilità dei gestori delle piattaforme per i contenuti degli utenti",
+        "why_wrong": "È un insieme di regole di comportamento condivise, non una legge sulla responsabilità delle piattaforme."
       },
       {
         "id": "c",
-        "text": "L'informativa sul trattamento dei dati personali di un sito",
-        "why_wrong": "Riguarda la privacy, non le regole di comportamento nella comunicazione."
+        "text": "L'informativa sul trattamento dei dati personali che un sito fornisce ai propri utenti",
+        "why_wrong": "È l'informativa privacy: riguarda i dati personali, non le regole di comportamento nella comunicazione."
       },
       {
         "id": "d",
-        "text": "Il sistema con cui le piattaforme ordinano i contenuti mostrati agli utenti",
-        "why_wrong": "Non riguarda gli algoritmi, ma il comportamento degli utenti."
+        "text": "Il sistema con cui gli algoritmi delle piattaforme ordinano i contenuti mostrati agli utenti",
+        "why_wrong": "Descrive gli algoritmi di ordinamento dei contenuti, non il comportamento degli utenti in rete."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -45,23 +46,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Stabilisce le regole per gli utenti che interagiscono con i canali dell'ente, come i contenuti non ammessi, i criteri di moderazione e i tempi di risposta",
+        "text": "Stabilisce le regole per chi interagisce con i canali dell'ente, come i contenuti non ammessi e i criteri di moderazione",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Disciplina l'uso dei social da parte dei dipendenti, anche sui profili personali",
-        "why_wrong": "È il contenuto della policy interna."
+        "text": "Disciplina l'uso dei social da parte dei dipendenti dell'ente, anche sui profili personali, e i relativi doveri di riservatezza",
+        "why_wrong": "È il contenuto della policy interna, rivolta ai dipendenti e non agli utenti dei canali."
       },
       {
         "id": "c",
-        "text": "Definisce il calendario delle pubblicazioni dell'ente",
-        "why_wrong": "Il calendario editoriale programma i contenuti, non stabilisce le regole di interazione."
+        "text": "Definisce il calendario delle pubblicazioni dell'ente, con i temi, i formati e la frequenza dei post su ciascun canale",
+        "why_wrong": "È il piano editoriale: programma i contenuti, non stabilisce le regole di interazione per gli utenti."
       },
       {
         "id": "d",
-        "text": "Stabilisce i criteri di acquisto degli spazi pubblicitari sui social",
-        "why_wrong": "Non riguarda la pubblicità, ma le regole di utilizzo e di interazione."
+        "text": "Stabilisce i criteri di acquisto degli spazi pubblicitari sui social, come il budget, il pubblico e la durata delle campagne",
+        "why_wrong": "Riguarda la pianificazione pubblicitaria, non le regole di interazione degli utenti con i canali."
       }
     ],
     "correct": "a",
@@ -74,7 +75,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -128,18 +130,18 @@
       },
       {
         "id": "b",
-        "text": "Rispondere con lo stesso tono, per difendere l'utente offeso",
-        "why_wrong": "L'ente deve mantenere un tono istituzionale e non alimentare il conflitto."
+        "text": "Rispondere pubblicamente con lo stesso tono dell'autore del commento, per difendere l'utente offeso",
+        "why_wrong": "L'ente deve mantenere un tono istituzionale: rispondere con lo stesso tono alimenta il conflitto."
       },
       {
         "id": "c",
-        "text": "Lasciare il commento visibile, in nome della libertà di espressione",
-        "why_wrong": "Gli insulti violano la netiquette e le regole della policy, che ne prevedono la rimozione."
+        "text": "Lasciare il commento visibile in nome della libertà di espressione, senza intervenire né rispondere in alcun modo",
+        "why_wrong": "Gli insulti violano la netiquette e le regole della policy, che ne prevedono la rimozione o l'oscuramento."
       },
       {
         "id": "d",
-        "text": "Disattivare definitivamente i commenti su tutta la pagina",
-        "why_wrong": "È una misura sproporzionata rispetto a un singolo commento."
+        "text": "Disattivare definitivamente i commenti su tutta la pagina, per evitare che episodi simili si ripetano in futuro",
+        "why_wrong": "È una misura sproporzionata rispetto a un singolo commento offensivo."
       }
     ],
     "correct": "a",
@@ -152,7 +154,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -167,18 +170,18 @@
       },
       {
         "id": "b",
-        "text": "Cancellare il commento perché danneggia l'immagine dell'ente",
-        "why_wrong": "Le critiche civili non violano la policy: rimuoverle è censura e danneggia la fiducia."
+        "text": "Cancellare il commento, perché una critica pubblica danneggia l'immagine e la reputazione dell'ente",
+        "why_wrong": "Le critiche civili non violano la policy: rimuoverle è censura e mina la fiducia dei cittadini."
       },
       {
         "id": "c",
-        "text": "Ignorare il commento, per non dare visibilità al problema",
-        "why_wrong": "Il silenzio viene percepito come disinteresse e può far crescere il malcontento."
+        "text": "Ignorare il commento, per non dare ulteriore visibilità al problema segnalato dal cittadino",
+        "why_wrong": "Il silenzio viene percepito come disinteresse e può far crescere il malcontento verso l'ente."
       },
       {
         "id": "d",
-        "text": "Contestare la segnalazione, difendendo l'operato dell'ente",
-        "why_wrong": "Un atteggiamento difensivo peggiora la relazione con il cittadino."
+        "text": "Contestare pubblicamente la segnalazione, difendendo l'operato dell'ente e dell'azienda che gestisce il servizio",
+        "why_wrong": "Un atteggiamento difensivo peggiora la relazione con il cittadino e non risolve il problema segnalato."
       }
     ],
     "correct": "a",
@@ -191,7 +194,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -201,23 +205,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Indichi nella policy gli orari in cui i canali sono presidiati e i tempi indicativi di risposta, e li rispetti",
+        "text": "Indichi nella policy gli orari di presidio dei canali e i tempi indicativi di risposta, e li rispetti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Garantisca sempre una risposta immediata, 24 ore su 24",
-        "why_wrong": "Non è realistico per la maggior parte degli enti; è preferibile dichiarare orari e tempi sostenibili."
+        "text": "Garantisca sempre una risposta immediata a ogni messaggio e commento, 24 ore su 24, anche nei giorni festivi",
+        "why_wrong": "Non è realistico per la maggior parte degli enti; è preferibile dichiarare orari e tempi di risposta sostenibili."
       },
       {
         "id": "c",
-        "text": "Non fornisca indicazioni, per non assumere impegni",
-        "why_wrong": "Senza indicazioni gli utenti non sanno cosa aspettarsi."
+        "text": "Non fornisca alcuna indicazione su orari e tempi di risposta, per non assumere impegni con gli utenti",
+        "why_wrong": "Senza indicazioni gli utenti non sanno quando e in che tempi aspettarsi una risposta."
       },
       {
         "id": "d",
-        "text": "Risponda solo ai messaggi privati, mai ai commenti pubblici",
-        "why_wrong": "Anche i commenti pubblici richiedono risposta, perché sono visibili a tutti."
+        "text": "Risponda solo ai messaggi privati e mai ai commenti pubblici, per evitare discussioni visibili a tutti",
+        "why_wrong": "Anche i commenti pubblici richiedono risposta, proprio perché sono visibili a tutti gli utenti."
       }
     ],
     "correct": "a",
@@ -230,7 +234,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +245,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Invitarlo a proseguire tramite un canale privato o l'ufficio competente, evitando di trattare in pubblico i suoi dati personali",
+        "text": "Invitarlo a proseguire in privato o con l'ufficio competente, senza trattare in pubblico i suoi dati personali",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Rispondere nel dettaglio nello stesso commento, citando i dati della pratica",
-        "why_wrong": "Si diffonderebbero pubblicamente dati personali."
+        "text": "Rispondere nel dettaglio nello stesso commento, citando il numero e lo stato della pratica indicata",
+        "why_wrong": "Si diffonderebbero pubblicamente i dati personali del cittadino e della sua pratica."
       },
       {
         "id": "c",
-        "text": "Ignorare il commento, perché i social non sono un canale per le pratiche",
-        "why_wrong": "Il cittadino va comunque orientato verso il canale corretto."
+        "text": "Ignorare il commento, perché i social non sono un canale utilizzabile per chiedere informazioni sulle singole pratiche",
+        "why_wrong": "Il cittadino va comunque orientato verso il canale corretto, non lasciato senza risposta."
       },
       {
         "id": "d",
-        "text": "Condividere il commento sulla pagina, per rispondere a tutti su casi simili",
-        "why_wrong": "Aumenterebbe la diffusione dei suoi dati personali."
+        "text": "Condividere il commento sulla pagina, per rispondere una volta sola a tutti i cittadini con casi simili",
+        "why_wrong": "Aumenterebbe la diffusione pubblica dei dati personali del cittadino."
       }
     ],
     "correct": "a",
@@ -269,7 +274,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,23 +285,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Comunicare tempestivamente ciò che sa, riconoscendo il problema, e fornire aggiornamenti man mano che ha nuove informazioni",
+        "text": "Comunicare subito ciò che sa, riconoscendo il problema, e aggiornare man mano che emergono nuove informazioni",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Attendere di avere tutte le informazioni prima di comunicare qualsiasi cosa",
-        "why_wrong": "Il silenzio iniziale lascia spazio a voci e notizie non verificate."
+        "text": "Attendere di avere un quadro completo e verificato dei fatti prima di comunicare qualsiasi cosa all'esterno",
+        "why_wrong": "Tacere nelle prime fasi lascia spazio a voci e notizie non verificate."
       },
       {
         "id": "c",
-        "text": "Negare il problema finché non viene accertato",
-        "why_wrong": "Negare fatti poi confermati mina la credibilità dell'ente."
+        "text": "Negare pubblicamente il problema finché non viene accertato in modo definitivo e ufficiale dalle autorità competenti",
+        "why_wrong": "Negare fatti che vengono poi confermati mina la credibilità dell'ente."
       },
       {
         "id": "d",
-        "text": "Cancellare tutti i commenti che parlano dell'accaduto",
-        "why_wrong": "La censura alimenta sfiducia e sposta la discussione altrove."
+        "text": "Cancellare tutti i commenti che parlano dell'accaduto, per evitare che la notizia si diffonda ulteriormente",
+        "why_wrong": "La censura alimenta la sfiducia e sposta la discussione su altri canali."
       }
     ],
     "correct": "a",
@@ -308,7 +314,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -323,18 +330,18 @@
       },
       {
         "id": "b",
-        "text": "Solo quando la crisi è già in corso, sulla base della situazione concreta",
-        "why_wrong": "Durante la crisi mancano il tempo e la lucidità per decidere ruoli e procedure."
+        "text": "Solo quando la crisi è già in corso, sulla base della situazione concreta e delle prime reazioni del pubblico",
+        "why_wrong": "Durante la crisi mancano il tempo e la lucidità per definire ruoli e procedure."
       },
       {
         "id": "c",
-        "text": "Al termine della crisi, come analisi di quanto accaduto",
-        "why_wrong": "L'analisi successiva è utile, ma il piano serve a gestire la crisi quando avviene."
+        "text": "Al termine della crisi, come analisi di quanto accaduto e degli errori commessi nella comunicazione",
+        "why_wrong": "L'analisi successiva è utile, ma il piano serve a gestire la crisi nel momento in cui avviene."
       },
       {
         "id": "d",
-        "text": "Solo dopo che una crisi analoga si è già verificata in passato",
-        "why_wrong": "Il piano deve prevenire, non dipendere da precedenti esperienze negative."
+        "text": "Solo dopo che una crisi analoga si è già verificata in passato, sulla base dell'esperienza maturata",
+        "why_wrong": "Il piano deve essere preventivo, non dipendere da precedenti esperienze negative."
       }
     ],
     "correct": "a",
@@ -347,7 +354,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -357,23 +365,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Pubblicare rapidamente sui canali ufficiali una smentita chiara, basata su dati verificabili, come l'esito delle analisi",
+        "text": "Pubblicare subito sui canali ufficiali una smentita chiara, basata su dati verificabili come l'esito delle analisi",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Ignorare la notizia, perché smentirla le darebbe ulteriore visibilità",
-        "why_wrong": "Su un tema di salute pubblica il silenzio lascia spazio alla notizia falsa."
+        "text": "Ignorare la notizia, perché una smentita ufficiale le darebbe ulteriore visibilità e finirebbe solo per rafforzarla",
+        "why_wrong": "Su un tema di salute pubblica il silenzio dell'ente lascia spazio alla notizia falsa."
       },
       {
         "id": "c",
-        "text": "Rispondere con sarcasmo a chi ha diffuso la notizia",
-        "why_wrong": "Il sarcasmo non è un tono istituzionale e non convince chi ha dubbi."
+        "text": "Rispondere con sarcasmo a chi ha diffuso la notizia, mettendone in evidenza l'infondatezza nei commenti",
+        "why_wrong": "Il sarcasmo non è un tono istituzionale e non convince chi ha dubbi sulla potabilità dell'acqua."
       },
       {
         "id": "d",
-        "text": "Chiedere ai cittadini di condividere la notizia falsa accompagnata da un commento critico",
-        "why_wrong": "Ricondividere il contenuto falso ne amplia la diffusione."
+        "text": "Chiedere ai cittadini di ricondividere la notizia falsa accompagnandola con un commento critico sulla sua origine",
+        "why_wrong": "Ricondividere il contenuto falso, anche con un commento critico, ne amplia la diffusione."
       }
     ],
     "correct": "a",
@@ -386,7 +394,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Agiscono direttamente e in modo uniforme su un pubblico passivo, come un ago che inietta il messaggio in ciascun individuo",
+        "text": "Agiscono in modo diretto e uniforme su un pubblico passivo, come un ago che inietta il messaggio",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Influenzano il pubblico soprattutto attraverso la mediazione dei leader d'opinione",
-        "why_wrong": "È l'ipotesi del flusso a due fasi, che ridimensiona gli effetti diretti dei media."
+        "text": "Influenzano il pubblico soprattutto attraverso la mediazione dei leader d'opinione e dei rapporti personali",
+        "why_wrong": "La mediazione dei leader d'opinione è l'ipotesi del flusso a due fasi, che ridimensiona gli effetti diretti dei media."
       },
       {
         "id": "c",
-        "text": "Stabiliscono di quali temi il pubblico discute, più che su ciò che ne pensa",
-        "why_wrong": "È l'ipotesi dell'agenda setting."
+        "text": "Influenzano soprattutto quali temi il pubblico ritiene importanti, più che le opinioni su di essi",
+        "why_wrong": "È l'ipotesi dell'agenda setting, che riguarda la gerarchia dei temi e non un effetto diretto e uniforme."
       },
       {
         "id": "d",
-        "text": "Sono scelti da un pubblico attivo per soddisfare i propri bisogni",
-        "why_wrong": "È l'approccio degli usi e gratificazioni, che rovescia la prospettiva della teoria ipodermica."
+        "text": "Sono scelti da un pubblico attivo, che li utilizza per soddisfare i propri bisogni individuali",
+        "why_wrong": "Il pubblico attivo che sceglie i media per i propri bisogni è l'approccio degli usi e gratificazioni, opposto alla teoria ipodermica."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -45,23 +46,23 @@
     "options": [
       {
         "id": "a",
-        "text": "I media producono effetti diretti e immediati su ogni singolo individuo",
-        "why_wrong": "È la tesi della teoria ipodermica, che il flusso a due fasi mette in discussione."
+        "text": "I media producono effetti diretti, immediati e uniformi su ogni singolo individuo, senza alcuna mediazione",
+        "why_wrong": "Gli effetti diretti e uniformi senza mediazione sono la tesi della teoria ipodermica, che il flusso a due fasi mette in discussione."
       },
       {
         "id": "b",
-        "text": "Chi percepisce la propria opinione come minoritaria tende a non esprimerla",
-        "why_wrong": "È la tesi della spirale del silenzio."
+        "text": "Chi percepisce la propria opinione come minoritaria tende a non esprimerla, per timore dell'isolamento",
+        "why_wrong": "Il timore dell'isolamento che induce a tacere è la tesi della spirale del silenzio."
       },
       {
         "id": "c",
-        "text": "I messaggi dei media raggiungono prima i leader d'opinione, che poi li trasmettono e li interpretano per le persone meno esposte ai media",
+        "text": "I messaggi dei media raggiungono prima i leader d'opinione, che li interpretano e trasmettono ai meno esposti",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "L'esposizione prolungata alla televisione modella la percezione della realtà",
-        "why_wrong": "È la tesi della teoria della coltivazione."
+        "text": "L'esposizione prolungata alla televisione modella nel tempo la percezione della realtà sociale dello spettatore",
+        "why_wrong": "L'effetto dell'esposizione televisiva prolungata sulla percezione della realtà è la tesi della teoria della coltivazione."
       }
     ],
     "correct": "c",
@@ -74,7 +75,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -99,7 +101,7 @@
       },
       {
         "id": "d",
-        "text": "Del flusso a due fasi, che valorizza il ruolo dei leader d'opinione",
+        "text": "Del flusso a due fasi",
         "why_wrong": null
       }
     ],
@@ -113,7 +115,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -162,23 +165,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Determinano in modo diretto le opinioni del pubblico sui singoli temi",
-        "why_wrong": "L'effetto diretto sulle opinioni è la tesi della teoria ipodermica."
+        "text": "Determinano in modo diretto e uniforme le opinioni del pubblico sui singoli temi di attualità",
+        "why_wrong": "L'effetto diretto e uniforme sulle opinioni è la tesi della teoria ipodermica."
       },
       {
         "id": "b",
-        "text": "Influenzano soprattutto quali temi il pubblico considera importanti, più che su ciò che ne pensa",
+        "text": "Influenzano soprattutto quali temi il pubblico considera importanti, più che ciò che ne pensa",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Spingono al silenzio chi ritiene di avere un'opinione minoritaria",
-        "why_wrong": "È la tesi della spirale del silenzio."
+        "text": "Spingono al silenzio chi ritiene di avere un'opinione minoritaria, per timore dell'isolamento",
+        "why_wrong": "Il silenzio di chi si sente in minoranza è la tesi della spirale del silenzio."
       },
       {
         "id": "d",
-        "text": "Sono utilizzati dal pubblico per soddisfare bisogni individuali",
-        "why_wrong": "È la prospettiva degli usi e gratificazioni."
+        "text": "Sono utilizzati da un pubblico attivo per soddisfare bisogni individuali di informazione e svago",
+        "why_wrong": "Il pubblico attivo che usa i media per soddisfare i propri bisogni è la prospettiva degli usi e gratificazioni."
       }
     ],
     "correct": "b",
@@ -191,7 +194,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,22 +244,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Sul ruolo dei leader d'opinione nel diffondere i messaggi dei media",
-        "why_wrong": "È il fondamento del flusso a due fasi."
+        "text": "Sul ruolo dei leader d'opinione nel diffondere e interpretare i messaggi dei media",
+        "why_wrong": "Il ruolo dei leader d'opinione è il fondamento del flusso a due fasi."
       },
       {
         "id": "b",
-        "text": "Sugli effetti cumulativi della forte esposizione televisiva",
-        "why_wrong": "È il fondamento della teoria della coltivazione."
+        "text": "Sugli effetti cumulativi di lungo periodo della forte esposizione televisiva",
+        "why_wrong": "Gli effetti cumulativi dell'esposizione televisiva sono il fondamento della teoria della coltivazione."
       },
       {
         "id": "c",
-        "text": "Sulla scelta attiva dei media da parte del pubblico",
-        "why_wrong": "È il fondamento degli usi e gratificazioni."
+        "text": "Sulla scelta attiva dei media da parte del pubblico, in base ai propri bisogni",
+        "why_wrong": "La scelta attiva dei media in base ai bisogni è il fondamento degli usi e gratificazioni."
       },
       {
         "id": "d",
-        "text": "Sulla paura dell'isolamento, che spinge chi si sente in minoranza a non esprimere la propria opinione",
+        "text": "Sulla paura dell'isolamento, che spinge chi si sente in minoranza a non esprimersi",
         "why_wrong": null
       }
     ],
@@ -269,7 +273,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,23 +323,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Scelgono i programmi in base ai propri bisogni e ne traggono gratificazioni",
-        "why_wrong": "È la prospettiva degli usi e gratificazioni."
+        "text": "Scelgono i programmi in base ai propri bisogni individuali e ne traggono specifiche gratificazioni",
+        "why_wrong": "La scelta dei programmi in base ai bisogni è la prospettiva degli usi e gratificazioni."
       },
       {
         "id": "b",
-        "text": "Tendono a percepire la realtà in modo più simile a come la rappresenta la televisione, per esempio come più violenta di quanto sia",
+        "text": "Tendono a percepire la realtà come la rappresenta la televisione, per esempio più violenta di quanto sia",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Ricevono i messaggi soprattutto attraverso i leader d'opinione",
-        "why_wrong": "È la tesi del flusso a due fasi."
+        "text": "Ricevono i messaggi televisivi soprattutto attraverso la mediazione dei leader d'opinione della propria cerchia",
+        "why_wrong": "La mediazione dei leader d'opinione è la tesi del flusso a due fasi."
       },
       {
         "id": "d",
-        "text": "Tendono a non esprimere le opinioni che ritengono minoritarie",
-        "why_wrong": "È la tesi della spirale del silenzio."
+        "text": "Tendono a non esprimere in pubblico le opinioni che ritengono minoritarie, per timore dell'isolamento",
+        "why_wrong": "La tendenza a tacere le opinioni ritenute minoritarie è la tesi della spirale del silenzio."
       }
     ],
     "correct": "b",
@@ -347,7 +352,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

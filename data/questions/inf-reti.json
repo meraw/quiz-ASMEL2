@@ -84,23 +84,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Un identificativo numerico assegnato a ciascun dispositivo connesso a una rete che utilizza il protocollo IP",
+        "text": "Un identificativo numerico assegnato a ciascun dispositivo connesso a una rete che usa il protocollo IP",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "L'indirizzo di posta elettronica di un utente",
-        "why_wrong": "L'indirizzo di posta identifica una casella email, non un dispositivo in rete."
+        "text": "L'indirizzo di posta elettronica assegnato a un utente dal fornitore del servizio email",
+        "why_wrong": "L'indirizzo di posta identifica una casella email, non un dispositivo connesso alla rete."
       },
       {
         "id": "c",
-        "text": "Il nome di dominio di un sito web",
-        "why_wrong": "Il nome di dominio è un nome testuale che il DNS traduce nell'indirizzo IP."
+        "text": "Il nome di dominio di un sito web, composto da parole e da un'estensione come .it o .com",
+        "why_wrong": "Il nome di dominio è un nome testuale, che il DNS traduce nell'indirizzo IP."
       },
       {
         "id": "d",
-        "text": "Il nome del browser usato per navigare",
-        "why_wrong": "Il browser è il programma per consultare il web e non identifica il dispositivo in rete."
+        "text": "Il nome del programma di navigazione installato su ciascun dispositivo per consultare le pagine web",
+        "why_wrong": "Il browser è il programma per consultare le pagine web; il suo nome non identifica il dispositivo in rete."
       }
     ],
     "correct": "a",
@@ -113,7 +113,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,7 +241,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Ccn (copia conoscenza nascosta)",
+        "text": "Ccn",
         "why_wrong": null
       },
       {
@@ -250,8 +251,8 @@
       },
       {
         "id": "c",
-        "text": "Cc (copia conoscenza)",
-        "why_wrong": "Gli indirizzi inseriti nel campo Cc sono visibili a tutti i destinatari."
+        "text": "Cc",
+        "why_wrong": "Gli indirizzi inseriti nel campo Cc (copia conoscenza) sono visibili a tutti i destinatari."
       },
       {
         "id": "d",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,23 +281,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Nell'utilizzo, tramite la rete, di risorse informatiche come spazio di archiviazione, potenza di calcolo o applicazioni fornite da un provider e usate secondo necessità",
+        "text": "Nell'uso, tramite la rete, di risorse come archiviazione, potenza di calcolo o applicazioni, fornite da un provider e usate secondo necessità",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Nell'installazione di tutte le applicazioni esclusivamente sul disco del computer dell'utente",
-        "why_wrong": "Il cloud computing si basa su risorse erogate a distanza attraverso la rete, non installate solo in locale."
+        "text": "Nell'installazione di tutte le applicazioni e dei dati esclusivamente sul disco del computer dell'utente, senza bisogno di accedere alla rete",
+        "why_wrong": "Il cloud computing si basa su risorse erogate da un fornitore attraverso la rete, non installate solo sul computer locale."
       },
       {
         "id": "c",
-        "text": "Nel collegamento dei computer di un singolo ufficio senza accesso a internet",
-        "why_wrong": "Questa descrizione corrisponde a una rete locale isolata, non al cloud computing."
+        "text": "Nel collegamento dei computer di un singolo ufficio in una rete locale, per condividere stampanti e file senza accesso a internet",
+        "why_wrong": "Questa descrizione corrisponde a una rete locale (LAN) isolata, non al cloud computing."
       },
       {
         "id": "d",
-        "text": "Nella copia periodica dei dati su un disco esterno conservato in ufficio",
-        "why_wrong": "Questa è una forma di backup locale, non il cloud computing."
+        "text": "Nella copia periodica dei dati dell'ufficio su un disco esterno, conservato in un armadio chiuso separato dal server principale",
+        "why_wrong": "Questa è una forma di backup locale su supporto fisico, non il cloud computing."
       }
     ],
     "correct": "a",
@@ -308,7 +310,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

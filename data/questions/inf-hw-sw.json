@@ -11,18 +11,18 @@
       },
       {
         "id": "b",
-        "text": "La RAM",
-        "why_wrong": "La RAM è la memoria di lavoro che contiene temporaneamente dati e programmi in uso, ma non esegue le istruzioni."
+        "text": "La RAM (memoria di lavoro ad accesso casuale)",
+        "why_wrong": "La RAM è la memoria di lavoro che contiene temporaneamente dati e programmi in uso; non esegue le istruzioni."
       },
       {
         "id": "c",
-        "text": "La ROM",
-        "why_wrong": "La ROM è una memoria non volatile che contiene istruzioni permanenti, come quelle di avvio; non elabora i dati."
+        "text": "La ROM (memoria permanente di sola lettura)",
+        "why_wrong": "La ROM è una memoria di sola lettura, non volatile, che contiene istruzioni permanenti come quelle di avvio; non elabora i dati."
       },
       {
         "id": "d",
-        "text": "Il disco rigido",
-        "why_wrong": "Il disco rigido è una memoria di massa per l'archiviazione permanente dei dati."
+        "text": "Il disco rigido (memoria di massa)",
+        "why_wrong": "Il disco rigido è una memoria di massa per l'archiviazione permanente dei dati; non esegue le istruzioni."
       }
     ],
     "correct": "a",
@@ -35,7 +35,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -240,23 +241,23 @@
     "options": [
       {
         "id": "a",
-        "text": "PDF/A",
+        "text": "Il formato PDF/A",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "DOCX",
-        "why_wrong": "DOCX è un formato di videoscrittura modificabile, pensato per la redazione dei documenti e non specificamente per la conservazione."
+        "text": "Il formato DOCX",
+        "why_wrong": "Il DOCX è un formato di videoscrittura modificabile, pensato per la redazione dei documenti e non specificamente per la conservazione."
       },
       {
         "id": "c",
-        "text": "ODT",
-        "why_wrong": "ODT è il formato aperto di videoscrittura OpenDocument: è modificabile e non è specificamente destinato alla conservazione."
+        "text": "Il formato ODT",
+        "why_wrong": "L'ODT è il formato aperto di videoscrittura OpenDocument: è modificabile e non è specificamente destinato alla conservazione."
       },
       {
         "id": "d",
-        "text": "ZIP",
-        "why_wrong": "ZIP è un formato di archivio compresso che raccoglie uno o più file, non un formato di documento."
+        "text": "Il formato ZIP",
+        "why_wrong": "Lo ZIP è un formato di archivio compresso che raccoglie uno o più file, non un formato di documento."
       }
     ],
     "correct": "a",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -279,23 +281,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Un file di testo in cui i valori di una tabella sono separati da un carattere delimitatore, come la virgola o il punto e virgola",
+        "text": "Un file di testo in cui i valori di una tabella sono separati da un delimitatore, come la virgola o il punto e virgola",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Un archivio compresso che contiene uno o più file",
-        "why_wrong": "Questa è la descrizione del formato ZIP."
+        "text": "Un archivio compresso che raccoglie uno o più file, riducendone le dimensioni per l'invio o la conservazione",
+        "why_wrong": "Questa è la descrizione del formato ZIP, non del CSV."
       },
       {
         "id": "c",
-        "text": "Un formato di immagine con compressione con perdita di qualità",
-        "why_wrong": "Questa è la descrizione del formato JPG (JPEG)."
+        "text": "Un formato di immagine che applica una compressione con perdita di qualità, molto usato per le fotografie digitali",
+        "why_wrong": "Questa è la descrizione del formato JPG (JPEG), non del CSV."
       },
       {
         "id": "d",
-        "text": "Un formato di foglio di calcolo che conserva formule, formattazione e più fogli",
-        "why_wrong": "Questa è la descrizione del formato XLSX; il CSV contiene solo i valori in testo semplice."
+        "text": "Un formato di foglio di calcolo che conserva, oltre ai valori delle celle, le formule, la formattazione e più fogli di lavoro",
+        "why_wrong": "Questa è la descrizione del formato XLSX; il CSV contiene solo i valori in testo semplice, senza formule, formattazione né più fogli."
       }
     ],
     "correct": "a",
@@ -308,7 +310,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

@@ -162,23 +162,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Cerca un valore nella prima colonna di una tabella e restituisce il valore che si trova nella stessa riga, in una colonna indicata",
+        "text": "Cerca un valore nella prima colonna di una tabella e restituisce il dato della stessa riga in una colonna indicata",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Conta le celle di un intervallo che soddisfano un criterio",
-        "why_wrong": "Questa è la funzione CONTA.SE."
+        "text": "Conta le celle di un intervallo che soddisfano un criterio indicato, restituendo il numero di corrispondenze trovate",
+        "why_wrong": "Questa è la funzione CONTA.SE, che conta le celle che soddisfano un criterio."
       },
       {
         "id": "c",
-        "text": "Restituisce un valore diverso a seconda che una condizione sia vera o falsa",
-        "why_wrong": "Questa è la funzione SE."
+        "text": "Restituisce un valore diverso a seconda che una condizione indicata come primo argomento sia vera o falsa",
+        "why_wrong": "Questa è la funzione SE, basata sulla verifica di una condizione logica."
       },
       {
         "id": "d",
-        "text": "Addiziona i valori numerici di un intervallo",
-        "why_wrong": "Questa è la funzione SOMMA."
+        "text": "Addiziona i valori numerici contenuti in un intervallo di celle, anche se disposto su più righe e colonne",
+        "why_wrong": "Questa è la funzione SOMMA, che addiziona i valori numerici di un intervallo."
       }
     ],
     "correct": "a",
@@ -191,7 +191,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

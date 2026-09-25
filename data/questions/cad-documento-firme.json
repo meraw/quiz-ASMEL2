@@ -99,18 +99,18 @@
       },
       {
         "id": "b",
-        "text": "Sono sempre esclusi: il documento è privo di qualsiasi valore",
-        "why_wrong": "L'art. 20, comma 1-bis, non esclude il valore del documento, ma lo rimette alla libera valutazione del giudice."
+        "text": "Sono sempre esclusi: il documento privo di firma elettronica qualificata o avanzata non ha alcun valore in giudizio",
+        "why_wrong": "L'art. 20, comma 1-bis, non esclude il valore di tale documento, ma rimette l'idoneità alla forma scritta e il valore probatorio alla libera valutazione in giudizio."
       },
       {
         "id": "c",
-        "text": "Equivalgono sempre a quelli della scrittura privata ai sensi dell'art. 2702 del codice civile",
-        "why_wrong": "L'efficacia dell'art. 2702 c.c. spetta al documento con firma digitale, qualificata o avanzata o formato con il processo AgID (primo periodo del comma 1-bis)."
+        "text": "Equivalgono sempre a quelli della scrittura privata ai sensi dell'art. 2702 del codice civile, come per il documento firmato",
+        "why_wrong": "L'efficacia dell'art. 2702 c.c. spetta solo al documento con firma digitale, qualificata o avanzata o formato con il processo AgID (primo periodo del comma 1-bis)."
       },
       {
         "id": "d",
-        "text": "Dipendono dall'attestazione di conformità di un pubblico ufficiale",
-        "why_wrong": "L'attestazione del pubblico ufficiale riguarda le copie (artt. 22, 23 e 23-bis), non il documento informatico originale disciplinato dall'art. 20."
+        "text": "Dipendono dall'attestazione di conformità rilasciata da un notaio o da altro pubblico ufficiale a ciò autorizzato",
+        "why_wrong": "L'attestazione del notaio o di altro pubblico ufficiale riguarda le copie (artt. 22, 23 e 23-bis), non il documento informatico originale disciplinato dall'art. 20."
       }
     ],
     "correct": "a",
@@ -128,7 +128,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -187,18 +188,18 @@
       },
       {
         "id": "b",
-        "text": "Almeno una volta all'anno, ma solo per i procedimenti conclusi",
-        "why_wrong": "L'art. 44, comma 1-bis, include espressamente i fascicoli e le serie documentarie anche relative a procedimenti non conclusi."
+        "text": "Almeno una volta all'anno, ma solo per i fascicoli e le serie relativi a procedimenti conclusi",
+        "why_wrong": "L'art. 44, comma 1-bis, include espressamente i fascicoli e le serie documentarie anche relative a procedimenti non ancora conclusi."
       },
       {
         "id": "c",
-        "text": "Con cadenza almeno semestrale",
-        "why_wrong": "La cadenza almeno semestrale è quella prevista dall'art. 6-ter, comma 3, per l'aggiornamento dell'Indice dei domicili digitali delle PA."
+        "text": "Con cadenza almeno semestrale, anche per i fascicoli e le serie relativi a procedimenti non conclusi",
+        "why_wrong": "L'art. 44, comma 1-bis, prevede una trasmissione almeno annuale; la cadenza almeno semestrale è quella prevista dall'art. 6-ter, comma 3, per l'aggiornamento dell'Indice dei domicili digitali delle PA."
       },
       {
         "id": "d",
-        "text": "Soltanto alla chiusura di ciascun procedimento",
-        "why_wrong": "L'art. 44, comma 1-bis, prevede una trasmissione almeno annuale, anche per procedimenti non conclusi."
+        "text": "Soltanto alla chiusura di ciascun procedimento, con trasmissione dell'intero fascicolo informatico",
+        "why_wrong": "L'art. 44, comma 1-bis, prevede una trasmissione almeno una volta all'anno, anche dei fascicoli relativi a procedimenti non conclusi."
       }
     ],
     "correct": "a",
@@ -216,7 +217,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

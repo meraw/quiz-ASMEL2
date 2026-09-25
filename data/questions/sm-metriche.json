@@ -84,23 +84,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Le interazioni degli utenti con il contenuto, come reazioni, commenti e condivisioni",
+        "text": "Le interazioni degli utenti con il post, come reazioni, commenti e condivisioni",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Il numero di follower della pagina",
-        "why_wrong": "I follower misurano la dimensione della community, non le interazioni con il singolo post."
+        "text": "Il numero di follower della pagina, compresi quelli acquisiti nel periodo considerato",
+        "why_wrong": "I follower, anche quelli nuovi, misurano la dimensione della community, non le interazioni con il singolo post."
       },
       {
         "id": "c",
-        "text": "Il numero di visualizzazioni del post",
-        "why_wrong": "Le visualizzazioni misurano la visibilità (impression, copertura), non l'interazione."
+        "text": "Il numero di volte in cui il post è stato mostrato sullo schermo degli utenti",
+        "why_wrong": "Le visualizzazioni (impression) misurano la visibilità del post, non l'interazione degli utenti con esso."
       },
       {
         "id": "d",
-        "text": "Il numero di post pubblicati dall'ente nel periodo",
-        "why_wrong": "È una misura dell'attività dell'ente, non della risposta del pubblico."
+        "text": "Il numero di post pubblicati dall'ente nel periodo, suddivisi per canale e formato",
+        "why_wrong": "È una misura dell'attività dell'ente, non della risposta del pubblico ai contenuti."
       }
     ],
     "correct": "a",
@@ -113,7 +113,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -245,18 +246,18 @@
       },
       {
         "id": "b",
-        "text": "La visualizzazione del post da parte di un utente",
-        "why_wrong": "È un'impression, cioè una misura di visibilità."
+        "text": "La visualizzazione del post da parte di un utente residente nel territorio comunale",
+        "why_wrong": "La visualizzazione del post è un'impression, cioè una misura di visibilità, chiunque sia l'utente."
       },
       {
         "id": "c",
-        "text": "La reazione di un utente al post",
-        "why_wrong": "È un'interazione (engagement), non il completamento dell'azione obiettivo."
+        "text": "La reazione al post da parte di un utente interessato al servizio online",
+        "why_wrong": "È un'interazione (engagement) con il post, non il completamento dell'azione obiettivo."
       },
       {
         "id": "d",
-        "text": "La condivisione del post da parte di un utente",
-        "why_wrong": "È un'interazione che aumenta la diffusione, ma non realizza l'obiettivo della campagna."
+        "text": "La condivisione del post da parte di un utente sul proprio profilo personale",
+        "why_wrong": "È un'interazione che aumenta la diffusione del post, ma non realizza l'obiettivo della campagna."
       }
     ],
     "correct": "a",
@@ -269,7 +270,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,23 +320,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Confrontare due versioni di un contenuto che differiscono per un solo elemento, mostrate a pubblici comparabili nello stesso periodo, misurando la stessa metrica",
+        "text": "Confrontare due versioni di un contenuto diverse per un solo elemento, mostrate a pubblici comparabili nello stesso periodo, con la stessa metrica",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Modificare contemporaneamente più elementi della seconda versione, per ottenere risultati più rapidi",
-        "why_wrong": "Se cambiano più elementi non è possibile capire quale abbia prodotto la differenza."
+        "text": "Modificare contemporaneamente più elementi della seconda versione, mostrandola a un pubblico comparabile nello stesso periodo, per ottenere risultati più rapidi",
+        "why_wrong": "Se cambiano più elementi non è possibile capire quale abbia prodotto la differenza, anche con pubblici e periodi comparabili."
       },
       {
         "id": "c",
-        "text": "Pubblicare la versione A in un mese e la versione B in un mese diverso, senza altri accorgimenti",
-        "why_wrong": "Periodi diversi introducono fattori esterni che rendono il confronto poco affidabile."
+        "text": "Pubblicare la versione A in un mese e la versione B, diversa per un solo elemento, in un mese successivo, confrontando la stessa metrica",
+        "why_wrong": "Periodi diversi introducono fattori esterni che rendono il confronto poco affidabile, anche se cambia un solo elemento."
       },
       {
         "id": "d",
-        "text": "Confrontare lo stesso contenuto pubblicato su due canali diversi",
-        "why_wrong": "Si confrontano due pubblici e contesti diversi, non due versioni del contenuto."
+        "text": "Confrontare lo stesso contenuto pubblicato su due canali diversi nello stesso periodo, misurando per entrambi la stessa metrica",
+        "why_wrong": "Si confrontano due canali, con pubblici e contesti diversi, non due versioni dello stesso contenuto."
       }
     ],
     "correct": "a",
@@ -347,7 +349,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -357,23 +360,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Mettere in relazione le metriche con gli obiettivi e i KPI definiti nella strategia, confrontandole con i periodi precedenti",
+        "text": "Mettere in relazione le metriche con gli obiettivi e i KPI della strategia, confrontandole con i periodi precedenti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Elencare tutte le metriche disponibili, senza selezione, per completezza",
-        "why_wrong": "Un elenco non selezionato di dati non permette di valutare il raggiungimento degli obiettivi."
+        "text": "Elencare tutte le metriche fornite dalle piattaforme, senza alcuna selezione, per garantire la massima completezza del documento",
+        "why_wrong": "Un elenco non selezionato di dati non permette di valutare il raggiungimento degli obiettivi della strategia."
       },
       {
         "id": "c",
-        "text": "Riportare esclusivamente il numero di follower raggiunto",
-        "why_wrong": "Il numero di follower da solo non misura l'efficacia rispetto agli obiettivi."
+        "text": "Riportare esclusivamente il numero di follower raggiunto, confrontandolo con quello registrato nei periodi precedenti",
+        "why_wrong": "Il numero di follower da solo, anche se confrontato nel tempo, non misura l'efficacia rispetto agli obiettivi."
       },
       {
         "id": "d",
-        "text": "Riportare soltanto i contenuti che hanno avuto i risultati migliori",
-        "why_wrong": "Un report deve dar conto anche dei risultati negativi, utili a correggere la strategia."
+        "text": "Riportare soltanto i contenuti che hanno ottenuto i risultati migliori, per valorizzare il lavoro svolto dall'ufficio",
+        "why_wrong": "Un report deve dar conto anche dei risultati negativi, utili a correggere la strategia, e non solo di quelli migliori."
       }
     ],
     "correct": "a",
@@ -386,7 +389,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
