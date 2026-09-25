@@ -1,0 +1,898 @@
+[
+  {
+    "id": "dlgs33-o-001",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Il sindaco di un Comune è stato appena eletto. Ai sensi dell'art. 14, comma 2, del d.lgs. 33/2013, il Comune pubblica i dati relativi al sindaco previsti dal comma 1:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro trenta giorni dall'elezione e per i due anni successivi alla cessazione del mandato",
+        "why_wrong": "Trenta giorni e due anni sono i termini previsti per gli incarichi conferiti dalle società controllate (art. 15-bis)."
+      },
+      {
+        "id": "b",
+        "text": "entro tre mesi dall'elezione e per i tre anni successivi alla cessazione del mandato, salve le informazioni sulla situazione patrimoniale, pubblicate fino alla cessazione del mandato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "tempestivamente e per 5 anni dal 1° gennaio dell'anno successivo",
+        "why_wrong": "La regola generale dell'art. 8, comma 3, fa salvi proprio i termini dell'art. 14, comma 2."
+      },
+      {
+        "id": "d",
+        "text": "entro tre mesi dall'elezione e fino alla cessazione del mandato per tutti i dati",
+        "why_wrong": "I dati restano pubblicati per i tre anni successivi alla cessazione; solo quelli patrimoniali cessano con il mandato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14, comma 2, prevede la pubblicazione entro tre mesi dall'elezione, dalla nomina o dal conferimento e per i tre anni successivi alla cessazione; le informazioni sulla situazione patrimoniale e le dichiarazioni di coniuge e parenti sono pubblicate fino alla cessazione. Decorsi i termini, i dati sono accessibili ai sensi dell'art. 5.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 2",
+        "text": "Le pubbliche amministrazioni pubblicano i dati cui ai commi 1 e 1-bis entro tre mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e per i tre anni successivi dalla cessazione del mandato o dell'incarico dei soggetti, salve le informazioni concernenti la situazione patrimoniale e, ove consentita, la dichiarazione del coniuge non separato e dei parenti entro il secondo grado, che vengono pubblicate fino alla cessazione dell'incarico o del mandato."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 14, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-002",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 14, comma 1-quater, del d.lgs. 33/2013, negli atti di conferimento di incarichi dirigenziali e nei relativi contratti sono riportati gli obiettivi di trasparenza. Il mancato raggiungimento di tali obiettivi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non produce conseguenze, trattandosi di obiettivi programmatici",
+        "why_wrong": "Il comma 1-quater collega al mancato raggiungimento la responsabilità dirigenziale."
+      },
+      {
+        "id": "b",
+        "text": "comporta la decadenza immediata dall'incarico",
+        "why_wrong": "Il comma 1-quater prevede la responsabilità dirigenziale e la valutazione per i successivi incarichi, non la decadenza."
+      },
+      {
+        "id": "c",
+        "text": "determina responsabilità dirigenziale ai sensi dell'art. 21 del d.lgs. 165/2001 e se ne tiene conto ai fini del conferimento di successivi incarichi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "comporta una sanzione amministrativa pecuniaria da 500 a 10.000 euro",
+        "why_wrong": "Questa sanzione riguarda la mancata comunicazione dei dati patrimoniali dell'art. 14 (art. 47, comma 1)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1-quater impone di indicare obiettivi di trasparenza negli atti di conferimento e nei contratti dei dirigenti; il loro mancato raggiungimento determina responsabilità dirigenziale e pesa sul conferimento di incarichi successivi.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 1-quater",
+        "text": "Negli atti di conferimento di incarichi dirigenziali e nei relativi contratti sono riportati gli obiettivi di trasparenza"
+      },
+      {
+        "ref": "art. 14, comma 1-quater",
+        "text": "Il mancato raggiungimento dei suddetti obiettivi determina responsabilità dirigenziale ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165"
+      },
+      {
+        "ref": "art. 14, comma 1-quater",
+        "text": "Del mancato raggiungimento dei suddetti obiettivi si tiene conto ai fini del conferimento di successivi incarichi."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 14, comma 1-quater",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-003",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Una Provincia conferisce a un professionista esterno un incarico di consulenza retribuito. Ai sensi dell'art. 15, comma 2, del d.lgs. 33/2013, la pubblicazione degli estremi dell'atto di conferimento, completi dell'indicazione del percettore, della ragione dell'incarico e dell'ammontare erogato, e la comunicazione dei dati al Dipartimento della funzione pubblica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono condizioni per l'acquisizione dell'efficacia dell'atto e per la liquidazione dei relativi compensi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sono adempimenti successivi che non incidono sull'efficacia dell'incarico",
+        "why_wrong": "Il comma 2 le qualifica espressamente come condizioni di efficacia dell'atto e di liquidazione dei compensi."
+      },
+      {
+        "id": "c",
+        "text": "sono necessarie solo se il compenso supera mille euro",
+        "why_wrong": "La soglia di mille euro riguarda i vantaggi economici dell'art. 26; il comma 2 si applica a tutti gli incarichi per cui è previsto un compenso."
+      },
+      {
+        "id": "d",
+        "text": "sono condizioni di validità dell'atto, la cui mancanza ne determina la nullità",
+        "why_wrong": "Il comma 2 parla di condizioni di efficacia e di liquidazione dei compensi, non di validità."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 15, comma 2, rende la pubblicazione degli estremi degli atti di conferimento di incarichi di collaborazione o consulenza retribuiti, e la comunicazione al Dipartimento della funzione pubblica, condizioni per l'efficacia dell'atto e per la liquidazione dei compensi.",
+    "evidence": [
+      {
+        "ref": "art. 15, comma 2",
+        "text": "di collaborazione o di consulenza a soggetti esterni a qualsiasi titolo per i quali è previsto un compenso, completi di indicazione dei soggetti percettori, della ragione dell'incarico e dell'ammontare erogato"
+      },
+      {
+        "ref": "art. 15, comma 2",
+        "text": "sono condizioni per l'acquisizione dell'efficacia dell'atto e per la liquidazione dei relativi compensi."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 15, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-004",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 15, comma 3, del d.lgs. 33/2013, in caso di omessa pubblicazione dei dati relativi a un incarico di consulenza, il pagamento del corrispettivo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è nullo e il consulente deve restituire le somme",
+        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente e una sanzione, non la restituzione da parte del consulente."
+      },
+      {
+        "id": "b",
+        "text": "non produce alcuna conseguenza se l'incarico è stato regolarmente svolto",
+        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente che ha disposto il pagamento."
+      },
+      {
+        "id": "c",
+        "text": "comporta la sospensione del consulente dall'albo professionale",
+        "why_wrong": "Il comma 3 non prevede conseguenze per il consulente sul piano professionale."
+      },
+      {
+        "id": "d",
+        "text": "determina la responsabilità del dirigente che l'ha disposto, accertata all'esito del procedimento disciplinare, e comporta il pagamento di una sanzione pari alla somma corrisposta",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 15, comma 3, prevede che il pagamento disposto in assenza della pubblicazione del comma 2 determini la responsabilità del dirigente, accertata in sede disciplinare, e una sanzione pari alla somma corrisposta, fatto salvo il risarcimento del danno del destinatario.",
+    "evidence": [
+      {
+        "ref": "art. 15, comma 3",
+        "text": "In caso di omessa pubblicazione di quanto previsto al comma 2, il pagamento del corrispettivo determina la responsabilità del dirigente che l'ha disposto, accertata all'esito del procedimento disciplinare, e comporta il pagamento di una sanzione pari alla somma corrisposta"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 15, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-005",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune non ha pubblicato i dati relativi a una società di cui detiene una quota di partecipazione. La società ha svolto per il Comune un servizio in base a un contratto e ne attende il pagamento; chiede inoltre un contributo straordinario. Ai sensi dell'art. 22, comma 4, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il Comune non può erogare alla società alcuna somma, neppure il corrispettivo del contratto",
+        "why_wrong": "Il divieto esclude i pagamenti dovuti a fronte di obbligazioni contrattuali per prestazioni svolte."
+      },
+      {
+        "id": "b",
+        "text": "il Comune non può erogare il contributo straordinario, ma può pagare il corrispettivo dovuto per la prestazione contrattuale svolta",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il Comune può erogare entrambe le somme, perché il divieto riguarda solo gli enti pubblici vigilati",
+        "why_wrong": "Il divieto riguarda tutti gli enti del comma 1, comprese le società partecipate."
+      },
+      {
+        "id": "d",
+        "text": "il Comune può erogare entrambe le somme previa autorizzazione dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 4 non prevede autorizzazioni in deroga."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 22, comma 4, vieta l'erogazione di somme a qualsiasi titolo agli enti del comma 1 i cui dati non siano stati pubblicati, ad esclusione dei pagamenti dovuti per obbligazioni contrattuali relative a prestazioni svolte in favore dell'amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 22, comma 4",
+        "text": "Nel caso di mancata o incompleta pubblicazione dei dati relativi agli enti di cui al comma 1, è vietata l'erogazione in loro favore di somme a qualsivoglia titolo da parte dell'amministrazione interessata ((ad esclusione dei pagamenti che le amministrazioni sono tenute ad erogare a fronte di obbligazioni contrattuali per prestazioni svolte in loro favore"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 22, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-006",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 23, comma 1, del d.lgs. 33/2013, gli elenchi dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti sono pubblicati e aggiornati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ogni anno, entro il 31 gennaio",
+        "why_wrong": "Il 31 gennaio è il termine per il Piano triennale per la prevenzione della corruzione (art. 1, comma 8, L. 190/2012)."
+      },
+      {
+        "id": "b",
+        "text": "trimestralmente",
+        "why_wrong": "La cadenza trimestrale è prevista per altri dati, come i tassi di assenza del personale (art. 16, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "ogni sei mesi, in distinte partizioni della sezione «Amministrazione trasparente»",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "almeno a cadenza triennale",
+        "why_wrong": "La cadenza almeno triennale riguarda l'elenco degli obblighi oggetto dei controlli sulle attività economiche (art. 23-bis)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 23, comma 1, prevede la pubblicazione e l'aggiornamento semestrale degli elenchi dei provvedimenti di organi politici e dirigenti, con particolare riferimento a scelta del contraente e accordi con privati o altre amministrazioni.",
+    "evidence": [
+      {
+        "ref": "art. 23, comma 1",
+        "text": "Le pubbliche amministrazioni pubblicano e aggiornano ogni sei mesi, in distinte partizioni della sezione «Amministrazione trasparente», gli elenchi dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 23, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-007",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Nel corso dello stesso anno solare un Comune concede a una stessa associazione due contributi, rispettivamente di 600 e di 500 euro. Ai sensi dell'art. 26, comma 3, del d.lgs. 33/2013, la pubblicazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non è condizione di efficacia, perché nessuno dei due contributi supera mille euro",
+        "why_wrong": "La soglia si riferisce all'importo complessivo nell'anno solare al medesimo beneficiario."
+      },
+      {
+        "id": "b",
+        "text": "è condizione di efficacia solo per il secondo contributo",
+        "why_wrong": "La norma considera l'importo complessivo attribuito nell'anno al medesimo beneficiario, non il singolo provvedimento."
+      },
+      {
+        "id": "c",
+        "text": "è facoltativa, trattandosi di un'associazione e non di un'impresa",
+        "why_wrong": "L'art. 26 riguarda i vantaggi economici a persone ed enti pubblici e privati, senza escludere le associazioni."
+      },
+      {
+        "id": "d",
+        "text": "costituisce condizione legale di efficacia dei provvedimenti, perché l'importo complessivo nell'anno solare al medesimo beneficiario supera mille euro",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 26, comma 3, rende la pubblicazione condizione legale di efficacia dei provvedimenti che dispongono concessioni e attribuzioni di importo complessivo superiore a mille euro nell'anno solare al medesimo beneficiario: qui il totale è 1.100 euro.",
+    "evidence": [
+      {
+        "ref": "art. 26, comma 3",
+        "text": "La pubblicazione ai sensi del presente articolo costituisce condizione legale di efficacia dei provvedimenti che dispongano concessioni e attribuzioni di importo complessivo superiore a mille euro nel corso dell'anno solare al medesimo beneficiario."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 26, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-008",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune concede un sussidio economico a una famiglia in condizioni di disagio economico-sociale. Ai sensi dell'art. 26, comma 4, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è esclusa la pubblicazione dei dati identificativi delle persone fisiche destinatarie, se da essi è possibile ricavare informazioni sulla situazione di disagio economico-sociale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "devono essere pubblicati nome e cognome dei beneficiari, perché la pubblicazione è condizione di efficacia",
+        "why_wrong": "Il comma 4 esclude la pubblicazione dei dati identificativi quando rivelano disagio economico-sociale o stato di salute."
+      },
+      {
+        "id": "c",
+        "text": "la concessione non va pubblicata in alcuna forma",
+        "why_wrong": "Il comma 4 esclude solo la pubblicazione dei dati identificativi delle persone fisiche, non ogni pubblicazione."
+      },
+      {
+        "id": "d",
+        "text": "i dati identificativi sono pubblicati previo consenso degli interessati",
+        "why_wrong": "Il comma 4 esclude la pubblicazione dei dati identificativi, senza prevedere il consenso come deroga."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 26, comma 4, esclude la pubblicazione dei dati identificativi delle persone fisiche destinatarie quando da essi si possono ricavare informazioni sullo stato di salute o sul disagio economico-sociale.",
+    "evidence": [
+      {
+        "ref": "art. 26, comma 4",
+        "text": "È esclusa la pubblicazione dei dati identificativi delle persone fisiche destinatarie dei provvedimenti di cui al presente articolo, qualora da tali dati sia possibile ricavare informazioni relative allo stato di salute ovvero alla situazione di disagio economico-sociale degli interessati."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 26, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-009",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un cittadino presenta un'istanza a un Comune senza utilizzare il modulo previsto, che il Comune non ha pubblicato sul proprio sito. Ai sensi dell'art. 35, comma 2, del d.lgs. 33/2013, il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve respingere l'istanza, perché non redatta sul modulo prescritto",
+        "why_wrong": "Il comma 2 vieta di respingere l'istanza per il mancato utilizzo dei moduli."
+      },
+      {
+        "id": "b",
+        "text": "deve dichiarare improcedibile l'istanza fino alla pubblicazione del modulo",
+        "why_wrong": "Il comma 2 prevede che il procedimento possa essere avviato anche in assenza del modulo non pubblicato."
+      },
+      {
+        "id": "c",
+        "text": "non può richiedere l'uso di un modulo non pubblicato; il procedimento può essere avviato anche senza modulo e, se mancano documenti, il Comune deve invitare l'istante a integrare la documentazione in un termine congruo",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può chiedere all'istante di ripresentare l'istanza sul modulo, interrompendo i termini",
+        "why_wrong": "Il comma 2 vieta di richiedere l'uso di moduli non pubblicati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 35, comma 2, vieta di richiedere moduli non pubblicati, consente di avviare il procedimento anche in loro assenza e vieta di respingere l'istanza per il mancato uso dei moduli o la mancata produzione di atti: l'amministrazione deve invitare a integrare la documentazione.",
+    "evidence": [
+      {
+        "ref": "art. 35, comma 2",
+        "text": "Le pubbliche amministrazioni non possono richiedere l'uso di moduli e formulari che non siano stati pubblicati; in caso di omessa pubblicazione, i relativi procedimenti possono essere avviati anche in assenza dei suddetti moduli o formulari. L'amministrazione non può respingere l'istanza adducendo il mancato utilizzo dei moduli o formulari o la mancata produzione di tali atti o documenti, e deve invitare l'istante a integrare la documentazione in un termine congruo."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 35, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-010",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune approva una variante al proprio strumento urbanistico generale ma non la pubblica sul sito. Ai sensi dell'art. 39, comma 3, del d.lgs. 33/2013, la pubblicità degli atti di governo del territorio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha solo funzione di notizia e non incide sull'efficacia dell'atto",
+        "why_wrong": "Il comma 3 la qualifica come condizione per l'acquisizione dell'efficacia."
+      },
+      {
+        "id": "b",
+        "text": "è condizione per l'acquisizione dell'efficacia degli atti stessi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è condizione di validità dell'atto, la cui mancanza ne determina la nullità",
+        "why_wrong": "Il comma 3 parla di efficacia, non di validità."
+      },
+      {
+        "id": "d",
+        "text": "è necessaria solo per le varianti di iniziativa privata",
+        "why_wrong": "Il comma 3 riguarda tutti gli atti del comma 1, lettera a), comprese le varianti agli strumenti urbanistici."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 39, comma 3, rende la pubblicità degli atti di governo del territorio (piani territoriali, di coordinamento, paesistici, strumenti urbanistici e loro varianti) condizione per l'acquisizione della loro efficacia.",
+    "evidence": [
+      {
+        "ref": "art. 39, comma 3",
+        "text": "La pubblicità degli atti di cui al comma 1, lettera a), è condizione per l'acquisizione dell'efficacia degli atti stessi."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 39, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-011",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 43, comma 1, del d.lgs. 33/2013, le funzioni di Responsabile per la trasparenza sono svolte, di norma:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal responsabile per la prevenzione della corruzione di cui all'art. 1, comma 7, della L. 190/2012, il cui nominativo è indicato nel Piano triennale per la prevenzione della corruzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "dal presidente dell'organismo indipendente di valutazione",
+        "why_wrong": "L'OIV è tra i destinatari delle segnalazioni del Responsabile, non ne svolge le funzioni."
+      },
+      {
+        "id": "c",
+        "text": "dal dirigente dell'Ufficio relazioni con il pubblico",
+        "why_wrong": "L'URP è uno degli uffici cui presentare l'istanza di accesso civico (art. 5, comma 3), non il Responsabile per la trasparenza."
+      },
+      {
+        "id": "d",
+        "text": "da un funzionario designato dall'Autorità nazionale anticorruzione",
+        "why_wrong": "L'art. 43, comma 1, attribuisce di norma le funzioni al responsabile per la prevenzione della corruzione dell'amministrazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 43, comma 1, prevede che il responsabile per la prevenzione della corruzione svolga di norma anche le funzioni di Responsabile per la trasparenza, e che il suo nominativo sia indicato nel Piano triennale per la prevenzione della corruzione.",
+    "evidence": [
+      {
+        "ref": "art. 43, comma 1",
+        "text": "svolge, di norma, le funzioni di Responsabile per la trasparenza, di seguito «Responsabile», e il suo nominativo è indicato nel ((Piano triennale per la prevenzione della corruzione))"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 43, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-012",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 43, comma 1, del d.lgs. 33/2013, il Responsabile per la trasparenza segnala i casi di mancato o ritardato adempimento degli obblighi di pubblicazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "soltanto all'ufficio di disciplina",
+        "why_wrong": "L'ufficio di disciplina è destinatario solo nei casi più gravi; le segnalazioni vanno anche a organo di indirizzo, OIV e ANAC."
+      },
+      {
+        "id": "b",
+        "text": "al prefetto e alla Corte dei conti",
+        "why_wrong": "La segnalazione alla Corte dei conti, «se del caso», è prevista per l'ANAC (art. 45, comma 4), non per il Responsabile."
+      },
+      {
+        "id": "c",
+        "text": "all'organo di indirizzo politico, all'OIV, all'Autorità nazionale anticorruzione e, nei casi più gravi, all'ufficio di disciplina",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al solo organismo indipendente di valutazione",
+        "why_wrong": "Il comma 1 indica più destinatari: organo di indirizzo, OIV, ANAC e, nei casi più gravi, ufficio di disciplina."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 43, comma 1, affida al Responsabile un controllo stabile sull'adempimento degli obblighi di pubblicazione, con segnalazione degli inadempimenti a organo di indirizzo, OIV, ANAC e, nei casi più gravi, all'ufficio di disciplina.",
+    "evidence": [
+      {
+        "ref": "art. 43, comma 1",
+        "text": "nonché segnalando all'organo di indirizzo politico, all'Organismo indipendente di valutazione (OIV), all'Autorità nazionale anticorruzione e, nei casi più gravi, all'ufficio di disciplina i casi di mancato o ritardato adempimento degli obblighi di pubblicazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 43, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-013",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 44 del d.lgs. 33/2013, l'organismo indipendente di valutazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "irroga le sanzioni per la violazione degli obblighi di trasparenza",
+        "why_wrong": "Le sanzioni dell'art. 47 sono irrogate dall'ANAC (art. 47, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "verifica la coerenza tra gli obiettivi del Piano triennale per la prevenzione della corruzione e quelli del Piano della performance, valutando l'adeguatezza dei relativi indicatori",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "pubblica i dati nella sezione «Amministrazione trasparente» in sostituzione degli uffici",
+        "why_wrong": "Il flusso delle informazioni è garantito dai dirigenti (art. 43, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "ordina alle amministrazioni di procedere alla pubblicazione entro trenta giorni",
+        "why_wrong": "Questo potere spetta all'ANAC (art. 45, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 44 affida all'OIV la verifica della coerenza tra gli obiettivi del Piano triennale anticorruzione e quelli del Piano della performance; l'OIV utilizza inoltre i dati sull'attuazione della trasparenza per misurare la performance organizzativa e individuale.",
+    "evidence": [
+      {
+        "ref": "art. 44, comma 1",
+        "text": "L'organismo indipendente di valutazione verifica la coerenza tra gli obiettivi previsti nel ((Piano triennale per la prevenzione della corruzione)) e quelli indicati nel Piano della performance, valutando altresì l'adeguatezza dei relativi indicatori."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 44, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-014",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 45, comma 1, del d.lgs. 33/2013, nel controllare l'esatto adempimento degli obblighi di pubblicazione, l'Autorità nazionale anticorruzione può ordinare di procedere alla pubblicazione di dati, documenti e informazioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro un termine non superiore a trenta giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "entro un termine non superiore a sessanta giorni",
+        "why_wrong": "Il comma 1 fissa un termine non superiore a trenta giorni."
+      },
+      {
+        "id": "c",
+        "text": "entro il 31 gennaio dell'anno successivo",
+        "why_wrong": "Il comma 1 fissa un termine non superiore a trenta giorni dall'ordine."
+      },
+      {
+        "id": "d",
+        "text": "entro dieci giorni, a pena di decadenza del responsabile",
+        "why_wrong": "Il comma 1 fissa un termine non superiore a trenta giorni e non prevede la decadenza."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 45, comma 1, attribuisce all'ANAC poteri ispettivi e il potere di ordinare, entro un termine non superiore a trenta giorni, la pubblicazione, l'adozione di atti richiesti o la rimozione di comportamenti o atti contrastanti con le regole sulla trasparenza.",
+    "evidence": [
+      {
+        "ref": "art. 45, comma 1",
+        "text": "controlla l'esatto adempimento degli obblighi di pubblicazione previsti dalla normativa vigente, esercitando poteri ispettivi"
+      },
+      {
+        "ref": "art. 45, comma 1",
+        "text": "((di procedere, entro un termine non superiore a trenta giorni, alla pubblicazione di dati, documenti e informazioni ai sensi del presente decreto"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 45, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-015",
+    "subject": "trasparenza-anticorruzione",
+    "question": "L'Autorità nazionale anticorruzione ha ordinato a un ente di pubblicare alcuni dati entro trenta giorni, ma l'ente non ha provveduto. Ai sensi dell'art. 45, comma 4, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'Autorità pubblica direttamente i dati sul sito dell'ente",
+        "why_wrong": "Il comma 4 non prevede la pubblicazione sostitutiva da parte dell'ANAC."
+      },
+      {
+        "id": "b",
+        "text": "l'ordine perde efficacia e deve essere rinnovato",
+        "why_wrong": "Il comma 4 qualifica il mancato rispetto dell'obbligo come illecito disciplinare."
+      },
+      {
+        "id": "c",
+        "text": "il mancato rispetto dell'obbligo costituisce illecito disciplinare e l'Autorità lo segnala all'ufficio per i procedimenti disciplinari dell'ente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "l'Autorità irroga immediatamente una sanzione pecuniaria da 500 a 10.000 euro",
+        "why_wrong": "La sanzione da 500 a 10.000 euro riguarda la mancata comunicazione dei dati dell'art. 14 (art. 47, comma 1)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 45, comma 4, qualifica come illecito disciplinare il mancato rispetto dell'ordine di pubblicazione; l'ANAC lo segnala all'ufficio dei procedimenti disciplinari dell'amministrazione e segnala gli inadempimenti anche ai vertici politici, agli OIV e, se del caso, alla Corte dei conti.",
+    "evidence": [
+      {
+        "ref": "art. 45, comma 4",
+        "text": "Il mancato rispetto dell'obbligo di pubblicazione di cui al comma 1 costituisce illecito disciplinare."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 45, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-016",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 46, comma 1, del d.lgs. 33/2013, l'inadempimento degli obblighi di pubblicazione e il rifiuto, il differimento e la limitazione dell'accesso civico al di fuori delle ipotesi dell'art. 5-bis:",
+    "options": [
+      {
+        "id": "a",
+        "text": "costituiscono reato di omissione di atti d'ufficio",
+        "why_wrong": "Il comma 1 non qualifica l'inadempimento come reato, ma come elemento di valutazione negativa della responsabilità dirigenziale."
+      },
+      {
+        "id": "b",
+        "text": "comportano la nullità degli atti non pubblicati",
+        "why_wrong": "Il comma 1 disciplina la responsabilità dei dirigenti, non la validità degli atti."
+      },
+      {
+        "id": "c",
+        "text": "rilevano solo se segnalati dal difensore civico",
+        "why_wrong": "Il comma 1 non subordina la responsabilità a segnalazioni del difensore civico."
+      },
+      {
+        "id": "d",
+        "text": "costituiscono elemento di valutazione negativa della responsabilità dirigenziale ed eventuale causa di responsabilità per danno all'immagine dell'amministrazione, valutata ai fini della retribuzione di risultato",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 46, comma 1, collega all'inadempimento degli obblighi di pubblicazione e all'illegittimo diniego di accesso civico la valutazione negativa della responsabilità dirigenziale, l'eventuale danno all'immagine e la valutazione ai fini della retribuzione di risultato e del trattamento accessorio.",
+    "evidence": [
+      {
+        "ref": "art. 46, comma 1",
+        "text": "costituiscono elemento di valutazione negativa della responsabilità dirigenziale a cui applicare la sanzione di cui all'articolo 47, comma 1-bis, ed eventuale causa di responsabilità per danno all'immagine dell'amministrazione, valutata ai fini della corresponsione della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei responsabili"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 46, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-017",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un dirigente non ha pubblicato alcuni dati obbligatori perché il sistema informatico nazionale da cui doveva estrarli è rimasto inattivo per mesi per cause esterne all'ente. Ai sensi dell'art. 46, comma 2, del d.lgs. 33/2013, il dirigente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "risponde comunque, perché la responsabilità per l'inadempimento è oggettiva",
+        "why_wrong": "Il comma 2 esclude la responsabilità se l'inadempimento è dipeso da causa non imputabile."
+      },
+      {
+        "id": "b",
+        "text": "non risponde dell'inadempimento se prova che è dipeso da causa a lui non imputabile",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "non risponde solo se ottiene un'autorizzazione preventiva dell'ANAC",
+        "why_wrong": "Il comma 2 richiede la prova della causa non imputabile, non un'autorizzazione."
+      },
+      {
+        "id": "d",
+        "text": "risponde, ma la sanzione è ridotta della metà",
+        "why_wrong": "Il comma 2 esclude la responsabilità, senza prevedere riduzioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 46, comma 2, esclude la responsabilità se il responsabile prova che l'inadempimento è dipeso da causa a lui non imputabile; l'onere della prova è a suo carico.",
+    "evidence": [
+      {
+        "ref": "art. 46, comma 2",
+        "text": "Il responsabile non risponde dell'inadempimento degli obblighi di cui al comma 1 se prova che tale inadempimento è dipeso da causa a lui non imputabile."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 46, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-018",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 47, comma 1, del d.lgs. 33/2013, la mancata o incompleta comunicazione delle informazioni di cui all'art. 14 sulla situazione patrimoniale complessiva del titolare dell'incarico, sulla titolarità di imprese, sulle partecipazioni azionarie e sui compensi cui dà diritto l'assunzione della carica dà luogo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "alla decurtazione dal 30 al 60 per cento dell'indennità di risultato",
+        "why_wrong": "Questa sanzione è prevista dal comma 1-bis per il responsabile della mancata pubblicazione e dal comma 2 per altri casi."
+      },
+      {
+        "id": "b",
+        "text": "alla decadenza dalla carica",
+        "why_wrong": "Il comma 1 prevede una sanzione amministrativa pecuniaria, non la decadenza."
+      },
+      {
+        "id": "c",
+        "text": "a una sanzione pari alla somma corrisposta",
+        "why_wrong": "La sanzione pari alla somma corrisposta è prevista per il pagamento dei consulenti senza pubblicazione (art. 15, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "a una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del responsabile della mancata comunicazione, con pubblicazione del relativo provvedimento sul sito dell'amministrazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 47, comma 1, sanziona la mancata o incompleta comunicazione dei dati patrimoniali e reddituali dell'art. 14 con una sanzione amministrativa pecuniaria da 500 a 10.000 euro, il cui provvedimento è pubblicato sul sito dell'amministrazione o dell'organismo interessato.",
+    "evidence": [
+      {
+        "ref": "art. 47, comma 1",
+        "text": "dà luogo a una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del responsabile della mancata comunicazione e il relativo provvedimento è pubblicato sul sito internet dell'amministrazione o organismo interessato."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 47, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-019",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 47, comma 3, del d.lgs. 33/2013, le sanzioni per la violazione degli obblighi di trasparenza per casi specifici sono irrogate:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dall'Autorità nazionale anticorruzione, che disciplina con proprio regolamento il procedimento, nel rispetto della L. 689/1981",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "dal Responsabile per la trasparenza di ciascuna amministrazione",
+        "why_wrong": "Il Responsabile segnala gli inadempimenti (art. 43); le sanzioni sono irrogate dall'ANAC."
+      },
+      {
+        "id": "c",
+        "text": "dall'ufficio per i procedimenti disciplinari dell'amministrazione interessata",
+        "why_wrong": "All'ufficio disciplinare l'ANAC segnala l'illecito disciplinare dell'art. 45, comma 4; le sanzioni dell'art. 47 sono irrogate dall'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "dal prefetto competente per territorio",
+        "why_wrong": "Il comma 3 attribuisce la competenza all'ANAC."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 47, comma 3, affida l'irrogazione delle sanzioni all'ANAC, che disciplina il procedimento con proprio regolamento nel rispetto della L. 689/1981.",
+    "evidence": [
+      {
+        "ref": "art. 47, comma 3",
+        "text": "sono irrogate dall'Autorità nazionale anticorruzione. L'Autorità nazionale anticorruzione disciplina con proprio regolamento, nel rispetto delle norme previste dalla legge 24 novembre 1981, n. 689"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 47, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-o-020",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Una Regione non pubblica i rendiconti dei gruppi consiliari regionali previsti dall'art. 28 del d.lgs. 33/2013. Ai sensi dell'art. 28, comma 2, la conseguenza è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del presidente del gruppo",
+        "why_wrong": "Questa sanzione riguarda la mancata comunicazione dei dati dell'art. 14 (art. 47, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "il divieto di erogare ai gruppi somme a qualsiasi titolo",
+        "why_wrong": "Il divieto di erogazione è previsto per gli enti dell'art. 22, comma 4."
+      },
+      {
+        "id": "c",
+        "text": "la riduzione del 50 per cento delle risorse da trasferire o da assegnare nel corso dell'anno",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "lo scioglimento dei gruppi consiliari inadempienti",
+        "why_wrong": "Il comma 2 prevede la riduzione delle risorse, non lo scioglimento."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 28, comma 2, stabilisce che la mancata pubblicazione dei rendiconti dei gruppi consiliari regionali e provinciali comporta la riduzione del 50 per cento delle risorse da trasferire o assegnare nel corso dell'anno.",
+    "evidence": [
+      {
+        "ref": "art. 28, comma 2",
+        "text": "La mancata pubblicazione dei rendiconti comporta la riduzione del 50 per cento delle risorse da trasferire o da assegnare nel corso dell'anno."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 28, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

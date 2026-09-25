@@ -64,6 +64,11 @@ def parse_law(path):
             article, comma, buf = None, None, []
             continue
         m = COMMA_RE.match(line) if article is not None else None
+        # A comma number already seen in this article is not a new comma: it is
+        # the text of another act quoted inside the current comma (e.g. "1. ...",
+        # "2. ..." of an article inserted by L. 190/2012, art. 1, comma 44).
+        if m and (m.group(1) in law.get(article, {}) or m.group(1) == comma):
+            m = None
         if m:
             flush()
             comma, buf = m.group(1), [line]
