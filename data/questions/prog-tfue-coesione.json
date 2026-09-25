@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pc-tfue-001",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 174 TFUE, tra le regioni interessate dall'azione dell'Unione per il rafforzamento della coesione economica, sociale e territoriale, un'attenzione particolare è rivolta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "alle zone rurali, alle zone interessate da transizione industriale e alle regioni che presentano gravi e permanenti svantaggi naturali o demografici",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "esclusivamente alle regioni ultraperiferiche e alle regioni insulari",
+        "why_wrong": "L'art. 174 TFUE non limita l'attenzione particolare a tali regioni: vi comprende anche le zone rurali, quelle in transizione industriale e le regioni con gravi e permanenti svantaggi naturali o demografici."
+      },
+      {
+        "id": "c",
+        "text": "alle regioni con il più elevato livello di sviluppo, in quanto motore della crescita dell'Unione",
+        "why_wrong": "L'art. 174 TFUE mira a ridurre il divario tra i livelli di sviluppo delle regioni e il ritardo delle regioni meno favorite."
+      },
+      {
+        "id": "d",
+        "text": "alle sole regioni industriali in declino, da riconvertire con il Fondo di coesione",
+        "why_wrong": "La riconversione delle regioni industriali in declino è indicata dall'art. 176 TFUE tra i compiti del FESR, non del Fondo di coesione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 174 TFUE stabilisce che l'Unione mira a ridurre il divario tra i livelli di sviluppo delle varie regioni e il ritardo delle regioni meno favorite; tra le regioni interessate, rivolge un'attenzione particolare alle zone rurali, alle zone interessate da transizione industriale e alle regioni con gravi e permanenti svantaggi naturali o demografici (regioni più settentrionali a bassissima densità demografica, regioni insulari, transfrontaliere e di montagna).",
+    "evidence": [
+      {
+        "ref": "art. 174 TFUE",
+        "text": "In particolare l'Unione mira a ridurre il divario tra i livelli di sviluppo delle varie regioni ed il ritardo delle regioni meno favorite. Tra le regioni interessate, un'attenzione particolare è rivolta alle zone rurali, alle zone interessate da transizione industriale e alle regioni che presentano gravi e permanenti svantaggi naturali o demografici, quali le regioni più settentrionali con bassissima densità demografica e le regioni insulari, transfrontaliere e di montagna."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 174 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-tfue-002",
+    "subject": "programmazione-ue",
+    "question": "Un'amministrazione regionale sta redigendo una nota sulle finalità dei fondi strutturali nei Trattati. Secondo l'art. 176 TFUE, il Fondo europeo di sviluppo regionale è destinato a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "erogare contributi finanziari a progetti in materia di ambiente e di reti transeuropee nel settore delle infrastrutture dei trasporti",
+        "why_wrong": "Si tratta della finalità del Fondo di coesione, indicata dall'art. 177, secondo comma, TFUE."
+      },
+      {
+        "id": "b",
+        "text": "contribuire alla correzione dei principali squilibri regionali esistenti nell'Unione, partecipando allo sviluppo e all'adeguamento strutturale delle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "finanziare le azioni specifiche necessarie al di fuori dei Fondi",
+        "why_wrong": "L'art. 175 TFUE prevede che le azioni specifiche al di fuori dei Fondi siano adottate dal Parlamento europeo e dal Consiglio: non sono una finalità del FESR."
+      },
+      {
+        "id": "d",
+        "text": "sostenere esclusivamente le zone rurali e le regioni di montagna",
+        "why_wrong": "L'art. 176 TFUE riferisce il FESR ai principali squilibri regionali, alle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino, senza limitarlo a tali zone."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per l'art. 176 TFUE il FESR contribuisce alla correzione dei principali squilibri regionali esistenti nell'Unione, partecipando allo sviluppo e all'adeguamento strutturale delle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino.",
+    "evidence": [
+      {
+        "ref": "art. 176 TFUE",
+        "text": "Il Fondo europeo di sviluppo regionale è destinato a contribuire alla correzione dei principali squilibri regionali esistenti nell'Unione, partecipando allo sviluppo e all'adeguamento strutturale delle regioni in ritardo di sviluppo nonché alla riconversione delle regioni industriali in declino."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 176 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-tfue-003",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 175 TFUE, la relazione sui progressi compiuti nella realizzazione della coesione economica, sociale e territoriale è presentata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal Comitato delle regioni alla Commissione, ogni anno",
+        "why_wrong": "Secondo l'art. 175 TFUE la relazione è presentata dalla Commissione, e il Comitato delle regioni ne è uno dei destinatari."
+      },
+      {
+        "id": "b",
+        "text": "dalla Commissione al Parlamento europeo, al Consiglio, al Comitato economico e sociale e al Comitato delle regioni, ogni tre anni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "dal Consiglio al Parlamento europeo, ogni due anni",
+        "why_wrong": "L'art. 175 TFUE attribuisce la relazione alla Commissione, con cadenza triennale."
+      },
+      {
+        "id": "d",
+        "text": "dagli Stati membri alla Commissione, al termine di ciascun periodo di programmazione",
+        "why_wrong": "L'art. 175 TFUE prevede una relazione della Commissione, presentata ogni tre anni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 175 TFUE prevede che la Commissione presenti ogni tre anni al Parlamento europeo, al Consiglio, al Comitato economico e sociale e al Comitato delle regioni una relazione sui progressi compiuti nella realizzazione della coesione e sul contributo dei vari strumenti, corredata se del caso di appropriate proposte.",
+    "evidence": [
+      {
+        "ref": "art. 175 TFUE",
+        "text": "La Commissione presenta ogni tre anni al Parlamento europeo, al Consiglio, al Comitato economico e sociale e al Comitato delle regioni una relazione sui progressi compiuti nella realizzazione della coesione economica, sociale e territoriale e sul modo in cui i vari strumenti previsti dal presente articolo vi hanno contribuito."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 175 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-tfue-004",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro vuole sapere per quali progetti possa essere richiesto il sostegno del Fondo di coesione. Secondo l'art. 177 TFUE, il Fondo di coesione è istituito per l'erogazione di contributi finanziari a progetti in materia di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ricerca e sviluppo tecnologico",
+        "why_wrong": "L'art. 177 TFUE non menziona la ricerca tra le materie del Fondo di coesione, che riguarda ambiente e reti transeuropee dei trasporti."
+      },
+      {
+        "id": "b",
+        "text": "riconversione delle regioni industriali in declino",
+        "why_wrong": "La riconversione delle regioni industriali in declino è indicata dall'art. 176 TFUE per il FESR."
+      },
+      {
+        "id": "c",
+        "text": "ambiente e reti transeuropee nel settore delle infrastrutture dei trasporti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sviluppo delle zone rurali e delle regioni di montagna",
+        "why_wrong": "Le zone rurali e le regioni di montagna sono richiamate dall'art. 174 TFUE tra le regioni oggetto di particolare attenzione, non come materie del Fondo di coesione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 177, secondo comma, TFUE stabilisce che un Fondo di coesione è istituito, secondo la procedura legislativa ordinaria, per l'erogazione di contributi finanziari a progetti in materia di ambiente e di reti transeuropee nel settore delle infrastrutture dei trasporti.",
+    "evidence": [
+      {
+        "ref": "art. 177 TFUE",
+        "text": "Un Fondo di coesione è istituito secondo la stessa procedura per l'erogazione di contributi finanziari a progetti in materia di ambiente e di reti transeuropee nel settore delle infrastrutture dei trasporti."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 177 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-tfue-005",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 177 TFUE, i compiti, gli obiettivi prioritari e l'organizzazione dei fondi a finalità strutturale sono definiti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dalla Commissione, mediante atti di esecuzione, sentito il Comitato delle regioni",
+        "why_wrong": "L'art. 177 TFUE affida la definizione al Parlamento europeo e al Consiglio, mediante regolamenti."
+      },
+      {
+        "id": "b",
+        "text": "dal Consiglio all'unanimità, previa approvazione del Parlamento europeo",
+        "why_wrong": "L'art. 177 TFUE prevede la procedura legislativa ordinaria, non una deliberazione unanime del Consiglio."
+      },
+      {
+        "id": "c",
+        "text": "dal Parlamento europeo e dal Consiglio, senza consultazione di altri organi",
+        "why_wrong": "L'art. 177 TFUE richiede la previa consultazione del Comitato economico e sociale e del Comitato delle regioni."
+      },
+      {
+        "id": "d",
+        "text": "dal Parlamento europeo e dal Consiglio, mediante regolamenti secondo la procedura legislativa ordinaria e previa consultazione del Comitato economico e sociale e del Comitato delle regioni",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 177 TFUE stabilisce che, fatto salvo l'art. 178, il Parlamento europeo e il Consiglio, deliberando mediante regolamenti secondo la procedura legislativa ordinaria e previa consultazione del Comitato economico e sociale e del Comitato delle regioni, definiscono compiti, obiettivi prioritari e organizzazione dei fondi a finalità strutturale.",
+    "evidence": [
+      {
+        "ref": "art. 177 TFUE",
+        "text": "Fatto salvo l'articolo 178, il Parlamento europeo e il Consiglio, deliberando mediante regolamenti secondo la procedura legislativa ordinaria e previa consultazione del Comitato economico e sociale e del Comitato delle regioni, definiscono i compiti, gli obiettivi prioritari e l'organizzazione dei fondi a finalità strutturale, elemento quest'ultimo che può comportare il raggruppamento dei Fondi."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 177 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
