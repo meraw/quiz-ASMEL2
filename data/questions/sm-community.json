@@ -1,0 +1,392 @@
+[
+  {
+    "id": "sm-com-001",
+    "subject": "social-media",
+    "question": "Con il termine netiquette si indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'insieme delle regole di buon comportamento per comunicare in rete in modo corretto e rispettoso",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La legge che disciplina la responsabilità dei gestori delle piattaforme",
+        "why_wrong": "È un insieme di regole di comportamento condivise, non una legge."
+      },
+      {
+        "id": "c",
+        "text": "L'informativa sul trattamento dei dati personali di un sito",
+        "why_wrong": "Riguarda la privacy, non le regole di comportamento nella comunicazione."
+      },
+      {
+        "id": "d",
+        "text": "Il sistema con cui le piattaforme ordinano i contenuti mostrati agli utenti",
+        "why_wrong": "Non riguarda gli algoritmi, ma il comportamento degli utenti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La netiquette (da net ed etiquette) raccoglie regole di cortesia per la comunicazione online: rispetto degli interlocutori, pertinenza, niente insulti né spam. Gli enti spesso la richiamano nella propria social media policy.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: netiquette",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-002",
+    "subject": "social-media",
+    "question": "La social media policy esterna di un ente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stabilisce le regole per gli utenti che interagiscono con i canali dell'ente, come i contenuti non ammessi, i criteri di moderazione e i tempi di risposta",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Disciplina l'uso dei social da parte dei dipendenti, anche sui profili personali",
+        "why_wrong": "È il contenuto della policy interna."
+      },
+      {
+        "id": "c",
+        "text": "Definisce il calendario delle pubblicazioni dell'ente",
+        "why_wrong": "Il calendario editoriale programma i contenuti, non stabilisce le regole di interazione."
+      },
+      {
+        "id": "d",
+        "text": "Stabilisce i criteri di acquisto degli spazi pubblicitari sui social",
+        "why_wrong": "Non riguarda la pubblicità, ma le regole di utilizzo e di interazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La policy esterna è rivolta al pubblico: dichiara finalità dei canali, regole di comportamento, cosa viene rimosso e perché, orari e tempi di risposta. Rende trasparente e prevedibile la moderazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: social media policy esterna",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-003",
+    "subject": "social-media",
+    "question": "Un dipendente comunale pubblica sul proprio profilo personale commenti su una pratica di cui si sta occupando in ufficio. Il documento dell'ente che disciplina questi comportamenti è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La social media policy interna",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La social media policy esterna",
+        "why_wrong": "La policy esterna è rivolta agli utenti che interagiscono con i canali dell'ente, non ai dipendenti."
+      },
+      {
+        "id": "c",
+        "text": "Il piano editoriale",
+        "why_wrong": "Il piano editoriale definisce la strategia dei contenuti dell'ente."
+      },
+      {
+        "id": "d",
+        "text": "Il calendario editoriale",
+        "why_wrong": "Il calendario programma le pubblicazioni dei canali dell'ente."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La policy interna è rivolta al personale: indica come usare i social in rapporto al ruolo, anche sui profili personali, ad esempio vietando la diffusione di informazioni d'ufficio e richiedendo di non parlare a nome dell'ente senza autorizzazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: social media policy interna",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-004",
+    "subject": "social-media",
+    "question": "Sotto un post del Comune compare un commento con insulti rivolti a un altro utente, indicato con nome e cognome. Il comportamento più corretto è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nascondere o rimuovere il commento in base alle regole della policy esterna, eventualmente spiegando il motivo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Rispondere con lo stesso tono, per difendere l'utente offeso",
+        "why_wrong": "L'ente deve mantenere un tono istituzionale e non alimentare il conflitto."
+      },
+      {
+        "id": "c",
+        "text": "Lasciare il commento visibile, in nome della libertà di espressione",
+        "why_wrong": "Gli insulti violano la netiquette e le regole della policy, che ne prevedono la rimozione."
+      },
+      {
+        "id": "d",
+        "text": "Disattivare definitivamente i commenti su tutta la pagina",
+        "why_wrong": "È una misura sproporzionata rispetto a un singolo commento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La moderazione applica criteri pubblici e predefiniti (la policy esterna): contenuti offensivi, discriminatori o lesivi di terzi vengono rimossi. Spiegare il motivo rende la moderazione trasparente.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: moderazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-005",
+    "subject": "social-media",
+    "question": "Un cittadino segnala in un commento, con toni civili, un disservizio nella raccolta dei rifiuti nel proprio quartiere. La risposta più adeguata dell'ente è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rispondere in tempi brevi, riconoscendo il problema e indicando cosa si sta facendo o a chi rivolgersi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Cancellare il commento perché danneggia l'immagine dell'ente",
+        "why_wrong": "Le critiche civili non violano la policy: rimuoverle è censura e danneggia la fiducia."
+      },
+      {
+        "id": "c",
+        "text": "Ignorare il commento, per non dare visibilità al problema",
+        "why_wrong": "Il silenzio viene percepito come disinteresse e può far crescere il malcontento."
+      },
+      {
+        "id": "d",
+        "text": "Contestare la segnalazione, difendendo l'operato dell'ente",
+        "why_wrong": "Un atteggiamento difensivo peggiora la relazione con il cittadino."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Una critica civile è un'occasione di dialogo: una risposta rapida, empatica e concreta dimostra ascolto e spesso riduce il malcontento. Si rimuovono solo i contenuti che violano le regole della policy.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: risposta alle critiche",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-006",
+    "subject": "social-media",
+    "question": "Per quanto riguarda i tempi di risposta sui propri canali social, è buona prassi che l'ente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Indichi nella policy gli orari in cui i canali sono presidiati e i tempi indicativi di risposta, e li rispetti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Garantisca sempre una risposta immediata, 24 ore su 24",
+        "why_wrong": "Non è realistico per la maggior parte degli enti; è preferibile dichiarare orari e tempi sostenibili."
+      },
+      {
+        "id": "c",
+        "text": "Non fornisca indicazioni, per non assumere impegni",
+        "why_wrong": "Senza indicazioni gli utenti non sanno cosa aspettarsi."
+      },
+      {
+        "id": "d",
+        "text": "Risponda solo ai messaggi privati, mai ai commenti pubblici",
+        "why_wrong": "Anche i commenti pubblici richiedono risposta, perché sono visibili a tutti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Dichiarare orari di presidio e tempi di risposta crea aspettative corrette nel pubblico. L'importante è che gli impegni siano sostenibili e rispettati.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: tempi di risposta",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-007",
+    "subject": "social-media",
+    "question": "In un commento pubblico un cittadino chiede informazioni sulla propria pratica, indicando il numero della pratica e il proprio codice fiscale. È opportuno:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Invitarlo a proseguire tramite un canale privato o l'ufficio competente, evitando di trattare in pubblico i suoi dati personali",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Rispondere nel dettaglio nello stesso commento, citando i dati della pratica",
+        "why_wrong": "Si diffonderebbero pubblicamente dati personali."
+      },
+      {
+        "id": "c",
+        "text": "Ignorare il commento, perché i social non sono un canale per le pratiche",
+        "why_wrong": "Il cittadino va comunque orientato verso il canale corretto."
+      },
+      {
+        "id": "d",
+        "text": "Condividere il commento sulla pagina, per rispondere a tutti su casi simili",
+        "why_wrong": "Aumenterebbe la diffusione dei suoi dati personali."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le questioni individuali si trattano su canali riservati o presso l'ufficio competente. Quando un utente pubblica i propri dati, è bene non riprenderli nella risposta e, se la policy lo prevede, nascondere il commento.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: moderazione e dati personali",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-008",
+    "subject": "social-media",
+    "question": "Nelle prime fasi di una crisi comunicativa, l'ente dovrebbe:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Comunicare tempestivamente ciò che sa, riconoscendo il problema, e fornire aggiornamenti man mano che ha nuove informazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Attendere di avere tutte le informazioni prima di comunicare qualsiasi cosa",
+        "why_wrong": "Il silenzio iniziale lascia spazio a voci e notizie non verificate."
+      },
+      {
+        "id": "c",
+        "text": "Negare il problema finché non viene accertato",
+        "why_wrong": "Negare fatti poi confermati mina la credibilità dell'ente."
+      },
+      {
+        "id": "d",
+        "text": "Cancellare tutti i commenti che parlano dell'accaduto",
+        "why_wrong": "La censura alimenta sfiducia e sposta la discussione altrove."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella comunicazione di crisi contano tempestività, trasparenza e coerenza: si dice subito ciò che è certo, si ammette ciò che ancora non si sa e si indicano quando arriveranno gli aggiornamenti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: comunicazione di crisi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-009",
+    "subject": "social-media",
+    "question": "Il piano di gestione della crisi comunicativa andrebbe predisposto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prima che una crisi si verifichi, individuando ruoli, catena di approvazione dei messaggi e canali da usare",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Solo quando la crisi è già in corso, sulla base della situazione concreta",
+        "why_wrong": "Durante la crisi mancano il tempo e la lucidità per decidere ruoli e procedure."
+      },
+      {
+        "id": "c",
+        "text": "Al termine della crisi, come analisi di quanto accaduto",
+        "why_wrong": "L'analisi successiva è utile, ma il piano serve a gestire la crisi quando avviene."
+      },
+      {
+        "id": "d",
+        "text": "Solo dopo che una crisi analoga si è già verificata in passato",
+        "why_wrong": "Il piano deve prevenire, non dipendere da precedenti esperienze negative."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Un piano preparato in anticipo (chi decide, chi approva, chi comunica, quali canali, messaggi-tipo) consente di reagire in modo rapido e coordinato quando la crisi scoppia.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: comunicazione di crisi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-com-010",
+    "subject": "social-media",
+    "question": "Sui social circola la notizia falsa che l'acqua dell'acquedotto comunale non è potabile. La reazione più corretta del Comune è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pubblicare rapidamente sui canali ufficiali una smentita chiara, basata su dati verificabili, come l'esito delle analisi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Ignorare la notizia, perché smentirla le darebbe ulteriore visibilità",
+        "why_wrong": "Su un tema di salute pubblica il silenzio lascia spazio alla notizia falsa."
+      },
+      {
+        "id": "c",
+        "text": "Rispondere con sarcasmo a chi ha diffuso la notizia",
+        "why_wrong": "Il sarcasmo non è un tono istituzionale e non convince chi ha dubbi."
+      },
+      {
+        "id": "d",
+        "text": "Chiedere ai cittadini di condividere la notizia falsa accompagnata da un commento critico",
+        "why_wrong": "Ricondividere il contenuto falso ne amplia la diffusione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il debunking efficace è tempestivo, chiaro e fondato su fonti verificabili; usa i canali ufficiali e mette al centro l'informazione corretta, senza amplificare il contenuto falso.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Community management e crisi: disinformazione e debunking",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
