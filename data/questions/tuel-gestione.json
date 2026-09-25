@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "tuel-ges-001",
+    "subject": "contabilita-pubblica",
+    "question": "Quali sono, nell'ordine, le fasi di gestione delle entrate degli enti locali?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accertamento, liquidazione, riscossione",
+        "why_wrong": "La liquidazione è una fase della spesa (art. 182); le fasi dell'entrata sono accertamento, riscossione e versamento (art. 178)."
+      },
+      {
+        "id": "b",
+        "text": "Accertamento, riscossione, versamento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Riscossione, accertamento, versamento",
+        "why_wrong": "L'accertamento è la prima fase dell'entrata (art. 179, comma 1) e la riscossione la successiva (art. 180, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Accertamento, ordinazione, riscossione, versamento",
+        "why_wrong": "L'ordinazione è una fase della spesa (art. 182); le fasi dell'entrata sono tre (art. 178)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le fasi di gestione delle entrate sono l'accertamento, la riscossione e il versamento: l'accertamento è la prima fase, la riscossione la successiva, il versamento l'ultima.",
+    "evidence": [
+      {
+        "ref": "art. 178, comma 1",
+        "text": "Le fasi di gestione delle entrate sono l'accertamento, la riscossione ed il versamento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 178, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-002",
+    "subject": "contabilita-pubblica",
+    "question": "In quale fase di gestione dell'entrata, sulla base di idonea documentazione, viene individuato il debitore, quantificata la somma da incassare e fissata la relativa scadenza?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nell'accertamento",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nella riscossione",
+        "why_wrong": "La riscossione consiste nel materiale introito delle somme dovute all'ente da parte del tesoriere o di altri incaricati (art. 180, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Nel versamento",
+        "why_wrong": "Il versamento consiste nel trasferimento delle somme riscosse nelle casse dell'ente (art. 181, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Nella liquidazione",
+        "why_wrong": "La liquidazione è una fase della spesa, in cui si determina la somma certa e liquida da pagare (art. 184, comma 1)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Con l'accertamento, prima fase dell'entrata, si verificano la ragione del credito e la sussistenza di un idoneo titolo giuridico, si individua il debitore, si quantifica la somma da incassare e se ne fissa la scadenza.",
+    "evidence": [
+      {
+        "ref": "art. 179, comma 1",
+        "text": "L'accertamento costituisce la prima fase di gestione dell'entrata mediante la quale, sulla base di idonea documentazione, viene verificata la ragione del credito e la sussistenza di un idoneo titolo giuridico, individuato il debitore, quantificata la somma da incassare, nonché fissata la relativa scadenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 179, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-003",
+    "subject": "contabilita-pubblica",
+    "question": "Nel 2026 un Comune perfeziona un contratto dal quale deriva un credito verso un privato che viene a scadenza nel 2027. Come va registrato l'accertamento?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Va registrato nel 2027, solo quando la somma viene incassata",
+        "why_wrong": "Le entrate sono registrate anche se non determinano movimenti di cassa: l'accertamento si registra quando l'obbligazione è perfezionata (art. 179, comma 3-bis)."
+      },
+      {
+        "id": "b",
+        "text": "Va registrato e imputato interamente all'esercizio 2026, in cui è stato firmato il contratto",
+        "why_wrong": "L'imputazione va all'esercizio in cui l'obbligazione viene a scadenza; è vietato l'accertamento attuale di entrate future (art. 179, comma 3-bis)."
+      },
+      {
+        "id": "c",
+        "text": "Va registrato quando l'obbligazione è perfezionata, con imputazione all'esercizio 2027, in cui viene a scadenza",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Non va registrato finché il debitore non paga spontaneamente",
+        "why_wrong": "L'accertamento è registrato quando l'obbligazione è perfezionata, indipendentemente dal pagamento (art. 179, comma 3-bis)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'accertamento è registrato quando l'obbligazione è perfezionata, con imputazione alle scritture dell'esercizio in cui l'obbligazione viene a scadenza. È vietato l'accertamento attuale di entrate future e le entrate sono registrate anche se non determinano movimenti di cassa.",
+    "evidence": [
+      {
+        "ref": "art. 179, comma 3-bis",
+        "text": "L'accertamento dell'entrata è registrato quando l'obbligazione è perfezionata, con imputazione alle scritture contabili riguardanti l'esercizio in cui l'obbligazione viene a scadenza. Non possono essere riferite ad un determinato esercizio finanziario le entrate il cui diritto di credito non venga a scadenza nello stesso esercizio finanziario. È vietato l'accertamento attuale di entrate future."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 179, comma 3-bis",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-004",
+    "subject": "contabilita-pubblica",
+    "question": "Una Regione concede a un Comune un contributo per un progetto. In base all'art. 179 del TUEL, quando il Comune accerta la relativa entrata?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno della Regione relativo al contributo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "A seguito di emissione di ruoli",
+        "why_wrong": "L'accertamento a seguito di emissione di ruoli riguarda le entrate di carattere tributario (art. 179, comma 2, lettera a))."
+      },
+      {
+        "id": "c",
+        "text": "Solo al momento dell'effettivo incasso delle somme da parte del tesoriere",
+        "why_wrong": "Per i trasferimenti da altre amministrazioni pubbliche l'accertamento avviene a seguito della comunicazione dell'atto di impegno dell'ente erogante (art. 179, comma 2, lettera c-bis))."
+      },
+      {
+        "id": "d",
+        "text": "In corrispondenza dell'assunzione del relativo impegno di spesa da parte del Comune",
+        "why_wrong": "Questo criterio vale per le entrate relative a partite compensative delle spese dei servizi per conto terzi e partite di giro (art. 179, comma 2, lettera c))."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le entrate derivanti da trasferimenti e contributi da altre amministrazioni pubbliche sono accertate a seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno dell'amministrazione erogante relativo al contributo o al finanziamento.",
+    "evidence": [
+      {
+        "ref": "art. 179, comma 2",
+        "text": "c-bis) per le entrate derivanti da trasferimenti e contributi da altre amministrazioni pubbliche a seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno dell'amministrazione erogante relativo al contributo o al finanziamento;))"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 179, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-005",
+    "subject": "contabilita-pubblica",
+    "question": "A chi trasmette l'idonea documentazione il responsabile del procedimento con il quale viene accertata l'entrata, ai fini dell'annotazione nelle scritture contabili?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Al tesoriere",
+        "why_wrong": "Il tesoriere interviene nella riscossione (art. 180, comma 1); la documentazione dell'accertamento va al responsabile del servizio finanziario (art. 179, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "All'organo di revisione",
+        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario (art. 179, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Al responsabile del servizio finanziario",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Alla Giunta",
+        "why_wrong": "La norma indica come destinatario il responsabile del servizio finanziario (art. 179, comma 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il responsabile del procedimento con il quale viene accertata l'entrata trasmette al responsabile del servizio finanziario l'idonea documentazione, ai fini dell'annotazione nelle scritture contabili, secondo i tempi e i modi previsti dal regolamento di contabilità.",
+    "evidence": [
+      {
+        "ref": "art. 179, comma 3",
+        "text": "Il responsabile del procedimento con il quale viene accertata l'entrata trasmette al responsabile del servizio finanziario l'idonea documentazione di cui al comma 2, ai fini dell'annotazione nelle scritture contabili"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 179, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-006",
+    "subject": "contabilita-pubblica",
+    "question": "In che cosa consiste la riscossione delle entrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nel trasferimento delle somme riscosse nelle casse dell'ente",
+        "why_wrong": "Questo è il versamento, ultima fase dell'entrata (art. 181, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "Nella verifica della ragione del credito e nell'individuazione del debitore",
+        "why_wrong": "Questo è il contenuto dell'accertamento (art. 179, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Nella determinazione della somma certa e liquida da incassare",
+        "why_wrong": "La determinazione della somma certa e liquida è propria della liquidazione, fase della spesa (art. 184, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Nel materiale introito, da parte del tesoriere o di altri eventuali incaricati della riscossione, delle somme dovute all'ente",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La riscossione è la fase dell'entrata successiva all'accertamento e consiste nel materiale introito, da parte del tesoriere o di altri eventuali incaricati, delle somme dovute all'ente. È disposta a mezzo di ordinativo di incasso.",
+    "evidence": [
+      {
+        "ref": "art. 180, comma 1",
+        "text": "La riscossione costituisce la successiva fase del procedimento dell'entrata, che consiste nel materiale introito da parte del tesoriere o di altri eventuali incaricati della riscossione delle somme dovute all'ente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 180, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-007",
+    "subject": "contabilita-pubblica",
+    "question": "Chi sottoscrive l'ordinativo d'incasso?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il tesoriere",
+        "why_wrong": "Il tesoriere riceve l'ordinativo d'incasso (art. 180, comma 2), ma non lo sottoscrive."
+      },
+      {
+        "id": "b",
+        "text": "Il responsabile del servizio finanziario o altro dipendente individuato dal regolamento di contabilità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il sindaco, quale legale rappresentante dell'ente",
+        "why_wrong": "La norma attribuisce la sottoscrizione al responsabile del servizio finanziario o ad altro dipendente individuato dal regolamento (art. 180, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Il responsabile del procedimento che ha accertato l'entrata",
+        "why_wrong": "Il responsabile del procedimento trasmette la documentazione dell'accertamento al servizio finanziario (art. 179, comma 3); l'ordinativo è sottoscritto dal responsabile del servizio finanziario (art. 180, comma 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La riscossione è disposta a mezzo di ordinativo di incasso fatto pervenire al tesoriere; l'ordinativo è sottoscritto dal responsabile del servizio finanziario o da altro dipendente individuato dal regolamento di contabilità.",
+    "evidence": [
+      {
+        "ref": "art. 180, comma 3",
+        "text": "L'ordinativo d'incasso è sottoscritto dal responsabile del servizio finanziario o da altro dipendente individuato dal regolamento di contabilità"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 180, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-008",
+    "subject": "contabilita-pubblica",
+    "question": "Un privato versa al tesoriere di un Comune una somma dovuta all'ente, senza che sia stato emesso alcun ordinativo d'incasso. Come deve comportarsi il tesoriere?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve rifiutare la somma, perché la riscossione è disposta solo a mezzo di ordinativo d'incasso",
+        "why_wrong": "Il tesoriere deve accettare la riscossione di ogni somma versata in favore dell'ente anche senza preventivo ordinativo (art. 180, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "Deve accettarla e imputarla provvisoriamente alle partite di giro in attesa di istruzioni",
+        "why_wrong": "È vietata l'imputazione provvisoria degli incassi in attesa di regolarizzazione alle partite di giro (art. 180, comma 4-quater)."
+      },
+      {
+        "id": "c",
+        "text": "Deve accettarla, darne immediata comunicazione all'ente e chiedere la regolarizzazione, che l'ente effettua entro i successivi 60 giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Deve accettarla; l'ente emette il mandato di regolarizzazione entro trenta giorni",
+        "why_wrong": "Il mandato entro trenta giorni riguarda i pagamenti effettuati dal tesoriere senza mandato (art. 185, comma 4); per gli incassi il termine è di 60 giorni (art. 180, comma 4)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il tesoriere deve accettare, senza pregiudizio per i diritti dell'ente, la riscossione di ogni somma versata in favore dell'ente anche senza preventivo ordinativo d'incasso; ne dà immediata comunicazione all'ente chiedendo la regolarizzazione, che l'ente effettua entro i successivi 60 giorni e comunque entro i termini per la resa del conto del tesoriere.",
+    "evidence": [
+      {
+        "ref": "art. 180, comma 4",
+        "text": "Il tesoriere deve accettare, senza pregiudizio per i diritti dell'ente, la riscossione di ogni somma, versata in favore dell'ente, ivi comprese le entrate di cui al comma 4-ter, anche senza la preventiva emissione di ordinativo d'incasso. In tale ipotesi il tesoriere ne dà immediata comunicazione all'ente, richiedendo la regolarizzazione. L'ente procede alla regolarizzazione dell'incasso entro i successivi 60 giorni e, comunque, entro i termini previsti per la resa del conto del tesoriere."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 180, comma 4",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-009",
+    "subject": "contabilita-pubblica",
+    "question": "In che cosa consiste il versamento, ultima fase dell'entrata?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nel trasferimento delle somme riscosse nelle casse dell'ente",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nel pagamento delle somme dovute dall'ente ai creditori",
+        "why_wrong": "Il pagamento è l'ultima fase della spesa (art. 182), non dell'entrata."
+      },
+      {
+        "id": "c",
+        "text": "Nell'emissione dell'ordinativo d'incasso",
+        "why_wrong": "L'ordinativo d'incasso è lo strumento con cui è disposta la riscossione (art. 180, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Nella registrazione dell'obbligazione attiva nelle scritture contabili",
+        "why_wrong": "La registrazione dell'obbligazione perfezionata attiene all'accertamento (art. 179, comma 3-bis)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il versamento costituisce l'ultima fase dell'entrata e consiste nel trasferimento delle somme riscosse nelle casse dell'ente.",
+    "evidence": [
+      {
+        "ref": "art. 181, comma 1",
+        "text": "Il versamento costituisce l'ultima fase dell'entrata, consistente nel trasferimento delle somme riscosse nelle casse dell'ente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 181, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-010",
+    "subject": "contabilita-pubblica",
+    "question": "Il regolamento di contabilità di un Comune prevede che gli incaricati interni della riscossione versino le somme riscosse in tesoreria ogni venti giorni lavorativi. La previsione è conforme al TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sì, perché la cadenza dei versamenti è interamente rimessa al regolamento di contabilità",
+        "why_wrong": "Il regolamento stabilisce la cadenza, ma entro il limite massimo di quindici giorni lavorativi (art. 181, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "No, perché gli incaricati interni devono versare le somme giornalmente",
+        "why_wrong": "La norma non impone il versamento giornaliero, ma una cadenza non superiore ai quindici giorni lavorativi (art. 181, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Sì, purché gli incaricati siano designati con provvedimento formale",
+        "why_wrong": "La designazione formale è richiesta, ma non basta: la cadenza non può superare i quindici giorni lavorativi (art. 181, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "No, perché la cadenza stabilita dal regolamento non può essere superiore ai quindici giorni lavorativi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Gli incaricati interni, designati con provvedimento formale, versano le somme riscosse presso la tesoreria dell'ente con cadenza stabilita dal regolamento di contabilità, non superiore ai quindici giorni lavorativi.",
+    "evidence": [
+      {
+        "ref": "art. 181, comma 3",
+        "text": "Gli incaricati interni, designati con provvedimento formale dell'amministrazione, versano le somme riscosse presso la tesoreria dell'ente con cadenza stabilita dal regolamento di contabilità ((, non superiori ai quindici giorni lavorativi)) ."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 181, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-011",
+    "subject": "contabilita-pubblica",
+    "question": "Quale delle seguenti sequenze riporta, nell'ordine corretto, le fasi di gestione della spesa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Impegno, ordinazione, liquidazione, pagamento",
+        "why_wrong": "La liquidazione precede l'ordinazione: le fasi sono impegno, liquidazione, ordinazione e pagamento (art. 182)."
+      },
+      {
+        "id": "b",
+        "text": "Liquidazione, impegno, ordinazione, pagamento",
+        "why_wrong": "L'impegno è la prima fase del procedimento di spesa (art. 183, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Impegno, liquidazione, ordinazione, pagamento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Accertamento, impegno, liquidazione, pagamento",
+        "why_wrong": "L'accertamento è una fase dell'entrata (art. 178), non della spesa."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Le fasi di gestione della spesa sono l'impegno, la liquidazione, l'ordinazione e il pagamento.",
+    "evidence": [
+      {
+        "ref": "art. 182, comma 1",
+        "text": "Le fasi di gestione della spesa sono l'impegno, la liquidazione, l'ordinazione ed il pagamento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 182, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-012",
+    "subject": "contabilita-pubblica",
+    "question": "In quale fase della spesa, a seguito di obbligazione giuridicamente perfezionata, viene costituito il vincolo sulle previsioni di bilancio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella liquidazione",
+        "why_wrong": "Con la liquidazione si determina la somma certa e liquida da pagare nei limiti dell'impegno già assunto (art. 184, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "Nell'impegno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Nell'ordinazione",
+        "why_wrong": "L'ordinazione avviene con il mandato di pagamento, controllato per la sussistenza dell'impegno e della liquidazione (art. 185, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Nel pagamento",
+        "why_wrong": "Il pagamento è l'ultima fase della spesa (art. 182); il vincolo sulle previsioni è costituito con l'impegno (art. 183, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Con l'impegno, prima fase della spesa, a seguito di obbligazione giuridicamente perfezionata sono determinati la somma da pagare e il creditore, indicati la ragione e la scadenza, e viene costituito il vincolo sulle previsioni di bilancio.",
+    "evidence": [
+      {
+        "ref": "art. 183, comma 1",
+        "text": "L'impegno costituisce la prima fase del procedimento di spesa, con la quale, a seguito di obbligazione giuridicamente perfezionata è determinata la somma da pagare, determinato il soggetto creditore, indicata la ragione e la relativa scadenza e viene costituito il vincolo sulle previsioni di bilancio"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 183, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-013",
+    "subject": "contabilita-pubblica",
+    "question": "Per quale delle seguenti spese l'impegno è costituito con l'approvazione del bilancio, senza necessità di ulteriori atti?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Per il trattamento economico tabellare già attribuito al personale dipendente e i relativi oneri riflessi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Per un contratto d'appalto di lavori da aggiudicare nel corso dell'esercizio",
+        "why_wrong": "La norma elenca solo trattamento tabellare, rate di ammortamento e somministrazioni continuative (art. 183, comma 2); le procedure in corso possono al più essere prenotate (art. 183, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Per i contributi straordinari che la Giunta intende concedere ad associazioni",
+        "why_wrong": "Non rientrano tra le spese elencate dall'art. 183, comma 2, per le quali l'impegno è automatico."
+      },
+      {
+        "id": "d",
+        "text": "Per i debiti fuori bilancio derivanti da sentenze esecutive",
+        "why_wrong": "I debiti fuori bilancio richiedono il riconoscimento della loro legittimità con deliberazione consiliare (art. 194, comma 1)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Con l'approvazione del bilancio e senza ulteriori atti è costituito impegno per il trattamento economico tabellare già attribuito al personale e relativi oneri riflessi, per le rate di ammortamento di mutui e prestiti non già impegnate e per i contratti di somministrazione di prestazioni continuative con importo definito contrattualmente.",
+    "evidence": [
+      {
+        "ref": "art. 183, comma 2",
+        "text": "Con l'approvazione del bilancio e successive variazioni, e senza la necessità di ulteriori atti, è costituito impegno sui relativi stanziamenti per le spese dovute: a) per il trattamento economico tabellare già attribuito al personale dipendente e per i relativi oneri riflessi;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 183, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-014",
+    "subject": "contabilita-pubblica",
+    "question": "Il responsabile di un servizio comunale adotta una determinazione che comporta un impegno di spesa. Da quando la determinazione diventa esecutiva?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dalla sua sottoscrizione da parte del responsabile del servizio",
+        "why_wrong": "La determinazione è trasmessa al responsabile del servizio finanziario ed è esecutiva solo con il visto di regolarità contabile (art. 183, comma 7)."
+      },
+      {
+        "id": "b",
+        "text": "Dalla pubblicazione all'albo pretorio per quindici giorni",
+        "why_wrong": "Per gli atti di impegno l'esecutività è legata all'apposizione del visto di regolarità contabile attestante la copertura finanziaria (art. 183, comma 7)."
+      },
+      {
+        "id": "c",
+        "text": "Dall'approvazione da parte della Giunta",
+        "why_wrong": "La norma non prevede l'approvazione della Giunta, ma il visto del responsabile del servizio finanziario (art. 183, comma 7)."
+      },
+      {
+        "id": "d",
+        "text": "Dall'apposizione del visto di regolarità contabile attestante la copertura finanziaria",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "I provvedimenti dei responsabili dei servizi che comportano impegni di spesa sono trasmessi al responsabile del servizio finanziario e sono esecutivi con l'apposizione del visto di regolarità contabile attestante la copertura finanziaria.",
+    "evidence": [
+      {
+        "ref": "art. 183, comma 7",
+        "text": "I provvedimenti dei responsabili dei servizi che comportano impegni di spesa sono trasmessi al responsabile del servizio finanziario e sono esecutivi con l'apposizione del visto di regolarità contabile attestante la copertura finanziaria."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 183, comma 7",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-015",
+    "subject": "contabilita-pubblica",
+    "question": "Nel corso dell'esercizio un Comune ha prenotato un impegno per una gara in via di espletamento; al 31 dicembre la gara non è conclusa e l'ente non ha assunto alcuna obbligazione verso terzi. Che cosa accade alla prenotazione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Si trasforma automaticamente in residuo passivo",
+        "why_wrong": "Costituiscono residui passivi solo le somme impegnate e non pagate; è vietata la conservazione tra i residui di somme non impegnate (art. 190, commi 1 e 2)."
+      },
+      {
+        "id": "b",
+        "text": "Decade e costituisce economia della previsione di bilancio, concorrendo alla determinazione del risultato di amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Resta valida fino alla conclusione della gara, anche negli esercizi successivi",
+        "why_wrong": "I provvedimenti per i quali entro il termine dell'esercizio non è stata assunta l'obbligazione decadono (art. 183, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Diventa un debito fuori bilancio da riconoscere dal Consiglio",
+        "why_wrong": "I debiti fuori bilancio riconoscibili sono quelli elencati all'art. 194, comma 1; la prenotazione non seguita da obbligazione costituisce economia (art. 183, comma 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Durante la gestione possono essere prenotati impegni relativi a procedure in via di espletamento. Se entro il termine dell'esercizio non è stata assunta l'obbligazione di spesa verso i terzi, i provvedimenti decadono e costituiscono economia della previsione di bilancio, concorrendo alla determinazione del risultato di amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 183, comma 3",
+        "text": "Durante la gestione possono anche essere prenotati impegni relativi a procedure in via di espletamento. I provvedimenti relativi per i quali entro il termine dell'esercizio non è stata assunta dall'ente l'obbligazione di spesa verso i terzi decadono e costituiscono economia della previsione di bilancio alla quale erano riferiti, concorrendo alla determinazione del risultato contabile di amministrazione di cui all'articolo 186."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 183, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-016",
+    "subject": "contabilita-pubblica",
+    "question": "Che cosa si determina con la liquidazione della spesa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il soggetto creditore e la ragione del debito, con vincolo sulle previsioni di bilancio",
+        "why_wrong": "Questi elementi sono determinati con l'impegno (art. 183, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "L'ordine al tesoriere di pagare la somma al creditore",
+        "why_wrong": "L'ordine al tesoriere è dato con il mandato di pagamento, nella fase dell'ordinazione (art. 185)."
+      },
+      {
+        "id": "c",
+        "text": "La somma certa e liquida da pagare, nei limiti dell'ammontare dell'impegno definitivo assunto, in base ai documenti che comprovano il diritto acquisito del creditore",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La copertura finanziaria della spesa negli stanziamenti di bilancio",
+        "why_wrong": "La copertura finanziaria è attestata con il visto di regolarità contabile sugli atti di impegno (art. 183, comma 7)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La liquidazione è la fase successiva all'impegno: in base ai documenti e ai titoli che comprovano il diritto acquisito del creditore, si determina la somma certa e liquida da pagare nei limiti dell'impegno definitivo assunto.",
+    "evidence": [
+      {
+        "ref": "art. 184, comma 1",
+        "text": "La liquidazione costituisce la successiva fase del procedimento di spesa attraverso la quale in base ai documenti ed ai titoli atti a comprovare il diritto acquisito del creditore, si determina la somma certa e liquida da pagare nei limiti dell'ammontare dell'impegno definitivo assunto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 184, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-017",
+    "subject": "contabilita-pubblica",
+    "question": "Un'impresa consegna a un Comune una fornitura di arredi. A chi compete la liquidazione della relativa spesa e su quale base?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All'ufficio che ha dato esecuzione al provvedimento di spesa, a seguito del riscontro sulla regolarità della fornitura e sulla sua rispondenza ai requisiti e alle condizioni pattuite",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Al servizio finanziario, che riceve direttamente la fattura e liquida senza altri riscontri",
+        "why_wrong": "La liquidazione compete all'ufficio che ha dato esecuzione al provvedimento; il servizio finanziario effettua poi i controlli sugli atti di liquidazione (art. 184, commi 2 e 4)."
+      },
+      {
+        "id": "c",
+        "text": "Al tesoriere, che verifica la fornitura prima di pagare",
+        "why_wrong": "Il tesoriere estingue i mandati (art. 217); la liquidazione compete all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "All'organo di revisione, che attesta la regolarità della prestazione",
+        "why_wrong": "La norma attribuisce la liquidazione all'ufficio che ha dato esecuzione al provvedimento di spesa (art. 184, comma 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La liquidazione compete all'ufficio che ha dato esecuzione al provvedimento di spesa ed è disposta sulla base della documentazione che comprova il diritto del creditore, a seguito del riscontro sulla regolarità della fornitura o della prestazione e sulla rispondenza ai requisiti quantitativi e qualitativi, ai termini e alle condizioni pattuite. L'atto di liquidazione è poi trasmesso al servizio finanziario.",
+    "evidence": [
+      {
+        "ref": "art. 184, comma 2",
+        "text": "La liquidazione compete all'ufficio che ha dato esecuzione al provvedimento di spesa ed è disposta sulla base della documentazione necessaria a comprovare il diritto del creditore, a seguito del riscontro operato sulla regolarità della fornitura o della prestazione e sulla rispondenza della stessa ai requisiti quantitativi e qualitativi, al termini ed alle condizioni pattuite."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 184, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-018",
+    "subject": "contabilita-pubblica",
+    "question": "Il mandato di pagamento è controllato dal servizio finanziario. Su che cosa verte questo controllo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sulla congruità del prezzo rispetto ai valori di mercato",
+        "why_wrong": "La norma non prevede questo controllo; il servizio finanziario verifica impegno, liquidazione e autorizzazione di cassa (art. 185, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "Sulla sussistenza dell'impegno e della liquidazione e sul rispetto dell'autorizzazione di cassa",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Sulla regolarità della fornitura e sulla rispondenza ai requisiti pattuiti",
+        "why_wrong": "Questo riscontro precede la liquidazione ed è svolto dall'ufficio che ha dato esecuzione al provvedimento (art. 184, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Sulla sola presenza della firma del sindaco",
+        "why_wrong": "Il mandato è sottoscritto dal dipendente individuato dal regolamento (art. 185, comma 2) e il controllo riguarda impegno, liquidazione e cassa (art. 185, comma 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il mandato di pagamento è controllato dal servizio finanziario per quanto attiene alla sussistenza dell'impegno e della liquidazione e al rispetto dell'autorizzazione di cassa; il servizio finanziario provvede anche alla contabilizzazione e alla trasmissione al tesoriere.",
+    "evidence": [
+      {
+        "ref": "art. 185, comma 3",
+        "text": "Il mandato di pagamento è controllato, per quanto attiene alla sussistenza dell'impegno e della liquidazione e al rispetto dell'autorizzazione di cassa, dal servizio finanziario, che provvede altresì alle operazioni di contabilizzazione e di trasmissione al tesoriere."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 185, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-019",
+    "subject": "contabilita-pubblica",
+    "question": "Il tesoriere di un Comune paga il 28 dicembre una somma dovuta per obblighi tributari, senza che sia stato emesso il mandato di pagamento; la comunicazione arriva all'ente a gennaio. Come deve procedere l'ente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve contestare il pagamento, perché il tesoriere può pagare solo in presenza di mandato",
+        "why_wrong": "Per obblighi tributari, somme iscritte a ruolo, delegazioni di pagamento e altri obblighi di legge il tesoriere paga anche senza mandato (art. 185, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "Entro sessanta giorni emette il mandato, imputandolo all'esercizio in cui riceve la comunicazione",
+        "why_wrong": "Il termine è di trenta giorni e l'imputazione va all'esercizio in cui il tesoriere ha pagato (art. 185, comma 4); i 60 giorni riguardano la regolarizzazione degli incassi (art. 180, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "Entro trenta giorni emette il mandato di regolarizzazione, imputandolo all'esercizio in cui il tesoriere ha effettuato il pagamento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Deve riconoscere la spesa come debito fuori bilancio con deliberazione consiliare",
+        "why_wrong": "La norma prevede la regolarizzazione con mandato, non il riconoscimento del debito fuori bilancio (art. 185, comma 4)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il tesoriere effettua i pagamenti derivanti da obblighi tributari, somme iscritte a ruolo, delegazioni di pagamento e altri obblighi di legge anche senza preventivo mandato. Entro trenta giorni l'ente emette il mandato di regolarizzazione, imputandolo all'esercizio in cui il tesoriere ha pagato, anche se la comunicazione è pervenuta nell'esercizio successivo.",
+    "evidence": [
+      {
+        "ref": "art. 185, comma 4",
+        "text": "Il tesoriere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo, da delegazioni di pagamento, e da altri obblighi di legge, anche in assenza della preventiva emissione del relativo mandato di pagamento. Entro trenta giorni l'ente locale emette il relativo mandato ai fini della regolarizzazione, imputandolo contabilmente all'esercizio in cui il tesoriere ha effettuato il pagamento, anche se la relativa comunicazione è pervenuta all'ente nell'esercizio successivo."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 185, comma 4",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-020",
+    "subject": "contabilita-pubblica",
+    "question": "Che cosa costituisce, rispettivamente, un residuo attivo e un residuo passivo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Residuo attivo: somme previste e non accertate; residuo passivo: somme stanziate e non impegnate",
+        "why_wrong": "Le somme non accertate costituiscono minori entrate (art. 189, comma 4) e quelle non impegnate economie di spesa (art. 190, comma 3), non residui."
+      },
+      {
+        "id": "b",
+        "text": "Residuo attivo: somme riscosse e non versate; residuo passivo: somme liquidate e non ordinate",
+        "why_wrong": "La norma collega i residui attivi all'accertamento senza riscossione e i passivi all'impegno senza pagamento (artt. 189, comma 1, e 190, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Residuo attivo: somme accertate e non riscosse entro il termine dell'esercizio; residuo passivo: somme impegnate e non pagate entro il termine dell'esercizio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Residuo attivo: somme accertate e non riscosse; residuo passivo: somme stanziate e non impegnate",
+        "why_wrong": "È vietata la conservazione nel conto dei residui di somme non impegnate (art. 190, comma 2)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Costituiscono residui attivi le somme accertate e non riscosse entro il termine dell'esercizio; costituiscono residui passivi le somme impegnate e non pagate entro il termine dell'esercizio.",
+    "evidence": [
+      {
+        "ref": "art. 189, comma 1",
+        "text": "Costituiscono residui attivi le somme accertate e non riscosse entro il termine dell'esercizio."
+      },
+      {
+        "ref": "art. 190, comma 1",
+        "text": "Costituiscono residui passivi le somme impegnate e non pagate entro il termine dell'esercizio."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 189, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-021",
+    "subject": "contabilita-pubblica",
+    "question": "Con quale periodicità minima l'organo consiliare verifica, con apposita delibera, il permanere degli equilibri generali di bilancio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Almeno una volta entro il 31 luglio di ciascun anno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Almeno una volta entro il 30 novembre di ciascun anno",
+        "why_wrong": "Il 30 novembre è il termine ordinario per le variazioni di bilancio (art. 175, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Trimestralmente, in occasione delle verifiche di cassa",
+        "why_wrong": "Le verifiche trimestrali di cassa spettano all'organo di revisione (art. 223, comma 1); la verifica degli equilibri è almeno annuale, entro il 31 luglio (art. 193, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Solo in sede di approvazione del rendiconto, entro il 30 aprile",
+        "why_wrong": "La delibera sugli equilibri è adottata almeno una volta entro il 31 luglio ed è poi allegata al rendiconto (art. 193, comma 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Con la periodicità stabilita dal regolamento di contabilità, e comunque almeno una volta entro il 31 luglio di ciascun anno, il consiglio dà atto del permanere degli equilibri generali di bilancio o, in caso di accertamento negativo, adotta contestualmente le misure di riequilibrio.",
+    "evidence": [
+      {
+        "ref": "art. 193, comma 2",
+        "text": "Con periodicità stabilita dal regolamento di contabilità dell'ente locale, e comunque almeno una volta entro il ((31 luglio)) di ciascun anno, l'organo consiliare provvede con delibera ((a dare)) atto del permanere degli equilibri generali di bilancio"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 193, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-022",
+    "subject": "contabilita-pubblica",
+    "question": "Quale conseguenza comporta la mancata adozione, da parte dell'ente, dei provvedimenti di riequilibrio previsti dall'art. 193 del TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La dichiarazione automatica dello stato di dissesto",
+        "why_wrong": "La norma non prevede il dissesto automatico, ma l'equiparazione alla mancata approvazione del bilancio di previsione (art. 193, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "La sola responsabilità disciplinare del responsabile del servizio finanziario",
+        "why_wrong": "La norma collega all'omissione una conseguenza per l'ente: l'equiparazione alla mancata approvazione del bilancio (art. 193, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "L'obbligo di ricorrere all'esercizio provvisorio",
+        "why_wrong": "L'esercizio provvisorio è autorizzato con legge o decreto ministeriale (art. 163, comma 3); la mancata adozione del riequilibrio è equiparata alla mancata approvazione del bilancio (art. 193, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "È equiparata ad ogni effetto alla mancata approvazione del bilancio di previsione, con applicazione della procedura dell'art. 141, comma 2",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La mancata adozione dei provvedimenti di riequilibrio è equiparata ad ogni effetto alla mancata approvazione del bilancio di previsione di cui all'art. 141, con applicazione della procedura prevista dal comma 2 del medesimo articolo.",
+    "evidence": [
+      {
+        "ref": "art. 193, comma 4",
+        "text": "La mancata adozione, da parte dell'ente, dei provvedimenti di riequilibrio previsti dal presente articolo è equiparata ad ogni effetto alla mancata approvazione del bilancio di previsione di cui all'articolo 141, con applicazione della procedura prevista dal comma 2 del medesimo articolo."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 193, comma 4",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-023",
+    "subject": "contabilita-pubblica",
+    "question": "Quale dei seguenti debiti fuori bilancio può essere riconosciuto legittimo dal Consiglio ai sensi dell'art. 194 del TUEL, nei termini indicati?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il debito per l'acquisizione di beni senza impegno, per l'intero importo fatturato dal fornitore",
+        "why_wrong": "Il debito per acquisizioni senza impegno è riconoscibile solo nei limiti degli accertati e dimostrati utilità ed arricchimento per l'ente (art. 194, comma 1, lettera e))."
+      },
+      {
+        "id": "b",
+        "text": "Il debito derivante da sentenze esecutive",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il debito per la copertura di qualsiasi disavanzo di un'azienda speciale",
+        "why_wrong": "La copertura dei disavanzi di aziende speciali è ammessa nei limiti degli obblighi statutari o convenzionali, se rispettato l'obbligo di pareggio e se il disavanzo deriva da fatti di gestione (art. 194, comma 1, lettera b))."
+      },
+      {
+        "id": "d",
+        "text": "Il debito per la ricapitalizzazione di qualsiasi società partecipata dall'ente",
+        "why_wrong": "La ricapitalizzazione è ammessa, nei limiti del codice civile o di norme speciali, per le società di capitali costituite per l'esercizio di servizi pubblici locali (art. 194, comma 1, lettera c))."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Con la deliberazione consiliare sugli equilibri, o con la diversa periodicità stabilita dal regolamento, gli enti riconoscono la legittimità dei debiti fuori bilancio derivanti, tra l'altro, da sentenze esecutive; gli altri casi sono ammessi solo entro i limiti fissati dall'art. 194, comma 1.",
+    "evidence": [
+      {
+        "ref": "art. 194, comma 1",
+        "text": "Con deliberazione consiliare di cui all'articolo 193, comma 2, o con diversa periodicità stabilita dai regolamenti di contabilità, gli enti locali riconoscono la legittimità dei debiti fuori bilancio derivanti da: a) sentenze esecutive;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 194, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-024",
+    "subject": "contabilita-pubblica",
+    "question": "Un funzionario comunale ordina una fornitura di beni senza che sia stato registrato l'impegno contabile e senza attestazione della copertura finanziaria. Il Consiglio riconosce il debito solo in parte, nei limiti dell'utilità e dell'arricchimento dimostrati per l'ente. Per la parte non riconoscibile, tra chi intercorre il rapporto obbligatorio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tra il fornitore e l'ente, che deve comunque pagare l'intero importo",
+        "why_wrong": "Per la parte non riconoscibile ai sensi dell'art. 194, comma 1, lettera e), il rapporto intercorre con chi ha consentito la fornitura (art. 191, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "Tra il fornitore e il tesoriere dell'ente",
+        "why_wrong": "Il tesoriere non è parte del rapporto: la norma indica l'amministratore, funzionario o dipendente che ha consentito la fornitura (art. 191, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "Tra il fornitore e l'amministratore, funzionario o dipendente che ha consentito la fornitura",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Tra il fornitore e il responsabile del servizio finanziario, in ogni caso",
+        "why_wrong": "Il rapporto intercorre con chi ha consentito la fornitura, non necessariamente con il responsabile finanziario (art. 191, comma 4)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Gli enti possono effettuare spese solo se sussistono l'impegno contabile registrato e l'attestazione di copertura finanziaria. In caso di acquisizione di beni e servizi in violazione di tale obbligo, il rapporto obbligatorio intercorre, per la parte non riconoscibile come debito fuori bilancio, tra il privato fornitore e l'amministratore, funzionario o dipendente che hanno consentito la fornitura.",
+    "evidence": [
+      {
+        "ref": "art. 191, comma 4",
+        "text": "Nel caso in cui vi è stata l'acquisizione di beni e servizi in violazione dell'obbligo indicato nei commi 1, 2 e 3, il rapporto obbligatorio intercorre, ai fini della controprestazione e per la parte non riconoscibile ai sensi dell'articolo 194, comma 1, lettera e), tra il privato fornitore e l'amministratore, funzionario o dipendente che hanno consentito la fornitura."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 191, comma 4",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ges-025",
+    "subject": "contabilita-pubblica",
+    "question": "A seguito di un evento eccezionale, un Comune ordina a un'impresa lavori pubblici di somma urgenza. Come si procede per la regolarizzazione della spesa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La Giunta, entro venti giorni dall'ordinazione, su proposta del responsabile del procedimento, sottopone al Consiglio il provvedimento di riconoscimento della spesa, che il Consiglio adotta entro 30 giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il responsabile del procedimento adotta una determinazione di impegno entro sessanta giorni, senza passaggi consiliari",
+        "why_wrong": "Per la somma urgenza è previsto il riconoscimento della spesa da parte del Consiglio, su proposta della Giunta (art. 191, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "La Giunta adotta una variazione di bilancio d'urgenza da ratificare entro sessanta giorni",
+        "why_wrong": "La ratifica entro sessanta giorni riguarda le variazioni di bilancio d'urgenza (art. 175, comma 4); la somma urgenza segue la procedura di riconoscimento dell'art. 191, comma 3."
+      },
+      {
+        "id": "d",
+        "text": "Il Consiglio riconosce la spesa entro il 31 luglio, in sede di verifica degli equilibri",
+        "why_wrong": "Il riconoscimento è adottato entro 30 giorni dalla deliberazione della proposta della Giunta, e comunque entro il 31 dicembre (art. 191, comma 3)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Per i lavori pubblici di somma urgenza, la Giunta, entro venti giorni dall'ordinazione fatta a terzi, su proposta del responsabile del procedimento, sottopone al Consiglio il provvedimento di riconoscimento della spesa, con la relativa copertura finanziaria. Il Consiglio lo adotta entro 30 giorni dalla deliberazione della proposta della Giunta e comunque entro il 31 dicembre.",
+    "evidence": [
+      {
+        "ref": "art. 191, comma 3",
+        "text": "Per i lavori pubblici di somma urgenza, cagionati dal verificarsi di un evento eccezionale o imprevedibile, la Giunta, ((...)) entro venti giorni dall'ordinazione fatta a terzi, su proposta del responsabile del procedimento, sottopone al Consiglio il provvedimento di riconoscimento della spesa"
+      },
+      {
+        "ref": "art. 191, comma 3",
+        "text": "Il provvedimento di riconoscimento è adottato entro 30 giorni dalla data di deliberazione della proposta da parte della Giunta, e comunque entro il 31 dicembre dell'anno in corso se a tale data non sia scaduto il predetto termine."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 191, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

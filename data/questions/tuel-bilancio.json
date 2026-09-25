@@ -1,0 +1,894 @@
+[
+  {
+    "id": "tuel-bil-001",
+    "subject": "contabilita-pubblica",
+    "question": "Entro quale termine la Giunta presenta al Consiglio il Documento unico di programmazione (DUP)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro il 31 luglio di ciascun anno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Entro il 15 novembre di ciascun anno",
+        "why_wrong": "Il 15 novembre è il termine per la nota di aggiornamento del DUP, presentata con lo schema di bilancio (art. 170, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Entro il 31 dicembre di ciascun anno",
+        "why_wrong": "Il 31 dicembre è il termine per deliberare il bilancio di previsione (art. 151, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Entro il 30 aprile di ciascun anno",
+        "why_wrong": "Il 30 aprile è il termine per deliberare il rendiconto (art. 151, comma 7)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La Giunta presenta al Consiglio il DUP entro il 31 luglio di ciascun anno, per le conseguenti deliberazioni.",
+    "evidence": [
+      {
+        "ref": "art. 170, comma 1",
+        "text": "Entro il 31 luglio di ciascun anno la Giunta presenta al Consiglio il Documento unico di programmazione per le conseguenti deliberazioni."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 170, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-002",
+    "subject": "contabilita-pubblica",
+    "question": "La Giunta di un Comune ha presentato il DUP al Consiglio a luglio. Nel mese di novembre, insieme allo schema di delibera del bilancio di previsione finanziario, che cosa presenta la Giunta al Consiglio, ed entro quale data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un nuovo DUP sostitutivo di quello di luglio, entro il 31 dicembre",
+        "why_wrong": "La norma prevede una nota di aggiornamento e il termine del 15 novembre; il 31 dicembre è il termine per deliberare il bilancio (art. 151, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "La nota di aggiornamento del DUP, entro il 15 novembre",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il piano esecutivo di gestione, entro il 15 novembre",
+        "why_wrong": "Il PEG è deliberato dalla Giunta entro venti giorni dall'approvazione del bilancio (art. 169, comma 1), non presentato con lo schema di bilancio."
+      },
+      {
+        "id": "d",
+        "text": "La nota di aggiornamento del DUP, entro il 31 luglio",
+        "why_wrong": "Il 31 luglio è il termine per la presentazione del DUP; la nota di aggiornamento va presentata entro il 15 novembre (art. 170, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Entro il 15 novembre, con lo schema di delibera del bilancio di previsione finanziario, la Giunta presenta al Consiglio la nota di aggiornamento del DUP. Lo stesso termine vale per la presentazione dello schema di bilancio all'organo consiliare.",
+    "evidence": [
+      {
+        "ref": "art. 170, comma 1",
+        "text": "Entro il 15 novembre di ciascun anno, con lo schema di delibera del bilancio di previsione finanziario, la Giunta presenta al Consiglio la nota di aggiornamento del Documento unico di programmazione."
+      },
+      {
+        "ref": "art. 174, comma 1",
+        "text": "Lo schema di bilancio di previsione, finanziario e il Documento unico di programmazione sono predisposti dall'organo esecutivo e da questo presentati all'organo consiliare unitamente agli allegati ((...)) entro il 15 novembre di ogni anno"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 170, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-003",
+    "subject": "contabilita-pubblica",
+    "question": "Quale orizzonte temporale hanno le due sezioni del Documento unico di programmazione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entrambe hanno la durata del bilancio di previsione",
+        "why_wrong": "Solo la Sezione operativa ha la durata del bilancio di previsione; la Sezione strategica ha quella del mandato amministrativo (art. 170, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "La Sezione strategica ha la durata del bilancio di previsione, la Sezione operativa quella del mandato amministrativo",
+        "why_wrong": "Le durate sono invertite: la Sezione strategica corrisponde al mandato, la Sezione operativa al bilancio di previsione (art. 170, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "La Sezione strategica ha la durata del mandato amministrativo, la Sezione operativa quella del bilancio di previsione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Entrambe hanno la durata del mandato amministrativo",
+        "why_wrong": "Solo la Sezione strategica ha la durata del mandato; la Sezione operativa ha quella del bilancio di previsione (art. 170, comma 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il DUP si compone della Sezione strategica, con orizzonte pari al mandato amministrativo, e della Sezione operativa, con orizzonte pari a quello del bilancio di previsione.",
+    "evidence": [
+      {
+        "ref": "art. 170, comma 3",
+        "text": "Il Documento unico di programmazione si compone di due sezioni: la Sezione strategica e la Sezione operativa. La prima ha un orizzonte temporale di riferimento pari a quello del mandato amministrativo, la seconda pari a quello del bilancio di previsione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 170, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-004",
+    "subject": "contabilita-pubblica",
+    "question": "Quale rapporto esiste tra il Documento unico di programmazione e l'approvazione del bilancio di previsione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il DUP è un allegato facoltativo del bilancio di previsione",
+        "why_wrong": "Il DUP non è facoltativo: costituisce atto presupposto indispensabile per l'approvazione del bilancio (art. 170, comma 5)."
+      },
+      {
+        "id": "b",
+        "text": "Il DUP costituisce atto presupposto indispensabile per l'approvazione del bilancio di previsione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il DUP è approvato dopo il bilancio di previsione, per attuarne le previsioni",
+        "why_wrong": "Il DUP precede il bilancio: le previsioni del bilancio sono elaborate sulla base delle sue linee strategiche (art. 151, comma 1) e ne è atto presupposto (art. 170, comma 5)."
+      },
+      {
+        "id": "d",
+        "text": "Il DUP sostituisce il bilancio di previsione per gli esercizi successivi al primo",
+        "why_wrong": "Il bilancio di previsione è riferito ad almeno un triennio (art. 162, comma 1); il DUP non lo sostituisce, ma ne costituisce il presupposto (art. 170, comma 5)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il DUP ha carattere generale, costituisce la guida strategica ed operativa dell'ente ed è atto presupposto indispensabile per l'approvazione del bilancio di previsione.",
+    "evidence": [
+      {
+        "ref": "art. 170, comma 5",
+        "text": "Il Documento unico di programmazione costituisce atto presupposto indispensabile per l'approvazione del bilancio di previsione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 170, comma 5",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-005",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune di 3.800 abitanti deve predisporre il proprio documento di programmazione. Che cosa prevede il TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Comune è esonerato dalla predisposizione del DUP",
+        "why_wrong": "I comuni fino a 5.000 abitanti non sono esonerati: predispongono il DUP semplificato (art. 170, comma 6)."
+      },
+      {
+        "id": "b",
+        "text": "Il Comune predispone il DUP semplificato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il Comune predispone il DUP ordinario, senza Sezione strategica",
+        "why_wrong": "La norma prevede per questi enti il DUP semplificato, non un DUP ordinario privo di una sezione (art. 170, comma 6)."
+      },
+      {
+        "id": "d",
+        "text": "Il Comune può scegliere se predisporre il DUP o il piano esecutivo di gestione",
+        "why_wrong": "Il PEG è facoltativo per gli enti sotto i 5.000 abitanti (art. 169, comma 3), ma non è alternativo al DUP, che resta dovuto in forma semplificata (art. 170, comma 6)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Gli enti locali con popolazione fino a 5.000 abitanti predispongono il Documento unico di programmazione semplificato.",
+    "evidence": [
+      {
+        "ref": "art. 170, comma 6",
+        "text": "Gli enti locali con popolazione fino a 5.000 abitanti predispongono il Documento unico di programmazione semplificato"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 170, comma 6",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-006",
+    "subject": "contabilita-pubblica",
+    "question": "Secondo l'art. 151 del TUEL, entro quale termine gli enti locali deliberano il bilancio di previsione finanziario e a quale orizzonte temporale è riferito?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro il 31 dicembre, con orizzonte almeno triennale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Entro il 31 luglio, con orizzonte almeno triennale",
+        "why_wrong": "Il 31 luglio è il termine di presentazione del DUP, non di deliberazione del bilancio (art. 151, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Entro il 31 dicembre, con orizzonte annuale",
+        "why_wrong": "Il bilancio è riferito a un orizzonte temporale almeno triennale; annuale è solo il primo esercizio considerato (art. 151, commi 1 e 3)."
+      },
+      {
+        "id": "d",
+        "text": "Entro il 15 novembre, con orizzonte pari al mandato amministrativo",
+        "why_wrong": "Il 15 novembre è il termine di presentazione dello schema di bilancio al consiglio (art. 174, comma 1); l'orizzonte del mandato è quello della Sezione strategica del DUP (art. 151, comma 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Gli enti locali presentano il DUP entro il 31 luglio e deliberano il bilancio di previsione finanziario entro il 31 dicembre, entrambi riferiti a un orizzonte temporale almeno triennale. I termini possono essere differiti con decreto del Ministro dell'interno.",
+    "evidence": [
+      {
+        "ref": "art. 151, comma 1",
+        "text": "A tal fine presentano il Documento unico di programmazione entro il 31 luglio di ogni anno e deliberano il bilancio di previsione finanziario entro il 31 dicembre, riferiti ad un orizzonte temporale almeno triennale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 151, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-007",
+    "subject": "contabilita-pubblica",
+    "question": "Quali previsioni comprende il bilancio di previsione finanziario?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Previsioni di competenza e di cassa per tutti gli esercizi considerati",
+        "why_wrong": "Le previsioni di cassa riguardano solo il primo esercizio; per gli esercizi successivi sono previste solo quelle di competenza (art. 151, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "Previsioni di sola cassa per il primo esercizio e di competenza per gli esercizi successivi",
+        "why_wrong": "Per il primo esercizio sono previste sia la competenza sia la cassa (art. 151, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Previsioni di sola competenza per tutti gli esercizi considerati",
+        "why_wrong": "Per il primo esercizio sono previste anche le previsioni di cassa (art. 151, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Previsioni di competenza e di cassa per il primo esercizio e previsioni di sola competenza per gli esercizi successivi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il bilancio di previsione finanziario comprende le previsioni di competenza e di cassa del primo esercizio e le previsioni di competenza degli esercizi successivi. Le previsioni del primo esercizio costituiscono il bilancio di previsione finanziario annuale.",
+    "evidence": [
+      {
+        "ref": "art. 151, comma 3",
+        "text": "Il bilancio di previsione finanziario comprende le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi. Le previsioni riguardanti il primo esercizio costituiscono il bilancio di previsione finanziario annuale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 151, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-008",
+    "subject": "contabilita-pubblica",
+    "question": "Qual è l'unità di voto del bilancio di previsione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Per l'entrata il titolo, per la spesa la missione",
+        "why_wrong": "Per l'entrata l'unità di voto è la tipologia e per la spesa il programma (art. 164, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "Per l'entrata la tipologia, per la spesa il programma, articolato in titoli",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Per l'entrata la categoria, per la spesa il macroaggregato",
+        "why_wrong": "Categorie e macroaggregati sono articolazioni del Piano esecutivo di gestione ai fini della gestione (art. 165, commi 3 e 5), non unità di voto."
+      },
+      {
+        "id": "d",
+        "text": "Per l'entrata e per la spesa il capitolo",
+        "why_wrong": "I capitoli sono le unità elementari ai fini della gestione e della rendicontazione nel PEG (art. 169, comma 2), non unità di voto del bilancio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'unità di voto del bilancio è, per l'entrata, la tipologia e, per la spesa, il programma, articolato in titoli.",
+    "evidence": [
+      {
+        "ref": "art. 164, comma 1",
+        "text": "L'unità di voto del bilancio per l'entrata è la tipologia e per la spesa è il programma, articolato in titoli."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 164, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-009",
+    "subject": "contabilita-pubblica",
+    "question": "Il bilancio di previsione finanziario ha carattere autorizzatorio. Quali previsioni, tuttavia, NON comportano limiti alla gestione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le previsioni riguardanti gli impegni di spesa corrente",
+        "why_wrong": "Il bilancio costituisce limite proprio agli impegni e ai pagamenti di spesa (art. 164, comma 2, lettera b)."
+      },
+      {
+        "id": "b",
+        "text": "Le previsioni riguardanti le accensioni di prestiti",
+        "why_wrong": "Il bilancio costituisce limite agli accertamenti e agli incassi riguardanti le accensioni di prestiti (art. 164, comma 2, lettera a)."
+      },
+      {
+        "id": "c",
+        "text": "Le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Le previsioni riguardanti i pagamenti in conto capitale",
+        "why_wrong": "Il bilancio costituisce limite a tutti gli impegni e pagamenti di spesa (art. 164, comma 2, lettera b)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il bilancio costituisce limite agli accertamenti e incassi relativi alle accensioni di prestiti e agli impegni e pagamenti di spesa; non comportano limiti alla gestione le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro.",
+    "evidence": [
+      {
+        "ref": "art. 164, comma 2",
+        "text": "Non comportano limiti alla gestione le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 164, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-010",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune è in esercizio provvisorio perché un decreto del Ministro dell'interno ha differito il termine di approvazione del bilancio. Quale delle seguenti operazioni è consentita dall'art. 163 del TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Contrarre un nuovo mutuo per finanziare un investimento",
+        "why_wrong": "Nel corso dell'esercizio provvisorio non è consentito il ricorso all'indebitamento (art. 163, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "Impegnare spese di investimento programmate nel DUP",
+        "why_wrong": "Nel corso dell'esercizio provvisorio si possono impegnare solo spese correnti, partite di giro correlate e interventi di somma urgenza (art. 163, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Ricorrere all'anticipazione di tesoreria",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Nessuna operazione di spesa fino all'approvazione del bilancio",
+        "why_wrong": "In esercizio provvisorio l'ente può impegnare spese correnti, nei limiti dei dodicesimi, e interventi di somma urgenza (art. 163, commi 3 e 5)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Nel corso dell'esercizio provvisorio non è consentito ricorrere all'indebitamento e si possono impegnare solo spese correnti, le spese correlate per partite di giro e gli interventi di somma urgenza; è invece consentito ricorrere all'anticipazione di tesoreria.",
+    "evidence": [
+      {
+        "ref": "art. 163, comma 3",
+        "text": "Nel corso dell'esercizio provvisorio non è consentito il ricorso all'indebitamento e gli enti possono impegnare solo spese correnti, le eventuali spese correlate riguardanti le partite di giro, lavori pubblici di somma urgenza o altri interventi di somma urgenza. Nel corso dell'esercizio provvisorio è consentito il ricorso all'anticipazione di tesoreria di cui all'art. 222."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 163, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-011",
+    "subject": "contabilita-pubblica",
+    "question": "Nel mese di febbraio un Comune in esercizio provvisorio deve impegnare spese correnti di un programma, soggette al limite dei dodicesimi. Qual è il limite mensile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un dodicesimo degli stanziamenti del primo esercizio del bilancio di previsione deliberato l'anno precedente",
+        "why_wrong": "Il riferimento è agli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente (art. 163, comma 5)."
+      },
+      {
+        "id": "b",
+        "text": "Un dodicesimo delle spese impegnate nell'esercizio precedente",
+        "why_wrong": "Il parametro sono gli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, non gli impegni dell'anno precedente (art. 163, comma 5)."
+      },
+      {
+        "id": "c",
+        "text": "Un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente, oltre alla quota dei dodicesimi non utilizzata nei mesi precedenti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Tre dodicesimi delle entrate accertate nel penultimo anno precedente",
+        "why_wrong": "Tre dodicesimi delle entrate accertate nel penultimo anno è il limite delle anticipazioni di tesoreria (art. 222, comma 1), non degli impegni in esercizio provvisorio."
+      }
+    ],
+    "correct": "c",
+    "explanation": "In esercizio provvisorio gli enti possono impegnare mensilmente, per ciascun programma, importi non superiori a un dodicesimo degli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti. Sono escluse dal limite, tra le altre, le spese tassativamente regolate dalla legge e quelle non frazionabili in dodicesimi.",
+    "evidence": [
+      {
+        "ref": "art. 163, comma 5",
+        "text": "Nel corso dell'esercizio provvisorio, gli enti possono impegnare mensilmente,unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti, per ciascun programma, le spese di cui al comma 3, per importi non superiori ad un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 163, comma 5",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-012",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune non ha approvato il bilancio entro il 31 dicembre e non è stato autorizzato l'esercizio provvisorio. Quali obbligazioni può assumere l'ente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tutte le spese correnti, nel limite di un dodicesimo al mese",
+        "why_wrong": "Il limite dei dodicesimi riguarda l'esercizio provvisorio (art. 163, comma 5); in questo caso si applica la più restrittiva gestione provvisoria (art. 163, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Solo obbligazioni derivanti da provvedimenti giurisdizionali esecutivi, quelle tassativamente regolate dalla legge e quelle necessarie a evitare danni patrimoniali certi e gravi all'ente",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Nessuna obbligazione fino all'approvazione del bilancio",
+        "why_wrong": "Anche in gestione provvisoria l'ente può assumere alcune obbligazioni, elencate dall'art. 163, comma 2."
+      },
+      {
+        "id": "d",
+        "text": "Solo obbligazioni finanziate con l'indebitamento",
+        "why_wrong": "La norma non collega le obbligazioni ammesse all'indebitamento, ma le limita ai casi elencati dall'art. 163, comma 2."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Se il bilancio non è approvato entro il 31 dicembre e non è stato autorizzato l'esercizio provvisorio, è consentita esclusivamente una gestione provvisoria, nel corso della quale l'ente può assumere solo le obbligazioni derivanti da provvedimenti giurisdizionali esecutivi, quelle tassativamente regolate dalla legge e quelle necessarie a evitare danni patrimoniali certi e gravi.",
+    "evidence": [
+      {
+        "ref": "art. 163, comma 2",
+        "text": "Nel corso della gestione provvisoria l'ente può assumere solo obbligazioni derivanti da provvedimenti giurisdizionali esecutivi, quelle tassativamente regolate dalla legge e quelle necessarie ad evitare che siano arrecati danni patrimoniali certi e gravi all'ente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 163, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-013",
+    "subject": "contabilita-pubblica",
+    "question": "Da chi è autorizzato l'esercizio provvisorio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dal Consiglio dell'ente, con deliberazione adottata entro il 31 dicembre",
+        "why_wrong": "L'esercizio provvisorio non è autorizzato dall'ente, ma con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "Dalla Giunta, previo parere dell'organo di revisione",
+        "why_wrong": "L'esercizio provvisorio è autorizzato con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Dal Prefetto, su richiesta del sindaco",
+        "why_wrong": "Il Prefetto non è previsto: l'autorizzazione avviene con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Con legge o con decreto del Ministro dell'interno che differisce il termine di approvazione del bilancio",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'esercizio provvisorio è autorizzato con legge o con decreto del Ministro dell'interno che differisce il termine di approvazione del bilancio, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-città, in presenza di motivate esigenze.",
+    "evidence": [
+      {
+        "ref": "art. 163, comma 3",
+        "text": "L'esercizio provvisorio è autorizzato con legge o con decreto del Ministro dell'interno che, ai sensi di quanto previsto dall'art. 151, primo comma, differisce il termine di approvazione del bilancio"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 163, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-014",
+    "subject": "contabilita-pubblica",
+    "question": "Entro quali limiti gli enti locali iscrivono in bilancio il fondo di riserva (di competenza), in via ordinaria?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non inferiore allo 0,30 e non superiore al 2 per cento del totale delle spese correnti di competenza inizialmente previste",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Non inferiore allo 0,45 e non superiore al 2 per cento del totale delle spese correnti",
+        "why_wrong": "Lo 0,45 per cento è il limite minimo solo per gli enti nelle situazioni previste dagli articoli 195 e 222 (art. 166, comma 2-ter)."
+      },
+      {
+        "id": "c",
+        "text": "Non inferiore allo 0,2 per cento delle spese finali",
+        "why_wrong": "Lo 0,2 per cento delle spese finali è il minimo del fondo di riserva di cassa (art. 166, comma 2-quater)."
+      },
+      {
+        "id": "d",
+        "text": "Non superiore al 10 per cento delle entrate correnti",
+        "why_wrong": "La norma fissa i limiti in percentuale delle spese correnti di competenza, tra lo 0,30 e il 2 per cento (art. 166, comma 1)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella missione \"Fondi e Accantonamenti\" gli enti iscrivono un fondo di riserva non inferiore allo 0,30 e non superiore al 2 per cento del totale delle spese correnti di competenza inizialmente previste in bilancio.",
+    "evidence": [
+      {
+        "ref": "art. 166, comma 1",
+        "text": "gli enti locali iscrivono un fondo di riserva non inferiore allo 0,30 e non superiore al 2 per cento del totale delle spese correnti di competenza inizialmente previste in bilancio.))"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 166, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-015",
+    "subject": "contabilita-pubblica",
+    "question": "Il 20 dicembre la Giunta di un Comune delibera un prelevamento dal fondo di riserva per un'esigenza straordinaria di bilancio. Il prelevamento è legittimo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No, perché i prelevamenti dal fondo di riserva sono di competenza del Consiglio",
+        "why_wrong": "I prelevamenti dal fondo di riserva sono di competenza dell'organo esecutivo (art. 176, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "No, perché i prelevamenti sono ammessi solo fino al 30 novembre",
+        "why_wrong": "Il 30 novembre è il termine ordinario per le variazioni di bilancio (art. 175, comma 3); i prelevamenti dal fondo di riserva sono ammessi fino al 31 dicembre (art. 176, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Sì, ma solo previa ratifica del Consiglio entro sessanta giorni",
+        "why_wrong": "La ratifica consiliare entro sessanta giorni riguarda le variazioni di bilancio adottate in via d'urgenza dalla Giunta (art. 175, comma 4); per il fondo di riserva è prevista la comunicazione al Consiglio (art. 166, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Sì, perché i prelevamenti sono di competenza dell'organo esecutivo e possono essere deliberati sino al 31 dicembre",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "I prelevamenti dal fondo di riserva sono di competenza dell'organo esecutivo e possono essere deliberati sino al 31 dicembre di ciascun anno. Le deliberazioni sono comunicate all'organo consiliare nei tempi stabiliti dal regolamento di contabilità.",
+    "evidence": [
+      {
+        "ref": "art. 176, comma 1",
+        "text": "I prelevamenti dal fondo di riserva ((, dal fondo di riserva di cassa e dai fondi spese potenziali)) sono di competenza dell'organo esecutivo e possono essere deliberati sino al 31 dicembre di ciascun anno."
+      },
+      {
+        "ref": "art. 166, comma 2",
+        "text": "Il fondo è utilizzato, con deliberazioni dell'organo esecutivo da comunicare all'organo consiliare nei tempi stabiliti dal regolamento di contabilità"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 176, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-016",
+    "subject": "contabilita-pubblica",
+    "question": "Chi delibera il piano esecutivo di gestione (PEG) e entro quale termine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Consiglio, contestualmente all'approvazione del bilancio",
+        "why_wrong": "Il PEG è deliberato dalla Giunta, entro venti giorni dall'approvazione del bilancio (art. 169, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "La Giunta, entro venti giorni dall'approvazione del bilancio di previsione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il responsabile del servizio finanziario, entro trenta giorni dall'approvazione del bilancio",
+        "why_wrong": "Il PEG è deliberato dalla Giunta, che vi affida obiettivi e dotazioni ai responsabili dei servizi (art. 169, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "La Giunta, entro il 15 novembre, insieme allo schema di bilancio",
+        "why_wrong": "Il 15 novembre è il termine per presentare lo schema di bilancio al consiglio (art. 174, comma 1); il PEG segue l'approvazione del bilancio (art. 169, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La Giunta delibera il PEG entro venti giorni dall'approvazione del bilancio di previsione; il PEG individua gli obiettivi della gestione e li affida, con le dotazioni necessarie, ai responsabili dei servizi.",
+    "evidence": [
+      {
+        "ref": "art. 169, comma 1",
+        "text": "La giunta delibera il piano esecutivo di gestione (PEG) entro venti giorni dall'approvazione del bilancio di previsione, in termini di competenza ."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 169, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-017",
+    "subject": "contabilita-pubblica",
+    "question": "Salvo le eccezioni previste, a quale organo spettano le variazioni al bilancio di previsione ed entro quale data possono essere deliberate in via ordinaria?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All'organo consiliare, non oltre il 30 novembre di ciascun anno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "All'organo esecutivo, non oltre il 15 dicembre di ciascun anno",
+        "why_wrong": "Il 15 dicembre è il termine per le variazioni al PEG, di competenza della Giunta (art. 175, comma 9); le variazioni al bilancio spettano al consiglio (art. 175, comma 2)."
+      },
+      {
+        "id": "c",
+        "text": "All'organo consiliare, non oltre il 31 luglio di ciascun anno",
+        "why_wrong": "Il 31 luglio è il termine dell'assestamento generale (art. 175, comma 8), non il limite per tutte le variazioni."
+      },
+      {
+        "id": "d",
+        "text": "Al responsabile del servizio finanziario, sino al 31 dicembre",
+        "why_wrong": "Il responsabile finanziario può effettuare solo le variazioni elencate dal comma 5-quater; in generale le variazioni sono di competenza del consiglio (art. 175, comma 2)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le variazioni al bilancio sono di competenza dell'organo consiliare, salvo quelle attribuite alla Giunta (comma 5-bis) e ai responsabili (comma 5-quater), e possono essere deliberate non oltre il 30 novembre, fatte salve alcune variazioni ammesse fino al 31 dicembre.",
+    "evidence": [
+      {
+        "ref": "art. 175, comma 2",
+        "text": "Le variazioni al bilancio sono di competenza dell'organo consiliare salvo quelle previste dai commi 5-bis e 5-quater."
+      },
+      {
+        "ref": "art. 175, comma 3",
+        "text": "Le variazioni al bilancio possono essere deliberate non oltre il 30 novembre di ciascun anno"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 175, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-018",
+    "subject": "contabilita-pubblica",
+    "question": "Il 10 settembre la Giunta di un Comune adotta, in via d'urgenza opportunamente motivata, una variazione di bilancio di competenza consiliare. Che cosa deve accadere perché la variazione non decada?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve essere approvata dall'organo di revisione entro trenta giorni",
+        "why_wrong": "La norma richiede la ratifica dell'organo consiliare, non un'approvazione dell'organo di revisione (art. 175, comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "Deve essere ratificata dal Consiglio entro i sessanta giorni seguenti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Deve essere ratificata dal Consiglio entro il 30 novembre, qualunque sia la data di adozione",
+        "why_wrong": "Il termine di ratifica è di sessanta giorni e comunque entro il 31 dicembre, se a tale data non è scaduto (art. 175, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "Non occorre alcun atto: la Giunta può sempre adottare variazioni di bilancio",
+        "why_wrong": "Le variazioni di bilancio sono di competenza consiliare; quelle adottate dalla Giunta in via d'urgenza vanno ratificate a pena di decadenza (art. 175, commi 2 e 4)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le variazioni di bilancio possono essere adottate dall'organo esecutivo in via d'urgenza opportunamente motivata, salvo ratifica, a pena di decadenza, da parte dell'organo consiliare entro i sessanta giorni seguenti e comunque entro il 31 dicembre dell'anno in corso se a tale data non sia scaduto il predetto termine.",
+    "evidence": [
+      {
+        "ref": "art. 175, comma 4",
+        "text": "Ai sensi dell'articolo 42 le variazioni di bilancio possono essere adottate dall'organo esecutivo in via d'urgenza opportunamente motivata, salvo ratifica, a pena di decadenza, da parte dell'organo consiliare entro i sessanta giorni seguenti e comunque entro il 31 dicembre dell'anno in corso se a tale data non sia scaduto il predetto termine."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 175, comma 4",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-019",
+    "subject": "contabilita-pubblica",
+    "question": "Che cosa si attua con la variazione di assestamento generale del bilancio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La verifica generale di tutte le voci di entrata e di uscita, compreso il fondo di riserva e il fondo di cassa, deliberata dal consiglio entro il 31 luglio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il riaccertamento dei residui attivi e passivi, deliberato dalla Giunta entro il 30 aprile",
+        "why_wrong": "Il riaccertamento dei residui precede l'inserimento nel conto del bilancio (art. 228, comma 3); l'assestamento è una variazione consiliare entro il 31 luglio (art. 175, comma 8)."
+      },
+      {
+        "id": "c",
+        "text": "La presentazione del DUP al consiglio, entro il 31 luglio",
+        "why_wrong": "Il DUP è presentato dalla Giunta entro il 31 luglio (art. 170, comma 1), ma è altro atto rispetto all'assestamento generale (art. 175, comma 8)."
+      },
+      {
+        "id": "d",
+        "text": "L'approvazione delle variazioni compensative del PEG, entro il 15 dicembre",
+        "why_wrong": "Le variazioni al PEG spettano all'organo esecutivo entro il 15 dicembre (art. 175, comma 9); l'assestamento generale è deliberato dal consiglio (art. 175, comma 8)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Mediante la variazione di assestamento generale, deliberata dall'organo consiliare entro il 31 luglio di ciascun anno, si attua la verifica generale di tutte le voci di entrata e di uscita, compresi il fondo di riserva e il fondo di cassa, al fine di assicurare il mantenimento del pareggio di bilancio.",
+    "evidence": [
+      {
+        "ref": "art. 175, comma 8",
+        "text": "Mediante la variazione di assestamento generale, deliberata dall'organo consiliare dell'ente entro il 31 luglio di ciascun anno, si attua la verifica generale di tutte le voci di entrata e di uscita, compreso il fondo di riserva ed il fondo di cassa, al fine di assicurare il mantenimento del pareggio di bilancio."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 175, comma 8",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-bil-020",
+    "subject": "contabilita-pubblica",
+    "question": "Nel rispetto del regolamento di contabilità, chi può effettuare le variazioni compensative del PEG fra capitoli di spesa del medesimo macroaggregato (esclusi quelli riguardanti trasferimenti e contributi agli investimenti)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Esclusivamente il Consiglio",
+        "why_wrong": "Le variazioni al PEG non sono di competenza consiliare; quelle compensative nello stesso macroaggregato spettano ai responsabili della spesa (art. 175, comma 5-quater)."
+      },
+      {
+        "id": "b",
+        "text": "Esclusivamente la Giunta",
+        "why_wrong": "Alla Giunta restano le variazioni dei capitoli dei macroaggregati relativi a trasferimenti e contributi agli investimenti (art. 175, comma 5-quater, lettera a))."
+      },
+      {
+        "id": "c",
+        "text": "I responsabili della spesa o, in assenza di disciplina, il responsabile finanziario",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il segretario comunale",
+        "why_wrong": "Il segretario non è indicato dalla norma, che attribuisce queste variazioni ai responsabili della spesa o al responsabile finanziario (art. 175, comma 5-quater)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "I responsabili della spesa o, in assenza di disciplina, il responsabile finanziario possono effettuare le variazioni compensative del PEG fra capitoli di entrata della medesima categoria e fra capitoli di spesa del medesimo macroaggregato, escluse quelle riguardanti trasferimenti correnti, contributi agli investimenti e trasferimenti in conto capitale, che spettano alla Giunta.",
+    "evidence": [
+      {
+        "ref": "art. 175, comma 5-quater",
+        "text": "Nel rispetto di quanto previsto dai regolamenti di contabilità, i responsabili della spesa o, in assenza di disciplina, il responsabile finanziario, possono effettuare, per ciascuno degli esercizi del bilancio: a) le variazioni compensative del piano esecutivo di gestione fra capitoli di entrata della medesima categoria e fra i capitoli di spesa del medesimo macroaggregato"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 175, comma 5-quater",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

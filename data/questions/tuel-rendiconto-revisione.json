@@ -1,0 +1,662 @@
+[
+  {
+    "id": "tuel-rr-001",
+    "subject": "contabilita-pubblica",
+    "question": "Quali documenti comprende il rendiconto della gestione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il conto del bilancio, il conto economico e lo stato patrimoniale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il conto del bilancio, il conto del tesoriere e il conto dell'economo",
+        "why_wrong": "Il conto del tesoriere e quello dell'economo sono resi all'ente dagli agenti contabili (artt. 226 e 233), ma non compongono il rendiconto (art. 227, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Il bilancio di previsione assestato e il piano esecutivo di gestione",
+        "why_wrong": "Sono documenti della programmazione e gestione (artt. 174, comma 4, e 169), non parti del rendiconto (art. 227, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Il conto del bilancio e la relazione dell'organo di revisione",
+        "why_wrong": "La relazione dell'organo di revisione è un atto di cui il consiglio tiene conto (art. 227, comma 2), non una parte del rendiconto, che comprende conto del bilancio, conto economico e stato patrimoniale (art. 227, comma 1)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La dimostrazione dei risultati di gestione avviene mediante il rendiconto della gestione, che comprende il conto del bilancio, il conto economico e lo stato patrimoniale.",
+    "evidence": [
+      {
+        "ref": "art. 227, comma 1",
+        "text": "La dimostrazione dei risultati di gestione avviene mediante il rendiconto della gestione, il quale comprende il conto del bilancio, il conto economico e lo stato patrimoniale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 227, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-002",
+    "subject": "contabilita-pubblica",
+    "question": "Da quale organo ed entro quale termine è deliberato il rendiconto della gestione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dalla Giunta, entro il 31 marzo dell'anno successivo",
+        "why_wrong": "Il rendiconto è deliberato dall'organo consiliare entro il 30 aprile (art. 227, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Dall'organo consiliare, entro il 30 aprile dell'anno successivo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Dall'organo consiliare, entro il 31 luglio dell'anno successivo",
+        "why_wrong": "Il 31 luglio è il termine per la verifica degli equilibri (art. 193, comma 2) e per l'assestamento (art. 175, comma 8)."
+      },
+      {
+        "id": "d",
+        "text": "Dall'organo di revisione, entro il 30 aprile dell'anno successivo",
+        "why_wrong": "L'organo di revisione redige una relazione sulla proposta di rendiconto (art. 239, comma 1, lettera d)); la deliberazione spetta al consiglio (art. 227, comma 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il rendiconto della gestione è deliberato dall'organo consiliare entro il 30 aprile dell'anno successivo, tenuto motivatamente conto della relazione dell'organo di revisione.",
+    "evidence": [
+      {
+        "ref": "art. 227, comma 2",
+        "text": "Il rendiconto della gestione è deliberato entro il 30 aprile dell'anno successivo dall'organo consiliare, tenuto motivatamente conto della relazione dell'organo di revisione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 227, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-003",
+    "subject": "contabilita-pubblica",
+    "question": "Il regolamento di contabilità di un Comune prevede che la proposta di rendiconto sia messa a disposizione dei consiglieri dieci giorni prima della sessione consiliare in cui viene esaminata. La previsione è conforme al TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sì, perché il termine è interamente rimesso al regolamento di contabilità",
+        "why_wrong": "Il regolamento stabilisce il termine, ma questo non può essere inferiore a venti giorni (art. 227, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Sì, purché la proposta sia accompagnata dalla relazione dell'organo di revisione",
+        "why_wrong": "La relazione dei revisori non consente di ridurre il termine, che non può essere inferiore a venti giorni (art. 227, comma 2)."
+      },
+      {
+        "id": "c",
+        "text": "No, perché il termine stabilito dal regolamento non può essere inferiore a venti giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "No, perché la proposta deve essere messa a disposizione almeno sessanta giorni prima",
+        "why_wrong": "La norma fissa un minimo di venti giorni, non di sessanta (art. 227, comma 2)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La proposta di rendiconto è messa a disposizione dei componenti dell'organo consiliare prima della sessione in cui viene esaminata, entro un termine stabilito dal regolamento di contabilità e comunque non inferiore a venti giorni.",
+    "evidence": [
+      {
+        "ref": "art. 227, comma 2",
+        "text": "La proposta è messa a disposizione dei componenti dell'organo consiliare prima dell'inizio della sessione consiliare in cui viene esaminato il rendiconto entro un termine, non inferiore a venti giorni, stabilito dal regolamento di contabilità."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 227, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-004",
+    "subject": "contabilita-pubblica",
+    "question": "Che cosa accade se il rendiconto di gestione non è approvato entro il 30 aprile dell'anno successivo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il rendiconto si intende approvato per silenzio-assenso",
+        "why_wrong": "La norma non prevede un'approvazione tacita, ma l'applicazione della procedura dell'art. 141, comma 2 (art. 227, comma 2-bis)."
+      },
+      {
+        "id": "b",
+        "text": "Si applica la procedura prevista dal comma 2 dell'articolo 141",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "L'ente è dichiarato automaticamente in dissesto",
+        "why_wrong": "La mancata approvazione del rendiconto non comporta il dissesto automatico; si applica la procedura dell'art. 141, comma 2 (art. 227, comma 2-bis)."
+      },
+      {
+        "id": "d",
+        "text": "Il rendiconto è approvato dall'organo di revisione in via sostitutiva",
+        "why_wrong": "L'organo di revisione non ha poteri sostitutivi; si applica la procedura dell'art. 141, comma 2 (art. 227, comma 2-bis)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "In caso di mancata approvazione del rendiconto di gestione entro il 30 aprile dell'anno successivo, si applica la procedura prevista dal comma 2 dell'art. 141, la stessa prevista per la mancata approvazione del bilancio.",
+    "evidence": [
+      {
+        "ref": "art. 227, comma 2-bis",
+        "text": "In caso di mancata approvazione del rendiconto di gestione entro il termine del 30 aprile dell'anno successivo, si applica la procedura prevista dal comma 2 dell'articolo 141."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 227, comma 2-bis",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-005",
+    "subject": "contabilita-pubblica",
+    "question": "Per ciascuna tipologia di entrata, che cosa indica il conto del bilancio, distintamente per residui e competenza?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le sole somme riscosse nell'esercizio",
+        "why_wrong": "Il conto del bilancio indica le somme accertate, distinguendo la parte riscossa da quella ancora da riscuotere (art. 228, comma 2, lettera a))."
+      },
+      {
+        "id": "b",
+        "text": "Le somme previste in bilancio e quelle versate dagli agenti contabili",
+        "why_wrong": "Il conto del bilancio espone per l'entrata le somme accertate, con distinzione tra riscosso e da riscuotere (art. 228, comma 2, lettera a))."
+      },
+      {
+        "id": "c",
+        "text": "Le somme impegnate, con distinzione della parte pagata e di quella da pagare",
+        "why_wrong": "Impegni e pagamenti riguardano la spesa (art. 228, comma 2, lettera b))."
+      },
+      {
+        "id": "d",
+        "text": "Le somme accertate, con distinzione della parte riscossa e di quella ancora da riscuotere",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il conto del bilancio comprende, distintamente per residui e competenza, per l'entrata le somme accertate con distinzione tra parte riscossa e parte ancora da riscuotere; per la spesa le somme impegnate con distinzione tra parte pagata, parte da pagare e parte impegnata con imputazione agli esercizi successivi.",
+    "evidence": [
+      {
+        "ref": "art. 228, comma 2",
+        "text": "a) per l'entrata le somme accertate, con distinzione della parte riscossa e di quella ancora da riscuotere;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 228, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-006",
+    "subject": "contabilita-pubblica",
+    "question": "In che cosa consiste l'operazione di riaccertamento dei residui, effettuata prima del loro inserimento nel conto del bilancio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella revisione delle ragioni del mantenimento in tutto o in parte dei residui e della corretta imputazione in bilancio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nella verifica trimestrale di cassa svolta dall'organo di revisione",
+        "why_wrong": "La verifica ordinaria di cassa è altra attività dell'organo di revisione (art. 223, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Nella cancellazione automatica di tutti i residui attivi non riscossi",
+        "why_wrong": "Il riaccertamento rivede le ragioni del mantenimento dei residui, in tutto o in parte, senza cancellazioni automatiche (art. 228, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Nella nuova emissione in conto competenza degli ordinativi non riscossi",
+        "why_wrong": "Gli ordinativi non riscossi entro l'esercizio sono riemessi in conto residui (art. 180, comma 4-quinquies); il riaccertamento è la revisione descritta dall'art. 228, comma 3."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Prima dell'inserimento nel conto del bilancio dei residui attivi e passivi, l'ente provvede al loro riaccertamento, che consiste nella revisione delle ragioni del mantenimento in tutto o in parte dei residui e della corretta imputazione in bilancio.",
+    "evidence": [
+      {
+        "ref": "art. 228, comma 3",
+        "text": "Prima dell'inserimento nel conto del bilancio dei residui attivi e passivi l'ente locale provvede all'operazione di riaccertamento degli stessi, consistente nella revisione delle ragioni del mantenimento in tutto od in parte dei residui e della corretta imputazione in bilancio"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 228, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-007",
+    "subject": "contabilita-pubblica",
+    "question": "Che fine hanno, nello stato patrimoniale, i crediti inesigibili stralciati dal conto del bilancio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sono eliminati immediatamente anche dallo stato patrimoniale",
+        "why_wrong": "Lo stato patrimoniale li comprende sino al compimento dei termini di prescrizione (art. 230, comma 5)."
+      },
+      {
+        "id": "b",
+        "text": "Restano tra i residui attivi del conto del bilancio",
+        "why_wrong": "Si tratta di crediti stralciati dal conto del bilancio; il loro elenco è allegato al rendiconto distintamente da quello dei residui attivi (art. 230, comma 5)."
+      },
+      {
+        "id": "c",
+        "text": "Sono compresi nello stato patrimoniale sino al compimento dei termini di prescrizione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Sono trasferiti al fondo di riserva",
+        "why_wrong": "Il fondo di riserva è uno stanziamento di spesa del bilancio di previsione (art. 166, comma 1), estraneo alla sorte dei crediti inesigibili (art. 230, comma 5)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Lo stato patrimoniale comprende anche i crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione; al rendiconto è allegato l'elenco di tali crediti, distinto da quello dei residui attivi.",
+    "evidence": [
+      {
+        "ref": "art. 230, comma 5",
+        "text": "Lo stato patrimoniale comprende anche i crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione. Al rendiconto della gestione è allegato l'elenco di tali crediti distintamente rispetto a quello dei residui attivi."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 230, comma 5",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-008",
+    "subject": "contabilita-pubblica",
+    "question": "L'economo di un Comune deve rendere il conto della propria gestione relativo all'esercizio appena chiuso. Quali termini si applicano?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'economo rende il conto entro 60 giorni dalla chiusura dell'esercizio e l'ente lo trasmette alla Corte dei conti entro 30 giorni dall'approvazione del rendiconto",
+        "why_wrong": "I termini sono invertiti: 30 giorni per l'economo e 60 giorni per la trasmissione alla Corte dei conti (art. 233, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "L'economo rende il conto entro 30 giorni dalla chiusura dell'esercizio; l'ente lo trasmette alla sezione giurisdizionale della Corte dei conti entro 60 giorni dall'approvazione del rendiconto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "L'economo trasmette il conto direttamente alla Corte dei conti entro il 30 aprile",
+        "why_wrong": "Il conto è reso all'ente, che lo trasmette alla Corte dei conti (art. 233, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "L'economo allega il proprio conto al conto del tesoriere, reso entro 30 giorni",
+        "why_wrong": "Il conto dell'economo è autonomo; anche il tesoriere rende all'ente il proprio conto (art. 226, comma 1), ma sono conti distinti (art. 233, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Entro 30 giorni dalla chiusura dell'esercizio, l'economo, il consegnatario di beni e gli altri agenti contabili rendono il conto della propria gestione all'ente, che lo trasmette alla competente sezione giurisdizionale della Corte dei conti entro 60 giorni dall'approvazione del rendiconto.",
+    "evidence": [
+      {
+        "ref": "art. 233, comma 1",
+        "text": "Entro il termine di (( 30 giorni )) dalla chiusura dell'esercizio finanziario, l'economo, il consegnatario di beni e gli altri soggetti di cui all'articolo 93, comma 2, rendono il conto della propria gestione all'ente locale il quale lo trasmette alla competente sezione giurisdizionale della Corte dei conti entro 60 giorni dall'approvazione del rendiconto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 233, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-009",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune di 12.000 abitanti, che non fa parte di un'unione di comuni, deve nominare l'organo di revisione economico-finanziaria. Come è composto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Da un collegio di tre membri",
+        "why_wrong": "Il collegio di tre membri è previsto in via generale (art. 234, comma 1), ma nei comuni sotto i 15.000 abitanti la revisione è affidata a un solo revisore (art. 234, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "Da un collegio di cinque membri",
+        "why_wrong": "Il TUEL non prevede collegi di cinque membri; il collegio è di tre (art. 234, comma 1) e sotto i 15.000 abitanti opera un solo revisore (art. 234, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Da un solo revisore",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Da due revisori, di cui uno con funzioni di presidente",
+        "why_wrong": "Sotto i 15.000 abitanti la revisione è affidata a un solo revisore (art. 234, comma 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Nei comuni con popolazione inferiore a 15.000 abitanti, nelle unioni di comuni (salvo il caso del comma 3-bis) e nelle comunità montane la revisione economico-finanziaria è affidata a un solo revisore; negli altri casi opera un collegio di tre membri.",
+    "evidence": [
+      {
+        "ref": "art. 234, comma 3",
+        "text": "Nei comuni con popolazione inferiore a 15.000 abitanti, nelle unioni dei comuni ((, salvo quanto previsto dal comma 3-bis,)) e nelle comunità montane la revisione economico-finanziaria è affidata ad un solo revisore"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 234, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-010",
+    "subject": "contabilita-pubblica",
+    "question": "Quanto dura in carica l'organo di revisione contabile e quante volte i suoi componenti possono svolgere l'incarico nello stesso ente locale?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tre anni; non più di due volte nello stesso ente",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Cinque anni; una sola volta nello stesso ente",
+        "why_wrong": "L'organo dura in carica tre anni e i componenti possono svolgere l'incarico al massimo due volte nello stesso ente (art. 235, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Tre anni; senza limiti di rinnovo",
+        "why_wrong": "I componenti non possono svolgere l'incarico per più di due volte nello stesso ente (art. 235, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Per la durata del mandato del consiglio che lo ha nominato",
+        "why_wrong": "La durata è di tre anni dalla data di esecutività della delibera di nomina (art. 235, comma 1)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'organo di revisione dura in carica tre anni a decorrere dalla data di esecutività della delibera di nomina e i suoi componenti non possono svolgere l'incarico per più di due volte nello stesso ente locale.",
+    "evidence": [
+      {
+        "ref": "art. 235, comma 1",
+        "text": "L'organo di revisione contabile dura in carica tre anni a decorrere dalla data di esecutività della delibera o dalla data di immediata eseguibilità nell'ipotesi di cui all'articolo 134, comma 3, e ((i suoi componenti non possono svolgere l'incarico per più di due volte nello stesso ente locale)) ."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 235, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-011",
+    "subject": "contabilita-pubblica",
+    "question": "In quale caso il revisore dei conti di un ente locale è revocabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In qualsiasi momento, per decisione motivata del consiglio",
+        "why_wrong": "Il revisore è revocabile solo per inadempienza (art. 235, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Solo per inadempienza, in particolare per la mancata presentazione della relazione sulla proposta di deliberazione consiliare del rendiconto entro il termine previsto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "In caso di cambio della maggioranza consiliare",
+        "why_wrong": "La norma ammette la revoca solo per inadempienza (art. 235, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Per scadenza del mandato",
+        "why_wrong": "La scadenza del mandato è una causa di cessazione dall'incarico (art. 235, comma 3, lettera a)), non di revoca."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il revisore è revocabile solo per inadempienza e in particolare per la mancata presentazione della relazione alla proposta di deliberazione consiliare del rendiconto entro il termine previsto dall'art. 239, comma 1, lettera d).",
+    "evidence": [
+      {
+        "ref": "art. 235, comma 2",
+        "text": "Il revisore è revocabile solo per inadempienza ed in particolare per la mancata presentazione della relazione alla proposta di deliberazione consiliare del rendiconto entro il termine previsto dall'articolo 239, comma 1, lettera d)."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 235, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-012",
+    "subject": "contabilita-pubblica",
+    "question": "Il revisore unico di un Comune intende dimettersi volontariamente. Che cosa prevede il TUEL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le dimissioni hanno effetto solo se accettate dal consiglio",
+        "why_wrong": "Le dimissioni volontarie non sono soggette ad accettazione da parte dell'ente (art. 235, comma 3, lettera b))."
+      },
+      {
+        "id": "b",
+        "text": "Le dimissioni sono comunicate con preavviso di almeno quarantacinque giorni e non sono soggette ad accettazione da parte dell'ente",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Le dimissioni hanno effetto immediato, senza preavviso",
+        "why_wrong": "È richiesto un preavviso di almeno quarantacinque giorni (art. 235, comma 3, lettera b))."
+      },
+      {
+        "id": "d",
+        "text": "Il revisore non può dimettersi prima della scadenza triennale",
+        "why_wrong": "Le dimissioni volontarie sono una causa di cessazione dall'incarico (art. 235, comma 3, lettera b))."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il revisore cessa dall'incarico, tra l'altro, per dimissioni volontarie, da comunicare con preavviso di almeno quarantacinque giorni; le dimissioni non sono soggette ad accettazione da parte dell'ente.",
+    "evidence": [
+      {
+        "ref": "art. 235, comma 3",
+        "text": "b) dimissioni volontarie ((da comunicare con preavviso di almeno quarantacinque giorni e che non sono soggette ad accettazione da parte dell'ente)) ;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 235, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-013",
+    "subject": "contabilita-pubblica",
+    "question": "Un ex assessore di un Comune, cessato dalla carica un anno fa, è iscritto nel registro dei revisori contabili e aspira a diventare revisore dello stesso Comune. Può assumere l'incarico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sì, perché ha cessato la carica prima della nomina",
+        "why_wrong": "L'incompatibilità si estende a chi ha ricoperto l'incarico di componente degli organi dell'ente nel biennio precedente alla nomina (art. 236, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Sì, purché si tratti del primo incarico di revisione presso quell'ente",
+        "why_wrong": "Il limite di due incarichi nello stesso ente (art. 235, comma 1) non supera l'incompatibilità di chi è stato componente degli organi dell'ente nel biennio precedente (art. 236, comma 2)."
+      },
+      {
+        "id": "c",
+        "text": "Sì, se l'incarico è approvato dall'organo regionale di controllo",
+        "why_wrong": "La norma non prevede deroghe di questo tipo all'incompatibilità (art. 236, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "No, perché l'incarico non può essere esercitato da chi è stato componente degli organi dell'ente nel biennio precedente alla nomina",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'incarico di revisione economico-finanziaria non può essere esercitato dai componenti degli organi dell'ente locale e da coloro che hanno ricoperto tale incarico nel biennio precedente alla nomina, né dal segretario e dai dipendenti dell'ente.",
+    "evidence": [
+      {
+        "ref": "art. 236, comma 2",
+        "text": "L'incarico di revisione economico-finanziaria non può essere esercitato dai componenti degli organi dell'ente locale e da coloro che hanno ricoperto tale incarico nel biennio precedente alla nomina"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 236, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-014",
+    "subject": "contabilita-pubblica",
+    "question": "Che valore hanno i pareri dell'organo di revisione sugli strumenti di programmazione, sulla proposta di bilancio e sulle variazioni di competenza consiliare?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sono facoltativi e il consiglio può discostarsene senza motivazione",
+        "why_wrong": "I pareri sono obbligatori e il consiglio deve adottare i provvedimenti conseguenti o motivare la mancata adozione delle misure proposte (art. 239, comma 1-bis)."
+      },
+      {
+        "id": "b",
+        "text": "Sono vincolanti: il consiglio non può deliberare in senso difforme",
+        "why_wrong": "La norma consente al consiglio di non adottare le misure proposte, purché motivi adeguatamente (art. 239, comma 1-bis)."
+      },
+      {
+        "id": "c",
+        "text": "Sono obbligatori: il consiglio è tenuto ad adottare i provvedimenti conseguenti o a motivare adeguatamente la mancata adozione delle misure proposte",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Sono richiesti solo se previsti dallo statuto dell'ente",
+        "why_wrong": "I pareri dell'art. 239, comma 1, lettera b), sono obbligatori per legge (art. 239, comma 1-bis); lo statuto può solo ampliare le funzioni dei revisori (art. 239, comma 6)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Nei pareri l'organo di revisione esprime un motivato giudizio di congruità, coerenza e attendibilità contabile delle previsioni. I pareri sono obbligatori; il consiglio è tenuto ad adottare i provvedimenti conseguenti o a motivare adeguatamente la mancata adozione delle misure proposte.",
+    "evidence": [
+      {
+        "ref": "art. 239, comma 1-bis",
+        "text": "I pareri sono obbligatori. L'organo consiliare è tenuto ad adottare i provvedimenti conseguenti o a motivare adeguatamente la mancata adozione delle misure proposte dall'organo di revisione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 239, comma 1-bis",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-rr-015",
+    "subject": "contabilita-pubblica",
+    "question": "Entro quale termine l'organo di revisione presenta la relazione sulla proposta di deliberazione consiliare di approvazione del rendiconto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro il termine previsto dal regolamento di contabilità e comunque non inferiore a 20 giorni, decorrente dalla trasmissione della proposta approvata dall'organo esecutivo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Entro 30 giorni dalla chiusura dell'esercizio finanziario",
+        "why_wrong": "Trenta giorni dalla chiusura dell'esercizio è il termine per la resa del conto del tesoriere e degli agenti contabili (artt. 226, comma 1, e 233, comma 1)."
+      },
+      {
+        "id": "c",
+        "text": "Entro il 30 aprile, contestualmente all'approvazione del rendiconto",
+        "why_wrong": "Il 30 aprile è il termine per la deliberazione consiliare del rendiconto (art. 227, comma 2); la relazione dei revisori la precede."
+      },
+      {
+        "id": "d",
+        "text": "Entro 5 giorni dalla trasmissione della proposta approvata dalla Giunta",
+        "why_wrong": "La norma fissa un termine non inferiore a 20 giorni dalla trasmissione della proposta (art. 239, comma 1, lettera d))."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'organo di revisione presenta la relazione sulla proposta di deliberazione consiliare di approvazione del rendiconto e sullo schema di rendiconto entro il termine previsto dal regolamento di contabilità, comunque non inferiore a 20 giorni dalla trasmissione della proposta approvata dall'organo esecutivo. La relazione attesta la corrispondenza del rendiconto alle risultanze della gestione.",
+    "evidence": [
+      {
+        "ref": "art. 239, comma 1",
+        "text": "d) relazione sulla proposta di deliberazione consiliare ((di approvazione)) del rendiconto della gestione e sullo schema di rendiconto entro il termine, previsto dal regolamento di contabilità e comunque non inferiore a 20 giorni decorrente dalla trasmissione della stessa proposta approvata dall'organo esecutivo."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 239, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
