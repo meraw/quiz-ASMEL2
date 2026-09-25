@@ -94,22 +94,22 @@
     "options": [
       {
         "id": "a",
-        "text": "può rivolgersi soltanto alla delegazione della Commissione europea nel paese terzo",
-        "why_wrong": "L'art. 23 TFUE attribuisce la tutela alle autorità diplomatiche e consolari degli Stati membri, non a una delegazione della Commissione."
+        "text": "può ricevere assistenza soltanto dalla delegazione della Commissione europea nel paese terzo, non dagli altri Stati membri",
+        "why_wrong": "L'art. 23 TFUE attribuisce la tutela alle autorità diplomatiche e consolari di qualsiasi Stato membro, non a una delegazione della Commissione."
       },
       {
         "id": "b",
-        "text": "non ha diritto ad alcuna tutela, perché lo Stato di cui ha la cittadinanza non è rappresentato",
-        "why_wrong": "L'art. 23 TFUE prevede proprio questo caso, garantendo la tutela da parte di qualsiasi Stato membro rappresentato."
+        "text": "non ha diritto ad alcuna tutela, perché la tutela diplomatica spetta soltanto allo Stato membro di cui ha la cittadinanza",
+        "why_wrong": "L'art. 23 TFUE prevede proprio questo caso, garantendo la tutela da parte di qualsiasi Stato membro."
       },
       {
         "id": "c",
-        "text": "gode della tutela delle autorità diplomatiche e consolari di qualsiasi Stato membro, alle stesse condizioni dei cittadini di quello Stato",
+        "text": "gode della tutela diplomatica e consolare di qualsiasi Stato membro, alle stesse condizioni dei cittadini di quello Stato",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "può essere tutelato da un altro Stato membro solo previo rimborso integrale delle spese",
+        "text": "può essere tutelato da un altro Stato membro solo previo rimborso integrale delle spese sostenute da tale Stato",
         "why_wrong": "L'art. 23 TFUE garantisce la tutela alle stesse condizioni dei cittadini dello Stato che la presta, senza porre la condizione indicata."
       }
     ],
@@ -128,8 +128,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cit-004",

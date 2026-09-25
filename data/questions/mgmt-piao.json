@@ -55,23 +55,23 @@
     "options": [
       {
         "id": "a",
-        "text": "ha durata annuale ed è pubblicato entro il 30 giugno sul sito istituzionale",
-        "why_wrong": "Il Piano ha durata triennale (art. 6, comma 2) e va pubblicato entro il 31 gennaio (art. 6, comma 4)."
+        "text": "ha durata annuale, è adottato entro il 31 gennaio ed è pubblicato entro il 30 giugno sul sito istituzionale e inviato al Dipartimento della funzione pubblica",
+        "why_wrong": "Il Piano ha durata triennale (art. 6, comma 2) e va pubblicato entro il 31 gennaio (art. 6, comma 4); il 30 giugno 2022 era il termine di adozione in prima applicazione (comma 6-bis)."
       },
       {
         "id": "b",
-        "text": "ha durata triennale, è aggiornato annualmente ed è pubblicato, con i relativi aggiornamenti, entro il 31 gennaio sul sito istituzionale e inviato al Dipartimento della funzione pubblica",
+        "text": "ha durata triennale, è aggiornato annualmente ed è pubblicato entro il 31 gennaio sul sito istituzionale e inviato al Dipartimento della funzione pubblica",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "ha durata triennale ed è trasmesso entro il 31 gennaio all'Autorità nazionale anticorruzione per l'approvazione",
+        "text": "ha durata triennale, è aggiornato annualmente ed è trasmesso entro il 31 gennaio all'Autorità nazionale anticorruzione per la relativa approvazione",
         "why_wrong": "L'art. 6, comma 4, prevede l'invio al Dipartimento della funzione pubblica per la pubblicazione sul relativo portale, non l'approvazione dell'ANAC."
       },
       {
         "id": "d",
-        "text": "ha durata quinquennale ed è aggiornato ogni tre anni",
-        "why_wrong": "L'art. 6, comma 2, stabilisce durata triennale e aggiornamento annuale."
+        "text": "ha durata quinquennale, è aggiornato ogni tre anni ed è pubblicato entro il 31 marzo sul sito istituzionale e inviato alla Conferenza unificata",
+        "why_wrong": "L'art. 6, comma 2, stabilisce durata triennale e aggiornamento annuale; il comma 4 prevede la pubblicazione entro il 31 gennaio e l'invio al Dipartimento della funzione pubblica."
       }
     ],
     "correct": "b",
@@ -93,8 +93,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-piao-003",
@@ -103,22 +104,22 @@
     "options": [
       {
         "id": "a",
-        "text": "l'elenco delle procedure da semplificare e reingegnerizzare ogni anno, anche mediante il ricorso alla tecnologia e sulla base della consultazione degli utenti",
+        "text": "l'elenco delle procedure da semplificare e reingegnerizzare ogni anno, anche mediante la tecnologia e sulla base della consultazione degli utenti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "gli strumenti e le fasi per giungere alla piena trasparenza dei risultati dell'attività e dell'organizzazione amministrativa",
+        "text": "gli strumenti e le fasi per giungere alla piena trasparenza dei risultati dell'attività e dell'organizzazione, in conformità agli indirizzi dell'ANAC",
         "why_wrong": "È il contenuto della lett. d), dedicata alla trasparenza e al contrasto alla corruzione."
       },
       {
         "id": "c",
-        "text": "il fabbisogno di personale per la transizione digitale e l'innovazione tecnologica",
-        "why_wrong": "È il contenuto della lett. c-bis), relativa al fabbisogno di personale."
+        "text": "il fabbisogno di personale per la realizzazione della transizione digitale e per l'innovazione tecnologica, con riguardo all'intelligenza artificiale",
+        "why_wrong": "È il contenuto della lett. c-bis), relativa al fabbisogno di personale per la transizione digitale."
       },
       {
         "id": "d",
-        "text": "le modalità e le azioni per la piena accessibilità, fisica e digitale, dei cittadini ultrasessantacinquenni e con disabilità",
+        "text": "le modalità e le azioni finalizzate a realizzare la piena accessibilità, fisica e digitale, dei cittadini ultrasessantacinquenni e con disabilità",
         "why_wrong": "È il contenuto della lett. f), relativa all'accessibilità."
       }
     ],
@@ -137,8 +138,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-piao-004",
@@ -240,23 +242,23 @@
     "options": [
       {
         "id": "a",
-        "text": "non può aggiornare alcuna sezione del Piano fino all'approvazione del bilancio",
-        "why_wrong": "Il comma 7 consente di aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale."
+        "text": "non può aggiornare alcuna sezione del Piano e non può procedere ad alcuna assunzione di personale fino all'approvazione del bilancio",
+        "why_wrong": "L'art. 6, comma 7, consente di aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale per assunzioni a tempo determinato."
       },
       {
         "id": "b",
-        "text": "può aggiornare la sottosezione relativa alla programmazione del fabbisogno di personale al solo fine di procedere ad assunzioni con contratto a tempo determinato",
+        "text": "può aggiornare la sottosezione relativa al fabbisogno di personale al solo fine di procedere ad assunzioni con contratto a tempo determinato",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "può aggiornare la sottosezione del fabbisogno di personale per procedere ad assunzioni a tempo indeterminato senza limiti",
-        "why_wrong": "Il comma 7 consente l'aggiornamento al solo fine di assunzioni con contratto a tempo determinato, compatibilmente con gli stanziamenti di bilancio."
+        "text": "può aggiornare la sottosezione relativa al fabbisogno di personale al solo fine di procedere ad assunzioni con contratto a tempo indeterminato",
+        "why_wrong": "L'art. 6, comma 7, consente l'aggiornamento al solo fine di assunzioni con contratto a tempo determinato."
       },
       {
         "id": "d",
-        "text": "può aggiornare la sezione relativa all'anticorruzione al solo fine di recepire il Piano nazionale anticorruzione",
-        "why_wrong": "Il comma 7 riguarda soltanto la sottosezione relativa alla programmazione del fabbisogno di personale."
+        "text": "può aggiornare la sezione relativa alla trasparenza e all'anticorruzione al solo fine di recepire il Piano nazionale anticorruzione",
+        "why_wrong": "L'art. 6, comma 7, riguarda soltanto la sottosezione relativa alla programmazione del fabbisogno di personale."
       }
     ],
     "correct": "b",
@@ -274,7 +276,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

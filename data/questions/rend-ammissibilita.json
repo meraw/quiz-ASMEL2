@@ -186,23 +186,23 @@
     "options": [
       {
         "id": "a",
-        "text": "senza che lo Stato membro sia tenuto a eseguire alcun calcolo",
-        "why_wrong": "L'esonero dal calcolo vale per i tassi fino al 7 % dei costi diretti e fino al 15 % dei costi diretti per il personale (art. 54, lett. a) e b))."
+        "text": "senza che lo Stato membro sia tenuto a eseguire alcun calcolo per determinare il tasso applicabile",
+        "why_wrong": "L'esonero dal calcolo vale per i tassi fino al 7 % dei costi diretti e fino al 15 % dei costi diretti per il personale (art. 54, lett. a) e b)); il tasso del 25 % va calcolato (lett. c))."
       },
       {
         "id": "b",
-        "text": "a condizione che il tasso sia calcolato con un metodo giusto, equo e verificabile ai sensi dell'art. 53, par. 3, lett. a)",
+        "text": "purché calcolato con un metodo giusto, equo e verificabile ai sensi dell'art. 53, par. 3, lett. a)",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "solo per le operazioni il cui costo totale non supera 200 000 EUR",
-        "why_wrong": "La soglia di 200 000 EUR riguarda l'obbligo di opzioni semplificate (art. 53, par. 2) e i progetti di bilancio (art. 53, par. 3, lett. b))."
+        "text": "solo per le operazioni di costo totale non superiore a 200 000 EUR, senza necessità di calcolo",
+        "why_wrong": "La soglia di 200 000 EUR riguarda l'obbligo di opzioni semplificate (art. 53, par. 2); l'art. 54, lett. c), richiede un tasso calcolato ai sensi dell'art. 53, par. 3, lett. a)."
       },
       {
         "id": "d",
-        "text": "solo previa approvazione del comitato di sorveglianza",
-        "why_wrong": "L'approvazione del comitato di sorveglianza riguarda l'esenzione di alcune operazioni di ricerca e innovazione (art. 53, par. 2)."
+        "text": "solo previa approvazione del comitato di sorveglianza, su proposta dell'autorità di gestione",
+        "why_wrong": "L'approvazione del comitato di sorveglianza riguarda l'esenzione di alcune operazioni di ricerca e innovazione dall'obbligo di opzioni semplificate (art. 53, par. 2)."
       }
     ],
     "correct": "b",
@@ -224,8 +224,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-amm-006",
@@ -234,22 +235,22 @@
     "options": [
       {
         "id": "a",
-        "text": "fino al 20 % dei costi diretti dell'operazione diversi dai costi diretti per il personale",
+        "text": "fino al 20 % dei costi diretti diversi dai costi diretti per il personale",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "fino al 15 % dei costi diretti ammissibili",
-        "why_wrong": "Il 15 % dei costi diretti per il personale è una base per il calcolo dei costi indiretti (art. 54, lett. b))."
+        "text": "fino al 15 % del totale dei costi diretti ammissibili dell'operazione",
+        "why_wrong": "Il 15 % dei costi diretti per il personale è una base per i costi indiretti (art. 54, lett. b)); l'art. 55, par. 1, prevede fino al 20 % dei costi diretti diversi da quelli per il personale."
       },
       {
         "id": "c",
-        "text": "fino al 40 % dei costi diretti ammissibili per il personale",
+        "text": "fino al 40 % dei costi diretti ammissibili per il personale dell'operazione",
         "why_wrong": "Il 40 % dei costi diretti per il personale copre i costi ammissibili residui dell'operazione (art. 56, par. 1)."
       },
       {
         "id": "d",
-        "text": "fino al 7 % dei costi diretti ammissibili",
+        "text": "fino al 7 % del totale dei costi diretti ammissibili dell'operazione",
         "why_wrong": "Il 7 % dei costi diretti ammissibili è il tasso per i costi indiretti (art. 54, lett. a))."
       }
     ],
@@ -268,8 +269,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-amm-007",
@@ -322,22 +324,22 @@
     "options": [
       {
         "id": "a",
-        "text": "tra il 1° gennaio 2021 e il 31 dicembre 2027",
-        "why_wrong": "Il periodo 2021-2027 è quello degli impegni di bilancio dell'Unione (art. 86, par. 2); le spese sono ammissibili fino al 31 dicembre 2029 (art. 63, par. 2)."
+        "text": "tra il 1° gennaio 2021, o la data di approvazione del programma se successiva, e il 31 dicembre 2027",
+        "why_wrong": "Il periodo 2021-2027 è quello degli impegni di bilancio dell'Unione (art. 86, par. 2); le spese sono ammissibili dalla presentazione del programma, o dal 1° gennaio 2021 se anteriore, al 31 dicembre 2029 (art. 63, par. 2)."
       },
       {
         "id": "b",
-        "text": "tra la data di approvazione del programma e il 31 dicembre 2030",
-        "why_wrong": "Il 31 dicembre 2030 è il termine per il reimpiego delle risorse restituite dalle sovvenzioni soggette a condizioni (art. 57, par. 3)."
+        "text": "tra la data della decisione della Commissione che approva il programma e il 31 dicembre 2030",
+        "why_wrong": "Il termine iniziale è la presentazione del programma (art. 63, par. 2); il 31 dicembre 2030 è il termine per il reimpiego delle risorse restituite dalle sovvenzioni soggette a condizioni (art. 57, par. 3)."
       },
       {
         "id": "c",
-        "text": "tra il 1° luglio 2021 e il 30 giugno 2030",
-        "why_wrong": "Il 30 giugno 2030 chiude il periodo contabile finale (art. 2, punto 29), non il periodo di ammissibilità delle spese."
+        "text": "tra il 1° luglio 2021, o la data di presentazione del programma alla Commissione se successiva, e il 30 giugno 2030",
+        "why_wrong": "Il 30 giugno 2030 chiude il periodo contabile finale (art. 2, punto 29); le spese sono ammissibili fino al 31 dicembre 2029 (art. 63, par. 2)."
       },
       {
         "id": "d",
-        "text": "tra la data di presentazione del programma alla Commissione, o il 1° gennaio 2021 se anteriore, e il 31 dicembre 2029",
+        "text": "tra la presentazione del programma alla Commissione, o il 1° gennaio 2021 se anteriore, e il 31 dicembre 2029",
         "why_wrong": null
       }
     ],
@@ -356,8 +358,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-amm-009",
@@ -454,22 +457,22 @@
     "options": [
       {
         "id": "a",
-        "text": "sempre, se effettivamente pagata dal beneficiario",
+        "text": "per tutte le operazioni, indipendentemente dal costo totale, purché l'IVA sia stata effettivamente pagata dal beneficiario",
         "why_wrong": "L'art. 64, par. 1, lett. c), include l'IVA tra i costi non ammissibili, salvo i casi che elenca."
       },
       {
         "id": "b",
-        "text": "solo per le operazioni il cui costo totale non supera 200 000 EUR",
-        "why_wrong": "200 000 EUR è la soglia per l'obbligo di opzioni semplificate in materia di costi (art. 53, par. 2)."
+        "text": "per le operazioni di costo totale non superiore a 200 000 EUR (IVA inclusa) e, per le altre, solo se recuperabile secondo la legislazione nazionale",
+        "why_wrong": "200 000 EUR è la soglia per l'obbligo di opzioni semplificate (art. 53, par. 2); l'art. 64, par. 1, lett. c), fa riferimento alla soglia di 5 000 000 EUR e, oltre di essa, all'IVA non recuperabile."
       },
       {
         "id": "c",
-        "text": "in nessun caso",
-        "why_wrong": "L'art. 64, par. 1, lett. c), prevede espressamente casi in cui l'IVA è ammissibile."
+        "text": "in nessun caso, poiché l'IVA rientra sempre tra i costi non ammissibili, qualunque sia il costo totale dell'operazione",
+        "why_wrong": "L'art. 64, par. 1, lett. c), prevede espressamente casi in cui l'IVA è ammissibile, anche in base al costo totale dell'operazione."
       },
       {
         "id": "d",
-        "text": "per le operazioni di costo totale inferiore a 5 000 000 EUR (IVA inclusa) e, per quelle di costo pari o superiore, se non recuperabile a norma della legislazione nazionale sull'IVA",
+        "text": "per le operazioni di costo totale inferiore a 5 000 000 EUR (IVA inclusa) e, per le altre, se non recuperabile secondo la legislazione nazionale",
         "why_wrong": null
       }
     ],
@@ -488,8 +491,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-amm-012",
@@ -498,23 +502,23 @@
     "options": [
       {
         "id": "a",
-        "text": "la cessazione di un'attività produttiva a causa di un fallimento non fraudolento",
-        "why_wrong": "L'art. 65, par. 3, esclude l'obbligo di restituzione in caso di cessazione dovuta a un fallimento non fraudolento."
+        "text": "la cessazione di un'attività produttiva dovuta a un fallimento non fraudolento dell'impresa beneficiaria",
+        "why_wrong": "L'art. 65, par. 3, esclude l'obbligo di restituzione per le operazioni in cui l'attività produttiva cessa a causa di un fallimento non fraudolento."
       },
       {
         "id": "b",
-        "text": "la cessazione o il trasferimento di un'attività produttiva al di fuori della regione di livello NUTS 2 in cui ha ricevuto sostegno",
+        "text": "la cessazione o il trasferimento di un'attività produttiva fuori dalla regione di livello NUTS 2 in cui ha ricevuto sostegno",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "qualsiasi modifica dell'operazione, anche non sostanziale",
+        "text": "qualsiasi modifica dell'operazione, anche non sostanziale e senza effetti sui suoi obiettivi originari",
         "why_wrong": "Rileva solo la modifica sostanziale che alteri natura, obiettivi o condizioni di attuazione compromettendo gli obiettivi originari (art. 65, par. 1, lett. c))."
       },
       {
         "id": "d",
-        "text": "il trasferimento di un'attività produttiva all'interno della stessa regione NUTS 2",
-        "why_wrong": "Rileva solo il trasferimento al di fuori della regione NUTS 2 in cui l'operazione ha ricevuto sostegno (art. 65, par. 1, lett. a))."
+        "text": "il trasferimento di un'attività produttiva in un'altra sede situata all'interno della stessa regione NUTS 2 in cui ha ricevuto sostegno",
+        "why_wrong": "Rileva solo il trasferimento al di fuori della regione di livello NUTS 2 in cui l'attività ha ricevuto sostegno (art. 65, par. 1, lett. a))."
       }
     ],
     "correct": "b",
@@ -532,7 +536,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

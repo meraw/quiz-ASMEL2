@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "alle zone rurali, alle zone interessate da transizione industriale e alle regioni che presentano gravi e permanenti svantaggi naturali o demografici",
+        "text": "alle zone rurali, a quelle interessate da transizione industriale e alle regioni con gravi e permanenti svantaggi naturali o demografici",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "esclusivamente alle regioni ultraperiferiche e alle regioni insulari",
-        "why_wrong": "L'art. 174 TFUE non limita l'attenzione particolare a tali regioni: vi comprende anche le zone rurali, quelle in transizione industriale e le regioni con gravi e permanenti svantaggi naturali o demografici."
+        "text": "esclusivamente alle regioni ultraperiferiche e alle regioni insulari, con esclusione delle zone rurali e delle regioni di montagna",
+        "why_wrong": "L'art. 174 TFUE rivolge l'attenzione particolare anche alle zone rurali, alle zone in transizione industriale e alle regioni con gravi e permanenti svantaggi naturali o demografici, tra cui quelle di montagna."
       },
       {
         "id": "c",
-        "text": "alle regioni con il più elevato livello di sviluppo, in quanto motore della crescita dell'Unione",
+        "text": "alle regioni con il più elevato livello di sviluppo, in quanto motore dello sviluppo armonioso dell'insieme dell'Unione",
         "why_wrong": "L'art. 174 TFUE mira a ridurre il divario tra i livelli di sviluppo delle regioni e il ritardo delle regioni meno favorite."
       },
       {
         "id": "d",
-        "text": "alle sole regioni industriali in declino, da riconvertire con il Fondo di coesione",
-        "why_wrong": "La riconversione delle regioni industriali in declino è indicata dall'art. 176 TFUE tra i compiti del FESR, non del Fondo di coesione."
+        "text": "alle sole regioni industriali in declino, da riconvertire con i contributi del Fondo di coesione e della Banca europea per gli investimenti",
+        "why_wrong": "La riconversione delle regioni industriali in declino è indicata dall'art. 176 TFUE tra i compiti del FESR; l'art. 174 TFUE non limita l'attenzione particolare a tali regioni."
       }
     ],
     "correct": "a",
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-tfue-002",
@@ -55,18 +56,18 @@
       },
       {
         "id": "b",
-        "text": "contribuire alla correzione dei principali squilibri regionali esistenti nell'Unione, partecipando allo sviluppo e all'adeguamento strutturale delle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino",
+        "text": "contribuire a correggere i principali squilibri regionali, partecipando allo sviluppo delle regioni in ritardo e alla riconversione di quelle industriali in declino",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "finanziare le azioni specifiche necessarie al di fuori dei Fondi",
+        "text": "finanziare le azioni specifiche che si rivelassero necessarie al di fuori dei Fondi, fatte salve le misure decise nell'ambito delle altre politiche dell'Unione europea",
         "why_wrong": "L'art. 175 TFUE prevede che le azioni specifiche al di fuori dei Fondi siano adottate dal Parlamento europeo e dal Consiglio: non sono una finalità del FESR."
       },
       {
         "id": "d",
-        "text": "sostenere esclusivamente le zone rurali e le regioni di montagna",
-        "why_wrong": "L'art. 176 TFUE riferisce il FESR ai principali squilibri regionali, alle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino, senza limitarlo a tali zone."
+        "text": "sostenere esclusivamente le zone rurali, le regioni di montagna e quelle che presentano gravi e permanenti svantaggi naturali o demografici",
+        "why_wrong": "Tali zone sono richiamate dall'art. 174 TFUE tra le regioni oggetto di particolare attenzione; l'art. 176 TFUE riferisce il FESR ai principali squilibri regionali, alle regioni in ritardo di sviluppo e alla riconversione delle regioni industriali in declino."
       }
     ],
     "correct": "b",
@@ -84,8 +85,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-tfue-003",
@@ -94,8 +96,8 @@
     "options": [
       {
         "id": "a",
-        "text": "dal Comitato delle regioni alla Commissione, ogni anno",
-        "why_wrong": "Secondo l'art. 175 TFUE la relazione è presentata dalla Commissione, e il Comitato delle regioni ne è uno dei destinatari."
+        "text": "dal Comitato delle regioni alla Commissione, al Parlamento europeo e al Consiglio, ogni anno, corredata di appropriate proposte",
+        "why_wrong": "Secondo l'art. 175 TFUE la relazione è presentata dalla Commissione ogni tre anni, e il Comitato delle regioni ne è uno dei destinatari."
       },
       {
         "id": "b",
@@ -104,12 +106,12 @@
       },
       {
         "id": "c",
-        "text": "dal Consiglio al Parlamento europeo, ogni due anni",
+        "text": "dal Consiglio al Parlamento europeo, al Comitato economico e sociale e al Comitato delle regioni, ogni due anni, con eventuali proposte",
         "why_wrong": "L'art. 175 TFUE attribuisce la relazione alla Commissione, con cadenza triennale."
       },
       {
         "id": "d",
-        "text": "dagli Stati membri alla Commissione, al termine di ciascun periodo di programmazione",
+        "text": "dagli Stati membri alla Commissione e al Parlamento europeo, al termine di ciascun periodo di programmazione dei fondi strutturali",
         "why_wrong": "L'art. 175 TFUE prevede una relazione della Commissione, presentata ogni tre anni."
       }
     ],
@@ -128,8 +130,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-tfue-004",
@@ -138,13 +141,13 @@
     "options": [
       {
         "id": "a",
-        "text": "ricerca e sviluppo tecnologico",
-        "why_wrong": "L'art. 177 TFUE non menziona la ricerca tra le materie del Fondo di coesione, che riguarda ambiente e reti transeuropee dei trasporti."
+        "text": "ricerca e sviluppo tecnologico e innovazione delle piccole e medie imprese",
+        "why_wrong": "L'art. 177 TFUE non menziona la ricerca e l'innovazione tra le materie del Fondo di coesione, che riguarda ambiente e reti transeuropee dei trasporti."
       },
       {
         "id": "b",
-        "text": "riconversione delle regioni industriali in declino",
-        "why_wrong": "La riconversione delle regioni industriali in declino è indicata dall'art. 176 TFUE per il FESR."
+        "text": "riconversione delle regioni industriali in declino e adeguamento strutturale",
+        "why_wrong": "La riconversione delle regioni industriali in declino e l'adeguamento strutturale delle regioni in ritardo sono indicati dall'art. 176 TFUE per il FESR."
       },
       {
         "id": "c",
@@ -153,8 +156,8 @@
       },
       {
         "id": "d",
-        "text": "sviluppo delle zone rurali e delle regioni di montagna",
-        "why_wrong": "Le zone rurali e le regioni di montagna sono richiamate dall'art. 174 TFUE tra le regioni oggetto di particolare attenzione, non come materie del Fondo di coesione."
+        "text": "sviluppo delle zone rurali, delle regioni di montagna e delle regioni insulari",
+        "why_wrong": "Zone rurali, regioni di montagna e regioni insulari sono richiamate dall'art. 174 TFUE tra le regioni oggetto di particolare attenzione, non come materie del Fondo di coesione."
       }
     ],
     "correct": "c",
@@ -172,8 +175,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "pc-tfue-005",
@@ -182,22 +186,22 @@
     "options": [
       {
         "id": "a",
-        "text": "dalla Commissione, mediante atti di esecuzione, sentito il Comitato delle regioni",
-        "why_wrong": "L'art. 177 TFUE affida la definizione al Parlamento europeo e al Consiglio, mediante regolamenti."
+        "text": "dalla Commissione mediante atti di esecuzione, adottati previa consultazione del Comitato economico e sociale e del Comitato delle regioni",
+        "why_wrong": "L'art. 177 TFUE affida la definizione al Parlamento europeo e al Consiglio, mediante regolamenti secondo la procedura legislativa ordinaria."
       },
       {
         "id": "b",
-        "text": "dal Consiglio all'unanimità, previa approvazione del Parlamento europeo",
+        "text": "dal Consiglio all'unanimità mediante regolamenti, previa approvazione del Parlamento europeo e consultazione del Comitato delle regioni",
         "why_wrong": "L'art. 177 TFUE prevede la procedura legislativa ordinaria, non una deliberazione unanime del Consiglio."
       },
       {
         "id": "c",
-        "text": "dal Parlamento europeo e dal Consiglio, senza consultazione di altri organi",
+        "text": "dal Parlamento europeo e dal Consiglio mediante regolamenti, secondo la procedura legislativa ordinaria e senza previa consultazione di altri organi",
         "why_wrong": "L'art. 177 TFUE richiede la previa consultazione del Comitato economico e sociale e del Comitato delle regioni."
       },
       {
         "id": "d",
-        "text": "dal Parlamento europeo e dal Consiglio, mediante regolamenti secondo la procedura legislativa ordinaria e previa consultazione del Comitato economico e sociale e del Comitato delle regioni",
+        "text": "dal Parlamento europeo e dal Consiglio mediante regolamenti, con procedura legislativa ordinaria e previa consultazione del Comitato economico e sociale e del Comitato delle regioni",
         "why_wrong": null
       }
     ],
@@ -216,7 +220,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

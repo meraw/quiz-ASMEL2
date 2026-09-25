@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Gli obiettivi sono definiti e concordati tra responsabile e collaboratori, e i risultati vengono poi confrontati con essi",
+        "text": "Gli obiettivi sono definiti e concordati con i collaboratori e i risultati sono poi confrontati con essi",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Il lavoro è valutato soprattutto verificando il rispetto formale delle procedure",
+        "text": "Il lavoro è valutato soprattutto verificando il rispetto formale delle procedure e dei regolamenti interni",
         "why_wrong": "È la logica di controllo tipica del modello burocratico, non della direzione per obiettivi."
       },
       {
         "id": "c",
-        "text": "Gli obiettivi sono fissati dal vertice senza alcuna verifica successiva dei risultati",
-        "why_wrong": "La direzione per obiettivi richiede la misurazione dei risultati rispetto agli obiettivi."
+        "text": "Gli obiettivi sono fissati dal vertice e comunicati ai collaboratori, senza alcuna verifica successiva dei risultati",
+        "why_wrong": "La direzione per obiettivi prevede obiettivi condivisi e la misurazione dei risultati rispetto a essi."
       },
       {
         "id": "d",
-        "text": "La valutazione dei collaboratori dipende principalmente dall'anzianità di servizio",
-        "why_wrong": "La direzione per obiettivi valuta il grado di raggiungimento degli obiettivi, non l'anzianità."
+        "text": "La valutazione dei collaboratori dipende principalmente dall'anzianità di servizio e dal grado ricoperto",
+        "why_wrong": "La direzione per obiettivi valuta il grado di raggiungimento degli obiettivi, non l'anzianità o il grado."
       }
     ],
     "correct": "a",
@@ -35,8 +35,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-ctr-002",
@@ -45,13 +46,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Migliorare la qualità dei servizi offerti ai cittadini",
+        "text": "Migliorare in modo significativo la qualità dei servizi offerti ai cittadini e alle imprese del territorio",
         "why_wrong": "Non è specifico né misurabile e non ha una scadenza."
       },
       {
         "id": "b",
-        "text": "Ridurre i tempi di rilascio dei permessi di occupazione di suolo pubblico",
-        "why_wrong": "Manca un valore obiettivo misurabile e una scadenza."
+        "text": "Ridurre sensibilmente e nel più breve tempo possibile i tempi medi di rilascio dei permessi di occupazione di suolo pubblico",
+        "why_wrong": "Manca un valore obiettivo misurabile e non è fissata una scadenza precisa."
       },
       {
         "id": "c",
@@ -60,7 +61,7 @@
       },
       {
         "id": "d",
-        "text": "Evadere entro domani tutte le pratiche arretrate degli ultimi dieci anni",
+        "text": "Evadere entro domani, con il solo personale in servizio, tutte le pratiche arretrate accumulate negli ultimi dieci anni",
         "why_wrong": "Non è raggiungibile con le risorse e nei tempi indicati."
       }
     ],
@@ -74,8 +75,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-ctr-003",
@@ -84,23 +86,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Trasparente",
-        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+        "text": "Trasparente, con risultati resi pubblici",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound, cioè definito nel tempo."
       },
       {
         "id": "b",
-        "text": "Definito nel tempo, cioè con una scadenza",
+        "text": "Definito nel tempo, con una scadenza",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Trasversale a più uffici",
-        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+        "text": "Trasversale, condiviso tra più uffici",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound, cioè definito nel tempo."
       },
       {
         "id": "d",
-        "text": "Tecnicamente fondato",
-        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+        "text": "Tecnicamente fondato su dati e analisi",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound, cioè definito nel tempo."
       }
     ],
     "correct": "b",
@@ -113,8 +115,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-ctr-004",
@@ -133,8 +136,8 @@
       },
       {
         "id": "c",
-        "text": "Qualità",
-        "why_wrong": "L'indicatore di qualità misura caratteristiche del servizio come tempestività o soddisfazione degli utenti."
+        "text": "Qualità del servizio",
+        "why_wrong": "L'indicatore di qualità del servizio misura caratteristiche come tempestività o soddisfazione degli utenti, non il costo per unità servita."
       },
       {
         "id": "d",
@@ -152,8 +155,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-ctr-005",
@@ -201,23 +205,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Verifica nel breve periodo il rapporto tra costi e risultati delle singole attività",
-        "why_wrong": "È l'oggetto tipico del controllo di gestione."
+        "text": "Verifica nel breve periodo efficienza ed economicità delle singole attività, confrontando costi e risultati",
+        "why_wrong": "È l'oggetto tipico del controllo di gestione, che opera a livello operativo."
       },
       {
         "id": "b",
-        "text": "Verifica la legittimità formale dei singoli atti",
-        "why_wrong": "È l'oggetto del controllo di regolarità amministrativa."
+        "text": "Verifica la legittimità formale e la regolarità contabile dei singoli atti e provvedimenti adottati dall'ente",
+        "why_wrong": "È l'oggetto del controllo di regolarità amministrativa e contabile."
       },
       {
         "id": "c",
-        "text": "Verifica l'adeguatezza delle scelte di indirizzo e la coerenza tra risultati e obiettivi strategici di medio-lungo periodo",
+        "text": "Verifica l'adeguatezza delle scelte di indirizzo e la coerenza dei risultati con gli obiettivi di medio-lungo periodo",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Valuta le prestazioni individuali dei singoli dipendenti",
-        "why_wrong": "È l'oggetto della valutazione del personale."
+        "text": "Valuta le prestazioni individuali e i comportamenti organizzativi dei singoli dipendenti e dei dirigenti",
+        "why_wrong": "È l'oggetto della valutazione del personale, non del controllo strategico."
       }
     ],
     "correct": "c",
@@ -230,8 +234,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "mg-ctr-007",
@@ -240,23 +245,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Pubblicare a fine anno una sintesi dei risultati raggiunti",
-        "why_wrong": "È una forma di sola informazione unidirezionale, senza coinvolgimento."
+        "text": "Pubblicare a fine anno sul sito istituzionale una sintesi dei risultati raggiunti nei diversi settori",
+        "why_wrong": "È una forma di sola informazione unidirezionale, senza coinvolgimento dei portatori di interesse."
       },
       {
         "id": "b",
-        "text": "Coinvolgere in modo strutturato i portatori di interesse nelle fasi di programmazione, attuazione e valutazione",
+        "text": "Coinvolgere in modo strutturato i portatori di interesse nella programmazione, attuazione e valutazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Selezionare i fornitori dell'ente tramite procedure competitive",
+        "text": "Selezionare i fornitori dell'ente tramite procedure competitive aperte a tutti gli operatori economici",
         "why_wrong": "Riguarda gli acquisti, non il coinvolgimento dei portatori di interesse."
       },
       {
         "id": "d",
-        "text": "Confrontare le prestazioni dell'ente con quelle di altre amministrazioni",
-        "why_wrong": "È il benchmarking."
+        "text": "Confrontare in modo sistematico le prestazioni dell'ente con quelle di altre amministrazioni simili",
+        "why_wrong": "È il benchmarking, non il coinvolgimento dei portatori di interesse."
       }
     ],
     "correct": "b",
@@ -269,7 +274,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "vincola lo Stato membro cui è rivolto per quanto riguarda il risultato da raggiungere",
+        "text": "vincola lo Stato membro cui è rivolto quanto al risultato, lasciando agli organi nazionali la scelta di forma e mezzi",
         "why_wrong": "È la definizione della direttiva (art. 288, terzo comma, TFUE)."
       },
       {
         "id": "b",
-        "text": "ha portata generale, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri",
+        "text": "ha portata generale, è obbligatorio in tutti i suoi elementi e direttamente applicabile in tutti gli Stati membri",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "è obbligatorio soltanto nei confronti dei destinatari che designa",
+        "text": "è obbligatorio in tutti i suoi elementi, ma soltanto nei confronti dei destinatari che eventualmente designa",
         "why_wrong": "È la disciplina della decisione che designa i destinatari (art. 288, quarto comma, TFUE)."
       },
       {
         "id": "d",
-        "text": "non è vincolante",
-        "why_wrong": "Per l'art. 288, quinto comma, TFUE non sono vincolanti le raccomandazioni e i pareri."
+        "text": "non è vincolante, al pari delle raccomandazioni e dei pareri adottati dalle istituzioni dell'Unione",
+        "why_wrong": "Per l'art. 288, quinto comma, TFUE non sono vincolanti solo le raccomandazioni e i pareri; il regolamento è obbligatorio in tutti i suoi elementi."
       }
     ],
     "correct": "b",
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-att-002",
@@ -50,22 +51,22 @@
     "options": [
       {
         "id": "a",
-        "text": "non può, perché la direttiva è obbligatoria in tutti i suoi elementi",
-        "why_wrong": "L'obbligatorietà in tutti gli elementi è propria del regolamento e della decisione (art. 288, secondo e quarto comma, TFUE), non della direttiva."
+        "text": "non può, perché la direttiva, come il regolamento, è obbligatoria in tutti i suoi elementi e direttamente applicabile",
+        "why_wrong": "L'obbligatorietà in tutti gli elementi e la diretta applicabilità sono proprie del regolamento (art. 288, secondo comma, TFUE), non della direttiva."
       },
       {
         "id": "b",
-        "text": "può, ma solo previa autorizzazione della Commissione",
+        "text": "può, ma solo previa autorizzazione della Commissione, cui spetta scegliere la forma e i mezzi di attuazione",
         "why_wrong": "L'art. 288, terzo comma, TFUE riserva la competenza su forma e mezzi agli organi nazionali, senza autorizzazioni della Commissione."
       },
       {
         "id": "c",
-        "text": "può, perché la direttiva vincola quanto al risultato, salva la competenza degli organi nazionali in merito alla forma e ai mezzi",
+        "text": "può, perché la direttiva vincola quanto al risultato, lasciando agli organi nazionali la competenza su forma e mezzi",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "può, perché la direttiva non è vincolante",
+        "text": "può, perché la direttiva, al pari delle raccomandazioni e dei pareri, non è vincolante per lo Stato",
         "why_wrong": "Non vincolanti sono le raccomandazioni e i pareri (art. 288, quinto comma, TFUE); la direttiva vincola quanto al risultato."
       }
     ],
@@ -84,8 +85,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-att-003",
@@ -138,23 +140,23 @@
     "options": [
       {
         "id": "a",
-        "text": "nell'adozione congiunta di un regolamento, di una direttiva o di una decisione da parte del Parlamento europeo e del Consiglio su proposta della Commissione",
+        "text": "nell'adozione congiunta di un regolamento, una direttiva o una decisione da parte di Parlamento europeo e Consiglio, su proposta della Commissione",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "nell'adozione di un atto da parte del Consiglio con la sola consultazione del Parlamento europeo",
-        "why_wrong": "L'adozione da parte di una sola istituzione con la partecipazione dell'altra costituisce una procedura legislativa speciale (art. 289, par. 2, TFUE)."
+        "text": "nell'adozione di un regolamento, di una direttiva o di una decisione da parte del Consiglio con la partecipazione del Parlamento europeo",
+        "why_wrong": "L'adozione da parte del Consiglio con la partecipazione del Parlamento europeo costituisce una procedura legislativa speciale (art. 289, par. 2, TFUE)."
       },
       {
         "id": "c",
-        "text": "nell'adozione di un atto da parte della Commissione su delega del Parlamento europeo e del Consiglio",
+        "text": "nell'adozione, da parte della Commissione, di atti non legislativi di portata generale su delega del Parlamento europeo e del Consiglio",
         "why_wrong": "La delega alla Commissione riguarda atti non legislativi (art. 290 TFUE), non la procedura legislativa ordinaria."
       },
       {
         "id": "d",
-        "text": "nell'adozione di un atto da parte del Consiglio europeo all'unanimità",
-        "why_wrong": "Il Consiglio europeo non esercita funzioni legislative (art. 15, par. 1, TUE)."
+        "text": "nell'adozione congiunta di un atto da parte del Consiglio europeo e del Consiglio, che deliberano all'unanimità su proposta della Commissione europea",
+        "why_wrong": "Il Consiglio europeo non esercita funzioni legislative (art. 15, par. 1, TUE); la procedura ordinaria vede l'adozione congiunta di Parlamento europeo e Consiglio (art. 289, par. 1, TFUE)."
       }
     ],
     "correct": "a",
@@ -172,8 +174,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-att-005",
@@ -270,18 +273,18 @@
     "options": [
       {
         "id": "a",
-        "text": "l'atto si considera non adottato",
+        "text": "l'atto si considera non adottato, perché il Parlamento non ha approvato la posizione del Consiglio",
         "why_wrong": "L'atto si considera non adottato se il Parlamento respinge la posizione del Consiglio a maggioranza dei membri (art. 294, par. 7, lett. b), TFUE), non in caso di silenzio."
       },
       {
         "id": "b",
-        "text": "viene convocato il comitato di conciliazione",
+        "text": "il presidente del Consiglio convoca entro sei settimane il comitato di conciliazione",
         "why_wrong": "Il comitato di conciliazione è convocato quando il Consiglio non approva tutti gli emendamenti del Parlamento in seconda lettura (art. 294, par. 8, lett. b), TFUE)."
       },
       {
         "id": "c",
-        "text": "la Commissione deve ritirare la proposta",
-        "why_wrong": "L'art. 294, par. 7, TFUE non prevede il ritiro della proposta in caso di silenzio del Parlamento."
+        "text": "la Commissione deve ritirare la proposta e presentarne una nuova al Parlamento europeo e al Consiglio",
+        "why_wrong": "L'art. 294, par. 7, lett. a), TFUE non prevede il ritiro della proposta: in caso di silenzio del Parlamento l'atto si considera adottato."
       },
       {
         "id": "d",
@@ -304,8 +307,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-att-008",
@@ -402,22 +406,22 @@
     "options": [
       {
         "id": "a",
-        "text": "sono motivati soltanto se si tratta di atti legislativi",
+        "text": "sono motivati soltanto se si tratta di atti legislativi, adottati secondo la procedura legislativa ordinaria o speciale",
         "why_wrong": "L'art. 296, secondo comma, TFUE riferisce l'obbligo di motivazione a tutti gli atti giuridici, non solo a quelli legislativi."
       },
       {
         "id": "b",
-        "text": "sono motivati e fanno riferimento alle proposte, iniziative, raccomandazioni, richieste o pareri previsti dai trattati",
+        "text": "sono motivati e richiamano le proposte, iniziative, raccomandazioni, richieste o pareri previsti dai trattati",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "non richiedono motivazione, se adottati all'unanimità",
-        "why_wrong": "L'art. 296, secondo comma, TFUE non collega l'obbligo di motivazione alla maggioranza con cui l'atto è adottato."
+        "text": "non richiedono motivazione se adottati all'unanimità, ma fanno riferimento ai pareri previsti dai trattati",
+        "why_wrong": "L'art. 296, secondo comma, TFUE impone la motivazione a tutti gli atti giuridici, senza collegarla alla maggioranza con cui l'atto è adottato."
       },
       {
         "id": "d",
-        "text": "sono motivati soltanto se ne fa richiesta uno Stato membro",
+        "text": "sono motivati soltanto su richiesta di uno Stato membro, del Parlamento europeo o del Consiglio",
         "why_wrong": "L'obbligo di motivazione dell'art. 296, secondo comma, TFUE non dipende da una richiesta."
       }
     ],
@@ -436,7 +440,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

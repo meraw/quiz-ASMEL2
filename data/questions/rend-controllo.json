@@ -50,22 +50,22 @@
     "options": [
       {
         "id": "a",
-        "text": "può essere un soggetto privato, purché funzionalmente indipendente dai soggetti sottoposti all'audit",
+        "text": "può essere un soggetto pubblico o privato, purché funzionalmente indipendente dai soggetti sottoposti all'audit",
         "why_wrong": "L'art. 71, par. 2, stabilisce che l'autorità di audit è un'autorità pubblica; solo le attività di audit possono essere svolte da un organismo privato, sotto la sua responsabilità."
       },
       {
         "id": "b",
-        "text": "deve svolgere direttamente tutte le attività di audit, senza avvalersi di altri organismi",
-        "why_wrong": "L'art. 71, par. 2, consente che le attività di audit siano svolte da un organismo pubblico o privato diverso dall'autorità di audit."
+        "text": "è un'autorità pubblica e deve svolgere direttamente tutte le attività di audit, senza potersi avvalere di altri organismi pubblici o privati",
+        "why_wrong": "L'art. 71, par. 2, consente che le attività di audit siano svolte da un organismo pubblico o privato diverso dall'autorità di audit, sotto la sua responsabilità."
       },
       {
         "id": "c",
-        "text": "è individuata dall'autorità di gestione tra i propri uffici",
-        "why_wrong": "L'autorità di audit è individuata dallo Stato membro (art. 71, par. 1) ed è funzionalmente indipendente dai soggetti sottoposti all'audit (art. 71, par. 2)."
+        "text": "è individuata dall'autorità di gestione tra i propri uffici e non può essere responsabile di più di un programma",
+        "why_wrong": "L'autorità di audit è individuata dallo Stato membro e le stesse autorità possono essere responsabili di più di un programma (art. 71, par. 1)."
       },
       {
         "id": "d",
-        "text": "è un'autorità pubblica, ma le attività di audit possono essere svolte da un organismo pubblico o privato diverso, sotto la sua responsabilità",
+        "text": "è un'autorità pubblica; le attività di audit possono essere svolte da altro organismo, pubblico o privato, sotto la sua responsabilità",
         "why_wrong": null
       }
     ],
@@ -84,8 +84,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-con-003",
@@ -94,23 +95,23 @@
     "options": [
       {
         "id": "a",
-        "text": "sono individuati dall'autorità di gestione per svolgere determinati compiti sotto la sua responsabilità, e i relativi accordi sono registrati per iscritto",
+        "text": "sono individuati dall'autorità di gestione per svolgere determinati compiti sotto la sua responsabilità, con accordi scritti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "sono individuati dalla Commissione su proposta dello Stato membro",
-        "why_wrong": "Secondo l'art. 71, par. 3, è l'autorità di gestione che può individuare gli organismi intermedi."
+        "text": "sono individuati dalla Commissione, su proposta dello Stato membro, e svolgono i compiti affidati sotto la responsabilità della Commissione",
+        "why_wrong": "Secondo l'art. 71, par. 3, è l'autorità di gestione che può individuare gli organismi intermedi, che operano sotto la sua responsabilità."
       },
       {
         "id": "c",
-        "text": "svolgono i compiti affidati sotto la propria esclusiva responsabilità, sollevandone l'autorità di gestione",
+        "text": "sono individuati dall'autorità di gestione, ma svolgono i compiti affidati sotto la propria esclusiva responsabilità",
         "why_wrong": "I compiti sono svolti sotto la responsabilità dell'autorità di gestione (art. 71, par. 3), che deve supervisionare gli organismi intermedi (art. 72, par. 1, lett. d))."
       },
       {
         "id": "d",
-        "text": "devono essere necessariamente organismi pubblici",
-        "why_wrong": "L'art. 2, punto 8, definisce l'organismo intermedio come «un organismo pubblico o privato»."
+        "text": "devono essere necessariamente organismi pubblici, individuati dallo Stato membro con accordi registrati per iscritto",
+        "why_wrong": "L'art. 2, punto 8, definisce l'organismo intermedio come «un organismo pubblico o privato»; a individuarlo è l'autorità di gestione (art. 71, par. 3)."
       }
     ],
     "correct": "a",
@@ -128,8 +129,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-con-004",
@@ -230,22 +232,22 @@
     "options": [
       {
         "id": "a",
-        "text": "è consentita, se prevista nel documento che specifica le condizioni per il sostegno",
+        "text": "è consentita, purché prevista nel documento che specifica le condizioni per il sostegno dell'operazione",
         "why_wrong": "Il divieto dell'art. 74, par. 1, secondo comma, non prevede eccezioni legate al documento che specifica le condizioni per il sostegno."
       },
       {
         "id": "b",
-        "text": "è consentita entro il limite del 7 % dei costi diretti ammissibili",
-        "why_wrong": "Il 7 % dei costi diretti ammissibili è il tasso forfettario per i costi indiretti dell'operazione (art. 54, lett. a)), non una ritenuta sui pagamenti."
+        "text": "è consentita entro il limite del 7 % dei costi diretti ammissibili, senza necessità di calcolare il tasso",
+        "why_wrong": "Il 7 % dei costi diretti ammissibili, senza obbligo di calcolo, è il tasso forfettario per i costi indiretti (art. 54, lett. a)), non una ritenuta sui pagamenti."
       },
       {
         "id": "c",
-        "text": "è consentita solo previa approvazione del comitato di sorveglianza",
+        "text": "è consentita solo previa approvazione del comitato di sorveglianza del programma, su proposta dell'autorità di gestione",
         "why_wrong": "L'approvazione del comitato di sorveglianza riguarda l'esenzione di operazioni di ricerca e innovazione dall'obbligo di usare opzioni semplificate (art. 53, par. 2)."
       },
       {
         "id": "d",
-        "text": "non è consentita, perché non si applica alcuna detrazione o ritenuta che riduca gli importi dovuti ai beneficiari",
+        "text": "non è consentita: non si applica alcuna detrazione o ritenuta che riduca gli importi dovuti ai beneficiari",
         "why_wrong": null
       }
     ],
@@ -264,8 +266,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-con-007",
@@ -274,22 +277,22 @@
     "options": [
       {
         "id": "a",
-        "text": "sono basate sulla valutazione dei rischi, comprendono verifiche amministrative e verifiche in loco e sono eseguite prima della presentazione dei conti",
+        "text": "sono basate sulla valutazione dei rischi, comprendono verifiche amministrative e in loco e precedono la presentazione dei conti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "riguardano sempre l'intera spesa dichiarata e sono eseguite dopo la presentazione dei conti",
+        "text": "riguardano sempre l'intera spesa dichiarata, comprendono verifiche amministrative e sono eseguite dopo la presentazione dei conti",
         "why_wrong": "L'art. 74, par. 2, prevede verifiche basate sulla valutazione dei rischi ed eseguite prima della presentazione dei conti."
       },
       {
         "id": "c",
-        "text": "consistono in audit delle operazioni su un campione statistico",
-        "why_wrong": "Gli audit delle operazioni su un campione sono svolti dall'autorità di audit (art. 79, par. 1)."
+        "text": "consistono in audit delle operazioni su un campione statistico, svolti secondo la strategia di audit del programma",
+        "why_wrong": "Gli audit delle operazioni su un campione sono svolti dall'autorità di audit (art. 79, par. 1), secondo la strategia di audit da essa predisposta (art. 78, par. 1)."
       },
       {
         "id": "d",
-        "text": "sono svolte esclusivamente in loco presso i beneficiari",
+        "text": "sono svolte esclusivamente in loco presso i beneficiari, in base a una valutazione dei rischi individuati ex ante",
         "why_wrong": "Le verifiche di gestione comprendono anche verifiche amministrative sulle domande di pagamento dei beneficiari (art. 74, par. 2)."
       }
     ],
@@ -308,8 +311,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-con-008",
@@ -410,22 +414,22 @@
     "options": [
       {
         "id": "a",
-        "text": "deve comunque utilizzare un metodo di campionamento statistico",
+        "text": "deve comunque utilizzare un metodo di campionamento statistico, con un campione rappresentativo delle spese dichiarate alla Commissione",
         "why_wrong": "L'art. 79, par. 2, consente un metodo non statistico se la popolazione è composta da meno di 300 unità di campionamento."
       },
       {
         "id": "b",
-        "text": "può limitarsi a 30 unità di campionamento scelte a sua discrezione",
-        "why_wrong": "Il campione di 30 unità, basato su una selezione statistica, riguarda le modalità proporzionate migliorate (art. 83, primo comma, lett. b))."
+        "text": "può limitarsi a un campione di 10 unità, scelte secondo il proprio giudizio professionale tra le 200 della popolazione",
+        "why_wrong": "Il metodo non statistico copre almeno il 10 % delle unità della popolazione, selezionate in modo casuale (art. 79, par. 2): qui almeno 20 unità."
       },
       {
         "id": "c",
-        "text": "deve sottoporre ad audit tutte le 200 unità",
-        "why_wrong": "Gli audit delle operazioni si svolgono in base a un campione (art. 79, par. 1)."
+        "text": "deve sottoporre ad audit tutte le 200 unità, poiché la popolazione è composta da meno di 300 unità di campionamento",
+        "why_wrong": "Gli audit delle operazioni si svolgono in base a un campione (art. 79, par. 1); sotto le 300 unità è ammesso un metodo non statistico (art. 79, par. 2)."
       },
       {
         "id": "d",
-        "text": "può utilizzare, secondo il proprio giudizio professionale, un metodo non statistico che copra almeno il 10 % delle unità, selezionate in modo casuale",
+        "text": "può usare, secondo il proprio giudizio professionale, un metodo non statistico su almeno il 10 % delle unità, selezionate a caso",
         "why_wrong": null
       }
     ],
@@ -448,8 +452,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-con-011",
@@ -502,23 +507,23 @@
     "options": [
       {
         "id": "a",
-        "text": "è predisposta dall'autorità di gestione, previa consultazione dell'autorità di audit",
+        "text": "è predisposta dall'autorità di gestione, sentita l'autorità di audit, e comprende audit dei sistemi delle nuove autorità di gestione entro ventuno mesi dalla decisione che le individua",
         "why_wrong": "L'art. 78, par. 1, attribuisce la strategia all'autorità di audit, previa consultazione dell'autorità di gestione."
       },
       {
         "id": "b",
-        "text": "è predisposta dall'autorità di audit, previa consultazione dell'autorità di gestione, e comprende gli audit dei sistemi delle nuove autorità di gestione, da effettuare entro ventuno mesi dalla decisione che le individua",
+        "text": "è predisposta dall'autorità di audit, sentita l'autorità di gestione, e comprende audit dei sistemi delle nuove autorità di gestione entro ventuno mesi dalla decisione che le individua",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "è approvata dalla Commissione e aggiornata ogni tre anni",
+        "text": "è approvata dalla Commissione e aggiornata ogni tre anni, previa consultazione dell'autorità di gestione, del comitato di sorveglianza e dell'organismo di coordinamento",
         "why_wrong": "La strategia è aggiornata annualmente dopo la prima relazione annuale di controllo e il parere di audit (art. 78, par. 1) ed è presentata alla Commissione su richiesta (par. 2)."
       },
       {
         "id": "d",
-        "text": "deve sempre riguardare un solo programma",
-        "why_wrong": "L'art. 78, par. 1, prevede che la strategia possa riguardare uno o più programmi."
+        "text": "deve sempre riguardare un solo programma e comprende soltanto gli audit delle operazioni su un campione, senza gli audit dei sistemi delle autorità del programma",
+        "why_wrong": "L'art. 78, par. 1, prevede che la strategia comprenda gli audit dei sistemi e gli audit delle operazioni e possa riguardare uno o più programmi."
       }
     ],
     "correct": "b",
@@ -540,7 +545,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

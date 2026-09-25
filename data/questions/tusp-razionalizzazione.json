@@ -98,23 +98,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il presupposto ricorre e impone la messa in liquidazione della società",
-        "why_wrong": "Il presupposto della lett. e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale; in ogni caso l'art. 20 prevede un piano, non la liquidazione automatica."
+        "text": "Il presupposto ricorre e impone al Comune la messa in liquidazione della società entro il 31 dicembre dell'anno successivo all'analisi",
+        "why_wrong": "Il presupposto della lett. e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale; in ogni caso l'art. 20 prevede un piano di riassetto, non la liquidazione automatica, e il 31 dicembre dell'anno successivo è il termine della relazione sull'attuazione del piano (comma 4)."
       },
       {
         "id": "b",
-        "text": "Il presupposto non ricorre, perché la lettera e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale",
+        "text": "Il presupposto non ricorre: la lettera e) riguarda solo società diverse da quelle costituite per la gestione di un servizio d'interesse generale",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Il presupposto ricorre, perché la lettera e) si applica a tutte le società partecipate",
+        "text": "Il presupposto ricorre, perché la lettera e) si applica a tutte le società partecipate, anche a quelle che gestiscono servizi d'interesse generale",
         "why_wrong": "La lett. e) esclude espressamente le società costituite per la gestione di un servizio d'interesse generale."
       },
       {
         "id": "d",
-        "text": "Il presupposto ricorre solo se i risultati negativi sono consecutivi",
-        "why_wrong": "La lett. e) richiede un risultato negativo per quattro dei cinque esercizi precedenti, senza richiedere che siano consecutivi."
+        "text": "Il presupposto ricorre solo se i quattro risultati negativi sono consecutivi e il fatturato medio non supera un milione di euro",
+        "why_wrong": "La lett. e) esclude le società costituite per la gestione di un servizio d'interesse generale e non richiede risultati consecutivi; il fatturato medio non superiore a un milione è un distinto presupposto (lett. d)."
       }
     ],
     "correct": "b",
@@ -132,8 +132,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-raz-004",
@@ -142,22 +143,22 @@
     "options": [
       {
         "id": "a",
-        "text": "La sanzione amministrativa del pagamento di una somma da 5.000 a 500.000 euro, comminata dalla competente sezione giurisdizionale regionale della Corte dei conti",
+        "text": "Una sanzione amministrativa da 5.000 a 500.000 euro, comminata dalla competente sezione giurisdizionale regionale della Corte dei conti",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "La sanzione amministrativa da 5.000 a 500.000 euro, irrogata dall'Autorità garante della concorrenza e del mercato",
+        "text": "Una sanzione amministrativa da 5.000 a 500.000 euro, irrogata dall'Autorità garante della concorrenza e del mercato nei confronti dell'ente",
         "why_wrong": "L'art. 20, comma 7, attribuisce la sanzione alla competente sezione giurisdizionale regionale della Corte dei conti."
       },
       {
         "id": "c",
-        "text": "La riduzione del 30 per cento dei compensi degli amministratori delle società partecipate",
-        "why_wrong": "La riduzione del 30 per cento dei compensi degli amministratori è prevista dall'art. 21, comma 3, per le società in perdita nei tre esercizi precedenti."
+        "text": "La riduzione del 30 per cento del compenso dei componenti degli organi di amministrazione delle società partecipate dall'ente locale",
+        "why_wrong": "La riduzione del 30 per cento dei compensi degli amministratori è prevista dall'art. 21, comma 3, per le società con risultato economico negativo nei tre esercizi precedenti."
       },
       {
         "id": "d",
-        "text": "La cancellazione d'ufficio delle società partecipate dal registro delle imprese",
+        "text": "La cancellazione d'ufficio dal registro delle imprese delle società partecipate, disposta dal conservatore del registro delle imprese",
         "why_wrong": "La cancellazione d'ufficio riguarda le società che per oltre due anni non hanno depositato il bilancio o compiuto atti di gestione (art. 20, comma 9)."
       }
     ],
@@ -176,8 +177,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-raz-005",
@@ -186,23 +188,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Può sottoscrivere un aumento di capitale, purché motivato analiticamente ai sensi dell'art. 5",
+        "text": "Può sottoscrivere un aumento di capitale, purché la delibera sia analiticamente motivata e preventivamente trasmessa alla Corte dei conti ai sensi dell'art. 5 del decreto",
         "why_wrong": "L'art. 14, comma 5, vieta la sottoscrizione di aumenti di capitale in tale situazione; la motivazione dell'art. 5 non supera il divieto."
       },
       {
         "id": "b",
-        "text": "Non può, di regola, sottoscrivere aumenti di capitale, effettuare trasferimenti straordinari, aperture di credito né rilasciare garanzie a favore della società",
+        "text": "Non può, di regola, sottoscrivere aumenti di capitale, effettuare trasferimenti straordinari o aperture di credito, né rilasciare garanzie a favore della società",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Può rilasciare garanzie, perché il divieto riguarda solo gli aumenti di capitale",
-        "why_wrong": "L'art. 14, comma 5, vieta anche trasferimenti straordinari, aperture di credito e rilascio di garanzie."
+        "text": "Può rilasciare garanzie e aprire linee di credito, perché il divieto riguarda solo gli aumenti di capitale e i trasferimenti straordinari",
+        "why_wrong": "L'art. 14, comma 5, vieta anche le aperture di credito e il rilascio di garanzie."
       },
       {
         "id": "d",
-        "text": "Deve dismettere la partecipazione entro cinque anni",
-        "why_wrong": "I cinque anni sono il periodo successivo al fallimento di una società a controllo pubblico con affidamenti diretti, nel quale non si possono costituire società per gli stessi servizi (art. 14, comma 6)."
+        "text": "Deve dismettere la partecipazione e, per i cinque anni successivi, non può acquisirne altre in società che gestiscano i medesimi servizi della partecipata",
+        "why_wrong": "I cinque anni sono il periodo successivo al fallimento di una società a controllo pubblico con affidamenti diretti, nel quale non si possono costituire società o acquisire partecipazioni per gli stessi servizi (art. 14, comma 6)."
       }
     ],
     "correct": "b",
@@ -220,8 +222,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-raz-006",
@@ -318,22 +321,22 @@
     "options": [
       {
         "id": "a",
-        "text": "È effettuata sempre mediante asta pubblica, senza eccezioni",
+        "text": "È effettuata sempre mediante asta pubblica, nel rispetto dei principi di pubblicità, trasparenza e non discriminazione, senza possibilità di negoziazione diretta con un singolo acquirente",
         "why_wrong": "L'art. 10, comma 2, ammette in casi eccezionali la negoziazione diretta con un singolo acquirente."
       },
       {
         "id": "b",
-        "text": "È effettuata nel rispetto dei principi di pubblicità, trasparenza e non discriminazione e, in casi eccezionali, con deliberazione motivata sulla convenienza economica, anche mediante negoziazione diretta con un singolo acquirente",
+        "text": "Rispetta i principi di pubblicità, trasparenza e non discriminazione; in casi eccezionali, con delibera motivata sulla convenienza economica, può avvenire per negoziazione diretta",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Può essere effettuata liberamente mediante negoziazione diretta, se il prezzo è pari al valore nominale della quota",
+        "text": "Può essere effettuata liberamente mediante negoziazione diretta con un singolo acquirente, senza delibera motivata, se il prezzo è pari al valore nominale della quota",
         "why_wrong": "La negoziazione diretta è ammessa solo in casi eccezionali, con deliberazione che dia analiticamente atto della convenienza economica e della congruità del prezzo (art. 10, comma 2)."
       },
       {
         "id": "d",
-        "text": "È valida anche in mancanza di atto deliberativo, se il contratto è stato stipulato",
+        "text": "Rispetta i principi di pubblicità, trasparenza e non discriminazione ed è comunque valida, anche in mancanza dell'atto deliberativo, se il contratto è stato stipulato",
         "why_wrong": "La mancanza o invalidità dell'atto deliberativo rende inefficace l'atto di alienazione (art. 10, comma 3)."
       }
     ],
@@ -352,7 +355,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

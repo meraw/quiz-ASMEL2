@@ -6,13 +6,13 @@
     "options": [
       {
         "id": "a",
-        "text": "della pace, del benessere dei popoli e dello sviluppo sostenibile",
-        "why_wrong": "Pace, benessere dei popoli e sviluppo sostenibile sono obiettivi che l'Unione si prefigge (art. 3 TUE), non i valori su cui si fonda."
+        "text": "della pace, del benessere dei popoli, dello sviluppo sostenibile, della piena occupazione e del progresso sociale",
+        "why_wrong": "Pace, benessere dei popoli, sviluppo sostenibile, piena occupazione e progresso sociale sono obiettivi dell'Unione (art. 3 TUE), non i valori su cui si fonda."
       },
       {
         "id": "b",
-        "text": "dell'attribuzione, della sussidiarietà e della proporzionalità",
-        "why_wrong": "Sono i principi che regolano la delimitazione e l'esercizio delle competenze dell'Unione (art. 5 TUE)."
+        "text": "dell'attribuzione, della sussidiarietà, della proporzionalità e del rispetto dell'identità nazionale e delle funzioni essenziali degli Stati membri",
+        "why_wrong": "Attribuzione, sussidiarietà e proporzionalità sono i principi sulle competenze dell'Unione (art. 5 TUE); il rispetto dell'identità nazionale è previsto dall'art. 4, par. 2, TUE."
       },
       {
         "id": "c",
@@ -21,8 +21,8 @@
       },
       {
         "id": "d",
-        "text": "della leale cooperazione, della solidarietà finanziaria e della parità di bilancio tra gli Stati membri",
-        "why_wrong": "La leale cooperazione è un principio che regola i rapporti tra Unione e Stati membri (art. 4, par. 3, TUE) e non figura tra i valori dell'art. 2."
+        "text": "della leale cooperazione, della coesione economica, sociale e territoriale e dell'unione economica e monetaria",
+        "why_wrong": "La leale cooperazione è un principio dei rapporti tra Unione e Stati membri (art. 4, par. 3, TUE); coesione e unione economica e monetaria sono obiettivi (art. 3, parr. 3 e 4, TUE)."
       }
     ],
     "correct": "c",
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-tue-002",
@@ -538,8 +539,8 @@
     "options": [
       {
         "id": "a",
-        "text": "all'unanimità, su proposta di un terzo degli Stati membri",
-        "why_wrong": "L'unanimità è richiesta al Consiglio europeo per constatare una violazione grave e persistente (art. 7, par. 2, TUE), non per il rischio di violazione."
+        "text": "all'unanimità, su proposta di un terzo degli Stati membri e previa approvazione del Parlamento europeo",
+        "why_wrong": "L'unanimità è richiesta al Consiglio europeo per constatare una violazione grave e persistente (art. 7, par. 2, TUE), non al Consiglio per il rischio di violazione."
       },
       {
         "id": "b",
@@ -548,12 +549,12 @@
       },
       {
         "id": "c",
-        "text": "a maggioranza qualificata, senza intervento del Parlamento europeo",
+        "text": "a maggioranza qualificata, dopo aver ascoltato lo Stato membro, senza intervento del Parlamento europeo",
         "why_wrong": "La maggioranza qualificata è prevista per la sospensione dei diritti (art. 7, par. 3, TUE); per la constatazione del rischio servono i quattro quinti e l'approvazione del Parlamento europeo."
       },
       {
         "id": "d",
-        "text": "a maggioranza semplice, previo parere della Corte di giustizia",
+        "text": "a maggioranza semplice dei suoi membri, previo parere obbligatorio della Corte di giustizia",
         "why_wrong": "L'art. 7, par. 1, TUE richiede i quattro quinti dei membri del Consiglio e l'approvazione del Parlamento europeo; non prevede un parere della Corte."
       }
     ],
@@ -572,8 +573,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-tue-014",
@@ -674,22 +676,22 @@
     "options": [
       {
         "id": "a",
-        "text": "i membri non possono essere più di settecentocinquanta, più il presidente, con un minimo di sei e un massimo di novantasei seggi per Stato membro",
+        "text": "i membri sono al massimo settecentocinquanta più il presidente, con almeno sei e non più di novantasei seggi per Stato membro",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "ogni Stato membro elegge lo stesso numero di rappresentanti",
+        "text": "ogni Stato membro elegge lo stesso numero di rappresentanti, per un totale massimo di settecentocinquanta membri",
         "why_wrong": "L'art. 14, par. 2, TUE prevede una rappresentanza degressivamente proporzionale, non paritaria."
       },
       {
         "id": "c",
-        "text": "i membri sono designati dai parlamenti nazionali per un mandato di cinque anni",
+        "text": "i membri sono designati dai parlamenti nazionali tra i propri componenti, per un mandato di cinque anni",
         "why_wrong": "Per l'art. 14, par. 3, TUE i membri sono eletti a suffragio universale diretto, libero e segreto."
       },
       {
         "id": "d",
-        "text": "la composizione è decisa dal Consiglio a maggioranza qualificata su proposta della Commissione",
+        "text": "la composizione è stabilita dal Consiglio, a maggioranza qualificata su proposta della Commissione, sentito il Parlamento europeo",
         "why_wrong": "Per l'art. 14, par. 2, TUE la decisione è adottata dal Consiglio europeo all'unanimità, su iniziativa e con l'approvazione del Parlamento europeo."
       }
     ],
@@ -708,8 +710,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-tue-017",
@@ -718,23 +721,23 @@
     "options": [
       {
         "id": "a",
-        "text": "esercita, congiuntamente al Parlamento europeo, la funzione legislativa",
-        "why_wrong": "È la funzione del Consiglio (art. 16, par. 1, TUE), istituzione distinta dal Consiglio europeo."
+        "text": "esercita, congiuntamente al Parlamento europeo, la funzione legislativa e la funzione di bilancio, su proposta della Commissione",
+        "why_wrong": "È la funzione del Consiglio (art. 16, par. 1, TUE), istituzione distinta dal Consiglio europeo, che non esercita funzioni legislative (art. 15, par. 1)."
       },
       {
         "id": "b",
-        "text": "dà all'Unione gli impulsi necessari al suo sviluppo e ne definisce gli orientamenti e le priorità politiche generali, senza esercitare funzioni legislative",
+        "text": "dà all'Unione gli impulsi necessari al suo sviluppo e ne definisce orientamenti e priorità politiche generali, senza funzioni legislative",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "è composto da un rappresentante di ciascuno Stato membro a livello ministeriale",
+        "text": "è composto da un rappresentante di ciascuno Stato membro a livello ministeriale, abilitato a impegnare il governo e a esercitare il diritto di voto",
         "why_wrong": "È la composizione del Consiglio (art. 16, par. 2, TUE); il Consiglio europeo è composto dai capi di Stato o di governo, dal suo presidente e dal presidente della Commissione."
       },
       {
         "id": "d",
-        "text": "delibera di regola a maggioranza qualificata",
-        "why_wrong": "Per l'art. 15, par. 4, TUE il Consiglio europeo si pronuncia per consenso, salvo diversa disposizione; la regola della maggioranza qualificata vale per il Consiglio (art. 16, par. 3)."
+        "text": "delibera di regola a maggioranza qualificata ed elegge il suo presidente all'unanimità per un mandato di cinque anni",
+        "why_wrong": "Per l'art. 15, par. 4, TUE il Consiglio europeo si pronuncia per consenso, salvo diversa disposizione; il presidente è eletto a maggioranza qualificata per due anni e mezzo (par. 5)."
       }
     ],
     "correct": "b",
@@ -752,8 +755,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-tue-018",
@@ -762,22 +766,22 @@
     "options": [
       {
         "id": "a",
-        "text": "la maggioranza qualificata è raggiunta, perché i favorevoli superano il 55% dei membri",
-        "why_wrong": "Il 55% dei membri è solo una delle due soglie: l'art. 16, par. 4, TUE richiede anche che i favorevoli rappresentino almeno il 65% della popolazione."
+        "text": "la maggioranza qualificata è raggiunta, perché i favorevoli superano il 55% dei membri, con un minimo di quindici",
+        "why_wrong": "Il 55% dei membri, con un minimo di quindici, è solo una delle due soglie: l'art. 16, par. 4, TUE richiede anche che i favorevoli rappresentino almeno il 65% della popolazione."
       },
       {
         "id": "b",
-        "text": "la maggioranza qualificata è raggiunta, perché i contrari sono meno di un terzo dei membri",
-        "why_wrong": "L'art. 16, par. 4, TUE non prevede una soglia di un terzo; la maggioranza si considera raggiunta solo se la minoranza di blocco comprende meno di quattro membri."
+        "text": "la maggioranza qualificata è raggiunta, perché i favorevoli rappresentano più della metà della popolazione dell'Unione",
+        "why_wrong": "L'art. 16, par. 4, TUE richiede che i favorevoli rappresentino almeno il 65% della popolazione dell'Unione, non la semplice metà."
       },
       {
         "id": "c",
-        "text": "la maggioranza qualificata non è raggiunta, perché servono i quattro quinti dei membri",
+        "text": "la maggioranza qualificata non è raggiunta, perché servono i voti favorevoli di almeno i quattro quinti dei membri del Consiglio",
         "why_wrong": "I quattro quinti dei membri sono richiesti solo in casi particolari, come l'art. 7, par. 1, TUE; la maggioranza qualificata è definita dall'art. 16, par. 4."
       },
       {
         "id": "d",
-        "text": "la maggioranza qualificata non è raggiunta, perché i favorevoli non rappresentano il 65% della popolazione e i contrari sono almeno quattro",
+        "text": "la maggioranza qualificata non è raggiunta: i favorevoli non arrivano al 65% della popolazione e i contrari sono almeno quattro",
         "why_wrong": null
       }
     ],
@@ -796,8 +800,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-tue-019",

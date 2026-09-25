@@ -60,18 +60,18 @@
       },
       {
         "id": "b",
-        "text": "Euro 240.000 annui al netto degli oneri fiscali",
-        "why_wrong": "L'art. 11, comma 6, esprime il limite «al lordo» dei contributi e degli oneri fiscali a carico del beneficiario."
+        "text": "Euro 240.000 annui al netto dei contributi previdenziali e assistenziali e degli oneri fiscali a carico del beneficiario",
+        "why_wrong": "L'art. 11, comma 6, esprime il limite «al lordo», non al netto, dei contributi e degli oneri fiscali a carico del beneficiario."
       },
       {
         "id": "c",
-        "text": "Euro 500.000 annui, al lordo degli oneri fiscali",
-        "why_wrong": "500.000 euro è l'importo massimo della sanzione per la mancata adozione degli atti di razionalizzazione da parte degli enti locali (art. 20, comma 7)."
+        "text": "Euro 500.000 annui complessivi, al lordo dei contributi previdenziali e assistenziali e degli oneri fiscali a carico del beneficiario",
+        "why_wrong": "Il limite dell'art. 11, comma 6, è di 240.000 euro; 500.000 euro è l'importo massimo della sanzione per la mancata adozione degli atti di razionalizzazione da parte degli enti locali (art. 20, comma 7)."
       },
       {
         "id": "d",
-        "text": "Un importo pari al 30 per cento del compenso dell'organo amministrativo",
-        "why_wrong": "Il 30 per cento è il limite della remunerazione dei componenti dei comitati consultivi o di proposta (art. 11, comma 13)."
+        "text": "Un importo pari al 30 per cento del compenso deliberato per la carica di componente dell'organo amministrativo, al lordo degli oneri fiscali",
+        "why_wrong": "Il 30 per cento del compenso deliberato per la carica di componente dell'organo amministrativo è il limite della remunerazione dei componenti dei comitati consultivi o di proposta (art. 11, comma 13)."
       }
     ],
     "correct": "a",
@@ -89,8 +89,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-gov-003",
@@ -99,22 +100,22 @@
     "options": [
       {
         "id": "a",
-        "text": "La nomina è possibile, purché il funzionario riversi i compensi al Comune",
-        "why_wrong": "Il riversamento dei compensi riguarda gli amministratori dipendenti della società controllante, non delle amministrazioni controllanti (art. 11, comma 8, secondo periodo)."
+        "text": "La nomina è consentita, purché il funzionario riversi al Comune i compensi percepiti, in virtù del principio di onnicomprensività della retribuzione",
+        "why_wrong": "L'art. 11, comma 8, primo periodo, vieta che gli amministratori siano dipendenti delle amministrazioni controllanti; il riversamento dei compensi (secondo periodo) riguarda i dipendenti della società controllante."
       },
       {
         "id": "b",
-        "text": "La nomina è possibile, purché il funzionario sia collocato in aspettativa non retribuita",
-        "why_wrong": "L'aspettativa non retribuita è prevista dall'art. 11, comma 12, per chi ha un rapporto di lavoro con la stessa società a controllo pubblico di cui è amministratore."
+        "text": "La nomina è consentita, purché il funzionario sia collocato in aspettativa non retribuita, con sospensione dell'iscrizione agli istituti di previdenza e assistenza",
+        "why_wrong": "L'aspettativa non retribuita è prevista dall'art. 11, comma 12, per chi ha un rapporto di lavoro con la stessa società a controllo pubblico di cui è amministratore; il comma 8 vieta la nomina dei dipendenti delle amministrazioni controllanti."
       },
       {
         "id": "c",
-        "text": "La nomina non è consentita: gli amministratori delle società a controllo pubblico non possono essere dipendenti delle amministrazioni pubbliche controllanti o vigilanti",
+        "text": "La nomina non è consentita: gli amministratori delle società a controllo pubblico non possono essere dipendenti delle amministrazioni controllanti o vigilanti",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "La nomina è consentita solo se il funzionario rinuncia ai compensi",
+        "text": "La nomina è consentita solo se il funzionario rinuncia ai compensi dovuti a qualunque titolo agli amministratori della società controllata",
         "why_wrong": "La rinuncia ai compensi evita l'aspettativa nel caso dell'art. 11, comma 12; non supera il divieto del comma 8."
       }
     ],
@@ -133,8 +134,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-gov-004",
@@ -143,8 +145,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Almeno nella misura della metà, calcolata su ciascun organo amministrativo",
-        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, calcolata sul numero complessivo delle designazioni o nomine dell'anno."
+        "text": "Almeno nella misura della metà, da computare sul numero complessivo dei componenti di ciascun organo amministrativo",
+        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, da computare sul numero complessivo delle designazioni o nomine effettuate in corso d'anno."
       },
       {
         "id": "b",
@@ -153,13 +155,13 @@
       },
       {
         "id": "c",
-        "text": "Almeno nella misura di un terzo, solo quando l'organo amministrativo è collegiale",
-        "why_wrong": "La misura di un terzo si applica alle designazioni o nomine dell'anno; per gli organi collegiali lo statuto rinvia inoltre ai criteri della legge n. 120 del 2011 (art. 11, comma 4)."
+        "text": "Almeno nella misura di un terzo, da computare sui soli organi amministrativi collegiali, esclusi gli amministratori unici",
+        "why_wrong": "La misura di un terzo si computa sul numero complessivo delle designazioni o nomine effettuate in corso d'anno; per gli organi collegiali lo statuto rinvia inoltre ai criteri della legge n. 120 del 2011 (art. 11, comma 4)."
       },
       {
         "id": "d",
-        "text": "Almeno nella misura di un quinto, da computare sulle nomine del triennio",
-        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, riferita alle nomine effettuate in corso d'anno."
+        "text": "Almeno nella misura di un quinto, da computare sul numero complessivo delle designazioni o nomine effettuate nel triennio precedente",
+        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, riferita alle designazioni o nomine effettuate in corso d'anno."
       }
     ],
     "correct": "b",
@@ -177,8 +179,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-gov-005",
@@ -323,23 +326,23 @@
     "options": [
       {
         "id": "a",
-        "text": "L'Autorità garante della concorrenza e del mercato",
+        "text": "L'Autorità garante della concorrenza e del mercato, alla quale è inviato l'atto deliberativo di costituzione della società",
         "why_wrong": "All'AGCM è inviato l'atto deliberativo di costituzione o acquisizione (art. 5, comma 3); l'elenco è tenuto dalla struttura del MEF (art. 15, comma 3)."
       },
       {
         "id": "b",
-        "text": "La Sezione regionale di controllo della Corte dei conti",
-        "why_wrong": "La Sezione regionale di controllo è competente per il controllo sugli atti di regioni ed enti locali (art. 5, comma 4), non per la tenuta dell'elenco."
+        "text": "La Sezione regionale di controllo della Corte dei conti competente per gli atti delle regioni e degli enti locali",
+        "why_wrong": "La Sezione regionale di controllo è competente per il controllo sugli atti di regioni ed enti locali (art. 5, comma 4), non per la tenuta dell'elenco (art. 15, comma 3)."
       },
       {
         "id": "c",
-        "text": "La struttura competente per l'indirizzo, il controllo e il monitoraggio individuata nell'ambito del Ministero dell'economia e delle finanze",
+        "text": "La struttura del Ministero dell'economia e delle finanze competente per l'indirizzo, il controllo e il monitoraggio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Il conservatore del registro delle imprese",
-        "why_wrong": "Il conservatore del registro delle imprese interviene per la cancellazione d'ufficio delle società inattive (art. 20, comma 9)."
+        "text": "Il conservatore del registro delle imprese, sulla base dei bilanci depositati dalle società a partecipazione pubblica",
+        "why_wrong": "Il conservatore del registro delle imprese interviene per la cancellazione d'ufficio delle società inattive (art. 20, comma 9); l'elenco è tenuto dalla struttura del MEF (art. 15, comma 3)."
       }
     ],
     "correct": "c",
@@ -357,7 +360,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

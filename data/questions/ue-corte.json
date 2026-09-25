@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "emette un parere motivato, dopo aver posto lo Stato in condizioni di presentare le sue osservazioni",
+        "text": "emette un parere motivato, dopo aver posto lo Stato in condizioni di presentare osservazioni",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "chiede l'autorizzazione del Consiglio, che delibera a maggioranza qualificata",
+        "text": "chiede l'autorizzazione del Consiglio, che delibera a maggioranza qualificata sentito lo Stato interessato",
         "why_wrong": "L'art. 258 TFUE non prevede alcuna autorizzazione del Consiglio: la fase precontenziosa si svolge tra Commissione e Stato."
       },
       {
         "id": "c",
-        "text": "adotta una decisione che infligge allo Stato una somma forfettaria",
+        "text": "adotta una decisione che infligge allo Stato il pagamento di una somma forfettaria o di una penalità",
         "why_wrong": "La somma forfettaria o la penalità è comminata dalla Corte (art. 260, parr. 2 e 3, TFUE), non dalla Commissione nella fase precontenziosa."
       },
       {
         "id": "d",
-        "text": "deve attendere che un altro Stato membro presenti un ricorso",
-        "why_wrong": "Il ricorso di uno Stato contro un altro è un rimedio distinto (art. 259 TFUE); la Commissione agisce di propria iniziativa."
+        "text": "deve attendere che un altro Stato membro si rivolga alla Commissione per un ricorso contro lo Stato",
+        "why_wrong": "Il ricorso di uno Stato contro un altro, previo rivolgersi alla Commissione, è un rimedio distinto (art. 259 TFUE); per l'art. 258 la Commissione agisce quando reputi che vi sia inadempimento."
       }
     ],
     "correct": "a",
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cor-002",
@@ -182,23 +183,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Incompetenza, violazione delle forme sostanziali, violazione dei trattati o di qualsiasi regola di diritto relativa alla loro applicazione, sviamento di potere",
+        "text": "Incompetenza, violazione delle forme sostanziali, violazione dei trattati o di regole di diritto relative alla loro applicazione, sviamento di potere",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Solo la violazione dei trattati",
+        "text": "Soltanto la violazione dei trattati o di qualsiasi regola di diritto relativa alla loro applicazione, con esclusione di ogni altro vizio dell'atto",
         "why_wrong": "L'art. 263, secondo comma, TFUE indica anche incompetenza, violazione delle forme sostanziali e sviamento di potere."
       },
       {
         "id": "c",
-        "text": "Inopportunità politica dell'atto e violazione dei trattati",
-        "why_wrong": "L'art. 263 TFUE prevede un controllo di legittimità; l'inopportunità politica non figura tra i motivi."
+        "text": "Incompetenza, violazione delle forme sostanziali, inopportunità politica dell'atto e contrarietà all'interesse comune dell'Unione",
+        "why_wrong": "L'art. 263 TFUE prevede un controllo di legittimità; inopportunità politica e contrarietà all'interesse comune non figurano tra i motivi."
       },
       {
         "id": "d",
-        "text": "Mancata adozione di un atto dovuto",
-        "why_wrong": "L'astensione dal pronunciarsi è oggetto del ricorso in carenza (art. 265 TFUE), non del ricorso di annullamento."
+        "text": "Astensione dell'istituzione dal pronunciarsi in violazione dei trattati, dopo una richiesta di agire rimasta senza risposta",
+        "why_wrong": "L'astensione dal pronunciarsi, previa richiesta di agire, è oggetto del ricorso in carenza (art. 265 TFUE), non del ricorso di annullamento."
       }
     ],
     "correct": "a",
@@ -216,8 +217,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cor-006",
@@ -270,22 +272,22 @@
     "options": [
       {
         "id": "a",
-        "text": "qualsiasi atto dell'Unione, anche se non la riguarda",
+        "text": "qualsiasi atto dell'Unione destinato a produrre effetti giuridici nei confronti di terzi, anche se non adottato nei suoi confronti e se non la riguarda né direttamente né individualmente",
         "why_wrong": "L'art. 263, quarto comma, TFUE limita la legittimazione dei privati agli atti adottati nei loro confronti, a quelli che li riguardano direttamente e individualmente e agli atti regolamentari che li riguardano direttamente senza comportare misure d'esecuzione."
       },
       {
         "id": "b",
-        "text": "soltanto le raccomandazioni e i pareri",
+        "text": "soltanto le raccomandazioni e i pareri del Consiglio, della Commissione e della Banca centrale europea che la riguardano direttamente e individualmente",
         "why_wrong": "Raccomandazioni e pareri sono esclusi dal controllo di legittimità (art. 263, primo comma, TFUE)."
       },
       {
         "id": "c",
-        "text": "soltanto gli atti legislativi",
-        "why_wrong": "L'art. 263, quarto comma, TFUE non riserva il ricorso dei privati agli atti legislativi."
+        "text": "soltanto gli atti legislativi adottati dal Parlamento europeo e dal Consiglio, e solo se la riguardano direttamente e individualmente",
+        "why_wrong": "L'art. 263, quarto comma, TFUE non riserva il ricorso dei privati agli atti legislativi: vi rientrano gli atti adottati nei loro confronti e gli atti regolamentari che li riguardano direttamente."
       },
       {
         "id": "d",
-        "text": "gli atti adottati nei suoi confronti o che la riguardano direttamente e individualmente, e gli atti regolamentari che la riguardano direttamente e non comportano misure d'esecuzione",
+        "text": "gli atti adottati nei suoi confronti o che la riguardano direttamente e individualmente, e gli atti regolamentari che la riguardano direttamente senza misure d'esecuzione",
         "why_wrong": null
       }
     ],
@@ -304,8 +306,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cor-008",
@@ -314,22 +317,22 @@
     "options": [
       {
         "id": "a",
-        "text": "dichiara nullo e non avvenuto l'atto impugnato, potendo precisare gli effetti dell'atto annullato che devono essere considerati definitivi",
+        "text": "dichiara nullo e non avvenuto l'atto, potendo precisare quali effetti dell'atto annullato debbano considerarsi definitivi",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "rinvia l'atto all'istituzione che lo ha adottato perché lo modifichi entro due mesi",
+        "text": "rinvia l'atto all'istituzione che lo ha adottato, perché lo modifichi entro il termine di due mesi dalla sentenza",
         "why_wrong": "L'art. 264 TFUE prevede la dichiarazione di nullità dell'atto; l'obbligo di prendere i provvedimenti di esecuzione della sentenza grava poi sull'istituzione (art. 266 TFUE)."
       },
       {
         "id": "c",
-        "text": "condanna l'istituzione al pagamento di una penalità",
-        "why_wrong": "Somma forfettaria e penalità sono previste per gli Stati membri inadempienti (art. 260 TFUE), non come effetto dell'annullamento."
+        "text": "condanna l'istituzione che ha adottato l'atto al pagamento di una somma forfettaria o di una penalità, lasciando l'atto in vigore",
+        "why_wrong": "Somma forfettaria e penalità sono previste per gli Stati membri inadempienti (art. 260 TFUE); se il ricorso è fondato l'atto è dichiarato nullo e non avvenuto (art. 264 TFUE)."
       },
       {
         "id": "d",
-        "text": "dichiara l'atto nullo con effetto solo per il ricorrente",
+        "text": "dichiara l'atto nullo con effetto solo per il ricorrente, restando l'atto valido nei confronti di tutti gli altri",
         "why_wrong": "L'art. 264 TFUE dispone che l'atto è dichiarato nullo e non avvenuto, senza limitare l'effetto al ricorrente."
       }
     ],
@@ -352,8 +355,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cor-009",
@@ -362,23 +366,23 @@
     "options": [
       {
         "id": "a",
-        "text": "chiedere un parere motivato al Consiglio",
+        "text": "chiedere al Consiglio un parere motivato, che deve essere reso entro tre mesi; in mancanza, può comunque ricorrere",
         "why_wrong": "L'art. 265 TFUE non prevede un parere del Consiglio, ma la preventiva richiesta di agire rivolta all'istituzione."
       },
       {
         "id": "b",
-        "text": "richiedere alla Commissione di agire e attendere due mesi; se la Commissione non prende posizione, può ricorrere entro un nuovo termine di due mesi",
+        "text": "chiedere alla Commissione di agire; se entro due mesi questa non prende posizione, può ricorrere entro un nuovo termine di due mesi",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "proporre ricorso di annullamento contro il silenzio",
-        "why_wrong": "Il ricorso di annullamento (art. 263 TFUE) riguarda atti adottati; l'astensione dal pronunciarsi è oggetto del ricorso in carenza."
+        "text": "impugnare il silenzio della Commissione con ricorso di annullamento, entro due mesi dal giorno in cui ne ha avuto conoscenza",
+        "why_wrong": "Il ricorso di annullamento (art. 263 TFUE) riguarda atti adottati; l'astensione dal pronunciarsi è oggetto del ricorso in carenza (art. 265 TFUE)."
       },
       {
         "id": "d",
-        "text": "attendere tre mesi dalla scadenza del termine previsto dai trattati",
-        "why_wrong": "L'art. 265, secondo comma, TFUE prevede due termini di due mesi, non un termine di tre mesi."
+        "text": "chiedere alla Commissione di agire e attendere tre mesi; se non prende posizione, può ricorrere entro un ulteriore termine di un mese",
+        "why_wrong": "L'art. 265, secondo comma, TFUE prevede un termine di due mesi dalla richiesta e un nuovo termine di due mesi per il ricorso."
       }
     ],
     "correct": "b",
@@ -396,8 +400,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "ue-cor-010",
