@@ -1,0 +1,906 @@
+[
+  {
+    "id": "cp-pr-001",
+    "subject": "reati-pa",
+    "question": "Un cittadino minaccia un funzionario comunale di gravi ritorsioni per costringerlo a omettere la trasmissione di un verbale di sanzione che, secondo i suoi doveri, dovrebbe invece trasmettere. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Resistenza a un pubblico ufficiale",
+        "why_wrong": "L'art. 337 riguarda la violenza o minaccia usata per opporsi al pubblico ufficiale mentre compie un atto di ufficio."
+      },
+      {
+        "id": "b",
+        "text": "Violenza o minaccia a un pubblico ufficiale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Oltraggio a pubblico ufficiale",
+        "why_wrong": "L'art. 341-bis riguarda l'offesa all'onore e al prestigio del pubblico ufficiale, non la minaccia per costringerlo a omettere un atto."
+      },
+      {
+        "id": "d",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": "L'art. 322 riguarda l'offerta o la promessa di denaro o altra utilità, non la minaccia."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 336 c.p. punisce chiunque usa violenza o minaccia a un pubblico ufficiale o a un incaricato di un pubblico servizio per costringerlo a fare un atto contrario ai propri doveri o a omettere un atto dell'ufficio o del servizio.",
+    "evidence": [
+      {
+        "ref": "art. 336, comma 1",
+        "text": "Chiunque usa violenza o minaccia a un pubblico ufficiale o ad un incaricato di un pubblico servizio, per costringerlo a fare un atto contrario ai propri doveri, o ad omettere un atto dell'ufficio o del servizio"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 336, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-002",
+    "subject": "reati-pa",
+    "question": "Durante un controllo stradale, mentre un agente di polizia locale sta redigendo il verbale, il conducente lo spintona con violenza per impedirgli di completare l'atto. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Interruzione di un ufficio o servizio pubblico",
+        "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la violenza per opporsi al pubblico ufficiale mentre compie un atto d'ufficio è prevista dall'art. 337."
+      },
+      {
+        "id": "b",
+        "text": "Oltraggio a pubblico ufficiale",
+        "why_wrong": "L'art. 341-bis riguarda l'offesa all'onore e al prestigio del pubblico ufficiale, non l'uso della violenza."
+      },
+      {
+        "id": "c",
+        "text": "Violenza o minaccia a un Corpo politico, amministrativo o giudiziario",
+        "why_wrong": "L'art. 338 riguarda la violenza o minaccia a un Corpo politico, amministrativo o giudiziario, ai suoi componenti o a un'Autorità costituita in collegio."
+      },
+      {
+        "id": "d",
+        "text": "Resistenza a un pubblico ufficiale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 337 c.p. punisce chiunque usa violenza o minaccia per opporsi a un pubblico ufficiale o a un incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio.",
+    "evidence": [
+      {
+        "ref": "art. 337, comma 1",
+        "text": "Chiunque usa violenza o minaccia per opporsi a un pubblico ufficiale o ad un incaricato di un pubblico servizio, mentre compie un atto di ufficio o di servizio, o a coloro che, richiesti, gli prestano assistenza"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 337, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-003",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 337 c.p., il delitto di resistenza a un pubblico ufficiale si configura anche quando la violenza o la minaccia è usata per opporsi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a coloro che, richiesti, prestano assistenza al pubblico ufficiale o all'incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "a un pubblico ufficiale dopo che ha compiuto l'atto di ufficio",
+        "why_wrong": "L'art. 337 richiede che l'opposizione avvenga mentre il pubblico ufficiale «compie un atto di ufficio o di servizio»."
+      },
+      {
+        "id": "c",
+        "text": "a una pubblica Autorità costituita in collegio, per turbarne l'attività",
+        "why_wrong": "È la condotta prevista dall'art. 338 (violenza o minaccia a un Corpo politico, amministrativo o giudiziario)."
+      },
+      {
+        "id": "d",
+        "text": "a qualsiasi privato che svolga un'attività professionale",
+        "why_wrong": "L'art. 337 tutela il pubblico ufficiale, l'incaricato di un pubblico servizio e coloro che, richiesti, gli prestano assistenza."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 337 c.p. punisce chi usa violenza o minaccia per opporsi a un pubblico ufficiale o a un incaricato di un pubblico servizio mentre compie un atto di ufficio o di servizio, o a coloro che, richiesti, gli prestano assistenza.",
+    "evidence": [
+      {
+        "ref": "art. 337, comma 1",
+        "text": "Chiunque usa violenza o minaccia per opporsi a un pubblico ufficiale o ad un incaricato di un pubblico servizio, mentre compie un atto di ufficio o di servizio, o a coloro che, richiesti, gli prestano assistenza"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 337, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-004",
+    "subject": "reati-pa",
+    "question": "Il genitore di un alunno minaccia un insegnante per costringerlo a omettere una nota disciplinare dovuta. Ai sensi dell'art. 336 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il fatto non rientra nell'art. 336, perché riguarda un rapporto scolastico",
+        "why_wrong": "Il secondo comma dell'art. 336 prevede espressamente il fatto commesso dal genitore nei confronti del personale docente della scuola."
+      },
+      {
+        "id": "b",
+        "text": "si applica soltanto una sanzione amministrativa",
+        "why_wrong": "L'art. 336 prevede la reclusione; il secondo comma ne stabilisce l'aumento."
+      },
+      {
+        "id": "c",
+        "text": "la pena è aumentata fino alla metà",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la pena è diminuita, perché l'autore esercita la responsabilità genitoriale",
+        "why_wrong": "Il secondo comma dell'art. 336 prevede che la pena sia aumentata, non diminuita."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 336, secondo comma, c.p. prevede che la pena sia aumentata fino alla metà se il fatto è commesso dal genitore esercente la responsabilità genitoriale o dal tutore dell'alunno nei confronti di un dirigente scolastico o di un membro del personale docente, educativo, amministrativo, tecnico o ausiliario della scuola.",
+    "evidence": [
+      {
+        "ref": "art. 336, comma 2",
+        "text": "La pena è aumentata fino alla metà se il fatto è commesso dal genitore esercente la responsabilità genitoriale o dal tutore dell'alunno nei confronti di un dirigente scolastico o di un membro del personale docente, educativo, amministrativo, tecnico o ausiliario della scuola."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 336, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-005",
+    "subject": "reati-pa",
+    "question": "Un gruppo di persone minaccia i componenti del consiglio comunale per impedire l'adozione di una delibera. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oltraggio a un Corpo politico, amministrativo o giudiziario",
+        "why_wrong": "L'art. 342 riguarda l'offesa all'onore o al prestigio del Corpo, non la minaccia per impedirne l'attività."
+      },
+      {
+        "id": "b",
+        "text": "Violenza o minaccia ad un Corpo politico, amministrativo o giudiziario o ai suoi singoli componenti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Interruzione di un ufficio o servizio pubblico",
+        "why_wrong": "L'art. 340 si applica «fuori dei casi preveduti da particolari disposizioni di legge»; la minaccia ai componenti di un Corpo amministrativo è prevista dall'art. 338."
+      },
+      {
+        "id": "d",
+        "text": "Resistenza a un pubblico ufficiale",
+        "why_wrong": "L'art. 337 riguarda l'opposizione al pubblico ufficiale mentre compie un atto di ufficio; la minaccia rivolta a un Corpo o ai suoi componenti è prevista dall'art. 338."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 338 c.p. punisce chi usa violenza o minaccia a un Corpo politico, amministrativo o giudiziario, ai singoli componenti o a una pubblica Autorità costituita in collegio per impedirne o turbarne l'attività; alla stessa pena soggiace chi commette il fatto per ottenere, ostacolare o impedire il rilascio o l'adozione di un qualsiasi provvedimento.",
+    "evidence": [
+      {
+        "ref": "art. 338, comma 1",
+        "text": "Chiunque usa violenza o minaccia ad un Corpo politico, amministrativo o giudiziario ((, ai singoli componenti)) o ad una rappresentanza di esso, o ad una qualsiasi pubblica Autorità costituita in collegio ((o ai suoi singoli componenti)) , per impedirne, in tutto o in parte, anche temporaneamente, o per turbarne comunque l'attività"
+      },
+      {
+        "ref": "art. 338, comma 2",
+        "text": "((Alla stessa pena soggiace chi commette il fatto per ottenere, ostacolare o impedire il rilascio o l'adozione di un qualsiasi provvedimento, anche legislativo, ovvero a causa dell'avvenuto rilascio o adozione dello stesso))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 338, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-006",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 339, primo comma, c.p., le pene per i delitti previsti dagli artt. 336, 337 e 338 sono aumentate se la violenza o la minaccia è commessa, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal genitore di un alunno nei confronti del personale della scuola",
+        "why_wrong": "Questa ipotesi è prevista dal secondo comma dell'art. 336, non dall'art. 339."
+      },
+      {
+        "id": "b",
+        "text": "per influire sulle deliberazioni collegiali di imprese che esercitano servizi pubblici",
+        "why_wrong": "È una delle condotte previste dall'art. 338, non una circostanza aggravante dell'art. 339."
+      },
+      {
+        "id": "c",
+        "text": "mediante comunicazione telegrafica o con scritto diretti al Corpo",
+        "why_wrong": "È una modalità dell'oltraggio a un Corpo politico, amministrativo o giudiziario (art. 342, secondo comma)."
+      },
+      {
+        "id": "d",
+        "text": "con armi, o da persona travisata, o da più persone riunite",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 339, primo comma, c.p. aumenta le pene dei tre articoli precedenti se la violenza o la minaccia è commessa nel corso di manifestazioni in luogo pubblico o aperto al pubblico, con armi, da persona travisata, da più persone riunite, con scritto anonimo, in modo simbolico o valendosi della forza intimidatrice di associazioni segrete.",
+    "evidence": [
+      {
+        "ref": "art. 339, comma 1",
+        "text": "Le pene stabilite nei tre articoli precedenti sono aumentate se la violenza o la minaccia è commessa nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero con armi, o da persona travisata, o da più persone riunite, o con scritto anonimo, o in modo simbolico, o valendosi della forza intimidatrice derivante da segrete associazioni, esistenti o supposte."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 339, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-007",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 341-bis c.p., il delitto di oltraggio a pubblico ufficiale richiede che l'offesa all'onore e al prestigio del pubblico ufficiale avvenga:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in luogo pubblico o aperto al pubblico e in presenza di più persone, mentre il pubblico ufficiale compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "in qualsiasi luogo, anche privato, purché a causa delle funzioni",
+        "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga in luogo pubblico o aperto al pubblico e in presenza di più persone."
+      },
+      {
+        "id": "c",
+        "text": "in luogo pubblico, anche in assenza di altre persone",
+        "why_wrong": "L'art. 341-bis richiede anche la presenza di più persone."
+      },
+      {
+        "id": "d",
+        "text": "in presenza di più persone, anche quando il pubblico ufficiale non sta compiendo un atto d'ufficio",
+        "why_wrong": "L'art. 341-bis richiede che l'offesa avvenga mentre il pubblico ufficiale compie un atto d'ufficio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 341-bis c.p. punisce chi, in luogo pubblico o aperto al pubblico e in presenza di più persone, offende l'onore e il prestigio di un pubblico ufficiale mentre compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni.",
+    "evidence": [
+      {
+        "ref": "art. 341-bis, comma 1",
+        "text": "Chiunque, in luogo pubblico o aperto al pubblico e in presenza di più persone, offende l'onore ed il prestigio di un pubblico ufficiale mentre compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 341-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-008",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 341-bis c.p., se l'imputato di oltraggio a pubblico ufficiale, prima del giudizio, ha riparato interamente il danno mediante risarcimento sia alla persona offesa sia all'ente di appartenenza della medesima:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la pena è diminuita fino a un terzo",
+        "why_wrong": "L'ultimo comma dell'art. 341-bis prevede l'estinzione del reato, non una diminuzione di pena."
+      },
+      {
+        "id": "b",
+        "text": "il reato è estinto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il risarcimento non ha effetti sul reato, ma solo sulla responsabilità civile",
+        "why_wrong": "L'ultimo comma dell'art. 341-bis prevede che, in questo caso, il reato è estinto."
+      },
+      {
+        "id": "d",
+        "text": "l'autore non è punibile solo se prova la verità del fatto attribuito",
+        "why_wrong": "La prova della verità del fatto riguarda l'offesa consistente nell'attribuzione di un fatto determinato (terzo comma); il risarcimento integrale prima del giudizio estingue il reato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 341-bis, ultimo comma, c.p. prevede che, se l'imputato, prima del giudizio, ha riparato interamente il danno mediante risarcimento sia nei confronti della persona offesa sia nei confronti dell'ente di appartenenza della medesima, il reato è estinto.",
+    "evidence": [
+      {
+        "ref": "art. 341-bis, comma 4",
+        "text": "Ove l'imputato, prima del giudizio, abbia riparato interamente il danno, mediante risarcimento di esso sia nei confronti della persona offesa sia nei confronti dell'ente di appartenenza della medesima, il reato è estinto."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 341-bis, comma 4",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-009",
+    "subject": "reati-pa",
+    "question": "In una piazza affollata, mentre un pubblico ufficiale compie un atto d'ufficio, un cittadino lo offende attribuendogli un fatto determinato. In seguito la verità del fatto viene provata. Ai sensi dell'art. 341-bis c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'autore dell'offesa è punito con la pena aumentata, perché l'offesa consiste nell'attribuzione di un fatto determinato",
+        "why_wrong": "L'aumento di pena opera per l'attribuzione di un fatto determinato, ma se la verità del fatto è provata l'autore dell'offesa non è punibile."
+      },
+      {
+        "id": "b",
+        "text": "il reato è estinto solo se l'autore risarcisce il danno prima del giudizio",
+        "why_wrong": "L'estinzione per risarcimento è un'ipotesi diversa (ultimo comma); la prova della verità del fatto rende l'autore non punibile."
+      },
+      {
+        "id": "c",
+        "text": "l'autore dell'offesa non è punibile",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la verità del fatto è irrilevante",
+        "why_wrong": "Il terzo comma dell'art. 341-bis prevede che, se la verità del fatto è provata, l'autore dell'offesa non è punibile."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 341-bis, terzo comma, c.p. aumenta la pena se l'offesa consiste nell'attribuzione di un fatto determinato, ma prevede che l'autore dell'offesa non sia punibile se la verità del fatto è provata o se, per quel fatto, il pubblico ufficiale è condannato dopo l'attribuzione.",
+    "evidence": [
+      {
+        "ref": "art. 341-bis, comma 3",
+        "text": "La pena è aumentata se l'offesa consiste nell'attribuzione di un fatto determinato. Se la verità del fatto è provata o se per esso l'ufficiale a cui il fatto è attribuito è condannato dopo l'attribuzione del fatto medesimo, l'autore dell'offesa non è punibile."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 341-bis, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-010",
+    "subject": "reati-pa",
+    "question": "Un privato, sfruttando intenzionalmente le relazioni esistenti con un pubblico ufficiale del Comune, si fa dare da un imprenditore una somma di denaro per remunerare il pubblico ufficiale in relazione all'esercizio delle sue funzioni. Fuori dei casi di concorso nei reati di corruzione, quale delitto commette il privato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Traffico di influenze illecite",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": "L'art. 322 riguarda chi offre o promette denaro direttamente al pubblico ufficiale, quando l'offerta non è accettata."
+      },
+      {
+        "id": "c",
+        "text": "Induzione indebita a dare o promettere utilità",
+        "why_wrong": "L'art. 319-quater riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio che, abusando della sua qualità, induce taluno a dare o promettere."
+      },
+      {
+        "id": "d",
+        "text": "Corruzione in atti giudiziari",
+        "why_wrong": "L'art. 319-ter riguarda i fatti di corruzione degli artt. 318 e 319 commessi per favorire o danneggiare una parte in un processo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 346-bis c.p. punisce chi, fuori dei casi di concorso nei reati di corruzione, utilizzando intenzionalmente relazioni esistenti con un pubblico ufficiale o un incaricato di un pubblico servizio, indebitamente fa dare o promettere, a sé o ad altri, denaro o altra utilità economica per remunerarlo in relazione all'esercizio delle sue funzioni, ovvero per realizzare un'altra mediazione illecita.",
+    "evidence": [
+      {
+        "ref": "art. 346-bis, comma 1",
+        "text": "((Chiunque, fuori dei casi di concorso nei reati di cui agli articoli 318, 319 e 319-ter e nei reati di corruzione di cui all'articolo 322-bis,"
+      },
+      {
+        "ref": "art. 346-bis, comma 1",
+        "text": "utilizzando intenzionalmente allo scopo relazioni esistenti con un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, indebitamente fa dare o promettere, a sé o ad altri, denaro o altra utilità economica, per remunerare un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, in relazione all'esercizio delle sue funzioni, ovvero per realizzare un'altra mediazione illecita"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 346-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-011",
+    "subject": "reati-pa",
+    "question": "Nel traffico di influenze illecite (art. 346-bis c.p.), chi indebitamente dà o promette denaro o altra utilità economica al mediatore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non è punibile, perché la norma punisce solo il mediatore",
+        "why_wrong": "Il terzo comma dell'art. 346-bis applica la stessa pena a chi indebitamente dà o promette denaro o altra utilità economica."
+      },
+      {
+        "id": "b",
+        "text": "è punito solo se il pubblico ufficiale accetta effettivamente il denaro",
+        "why_wrong": "Il terzo comma dell'art. 346-bis non prevede questa condizione."
+      },
+      {
+        "id": "c",
+        "text": "è punito con una pena ridotta di un terzo",
+        "why_wrong": "Il terzo comma dell'art. 346-bis prevede «la stessa pena» del mediatore."
+      },
+      {
+        "id": "d",
+        "text": "è punito con la stessa pena prevista per il mediatore",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 346-bis, terzo comma, c.p. stabilisce che la stessa pena prevista per il mediatore si applica a chi indebitamente dà o promette denaro o altra utilità economica.",
+    "evidence": [
+      {
+        "ref": "art. 346-bis, comma 3",
+        "text": "La stessa pena si applica a chi indebitamente dà o promette denaro o altra utilità economica."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 346-bis, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-012",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 346-bis c.p., per «altra mediazione illecita» si intende la mediazione per indurre il pubblico ufficiale o l'incaricato di un pubblico servizio a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "compiere un qualsiasi atto del suo ufficio, anche legittimo",
+        "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato."
+      },
+      {
+        "id": "b",
+        "text": "compiere un atto contrario ai doveri d'ufficio, anche se non costituente reato",
+        "why_wrong": "Il secondo comma dell'art. 346-bis richiede che l'atto contrario ai doveri d'ufficio costituisca reato."
+      },
+      {
+        "id": "c",
+        "text": "compiere un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "accelerare il compimento di un atto dovuto, senza alcun vantaggio indebito",
+        "why_wrong": "Il secondo comma dell'art. 346-bis richiede un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 346-bis, secondo comma, c.p. definisce «altra mediazione illecita» la mediazione per indurre il pubblico ufficiale, l'incaricato di un pubblico servizio o uno degli altri soggetti dell'art. 322-bis a compiere un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito.",
+    "evidence": [
+      {
+        "ref": "art. 346-bis, comma 2",
+        "text": "Ai fini di cui al primo comma, per altra mediazione illecita si intende la mediazione per indurre il pubblico ufficiale o l'incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis a compiere un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 346-bis, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-013",
+    "subject": "reati-pa",
+    "question": "Un dipendente pubblico, dopo aver ricevuto la comunicazione del provvedimento che lo sospende dalle funzioni, continua a esercitarle. Ai sensi dell'art. 347 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "commette il delitto di usurpazione di funzioni pubbliche",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "commette il delitto di esercizio abusivo di una professione",
+        "why_wrong": "L'art. 348 riguarda l'esercizio abusivo di una professione per la quale è richiesta una speciale abilitazione dello Stato."
+      },
+      {
+        "id": "c",
+        "text": "non commette reato finché la sospensione non è divenuta definitiva",
+        "why_wrong": "Il secondo comma dell'art. 347 punisce chi continua a esercitare le funzioni dopo aver ricevuto partecipazione del provvedimento che le sospende."
+      },
+      {
+        "id": "d",
+        "text": "commette il delitto di interruzione di un ufficio o servizio pubblico",
+        "why_wrong": "L'art. 340 riguarda chi cagiona un'interruzione o turba la regolarità di un ufficio o servizio pubblico."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 347, secondo comma, c.p. applica la pena dell'usurpazione di funzioni pubbliche al pubblico ufficiale o impiegato che, avendo ricevuto partecipazione del provvedimento che fa cessare o sospende le sue funzioni o attribuzioni, continua a esercitarle.",
+    "evidence": [
+      {
+        "ref": "art. 347, comma 2",
+        "text": "Alla stessa pena soggiace il pubblico ufficiale o impiegato il quale, avendo ricevuta partecipazione del provvedimento che fa cessare o sospende le sue funzioni o le sue attribuzioni, continua ad esercitarle."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 347, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-014",
+    "subject": "reati-pa",
+    "question": "Un medico regolarmente abilitato dirige l'attività di un collaboratore privo di abilitazione, che esercita abusivamente la professione medica. Ai sensi dell'art. 348 c.p., il medico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non è punibile, perché è regolarmente abilitato",
+        "why_wrong": "Il terzo comma dell'art. 348 punisce proprio il professionista che ha determinato altri a commettere il reato o ne ha diretto l'attività."
+      },
+      {
+        "id": "b",
+        "text": "è punito con una pena più grave di quella prevista per chi esercita abusivamente la professione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è soggetto soltanto a responsabilità disciplinare davanti al proprio Ordine",
+        "why_wrong": "Il terzo comma dell'art. 348 prevede per il professionista una pena detentiva e pecuniaria."
+      },
+      {
+        "id": "d",
+        "text": "è punito con la stessa pena prevista dal primo comma",
+        "why_wrong": "Il terzo comma dell'art. 348 prevede per il professionista pene più elevate di quelle del primo comma."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 348 c.p. punisce l'esercizio abusivo di una professione per la quale è richiesta una speciale abilitazione dello Stato con la reclusione da sei mesi a tre anni e la multa; il terzo comma prevede pene più elevate (reclusione da uno a cinque anni e multa maggiore) per il professionista che ha determinato altri a commettere il reato o ha diretto l'attività di chi vi ha concorso.",
+    "evidence": [
+      {
+        "ref": "art. 348, comma 3",
+        "text": "Si applica la pena della reclusione da uno a cinque anni e della multa da euro 15.000 a euro 75.000 nei confronti del professionista che ha determinato altri a commettere il reato di cui al primo comma ovvero ha diretto l'attività delle persone che sono concorse nel reato medesimo))"
+      },
+      {
+        "ref": "art. 348, comma 1",
+        "text": "((Chiunque abusivamente esercita una professione per la quale è richiesta una speciale abilitazione dello Stato è punito con la reclusione da sei mesi a tre anni e con la multa da euro 10.000 a euro 50.000."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 348, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-015",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 348 c.p., la condanna per esercizio abusivo di una professione comporta, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'interdizione perpetua dai pubblici uffici",
+        "why_wrong": "L'interdizione perpetua dai pubblici uffici è prevista dall'art. 317-bis per i delitti ivi elencati, tra i quali non figura l'art. 348."
+      },
+      {
+        "id": "b",
+        "text": "la revoca della concessione o della licenza di cui il colpevole sia titolare",
+        "why_wrong": "La revoca del titolo abilitante è prevista dall'art. 337-bis, terzo comma, per l'occultamento o l'alterazione di mezzi di trasporto."
+      },
+      {
+        "id": "c",
+        "text": "la pubblicazione della sentenza e la confisca delle cose che servirono o furono destinate a commettere il reato",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la sola pubblicazione della sentenza, senza alcuna confisca",
+        "why_wrong": "Il secondo comma dell'art. 348 prevede anche la confisca delle cose che servirono o furono destinate a commettere il reato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 348, secondo comma, c.p. prevede che la condanna comporti la pubblicazione della sentenza e la confisca delle cose che servirono o furono destinate a commettere il reato, oltre alla trasmissione della sentenza all'Ordine competente se il condannato esercita regolarmente una professione.",
+    "evidence": [
+      {
+        "ref": "art. 348, comma 2",
+        "text": "La condanna comporta la pubblicazione della sentenza e la confisca delle cose che servirono o furono destinate a commettere il reato"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 348, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-016",
+    "subject": "reati-pa",
+    "question": "In un pubblico incanto indetto da un Comune, un'impresa concorrente accetta la promessa di una somma di denaro da parte di un'altra impresa in cambio del proprio ritiro, e si astiene dal concorrere. Quale delitto commette l'impresa che si astiene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Turbata libertà degli incanti",
+        "why_wrong": "L'art. 353 punisce chi impedisce o turba la gara o ne allontana gli offerenti; chi si astiene dal concorrere per denaro promesso è punito dall'art. 354."
+      },
+      {
+        "id": "b",
+        "text": "Turbata libertà del procedimento di scelta del contraente",
+        "why_wrong": "L'art. 353-bis riguarda la turbativa del procedimento diretto a stabilire il contenuto del bando o di altro atto equipollente."
+      },
+      {
+        "id": "c",
+        "text": "Traffico di influenze illecite",
+        "why_wrong": "L'art. 346-bis riguarda chi sfrutta relazioni con un pubblico ufficiale per farsi dare o promettere denaro."
+      },
+      {
+        "id": "d",
+        "text": "Astensione dagli incanti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 354 c.p. punisce chiunque, per denaro o altra utilità dati o promessi a lui o ad altri, si astiene dal concorrere agli incanti o alle licitazioni indicati nell'art. 353. Chi, con promesse, allontana gli offerenti dalla gara risponde invece di turbata libertà degli incanti (art. 353).",
+    "evidence": [
+      {
+        "ref": "art. 354, comma 1",
+        "text": "Chiunque, per denaro, dato o promesso a lui o ad altri, o per altra utilità a lui o ad altri data o promessa, si astiene dal concorrere agli incanti o alle licitazioni indicati nell'articolo precedente"
+      },
+      {
+        "ref": "art. 353, comma 1",
+        "text": "Chiunque, con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi fraudolenti, impedisce o turba la gara nei pubblici incanti o nelle licitazioni private per conto di pubbliche Amministrazioni, ovvero ne allontana gli offerenti"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 354, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-017",
+    "subject": "reati-pa",
+    "question": "Prima della pubblicazione di un bando, un imprenditore, colludendo con il funzionario incaricato di redigerlo, ottiene che vi siano inseriti requisiti su misura per la propria impresa, al fine di condizionare le modalità di scelta del contraente. Salvo che il fatto costituisca più grave reato, quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Turbata libertà del procedimento di scelta del contraente",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Turbata libertà degli incanti",
+        "why_wrong": "L'art. 353 riguarda chi impedisce o turba la gara o ne allontana gli offerenti; la turbativa del procedimento di redazione del bando è prevista dall'art. 353-bis."
+      },
+      {
+        "id": "c",
+        "text": "Astensione dagli incanti",
+        "why_wrong": "L'art. 354 riguarda chi, per denaro o altra utilità, si astiene dal concorrere agli incanti."
+      },
+      {
+        "id": "d",
+        "text": "Frode nelle pubbliche forniture",
+        "why_wrong": "L'art. 356 riguarda la frode nell'esecuzione dei contratti di fornitura."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 353-bis c.p. punisce, salvo che il fatto costituisca più grave reato, chiunque con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi fraudolenti, turba il procedimento amministrativo diretto a stabilire il contenuto del bando o di altro atto equipollente al fine di condizionare le modalità di scelta del contraente da parte della pubblica amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 353-bis, comma 1",
+        "text": "((Salvo che il fatto costituisca più grave reato, chiunque con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi fraudolenti, turba il procedimento amministrativo diretto a stabilire il contenuto del bando o di altro atto equipollente al fine di condizionare le modalità di scelta del contraente da parte della pubblica amministrazione"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 353-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-018",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 353 c.p., le pene per la turbata libertà degli incanti si applicano anche alle licitazioni private per conto di privati?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No, l'art. 353 riguarda solo gli incanti e le licitazioni per conto di pubbliche Amministrazioni",
+        "why_wrong": "Il terzo comma dell'art. 353 estende le pene anche alle licitazioni private per conto di privati, dirette da un pubblico ufficiale o da persona legalmente autorizzata."
+      },
+      {
+        "id": "b",
+        "text": "Sì, se dirette da un pubblico ufficiale o da persona legalmente autorizzata, ma le pene sono ridotte alla metà",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Sì, con le stesse pene previste per le gare delle pubbliche Amministrazioni",
+        "why_wrong": "Il terzo comma dell'art. 353 prevede che, in questo caso, le pene siano ridotte alla metà."
+      },
+      {
+        "id": "d",
+        "text": "Sì, in ogni caso e con pene aumentate",
+        "why_wrong": "Il terzo comma dell'art. 353 richiede che la licitazione sia diretta da un pubblico ufficiale o da persona legalmente autorizzata e prevede pene ridotte alla metà."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 353, terzo comma, c.p. stabilisce che le pene si applicano anche alle licitazioni private per conto di privati, dirette da un pubblico ufficiale o da persona legalmente autorizzata, ma sono ridotte alla metà.",
+    "evidence": [
+      {
+        "ref": "art. 353, comma 3",
+        "text": "Le pene stabilite in questo articolo si applicano anche nel caso di licitazioni private per conto di privati, dirette da un pubblico ufficiale o da persona legalmente autorizzata; ma sono ridotte alla metà."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 353, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-019",
+    "subject": "reati-pa",
+    "question": "Che cosa distingue la frode nelle pubbliche forniture (art. 356 c.p.) dall'inadempimento di contratti di pubbliche forniture (art. 355 c.p.)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'art. 356 riguarda solo i contratti con lo Stato; l'art. 355 i contratti con qualsiasi ente pubblico",
+        "why_wrong": "L'art. 356 richiama i contratti di fornitura e gli obblighi contrattuali «indicati nell'articolo precedente»."
+      },
+      {
+        "id": "b",
+        "text": "L'art. 355 punisce solo i fatti dolosi; l'art. 356 anche quelli colposi",
+        "why_wrong": "È l'art. 355 a prevedere, al terzo comma, una pena per il fatto commesso per colpa."
+      },
+      {
+        "id": "c",
+        "text": "L'art. 355 si applica solo ai subfornitori; l'art. 356 al fornitore principale",
+        "why_wrong": "L'art. 355 riguarda chiunque sia obbligato dal contratto di fornitura; il quarto comma lo estende ai subfornitori, ai mediatori e ai rappresentanti dei fornitori."
+      },
+      {
+        "id": "d",
+        "text": "L'art. 356 punisce la frode nell'esecuzione del contratto di fornitura; l'art. 355 punisce chi, non adempiendo gli obblighi contrattuali, fa mancare cose od opere necessarie a uno stabilimento pubblico o a un pubblico servizio",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 355 c.p. punisce chi, non adempiendo gli obblighi derivanti da un contratto di fornitura con lo Stato, con un altro ente pubblico o con un'impresa esercente servizi pubblici o di pubblica necessità, fa mancare cose od opere necessarie a uno stabilimento pubblico o a un pubblico servizio (anche per colpa, terzo comma); l'art. 356 punisce chi commette frode nell'esecuzione di tali contratti.",
+    "evidence": [
+      {
+        "ref": "art. 356, comma 1",
+        "text": "Chiunque commette frode nella esecuzione dei contratti di fornitura o nell'adempimento degli altri obblighi contrattuali indicati nell'articolo precedente"
+      },
+      {
+        "ref": "art. 355, comma 1",
+        "text": "Chiunque, non adempiendo gli obblighi che gli derivano da un contratto di fornitura concluso con lo Stato, o con un altro ente pubblico, ovvero con un'impresa esercente servizi pubblici o di pubblica necessità, fa mancare, in tutto o in parte, cose od opere, che siano necessarie a uno stabilimento pubblico o ad un pubblico servizio"
+      },
+      {
+        "ref": "art. 355, comma 3",
+        "text": "Se il fatto è commesso per colpa, si applica la reclusione fino a un anno, ovvero la multa da lire cinquecento a ventimila."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 356, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pr-020",
+    "subject": "reati-pa",
+    "question": "Il custode di un locale sottoposto a sigilli, per sua negligenza, rende possibile a terzi la violazione dei sigilli. Ai sensi dell'art. 350 c.p., il custode:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è punito con la sanzione amministrativa pecuniaria prevista per l'agevolazione colposa",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "risponde della violazione di sigilli con la pena prevista per chi ha in custodia la cosa",
+        "why_wrong": "La pena aggravata dell'art. 349, secondo comma, riguarda il custode che viola i sigilli; se la violazione è solo agevolata per colpa del custode si applica l'art. 350."
+      },
+      {
+        "id": "c",
+        "text": "non è punibile, perché non ha violato personalmente i sigilli",
+        "why_wrong": "L'art. 350 prevede una sanzione per il custode per colpa del quale la violazione è resa possibile o agevolata."
+      },
+      {
+        "id": "d",
+        "text": "è punito con la reclusione, come per la violazione colposa della custodia di cose sequestrate",
+        "why_wrong": "L'art. 350 prevede per il custode una sanzione amministrativa pecuniaria."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 350 c.p. (agevolazione colposa) prevede che, se la violazione dei sigilli è resa possibile o agevolata per colpa di chi ha in custodia la cosa, questi è punito con una sanzione amministrativa pecuniaria.",
+    "evidence": [
+      {
+        "ref": "art. 350, comma 1",
+        "text": "Se la violazione dei sigilli è resa possibile, o comunque agevolata, per colpa di chi ha in custodia la cosa, questi ((è punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 350, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

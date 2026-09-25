@@ -6,7 +6,9 @@ from the law text saved in sources/.
 For each question with an `evidence` list, and for each item in it:
   1. `ref` must look like "art. 25, comma 4" (also "art. 27, comma 2-bis");
   2. `text` must appear, word for word, inside THAT comma of THAT article
-     of the source file. The only normalisation allowed is whitespace:
+     of the source file. When an article has no numbered commas (e.g. the
+     codice penale), its commas are its paragraphs, counted from 1 after the
+     heading. The only normalisation allowed is whitespace:
      line breaks and repeated spaces count as a single space.
 
 It also warns when `source.article` does not match the evidence refs.
@@ -31,7 +33,8 @@ QUESTIONS_DIR = os.path.join(ROOT, 'data', 'questions')
 SOURCES_DIR = os.path.join(ROOT, 'sources')
 
 SUFFIX = r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies))?'
-ARTICLE_RE = re.compile(r'^\s*Art\.\s+(\d+' + SUFFIX + r')\s*$')
+# "Art. 25" (Normattiva laws) or "Art. 314." (codice penale): the final dot is optional
+ARTICLE_RE = re.compile(r'^\s*Art\.\s+(\d+' + SUFFIX + r')\.?\s*$')
 # A comma starts at the beginning of a line: "3. ", "2-bis. ", "((2. ", "1.((COMMA..."
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
 REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+comma\s+(\d+' + SUFFIX + r')$')
@@ -42,27 +45,80 @@ def norm(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 
+# Unnumbered paragraphs (codice penale): a block made only of note markers
+# such as "(281)", "((281))" or ".", and a block starting a list item such as
+# "1)", "5-bis)", "1°" or "a)", continue the current comma.
+MARKERS_RE = re.compile(r'^[\s().,;\d]*$')
+LIST_ITEM_RE = re.compile(r'^(?:\(\()?\s*(?:\d+(?:-[a-z]+)?\)|\d+°|[a-z]\))')
+
+
+def unnumbered_commas(lines):
+    """Split an article without numbered commas into commas.
+
+    Used for texts like the codice penale, where each comma is a paragraph
+    separated by a blank line. The first block is the heading ("(Peculato).");
+    in the form "(( (Rubrica).))" followed by the text on the next line only
+    that first line is the heading. Returns {"1": text, "2": text, ...}.
+    """
+    blocks, cur = [], []
+    for line in lines:
+        if line.strip():
+            cur.append(line.strip())
+        elif cur:
+            blocks.append(cur)
+            cur = []
+    if cur:
+        blocks.append(cur)
+    if blocks:
+        first = blocks[0]
+        if re.match(r'^\(\(\s*\(', first[0]):
+            blocks[0] = first[1:]
+        elif first[0].startswith('(') and not re.match(r'^\(\([^\s(]', first[0]):
+            blocks[0] = []
+    commas = []
+    for b in blocks:
+        text = ' '.join(b)
+        if not text:
+            continue
+        if commas and (MARKERS_RE.match(text) or LIST_ITEM_RE.match(text)):
+            commas[-1] += ' ' + text
+        elif not MARKERS_RE.match(text):
+            commas.append(text)
+    return {str(i): norm(t) for i, t in enumerate(commas, 1)}
+
+
 def parse_law(path):
     """Return {article: {comma: normalised text}} for one source file."""
     with open(path, encoding='utf-8') as f:
         lines = f.read().replace('\r\n', '\n').replace('\r', '\n').split('\n')
-    law, article, comma, buf = {}, None, None, []
+    law, article, comma, buf, raw = {}, None, None, [], []
 
     def flush():
         if article is not None and comma is not None:
             law.setdefault(article, {})[comma] = norm('\n'.join(buf))
 
+    def end_article():
+        # An article with no numbered comma: its paragraphs are its commas
+        if article is not None and article not in law:
+            commas = unnumbered_commas(raw)
+            if commas:
+                law[article] = commas
+
     for line in lines:
         m = ARTICLE_RE.match(line)
         if m:
             flush()
-            article, comma, buf = m.group(1), None, []
+            end_article()
+            article, comma, buf, raw = m.group(1), None, [], []
             continue
         # A new Capo, or the "-----" line before the notes/updates: the comma ends here
         if line.strip().startswith('CAPO ') or line.strip().startswith('-----'):
             flush()
-            article, comma, buf = None, None, []
+            end_article()
+            article, comma, buf, raw = None, None, [], []
             continue
+        if article is not None:
+            raw.append(line)
         m = COMMA_RE.match(line) if article is not None else None
         # A comma number already seen in this article is not a new comma: it is
         # the text of another act quoted inside the current comma (e.g. "1. ...",
@@ -76,6 +132,7 @@ def parse_law(path):
         if comma is not None:
             buf.append(line)
     flush()
+    end_article()
     return law
 
 

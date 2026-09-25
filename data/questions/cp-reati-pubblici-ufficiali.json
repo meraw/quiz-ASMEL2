@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "cp-pu-001",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 314 c.p., il delitto di peculato può essere commesso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal solo pubblico ufficiale; l'incaricato di un pubblico servizio che si appropria del denaro risponde di indebita destinazione",
+        "why_wrong": "L'art. 314 indica come autori sia il pubblico ufficiale sia l'incaricato di un pubblico servizio."
+      },
+      {
+        "id": "b",
+        "text": "da chiunque, anche estraneo alla pubblica amministrazione, si appropri di denaro pubblico",
+        "why_wrong": "La formula «chiunque, estraneo alla pubblica amministrazione» è quella della malversazione (art. 316-bis); il peculato riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio."
+      },
+      {
+        "id": "c",
+        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio che si appropria del denaro o della cosa mobile altrui di cui ha il possesso o la disponibilità per ragione del suo ufficio o servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio, anche quando il possesso del denaro non deriva dall'ufficio o dal servizio",
+        "why_wrong": "L'art. 314 richiede che il possesso o la disponibilità siano avuti «per ragione del suo ufficio o servizio»."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 314 c.p. punisce il pubblico ufficiale o l'incaricato di un pubblico servizio che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilità di denaro o di altra cosa mobile altrui, se ne appropria.",
+    "evidence": [
+      {
+        "ref": "art. 314, comma 1",
+        "text": "Il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilità di denaro o di altra cosa mobile altrui, se ne appropria"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 314, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-002",
+    "subject": "reati-pa",
+    "question": "L'impiegato comunale addetto alla riscossione dei diritti di segreteria allo sportello trattiene per sé le somme incassate, anziché versarle nelle casse del Comune. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": "L'art. 316 richiede che l'agente riceva o ritenga il denaro giovandosi dell'errore altrui; nel caso descritto nessuno ha pagato per errore."
+      },
+      {
+        "id": "b",
+        "text": "Malversazione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-bis riguarda chi, estraneo alla pubblica amministrazione, non destina alle finalità previste contributi o finanziamenti pubblici ottenuti."
+      },
+      {
+        "id": "c",
+        "text": "Indebita destinazione di denaro o cose mobili",
+        "why_wrong": "L'art. 314-bis si applica «fuori dei casi previsti dall'articolo 314» e riguarda la destinazione del denaro a un uso diverso, non la sua appropriazione."
+      },
+      {
+        "id": "d",
+        "text": "Peculato",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'impiegato ha la disponibilità del denaro per ragione del suo ufficio o servizio e se ne appropria: è la condotta punita dall'art. 314 c.p. (peculato), che riguarda sia il pubblico ufficiale sia l'incaricato di un pubblico servizio.",
+    "evidence": [
+      {
+        "ref": "art. 314, comma 1",
+        "text": "Il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilità di denaro o di altra cosa mobile altrui, se ne appropria"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 314, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-003",
+    "subject": "reati-pa",
+    "question": "Un funzionario comunale usa l'autovettura di servizio, di cui ha la disponibilità per ragione del suo ufficio, per un'unica gita privata e la riconsegna subito dopo. Secondo l'art. 314 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il fatto non costituisce reato, perché l'autovettura è stata restituita",
+        "why_wrong": "Il secondo comma dell'art. 314 non esclude il reato: prevede una pena più lieve per l'uso momentaneo seguito dall'immediata restituzione."
+      },
+      {
+        "id": "b",
+        "text": "si applica la pena più lieve prevista quando il colpevole ha agito al solo scopo di fare uso momentaneo della cosa e questa è stata immediatamente restituita",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "si applica la pena ordinaria del peculato, perché la restituzione della cosa è irrilevante",
+        "why_wrong": "Il secondo comma dell'art. 314 prevede una pena ridotta proprio quando la cosa, dopo l'uso momentaneo, è immediatamente restituita."
+      },
+      {
+        "id": "d",
+        "text": "si configura la malversazione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-bis riguarda chi, estraneo alla pubblica amministrazione, non destina alle finalità previste contributi o finanziamenti pubblici."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 314, secondo comma, c.p. prevede una pena ridotta (reclusione da sei mesi a tre anni) quando il colpevole ha agito al solo scopo di fare uso momentaneo della cosa e questa, dopo l'uso momentaneo, è stata immediatamente restituita (cosiddetto peculato d'uso).",
+    "evidence": [
+      {
+        "ref": "art. 314, comma 2",
+        "text": "Si applica la pena della reclusione da sei mesi a tre anni quando il colpevole ha agisto al solo scopo di fare uso momentaneo della cosa, e questa, dopo l'uso momentaneo, è stata immediatamente restituita."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 314, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-004",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 314-bis c.p., il delitto di indebita destinazione di denaro o cose mobili richiede che il pubblico ufficiale o l'incaricato di un pubblico servizio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si appropri del denaro o della cosa mobile altrui di cui ha il possesso per ragione del suo ufficio",
+        "why_wrong": "L'appropriazione è la condotta del peculato (art. 314); l'art. 314-bis si applica «fuori dei casi previsti dall'articolo 314»."
+      },
+      {
+        "id": "b",
+        "text": "destini il denaro a un uso diverso da quello previsto da atti amministrativi che gli lasciano ampi margini di discrezionalità",
+        "why_wrong": "L'art. 314-bis richiede la violazione di specifiche disposizioni di legge o di atti aventi forza di legge «dai quali non residuano margini di discrezionalità»."
+      },
+      {
+        "id": "c",
+        "text": "destini il denaro o la cosa mobile a un uso diverso da quello previsto da specifiche disposizioni di legge o da atti aventi forza di legge che non lasciano margini di discrezionalità, procurando intenzionalmente a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "riceva o ritenga indebitamente denaro giovandosi dell'errore altrui",
+        "why_wrong": "È la condotta del peculato mediante profitto dell'errore altrui (art. 316)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 314-bis c.p. punisce, fuori dei casi di peculato, il pubblico ufficiale o l'incaricato di un pubblico servizio che destina il denaro o la cosa mobile di cui ha la disponibilità a un uso diverso da quello previsto da specifiche disposizioni di legge o da atti aventi forza di legge dai quali non residuano margini di discrezionalità, e intenzionalmente procura a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto.",
+    "evidence": [
+      {
+        "ref": "art. 314-bis, comma 1",
+        "text": "Fuori dei casi previsti dall'articolo 314, il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilità di denaro o di altra cosa mobile altrui, li destina ad un uso diverso da quello previsto da specifiche disposizioni di legge o da atti aventi forza di legge dai quali non residuano margini di discrezionalità e intenzionalmente procura a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 314-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-005",
+    "subject": "reati-pa",
+    "question": "Il responsabile del servizio finanziario di un Comune ha la disponibilità di un fondo che una specifica disposizione di legge vincola, senza alcun margine di discrezionalità, all'acquisto di arredi scolastici. Senza trattenere nulla per sé, lo impiega per finanziare un'iniziativa diversa organizzata da un'associazione di un amico, procurandole intenzionalmente un ingiusto vantaggio patrimoniale. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Indebita destinazione di denaro o cose mobili",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Malversazione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-bis riguarda chi, estraneo alla pubblica amministrazione, non destina alle finalità previste contributi o finanziamenti ottenuti; qui agisce un funzionario pubblico."
+      },
+      {
+        "id": "c",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": "L'art. 316 richiede che l'agente riceva o ritenga denaro giovandosi dell'errore altrui."
+      },
+      {
+        "id": "d",
+        "text": "Indebita percezione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-ter riguarda chi consegue indebitamente erogazioni pubbliche mediante dichiarazioni o documenti falsi o l'omissione di informazioni dovute."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il funzionario non si appropria del denaro, ma lo destina a un uso diverso da quello previsto da una specifica disposizione di legge che non lascia margini di discrezionalità, procurando intenzionalmente ad altri un ingiusto vantaggio patrimoniale: è l'indebita destinazione di denaro o cose mobili (art. 314-bis c.p.), che si applica fuori dei casi di peculato.",
+    "evidence": [
+      {
+        "ref": "art. 314-bis, comma 1",
+        "text": "Fuori dei casi previsti dall'articolo 314, il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilità di denaro o di altra cosa mobile altrui, li destina ad un uso diverso da quello previsto da specifiche disposizioni di legge o da atti aventi forza di legge dai quali non residuano margini di discrezionalità e intenzionalmente procura a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 314-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-006",
+    "subject": "reati-pa",
+    "question": "Un cittadino, per errore, paga due volte allo sportello comunale la stessa somma dovuta. L'impiegato addetto alla riscossione, accortosi dell'errore, trattiene per sé il secondo versamento. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Concussione",
+        "why_wrong": "L'art. 317 richiede che l'agente, abusando della sua qualità o dei suoi poteri, costringa taluno a dare o promettere."
+      },
+      {
+        "id": "b",
+        "text": "Induzione indebita a dare o promettere utilità",
+        "why_wrong": "L'art. 319-quater richiede che l'agente, abusando della sua qualità o dei suoi poteri, induca taluno a dare o promettere."
+      },
+      {
+        "id": "c",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Indebita percezione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-ter riguarda chi consegue contributi o finanziamenti pubblici mediante dichiarazioni o documenti falsi o l'omissione di informazioni dovute."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 316 c.p. punisce il pubblico ufficiale o l'incaricato di un pubblico servizio che, nell'esercizio delle funzioni o del servizio, giovandosi dell'errore altrui, riceve o ritiene indebitamente, per sé o per un terzo, denaro o altra utilità.",
+    "evidence": [
+      {
+        "ref": "art. 316, comma 1",
+        "text": "Il pubblico ufficiale o l'incaricato di un pubblico servzio, il quale, nell'esercizio delle funzioni o del servizio, giovandosi dell'errore altrui, riceve o ritiene indebitamente, per sé o per un terzo, denaro od altra utilità"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 316, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-007",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 316-bis c.p., il delitto di malversazione di erogazioni pubbliche è commesso da:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il pubblico ufficiale che destina il denaro pubblico di cui ha la disponibilità a un uso diverso da quello previsto dalla legge",
+        "why_wrong": "È la condotta dell'indebita destinazione di denaro o cose mobili (art. 314-bis), propria del pubblico ufficiale o dell'incaricato di un pubblico servizio."
+      },
+      {
+        "id": "b",
+        "text": "chiunque consegue indebitamente contributi pubblici mediante dichiarazioni o documenti falsi",
+        "why_wrong": "È la condotta dell'indebita percezione di erogazioni pubbliche (art. 316-ter)."
+      },
+      {
+        "id": "c",
+        "text": "il pubblico ufficiale che si appropria dei contributi pubblici di cui ha il possesso per ragione del suo ufficio",
+        "why_wrong": "È la condotta del peculato (art. 314)."
+      },
+      {
+        "id": "d",
+        "text": "chiunque, estraneo alla pubblica amministrazione, avendo ottenuto contributi, sovvenzioni, finanziamenti o altre erogazioni pubbliche destinati a una o più finalità, non li destina alle finalità previste",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 316-bis c.p. punisce chiunque, estraneo alla pubblica amministrazione, avendo ottenuto dallo Stato, da altro ente pubblico o dalle Comunità europee contributi, sovvenzioni, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo destinati alla realizzazione di una o più finalità, non li destina alle finalità previste.",
+    "evidence": [
+      {
+        "ref": "art. 316-bis, comma 1",
+        "text": "Chiunque, estraneo alla pubblica amministrazione, avendo ottenuto dallo Stato o da altro ente pubblico o dalle Comunità europee contributi, sovvenzioni ((, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, destinati alla realizzazione di una o più finalità, non li destina alle finalità previste))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 316-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-008",
+    "subject": "reati-pa",
+    "question": "Una società privata ottiene dalla Regione, sulla base di dichiarazioni veritiere, un finanziamento destinato all'acquisto di impianti per il risparmio energetico. Successivamente la società impiega le somme per pagare debiti verso i fornitori. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malversazione di erogazioni pubbliche",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Indebita percezione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-ter richiede che l'erogazione sia conseguita mediante dichiarazioni o documenti falsi o l'omissione di informazioni dovute; qui le dichiarazioni erano veritiere."
+      },
+      {
+        "id": "c",
+        "text": "Peculato",
+        "why_wrong": "L'art. 314 riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio, non un soggetto privato estraneo alla pubblica amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "Indebita destinazione di denaro o cose mobili",
+        "why_wrong": "L'art. 314-bis riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio, non un soggetto privato estraneo alla pubblica amministrazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La società, estranea alla pubblica amministrazione, ha ottenuto regolarmente un finanziamento pubblico destinato a una finalità, ma non lo destina alla finalità prevista: è la malversazione di erogazioni pubbliche (art. 316-bis c.p.).",
+    "evidence": [
+      {
+        "ref": "art. 316-bis, comma 1",
+        "text": "Chiunque, estraneo alla pubblica amministrazione, avendo ottenuto dallo Stato o da altro ente pubblico o dalle Comunità europee contributi, sovvenzioni ((, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, destinati alla realizzazione di una o più finalità, non li destina alle finalità previste))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 316-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-009",
+    "subject": "reati-pa",
+    "question": "Il titolare di un'impresa ottiene da un ente pubblico un contributo presentando una dichiarazione che attesta falsamente il possesso dei requisiti richiesti. Salvo che il fatto costituisca il reato previsto dall'art. 640-bis c.p., quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malversazione di erogazioni pubbliche",
+        "why_wrong": "L'art. 316-bis punisce chi non destina alle finalità previste le erogazioni ottenute, non chi le consegue mediante dichiarazioni false."
+      },
+      {
+        "id": "b",
+        "text": "Indebita percezione di erogazioni pubbliche",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Concussione",
+        "why_wrong": "L'art. 317 riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio che costringe taluno a dare o promettere denaro o altra utilità."
+      },
+      {
+        "id": "d",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": "L'art. 316 riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio che riceve o ritiene denaro giovandosi dell'errore altrui."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 316-ter c.p. punisce, salvo che il fatto costituisca il reato previsto dall'art. 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente contributi o altre erogazioni pubbliche.",
+    "evidence": [
+      {
+        "ref": "art. 316-ter, comma 1",
+        "text": "Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per sé o per altri, contributi,"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 316-ter, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-010",
+    "subject": "reati-pa",
+    "question": "Posto che in entrambi i casi il pubblico ufficiale o l'incaricato di un pubblico servizio abusa della sua qualità o dei suoi poteri, che cosa distingue la concussione (art. 317 c.p.) dall'induzione indebita a dare o promettere utilità (art. 319-quater c.p.)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella concussione l'agente costringe taluno a dare o promettere; nell'induzione indebita lo induce a dare o promettere",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La concussione può essere commessa solo dal pubblico ufficiale, l'induzione indebita anche dall'incaricato di un pubblico servizio",
+        "why_wrong": "Sia l'art. 317 sia l'art. 319-quater indicano come autori il pubblico ufficiale e l'incaricato di un pubblico servizio."
+      },
+      {
+        "id": "c",
+        "text": "Nella concussione il denaro è dato o promesso a un terzo, nell'induzione indebita all'agente",
+        "why_wrong": "Entrambe le norme prevedono la dazione o la promessa «a lui o a un terzo»."
+      },
+      {
+        "id": "d",
+        "text": "Nella concussione è punito anche chi dà o promette; nell'induzione indebita è punito solo l'agente pubblico",
+        "why_wrong": "È l'art. 319-quater, secondo comma, a punire chi dà o promette nell'induzione indebita."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le due norme hanno gli stessi autori e lo stesso abuso della qualità o dei poteri: nella concussione (art. 317) l'agente «costringe» taluno a dare o promettere; nell'induzione indebita (art. 319-quater) lo «induce». Nell'induzione è punito anche chi dà o promette (art. 319-quater, secondo comma).",
+    "evidence": [
+      {
+        "ref": "art. 317, comma 1",
+        "text": "Il pubblico ufficiale o l'incaricato di un pubblico servizio che, abusando della sua qualità o dei suoi poteri, costringe taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità"
+      },
+      {
+        "ref": "art. 319-quater, comma 1",
+        "text": "Salvo che il fatto costituisca più grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualità o dei suoi poteri, induce taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità"
+      },
+      {
+        "ref": "art. 319-quater, comma 2",
+        "text": "Nei casi previsti dal primo comma, chi dà o promette denaro o altra utilità è punito con la reclusione fino a tre anni"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 317, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-011",
+    "subject": "reati-pa",
+    "question": "Un agente di polizia locale, abusando dei suoi poteri, dice al titolare di un bar che, se non gli consegnerà una somma di denaro, gli farà chiudere il locale con un provvedimento pretestuoso. Il titolare, intimorito, paga. Quale delitto commette l'agente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Induzione indebita a dare o promettere utilità",
+        "why_wrong": "L'art. 319-quater riguarda chi induce taluno a dare o promettere; qui l'agente costringe il privato con la minaccia di un danno."
+      },
+      {
+        "id": "b",
+        "text": "Corruzione per un atto contrario ai doveri d'ufficio",
+        "why_wrong": "L'art. 319 riguarda il pubblico ufficiale che riceve denaro per omettere o ritardare un atto o per compiere un atto contrario ai doveri d'ufficio, non chi costringe il privato a pagare."
+      },
+      {
+        "id": "c",
+        "text": "Concussione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": "L'art. 322 riguarda l'offerta o la sollecitazione di denaro non accettata; qui il denaro è stato consegnato per effetto della costrizione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'agente, abusando dei suoi poteri, costringe il privato a dare denaro: è la concussione (art. 317 c.p.), che punisce il pubblico ufficiale o l'incaricato di un pubblico servizio che, abusando della sua qualità o dei suoi poteri, costringe taluno a dare o a promettere indebitamente denaro o altra utilità.",
+    "evidence": [
+      {
+        "ref": "art. 317, comma 1",
+        "text": "Il pubblico ufficiale o l'incaricato di un pubblico servizio che, abusando della sua qualità o dei suoi poteri, costringe taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 317, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-012",
+    "subject": "reati-pa",
+    "question": "Nell'induzione indebita a dare o promettere utilità (art. 319-quater c.p.), il privato che, indotto dal pubblico ufficiale, dà o promette denaro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non è punibile, in quanto persona offesa dal reato",
+        "why_wrong": "Il secondo comma dell'art. 319-quater punisce chi dà o promette denaro o altra utilità."
+      },
+      {
+        "id": "b",
+        "text": "è punito solo se il fatto offende gli interessi finanziari dell'Unione europea",
+        "why_wrong": "L'offesa agli interessi finanziari dell'Unione europea comporta solo una pena più elevata; il secondo comma punisce chi dà o promette in ogni caso."
+      },
+      {
+        "id": "c",
+        "text": "è punito con la stessa pena prevista per il pubblico ufficiale",
+        "why_wrong": "Il secondo comma prevede per chi dà o promette una pena propria (reclusione fino a tre anni), diversa da quella del primo comma."
+      },
+      {
+        "id": "d",
+        "text": "è anch'egli punito, ai sensi del secondo comma dell'articolo",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 319-quater, secondo comma, c.p. stabilisce che, nei casi previsti dal primo comma, chi dà o promette denaro o altra utilità è punito con la reclusione fino a tre anni.",
+    "evidence": [
+      {
+        "ref": "art. 319-quater, comma 2",
+        "text": "Nei casi previsti dal primo comma, chi dà o promette denaro o altra utilità è punito con la reclusione fino a tre anni"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 319-quater, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-013",
+    "subject": "reati-pa",
+    "question": "Un funzionario dell'ufficio tecnico comunale, abusando della sua qualità, lascia intendere a un cittadino che la sua pratica edilizia potrebbe incontrare «lunghe difficoltà» e lo persuade così, senza minacce, a promettergli un compenso. Salvo che il fatto costituisca più grave reato, quale delitto commette il funzionario?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Induzione indebita a dare o promettere utilità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": "L'art. 316 richiede che l'agente riceva o ritenga denaro giovandosi dell'errore altrui."
+      },
+      {
+        "id": "c",
+        "text": "Traffico di influenze illecite",
+        "why_wrong": "L'art. 346-bis riguarda chi, sfruttando relazioni esistenti con un pubblico ufficiale, si fa dare o promettere denaro per remunerarlo o per una mediazione illecita; qui agisce lo stesso funzionario."
+      },
+      {
+        "id": "d",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": "L'art. 322 riguarda l'offerta o la promessa non accettata, o la sollecitazione del pubblico ufficiale; qui il funzionario, abusando della sua qualità, ha indotto il privato a promettere."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il funzionario, abusando della sua qualità, induce il privato a promettere indebitamente un'utilità: salvo che il fatto costituisca più grave reato, è l'induzione indebita a dare o promettere utilità (art. 319-quater c.p.).",
+    "evidence": [
+      {
+        "ref": "art. 319-quater, comma 1",
+        "text": "Salvo che il fatto costituisca più grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualità o dei suoi poteri, induce taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilità"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 319-quater, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-014",
+    "subject": "reati-pa",
+    "question": "Che cosa distingue la corruzione per l'esercizio della funzione (art. 318 c.p.) dalla corruzione per un atto contrario ai doveri d'ufficio (art. 319 c.p.)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'art. 318 punisce solo l'accettazione della promessa; l'art. 319 solo la ricezione effettiva del denaro",
+        "why_wrong": "Entrambe le norme puniscono sia chi riceve denaro o altra utilità sia chi ne accetta la promessa."
+      },
+      {
+        "id": "b",
+        "text": "Nell'art. 318 il pubblico ufficiale riceve denaro o ne accetta la promessa per l'esercizio delle sue funzioni o dei suoi poteri; nell'art. 319 per omettere o ritardare un atto del suo ufficio o per compiere un atto contrario ai doveri d'ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Nell'art. 318 il denaro è ricevuto per un terzo; nell'art. 319 per sé",
+        "why_wrong": "Entrambe le norme prevedono la ricezione «per sé o per un terzo»."
+      },
+      {
+        "id": "d",
+        "text": "L'art. 318 riguarda l'incaricato di un pubblico servizio; l'art. 319 il pubblico ufficiale",
+        "why_wrong": "Entrambe le norme riguardano il pubblico ufficiale; l'art. 320 ne estende l'applicazione all'incaricato di un pubblico servizio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 318 c.p. punisce il pubblico ufficiale che riceve denaro o altra utilità, o ne accetta la promessa, per l'esercizio delle sue funzioni o dei suoi poteri; l'art. 319 c.p. punisce chi lo fa per omettere o ritardare un atto del suo ufficio o per compiere un atto contrario ai doveri d'ufficio.",
+    "evidence": [
+      {
+        "ref": "art. 318, comma 1",
+        "text": "Il pubblico ufficiale che, per l'esercizio delle sue funzioni o dei suoi poteri, indebitamente riceve, per sé o per un terzo, denaro o altra utilità o ne accetta la promessa"
+      },
+      {
+        "ref": "art. 319, comma 1",
+        "text": "Il pubblico ufficiale, che, per omettere o ritardare o per aver omesso o ritardato un atto del suo ufficio, ovvero per compiere o per aver compiuto un atto contrario ai doveri di ufficio, riceve, per sé o per un terzo, denaro od altra utilità, o ne accetta la promessa"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 318, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-015",
+    "subject": "reati-pa",
+    "question": "Un dirigente comunale accetta ogni mese da un imprenditore somme di denaro in cambio della sua generica disponibilità a seguire con attenzione le pratiche dell'impresa, senza che gli sia chiesto di omettere o ritardare atti o di compiere atti contrari ai doveri d'ufficio. Quale delitto commette il dirigente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Corruzione per un atto contrario ai doveri d'ufficio",
+        "why_wrong": "L'art. 319 richiede che il denaro sia ricevuto per omettere o ritardare un atto dell'ufficio o per compiere un atto contrario ai doveri d'ufficio."
+      },
+      {
+        "id": "b",
+        "text": "Concussione",
+        "why_wrong": "L'art. 317 richiede che il pubblico ufficiale costringa taluno a dare o promettere; qui il denaro è offerto e accettato."
+      },
+      {
+        "id": "c",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": "L'art. 322 si applica qualora l'offerta o la promessa non sia accettata; qui il dirigente accetta il denaro."
+      },
+      {
+        "id": "d",
+        "text": "Corruzione per l'esercizio della funzione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il dirigente riceve denaro per l'esercizio delle sue funzioni o dei suoi poteri, senza che sia individuato un atto contrario ai doveri d'ufficio o un'omissione o un ritardo: è la corruzione per l'esercizio della funzione (art. 318 c.p.).",
+    "evidence": [
+      {
+        "ref": "art. 318, comma 1",
+        "text": "Il pubblico ufficiale che, per l'esercizio delle sue funzioni o dei suoi poteri, indebitamente riceve, per sé o per un terzo, denaro o altra utilità o ne accetta la promessa"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 318, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-016",
+    "subject": "reati-pa",
+    "question": "Un pubblico ufficiale addetto ai controlli igienico-sanitari riceve denaro dal titolare di un ristorante per omettere di verbalizzare le irregolarità riscontrate durante un'ispezione. Quale delitto commette il pubblico ufficiale?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Corruzione per un atto contrario ai doveri d'ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Corruzione per l'esercizio della funzione",
+        "why_wrong": "La ricezione di denaro per omettere un atto dell'ufficio è prevista dall'art. 319, non dall'art. 318."
+      },
+      {
+        "id": "c",
+        "text": "Rifiuto di atti d'ufficio",
+        "why_wrong": "L'art. 328 punisce il rifiuto o l'omissione di atti d'ufficio in sé; la ricezione di denaro per omettere un atto dell'ufficio è prevista dall'art. 319."
+      },
+      {
+        "id": "d",
+        "text": "Peculato mediante profitto dell'errore altrui",
+        "why_wrong": "L'art. 316 richiede che il denaro sia ricevuto o ritenuto giovandosi dell'errore altrui."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 319 c.p. punisce il pubblico ufficiale che, per omettere o ritardare un atto del suo ufficio, ovvero per compiere un atto contrario ai doveri d'ufficio, riceve denaro o altra utilità o ne accetta la promessa.",
+    "evidence": [
+      {
+        "ref": "art. 319, comma 1",
+        "text": "Il pubblico ufficiale, che, per omettere o ritardare o per aver omesso o ritardato un atto del suo ufficio, ovvero per compiere o per aver compiuto un atto contrario ai doveri di ufficio, riceve, per sé o per un terzo, denaro od altra utilità, o ne accetta la promessa"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 319, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-017",
+    "subject": "reati-pa",
+    "question": "Un pubblico ufficiale compie un atto contrario ai doveri d'ufficio senza alcun accordo preventivo e solo in seguito riceve denaro dal privato che ne ha beneficiato, proprio per quell'atto. Secondo l'art. 319 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il fatto non è punibile, perché la dazione è successiva al compimento dell'atto",
+        "why_wrong": "L'art. 319 punisce anche chi riceve denaro «per aver compiuto» un atto contrario ai doveri di ufficio."
+      },
+      {
+        "id": "b",
+        "text": "il fatto integra soltanto l'istigazione alla corruzione",
+        "why_wrong": "L'art. 322 si applica qualora l'offerta o la promessa non sia accettata; qui il denaro è stato ricevuto."
+      },
+      {
+        "id": "c",
+        "text": "il fatto rientra nell'art. 319, che punisce anche il pubblico ufficiale che riceve denaro per aver compiuto un atto contrario ai doveri di ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il fatto è punibile solo se l'atto è stato ritardato od omesso",
+        "why_wrong": "L'art. 319 riguarda anche il compimento di un atto contrario ai doveri di ufficio."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 319 c.p. punisce il pubblico ufficiale che riceve denaro non solo per omettere, ritardare o compiere un atto contrario ai doveri d'ufficio, ma anche «per aver omesso o ritardato» un atto dell'ufficio o «per aver compiuto» un atto contrario ai doveri di ufficio.",
+    "evidence": [
+      {
+        "ref": "art. 319, comma 1",
+        "text": "Il pubblico ufficiale, che, per omettere o ritardare o per aver omesso o ritardato un atto del suo ufficio, ovvero per compiere o per aver compiuto un atto contrario ai doveri di ufficio, riceve, per sé o per un terzo, denaro od altra utilità, o ne accetta la promessa"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 319, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-018",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 320 c.p., le disposizioni sulla corruzione per l'esercizio della funzione (art. 318) e per un atto contrario ai doveri d'ufficio (art. 319):",
+    "options": [
+      {
+        "id": "a",
+        "text": "si applicano anche all'incaricato di un pubblico servizio, con pene ridotte in misura non superiore a un terzo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "si applicano anche all'incaricato di un pubblico servizio, con le stesse pene previste per il pubblico ufficiale",
+        "why_wrong": "Il secondo comma dell'art. 320 stabilisce che, in ogni caso, le pene sono ridotte in misura non superiore ad un terzo."
+      },
+      {
+        "id": "c",
+        "text": "non si applicano all'incaricato di un pubblico servizio, che risponde solo di istigazione alla corruzione",
+        "why_wrong": "Il primo comma dell'art. 320 estende espressamente gli artt. 318 e 319 all'incaricato di un pubblico servizio."
+      },
+      {
+        "id": "d",
+        "text": "si applicano all'incaricato di un pubblico servizio con pene aumentate fino alla metà",
+        "why_wrong": "Il secondo comma dell'art. 320 prevede una riduzione delle pene, non un aumento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 320 c.p. estende all'incaricato di un pubblico servizio le disposizioni degli artt. 318 e 319; in ogni caso, le pene sono ridotte in misura non superiore ad un terzo.",
+    "evidence": [
+      {
+        "ref": "art. 320, comma 1",
+        "text": "Le disposizioni degli articoli 318 e 319 si applicano anche all'incaricato di un pubblico servizio."
+      },
+      {
+        "ref": "art. 320, comma 2",
+        "text": "In ogni caso, le pene sono ridotte in misura non superiore ad un terzo."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 320, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-019",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 321 c.p., a chi dà o promette denaro o altra utilità al pubblico ufficiale o all'incaricato di un pubblico servizio nei casi di corruzione previsti dagli artt. 318, 319, 319-bis, 319-ter e 320:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si applica la pena prevista per il corrotto ridotta di un terzo",
+        "why_wrong": "La riduzione di un terzo è prevista dall'art. 322 per l'istigazione, quando l'offerta o la promessa non è accettata."
+      },
+      {
+        "id": "b",
+        "text": "si applicano le stesse pene stabilite per il pubblico ufficiale o l'incaricato di un pubblico servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "si applica soltanto una sanzione amministrativa pecuniaria",
+        "why_wrong": "L'art. 321 estende al corruttore le pene stabilite dagli articoli richiamati."
+      },
+      {
+        "id": "d",
+        "text": "non si applica alcuna pena, perché la corruzione è un reato proprio del pubblico ufficiale",
+        "why_wrong": "L'art. 321 stabilisce che le pene si applicano «anche a chi da o promette» il denaro o altra utilità."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 321 c.p. (pene per il corruttore) stabilisce che le pene previste per la corruzione del pubblico ufficiale o dell'incaricato di un pubblico servizio si applicano anche a chi dà o promette loro il denaro o altra utilità.",
+    "evidence": [
+      {
+        "ref": "art. 321, comma 1",
+        "text": "Le pene stabilite nel primo comma dell'articolo 318, nell'articolo 319, nell'articolo 319-bis, nell'articolo 319-ter, e nell'articolo 320 in relazione alle suddette ipotesi degli articoli 318 e 319, si applicano anche a chi da o promette al pubblico ufficiale o all'incaricato di un pubblico servizio il denaro od altra utilità."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 321, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-020",
+    "subject": "reati-pa",
+    "question": "Un pubblico ufficiale riceve denaro da una delle parti di un processo civile per compiere un atto contrario ai doveri d'ufficio, allo scopo di favorirla nel processo. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Traffico di influenze illecite",
+        "why_wrong": "L'art. 346-bis si applica fuori dei casi di concorso nei reati degli artt. 318, 319 e 319-ter e riguarda chi sfrutta relazioni con un pubblico ufficiale; qui è lo stesso pubblico ufficiale a ricevere il denaro."
+      },
+      {
+        "id": "b",
+        "text": "Induzione indebita a dare o promettere utilità",
+        "why_wrong": "L'art. 319-quater richiede che il pubblico ufficiale, abusando della sua qualità, induca taluno a dare o promettere; qui il denaro è offerto dalla parte."
+      },
+      {
+        "id": "c",
+        "text": "Corruzione in atti giudiziari",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Peculato",
+        "why_wrong": "L'art. 314 riguarda l'appropriazione di denaro altrui di cui si ha il possesso per ragione dell'ufficio."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 319-ter c.p. si applica quando i fatti di corruzione previsti dagli artt. 318 e 319 sono commessi per favorire o danneggiare una parte in un processo civile, penale o amministrativo.",
+    "evidence": [
+      {
+        "ref": "art. 319-ter, comma 1",
+        "text": "Se i fatti indicati negli articoli 318 e 319 sono commessi per favorire o danneggiare una parte in un processo civile, penale o amministrativo, si applica la pena della reclusione da sei a dodici anni."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 319-ter, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-021",
+    "subject": "reati-pa",
+    "question": "Un imprenditore offre del denaro a un funzionario comunale per l'esercizio delle sue funzioni; il funzionario rifiuta e lo denuncia. Quale delitto commette l'imprenditore?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nessuno, perché l'offerta non è stata accettata",
+        "why_wrong": "L'art. 322 punisce l'offerta o la promessa proprio «qualora l'offerta o la promessa non sia accettata»."
+      },
+      {
+        "id": "b",
+        "text": "Corruzione per l'esercizio della funzione, ai sensi dell'art. 321",
+        "why_wrong": "L'art. 321 punisce chi dà o promette denaro nei casi di corruzione; quando l'offerta non è accettata si applica l'art. 322."
+      },
+      {
+        "id": "c",
+        "text": "Traffico di influenze illecite",
+        "why_wrong": "L'art. 346-bis riguarda chi sfrutta relazioni esistenti con un pubblico ufficiale per farsi dare o promettere denaro; qui l'offerta è rivolta direttamente al funzionario."
+      },
+      {
+        "id": "d",
+        "text": "Istigazione alla corruzione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 322, primo comma, c.p. punisce chiunque offre o promette denaro o altra utilità non dovuti a un pubblico ufficiale o a un incaricato di un pubblico servizio per l'esercizio delle sue funzioni o dei suoi poteri, qualora l'offerta o la promessa non sia accettata.",
+    "evidence": [
+      {
+        "ref": "art. 322, comma 1",
+        "text": "Chiunque offre o promette denaro od altra utilità non dovuti ad un pubblico ufficiale o ad un incaricato di un pubblico servizio , per l'esercizio delle sue funzioni o dei suoi poteri, soggiace, qualora l'offerta o la promessa non sia accettata, alla pena stabilita nel primo comma dell'articolo 318, ridotta di un terzo."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 322, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-022",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 322 c.p., il pubblico ufficiale che sollecita a un privato una promessa o dazione di denaro per l'esercizio delle sue funzioni o dei suoi poteri:",
+    "options": [
+      {
+        "id": "a",
+        "text": "soggiace alla pena prevista dal primo comma per chi offre denaro non accettato per l'esercizio delle funzioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "non è punibile se il privato rifiuta",
+        "why_wrong": "Il terzo comma dell'art. 322 punisce la sollecitazione del pubblico ufficiale in quanto tale."
+      },
+      {
+        "id": "c",
+        "text": "risponde sempre di concussione",
+        "why_wrong": "L'art. 317 richiede che il pubblico ufficiale costringa taluno a dare o promettere, non che si limiti a sollecitare."
+      },
+      {
+        "id": "d",
+        "text": "è punito solo se la sollecitazione riguarda un atto contrario ai doveri d'ufficio",
+        "why_wrong": "Il terzo comma riguarda la sollecitazione per l'esercizio delle funzioni o dei poteri; quella per le finalità dell'art. 319 è prevista dal quarto comma."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 322, terzo comma, c.p. applica la pena del primo comma al pubblico ufficiale o all'incaricato di un pubblico servizio che sollecita una promessa o dazione di denaro o altra utilità per l'esercizio delle sue funzioni o dei suoi poteri; il quarto comma riguarda la sollecitazione per le finalità dell'art. 319.",
+    "evidence": [
+      {
+        "ref": "art. 322, comma 3",
+        "text": "La pena di cui al primo comma si applica al pubblico ufficiale o all'incaricato di un pubblico servizio che sollecita una promessa o dazione di denaro o altra utilità per l'esercizio delle sue funzioni o dei suoi poteri."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 322, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-023",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 322-bis c.p., ai fini dell'applicazione dei delitti richiamati, i membri della Commissione europea e del Parlamento europeo e le altre persone indicate nel primo comma dell'articolo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono sempre assimilati ai pubblici ufficiali",
+        "why_wrong": "Il terzo comma li assimila ai pubblici ufficiali solo qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi."
+      },
+      {
+        "id": "b",
+        "text": "sono sempre assimilati agli incaricati di un pubblico servizio",
+        "why_wrong": "Il terzo comma li assimila ai pubblici ufficiali qualora esercitino funzioni corrispondenti."
+      },
+      {
+        "id": "c",
+        "text": "sono assimilati ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "non sono soggetti ai delitti dei pubblici ufficiali previsti dal codice penale",
+        "why_wrong": "Il primo comma estende espressamente a queste persone le disposizioni degli artt. 314, 314-bis, 316 e da 317 a 320, oltre all'art. 322, terzo e quarto comma."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 322-bis c.p. estende i delitti di peculato, indebita destinazione, concussione, induzione indebita e corruzione anche ai membri e funzionari delle istituzioni europee e agli altri soggetti elencati; il terzo comma li assimila ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.",
+    "evidence": [
+      {
+        "ref": "art. 322-bis, comma 3",
+        "text": "Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi."
+      },
+      {
+        "ref": "art. 322-bis, comma 1",
+        "text": "Le disposizioni degli articoli 314, 314-bis, 316, da 317 a 320 ((e 322)) , terzo e quarto comma, ((...)) si applicano anche: 1) ai membri della Commissione delle Comunità europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunità europee;"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 322-bis, comma 3",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-024",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 317-bis c.p., la condanna per peculato (art. 314) o per concussione (art. 317) importa, di regola:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'interdizione perpetua dai pubblici uffici e l'incapacità in perpetuo di contrattare con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sempre e soltanto l'interdizione temporanea dai pubblici uffici",
+        "why_wrong": "L'interdizione e il divieto sono temporanei solo se è inflitta la reclusione non superiore a due anni o ricorre l'attenuante dell'art. 323-bis, primo comma."
+      },
+      {
+        "id": "c",
+        "text": "l'incapacità di contrattare con la pubblica amministrazione anche per ottenere le prestazioni di un pubblico servizio",
+        "why_wrong": "L'art. 317-bis esclude dall'incapacità di contrattare il caso in cui si debbano ottenere le prestazioni di un pubblico servizio."
+      },
+      {
+        "id": "d",
+        "text": "la sola pubblicazione della sentenza",
+        "why_wrong": "La pubblicazione della sentenza è prevista, ad esempio, per l'usurpazione di funzioni pubbliche (art. 347); l'art. 317-bis prevede l'interdizione dai pubblici uffici e l'incapacità di contrattare con la pubblica amministrazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 317-bis c.p. prevede che la condanna per i reati elencati (tra cui peculato e concussione) importi l'interdizione perpetua dai pubblici uffici e l'incapacità in perpetuo di contrattare con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio; le sanzioni sono temporanee se la reclusione inflitta non supera due anni o se ricorre l'attenuante dell'art. 323-bis, primo comma.",
+    "evidence": [
+      {
+        "ref": "art. 317-bis, comma 1",
+        "text": "((La condanna per i reati di cui agli articoli 314, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis e 346-bis importa l'interdizione perpetua dai pubblici uffici e l'incapacità in perpetuo di contrattare con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio. Nondimeno, se viene inflitta la reclusione per un tempo non superiore a due anni o se ricorre la circostanza attenuante prevista dall'articolo 323-bis, primo comma, la condanna importa l'interdizione e il divieto temporanei"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 317-bis, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-025",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 323-ter c.p., chi ha commesso un fatto di corruzione previsto dall'art. 319 non è punibile se lo denuncia volontariamente e fornisce indicazioni utili e concrete per assicurare la prova del reato e individuare gli altri responsabili, purché lo faccia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro quattro mesi dal momento in cui ha avuto notizia delle indagini nei suoi confronti",
+        "why_wrong": "Il primo comma richiede che la denuncia avvenga prima di avere notizia delle indagini e comunque entro quattro mesi dalla commissione del fatto."
+      },
+      {
+        "id": "b",
+        "text": "prima di avere notizia che nei suoi confronti sono svolte indagini per quei fatti e, comunque, entro quattro mesi dalla commissione del fatto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "entro un anno dalla commissione del fatto, anche dopo l'avvio delle indagini",
+        "why_wrong": "Il primo comma fissa il termine di quattro mesi dalla commissione del fatto e richiede che la denuncia preceda la notizia delle indagini."
+      },
+      {
+        "id": "d",
+        "text": "in qualunque momento, purché prima della sentenza di primo grado",
+        "why_wrong": "Il primo comma richiede che la denuncia preceda la notizia delle indagini e avvenga entro quattro mesi dalla commissione del fatto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 323-ter c.p. prevede la non punibilità di chi, prima di avere notizia che nei suoi confronti sono svolte indagini e comunque entro quattro mesi dalla commissione del fatto, lo denuncia volontariamente e fornisce indicazioni utili e concrete per assicurare la prova del reato e individuare gli altri responsabili.",
+    "evidence": [
+      {
+        "ref": "art. 323-ter, comma 1",
+        "text": "se, prima di avere notizia che nei suoi confronti sono svolte indagini in relazione a tali fatti e, comunque, entro quattro mesi dalla commissione del fatto, lo denuncia volontariamente e fornisce indicazioni utili e concrete per assicurare la prova del reato e per individuare gli altri responsabili."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 323-ter, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-026",
+    "subject": "reati-pa",
+    "question": "Un funzionario comunale ha ricevuto denaro per compiere un atto contrario ai doveri d'ufficio. Due mesi dopo, prima di sapere di indagini a suo carico, denuncia volontariamente il fatto e fornisce indicazioni utili e concrete per provarlo e individuare gli altri responsabili. Per beneficiare della causa di non punibilità dell'art. 323-ter c.p., egli deve inoltre, entro lo stesso termine:",
+    "options": [
+      {
+        "id": "a",
+        "text": "risarcire integralmente il danno all'amministrazione di appartenenza",
+        "why_wrong": "L'art. 323-ter subordina la non punibilità alla messa a disposizione dell'utilità percepita (o di una somma equivalente) o all'indicazione del beneficiario effettivo, non al risarcimento del danno."
+      },
+      {
+        "id": "b",
+        "text": "dimettersi dall'incarico ricoperto",
+        "why_wrong": "L'art. 323-ter non prevede questa condizione."
+      },
+      {
+        "id": "c",
+        "text": "mettere a disposizione l'utilità percepita o, se impossibile, una somma di denaro di valore equivalente, ovvero indicare elementi utili e concreti per individuarne il beneficiario effettivo",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "ottenere il consenso del privato che gli ha dato il denaro",
+        "why_wrong": "L'art. 323-ter non prevede questa condizione; richiede la messa a disposizione dell'utilità percepita o l'indicazione del beneficiario effettivo."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Ai sensi dell'art. 323-ter, secondo comma, c.p., la non punibilità del denunciante è subordinata alla messa a disposizione dell'utilità da lui percepita o, in caso di impossibilità, di una somma di denaro di valore equivalente, ovvero all'indicazione di elementi utili e concreti per individuarne il beneficiario effettivo, entro lo stesso termine del primo comma. La causa di non punibilità non si applica se la denuncia è preordinata rispetto alla commissione del reato.",
+    "evidence": [
+      {
+        "ref": "art. 323-ter, comma 2",
+        "text": "La non punibilità del denunciante è subordinata alla messa a disposizione dell'utilità dallo stesso percepita o, in caso di impossibilità, di una somma di denaro di valore equivalente, ovvero all'indicazione di elementi utili e concreti per individuarne il beneficiario effettivo, entro il medesimo termine di cui al primo comma."
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 323-ter, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-027",
+    "subject": "reati-pa",
+    "question": "Un dipendente comunale, violando i doveri inerenti alle sue funzioni, comunica a un giornalista notizie d'ufficio che dovevano rimanere segrete. Quale delitto è configurabile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rivelazione di segreti di ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio",
+        "why_wrong": "L'art. 325 riguarda l'impiego, a proprio o altrui profitto, di invenzioni, scoperte scientifiche o nuove applicazioni industriali che devono rimanere segrete."
+      },
+      {
+        "id": "c",
+        "text": "Rifiuto di atti d'ufficio",
+        "why_wrong": "L'art. 328 riguarda l'indebito rifiuto o l'omissione di un atto dell'ufficio, non la rivelazione di notizie."
+      },
+      {
+        "id": "d",
+        "text": "Peculato",
+        "why_wrong": "L'art. 314 riguarda l'appropriazione di denaro o di altra cosa mobile altrui."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 326, primo comma, c.p. punisce il pubblico ufficiale o l'incaricato di un pubblico servizio che, violando i doveri inerenti alle funzioni o al servizio, o comunque abusando della sua qualità, rivela notizie di ufficio che devono rimanere segrete o ne agevola in qualsiasi modo la conoscenza.",
+    "evidence": [
+      {
+        "ref": "art. 326, comma 1",
+        "text": "((Il pubblico ufficiale o la persona incaricata di un pubblico servizio, che, violando i doveri inerenti alle funzioni o al servizio, o comunque abusando della sua qualità, rivela notizie di ufficio, le quali debbano rimanere segrete, o ne agevola in qualsiasi modo la conoscenza"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 326, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-028",
+    "subject": "reati-pa",
+    "question": "Ai sensi dell'art. 328, primo comma, c.p., il pubblico ufficiale o l'incaricato di un pubblico servizio è punito se rifiuta indebitamente un atto del suo ufficio che deve essere compiuto senza ritardo per ragioni di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "economicità ed efficienza dell'azione amministrativa",
+        "why_wrong": "Il primo comma dell'art. 328 indica ragioni di giustizia, sicurezza pubblica, ordine pubblico, igiene e sanità."
+      },
+      {
+        "id": "b",
+        "text": "giustizia o di sicurezza pubblica, o di ordine pubblico o di igiene e sanità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "trasparenza e pubblicità dell'attività amministrativa",
+        "why_wrong": "Il primo comma dell'art. 328 indica ragioni di giustizia, sicurezza pubblica, ordine pubblico, igiene e sanità."
+      },
+      {
+        "id": "d",
+        "text": "qualunque natura, purché l'interessato abbia presentato una richiesta scritta",
+        "why_wrong": "La richiesta scritta dell'interessato è un elemento del secondo comma (omissione), che si applica fuori dei casi del primo comma."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 328, primo comma, c.p. punisce il pubblico ufficiale o l'incaricato di un pubblico servizio che indebitamente rifiuta un atto del suo ufficio che, per ragioni di giustizia o di sicurezza pubblica, o di ordine pubblico o di igiene e sanità, deve essere compiuto senza ritardo.",
+    "evidence": [
+      {
+        "ref": "art. 328, comma 1",
+        "text": "((Il pubblico ufficiale o l'incaricato di un pubblico servizio, che indebitamente rifiuta un atto del suo uffico che, per ragioni di giustizia o di sicurezza pubblica, o di ordine pubblico o di igiene e sanità, deve essere compiuto senza ritardo"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 328, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-029",
+    "subject": "reati-pa",
+    "question": "Un cittadino presenta per iscritto al Comune la richiesta di un atto nel quale ha interesse; l'atto non deve essere compiuto senza ritardo per ragioni di giustizia, sicurezza pubblica, ordine pubblico o igiene e sanità. Il funzionario competente, entro trenta giorni dalla ricezione della richiesta, non compie l'atto e non risponde per esporre le ragioni del ritardo. Ai sensi dell'art. 328 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non vi è reato, perché l'atto non era urgente",
+        "why_wrong": "Il secondo comma dell'art. 328 si applica proprio «fuori dei casi previsti dal primo comma»."
+      },
+      {
+        "id": "b",
+        "text": "vi è reato solo se il cittadino ha ripetuto la richiesta oralmente",
+        "why_wrong": "Il secondo comma richiede che la richiesta sia redatta in forma scritta."
+      },
+      {
+        "id": "c",
+        "text": "è configurabile il delitto di omissione di atti d'ufficio previsto dal secondo comma",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "vi è reato solo se il funzionario ha ricevuto denaro per non compiere l'atto",
+        "why_wrong": "La ricezione di denaro per omettere un atto dell'ufficio è prevista dall'art. 319; il secondo comma dell'art. 328 punisce l'omissione in sé."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 328, secondo comma, c.p. punisce, fuori dei casi del primo comma, il pubblico ufficiale o l'incaricato di un pubblico servizio che, entro trenta giorni dalla richiesta di chi vi abbia interesse, non compie l'atto del suo ufficio e non risponde per esporre le ragioni del ritardo. La richiesta deve essere scritta e il termine decorre dalla sua ricezione.",
+    "evidence": [
+      {
+        "ref": "art. 328, comma 2",
+        "text": "Fuori dei casi previsti dal primo comma, il pubblico ufficiale o l'incaricato di un pubblico servizio, che entro trenta giorni dalla richiesta di chi vi abbia interesse non compie l'atto del suo ufficio e non risponde per esporre le ragioni del ritardo, è punito con la reclusione fino ad un anno o con la multa fino a lire due milioni. Tale richiesta deve essere redatta in forma scritta ed il termine di trenta giorni decorrere dalla ricezione della richiesta stessa))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 328, comma 2",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "cp-pu-030",
+    "subject": "reati-pa",
+    "question": "Secondo il testo del codice penale vigente, l'art. 323 c.p.:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è in vigore e punisce l'indebita destinazione di denaro o cose mobili",
+        "why_wrong": "L'indebita destinazione di denaro o cose mobili è prevista dall'art. 314-bis; l'art. 323 risulta abrogato."
+      },
+      {
+        "id": "b",
+        "text": "è stato abrogato dalla L. 26 aprile 1990, n. 86",
+        "why_wrong": "La L. 26 aprile 1990, n. 86 ha abrogato gli artt. 315 e 324, non l'art. 323."
+      },
+      {
+        "id": "c",
+        "text": "è stato abrogato dalla L. 9 gennaio 2019, n. 3",
+        "why_wrong": "La L. 9 gennaio 2019, n. 3 ha abrogato l'art. 346, non l'art. 323."
+      },
+      {
+        "id": "d",
+        "text": "è stato abrogato dalla L. 9 agosto 2024, n. 114",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il testo del codice penale riporta l'art. 323 come «articolo abrogato dalla L. 9 agosto 2024, n. 114»: la norma non è più in vigore.",
+    "evidence": [
+      {
+        "ref": "art. 323, comma 1",
+        "text": "((ARTICOLO ABROGATO DALLA L. 9 AGOSTO 2024, N. 114))"
+      }
+    ],
+    "source": {
+      "act": "Codice penale",
+      "article": "art. 323, comma 1",
+      "file": "sources/TITOLO SECONDO codice penale.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
