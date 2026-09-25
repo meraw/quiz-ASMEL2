@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -88,7 +88,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +132,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +176,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -224,7 +224,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -268,7 +268,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -316,7 +316,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -360,7 +360,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -404,7 +404,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -452,7 +452,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -496,7 +496,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -540,7 +540,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -584,7 +584,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -628,7 +628,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -672,7 +672,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -716,7 +716,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -760,7 +760,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -804,7 +804,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -848,7 +848,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -892,7 +892,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -936,7 +936,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -980,7 +980,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1024,7 +1024,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1068,7 +1068,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1112,7 +1112,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 e 7 falliti: l'opzione corretta (c) afferma che il responsabile «risponde sul piano dirigenziale», e la spiegazione parla di «responsabilità dirigenziale (art. 21 d.lgs. 165/2001)», ma il file non qualifica mai la responsabilità come «dirigenziale»: dice solo che il responsabile «risponde ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n.165 [...] nonché sul piano disciplinare, oltre che per il danno erariale e all'immagine». Inoltre l'evidence parte da «nonché sul piano disciplinare» e non copre la parte relativa all'art. 21, quindi sostiene la risposta solo in parte. Suggerimento: riformulare l'opzione c come «risponde ai sensi dell'art. 21 del d.lgs. 165/2001 e sul piano disciplinare, oltre che per il danno erariale e all'immagine...» ed estendere l'evidence a «risponde ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n.165».",
     "no_shuffle": false
   },
   {
@@ -1156,7 +1157,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 4 fallito: il why_wrong dell'opzione b afferma che il comma 12 prevede «una responsabilità dirigenziale», ma il file non usa questa qualificazione: dice che il responsabile «risponde ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n.165 [...] nonché sul piano disciplinare, oltre che per il danno erariale e all'immagine della pubblica amministrazione». Suggerimento: sostituire «dirigenziale» con «ai sensi dell'art. 21 del d.lgs. 165/2001».",
     "no_shuffle": false
   },
   {
@@ -1200,7 +1202,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1244,7 +1246,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1288,7 +1290,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1332,7 +1334,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 7 fallito: la spiegazione afferma che il comma 14 prevede «la responsabilità dirigenziale» del responsabile, ma il file non usa questa qualificazione: dice che il responsabile «risponde ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165 [...] nonché, per omesso controllo, sul piano disciplinare». Suggerimento: sostituire «la responsabilità dirigenziale» con «la responsabilità ai sensi dell'art. 21 del d.lgs. 165/2001».",
     "no_shuffle": false
   }
 ]
