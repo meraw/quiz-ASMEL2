@@ -50,23 +50,23 @@
     "options": [
       {
         "id": "a",
-        "text": "con legge regionale approvata a maggioranza assoluta del Consiglio regionale",
-        "why_wrong": "L'art. 116 prevede una legge dello Stato, approvata dalle Camere sulla base di intesa con la Regione."
+        "text": "con legge regionale approvata dal Consiglio regionale a maggioranza assoluta dei suoi componenti, sulla base di intesa con lo Stato e sentiti gli enti locali",
+        "why_wrong": "L'art. 116, terzo comma, prevede una legge dello Stato, approvata dalle Camere sulla base di intesa con la Regione."
       },
       {
         "id": "b",
-        "text": "con legge dello Stato approvata a maggioranza semplice, su iniziativa del Governo",
-        "why_wrong": "L'art. 116 richiede l'iniziativa della Regione interessata e l'approvazione a maggioranza assoluta dei componenti."
+        "text": "con legge dello Stato, su iniziativa del Governo, sentita la Regione interessata, approvata dalle Camere a maggioranza dei presenti, senza necessità di intesa",
+        "why_wrong": "L'art. 116, terzo comma, richiede l'iniziativa della Regione interessata, l'intesa fra lo Stato e la Regione e l'approvazione a maggioranza assoluta dei componenti."
       },
       {
         "id": "c",
-        "text": "con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, approvata dalle Camere a maggioranza assoluta dei componenti sulla base di intesa fra lo Stato e la Regione",
+        "text": "con legge dello Stato, su iniziativa della Regione, sentiti gli enti locali, approvata a maggioranza assoluta dei componenti sulla base di intesa con la Regione",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "con legge costituzionale, come avviene per gli statuti speciali",
-        "why_wrong": "Gli statuti speciali sono adottati con legge costituzionale (primo comma); le ulteriori forme di autonomia sono attribuite con legge dello Stato."
+        "text": "con legge costituzionale, come avviene per gli statuti speciali del Friuli Venezia Giulia, della Sardegna, della Sicilia, del Trentino-Alto Adige e della Valle d'Aosta",
+        "why_wrong": "Gli statuti speciali sono adottati con legge costituzionale (art. 116, primo comma); le ulteriori forme di autonomia sono attribuite con legge dello Stato (terzo comma)."
       }
     ],
     "correct": "c",
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,18 +95,18 @@
     "options": [
       {
         "id": "a",
-        "text": "Tutela della salute",
-        "why_wrong": "La tutela della salute è materia di legislazione concorrente (art. 117, terzo comma)."
+        "text": "Tutela della salute, alimentazione e ordinamento sportivo",
+        "why_wrong": "Tutela della salute, alimentazione e ordinamento sportivo sono materie di legislazione concorrente (art. 117, terzo comma)."
       },
       {
         "id": "b",
-        "text": "Governo del territorio",
-        "why_wrong": "Il governo del territorio è materia di legislazione concorrente (art. 117, terzo comma)."
+        "text": "Governo del territorio e grandi reti di trasporto e di navigazione",
+        "why_wrong": "Il governo del territorio e le grandi reti di trasporto e di navigazione sono materie di legislazione concorrente (art. 117, terzo comma)."
       },
       {
         "id": "c",
-        "text": "Valorizzazione dei beni culturali e ambientali",
-        "why_wrong": "La valorizzazione dei beni culturali e ambientali è materia di legislazione concorrente; allo Stato spetta in via esclusiva la tutela."
+        "text": "Valorizzazione dei beni culturali e ambientali e protezione civile",
+        "why_wrong": "La valorizzazione dei beni culturali e ambientali e la protezione civile sono materie di legislazione concorrente (art. 117, terzo comma); allo Stato spetta in via esclusiva la tutela dei beni culturali."
       },
       {
         "id": "d",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -183,23 +185,23 @@
     "options": [
       {
         "id": "a",
-        "text": "la potestà regolamentare spetta allo Stato in ogni materia",
-        "why_wrong": "La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva e alle Regioni in ogni altra materia."
+        "text": "la potestà regolamentare spetta allo Stato in ogni materia, salva delega alle Regioni nelle materie di legislazione esclusiva",
+        "why_wrong": "La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva e alle Regioni in ogni altra materia (art. 117, sesto comma)."
       },
       {
         "id": "b",
-        "text": "il Comune ha potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni ad esso attribuite",
+        "text": "il Comune ha potestà regolamentare sulla disciplina dell'organizzazione e dello svolgimento delle funzioni attribuitegli",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "la potestà regolamentare spetta soltanto allo Stato e alle Regioni",
-        "why_wrong": "L'art. 117, sesto comma, riconosce potestà regolamentare anche a Comuni, Province e Città metropolitane."
+        "text": "la potestà regolamentare spetta soltanto allo Stato e alle Regioni, secondo la ripartizione delle materie di legislazione",
+        "why_wrong": "L'art. 117, sesto comma, attribuisce potestà regolamentare allo Stato nelle materie di legislazione esclusiva e alle Regioni in ogni altra materia, ma la riconosce anche a Comuni, Province e Città metropolitane."
       },
       {
         "id": "d",
-        "text": "il Comune può adottare il regolamento soltanto su delega della Regione",
-        "why_wrong": "La delega è prevista dallo Stato alle Regioni nelle materie di legislazione esclusiva; la potestà regolamentare dei Comuni è riconosciuta direttamente dall'art. 117."
+        "text": "il Comune può adottare il regolamento soltanto su delega della Regione, che ha potestà regolamentare in ogni altra materia",
+        "why_wrong": "La delega è prevista dallo Stato alle Regioni nelle materie di legislazione esclusiva; la potestà regolamentare dei Comuni è riconosciuta direttamente dall'art. 117, sesto comma."
       }
     ],
     "correct": "b",
@@ -217,7 +219,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -227,23 +230,23 @@
     "options": [
       {
         "id": "a",
-        "text": "spettano alle Regioni nelle materie di legislazione concorrente e allo Stato nelle altre",
-        "why_wrong": "L'art. 118 attribuisce le funzioni amministrative ai Comuni, salvo conferimento ad altri livelli per assicurarne l'esercizio unitario."
+        "text": "spettano alle Regioni nelle materie di legislazione concorrente e allo Stato nelle materie di legislazione esclusiva, salvo delega ai Comuni, alle Province e alle Città metropolitane",
+        "why_wrong": "L'art. 118, primo comma, attribuisce le funzioni amministrative ai Comuni, salvo conferimento ad altri livelli per assicurarne l'esercizio unitario."
       },
       {
         "id": "b",
-        "text": "sono attribuite ai Comuni, sulla base dei principi di buon andamento e imparzialità",
-        "why_wrong": "Buon andamento e imparzialità sono i fini dell'organizzazione dei pubblici uffici (art. 97); l'art. 118 richiama sussidiarietà, differenziazione ed adeguatezza."
+        "text": "sono attribuite ai Comuni, e conferite agli altri enti solo per assicurarne l'esercizio unitario, sulla base dei principi di buon andamento e imparzialità dell'amministrazione",
+        "why_wrong": "Buon andamento e imparzialità sono i fini dell'organizzazione dei pubblici uffici (art. 97); l'art. 118 attribuisce le funzioni ai Comuni e richiama sussidiarietà, differenziazione ed adeguatezza."
       },
       {
         "id": "c",
-        "text": "sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza",
+        "text": "sono attribuite ai Comuni salvo che, per l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, per sussidiarietà, differenziazione e adeguatezza",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "sono attribuite allo Stato, che può delegarle alle Regioni e agli enti locali",
-        "why_wrong": "L'art. 118 attribuisce in via generale le funzioni amministrative ai Comuni."
+        "text": "sono attribuite allo Stato, che può conferirle alle Regioni, alle Province, alle Città metropolitane e ai Comuni sulla base del principio di leale collaborazione",
+        "why_wrong": "L'art. 118, primo comma, attribuisce in via generale le funzioni amministrative ai Comuni; la leale collaborazione è richiamata dall'art. 120 per i poteri sostitutivi."
       }
     ],
     "correct": "c",
@@ -261,7 +264,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -271,22 +275,22 @@
     "options": [
       {
         "id": "a",
-        "text": "le funzioni amministrative sono attribuite ai Comuni, salvo conferimento a livelli superiori per assicurarne l'esercizio unitario",
-        "why_wrong": "Il primo comma riguarda la distribuzione delle funzioni amministrative tra gli enti; l'iniziativa dei cittadini è oggetto dell'ultimo comma."
+        "text": "le funzioni amministrative sono attribuite ai Comuni, salvo che siano conferite a Province, Città metropolitane, Regioni e Stato per assicurarne l'esercizio unitario",
+        "why_wrong": "Il primo comma dell'art. 118 riguarda la distribuzione delle funzioni amministrative tra gli enti; l'iniziativa dei cittadini è oggetto dell'ultimo comma."
       },
       {
         "id": "b",
-        "text": "i poteri sostitutivi sono esercitati nel rispetto del principio di leale collaborazione",
-        "why_wrong": "Il principio di leale collaborazione è richiamato dall'art. 120 per l'esercizio dei poteri sostitutivi del Governo."
+        "text": "i poteri sostitutivi del Governo nei confronti di Regioni ed enti locali sono esercitati nel rispetto del principio di sussidiarietà e del principio di leale collaborazione",
+        "why_wrong": "I poteri sostitutivi del Governo e il principio di leale collaborazione sono disciplinati dall'art. 120, non dall'art. 118."
       },
       {
         "id": "c",
-        "text": "i Comuni sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale",
-        "why_wrong": "Il secondo comma riguarda le funzioni degli enti locali, non il sostegno all'iniziativa dei cittadini."
+        "text": "i Comuni, le Province e le Città metropolitane sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale, secondo le rispettive competenze",
+        "why_wrong": "Il secondo comma dell'art. 118 riguarda le funzioni degli enti locali, non il sostegno all'iniziativa dei cittadini."
       },
       {
         "id": "d",
-        "text": "Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà",
+        "text": "tutti i livelli di governo favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per attività di interesse generale, sulla base del principio di sussidiarietà",
         "why_wrong": null
       }
     ],
@@ -305,7 +309,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -320,18 +325,18 @@
       },
       {
         "id": "b",
-        "text": "può farlo, se il prestito è assistito dalla garanzia dello Stato",
-        "why_wrong": "L'art. 119 esclude ogni garanzia dello Stato sui prestiti contratti dagli enti."
+        "text": "può farlo, purché il prestito sia assistito da un'espressa garanzia dello Stato sulla sua restituzione",
+        "why_wrong": "L'art. 119 consente l'indebitamento solo per spese di investimento ed esclude ogni garanzia dello Stato sui prestiti contratti dagli enti."
       },
       {
         "id": "c",
-        "text": "può farlo previa autorizzazione delle Camere adottata a maggioranza assoluta",
-        "why_wrong": "L'autorizzazione delle Camere a maggioranza assoluta riguarda il ricorso all'indebitamento dello Stato al verificarsi di eventi eccezionali (art. 81)."
+        "text": "può farlo, previa autorizzazione delle Camere adottata a maggioranza assoluta dei rispettivi componenti",
+        "why_wrong": "L'autorizzazione delle Camere a maggioranza assoluta dei rispettivi componenti riguarda l'indebitamento dello Stato al verificarsi di eventi eccezionali (art. 81); gli enti possono indebitarsi solo per spese di investimento (art. 119)."
       },
       {
         "id": "d",
-        "text": "può farlo, purché definisca contestualmente un piano di ammortamento",
-        "why_wrong": "Il piano di ammortamento è una condizione ulteriore: l'indebitamento resta consentito solo per finanziare spese di investimento."
+        "text": "può farlo, purché definisca contestualmente un piano di ammortamento e rispetti l'equilibrio di bilancio",
+        "why_wrong": "Piani di ammortamento ed equilibrio di bilancio sono condizioni ulteriori: l'indebitamento resta consentito solo per finanziare spese di investimento (art. 119)."
       }
     ],
     "correct": "a",
@@ -349,7 +354,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

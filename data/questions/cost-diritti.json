@@ -142,22 +142,22 @@
     "options": [
       {
         "id": "a",
-        "text": "non è richiesto alcun preavviso",
-        "why_wrong": "L'esenzione dal preavviso riguarda le riunioni in luogo aperto al pubblico; per le riunioni in luogo pubblico il preavviso è dovuto."
+        "text": "non è richiesto alcun preavviso, trattandosi di una riunione pacifica e senz'armi, come quelle in luogo aperto al pubblico",
+        "why_wrong": "L'esenzione dal preavviso riguarda le riunioni in luogo aperto al pubblico (art. 17, secondo comma); per le riunioni in luogo pubblico il preavviso è dovuto (terzo comma)."
       },
       {
         "id": "b",
-        "text": "occorre un'autorizzazione preventiva delle autorità",
-        "why_wrong": "L'art. 17 prevede un preavviso alle autorità, non un'autorizzazione."
+        "text": "occorre un'autorizzazione preventiva delle autorità, che possono negarla soltanto per comprovati motivi di sicurezza o di incolumità pubblica",
+        "why_wrong": "L'art. 17, terzo comma, prevede un preavviso alle autorità, non un'autorizzazione."
       },
       {
         "id": "c",
-        "text": "le autorità possono vietare la riunione per qualsiasi motivo di opportunità",
-        "why_wrong": "Le autorità possono vietare le riunioni in luogo pubblico soltanto per comprovati motivi di sicurezza o di incolumità pubblica."
+        "text": "deve essere dato preavviso alle autorità, che possono vietarla per qualsiasi motivo di opportunità, anche non comprovato",
+        "why_wrong": "L'art. 17, terzo comma, consente di vietare le riunioni in luogo pubblico soltanto per comprovati motivi di sicurezza o di incolumità pubblica."
       },
       {
         "id": "d",
-        "text": "deve essere dato preavviso alle autorità, che possono vietare la riunione soltanto per comprovati motivi di sicurezza o di incolumità pubblica",
+        "text": "deve essere dato preavviso alle autorità, che possono vietarla soltanto per comprovati motivi di sicurezza o di incolumità pubblica",
         "why_wrong": null
       }
     ],
@@ -176,7 +176,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -362,23 +363,23 @@
     "options": [
       {
         "id": "a",
-        "text": "non può essere punito, perché nessuno può essere punito se non in forza di una legge entrata in vigore prima del fatto commesso",
+        "text": "non può essere punito, perché la legge che lo punisce deve essere entrata in vigore prima del fatto commesso",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "può essere punito, se la nuova legge lo prevede espressamente",
-        "why_wrong": "L'art. 25 richiede che la legge sia entrata in vigore prima del fatto commesso, senza eccezioni."
+        "text": "può essere punito, se la nuova legge prevede espressamente la propria applicazione anche ai fatti commessi in precedenza",
+        "why_wrong": "L'art. 25, secondo comma, richiede che la legge sia entrata in vigore prima del fatto commesso, senza eccezioni."
       },
       {
         "id": "c",
-        "text": "può essere punito, purché sia giudicato dal giudice naturale precostituito per legge",
-        "why_wrong": "La garanzia del giudice naturale (primo comma) non consente di punire in base a una legge entrata in vigore dopo il fatto."
+        "text": "può essere punito, purché sia giudicato dal giudice naturale precostituito per legge prima del fatto commesso",
+        "why_wrong": "La garanzia del giudice naturale (art. 25, primo comma) non consente di punire in base a una legge entrata in vigore dopo il fatto (secondo comma)."
       },
       {
         "id": "d",
-        "text": "può essere punito, ma solo con una misura di sicurezza",
-        "why_wrong": "Le misure di sicurezza sono applicabili solo nei casi previsti dalla legge; la punizione richiede una legge entrata in vigore prima del fatto."
+        "text": "può essere punito, ma soltanto con la pena più lieve tra quelle stabilite dalla nuova legge entrata in vigore nel 2026",
+        "why_wrong": "L'art. 25, secondo comma, esclude la punizione in forza di una legge entrata in vigore dopo il fatto commesso, qualunque sia la pena."
       }
     ],
     "correct": "a",
@@ -396,7 +397,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -406,8 +408,8 @@
     "options": [
       {
         "id": "a",
-        "text": "devono tendere esclusivamente a punire il condannato in proporzione al fatto commesso",
-        "why_wrong": "L'art. 27 dispone che le pene devono tendere alla rieducazione del condannato."
+        "text": "devono tendere esclusivamente alla punizione del condannato, in misura proporzionata alla gravità del fatto commesso",
+        "why_wrong": "L'art. 27, terzo comma, dispone che le pene devono tendere alla rieducazione del condannato."
       },
       {
         "id": "b",
@@ -416,13 +418,13 @@
       },
       {
         "id": "c",
-        "text": "possono applicarsi all'imputato prima della condanna definitiva, se la legge lo prevede",
-        "why_wrong": "L'art. 27 dispone che l'imputato non è considerato colpevole sino alla condanna definitiva."
+        "text": "possono essere applicate all'imputato anche prima della condanna definitiva, nei casi espressamente previsti dalla legge",
+        "why_wrong": "L'art. 27, secondo comma, dispone che l'imputato non è considerato colpevole sino alla condanna definitiva."
       },
       {
         "id": "d",
-        "text": "possono consistere nella pena di morte nei casi previsti dalle leggi militari",
-        "why_wrong": "Il testo vigente dell'art. 27 dispone che non è ammessa la pena di morte, senza eccezioni."
+        "text": "possono consistere nella pena di morte, ma soltanto nei casi eccezionali previsti dalle leggi militari di guerra",
+        "why_wrong": "Il testo vigente dell'art. 27, quarto comma, dispone che non è ammessa la pena di morte, senza eccezioni."
       }
     ],
     "correct": "b",
@@ -440,7 +442,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -450,13 +453,13 @@
     "options": [
       {
         "id": "a",
-        "text": "il dipendente risponde soltanto sul piano disciplinare",
-        "why_wrong": "L'art. 28 prevede la responsabilità diretta secondo le leggi penali, civili e amministrative."
+        "text": "il dipendente risponde soltanto sul piano disciplinare, mentre ogni altra responsabilità per l'atto compiuto grava sul Comune",
+        "why_wrong": "L'art. 28 prevede la responsabilità diretta del dipendente secondo le leggi penali, civili e amministrative."
       },
       {
         "id": "b",
-        "text": "la responsabilità civile resta esclusivamente a carico del dipendente",
-        "why_wrong": "L'art. 28 dispone che la responsabilità civile si estende allo Stato e agli enti pubblici."
+        "text": "il dipendente è direttamente responsabile secondo le leggi penali e amministrative, mentre la responsabilità civile resta solo a suo carico",
+        "why_wrong": "L'art. 28 prevede la responsabilità diretta del dipendente anche secondo le leggi civili e dispone che la responsabilità civile si estende allo Stato e agli enti pubblici, quindi al Comune."
       },
       {
         "id": "c",
@@ -465,8 +468,8 @@
       },
       {
         "id": "d",
-        "text": "risponde soltanto il Comune, con esclusione della responsabilità personale del dipendente",
-        "why_wrong": "L'art. 28 afferma la responsabilità diretta dei funzionari e dei dipendenti; quella civile si estende all'ente."
+        "text": "risponde soltanto il Comune, secondo le leggi civili e amministrative, con esclusione di ogni responsabilità personale del dipendente",
+        "why_wrong": "L'art. 28 afferma la responsabilità diretta del dipendente secondo le leggi penali, civili e amministrative; la responsabilità civile si estende al Comune senza escludere quella del dipendente."
       }
     ],
     "correct": "c",
@@ -484,7 +487,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -494,18 +498,18 @@
     "options": [
       {
         "id": "a",
-        "text": "per atto motivato dell'autorità giudiziaria, con le garanzie stabilite dalla legge",
-        "why_wrong": "L'atto motivato dell'autorità giudiziaria è la garanzia prevista per la libertà personale (art. 13); l'art. 32 richiede una disposizione di legge."
+        "text": "soltanto per atto motivato dell'autorità giudiziaria, nei soli casi e modi previsti dalla legge a tutela della salute",
+        "why_wrong": "L'atto motivato dell'autorità giudiziaria, nei soli casi e modi previsti dalla legge, è la garanzia della libertà personale (art. 13); per i trattamenti sanitari obbligatori l'art. 32 richiede una disposizione di legge."
       },
       {
         "id": "b",
-        "text": "con qualsiasi atto dell'autorità sanitaria, trattandosi di interesse della collettività",
-        "why_wrong": "L'art. 32 richiede una disposizione di legge."
+        "text": "con qualsiasi provvedimento dell'autorità sanitaria, trattandosi di un interesse della collettività oltre che dell'individuo",
+        "why_wrong": "L'art. 32 richiede una disposizione di legge, non un provvedimento dell'autorità sanitaria."
       },
       {
         "id": "c",
-        "text": "mai, perché la salute è un fondamentale diritto dell'individuo",
-        "why_wrong": "L'art. 32 ammette trattamenti obbligatori per disposizione di legge, nel rispetto della persona umana."
+        "text": "mai, perché la salute è tutelata come fondamentale diritto dell'individuo e nessuno può esservi obbligato in alcun caso",
+        "why_wrong": "La salute è tutelata come fondamentale diritto dell'individuo (art. 32, primo comma), ma il secondo comma ammette trattamenti obbligatori per disposizione di legge."
       },
       {
         "id": "d",
@@ -528,7 +532,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -626,13 +631,13 @@
     "options": [
       {
         "id": "a",
-        "text": "nei confronti di chi non ha esercitato il voto, che è dovere civico",
-        "why_wrong": "L'esercizio del voto è dovere civico, ma le limitazioni del diritto di voto sono solo quelle elencate dall'ultimo comma dell'art. 48."
+        "text": "nei confronti di chi non abbia esercitato il voto nelle precedenti consultazioni elettorali, poiché il voto è dovere civico",
+        "why_wrong": "L'art. 48 qualifica il voto come dovere civico, ma il mancato voto nelle precedenti consultazioni non è tra le cause di limitazione dell'ultimo comma: incapacità civile, sentenza penale irrevocabile, indegnità morale."
       },
       {
         "id": "b",
-        "text": "per motivi politici, nei casi stabiliti dalla legge",
-        "why_wrong": "L'art. 48 non prevede i motivi politici tra le cause di limitazione del diritto di voto."
+        "text": "per motivi politici, nei casi e con le modalità stabiliti da una legge approvata a maggioranza assoluta delle Camere",
+        "why_wrong": "L'art. 48, ultimo comma, non prevede i motivi politici tra le cause di limitazione del diritto di voto."
       },
       {
         "id": "c",
@@ -641,8 +646,8 @@
       },
       {
         "id": "d",
-        "text": "anche per effetto di una sentenza penale di condanna non ancora irrevocabile",
-        "why_wrong": "L'art. 48 richiede una sentenza penale irrevocabile."
+        "text": "per incapacità civile o per effetto di una sentenza penale di condanna, anche se non ancora divenuta irrevocabile",
+        "why_wrong": "L'art. 48, ultimo comma, richiede una sentenza penale irrevocabile."
       }
     ],
     "correct": "c",
@@ -660,7 +665,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

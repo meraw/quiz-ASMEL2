@@ -50,23 +50,23 @@
     "options": [
       {
         "id": "a",
-        "text": "il trasferimento è disposto dal Presidente della Repubblica, in quanto presidente del CSM",
-        "why_wrong": "L'art. 107 richiede una decisione del Consiglio superiore della magistratura."
+        "text": "il trasferimento è disposto con decreto del Presidente della Repubblica, in quanto presidente del Consiglio superiore della magistratura",
+        "why_wrong": "Il Presidente della Repubblica presiede il CSM (art. 104), ma l'art. 107 richiede una decisione del Consiglio superiore della magistratura."
       },
       {
         "id": "b",
-        "text": "il trasferimento può avvenire solo in seguito a decisione del Consiglio superiore della magistratura, adottata per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario",
+        "text": "il trasferimento richiede una decisione del CSM, adottata per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "il Ministro può disporre il trasferimento con proprio decreto motivato",
-        "why_wrong": "Il Ministro della giustizia ha facoltà di promuovere l'azione disciplinare; la destinazione ad altra sede richiede una decisione del CSM."
+        "text": "il Ministro può disporre il trasferimento con proprio decreto motivato, nell'ambito della facoltà di promuovere l'azione disciplinare",
+        "why_wrong": "Il Ministro della giustizia ha facoltà di promuovere l'azione disciplinare (art. 107, secondo comma); la destinazione ad altra sede richiede una decisione del CSM."
       },
       {
         "id": "d",
-        "text": "il trasferimento non è possibile in alcun caso, perché i magistrati sono inamovibili",
-        "why_wrong": "L'inamovibilità ammette la destinazione ad altra sede in seguito a decisione del CSM, per i motivi e con le garanzie stabilite dall'ordinamento giudiziario, o con il consenso del magistrato."
+        "text": "il trasferimento non è possibile in alcun caso, perché i magistrati sono inamovibili e si distinguono fra loro soltanto per diversità di funzioni",
+        "why_wrong": "L'inamovibilità ammette la destinazione ad altra sede in seguito a decisione del CSM, per i motivi e con le garanzie stabilite dall'ordinamento giudiziario, o con il consenso del magistrato. La distinzione per diversità di funzioni (terzo comma) non riguarda il trasferimento."
       }
     ],
     "correct": "b",
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -138,22 +139,22 @@
     "options": [
       {
         "id": "a",
-        "text": "è legittima, se la stessa legge determina quali organi di giurisdizione possono annullare gli atti",
-        "why_wrong": "La legge può determinare quali organi possono annullare gli atti, ma non può escludere la tutela giurisdizionale per determinate categorie di atti."
+        "text": "è legittima, se la stessa legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione",
+        "why_wrong": "La legge può determinare quali organi possono annullare gli atti (art. 113, terzo comma), ma la tutela non può essere esclusa per determinate categorie di atti (secondo comma)."
       },
       {
         "id": "b",
         "text": "è legittima, perché la tutela contro gli atti della pubblica amministrazione è ammessa solo nei casi stabiliti dalla legge",
-        "why_wrong": "L'art. 113 dispone che la tutela giurisdizionale contro gli atti della pubblica amministrazione è sempre ammessa."
+        "why_wrong": "L'art. 113, primo comma, dispone che la tutela giurisdizionale contro gli atti della pubblica amministrazione è sempre ammessa."
       },
       {
         "id": "c",
-        "text": "è legittima se riguarda solo gli interessi legittimi",
-        "why_wrong": "L'art. 113 garantisce sempre la tutela sia dei diritti sia degli interessi legittimi."
+        "text": "è legittima, purché l'esclusione riguardi soltanto la tutela degli interessi legittimi e non quella dei diritti",
+        "why_wrong": "L'art. 113 ammette sempre la tutela giurisdizionale sia dei diritti sia degli interessi legittimi (primo comma) e ne vieta l'esclusione per determinate categorie di atti (secondo comma)."
       },
       {
         "id": "d",
-        "text": "contrasta con la Costituzione, perché la tutela giurisdizionale contro gli atti della pubblica amministrazione non può essere esclusa per determinate categorie di atti",
+        "text": "contrasta con la Costituzione, perché la tutela giurisdizionale non può essere esclusa per determinate categorie di atti",
         "why_wrong": null
       }
     ],
@@ -172,7 +173,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

@@ -231,8 +231,8 @@
     "options": [
       {
         "id": "a",
-        "text": "entro un mese dall'approvazione",
-        "why_wrong": "Entro un mese dall'approvazione le leggi sono promulgate dal Presidente della Repubblica."
+        "text": "entro un mese dall'approvazione o, se le Camere ne dichiarano l'urgenza, nel termine stabilito dalla legge stessa",
+        "why_wrong": "Sono i termini per la promulgazione delle leggi da parte del Presidente della Repubblica (art. 73, primo e secondo comma)."
       },
       {
         "id": "b",
@@ -241,13 +241,13 @@
       },
       {
         "id": "c",
-        "text": "il quindicesimo giorno successivo alla loro promulgazione",
-        "why_wrong": "Il termine decorre dalla pubblicazione, che segue la promulgazione."
+        "text": "il quindicesimo giorno successivo alla loro promulgazione, salvo che le leggi stesse stabiliscano un termine diverso",
+        "why_wrong": "Il termine decorre dalla pubblicazione, che segue la promulgazione (art. 73, terzo comma)."
       },
       {
         "id": "d",
-        "text": "il giorno stesso della loro pubblicazione, salvo diversa disposizione",
-        "why_wrong": "L'art. 73 fissa, in via generale, il quindicesimo giorno successivo alla pubblicazione."
+        "text": "il giorno successivo alla loro pubblicazione, che avviene subito dopo la promulgazione, salvo diverso termine stabilito",
+        "why_wrong": "L'art. 73, terzo comma, fissa, in via generale, il quindicesimo giorno successivo alla pubblicazione."
       }
     ],
     "correct": "b",
@@ -265,7 +265,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -495,22 +496,22 @@
     "options": [
       {
         "id": "a",
-        "text": "la presentazione per la conversione è rinviata alla prima riunione delle nuove Camere",
-        "why_wrong": "L'art. 77 prevede la presentazione il giorno stesso alle Camere, che, anche se sciolte, sono appositamente convocate."
+        "text": "va presentato per la conversione alle nuove Camere, nella prima riunione, che ha luogo non oltre il ventesimo giorno dalle elezioni",
+        "why_wrong": "Il termine di venti giorni riguarda la prima riunione delle nuove Camere (art. 61); l'art. 77 prevede la presentazione il giorno stesso alle Camere, che, anche se sciolte, sono appositamente convocate."
       },
       {
         "id": "b",
-        "text": "il Governo non può adottare decreti-legge a Camere sciolte",
-        "why_wrong": "L'art. 77 disciplina espressamente la conversione anche quando le Camere sono sciolte."
+        "text": "il Governo non può adottare decreti-legge a Camere sciolte, poiché i poteri delle Camere sono prorogati fino alla riunione delle nuove",
+        "why_wrong": "La prorogatio dei poteri delle Camere è prevista dall'art. 61; l'art. 77 disciplina espressamente la conversione anche quando le Camere sono sciolte."
       },
       {
         "id": "c",
-        "text": "il decreto deve essere presentato alle Camere entro sessanta giorni dalla sua pubblicazione",
-        "why_wrong": "Sessanta giorni è il termine per la conversione; la presentazione deve avvenire il giorno stesso dell'adozione."
+        "text": "va presentato alle Camere per la conversione entro sessanta giorni dalla sua pubblicazione, senza obbligo di apposita convocazione",
+        "why_wrong": "Sessanta giorni è il termine per la conversione; la presentazione deve avvenire il giorno stesso e le Camere, anche se sciolte, sono appositamente convocate (art. 77)."
       },
       {
         "id": "d",
-        "text": "il decreto deve essere presentato il giorno stesso per la conversione alle Camere, che sono appositamente convocate e si riuniscono entro cinque giorni",
+        "text": "va presentato il giorno stesso per la conversione alle Camere, che sono appositamente convocate e si riuniscono entro cinque giorni",
         "why_wrong": null
       }
     ],
@@ -529,7 +530,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

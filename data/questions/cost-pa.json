@@ -226,13 +226,13 @@
     "options": [
       {
         "id": "a",
-        "text": "i membri del Parlamento che siano pubblici impiegati",
-        "why_wrong": "Per i pubblici impiegati membri del Parlamento l'art. 98 prevede il limite delle promozioni per sola anzianità, non limitazioni all'iscrizione ai partiti."
+        "text": "i soli pubblici impiegati che siano stati eletti membri del Parlamento, i quali non possono conseguire promozioni se non per anzianità",
+        "why_wrong": "Per i pubblici impiegati membri del Parlamento l'art. 98, secondo comma, prevede il limite delle promozioni per sola anzianità, non limitazioni all'iscrizione ai partiti."
       },
       {
         "id": "b",
-        "text": "i soli militari di carriera in servizio attivo",
-        "why_wrong": "L'elenco dell'art. 98 comprende anche magistrati, funzionari ed agenti di polizia e rappresentanti diplomatici e consolari all'estero."
+        "text": "i soli militari di carriera in servizio attivo, con esclusione dei magistrati, dei funzionari ed agenti di polizia e dei rappresentanti diplomatici",
+        "why_wrong": "L'elenco dell'art. 98, terzo comma, comprende anche magistrati, funzionari ed agenti di polizia e rappresentanti diplomatici e consolari all'estero."
       },
       {
         "id": "c",
@@ -241,8 +241,8 @@
       },
       {
         "id": "d",
-        "text": "tutti i pubblici impiegati, in quanto al servizio esclusivo della Nazione",
-        "why_wrong": "Le limitazioni possono riguardare solo le categorie elencate dall'art. 98, non tutti i pubblici impiegati."
+        "text": "tutti i pubblici impiegati, di qualsiasi amministrazione, categoria e qualifica, in quanto posti al servizio esclusivo della Nazione",
+        "why_wrong": "Il servizio esclusivo della Nazione è previsto dal primo comma; le limitazioni possono riguardare solo le categorie elencate dal terzo comma dell'art. 98."
       }
     ],
     "correct": "c",
@@ -260,7 +260,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
