@@ -44,7 +44,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -88,7 +88,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +132,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +176,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +220,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controlli 3 e 4 non superati (opzione c). Il file non esclude i procedimenti abbreviati per i disegni di legge di delegazione: il secondo comma dispone in generale «Il regolamento stabilisce procedimenti abbreviati per i disegni di legge dei quali è dichiarata l'urgenza» (art. 72, comma 2), mentre la «procedura normale di esame e di approvazione diretta da parte della Camera» del quarto comma si contrappone al deferimento a commissioni del terzo comma («Può altresì stabilire in quali casi e forme l'esame e l'approvazione dei disegni di legge sono deferiti a commissioni»), non all'urgenza. L'opzione c («può seguire un procedimento abbreviato, se ne è dichiarata l'urgenza») è quindi difendibile come corretta secondo il file. Il why_wrong di c è inoltre incoerente: affermando che i procedimenti abbreviati «non derogano alla procedura normale» ammette che i due istituti sono compatibili. Correzione suggerita: sostituire l'opzione c con un distrattore chiaramente escluso dal file, ad esempio «può essere approvato dalla sola commissione, se lo richiede un decimo dei componenti della Camera».",
     "no_shuffle": false
   },
   {
@@ -264,7 +265,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +309,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +353,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +397,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -440,7 +441,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -484,7 +485,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -528,7 +529,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
