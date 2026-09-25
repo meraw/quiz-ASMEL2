@@ -138,22 +138,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Il ricorso è legittimo, purché la stazione appaltante consulti almeno tre operatori",
+        "text": "Il ricorso è legittimo, purché la stazione appaltante selezioni almeno tre operatori economici da consultare, se sussistono in tale numero",
         "why_wrong": "La consultazione di almeno tre operatori (art. 76, comma 7) non supera il requisito della non imputabilità dell'urgenza previsto dal comma 2, lett. c)."
       },
       {
         "id": "b",
-        "text": "Il ricorso è legittimo se l'urgenza è dichiarata dal RUP",
-        "why_wrong": "L'art. 76, comma 2, lett. c), richiede che l'urgenza derivi da eventi imprevedibili e non sia imputabile alla stazione appaltante, non una semplice dichiarazione."
+        "text": "Il ricorso è legittimo se l'estrema urgenza è dichiarata dal RUP e motivata nel primo atto della procedura in relazione alla specifica situazione di fatto",
+        "why_wrong": "L'art. 76, comma 2, lett. c), richiede che l'urgenza derivi da eventi imprevedibili e non sia in alcun caso imputabile alla stazione appaltante; la motivazione nel primo atto (comma 1) non supera tale requisito."
       },
       {
         "id": "c",
-        "text": "Il ricorso è legittimo se autorizzato dall'ANAC",
-        "why_wrong": "L'art. 76 non prevede autorizzazioni dell'ANAC per il ricorso alla procedura negoziata senza bando."
+        "text": "Il ricorso è legittimo, purché limitato alla misura strettamente necessaria e autorizzato preventivamente dall'ANAC",
+        "why_wrong": "L'art. 76, comma 2, lett. c), esclude l'urgenza imputabile alla stazione appaltante; l'art. 76 non prevede autorizzazioni dell'ANAC."
       },
       {
         "id": "d",
-        "text": "Il ricorso non è consentito, perché le circostanze invocate per giustificare l'estrema urgenza non devono essere in alcun caso imputabili alla stazione appaltante",
+        "text": "Il ricorso non è consentito, perché le circostanze invocate per giustificare l'estrema urgenza non devono mai essere imputabili alla stazione appaltante",
         "why_wrong": null
       }
     ],
@@ -172,7 +172,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -226,22 +227,22 @@
     "options": [
       {
         "id": "a",
-        "text": "È legittima, perché la stazione appaltante può fissare liberamente il fatturato minimo",
-        "why_wrong": "L'art. 100, comma 11, pone un limite: il fatturato richiesto non può superare il doppio del valore stimato."
+        "text": "È legittima, perché il fatturato può giungere al triplo del valore stimato se maturato nei migliori tre anni degli ultimi cinque",
+        "why_wrong": "L'art. 100, comma 11, fissa il limite al doppio del valore stimato; i migliori tre anni degli ultimi cinque indicano solo il periodo di maturazione del fatturato."
       },
       {
         "id": "b",
-        "text": "È legittima solo se il fatturato è riferito all'ultimo anno",
-        "why_wrong": "Il problema non è il periodo di riferimento, ma l'importo, superiore al doppio del valore stimato."
+        "text": "È legittima solo se il fatturato è riferito all'ultimo anno precedente a quello di indizione della procedura",
+        "why_wrong": "L'importo supera comunque il doppio del valore stimato (art. 100, comma 11), che si riferisce al fatturato maturato nei migliori tre anni degli ultimi cinque."
       },
       {
         "id": "c",
-        "text": "Supera il limite, perché il fatturato globale richiesto non può essere superiore al doppio del valore stimato dell'appalto",
+        "text": "Supera il limite, perché il fatturato globale richiesto non può superare il doppio del valore stimato dell'appalto",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Supera il limite, perché il fatturato non può mai superare il valore stimato dell'appalto",
+        "text": "Supera il limite, perché il fatturato globale richiesto non può mai superare il valore stimato dell'appalto",
         "why_wrong": "L'art. 100, comma 11, consente di chiedere un fatturato fino al doppio del valore stimato, non solo fino al valore stimato."
       }
     ],
@@ -260,7 +261,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -402,23 +404,23 @@
     "options": [
       {
         "id": "a",
-        "text": "È comunque escluso, trattandosi di causa di esclusione automatica",
+        "text": "È comunque escluso, trattandosi di causa di esclusione automatica che non ammette regolarizzazioni successive",
         "why_wrong": "L'art. 94, comma 6, precisa che la causa non si applica quando l'operatore ha pagato prima della scadenza del termine per l'offerta."
       },
       {
         "id": "b",
-        "text": "Non è escluso, perché il pagamento si è perfezionato anteriormente alla scadenza del termine di presentazione dell'offerta",
+        "text": "Non è escluso, perché il pagamento si è perfezionato prima della scadenza del termine di presentazione dell'offerta",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Non è escluso solo se il pagamento avviene prima dell'aggiudicazione",
-        "why_wrong": "L'art. 94, comma 6, richiede che il pagamento si perfezioni prima della scadenza del termine per l'offerta, non prima dell'aggiudicazione."
+        "text": "È escluso, perché il pagamento avrebbe dovuto perfezionarsi prima della pubblicazione del bando di gara",
+        "why_wrong": "L'art. 94, comma 6, richiede che il pagamento si perfezioni prima della scadenza del termine di presentazione dell'offerta, non prima della pubblicazione del bando."
       },
       {
         "id": "d",
-        "text": "È escluso per la sola gara in corso e può partecipare alle successive",
-        "why_wrong": "La regola della sola gara riguarda alcune cause dell'art. 95 (art. 96, comma 10, lett. b)); qui la causa non si applica affatto per effetto del pagamento tempestivo."
+        "text": "È escluso per la sola gara in corso e può partecipare alle successive procedure indette dalla medesima stazione appaltante",
+        "why_wrong": "L'art. 94, comma 6, esclude l'applicazione della causa quando il pagamento si è perfezionato prima della scadenza del termine di presentazione dell'offerta."
       }
     ],
     "correct": "b",
@@ -436,7 +438,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -495,17 +498,17 @@
       },
       {
         "id": "b",
-        "text": "Esclude immediatamente il concorrente",
+        "text": "Esclude immediatamente il concorrente, trattandosi di documentazione da presentare con il documento di gara unico europeo",
         "why_wrong": "L'art. 101, comma 1, prevede il soccorso istruttorio per integrare la documentazione mancante; l'esclusione segue solo se il concorrente non adempie nel termine (comma 2)."
       },
       {
         "id": "c",
-        "text": "Assegna un termine non superiore a trenta giorni per integrare la documentazione",
-        "why_wrong": "L'art. 101, comma 1, fissa un termine da cinque a dieci giorni."
+        "text": "Assegna un termine non inferiore a dieci giorni e non superiore a trenta giorni per integrare la documentazione",
+        "why_wrong": "L'art. 101, comma 1, fissa un termine non inferiore a cinque giorni e non superiore a dieci giorni."
       },
       {
         "id": "d",
-        "text": "Può consentire l'integrazione anche dell'offerta economica, se incompleta",
+        "text": "Può consentire l'integrazione anche dell'offerta tecnica ed economica, se incomplete, entro il termine fissato nel bando",
         "why_wrong": "L'art. 101, comma 1, lett. a), esclude dal soccorso istruttorio la documentazione che compone l'offerta tecnica e l'offerta economica."
       }
     ],
@@ -528,7 +531,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -582,22 +586,22 @@
     "options": [
       {
         "id": "a",
-        "text": "A scelta della stazione appaltante, con il minor prezzo o con l'offerta economicamente più vantaggiosa",
+        "text": "A scelta della stazione appaltante, con il minor prezzo o con l'offerta economicamente più vantaggiosa indicata nei documenti di gara",
         "why_wrong": "L'art. 108, comma 2, lett. a), impone per la ristorazione scolastica il solo criterio del miglior rapporto qualità/prezzo."
       },
       {
         "id": "b",
-        "text": "Con il criterio del minor prezzo, trattandosi di servizio con caratteristiche standardizzate",
+        "text": "Con il criterio del minor prezzo, trattandosi di servizio con caratteristiche standardizzate o con condizioni definite dal mercato",
         "why_wrong": "Il minor prezzo (art. 108, comma 3) è ammesso per servizi standardizzati, ma la ristorazione scolastica rientra tra i casi del comma 2."
       },
       {
         "id": "c",
-        "text": "Con l'offerta economicamente più vantaggiosa individuata sulla base del solo elemento prezzo",
-        "why_wrong": "L'art. 108, comma 2, richiede il miglior rapporto qualità/prezzo, non il solo prezzo o costo."
+        "text": "Con l'offerta economicamente più vantaggiosa individuata sulla base dell'elemento prezzo o del costo del ciclo di vita",
+        "why_wrong": "L'art. 108, comma 2, richiede per la ristorazione scolastica il miglior rapporto qualità/prezzo, non l'elemento prezzo o costo previsto in via generale dal comma 1."
       },
       {
         "id": "d",
-        "text": "Esclusivamente con il criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo",
+        "text": "Esclusivamente con l'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo",
         "why_wrong": null
       }
     ],
@@ -616,7 +620,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -626,23 +631,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il nominativo dei subappaltatori",
-        "why_wrong": "L'art. 108, comma 9, riguarda i costi della manodopera e gli oneri di sicurezza, non i subappaltatori."
+        "text": "Il contratto collettivo nazionale applicato al personale dipendente, eccetto che nei servizi di natura intellettuale",
+        "why_wrong": "L'indicazione del contratto collettivo è disciplinata dall'art. 11, comma 3, come facoltà dell'operatore; l'art. 108, comma 9, riguarda i costi della manodopera e gli oneri di sicurezza."
       },
       {
         "id": "b",
-        "text": "Il costo del ciclo di vita del prodotto offerto",
+        "text": "Il costo del ciclo di vita del prodotto offerto, eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale",
         "why_wrong": "Il costo del ciclo di vita è un possibile criterio di comparazione costo/efficacia (art. 108, comma 1), non un'indicazione richiesta a pena di esclusione."
       },
       {
         "id": "c",
-        "text": "I costi della manodopera e gli oneri aziendali per la sicurezza sui luoghi di lavoro, eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale",
+        "text": "I costi della manodopera e gli oneri aziendali per la sicurezza, salvo nelle forniture senza posa in opera e nei servizi di natura intellettuale",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Il contratto collettivo applicato, senza eccezioni",
-        "why_wrong": "L'indicazione del contratto collettivo è disciplinata dall'art. 11, comma 3, come facoltà dell'operatore; l'art. 108, comma 9, riguarda i costi della manodopera e gli oneri di sicurezza."
+        "text": "I costi della manodopera e gli oneri aziendali per la sicurezza, ma soltanto nei contratti di lavori e servizi ad alta intensità di manodopera",
+        "why_wrong": "L'art. 108, comma 9, impone l'indicazione in tutti gli appalti, eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale, non solo in quelli ad alta intensità di manodopera."
       }
     ],
     "correct": "c",
@@ -660,7 +665,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

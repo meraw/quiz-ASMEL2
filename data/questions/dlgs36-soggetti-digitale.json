@@ -11,18 +11,18 @@
       },
       {
         "id": "b",
-        "text": "Nel provvedimento di aggiudicazione, per la sola fase di esecuzione",
+        "text": "Nel provvedimento di aggiudicazione, per le sole fasi di esecuzione del contratto e di collaudo delle prestazioni",
         "why_wrong": "L'art. 15, comma 1, colloca la nomina nel primo atto di avvio dell'intervento e la riferisce a tutte le fasi, dalla programmazione all'esecuzione."
       },
       {
         "id": "c",
-        "text": "Nella decisione di contrarre, per la sola fase di affidamento",
+        "text": "Nella decisione di contrarre, per la sola fase di affidamento, dopo l'approvazione del progetto da porre a base di gara",
         "why_wrong": "Per l'art. 15, comma 1, il RUP è nominato nel primo atto di avvio dell'intervento e opera anche per programmazione, progettazione ed esecuzione."
       },
       {
         "id": "d",
-        "text": "Dall'ANAC, su proposta della stazione appaltante, per ciascuna procedura",
-        "why_wrong": "L'art. 15, comma 1, attribuisce la nomina alle stazioni appaltanti e agli enti concedenti, non all'ANAC."
+        "text": "Dall'ANAC, su proposta della stazione appaltante, per le fasi di programmazione, progettazione, affidamento ed esecuzione",
+        "why_wrong": "L'art. 15, comma 1, attribuisce la nomina alle stazioni appaltanti e agli enti concedenti, nel primo atto di avvio dell'intervento, non all'ANAC."
       }
     ],
     "correct": "a",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,8 +95,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Si presume ogni volta che il funzionario abbia rapporti con un operatore economico concorrente",
-        "why_wrong": "L'art. 16, comma 2, esclude presunzioni: la minaccia va provata sulla base di presupposti specifici e documentati."
+        "text": "Si presume ogni volta che il funzionario abbia rapporti con un operatore economico concorrente, senza necessità di prova",
+        "why_wrong": "L'art. 16, comma 2, esclude presunzioni: la minaccia va provata da chi invoca il conflitto sulla base di presupposti specifici e documentati."
       },
       {
         "id": "b",
@@ -104,13 +105,13 @@
       },
       {
         "id": "c",
-        "text": "Deve essere accertata dall'ANAC prima dell'aggiudicazione",
+        "text": "Deve essere accertata d'ufficio dall'ANAC prima dell'aggiudicazione, su segnalazione della stazione appaltante",
         "why_wrong": "L'art. 16, comma 2, pone l'onere della prova su chi invoca il conflitto; non prevede un accertamento preventivo dell'ANAC."
       },
       {
         "id": "d",
-        "text": "Rileva anche se riferita a interessi solo potenziali",
-        "why_wrong": "L'art. 16, comma 2, richiede che la minaccia si riferisca a interessi effettivi."
+        "text": "Deve essere provata da chi invoca il conflitto, ma può riferirsi anche a interessi solo potenziali, pur in assenza di presupposti documentati",
+        "why_wrong": "L'art. 16, comma 2, richiede presupposti specifici e documentati e che la minaccia si riferisca a interessi effettivi."
       }
     ],
     "correct": "b",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -143,18 +145,18 @@
       },
       {
         "id": "b",
-        "text": "Darne comunicazione all'ANAC e proseguire l'attività fino alla sua decisione",
+        "text": "Darne comunicazione all'ANAC e proseguire l'attività nella procedura di aggiudicazione fino alla decisione dell'Autorità",
         "why_wrong": "L'art. 16, comma 3, prevede la comunicazione alla stazione appaltante e l'astensione, non la prosecuzione in attesa dell'ANAC."
       },
       {
         "id": "c",
-        "text": "Astenersi solo dalla fase di esecuzione, potendo partecipare alla valutazione delle offerte",
+        "text": "Darne comunicazione alla stazione appaltante e astenersi solo dall'esecuzione, potendo partecipare alla valutazione delle offerte",
         "why_wrong": "L'art. 16, comma 3, impone l'astensione sia dalla procedura di aggiudicazione sia dall'esecuzione."
       },
       {
         "id": "d",
-        "text": "Proseguire l'attività, dichiarando l'interesse nel verbale di gara",
-        "why_wrong": "L'art. 16, comma 3, richiede l'astensione, non la semplice dichiarazione a verbale."
+        "text": "Proseguire l'attività nella procedura, limitandosi a dichiarare l'interesse nel verbale di gara e a informarne il RUP",
+        "why_wrong": "L'art. 16, comma 3, richiede la comunicazione alla stazione appaltante e l'astensione, non la semplice dichiarazione a verbale."
       }
     ],
     "correct": "a",
@@ -172,7 +174,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,23 +321,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Sia trasmesso contestualmente a tutte le banche dati interessate",
-        "why_wrong": "L'art. 19, comma 2, prevede che il dato sia fornito a un solo sistema informativo, non a tutte le banche dati."
+        "text": "Sia trasmesso contestualmente a tutte le banche dati interessate, che lo conservano e lo rendono disponibile agli altri sistemi informativi",
+        "why_wrong": "L'art. 19, comma 2, prevede che il dato sia fornito una sola volta a un solo sistema informativo, non a tutte le banche dati."
       },
       {
         "id": "b",
-        "text": "Sia pubblicato una sola volta sul sito istituzionale della stazione appaltante",
-        "why_wrong": "L'art. 19, comma 2, riguarda la fornitura dei dati ai sistemi informativi, non la pubblicazione sul sito istituzionale."
+        "text": "Sia pubblicato una sola volta sul sito istituzionale della stazione appaltante e da lì acquisito dalle banche dati e dai sistemi informativi interessati",
+        "why_wrong": "L'art. 19, comma 2, riguarda la fornitura dei dati a un solo sistema informativo, che li rende disponibili, non la pubblicazione sul sito istituzionale."
       },
       {
         "id": "c",
-        "text": "Sia fornito una sola volta a un solo sistema informativo e non possa essere richiesto da altri sistemi o banche dati, ma sia reso disponibile dal sistema ricevente",
+        "text": "Sia fornito una sola volta a un solo sistema informativo, che lo rende disponibile, e non possa essere richiesto da altri sistemi o banche dati",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Sia inviato una sola volta per ciascuna procedura, ma ripetuto per ogni nuova gara",
-        "why_wrong": "L'art. 19, comma 2, non prevede la ripetizione dell'invio per ogni gara: il dato è reso disponibile dal sistema informativo ricevente."
+        "text": "Sia fornito a un solo sistema informativo una sola volta per ciascuna procedura, ma debba essere nuovamente inviato per ogni nuova gara",
+        "why_wrong": "L'art. 19, comma 2, non prevede la ripetizione dell'invio per ogni gara: il dato è fornito una sola volta ed è reso disponibile dal sistema informativo ricevente."
       }
     ],
     "correct": "c",
@@ -352,7 +355,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

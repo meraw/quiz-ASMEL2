@@ -95,22 +95,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Con riferimento alla struttura del mercato e all'effettiva assenza di alternative, previa verifica dell'accurata esecuzione del precedente contratto e della qualità della prestazione",
+        "text": "In base alla struttura del mercato e all'effettiva assenza di alternative, previa verifica di accurata esecuzione e qualità del precedente contratto",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Solo previa autorizzazione dell'ANAC",
+        "text": "Solo previa autorizzazione dell'ANAC, richiesta dalla stazione appaltante con provvedimento motivato in relazione alla specifica situazione di fatto",
         "why_wrong": "L'art. 49, comma 4, non richiede autorizzazioni dell'ANAC, ma una motivazione riferita alla struttura del mercato e all'assenza di alternative."
       },
       {
         "id": "c",
-        "text": "Solo se il nuovo contratto ha importo inferiore a 40.000 euro",
+        "text": "Solo se il nuovo contratto ha importo inferiore a 40.000 euro e l'operatore attesta i requisiti con dichiarazione sostitutiva di atto di notorietà",
         "why_wrong": "La soglia di 40.000 euro riguarda il controllo dei requisiti tramite dichiarazione sostitutiva (art. 52, comma 1), non la deroga alla rotazione."
       },
       {
         "id": "d",
-        "text": "Solo se l'affidamento precedente era avvenuto mediante procedura negoziata",
+        "text": "Solo se l'affidamento precedente era avvenuto mediante procedura negoziata senza bando, previa consultazione di almeno cinque operatori",
         "why_wrong": "L'art. 49, comma 4, non fa dipendere la deroga dal tipo di procedura del precedente affidamento."
       }
     ],
@@ -129,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -359,22 +360,22 @@
     "options": [
       {
         "id": "a",
-        "text": "È il metodo ordinario, a garanzia dell'imparzialità",
-        "why_wrong": "L'art. 50, comma 2, esclude il sorteggio come metodo ordinario, ammettendolo solo in situazioni particolari e motivate."
+        "text": "È il metodo ordinario di selezione degli operatori, da indicare nella decisione di contrarre a garanzia dell'imparzialità",
+        "why_wrong": "L'art. 50, comma 2, esclude il sorteggio come metodo ordinario, ammettendolo solo in situazioni particolari e specificamente motivate."
       },
       {
         "id": "b",
-        "text": "Non può essere utilizzato, se non in presenza di situazioni particolari e specificamente motivate, quando non risulti praticabile nessun altro metodo",
+        "text": "Non può essere utilizzato, salvo situazioni particolari e specificamente motivate in cui nessun altro metodo di selezione sia praticabile",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "È sempre vietato",
+        "text": "È sempre vietato, anche in presenza di situazioni particolari e specificamente motivate e in assenza di altri metodi praticabili",
         "why_wrong": "L'art. 50, comma 2, ammette il sorteggio in situazioni particolari e specificamente motivate, quando nessun altro metodo è praticabile."
       },
       {
         "id": "d",
-        "text": "È obbligatorio quando gli operatori iscritti nell'elenco sono più di dieci",
+        "text": "È obbligatorio quando gli operatori iscritti nell'elenco sono più di dieci, per individuare quelli da invitare alla successiva procedura negoziata",
         "why_wrong": "L'art. 50, comma 2, non prevede alcun obbligo di sorteggio legato al numero degli iscritti."
       }
     ],
@@ -393,7 +394,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -491,7 +493,7 @@
     "options": [
       {
         "id": "a",
-        "text": "Alla sola segnalazione alla Procura della Repubblica, mantenendo il contratto",
+        "text": "Alla sola segnalazione alla Procura della Repubblica, mantenendo in essere il contratto già stipulato con l'operatore",
         "why_wrong": "L'art. 52, comma 2, prevede la risoluzione del contratto, l'escussione della garanzia, la comunicazione all'ANAC e la sospensione dell'operatore."
       },
       {
@@ -501,12 +503,12 @@
       },
       {
         "id": "c",
-        "text": "All'esclusione dell'operatore da tutte le gare pubbliche per cinque anni",
+        "text": "All'esclusione dell'operatore da tutte le procedure di affidamento indette da qualsiasi stazione appaltante per un periodo fisso di cinque anni",
         "why_wrong": "L'art. 52, comma 2, prevede una sospensione da uno a dodici mesi, limitata alle procedure indette dalla medesima stazione appaltante."
       },
       {
         "id": "d",
-        "text": "Al soccorso istruttorio per consentire all'operatore di acquisire i requisiti mancanti",
+        "text": "Al soccorso istruttorio, assegnando all'operatore un termine da cinque a dieci giorni per acquisire i requisiti mancanti",
         "why_wrong": "L'art. 52, comma 2, non prevede il soccorso istruttorio, ma la risoluzione del contratto e le altre misure indicate."
       }
     ],
@@ -529,7 +531,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -539,17 +542,17 @@
     "options": [
       {
         "id": "a",
-        "text": "È pari al 2 per cento del prezzo base indicato nel bando",
+        "text": "È pari al 2 per cento del prezzo base indicato nell'avviso o nell'invito",
         "why_wrong": "L'art. 53, comma 2, pone un limite massimo dell'uno per cento per i contratti sotto soglia."
       },
       {
         "id": "b",
-        "text": "Non può superare il 5 per cento dell'importo contrattuale",
+        "text": "Non può superare il 5 per cento dell'importo contrattuale previsto nell'avviso o nell'invito",
         "why_wrong": "Il 5 per cento è la misura della garanzia definitiva, quando richiesta (art. 53, comma 4)."
       },
       {
         "id": "c",
-        "text": "È liberamente determinato dalla stazione appaltante",
+        "text": "È determinato liberamente dalla stazione appaltante nella decisione di contrarre",
         "why_wrong": "L'art. 53, comma 2, fissa un limite massimo dell'uno per cento."
       },
       {
@@ -573,7 +576,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
