@@ -56,7 +56,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 2, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -97,7 +97,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 6, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -159,7 +159,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 8, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -181,7 +181,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 9, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -202,7 +202,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 10, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -244,7 +244,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -265,7 +265,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -366,7 +366,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 32, comma 6", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -387,7 +387,7 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 34, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },

@@ -177,7 +177,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quater, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -198,7 +198,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -279,7 +279,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -301,7 +301,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-quinquies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (opzione b). Il why_wrong afferma che «Il termine ragionevole, comunque non superiore a sei mesi, è previsto [...] solo per l'annullamento d'ufficio dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici», ma nel file il termine ragionevole vale per ogni annullamento d'ufficio, mentre solo il limite massimo di sei mesi è riferito a tali provvedimenti: «può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ((sei mesi)) dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici» (art. 21-novies, comma 1). Correzione suggerita: «Il termine ragionevole è previsto dall'art. 21-novies, comma 1, per l'annullamento d'ufficio, con il limite di sei mesi per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici; l'art. 21-quinquies non prevede termini per la revoca.»",
     "rev": 2,
     "no_shuffle": false
   },
@@ -342,7 +343,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-septies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -403,7 +404,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-octies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -484,7 +485,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-novies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -607,7 +608,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 21-decies, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
