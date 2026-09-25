@@ -216,7 +216,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false,
     "rev": 2
   },
@@ -261,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false,
     "rev": 2
   },
@@ -350,7 +350,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false,
     "rev": 2
   },
@@ -483,7 +483,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false,
     "rev": 2
   },
@@ -748,7 +748,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false,
     "rev": 2
   },
@@ -837,7 +837,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 3 non superato (opzione d). La formulazione «può ricevere in ogni caso il sostegno di un solo fondo, anche quando corrisponde a un obiettivo strategico» è ambigua: letta come facoltà («può ricevere il sostegno di un solo fondo») è un'affermazione vera, perché il file consente a una priorità di avvalersi di uno o più fondi: «Una priorità può avvalersi del sostegno di uno o più fondi, a meno che non riceva il sostegno del JTF o riguardi l'assistenza tecnica attuata a norma dell'articolo 36, paragrafo 4, o dell'articolo 37» (art. 22, par. 2). Il distrattore può quindi essere difeso come corretto. Correzione suggerita: «non può mai ricevere il sostegno di più fondi, anche quando corrisponde a un obiettivo strategico».",
     "no_shuffle": false,
     "rev": 2
   },
