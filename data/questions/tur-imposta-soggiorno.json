@@ -1,0 +1,222 @@
+[
+  {
+    "id": "tur-ids-001",
+    "subject": "normativa-turistica",
+    "question": "Ai sensi dell'art. 4 del d.lgs. 23/2011, quali enti possono istituire l'imposta di soggiorno?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tutti i comuni, senza distinzione",
+        "why_wrong": "L'art. 4, comma 1, limita la facoltà ai comuni capoluogo di provincia, alle unioni di comuni e ai comuni inclusi negli elenchi regionali delle località turistiche o città d'arte."
+      },
+      {
+        "id": "b",
+        "text": "Le regioni e le province, con propria legge",
+        "why_wrong": "L'art. 4, comma 1, attribuisce la facoltà a comuni e unioni di comuni, con deliberazione del consiglio."
+      },
+      {
+        "id": "c",
+        "text": "I comuni capoluogo di provincia, le unioni di comuni e i comuni inclusi negli elenchi regionali delle località turistiche o città d'arte",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Solo i comuni che hanno sede nelle isole minori",
+        "why_wrong": "I comuni delle isole minori possono istituire, in alternativa all'imposta di soggiorno, il contributo di sbarco (art. 4, comma 3-bis)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 4, comma 1, consente ai comuni capoluogo di provincia, alle unioni di comuni e ai comuni inclusi negli elenchi regionali delle località turistiche o città d'arte di istituire, con deliberazione del consiglio, un'imposta di soggiorno a carico di chi alloggia nelle strutture ricettive del loro territorio.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1",
+        "text": "I comuni capoluogo di provincia, le unioni di comuni nonché i comuni inclusi negli elenchi regionali delle località turistiche o città d'arte possono istituire, con deliberazione del consiglio, un'imposta di soggiorno a carico di coloro che alloggiano nelle strutture ricettive situate sul proprio territorio"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 23/2011",
+      "article": "art. 4, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 14 marzo 2011 , n. 23.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-ids-002",
+    "subject": "normativa-turistica",
+    "question": "Un Comune incluso nell'elenco regionale delle città d'arte istituisce l'imposta di soggiorno. In base alla regola generale dell'art. 4, comma 1, del d.lgs. 23/2011, come deve essere determinata la misura dell'imposta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In misura fissa per tutte le strutture, fino a 10 euro per notte",
+        "why_wrong": "L'art. 4, comma 1, richiede criteri di gradualità in proporzione al prezzo e un limite di 5 euro per notte."
+      },
+      {
+        "id": "b",
+        "text": "Secondo criteri di gradualità in proporzione al prezzo, sino a 5 euro per notte di soggiorno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Fino a 2,50 euro per ogni giorno di permanenza",
+        "why_wrong": "2,50 euro è il massimo ordinario del contributo di sbarco nelle isole minori (art. 4, comma 3-bis)."
+      },
+      {
+        "id": "d",
+        "text": "In percentuale sul prezzo del soggiorno, senza limite massimo",
+        "why_wrong": "L'art. 4, comma 1, fissa un limite massimo di 5 euro per notte di soggiorno."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4, comma 1, prevede che l'imposta di soggiorno si applichi secondo criteri di gradualità in proporzione al prezzo, sino a 5 euro per notte di soggiorno.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1",
+        "text": "da applicare, secondo criteri di gradualità in proporzione al prezzo, sino a 5 euro per notte di soggiorno."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 23/2011",
+      "article": "art. 4, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 14 marzo 2011 , n. 23.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-ids-003",
+    "subject": "normativa-turistica",
+    "question": "Ai sensi dell'art. 4, comma 1-bis, del d.lgs. 23/2011, i comuni capoluogo di provincia possono applicare l'imposta di soggiorno fino all'importo massimo previsto dall'art. 14, comma 16, lett. e), del d.l. 78/2010 quando, in base all'ultima rilevazione disponibile, abbiano avuto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Presenze turistiche in numero venti volte superiore a quello dei residenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Presenze turistiche in numero dieci volte superiore a quello dei residenti",
+        "why_wrong": "L'art. 4, comma 1-bis, richiede presenze venti volte superiori ai residenti."
+      },
+      {
+        "id": "c",
+        "text": "Una popolazione residente superiore a 100.000 abitanti",
+        "why_wrong": "L'art. 4, comma 1-bis, fa riferimento al rapporto tra presenze turistiche e residenti, non alla sola popolazione."
+      },
+      {
+        "id": "d",
+        "text": "L'inclusione nell'elenco regionale delle città d'arte",
+        "why_wrong": "L'inclusione negli elenchi regionali è un presupposto per istituire l'imposta (comma 1), non per superarne il limite ordinario."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 1-bis consente ai comuni capoluogo di provincia con presenze turistiche in numero venti volte superiore a quello dei residenti, secondo l'ultima rilevazione disponibile, di applicare l'imposta fino all'importo massimo previsto da un'altra disposizione di legge richiamata.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1-bis",
+        "text": "Nei comuni capoluogo di provincia che, in base all'ultima rilevazione resa disponibile da parte delle amministrazioni pubbliche competenti per la raccolta e l'elaborazione di dati statistici, abbiano avuto presenze turistiche in numero venti volte superiore a quello dei residenti"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 23/2011",
+      "article": "art. 4, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 14 marzo 2011 , n. 23.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-ids-004",
+    "subject": "normativa-turistica",
+    "question": "Il gestore di un albergo chiede all'ufficio tributi del Comune quali siano i suoi obblighi relativi all'imposta di soggiorno. Ai sensi dell'art. 4, comma 1-ter, del d.lgs. 23/2011, il gestore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non ha alcun obbligo, perché l'imposta grava solo su chi alloggia",
+        "why_wrong": "Il comma 1-ter rende il gestore responsabile del pagamento, con diritto di rivalsa sui soggetti passivi, e della dichiarazione."
+      },
+      {
+        "id": "b",
+        "text": "È responsabile del pagamento, con diritto di rivalsa sui soggetti passivi, e presenta la dichiarazione in via telematica entro il 30 giugno dell'anno successivo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Presenta la dichiarazione in forma cartacea entro il 31 dicembre dell'anno di riferimento",
+        "why_wrong": "Il comma 1-ter prevede la presentazione esclusivamente in via telematica entro il 30 giugno dell'anno successivo."
+      },
+      {
+        "id": "d",
+        "text": "È responsabile del pagamento, ma senza diritto di rivalsa sugli ospiti",
+        "why_wrong": "Il comma 1-ter riconosce espressamente al gestore il diritto di rivalsa sui soggetti passivi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1-ter rende il gestore della struttura ricettiva responsabile del pagamento dell'imposta, con diritto di rivalsa sui soggetti passivi, della presentazione della dichiarazione e degli altri adempimenti; la dichiarazione va presentata cumulativamente ed esclusivamente in via telematica entro il 30 giugno dell'anno successivo a quello del presupposto impositivo.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1-ter",
+        "text": "con diritto di rivalsa sui soggetti passivi, della presentazione della dichiarazione, nonché degli ulteriori adempimenti previsti dalla legge e dal regolamento comunale. La dichiarazione deve essere presentata cumulativamente ed esclusivamente in via telematica entro il 30 giugno dell'anno successivo a quello in cui si è verificato il presupposto impositivo"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 23/2011",
+      "article": "art. 4, comma 1-ter",
+      "file": "sources/DECRETO LEGISLATIVO 14 marzo 2011 , n. 23.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-ids-005",
+    "subject": "normativa-turistica",
+    "question": "Un Comune con sede in un'isola minore vuole introdurre un prelievo sui passeggeri che sbarcano con vettori di linea. Ai sensi dell'art. 4, comma 3-bis, del d.lgs. 23/2011, può istituire:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un contributo di sbarco in aggiunta all'imposta di soggiorno, fino a 5 euro",
+        "why_wrong": "Il comma 3-bis prevede il contributo di sbarco in alternativa all'imposta di soggiorno, con un massimo ordinario di 2,50 euro."
+      },
+      {
+        "id": "b",
+        "text": "Solo l'imposta di soggiorno, perché il contributo di sbarco è riservato ai comuni capoluogo",
+        "why_wrong": "Il contributo di sbarco è previsto proprio per i comuni con sede nelle isole minori o nel cui territorio insistono isole minori."
+      },
+      {
+        "id": "c",
+        "text": "Un contributo di sbarco fino a 2,50 euro, dovuto anche dai residenti nel Comune",
+        "why_wrong": "Il comma 3-bis stabilisce che il contributo di sbarco non è dovuto dai soggetti residenti nel comune."
+      },
+      {
+        "id": "d",
+        "text": "Con regolamento, in alternativa all'imposta di soggiorno, un contributo di sbarco fino a un massimo di 2,50 euro",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 3-bis consente ai comuni con sede giuridica nelle isole minori, o nel cui territorio insistono isole minori, di istituire con regolamento, in alternativa all'imposta di soggiorno, un contributo di sbarco fino a 2,50 euro a carico dei passeggeri che sbarcano con vettori di linea o aeronavali; il contributo è riscosso con il biglietto dalle compagnie di navigazione e aeree.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 3-bis",
+        "text": "in alternativa all'imposta di soggiorno di cui al comma 1 del presente articolo, un contributo di sbarco, da applicare fino ad un massimo di euro 2,50, ai passeggeri che sbarcano sul territorio dell'isola minore"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 23/2011",
+      "article": "art. 4, comma 3-bis",
+      "file": "sources/DECRETO LEGISLATIVO 14 marzo 2011 , n. 23.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
