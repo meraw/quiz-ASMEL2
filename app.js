@@ -26,7 +26,7 @@
   const STORE_KEY = 'asmel-quiz-v1'; // name of the localStorage entry
   const APP_ID = 'asmel-quiz';       // written in backups, checked on import
   // Question statuses and validation rules live in validation.js (shared with tools/validate.js)
-  const { STATUS_VALUES, validateBank } = window.QuizValidation;
+  const { STATUS_VALUES, validateBank, optionLengthCue } = window.QuizValidation;
   // Study rules (history of answers, consolidated, daily session, estimate) live in study.js
   const Study = window.QuizStudy;
   const STATUS_LABELS = { verificata: 'Ver.', rivista: 'Riv.', da_verificare: 'DaV', da_rivedere: 'DaR', demo: 'Demo' };
@@ -1054,6 +1054,22 @@
         STATUS_VALUES.map((st) => '<td class="num">' + c[st] + '</td>').join('') + '</tr>';
     }).join('');
 
+    // Length cue (see optionLengthCue in validation.js): warning only, these questions stay in every mode
+    const lengthRows = data.subjects.filter((s) => s.id !== englishId()).map((s) => {
+      const qs = all.filter((q) => q.subject === s.id);
+      return { s, total: qs.length, flagged: qs.filter((q) => optionLengthCue(q).flagged).length };
+    }).filter((r) => r.flagged);
+    const lengthFlagged = lengthRows.reduce((n, r) => n + r.flagged, 0);
+    const lengthHTML = lengthFlagged
+      ? '<h2>Avviso: risposta corretta più lunga</h2>' +
+        '<div class="card notice"><p class="small">' + lengthFlagged + ' domande hanno la risposta corretta più lunga di tutte le altre opzioni ' +
+        'di almeno il 25%: la lunghezza può suggerire la risposta. È solo un avviso: le domande restano nell\'allenamento e nella simulazione.</p></div>' +
+        '<div class="card table-scroll"><table class="diag-table"><thead><tr><th>Materia</th><th class="num">Segnalate</th><th class="num">Tot.</th></tr></thead><tbody>' +
+        lengthRows.map((r) => '<tr><td>' + esc(r.s.name) + '<br><code class="small muted">' + esc(r.s.id) + '</code></td><td class="num">' + r.flagged +
+          '</td><td class="num">' + r.total + '</td></tr>').join('') +
+        '</tbody></table><p class="small muted">Dettaglio per file: <code>node tools/check_lengths.js</code></p></div>'
+      : '';
+
     // Questions to fix (excluded from the quiz) and any other question with a review note
     const noted = data.toRevise.concat(data.questions.filter((q) => q.review_note)).filter((q) => q.subject !== englishId());
     const notedHTML = noted.length
@@ -1079,7 +1095,8 @@
       notedHTML +
       '<h2>Domande per materia</h2><div class="card table-scroll"><table class="diag-table"><thead><tr><th>Materia</th><th class="num">Tot.</th>' +
         STATUS_VALUES.map((st) => '<th class="num">' + STATUS_LABELS[st] + '</th>').join('') + '</tr></thead><tbody>' + rows + '</tbody></table>' +
-        '<p class="small muted">Ver. = verificata · Riv. = rivista · DaV = da verificare · DaR = da rivedere · Demo = demo</p></div>'
+        '<p class="small muted">Ver. = verificata · Riv. = rivista · DaV = da verificare · DaR = da rivedere · Demo = demo</p></div>' +
+      lengthHTML
     );
   }
 
