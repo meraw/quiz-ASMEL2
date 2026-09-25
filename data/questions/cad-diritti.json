@@ -1,0 +1,274 @@
+[
+  {
+    "id": "inf-cad-dir-001",
+    "subject": "informatica",
+    "question": "Secondo le definizioni del Codice dell'amministrazione digitale (d.lgs. 82/2005), il domicilio digitale è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, valido ai fini delle comunicazioni elettroniche aventi valore legale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi",
+        "why_wrong": "Questa è la definizione di identità digitale (art. 1, comma 1, lett. u-quater), non di domicilio digitale."
+      },
+      {
+        "id": "c",
+        "text": "Qualsiasi servizio di una amministrazione pubblica fruibile a distanza per via elettronica",
+        "why_wrong": "Questa è la definizione di servizio in rete o on-line (art. 1, comma 1, lett. n-quater)."
+      },
+      {
+        "id": "d",
+        "text": "Il sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi",
+        "why_wrong": "Questa è la definizione di posta elettronica certificata (art. 1, comma 1, lett. v-bis), che è uno dei servizi presso cui il domicilio digitale può essere eletto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 1, lett. n-ter), definisce il domicilio digitale come un indirizzo elettronico eletto presso un servizio di PEC o un servizio elettronico di recapito certificato qualificato ai sensi del Regolamento eIDAS, valido ai fini delle comunicazioni elettroniche aventi valore legale.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1",
+        "text": "n-ter) domicilio digitale: un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 1, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-dir-002",
+    "subject": "informatica",
+    "question": "Ai sensi dell'art. 3-bis del CAD, hanno l'obbligo di dotarsi di un domicilio digitale iscritto negli elenchi di cui agli articoli 6-bis o 6-ter:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le pubbliche amministrazioni e gli altri soggetti di cui all'art. 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Tutte le persone fisiche residenti in Italia, al compimento della maggiore età",
+        "why_wrong": "Per le persone fisiche l'art. 3-bis, comma 1-bis, prevede una facoltà di eleggere il domicilio digitale, non un obbligo."
+      },
+      {
+        "id": "c",
+        "text": "Le sole pubbliche amministrazioni centrali",
+        "why_wrong": "L'art. 3-bis, comma 1, estende l'obbligo anche ai professionisti iscritti in albi ed elenchi e ai soggetti iscritti nel registro delle imprese."
+      },
+      {
+        "id": "d",
+        "text": "Le sole imprese iscritte nel registro delle imprese",
+        "why_wrong": "L'art. 3-bis, comma 1, pone l'obbligo anche a carico dei soggetti di cui all'art. 2, comma 2, e dei professionisti iscritti in albi ed elenchi."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3-bis, comma 1, obbliga a dotarsi di un domicilio digitale iscritto negli elenchi degli artt. 6-bis o 6-ter i soggetti dell'art. 2, comma 2 (tra cui le pubbliche amministrazioni), i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese.",
+    "evidence": [
+      {
+        "ref": "art. 3-bis, comma 1",
+        "text": "I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese hanno l'obbligo di dotarsi di un domicilio digitale iscritto nell'elenco di cui agli articoli 6-bis o 6-ter."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 3-bis, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-dir-003",
+    "subject": "informatica",
+    "question": "Un pensionato, persona fisica non iscritta ad alcun albo né al registro delle imprese, vuole ricevere le comunicazioni del Comune presso un domicilio digitale. In base all'art. 3-bis del CAD:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ha la facoltà di eleggere un domicilio digitale, da iscrivere nell'elenco di cui all'art. 6-quater, anche recandosi presso l'ufficio anagrafe del proprio comune di residenza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Non può eleggere un domicilio digitale, riservato a professionisti e imprese",
+        "why_wrong": "L'art. 3-bis, comma 1-bis, riconosce a chiunque la facoltà di eleggere o modificare il proprio domicilio digitale."
+      },
+      {
+        "id": "c",
+        "text": "È obbligato a dotarsi di un domicilio digitale iscritto nell'Indice INI-PEC di cui all'art. 6-bis",
+        "why_wrong": "Per la persona fisica si tratta di una facoltà (comma 1-bis) e il domicilio si iscrive nell'elenco dell'art. 6-quater; l'INI-PEC riguarda imprese e professionisti."
+      },
+      {
+        "id": "d",
+        "text": "Può eleggerlo solo tramite un professionista abilitato iscritto all'albo",
+        "why_wrong": "L'art. 3-bis, comma 1-ter, consente alla persona fisica di eleggerlo tramite il punto di accesso dell'art. 64-bis, il servizio on-line dell'ANPR o l'ufficio anagrafe del comune di residenza."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Per chi non è obbligato, l'art. 3-bis, comma 1-bis, prevede la facoltà di eleggere un domicilio digitale da iscrivere nell'elenco dell'art. 6-quater; il comma 1-ter consente alle persone fisiche di farlo anche recandosi presso l'ufficio anagrafe del comune di residenza.",
+    "evidence": [
+      {
+        "ref": "art. 3-bis, comma 1-bis",
+        "text": "Fermo restando quanto previsto al comma 1, chiunque ha facoltà di eleggere o modificare il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater."
+      },
+      {
+        "ref": "art. 3-bis, comma 1-ter",
+        "text": "ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 3-bis, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-dir-004",
+    "subject": "informatica",
+    "question": "Ai sensi dell'art. 64, comma 2-quater, del CAD, l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite:",
+    "options": [
+      {
+        "id": "a",
+        "text": "SPID, nonché la carta di identità elettronica",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il domicilio digitale del cittadino iscritto nell'elenco di cui all'art. 6-quater",
+        "why_wrong": "Il domicilio digitale (art. 3-bis) serve per le comunicazioni aventi valore legale, non per l'identificazione informatica ai servizi in rete."
+      },
+      {
+        "id": "c",
+        "text": "La sola firma digitale basata su certificato qualificato",
+        "why_wrong": "L'art. 64, comma 2-quater, indica SPID e la carta di identità elettronica, non la firma digitale."
+      },
+      {
+        "id": "d",
+        "text": "Esclusivamente le credenziali rilasciate da ciascuna amministrazione",
+        "why_wrong": "L'art. 64, comma 2-quater, individua SPID e la carta di identità elettronica come strumenti di accesso."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 64, comma 2-quater, stabilisce che l'accesso ai servizi in rete delle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, il sistema pubblico per la gestione dell'identità digitale istituito dall'AgID, nonché tramite la carta di identità elettronica.",
+    "evidence": [
+      {
+        "ref": "art. 64, comma 2-quater",
+        "text": "L'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, nonché tramite la carta di identità elettronica."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 64, comma 2-quater",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-dir-005",
+    "subject": "informatica",
+    "question": "Un Comune deve consentire ai cittadini il pagamento elettronico della tassa sui rifiuti. Secondo l'art. 5 del CAD, la piattaforma tecnologica tramite cui le pubbliche amministrazioni accettano i pagamenti elettronici è messa a disposizione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dalla Presidenza del Consiglio dei ministri, attraverso il Sistema pubblico di connettività",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Dalla Banca d'Italia, sentita l'AgID",
+        "why_wrong": "Per l'art. 5, comma 4, la Banca d'Italia è sentita dall'AgID per le linee guida; la piattaforma è messa a disposizione dalla Presidenza del Consiglio (comma 2)."
+      },
+      {
+        "id": "c",
+        "text": "Dal Ministero dell'economia e delle finanze - Ragioneria generale dello Stato",
+        "why_wrong": "Il comma 2-quinquies prevede solo che al MEF - Ragioneria generale dello Stato siano messe a disposizione le informazioni sui pagamenti."
+      },
+      {
+        "id": "d",
+        "text": "Da ciascun Comune, tramite un proprio sistema autonomo",
+        "why_wrong": "L'art. 5, commi 1 e 2, obbliga ad accettare i pagamenti tramite la piattaforma messa a disposizione dalla Presidenza del Consiglio dei ministri."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, comma 1, obbliga i soggetti dell'art. 2, comma 2, ad accettare i pagamenti elettronici tramite la piattaforma di cui al comma 2, che la Presidenza del Consiglio dei ministri mette a disposizione attraverso il Sistema pubblico di connettività.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 2",
+        "text": "Al fine di dare attuazione al comma 1, la Presidenza del Consiglio dei ministri mette a disposizione, attraverso il Sistema pubblico di connettività, una piattaforma tecnologica per l'interconnessione e l'interoperabilità tra le pubbliche amministrazioni e i prestatori di servizi di pagamento abilitati"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 5, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-dir-006",
+    "subject": "informatica",
+    "question": "Una cittadina iscritta nell'ANPR vuole delegare ai suoi tre figli, titolari di identità digitale con livello di sicurezza almeno significativo, l'accesso ai servizi in rete delle pubbliche amministrazioni. In base all'art. 64-ter del CAD:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può delegare non più di due soggetti; la delega è revocabile in ogni momento",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Può delegare tutti e tre i figli, perché il CAD non prevede limiti numerici",
+        "why_wrong": "L'art. 64-ter, comma 1, consente la delega a non più di due soggetti iscritti nell'ANPR."
+      },
+      {
+        "id": "c",
+        "text": "Può delegare un solo soggetto e la delega è irrevocabile per un anno",
+        "why_wrong": "L'art. 64-ter consente fino a due delegati (comma 1) e la delega è revocabile in ogni momento (comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Può delegare solo un soggetto sottoposto alla tutela del Ministero della giustizia",
+        "why_wrong": "Il comma 3 riguarda le informazioni su tutori, curatori e amministratori di sostegno; il comma 1 consente la delega fino a due soggetti iscritti nell'ANPR."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 64-ter, comma 1, consente al cittadino iscritto nell'ANPR di delegare l'accesso ai servizi in rete a non più di due soggetti iscritti nell'ANPR e titolari di identità digitale con livello di sicurezza almeno significativo; per il comma 2 la delega è revocabile in ogni momento.",
+    "evidence": [
+      {
+        "ref": "art. 64-ter, comma 1",
+        "text": "non più di due soggetti iscritti"
+      },
+      {
+        "ref": "art. 64-ter, comma 2",
+        "text": "La delega è revocabile in ogni momento."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 64-ter, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "inf-cad-com-001",
+    "subject": "informatica",
+    "question": "L'ufficio tributi di un Comune deve trasmettere un documento alla Regione nell'ambito di un procedimento amministrativo e intende utilizzare il fax. In base all'art. 47 del CAD:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La trasmissione a mezzo fax è in ogni caso esclusa",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il fax è ammesso se il documento reca la segnatura di protocollo",
+        "why_wrong": "La segnatura di protocollo è uno dei requisiti di provenienza (art. 47, comma 2, lett. b), ma la trasmissione a mezzo fax è comunque esclusa."
+      },
+      {
+        "id": "c",
+        "text": "Il fax è ammesso solo se seguito dall'invio dell'originale cartaceo",
+        "why_wrong": "L'art. 47, comma 2, esclude in ogni caso la trasmissione a mezzo fax tra pubbliche amministrazioni."
+      },
+      {
+        "id": "d",
+        "text": "Il fax è ammesso se la Regione non dispone di un indirizzo di posta elettronica certificata",
+        "why_wrong": "L'art. 47, comma 3, obbliga le PA a istituire almeno una casella PEC per ciascun registro di protocollo e il comma 2 esclude comunque il fax."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 47, comma 1, le comunicazioni di documenti tra pubbliche amministrazioni avvengono tramite posta elettronica o cooperazione applicativa; il comma 2 elenca i modi per verificarne la provenienza ed esclude in ogni caso la trasmissione di documenti a mezzo fax.",
+    "evidence": [
+      {
+        "ref": "art. 47, comma 2, lett. c)",
+        "text": "È in ogni caso esclusa la trasmissione di documenti a mezzo fax;"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 47, comma 2, lett. c)",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-com-002",
+    "subject": "informatica",
+    "question": "Secondo l'art. 48 del CAD, la trasmissione telematica di comunicazioni che necessitano di una ricevuta di invio e di una ricevuta di consegna avviene mediante:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La posta elettronica certificata o altre soluzioni tecnologiche individuate con le Linee guida",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La posta elettronica ordinaria, purché il messaggio sia sottoscritto con firma digitale",
+        "why_wrong": "La firma digitale è uno dei requisiti di provenienza delle comunicazioni tra PA (art. 47, comma 2, lett. a); per le ricevute di invio e consegna l'art. 48 richiede la PEC o le soluzioni individuate dalle Linee guida."
+      },
+      {
+        "id": "c",
+        "text": "La cooperazione applicativa tra i sistemi informatici delle amministrazioni",
+        "why_wrong": "La cooperazione applicativa è una modalità di comunicazione tra PA prevista dall'art. 47, comma 1, non lo strumento indicato dall'art. 48 per le ricevute di invio e consegna."
+      },
+      {
+        "id": "d",
+        "text": "Il fax, con rapporto di trasmissione allegato",
+        "why_wrong": "La trasmissione a mezzo fax è esclusa dall'art. 47, comma 2; l'art. 48 indica la PEC."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 48, comma 1, prevede che le comunicazioni che necessitano di ricevuta di invio e di consegna avvengano con la posta elettronica certificata o con altre soluzioni tecnologiche individuate dalle Linee guida; per il comma 2 tale trasmissione equivale, salvo diversa previsione di legge, alla notificazione per mezzo della posta.",
+    "evidence": [
+      {
+        "ref": "art. 48, comma 1",
+        "text": "La trasmissione telematica di comunicazioni che necessitano di una ricevuta di invio e di una ricevuta di consegna avviene mediante la posta elettronica certificata"
+      },
+      {
+        "ref": "art. 48, comma 2",
+        "text": "La trasmissione del documento informatico per via telematica, effettuata ai sensi del comma 1, equivale, salvo che la legge disponga diversamente, alla notificazione per mezzo della posta."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 48, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-com-003",
+    "subject": "informatica",
+    "question": "Lunedì un'impresa invia via PEC un documento informatico a un Comune; il messaggio è reso disponibile nella casella del Comune lo stesso giorno, ma il funzionario lo apre soltanto il giovedì successivo. Ai sensi dell'art. 45, comma 2, del CAD, il documento si intende consegnato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il lunedì, quando è stato reso disponibile all'indirizzo elettronico dichiarato dal destinatario",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il giovedì, quando il funzionario ha aperto il messaggio",
+        "why_wrong": "Per l'art. 45, comma 2, rileva il momento in cui il documento è reso disponibile nella casella del destinatario, non la sua lettura."
+      },
+      {
+        "id": "c",
+        "text": "Solo dopo la protocollazione da parte del Comune",
+        "why_wrong": "L'art. 45, comma 2, lega la consegna alla messa a disposizione nella casella del destinatario, non alla protocollazione."
+      },
+      {
+        "id": "d",
+        "text": "Al momento in cui è stato inviato al gestore del mittente",
+        "why_wrong": "L'invio al proprio gestore determina, per l'art. 45, comma 2, la spedizione, non la consegna."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 45, comma 2, stabilisce che il documento informatico trasmesso per via telematica si intende spedito se inviato al proprio gestore e consegnato se reso disponibile all'indirizzo elettronico dichiarato dal destinatario, nella casella messa a disposizione dal gestore: la lettura successiva non rileva.",
+    "evidence": [
+      {
+        "ref": "art. 45, comma 2",
+        "text": "Il documento informatico trasmesso per via telematica si intende spedito dal mittente se inviato al proprio gestore, e si intende consegnato al destinatario se reso disponibile all'indirizzo elettronico da questi dichiarato, nella casella di posta elettronica del destinatario messa a disposizione dal gestore."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 45, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "inf-hw-001",
+    "subject": "informatica",
+    "question": "Il componente del computer che esegue le istruzioni dei programmi ed elabora i dati è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La CPU (unità centrale di elaborazione)",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La RAM",
+        "why_wrong": "La RAM è la memoria di lavoro che contiene temporaneamente dati e programmi in uso, ma non esegue le istruzioni."
+      },
+      {
+        "id": "c",
+        "text": "La ROM",
+        "why_wrong": "La ROM è una memoria non volatile che contiene istruzioni permanenti, come quelle di avvio; non elabora i dati."
+      },
+      {
+        "id": "d",
+        "text": "Il disco rigido",
+        "why_wrong": "Il disco rigido è una memoria di massa per l'archiviazione permanente dei dati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La CPU (Central Processing Unit) è il processore: preleva, decodifica ed esegue le istruzioni dei programmi ed elabora i dati. Le memorie (RAM, ROM, dischi) conservano dati e istruzioni, ma non li elaborano.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: CPU",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-002",
+    "subject": "informatica",
+    "question": "Un impiegato sta redigendo un documento senza averlo mai salvato quando un'interruzione di corrente spegne il computer e il testo va perso. In quale memoria si trovava il documento al momento dello spegnimento?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella RAM, che è una memoria volatile",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Nella ROM, che è una memoria volatile",
+        "why_wrong": "La ROM è una memoria non volatile e contiene istruzioni permanenti, non i documenti in lavorazione."
+      },
+      {
+        "id": "c",
+        "text": "Sul disco SSD, che si cancella in assenza di corrente",
+        "why_wrong": "L'SSD è una memoria di massa non volatile: i dati salvati sopravvivono allo spegnimento."
+      },
+      {
+        "id": "d",
+        "text": "Nella chiavetta USB collegata al computer",
+        "why_wrong": "La chiavetta USB è una memoria di massa non volatile e il documento non era stato salvato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il documento aperto e non salvato risiede nella RAM, la memoria di lavoro. La RAM è volatile: il suo contenuto si perde quando manca l'alimentazione. Il salvataggio su una memoria di massa (disco, SSD, chiavetta) rende i dati persistenti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: memorie",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-003",
+    "subject": "informatica",
+    "question": "Quanti bit compongono un byte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "8",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "2",
+        "why_wrong": "Un bit assume due soli valori (0 o 1), ma un byte è formato da 8 bit."
+      },
+      {
+        "id": "c",
+        "text": "16",
+        "why_wrong": "16 bit corrispondono a 2 byte."
+      },
+      {
+        "id": "d",
+        "text": "1024",
+        "why_wrong": "1024 è il fattore usato tradizionalmente per passare, ad esempio, dal byte al kilobyte, non il numero di bit in un byte."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il bit è l'unità minima di informazione (0 o 1); il byte è un gruppo di 8 bit. I multipli del byte sono, in ordine crescente, kilobyte, megabyte, gigabyte e terabyte.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: unità di misura",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-004",
+    "subject": "informatica",
+    "question": "Quale delle seguenti è una periferica di input?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La tastiera",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La stampante",
+        "why_wrong": "La stampante è una periferica di output: riproduce su carta i dati elaborati dal computer."
+      },
+      {
+        "id": "c",
+        "text": "Il monitor",
+        "why_wrong": "Il monitor è una periferica di output: visualizza i risultati dell'elaborazione."
+      },
+      {
+        "id": "d",
+        "text": "Gli altoparlanti",
+        "why_wrong": "Gli altoparlanti sono una periferica di output: riproducono i suoni prodotti dal computer."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le periferiche di input inviano dati al computer (tastiera, mouse, scanner, microfono); quelle di output restituiscono all'utente i risultati (monitor, stampante, altoparlanti).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: periferiche",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-005",
+    "subject": "informatica",
+    "question": "Il software che gestisce le risorse hardware del computer e consente l'esecuzione degli altri programmi è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il sistema operativo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il software applicativo",
+        "why_wrong": "Il software applicativo (videoscrittura, foglio di calcolo, browser) svolge compiti specifici per l'utente e funziona appoggiandosi al sistema operativo."
+      },
+      {
+        "id": "c",
+        "text": "Il foglio elettronico",
+        "why_wrong": "Il foglio elettronico è un'applicazione per calcoli su tabelle, cioè software applicativo."
+      },
+      {
+        "id": "d",
+        "text": "Il programma di videoscrittura",
+        "why_wrong": "Il programma di videoscrittura è software applicativo per la redazione di testi."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il sistema operativo è il software di base: gestisce processore, memoria, periferiche e file, e fornisce l'ambiente in cui vengono eseguiti i programmi applicativi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: sistema operativo e software applicativo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-006",
+    "subject": "informatica",
+    "question": "Un Comune vuole adottare un programma di cui possa esaminare, modificare e ridistribuire il codice sorgente. Quale tipo di licenza deve cercare?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Una licenza open source",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Una licenza freeware",
+        "why_wrong": "Il freeware è gratuito, ma di norma non rende disponibile il codice sorgente né ne consente la modifica."
+      },
+      {
+        "id": "c",
+        "text": "Una licenza proprietaria",
+        "why_wrong": "Il software proprietario riserva al titolare i diritti sul codice, che di norma non è reso disponibile né modificabile dall'utente."
+      },
+      {
+        "id": "d",
+        "text": "Una licenza shareware",
+        "why_wrong": "Lo shareware si può provare gratuitamente per un periodo o con funzioni limitate, ma il codice sorgente non è reso disponibile."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il software open source è distribuito con licenze che rendono disponibile il codice sorgente e consentono di studiarlo, modificarlo e ridistribuirlo. Gratuità (freeware) e disponibilità del codice sono concetti distinti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: licenze software",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-007",
+    "subject": "informatica",
+    "question": "Un ufficio deve archiviare una delibera in un formato adatto alla conservazione a lungo termine, che ne garantisca la visualizzazione identica nel tempo. Quale formato è il più indicato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PDF/A",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "DOCX",
+        "why_wrong": "DOCX è un formato di videoscrittura modificabile, pensato per la redazione dei documenti e non specificamente per la conservazione."
+      },
+      {
+        "id": "c",
+        "text": "ODT",
+        "why_wrong": "ODT è il formato aperto di videoscrittura OpenDocument: è modificabile e non è specificamente destinato alla conservazione."
+      },
+      {
+        "id": "d",
+        "text": "ZIP",
+        "why_wrong": "ZIP è un formato di archivio compresso che raccoglie uno o più file, non un formato di documento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il PDF/A è la versione del formato PDF pensata per l'archiviazione a lungo termine: il file deve essere autosufficiente (ad esempio con i caratteri incorporati) in modo da essere visualizzato sempre allo stesso modo.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: formati di file",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-hw-008",
+    "subject": "informatica",
+    "question": "Un file in formato CSV è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un file di testo in cui i valori di una tabella sono separati da un carattere delimitatore, come la virgola o il punto e virgola",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un archivio compresso che contiene uno o più file",
+        "why_wrong": "Questa è la descrizione del formato ZIP."
+      },
+      {
+        "id": "c",
+        "text": "Un formato di immagine con compressione con perdita di qualità",
+        "why_wrong": "Questa è la descrizione del formato JPG (JPEG)."
+      },
+      {
+        "id": "d",
+        "text": "Un formato di foglio di calcolo che conserva formule, formattazione e più fogli",
+        "why_wrong": "Questa è la descrizione del formato XLSX; il CSV contiene solo i valori in testo semplice."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il CSV (Comma-Separated Values) è un file di testo semplice: ogni riga è un record e i valori sono separati da un delimitatore. Non conserva formule, formattazione né più fogli; per questo è molto usato per scambiare dati tra programmi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Hardware, software e file: formati di file",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
