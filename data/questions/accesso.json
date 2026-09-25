@@ -56,7 +56,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -77,7 +77,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -98,7 +98,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -140,7 +140,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -161,7 +161,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -343,7 +343,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 24, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 7 non superato. La spiegazione afferma che «Le altre opzioni sono esclusioni disposte direttamente dal comma 1», ma dopo la riscrittura l'opzione d riguarda i documenti la cui conoscenza è necessaria per curare o difendere i propri interessi giuridici, per i quali il file dispone che «Deve comunque essere garantito ai richiedenti l'accesso ai documenti amministrativi la cui conoscenza sia necessaria per curare o per difendere i propri interessi giuridici» (art. 24, comma 7): non si tratta di un'esclusione del comma 1. Correzione suggerita: sostituire l'ultima frase della spiegazione con «Le opzioni b e c sono esclusioni disposte direttamente dal comma 1 (lett. a e c); l'opzione d riguarda i documenti ai quali l'accesso deve comunque essere garantito (comma 7).».",
     "rev": 2,
     "no_shuffle": false
   },
@@ -444,7 +445,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -526,7 +527,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -608,7 +609,7 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 27, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },

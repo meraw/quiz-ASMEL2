@@ -172,7 +172,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 3 non superato (opzione b). La riscrittura ha aggiunto all'opzione b la formula generica «o a seguito delle altre forme stabilite per legge», che nel file è propria delle entrate tributarie («a) per le entrate di carattere tributario, a seguito di emissione di ruoli o a seguito di altre forme stabilite per legge», art. 179, comma 2); poiché lo stem non menziona entrate tributarie e anche la modalità della lettera c-bis («a seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno dell'amministrazione erogante», art. 179, comma 2) è una forma di accertamento stabilita per legge, l'opzione b può essere difesa come corretta in senso lato. Correzione suggerita: ripristinare un testo non generico, ad es. «A seguito di emissione di ruoli, come per le entrate di carattere tributario», eliminando il riferimento alle «altre forme stabilite per legge».",
     "rev": 2,
     "no_shuffle": false
   },
@@ -217,7 +218,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -262,7 +263,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -307,7 +308,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -352,7 +353,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -573,7 +574,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -618,7 +619,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -663,7 +664,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -708,7 +709,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -753,7 +754,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -798,7 +799,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -843,7 +844,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -892,7 +893,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -981,7 +982,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -1070,7 +1071,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -1119,7 +1120,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   }
