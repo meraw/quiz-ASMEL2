@@ -1,0 +1,362 @@
+[
+  {
+    "id": "op-gov-001",
+    "subject": "organismi-partecipati",
+    "question": "L'assemblea di una società a controllo pubblico intende affidare l'amministrazione a un consiglio di amministrazione di sette membri. Secondo l'art. 11 del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È possibile, con delibera motivata trasmessa alla Corte dei conti",
+        "why_wrong": "L'art. 11, comma 3, consente un consiglio composto solo da tre o cinque membri."
+      },
+      {
+        "id": "b",
+        "text": "Non è possibile: l'organo amministrativo è costituito, di norma, da un amministratore unico e l'assemblea, con delibera motivata, può prevedere un consiglio di tre o cinque membri",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È possibile, se lo statuto prevede un numero di amministratori superiore a quello dei dipendenti",
+        "why_wrong": "Un numero di amministratori superiore a quello dei dipendenti è uno dei presupposti dei piani di razionalizzazione (art. 20, comma 2, lett. b), non un criterio di composizione del consiglio."
+      },
+      {
+        "id": "d",
+        "text": "Non è possibile: le società a controllo pubblico devono essere sempre amministrate da un amministratore unico",
+        "why_wrong": "L'amministratore unico è la regola «di norma»: l'art. 11, comma 3, ammette con delibera motivata un consiglio di tre o cinque membri o i sistemi alternativi di amministrazione e controllo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Ai sensi dell'art. 11, commi 2 e 3, l'organo amministrativo è di norma un amministratore unico; l'assemblea, con delibera motivata da ragioni di adeguatezza organizzativa e tenendo conto del contenimento dei costi, può optare per un consiglio di tre o cinque membri.",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 2",
+        "text": "L'organo amministrativo delle società a controllo pubblico è costituito, di norma, da un amministratore unico."
+      },
+      {
+        "ref": "art. 11, comma 3",
+        "text": "L'assemblea della società a controllo pubblico, con delibera motivata con riguardo a specifiche ragioni di adeguatezza organizzativa e tenendo conto delle esigenze di contenimento dei costi, può disporre che la società sia amministrata da un consiglio di amministrazione composto da tre o cinque membri,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 11, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-002",
+    "subject": "organismi-partecipati",
+    "question": "Qual è il limite massimo del trattamento economico annuo onnicomprensivo degli amministratori, dei componenti degli organi di controllo, dei dirigenti e dei dipendenti delle società a controllo pubblico, secondo l'art. 11, comma 6, del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Euro 240.000 annui al lordo dei contributi previdenziali e assistenziali e degli oneri fiscali a carico del beneficiario",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Euro 240.000 annui al netto degli oneri fiscali",
+        "why_wrong": "L'art. 11, comma 6, esprime il limite «al lordo» dei contributi e degli oneri fiscali a carico del beneficiario."
+      },
+      {
+        "id": "c",
+        "text": "Euro 500.000 annui, al lordo degli oneri fiscali",
+        "why_wrong": "500.000 euro è l'importo massimo della sanzione per la mancata adozione degli atti di razionalizzazione da parte degli enti locali (art. 20, comma 7)."
+      },
+      {
+        "id": "d",
+        "text": "Un importo pari al 30 per cento del compenso dell'organo amministrativo",
+        "why_wrong": "Il 30 per cento è il limite della remunerazione dei componenti dei comitati consultivi o di proposta (art. 11, comma 13)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 11, comma 6, fissa il tetto del trattamento economico annuo onnicomprensivo in 240.000 euro lordi, tenendo conto anche dei compensi corrisposti da altre amministrazioni o società a controllo pubblico.",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 6",
+        "text": "che non potrà comunque eccedere il limite massimo di euro 240.000 annui al lordo dei contributi previdenziali e assistenziali e degli oneri fiscali a carico del beneficiario,"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 11, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-003",
+    "subject": "organismi-partecipati",
+    "question": "Un funzionario dipendente di un Comune viene indicato dall'ente come amministratore unico di una società controllata dal Comune stesso. Alla luce dell'art. 11 del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La nomina è possibile, purché il funzionario riversi i compensi al Comune",
+        "why_wrong": "Il riversamento dei compensi riguarda gli amministratori dipendenti della società controllante, non delle amministrazioni controllanti (art. 11, comma 8, secondo periodo)."
+      },
+      {
+        "id": "b",
+        "text": "La nomina è possibile, purché il funzionario sia collocato in aspettativa non retribuita",
+        "why_wrong": "L'aspettativa non retribuita è prevista dall'art. 11, comma 12, per chi ha un rapporto di lavoro con la stessa società a controllo pubblico di cui è amministratore."
+      },
+      {
+        "id": "c",
+        "text": "La nomina non è consentita: gli amministratori delle società a controllo pubblico non possono essere dipendenti delle amministrazioni pubbliche controllanti o vigilanti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La nomina è consentita solo se il funzionario rinuncia ai compensi",
+        "why_wrong": "La rinuncia ai compensi evita l'aspettativa nel caso dell'art. 11, comma 12; non supera il divieto del comma 8."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 11, comma 8, primo periodo, vieta che gli amministratori delle società a controllo pubblico siano dipendenti delle amministrazioni pubbliche controllanti o vigilanti.",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 8",
+        "text": "Gli amministratori delle società a controllo pubblico non possono essere dipendenti delle amministrazioni pubbliche controllanti o vigilanti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 11, comma 8",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-004",
+    "subject": "organismi-partecipati",
+    "question": "Nella scelta degli amministratori delle società a controllo pubblico, le amministrazioni assicurano il rispetto del principio di equilibrio di genere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Almeno nella misura della metà, calcolata su ciascun organo amministrativo",
+        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, calcolata sul numero complessivo delle designazioni o nomine dell'anno."
+      },
+      {
+        "id": "b",
+        "text": "Almeno nella misura di un terzo, da computare sul numero complessivo delle designazioni o nomine effettuate in corso d'anno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Almeno nella misura di un terzo, solo quando l'organo amministrativo è collegiale",
+        "why_wrong": "La misura di un terzo si applica alle designazioni o nomine dell'anno; per gli organi collegiali lo statuto rinvia inoltre ai criteri della legge n. 120 del 2011 (art. 11, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "Almeno nella misura di un quinto, da computare sulle nomine del triennio",
+        "why_wrong": "L'art. 11, comma 4, indica la misura di un terzo, riferita alle nomine effettuate in corso d'anno."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, comma 4, impone il rispetto dell'equilibrio di genere almeno nella misura di un terzo, computato sul numero complessivo delle designazioni o nomine effettuate nell'anno.",
+    "evidence": [
+      {
+        "ref": "art. 11, comma 4",
+        "text": "Nella scelta degli amministratori delle società a controllo pubblico, le amministrazioni assicurano il rispetto del principio di equilibrio di genere, almeno nella misura di un terzo, da computare sul numero complessivo delle designazioni o nomine effettuate in corso d'anno."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 11, comma 4",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-005",
+    "subject": "organismi-partecipati",
+    "question": "Secondo l'art. 12 del d.lgs. 175/2016, costituisce danno erariale anche il danno subito dagli enti partecipanti in conseguenza della condotta dei loro rappresentanti che, nell'esercizio dei diritti di socio, abbiano pregiudicato il valore della partecipazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Con qualsiasi grado di colpa",
+        "why_wrong": "L'art. 12, comma 2, richiede il dolo o la colpa grave."
+      },
+      {
+        "id": "b",
+        "text": "Solo con dolo",
+        "why_wrong": "L'art. 12, comma 2, comprende anche la colpa grave."
+      },
+      {
+        "id": "c",
+        "text": "Con dolo o colpa grave",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Solo se il danno è patrimoniale",
+        "why_wrong": "L'art. 12, comma 2, comprende il danno «patrimoniale o non patrimoniale»."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 12, comma 2, qualifica come danno erariale il danno, patrimoniale o non patrimoniale, subito dagli enti partecipanti, compreso quello causato dai loro rappresentanti che con dolo o colpa grave abbiano pregiudicato il valore della partecipazione.",
+    "evidence": [
+      {
+        "ref": "art. 12, comma 2",
+        "text": "Costituisce danno erariale il danno, patrimoniale o non patrimoniale, subito dagli enti partecipanti, ivi compreso il danno conseguente alla condotta dei rappresentanti degli enti pubblici partecipanti o comunque dei titolari del potere di decidere per essi, che, nell'esercizio dei propri diritti di socio, abbiano con dolo o colpa grave pregiudicato il valore della partecipazione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 12, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-006",
+    "subject": "organismi-partecipati",
+    "question": "Un Comune detiene il 3 per cento del capitale di una società a responsabilità limitata a controllo pubblico e ritiene che gli amministratori abbiano commesso gravi irregolarità. Ai sensi dell'art. 13 del d.lgs. 175/2016:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non può presentare denunzia al tribunale, perché non raggiunge i limiti minimi di partecipazione dell'art. 2409 del codice civile",
+        "why_wrong": "L'art. 13, comma 1, deroga proprio ai limiti minimi di partecipazione dell'art. 2409 c.c."
+      },
+      {
+        "id": "b",
+        "text": "Può presentare denunzia di gravi irregolarità al tribunale, indipendentemente dall'entità della partecipazione di cui è titolare",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Non può presentare denunzia, perché la norma non si applica alle società a responsabilità limitata",
+        "why_wrong": "L'art. 13, comma 2, estende la norma alle società a controllo pubblico costituite in forma di s.r.l."
+      },
+      {
+        "id": "d",
+        "text": "Può soltanto segnalare le irregolarità alla struttura del Ministero dell'economia e delle finanze di cui all'art. 15",
+        "why_wrong": "L'art. 13, comma 1, legittima direttamente ciascuna amministrazione socia a presentare denunzia al tribunale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 13 legittima ciascuna amministrazione pubblica socia di una società a controllo pubblico, anche in forma di s.r.l., a denunziare gravi irregolarità al tribunale, in deroga ai limiti minimi dell'art. 2409 c.c.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 1",
+        "text": "ciascuna amministrazione pubblica socia, indipendentemente dall'entità della partecipazione di cui è titolare, è legittimata a presentare denunzia di gravi irregolarità al tribunale."
+      },
+      {
+        "ref": "art. 13, comma 2",
+        "text": "Il presente articolo si applica anche alle società a controllo pubblico costituite in forma di società a responsabilità limitata."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 13, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-007",
+    "subject": "organismi-partecipati",
+    "question": "In un Comune, chi esercita i diritti del socio nell'assemblea di una società partecipata dall'ente, ai sensi dell'art. 9 del d.lgs. 175/2016?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il consiglio comunale",
+        "why_wrong": "Al consiglio comunale spetta la deliberazione di partecipazione alla costituzione della società (art. 7, comma 1, lett. c), non l'esercizio dei diritti del socio."
+      },
+      {
+        "id": "b",
+        "text": "Il sindaco o un suo delegato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "La giunta comunale",
+        "why_wrong": "L'art. 9, comma 3, attribuisce l'esercizio dei diritti del socio al sindaco o al presidente o a un loro delegato."
+      },
+      {
+        "id": "d",
+        "text": "Il Ministero dell'economia e delle finanze",
+        "why_wrong": "Il Ministero dell'economia e delle finanze esercita i diritti del socio per le partecipazioni statali (art. 9, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 9, comma 3, stabilisce che per le partecipazioni di enti locali i diritti del socio sono esercitati dal sindaco o dal presidente o da un loro delegato.",
+    "evidence": [
+      {
+        "ref": "art. 9, comma 3",
+        "text": "Per le partecipazioni di enti locali i diritti del socio sono esercitati dal sindaco o dal presidente o da un loro delegato."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 9, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "op-gov-008",
+    "subject": "organismi-partecipati",
+    "question": "Quale soggetto tiene l'elenco pubblico, accessibile anche in via telematica, di tutte le società a partecipazione pubblica esistenti?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'Autorità garante della concorrenza e del mercato",
+        "why_wrong": "All'AGCM è inviato l'atto deliberativo di costituzione o acquisizione (art. 5, comma 3); l'elenco è tenuto dalla struttura del MEF (art. 15, comma 3)."
+      },
+      {
+        "id": "b",
+        "text": "La Sezione regionale di controllo della Corte dei conti",
+        "why_wrong": "La Sezione regionale di controllo è competente per il controllo sugli atti di regioni ed enti locali (art. 5, comma 4), non per la tenuta dell'elenco."
+      },
+      {
+        "id": "c",
+        "text": "La struttura competente per l'indirizzo, il controllo e il monitoraggio individuata nell'ambito del Ministero dell'economia e delle finanze",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il conservatore del registro delle imprese",
+        "why_wrong": "Il conservatore del registro delle imprese interviene per la cancellazione d'ufficio delle società inattive (art. 20, comma 9)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 15 individua presso il MEF una struttura competente per l'indirizzo, il controllo e il monitoraggio sull'attuazione del decreto; il comma 3 le affida la tenuta dell'elenco pubblico delle società a partecipazione pubblica.",
+    "evidence": [
+      {
+        "ref": "art. 15, comma 3",
+        "text": "La struttura di cui al comma 1 tiene un elenco pubblico, accessibile anche in via telematica, di tutte le società a partecipazione pubblica"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 175/2016 (TUSP)",
+      "article": "art. 15, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 19 agosto 2016 , n. 175.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

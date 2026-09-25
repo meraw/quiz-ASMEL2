@@ -204,14 +204,24 @@ paragraph is cited as a whole: `"art. 10"`.
 The consolidated TUE/TFUE file holds two treaties that both number their
 articles from 1, so the treaty follows the article number:
 `"art. 5 TUE, par. 3"`, `"art. 294 TFUE, par. 7, lett. a)"`, or, for an
-article without numbered paragraphs, `"art. 288 TFUE"`.
-
-The name of the act may also follow the article number, as a label only
-(the act is always the one in `source.file`): `"art. 74 Reg. 2021/1060, par. 2"`,
-`"art. 2 Reg. 2021/1060, punto 31"`, `"art. 11 L. 3/2003, comma 2-bis"`. The check reads the
+article without numbered paragraphs, `"art. 288 TFUE"`. The check reads the
 heading of each treaty ("TRATTATO SULL'UNIONE EUROPEA (VERSIONE
 CONSOLIDATA)", "TRATTATO SUL FUNZIONAMENTO...") to know which treaty an
 article belongs to.
+
+The act itself can be named the same way, after the article number: an EU
+regulation as `"art. 5 Reg. 2021/1060, par. 1"`, `"art. 2 Reg. 2021/1060, punto 31"`
+or `"art. 2 Reg. 2021/241"`, a national act as `"art. 11 L. 3/2003, comma 1"`
+(also `D.lgs.`, `D.L.`, `D.P.R.`). The act named must be the act of the
+`source.file`, otherwise the check reports an error: the file name must
+start with the same type of act (`REGOLAMENTO`, `LEGGE` or `L`,
+`DECRETO LEGISLATIVO` or `dlgs`, `DECRETO-LEGGE`, `DECRETO DEL PRESIDENTE
+DELLA REPUBBLICA`) and contain its number and year: for a regulation the year
+and then the number (`REGOLAMENTO (UE) 2021 1060 ...`); for a national act
+either the year and then `n.` and the number, as Normattiva names files
+(`LEGGE 16 gennaio 2003 , n. 3`), or the number and then the year
+(`L. 190 2012`, `dlgs 33 2013`). A file whose name has no number, such as
+`TUEL.txt`, cannot be cited with the act's name.
 
 The Costituzione does not number its commas and does not separate them with
 blank lines: each comma simply starts on a new line. In that file the check

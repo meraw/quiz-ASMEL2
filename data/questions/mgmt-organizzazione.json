@@ -1,0 +1,275 @@
+[
+  {
+    "id": "mg-org-001",
+    "subject": "management-pubblico",
+    "question": "In un Comune, un tecnico dell'ufficio ambiente risponde sia al proprio dirigente di settore sia al responsabile di un progetto europeo che coinvolge più settori. Questa doppia dipendenza è tipica della struttura:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Funzionale",
+        "why_wrong": "Nella struttura funzionale ogni unità risponde a un solo responsabile, secondo la specializzazione per funzioni."
+      },
+      {
+        "id": "b",
+        "text": "Divisionale",
+        "why_wrong": "Nella struttura divisionale le unità sono raggruppate per servizio, utenza o area geografica, con una linea gerarchica unica."
+      },
+      {
+        "id": "c",
+        "text": "A matrice",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Elementare",
+        "why_wrong": "La struttura elementare, tipica delle piccole organizzazioni, fa capo direttamente a un unico vertice."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La struttura a matrice combina la dimensione funzionale e quella per progetti: il personale mantiene la dipendenza dalla propria unità funzionale e risponde anche al responsabile del progetto. Favorisce l'integrazione ma può generare conflitti di autorità.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strutture organizzative",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-002",
+    "subject": "management-pubblico",
+    "question": "Un progetto, a differenza delle attività operative ricorrenti, è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un'attività continuativa e ripetitiva svolta secondo procedure standard",
+        "why_wrong": "Descrive le attività operative ricorrenti, non un progetto."
+      },
+      {
+        "id": "b",
+        "text": "Uno sforzo temporaneo, con inizio e fine definiti, volto a realizzare un risultato unico",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Un'attività priva di vincoli di tempo e di costo",
+        "why_wrong": "Ogni progetto è soggetto a vincoli di tempo, costo e ambito."
+      },
+      {
+        "id": "d",
+        "text": "Un insieme di attività svolte sempre all'interno di un'unica unità organizzativa",
+        "why_wrong": "Un progetto può coinvolgere più unità organizzative, come avviene nella struttura a matrice."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il progetto è temporaneo e unico: ha un inizio e una fine definiti e produce un risultato specifico, entro vincoli di tempo, costi e ambito. Le attività operative, invece, sono continuative e ripetitive.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Project management",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-003",
+    "subject": "management-pubblico",
+    "question": "Un Comune introduce un nuovo sistema di gestione documentale e parte del personale si oppone al cambiamento. Quale azione è più coerente con i principi del change management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Imporre il nuovo sistema senza spiegazioni, per non perdere tempo",
+        "why_wrong": "Ignorare le resistenze tende ad accrescerle e a ostacolare il cambiamento."
+      },
+      {
+        "id": "b",
+        "text": "Rinviare l'introduzione finché tutti i dipendenti non saranno spontaneamente d'accordo",
+        "why_wrong": "Il change management mira a gestire le resistenze, non ad attenderne la scomparsa."
+      },
+      {
+        "id": "c",
+        "text": "Comunicare le ragioni e i benefici del cambiamento, coinvolgere il personale e prevedere formazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Escludere dal progetto i dipendenti che esprimono dubbi",
+        "why_wrong": "Escludere chi dubita alimenta la resistenza invece di ridurla."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il change management considera la resistenza al cambiamento come un fenomeno normale da gestire: comunicazione chiara delle ragioni, coinvolgimento delle persone e formazione aiutano ad accettare e consolidare il cambiamento.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Change management",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-004",
+    "subject": "management-pubblico",
+    "question": "Lo stile di leadership detto laissez-faire è caratterizzato da:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decisioni prese dal leader in modo esclusivo e controllo stretto sull'esecuzione",
+        "why_wrong": "Descrive lo stile autoritario."
+      },
+      {
+        "id": "b",
+        "text": "Coinvolgimento dei collaboratori nelle decisioni, che restano guidate dal leader",
+        "why_wrong": "Descrive lo stile democratico o partecipativo."
+      },
+      {
+        "id": "c",
+        "text": "Adattamento dello stile al grado di maturità dei collaboratori",
+        "why_wrong": "Descrive la leadership situazionale."
+      },
+      {
+        "id": "d",
+        "text": "Ampia libertà lasciata ai collaboratori e scarso intervento del leader",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Nello stile laissez-faire il leader interviene poco e lascia al gruppo ampia autonomia decisionale; nello stile autoritario decide da solo, in quello democratico coinvolge i collaboratori nelle decisioni.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Stili di leadership",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-005",
+    "subject": "management-pubblico",
+    "question": "Secondo i principi di management, una delega efficace richiede che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Al collaboratore sia affidato il compito ma non l'autorità necessaria per svolgerlo",
+        "why_wrong": "Senza l'autorità e le risorse necessarie il collaboratore non può svolgere il compito delegato."
+      },
+      {
+        "id": "b",
+        "text": "Il delegante si disinteressi del risultato una volta affidato il compito",
+        "why_wrong": "Il delegante resta responsabile di verificare il risultato."
+      },
+      {
+        "id": "c",
+        "text": "Insieme al compito siano attribuite autorità e risorse adeguate, con obiettivi chiari e verifica dei risultati",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Siano delegati soltanto compiti privi di contenuto decisionale",
+        "why_wrong": "La delega trasferisce anche un margine di decisione, non solo compiti esecutivi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Delegare significa affidare a un collaboratore un compito insieme all'autorità e alle risorse per svolgerlo, definendo obiettivi chiari; chi delega mantiene la responsabilità di controllare il risultato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Delega",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-006",
+    "subject": "management-pubblico",
+    "question": "Un valutatore, colpito dalla grande puntualità di un dipendente, gli attribuisce punteggi elevati in tutti i fattori, compresi quelli in cui il rendimento è modesto. Commette l'errore di valutazione detto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Effetto alone",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Tendenza centrale",
+        "why_wrong": "La tendenza centrale consiste nell'attribuire a tutti punteggi intermedi."
+      },
+      {
+        "id": "c",
+        "text": "Effetto recency",
+        "why_wrong": "L'effetto recency consiste nel dare peso eccessivo agli episodi più recenti."
+      },
+      {
+        "id": "d",
+        "text": "Errore di severità",
+        "why_wrong": "L'errore di severità consiste nell'attribuire sistematicamente punteggi bassi."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Si ha effetto alone quando un solo tratto, positivo o negativo, influenza il giudizio su tutti gli altri aspetti della prestazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Valutazione del personale",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-org-007",
+    "subject": "management-pubblico",
+    "question": "Con l'espressione benessere organizzativo si indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il livello delle retribuzioni corrisposte al personale",
+        "why_wrong": "La retribuzione è solo uno dei fattori che incidono sul benessere organizzativo."
+      },
+      {
+        "id": "b",
+        "text": "La capacità dell'organizzazione di promuovere e mantenere il benessere fisico, psicologico e sociale dei lavoratori",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il grado di soddisfazione degli utenti per i servizi ricevuti",
+        "why_wrong": "È la customer satisfaction, che riguarda gli utenti esterni."
+      },
+      {
+        "id": "d",
+        "text": "La sola assenza di infortuni sul luogo di lavoro",
+        "why_wrong": "Il benessere organizzativo comprende anche le dimensioni psicologica e sociale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il benessere organizzativo riguarda la qualità della convivenza lavorativa: la capacità dell'organizzazione di tutelare e promuovere il benessere fisico, psicologico e sociale di chi vi lavora.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Benessere organizzativo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

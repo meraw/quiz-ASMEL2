@@ -1,0 +1,450 @@
+[
+  {
+    "id": "mg-per-001",
+    "subject": "management-pubblico",
+    "question": "Ai sensi dell'art. 4 del d.lgs. 150/2009, la fase del ciclo di gestione della performance consistente nella definizione e assegnazione degli obiettivi, dei valori attesi di risultato e dei rispettivi indicatori deve svolgersi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro il primo trimestre di ogni anno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "entro il 30 giugno di ogni anno",
+        "why_wrong": "Il 30 giugno è il termine per la Relazione annuale sulla performance (art. 10, comma 1, lett. b)), non per l'assegnazione degli obiettivi."
+      },
+      {
+        "id": "c",
+        "text": "in corso di esercizio, contestualmente al monitoraggio",
+        "why_wrong": "Il monitoraggio in corso di esercizio è una fase distinta del ciclo (art. 4, comma 2, lett. c)), finalizzata a eventuali interventi correttivi."
+      },
+      {
+        "id": "d",
+        "text": "a consuntivo, dopo la rendicontazione dei risultati",
+        "why_wrong": "La rendicontazione dei risultati è l'ultima fase del ciclo (art. 4, comma 2, lett. f)); la definizione degli obiettivi è la prima."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4, comma 2, lett. a), come modificato, colloca la definizione e assegnazione degli obiettivi, dei valori attesi di risultato e degli indicatori entro il primo trimestre di ogni anno, tenendo conto dei risultati dell'anno precedente documentati e validati nella Relazione sulla performance. Entro lo stesso termine deve avvenire il collegamento tra obiettivi e allocazione delle risorse (lett. b)).",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 2",
+        "text": "a) definizione e assegnazione ((, entro il primo trimestre di ogni anno,)) degli obiettivi che si intendono raggiungere, dei valori attesi di risultato e dei rispettivi indicatori"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 4, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-002",
+    "subject": "management-pubblico",
+    "question": "Secondo l'art. 7, comma 1, del d.lgs. 150/2009, il Sistema di misurazione e valutazione della performance è adottato e aggiornato annualmente dalle amministrazioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "previo parere vincolante dell'Organismo indipendente di valutazione",
+        "why_wrong": "Il testo vigente dell'art. 7, comma 1, qualifica il parere dell'OIV come non vincolante."
+      },
+      {
+        "id": "b",
+        "text": "previo parere non vincolante dell'Organismo indipendente di valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "previa intesa in sede di Conferenza unificata",
+        "why_wrong": "L'intesa in Conferenza unificata è prevista per le linee guida sugli obiettivi generali relative agli enti territoriali (art. 5, comma 1), non per il Sistema di misurazione e valutazione."
+      },
+      {
+        "id": "d",
+        "text": "su proposta non vincolante dei dirigenti di ciascuna amministrazione",
+        "why_wrong": "L'art. 7, comma 1, richiede il parere dell'OIV; ai dirigenti spetta la valutazione secondo gli artt. 8 e 9 (art. 7, comma 2, lett. b))."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 7, comma 1, stabilisce che le amministrazioni valutano annualmente la performance organizzativa e individuale e, a tal fine, adottano e aggiornano annualmente il Sistema di misurazione e valutazione della performance, previo parere non vincolante dell'OIV. Il Sistema è adottato in coerenza con gli indirizzi del Dipartimento della funzione pubblica (comma 2-bis).",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 1",
+        "text": "A tale fine adottano e aggiornano annualmente, previo parere ((non)) vincolante dell'Organismo indipendente di valutazione, il Sistema di misurazione e valutazione della performance."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 7, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-003",
+    "subject": "management-pubblico",
+    "question": "In un'amministrazione statale occorre valutare la performance annuale del dirigente di vertice. In base agli artt. 7 e 14 del d.lgs. 150/2009, come si ripartiscono i ruoli?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La valutazione spetta all'organo di indirizzo politico-amministrativo, su proposta non vincolante dell'OIV",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La valutazione spetta all'OIV, la cui proposta è vincolante per l'organo di indirizzo politico-amministrativo",
+        "why_wrong": "L'art. 7, comma 2, lett. a), qualifica espressamente come non vincolante la proposta dell'OIV sulla valutazione dei dirigenti di vertice."
+      },
+      {
+        "id": "c",
+        "text": "La valutazione spetta al Dipartimento della funzione pubblica, sentito l'OIV",
+        "why_wrong": "Al Dipartimento della funzione pubblica competono funzioni di promozione, indirizzo e coordinamento (art. 12, comma 1, lett. a)), non la valutazione dei singoli dirigenti di vertice."
+      },
+      {
+        "id": "d",
+        "text": "La valutazione spetta ai collegi di dirigenti, tramite la valutazione collegiale",
+        "why_wrong": "La valutazione collegiale tra dirigenti è una componente della valutazione della performance (art. 2, comma 1-bis, lett. a)); per i dirigenti di vertice la funzione è attribuita all'organo di indirizzo (art. 7, comma 2, lett. a-bis))."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7, comma 2, lett. a-bis), attribuisce la funzione di misurazione e valutazione della performance dei dirigenti di vertice all'organo di indirizzo politico-amministrativo. All'OIV compete la proposta non vincolante di valutazione annuale dei dirigenti di vertice (art. 7, comma 2, lett. a); art. 14, comma 4, lett. e)).",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 2",
+        "text": "((dagli Organismi indipendenti di valutazione della performance, di cui all'articolo 14, cui competono la proposta non vincolante sulla misurazione e valutazione della performance di ciascuna struttura amministrativa nel suo complesso nonché la proposta non vincolante di valutazione annuale dei dirigenti di vertice ai sensi della lettera e) del comma 4 del medesimo articolo 14))"
+      },
+      {
+        "ref": "art. 7, comma 2",
+        "text": "a-bis) ((dall'organo di indirizzo politico-amministrativo per i dirigenti di vertice))"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 7, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-004",
+    "subject": "management-pubblico",
+    "question": "Ai sensi dell'art. 10 del d.lgs. 150/2009, la Relazione annuale sulla performance:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è redatta entro il 31 gennaio ed è un documento programmatico triennale",
+        "why_wrong": "Sono le caratteristiche del Piano della performance (art. 10, comma 1, lett. a)), non della Relazione."
+      },
+      {
+        "id": "b",
+        "text": "è redatta entro il 30 giugno, approvata dall'organo di indirizzo politico-amministrativo e validata dall'Organismo di valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è redatta entro il 30 giugno, approvata dall'Organismo di valutazione e validata dal Dipartimento della funzione pubblica",
+        "why_wrong": "L'approvazione spetta all'organo di indirizzo politico-amministrativo e la validazione all'Organismo di valutazione (art. 10, comma 1, lett. b))."
+      },
+      {
+        "id": "d",
+        "text": "è redatta entro il primo trimestre e riguarda i risultati attesi per l'anno in corso",
+        "why_wrong": "La Relazione evidenzia a consuntivo i risultati dell'anno precedente; il primo trimestre è il termine per assegnare gli obiettivi (art. 4, comma 2, lett. a))."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 10, comma 1, lett. b), prevede che entro il 30 giugno le amministrazioni redigano e pubblichino la Relazione annuale sulla performance, approvata dall'organo di indirizzo politico-amministrativo e validata dall'Organismo di valutazione; essa evidenzia a consuntivo, per l'anno precedente, i risultati raggiunti rispetto agli obiettivi e alle risorse, gli scostamenti e il bilancio di genere realizzato.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 1",
+        "text": "b) entro il 30 giugno, la Relazione annuale sulla performance, che è approvata dall'organo di indirizzo politico-amministrativo e validata dall'Organismo di valutazione ai sensi dell'articolo 14 e che evidenzia, a consuntivo, con riferimento all'anno precedente, i risultati organizzativi e individuali raggiunti rispetto ai singoli obiettivi programmati ed alle risorse, con rilevazione degli eventuali scostamenti, e il bilancio di genere realizzato."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 10, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-005",
+    "subject": "management-pubblico",
+    "question": "Un Comune intende semplificare i propri adempimenti presentando in un unico documento la Relazione sulla performance e un altro documento contabile. Secondo l'art. 10, comma 1-bis, del d.lgs. 150/2009, la Relazione sulla performance può essere unificata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "al bilancio di previsione",
+        "why_wrong": "L'art. 10, comma 1-bis, consente l'unificazione con il rendiconto della gestione, documento a consuntivo come la Relazione."
+      },
+      {
+        "id": "b",
+        "text": "al Piano della performance",
+        "why_wrong": "Il Piano è il documento programmatico da adottare entro il 31 gennaio (art. 10, comma 1, lett. a)); il comma 1-bis riguarda l'unificazione con il rendiconto."
+      },
+      {
+        "id": "c",
+        "text": "al rendiconto della gestione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al documento di economia e finanza",
+        "why_wrong": "Il documento di economia e finanza è richiamato dal comma 1-ter per la predisposizione del Piano della performance, non per la Relazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Per gli enti locali, l'art. 10, comma 1-bis, prevede che la Relazione sulla performance possa essere unificata al rendiconto della gestione di cui all'art. 227 del d.lgs. 267/2000, ferme restando le previsioni dell'art. 169, comma 3-bis, dello stesso decreto.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 1-bis",
+        "text": "Per gli enti locali, ferme restando le previsioni di cui all'articolo 169, comma 3-bis, del decreto legislativo 18 agosto 2000, n. 267"
+      },
+      {
+        "ref": "art. 10, comma 1-bis",
+        "text": "Relazione sulla performance di cui al comma 1, lettera b), può essere unificata al rendiconto della gestione di cui all'articolo 227 del citato decreto legislativo."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 10, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-006",
+    "subject": "management-pubblico",
+    "question": "Un'amministrazione non ha adottato il Piano della performance per omissione dei dirigenti competenti e intende conferire un incarico di consulenza. Ai sensi dell'art. 10, comma 5, del d.lgs. 150/2009:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può conferire l'incarico, ma deve comunicare le ragioni del ritardo al Dipartimento della funzione pubblica",
+        "why_wrong": "La comunicazione al Dipartimento è prevista per il ritardo nell'adozione; in caso di mancata adozione l'amministrazione non può conferire incarichi di consulenza."
+      },
+      {
+        "id": "b",
+        "text": "può conferire l'incarico previo parere dell'Organismo indipendente di valutazione",
+        "why_wrong": "L'art. 10, comma 5, stabilisce un divieto senza prevedere deroghe subordinate al parere dell'OIV."
+      },
+      {
+        "id": "c",
+        "text": "non può conferire l'incarico e ai dirigenti che hanno concorso alla mancata adozione non può essere erogata la retribuzione di risultato",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "non può conferire l'incarico, mentre resta ferma la retribuzione di risultato dei dirigenti",
+        "why_wrong": "Il comma 5 vieta anche l'erogazione della retribuzione di risultato ai dirigenti che hanno concorso alla mancata adozione per omissione o inerzia."
+      }
+    ],
+    "correct": "c",
+    "explanation": "In caso di mancata adozione del Piano della performance, l'art. 10, comma 5, vieta l'erogazione della retribuzione di risultato ai dirigenti che hanno concorso alla mancata adozione per omissione o inerzia e impedisce all'amministrazione di procedere ad assunzioni di personale o al conferimento di incarichi di consulenza o di collaborazione comunque denominati. Il semplice ritardo va invece comunicato, con le relative ragioni, al Dipartimento della funzione pubblica.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 5",
+        "text": "In caso di mancata adozione del Piano della performance è fatto divieto di erogazione della retribuzione di risultato ai dirigenti che risultano avere concorso alla mancata adozione del Piano, per omissione o inerzia nell'adempimento dei propri compiti, e l'amministrazione non può procedere ad assunzioni di personale o al conferimento di incarichi di consulenza o di collaborazione comunque denominati."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 10, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-007",
+    "subject": "management-pubblico",
+    "question": "Secondo l'art. 14 del d.lgs. 150/2009, quale conseguenza ha la validazione della Relazione sulla performance da parte dell'Organismo indipendente di valutazione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "È condizione inderogabile per l'accesso agli strumenti per premiare il merito di cui al Titolo III",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "È condizione per l'adozione del Piano della performance dell'anno successivo",
+        "why_wrong": "L'art. 14, comma 6, collega la validazione all'accesso agli strumenti premiali, non all'adozione del Piano."
+      },
+      {
+        "id": "c",
+        "text": "Sostituisce l'approvazione della Relazione da parte dell'organo di indirizzo politico-amministrativo",
+        "why_wrong": "La Relazione è approvata dall'organo di indirizzo e validata dall'OIV (art. 10, comma 1, lett. b)): i due atti sono distinti."
+      },
+      {
+        "id": "d",
+        "text": "È condizione per la nomina dei componenti dell'Organismo indipendente di valutazione",
+        "why_wrong": "La nomina dell'OIV è disciplinata dall'art. 14-bis (iscrizione all'Elenco nazionale e procedura selettiva pubblica), non dipende dalla validazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14, comma 6, stabilisce che la validazione della Relazione sulla performance, prevista dal comma 4, lett. c), è condizione inderogabile per l'accesso agli strumenti per premiare il merito del Titolo III. L'OIV valida la Relazione a condizione che sia redatta in forma sintetica, chiara e di immediata comprensione ai cittadini e agli altri utenti finali.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 6",
+        "text": "La validazione della Relazione sulla performance di cui al comma 4, lettera c), è condizione inderogabile per l'accesso agli strumenti per premiare il merito di cui al Titolo III."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 14, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-008",
+    "subject": "management-pubblico",
+    "question": "Un'amministrazione deve nominare i componenti del proprio Organismo indipendente di valutazione. Ai sensi dell'art. 14, comma 8, del d.lgs. 150/2009, quale dei seguenti candidati NON può essere nominato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un soggetto che ha cessato una carica in un partito politico cinque anni prima della designazione",
+        "why_wrong": "Il divieto per chi ha rivestito cariche in partiti politici opera solo se la carica è stata rivestita nei tre anni precedenti la designazione."
+      },
+      {
+        "id": "b",
+        "text": "Un dipendente della stessa amministrazione interessata",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Un soggetto iscritto all'Elenco nazionale dei componenti degli OIV e scelto con procedura selettiva pubblica",
+        "why_wrong": "L'iscrizione all'Elenco nazionale e la procedura selettiva pubblica sono proprio le condizioni richieste per la nomina (art. 14-bis, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Un componente il cui primo incarico triennale presso la stessa amministrazione è scaduto, previa nuova procedura selettiva pubblica",
+        "why_wrong": "L'incarico è rinnovabile una sola volta presso la stessa amministrazione, previa procedura selettiva pubblica (art. 14-bis, comma 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 14, comma 8, nel testo vigente, esclude dalla nomina a componente dell'OIV i dipendenti dell'amministrazione interessata, nonché i soggetti che rivestono incarichi pubblici elettivi o cariche in partiti politici o in organizzazioni sindacali, o che hanno con esse rapporti continuativi di collaborazione o consulenza, o che hanno rivestito tali incarichi o avuto tali rapporti nei tre anni precedenti la designazione.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 8",
+        "text": "I componenti dell'Organismo indipendente di valutazione non possono essere nominati ((tra i dipendenti dell'amministrazione interessata o)) tra soggetti che rivestano incarichi pubblici elettivi o cariche in partiti politici o in organizzazioni sindacali ovvero che abbiano rapporti continuativi di collaborazione o di consulenza con le predette organizzazioni, ovvero che abbiano rivestito simili incarichi o cariche o che abbiano avuto simili rapporti nei tre anni precedenti la designazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 14, comma 8",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-009",
+    "subject": "management-pubblico",
+    "question": "Ai sensi dell'art. 14-bis del d.lgs. 150/2009, l'incarico di componente dell'Organismo indipendente di valutazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha durata di tre anni ed è rinnovabile una sola volta presso la stessa amministrazione, previa procedura selettiva pubblica",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "ha durata di tre anni ed è rinnovabile senza limiti presso la stessa amministrazione",
+        "why_wrong": "L'art. 14-bis, comma 3, consente il rinnovo una sola volta presso la stessa amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "ha durata di cinque anni e non è rinnovabile",
+        "why_wrong": "L'art. 14-bis, comma 3, fissa la durata in tre anni e ammette un rinnovo."
+      },
+      {
+        "id": "d",
+        "text": "ha durata pari a quella del Piano della performance ed è rinnovato automaticamente alla sua scadenza",
+        "why_wrong": "La durata è di tre anni e il rinnovo richiede una procedura selettiva pubblica (art. 14-bis, comma 3); nessun rinnovo automatico è previsto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 14-bis, comma 3, fissa in tre anni la durata dell'incarico di componente dell'OIV, rinnovabile una sola volta presso la stessa amministrazione, previa procedura selettiva pubblica. Le nomine e i rinnovi in violazione delle modalità e dei requisiti degli artt. 14 e 14-bis sono nulli (comma 6).",
+    "evidence": [
+      {
+        "ref": "art. 14-bis, comma 3",
+        "text": "La durata dell'incarico di componente dell'Organismo indipendente di valutazione è di tre anni, rinnovabile una sola volta presso la stessa amministrazione, previa procedura selettiva pubblica."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 14-bis, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-per-010",
+    "subject": "management-pubblico",
+    "question": "Per garantire effettività e progressività alla valutazione, l'art. 3, comma 5, del d.lgs. 150/2009 stabilisce che, nell'ambito di ciascun ufficio dirigenziale generale o di livello corrispondente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i punteggi apicali non possono superare il 20 per cento delle valutazioni effettuate per ciascuna categoria o qualifica",
+        "why_wrong": "Il 20 per cento è il limite per il riconoscimento delle eccellenze, calcolato sulle valutazioni apicali; per i punteggi apicali il limite è il 30 per cento."
+      },
+      {
+        "id": "b",
+        "text": "i punteggi apicali non possono superare il 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica e le eccellenze non possono superare il 20 per cento delle valutazioni apicali",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "le eccellenze non possono superare il 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica",
+        "why_wrong": "Il 30 per cento riguarda i punteggi apicali; le eccellenze sono limitate al 20 per cento delle valutazioni apicali."
+      },
+      {
+        "id": "d",
+        "text": "almeno il 30 per cento delle valutazioni deve collocarsi nella fascia di merito più bassa",
+        "why_wrong": "L'art. 3, comma 5, pone tetti ai punteggi apicali e alle eccellenze, non una quota minima di valutazioni nella fascia più bassa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 3, comma 5, per garantire effettività e progressività alla valutazione, vieta di attribuire punteggi apicali in misura superiore al 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica e limita il riconoscimento delle eccellenze al 20 per cento delle valutazioni apicali. Il trattamento retributivo legato alla performance è progressivo e strettamente corrispondente alla valutazione conseguita.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 5",
+        "text": "Al fine di garantire alla valutazione effettività e progressività, non possono essere attribuiti, nell'ambito di ciascun ufficio dirigenziale generale o di livello corrispondente secondo il relativo ordinamento, punteggi apicali in misura superiore al 30 per cento delle valutazioni effettuate per ciascuna categoria o qualifica e il riconoscimento delle eccellenze di cui all'articolo 21 non può superare la misura del 20 per cento delle valutazioni apicali."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 150/2009",
+      "article": "art. 3, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 27 ottobre 2009 , n. 150.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

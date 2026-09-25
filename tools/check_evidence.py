@@ -14,8 +14,10 @@ For each question with an `evidence` list, and for each item in it:
      the quote must be inside that article. When one source file holds two
      treaties with their own article numbers (TUE and TFUE), the treaty
      follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE".
-     The name of the act may also follow the article number, as a label
-     only: "art. 74 Reg. 2021/1060, par. 2", "art. 11 L. 3/2003, comma 1";
+     The act may be named the same way, after the article number:
+     "art. 74 Reg. 2021/1060, par. 2", "art. 11 L. 3/2003, comma 1"
+     (also D.lgs., D.L., D.P.R.). The act named must be the act of the
+     source file: same type, number and year (see act_matches_file);
   2. `text` must appear, word for word, inside THAT comma of THAT article
      of the source file. When an article has no numbered commas (e.g. the
      codice penale), its commas are its paragraphs, counted from 1 after the
@@ -65,11 +67,23 @@ ARTICLE_RE = re.compile(r'^\s*Art(?:\.|icolo)\s+(\d+' + SUFFIX + r')\.?\s*$')
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
 # Optional treaty after the article number ("art. 5 TUE", "art. 288 TFUE"):
 # see TREATY_RE
-ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE))?)'
-# Optional name of the act after the article number ("art. 74 Reg. 2021/1060,
-# par. 2", "art. 11 L. 3/2003, comma 2-bis"): only a label, the act is always
-# the one in source.file
-ART += r'(?:\s+(?:Reg\.|Dir\.|L\.|D\.lgs\.|D\.L\.|D\.P\.R\.)\s+\d+/\d+)?'
+# Optional act after the article number: an EU regulation, "Reg. YYYY/N"
+# ("art. 5 Reg. 2021/1060, par. 1"), or a national act, "L. N/YYYY" (also
+# D.lgs., D.L., D.P.R.: "art. 11 L. 3/2003, comma 1"). It names the act, so
+# it must be the act of the source file: see act_matches_file
+ACT = r'(?:Reg\.\s+\d{4}/\d+|(?:L|D\.lgs|D\.L|D\.P\.R)\.\s+\d+/\d{4})'
+ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE|' + ACT + r'))?)'
+ACT_RE = re.compile(r'\s+(Reg|L|D\.lgs|D\.L|D\.P\.R)\.\s+(\d+)/(\d+)$')
+# How the name of the source file starts for each type of act, e.g.
+# "REGOLAMENTO (UE) 2021 1060 ...", "LEGGE 16 gennaio 2003 , n. 3", "L. 190 2012",
+# "L241-1990_...", "DECRETO LEGISLATIVO ...", "dlgs 33 2013", "DECRETO-LEGGE ..."
+ACT_FILE_TYPES = {
+    'Reg': r'REGOLAMENTO\b',
+    'L': r'L(?:EGGE\b|\.|\s|\d)',
+    'D.lgs': r'(?:DECRETO LEGISLATIVO\b|D\.?\s*LGS\b)',
+    'D.L': r'(?:DECRETO-LEGGE\b|D\.\s*L\.)',
+    'D.P.R': r'(?:DECRETO DEL PRESIDENTE DELLA REPUBBLICA\b|D\.?\s*P\.?\s*R\b)',
+}
 REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
                     r'(?:,\s+lett\.\s+[a-z]+\))?$')
 # "art. 4, punto 7": a numbered point "7)" of an article made of points
@@ -290,6 +304,33 @@ def parse_law(path):
     return law
 
 
+def act_matches_file(kind, first, second, name):
+    """True if the act named in a ref ("Reg. 2021/1060", "L. 3/2003") is the
+    act of the source file whose base name is `name`.
+
+    The name must start with the type of act (ACT_FILE_TYPES, ignoring case)
+    and contain the act's number and year:
+      - EU regulation "Reg. YYYY/N": the year, then the number
+        ("REGOLAMENTO (UE) 2021 1060 ...");
+      - national act "L. N/YYYY" (and D.lgs., D.L., D.P.R.): if the name
+        gives the number as "n. N" (Normattiva: "LEGGE 16 gennaio 2003 , n. 3"),
+        the year, then "n." and the number; otherwise the number, then the
+        year ("L. 190 2012", "L241-1990_...", "dlgs 33 2013").
+    """
+    if not re.match(ACT_FILE_TYPES[kind], name, re.I):
+        return False
+    if kind == 'Reg':
+        year, number = first, second
+        pattern = r'(?<!\d)%s\D+%s(?!\d)' % (year, number)
+    else:
+        number, year = first, second
+        if re.search(r'\bn\.\s*\d', name):
+            pattern = r'(?<!\d)%s\D+n\.\s*%s(?!\d)' % (year, number)
+        else:
+            pattern = r'(?<!\d)%s\D+%s(?!\d)' % (number, year)
+    return re.search(pattern, name) is not None
+
+
 def source_file(rel):
     """Absolute path of `source.file`, or (None, reason) if it is not usable."""
     if not isinstance(rel, str) or not rel.strip():
@@ -347,13 +388,21 @@ def main():
                     errors.append('%s evidence %d: ref %r is not in the form "art. X, comma Y" (or "par. Y", "punto Y", "art. X")' % (qid, i, ref))
                     continue
                 refs.append(ref.strip())
+                grp = norm((w or m or p).group(1))
+                act = ACT_RE.search(grp)
+                if act:
+                    name = os.path.basename(path)
+                    if not act_matches_file(*act.groups(), name):
+                        errors.append('%s evidence %d: ref %r names an act that is not %s' % (qid, i, ref, name))
+                        continue
+                    grp = grp[:act.start()]
                 if w:
-                    art = norm(w.group(1))
+                    art = grp
                     commas = [t for c, t in law.get(art, {}).items() if not c.startswith('punto ')]
                     body = ' '.join(commas) if commas else None
                 else:
-                    art, com = m.groups() if m else (p.group(1), 'punto ' + p.group(2))
-                    art = norm(art)
+                    com = m.group(2) if m else 'punto ' + p.group(2)
+                    art = grp
                     body = law.get(art, {}).get(com)
                 if body is None:
                     errors.append('%s evidence %d: %s not found in %s' % (qid, i, ref, os.path.basename(path)))
