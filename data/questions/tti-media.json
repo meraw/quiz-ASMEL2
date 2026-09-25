@@ -1,0 +1,392 @@
+[
+  {
+    "id": "tti-med-001",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Secondo la teoria ipodermica (o \"del proiettile magico\"), i mezzi di comunicazione di massa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agiscono direttamente e in modo uniforme su un pubblico passivo, come un ago che inietta il messaggio in ciascun individuo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Influenzano il pubblico soprattutto attraverso la mediazione dei leader d'opinione",
+        "why_wrong": "È l'ipotesi del flusso a due fasi, che ridimensiona gli effetti diretti dei media."
+      },
+      {
+        "id": "c",
+        "text": "Stabiliscono di quali temi il pubblico discute, più che su ciò che ne pensa",
+        "why_wrong": "È l'ipotesi dell'agenda setting."
+      },
+      {
+        "id": "d",
+        "text": "Sono scelti da un pubblico attivo per soddisfare i propri bisogni",
+        "why_wrong": "È l'approccio degli usi e gratificazioni, che rovescia la prospettiva della teoria ipodermica."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La teoria ipodermica concepisce il pubblico come una massa di individui isolati e passivi, sui quali i messaggi dei media producono effetti diretti, immediati e uguali per tutti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: teoria ipodermica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-002",
+    "subject": "teoria-tecniche-informazione",
+    "question": "L'ipotesi del flusso di comunicazione a due fasi (two-step flow), legata agli studi di Paul Lazarsfeld, sostiene che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "I media producono effetti diretti e immediati su ogni singolo individuo",
+        "why_wrong": "È la tesi della teoria ipodermica, che il flusso a due fasi mette in discussione."
+      },
+      {
+        "id": "b",
+        "text": "Chi percepisce la propria opinione come minoritaria tende a non esprimerla",
+        "why_wrong": "È la tesi della spirale del silenzio."
+      },
+      {
+        "id": "c",
+        "text": "I messaggi dei media raggiungono prima i leader d'opinione, che poi li trasmettono e li interpretano per le persone meno esposte ai media",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'esposizione prolungata alla televisione modella la percezione della realtà",
+        "why_wrong": "È la tesi della teoria della coltivazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Secondo il flusso a due fasi, l'influenza dei media non è diretta: passa attraverso i leader d'opinione, persone più informate e più esposte ai media, che la filtrano e la diffondono nei rapporti interpersonali.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: flusso a due fasi (two-step flow)",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-003",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Per far conoscere un nuovo servizio di assistenza domiciliare agli anziani, un Comune organizza incontri con parroci, presidenti dei centri anziani e medici di base, perché ne parlino a loro volta con le persone che frequentano. La strategia si basa sull'ipotesi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dell'agenda setting",
+        "why_wrong": "L'agenda setting riguarda la capacità dei media di rendere rilevanti certi temi per il pubblico."
+      },
+      {
+        "id": "b",
+        "text": "Della spirale del silenzio",
+        "why_wrong": "La spirale del silenzio riguarda la tendenza a tacere le opinioni percepite come minoritarie."
+      },
+      {
+        "id": "c",
+        "text": "Della teoria ipodermica",
+        "why_wrong": "La teoria ipodermica presuppone un effetto diretto dei media sul pubblico, senza intermediari."
+      },
+      {
+        "id": "d",
+        "text": "Del flusso a due fasi, che valorizza il ruolo dei leader d'opinione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Coinvolgere figure di riferimento affinché trasmettano il messaggio nelle loro cerchie significa sfruttare il ruolo dei leader d'opinione, centrale nell'ipotesi del flusso di comunicazione a due fasi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: flusso a due fasi (two-step flow)",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-004",
+    "subject": "teoria-tecniche-informazione",
+    "question": "L'approccio degli \"usi e gratificazioni\" sposta l'attenzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Da che cosa fanno i media alle persone a che cosa fanno le persone con i media",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Dagli effetti di breve periodo agli effetti cumulativi dell'esposizione televisiva",
+        "why_wrong": "È la prospettiva della teoria della coltivazione."
+      },
+      {
+        "id": "c",
+        "text": "Dal contenuto dei messaggi alla selezione delle notizie nelle redazioni",
+        "why_wrong": "La selezione delle notizie è l'oggetto degli studi sul gatekeeping."
+      },
+      {
+        "id": "d",
+        "text": "Dai temi trattati dai media alle opinioni che il pubblico ne ricava",
+        "why_wrong": "È una questione legata all'agenda setting, che riguarda i temi su cui il pubblico si concentra."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'approccio degli usi e gratificazioni considera il pubblico attivo: le persone scelgono i media e i contenuti in base ai propri bisogni (informarsi, svagarsi, socializzare) e alle gratificazioni che ne ottengono.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: usi e gratificazioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-005",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Secondo l'ipotesi dell'agenda setting, formulata da McCombs e Shaw, i mezzi di informazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Determinano in modo diretto le opinioni del pubblico sui singoli temi",
+        "why_wrong": "L'effetto diretto sulle opinioni è la tesi della teoria ipodermica."
+      },
+      {
+        "id": "b",
+        "text": "Influenzano soprattutto quali temi il pubblico considera importanti, più che su ciò che ne pensa",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Spingono al silenzio chi ritiene di avere un'opinione minoritaria",
+        "why_wrong": "È la tesi della spirale del silenzio."
+      },
+      {
+        "id": "d",
+        "text": "Sono utilizzati dal pubblico per soddisfare bisogni individuali",
+        "why_wrong": "È la prospettiva degli usi e gratificazioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'agenda setting sostiene che, dando più o meno spazio a certi argomenti, i media contribuiscono a stabilire la gerarchia dei temi ritenuti rilevanti dal pubblico: non tanto che cosa pensare, ma a che cosa pensare.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: agenda setting",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-006",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Dopo settimane in cui i giornali locali dedicano ampio spazio alla sicurezza stradale, un sondaggio rileva che i cittadini la indicano come il primo problema della città, anche se i dati sugli incidenti sono rimasti invariati. Il fenomeno è spiegato soprattutto dall'ipotesi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Della spirale del silenzio",
+        "why_wrong": "La spirale del silenzio riguarda l'espressione delle opinioni, non la rilevanza attribuita ai temi."
+      },
+      {
+        "id": "b",
+        "text": "Degli usi e gratificazioni",
+        "why_wrong": "Gli usi e gratificazioni riguardano i bisogni che il pubblico soddisfa attraverso i media."
+      },
+      {
+        "id": "c",
+        "text": "Dell'agenda setting",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Del gatekeeping",
+        "why_wrong": "Il gatekeeping riguarda la selezione delle notizie nelle redazioni, non l'effetto sul pubblico."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il pubblico attribuisce importanza ai temi a cui i media danno maggiore rilievo: è l'effetto descritto dall'agenda setting.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: agenda setting",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-007",
+    "subject": "teoria-tecniche-informazione",
+    "question": "La teoria della \"spirale del silenzio\" di Elisabeth Noelle-Neumann si fonda principalmente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sul ruolo dei leader d'opinione nel diffondere i messaggi dei media",
+        "why_wrong": "È il fondamento del flusso a due fasi."
+      },
+      {
+        "id": "b",
+        "text": "Sugli effetti cumulativi della forte esposizione televisiva",
+        "why_wrong": "È il fondamento della teoria della coltivazione."
+      },
+      {
+        "id": "c",
+        "text": "Sulla scelta attiva dei media da parte del pubblico",
+        "why_wrong": "È il fondamento degli usi e gratificazioni."
+      },
+      {
+        "id": "d",
+        "text": "Sulla paura dell'isolamento, che spinge chi si sente in minoranza a non esprimere la propria opinione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Secondo la spirale del silenzio, le persone osservano il clima d'opinione (anche attraverso i media) e, per timore di restare isolate, tendono a tacere se ritengono la propria posizione minoritaria. Così l'opinione percepita come dominante appare sempre più forte e l'altra sempre più debole.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: spirale del silenzio",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-008",
+    "subject": "teoria-tecniche-informazione",
+    "question": "In un'assemblea pubblica su un progetto urbanistico, alcuni residenti contrari restano in silenzio perché, da quanto hanno letto sui giornali, credono che quasi tutti siano favorevoli. Il loro silenzio rafforza ulteriormente l'impressione di un consenso generale. Il fenomeno descritto corrisponde:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alla spirale del silenzio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "All'agenda setting",
+        "why_wrong": "L'agenda setting riguarda quali temi il pubblico considera importanti, non la reticenza a esprimere opinioni."
+      },
+      {
+        "id": "c",
+        "text": "Alla teoria della coltivazione",
+        "why_wrong": "La coltivazione riguarda l'effetto dell'esposizione televisiva prolungata sulla percezione della realtà."
+      },
+      {
+        "id": "d",
+        "text": "Al flusso a due fasi",
+        "why_wrong": "Il flusso a due fasi riguarda la mediazione dei leader d'opinione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Chi percepisce la propria opinione come minoritaria tace per paura dell'isolamento, e il suo silenzio fa sembrare ancora più diffusa l'opinione prevalente: è il meccanismo della spirale del silenzio.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: spirale del silenzio",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-009",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Secondo la teoria della coltivazione, elaborata da George Gerbner, le persone che guardano molta televisione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scelgono i programmi in base ai propri bisogni e ne traggono gratificazioni",
+        "why_wrong": "È la prospettiva degli usi e gratificazioni."
+      },
+      {
+        "id": "b",
+        "text": "Tendono a percepire la realtà in modo più simile a come la rappresenta la televisione, per esempio come più violenta di quanto sia",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Ricevono i messaggi soprattutto attraverso i leader d'opinione",
+        "why_wrong": "È la tesi del flusso a due fasi."
+      },
+      {
+        "id": "d",
+        "text": "Tendono a non esprimere le opinioni che ritengono minoritarie",
+        "why_wrong": "È la tesi della spirale del silenzio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La teoria della coltivazione studia gli effetti di lungo periodo dell'esposizione televisiva: chi guarda molta televisione tende ad assimilare la visione del mondo proposta dai programmi, per esempio sovrastimando la diffusione della violenza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: teoria della coltivazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-med-010",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Il caporedattore di un quotidiano locale riceve ogni giorno centinaia di lanci d'agenzia e comunicati, ma ne sceglie solo alcuni da pubblicare, scartando gli altri. Questo processo di selezione è descritto dal concetto di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agenda setting",
+        "why_wrong": "L'agenda setting riguarda l'effetto dei media sulla rilevanza che il pubblico attribuisce ai temi."
+      },
+      {
+        "id": "b",
+        "text": "Coltivazione",
+        "why_wrong": "La coltivazione riguarda gli effetti di lungo periodo dell'esposizione televisiva."
+      },
+      {
+        "id": "c",
+        "text": "Gatekeeping",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Flusso a due fasi",
+        "why_wrong": "Il flusso a due fasi riguarda la diffusione dei messaggi tramite i leader d'opinione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il gatekeeping indica il processo con cui giornalisti e redazioni, come \"guardiani del cancello\", decidono quali informazioni diventano notizie e quali vengono scartate.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Effetti dei media: gatekeeping",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
