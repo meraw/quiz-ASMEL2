@@ -1,0 +1,404 @@
+[
+  {
+    "id": "tuel-pers-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 89 del TUEL, le determinazioni per l'organizzazione degli uffici e le misure inerenti alla gestione dei rapporti di lavoro sono assunte dai soggetti preposti alla gestione:",
+    "options": [
+      { "id": "a", "text": "Con provvedimenti amministrativi autoritativi, previa deliberazione della giunta", "why_wrong": "L'art. 89, comma 6, prevede che queste determinazioni siano assunte con la capacità e i poteri del privato datore di lavoro." },
+      { "id": "b", "text": "Con la capacità e i poteri del privato datore di lavoro", "why_wrong": null },
+      { "id": "c", "text": "Previo parere vincolante del segretario comunale", "why_wrong": "L'art. 89, comma 6, non prevede alcun parere del segretario." },
+      { "id": "d", "text": "Solo nei limiti fissati caso per caso dal consiglio comunale", "why_wrong": "L'art. 89, comma 6, colloca queste determinazioni nell'ambito delle leggi e dei regolamenti sull'ordinamento degli uffici, non di atti consiliari caso per caso." }
+    ],
+    "correct": "b",
+    "explanation": "Nell'ambito delle leggi e dei regolamenti sull'ordinamento degli uffici, le determinazioni organizzative e la gestione dei rapporti di lavoro sono assunte dai soggetti preposti alla gestione con la capacità e i poteri del privato datore di lavoro.",
+    "evidence": [
+      { "ref": "art. 89, comma 6", "text": "Nell'ambito delle leggi, nonché dei regolamenti di cui al comma 1, le determinazioni per l'organizzazione degli uffici e le misure inerenti alla gestione dei rapporti di lavoro sono assunte dai soggetti preposti alla gestione con la capacità e i poteri del privato datore di lavoro." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 89, comma 6", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un collaboratore assunto a tempo determinato nell'ufficio di staff del sindaco ha un contratto con trattamento economico parametrato a quello dirigenziale. Può adottare atti di gestione?",
+    "options": [
+      { "id": "a", "text": "Sì, perché il trattamento economico dirigenziale gli attribuisce i relativi poteri", "why_wrong": "L'art. 90, comma 3-bis, mantiene il divieto di attività gestionale anche quando il trattamento economico è parametrato a quello dirigenziale." },
+      { "id": "b", "text": "Sì, se il sindaco gli delega espressamente le funzioni dirigenziali", "why_wrong": "L'art. 90, comma 3-bis, pone un divieto di attività gestionale che non prevede eccezioni per delega del sindaco." },
+      { "id": "c", "text": "No, perché resta fermo il divieto di effettuazione di attività gestionale", "why_wrong": null },
+      { "id": "d", "text": "Sì, ma solo per gli atti di gestione del personale dell'ufficio di staff", "why_wrong": "L'art. 90, comma 3-bis, vieta l'attività gestionale senza distinzioni." }
+    ],
+    "correct": "c",
+    "explanation": "Gli uffici di supporto agli organi di direzione politica servono all'esercizio delle funzioni di indirizzo e controllo; per il loro personale resta fermo il divieto di attività gestionale, anche se il trattamento economico è parametrato a quello dirigenziale.",
+    "evidence": [
+      { "ref": "art. 90, comma 3-bis", "text": "Resta fermo il divieto di effettuazione di attività gestionale anche nel caso in cui nel contratto individuale di lavoro il trattamento economico, prescindendo dal possesso del titolo di studio, è parametrato a quello dirigenziale." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 90, comma 3-bis", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Gli uffici posti alle dirette dipendenze del sindaco, della giunta o degli assessori previsti dall'art. 90 del TUEL sono costituiti:",
+    "options": [
+      { "id": "a", "text": "Per l'esercizio delle funzioni di gestione amministrativa, finanziaria e tecnica", "why_wrong": "La gestione amministrativa, finanziaria e tecnica spetta ai dirigenti (art. 107, comma 1); questi uffici supportano le funzioni di indirizzo e di controllo." },
+      { "id": "b", "text": "Con deliberazione del consiglio comunale, esclusivamente da dipendenti dell'ente", "why_wrong": "La costituzione è prevista dal regolamento sull'ordinamento degli uffici e dei servizi e può riguardare anche collaboratori a tempo determinato." },
+      { "id": "c", "text": "Solo da collaboratori esterni con contratto di consulenza", "why_wrong": "L'art. 90, comma 1, prevede dipendenti dell'ente oppure collaboratori assunti con contratto a tempo determinato." },
+      { "id": "d", "text": "Se previsti dal regolamento sull'ordinamento degli uffici e dei servizi, per l'esercizio delle funzioni di indirizzo e di controllo, con dipendenti dell'ente o collaboratori a tempo determinato", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Il regolamento sull'ordinamento degli uffici e dei servizi può prevedere uffici di supporto agli organi politici per le funzioni di indirizzo e controllo, formati da dipendenti o da collaboratori a tempo determinato; questi, se dipendenti pubblici, sono collocati in aspettativa senza assegni.",
+    "evidence": [
+      { "ref": "art. 90, comma 1", "text": "Il regolamento sull'ordinamento degli uffici e dei servizi può prevedere la costituzione di uffici posti alle dirette dipendenze del sindaco, del presidente della provincia, della giunta o degli assessori, per l'esercizio delle funzioni di indirizzo e di controllo loro attribuite dalla legge, costituiti da dipendenti dell'ente, ovvero," }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 90, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_rivedere",
+    "review_note": "Check 2 non superato: l'evidence riportata per l'art. 90, comma 1, si interrompe a \"costituiti da dipendenti dell'ente, ovvero,\" e quindi non sostiene la parte della risposta corretta (d) relativa ai \"collaboratori a tempo determinato\", né l'affermazione della spiegazione sull'aspettativa senza assegni. Il testo completo di TUEL.txt prosegue: \"salvo che per gli enti dissestati o strutturalmente deficitari, da collaboratori assunti con contratto a tempo determinato, i quali, se dipendenti da una pubblica amministrazione, sono collocati in aspettativa senza assegni.\" Correzione suggerita: estendere l'evidence fino a \"aspettativa senza assegni.\" (eventualmente dividerla in due spezzoni verbatim). Valutare anche di menzionare nell'opzione d o nella spiegazione l'eccezione per gli enti dissestati o strutturalmente deficitari, prevista espressamente dal comma 1.",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "A quali condizioni un ente locale può prevedere concorsi interamente riservati al personale dipendente?",
+    "options": [
+      { "id": "a", "text": "Sempre, per qualsiasi profilo, nel limite del 50 per cento dei posti", "why_wrong": "L'art. 91, comma 3, ammette la riserva integrale solo per particolari profili con professionalità acquisita esclusivamente all'interno dell'ente." },
+      { "id": "b", "text": "Solo se l'ente non versa in situazioni strutturalmente deficitarie e solo per particolari profili caratterizzati da una professionalità acquisita esclusivamente all'interno dell'ente", "why_wrong": null },
+      { "id": "c", "text": "Solo nei comuni interessati da flussi turistici stagionali", "why_wrong": "I flussi turistici stagionali giustificano particolari modalità di selezione per assunzioni a tempo determinato (art. 92, comma 2), non concorsi riservati." },
+      { "id": "d", "text": "Mai, perché l'accesso deve sempre avvenire mediante concorso pubblico aperto", "why_wrong": "L'art. 91, comma 3, consente concorsi interamente riservati, sia pure a condizioni precise." }
+    ],
+    "correct": "b",
+    "explanation": "Gli enti locali non strutturalmente deficitari possono bandire concorsi interamente riservati al personale interno solo per particolari profili la cui professionalità si acquisisce esclusivamente all'interno dell'ente.",
+    "evidence": [
+      { "ref": "art. 91, comma 3", "text": "Gli enti locali che non versino nelle situazioni strutturalmente deficitarie possono prevedere concorsi interamente riservati al personale dipendente, solo in relazione a particolari profili o figure professionali caratterizzati da una professionalità acquisita esclusivamente all'interno dell'ente." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 91, comma 3", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune costiero vede triplicare la popolazione nei mesi estivi per i flussi turistici e deve assumere rapidamente personale a tempo determinato per mantenere adeguati i servizi pubblici. Cosa consente il TUEL?",
+    "options": [
+      { "id": "a", "text": "Il regolamento può prevedere particolari modalità di selezione per le assunzioni a tempo determinato per esigenze temporanee o stagionali, secondo criteri di rapidità e trasparenza ed escludendo ogni forma di discriminazione", "why_wrong": null },
+      { "id": "b", "text": "Il sindaco può assumere direttamente il personale stagionale con propria ordinanza, senza selezione", "why_wrong": "L'art. 92, comma 2, rimette al regolamento particolari modalità di selezione, comunque rapide e trasparenti; non prevede assunzioni dirette con ordinanza." },
+      { "id": "c", "text": "Il Comune può bandire concorsi interamente riservati ai propri dipendenti", "why_wrong": "I concorsi riservati (art. 91, comma 3) riguardano profili con professionalità acquisita solo all'interno dell'ente, non le esigenze stagionali." },
+      { "id": "d", "text": "Il Comune può utilizzare personale degli uffici di staff del sindaco", "why_wrong": "Gli uffici di staff (art. 90) supportano le funzioni di indirizzo e controllo degli organi politici e non possono svolgere attività gestionale." }
+    ],
+    "correct": "a",
+    "explanation": "Nei comuni con mutamenti demografici stagionali legati a flussi turistici o a manifestazioni periodiche, il regolamento può prevedere modalità di selezione particolari per assunzioni a tempo determinato, rapide, trasparenti e non discriminatorie.",
+    "evidence": [
+      { "ref": "art. 92, comma 2", "text": "Nei comuni interessati da mutamenti demografici stagionali in relazione a flussi turistici o a particolari manifestazioni anche a carattere periodico, al fine di assicurare il mantenimento di adeguati livelli quantitativi e qualitativi dei servizi pubblici, il regolamento può prevedere particolari modalità di selezione per l'assunzione del personale a tempo determinato per esigenze temporanee o stagionali, secondo criteri di rapidità e trasparenza ed escludendo ogni forma di discriminazione." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 92, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un dipendente comunale ha causato un danno all'ente ed è poi deceduto. I suoi eredi non si sono arricchiti in alcun modo. Rispondono del danno?",
+    "options": [
+      { "id": "a", "text": "Sì, sempre, nei limiti dell'eredità ricevuta", "why_wrong": "L'art. 93, comma 4, esclude che la responsabilità si estenda agli eredi, salvo il caso di illecito arricchimento." },
+      { "id": "b", "text": "Sì, se l'azione di responsabilità è promossa entro dieci anni dal fatto", "why_wrong": "L'azione si prescrive in cinque anni e comunque la responsabilità non passa agli eredi salvo illecito arricchimento (art. 93, comma 4)." },
+      { "id": "c", "text": "No, perché la responsabilità è personale e non si estende agli eredi, salvo il caso di illecito arricchimento del dante causa e conseguente illecito arricchimento degli eredi", "why_wrong": null },
+      { "id": "d", "text": "Sì, in solido con il dirigente del servizio", "why_wrong": "L'art. 93, comma 4, afferma il carattere personale della responsabilità e non prevede alcuna solidarietà con il dirigente." }
+    ],
+    "correct": "c",
+    "explanation": "L'azione di responsabilità si prescrive in cinque anni dal fatto; la responsabilità di amministratori e dipendenti di comuni e province è personale e passa agli eredi solo in caso di illecito arricchimento del dante causa e conseguente illecito arricchimento degli eredi.",
+    "evidence": [
+      { "ref": "art. 93, comma 4", "text": "La responsabilità nei confronti degli amministratori e dei dipendenti dei comuni e delle province è personale e non si estende agli eredi salvo il caso in cui vi sia stato illecito arricchimento del dante causa e conseguente illecito arricchimento degli eredi stessi." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 93, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 93 del TUEL, il tesoriere e ogni altro agente contabile che abbia maneggio di pubblico denaro dell'ente locale:",
+    "options": [
+      { "id": "a", "text": "Devono rendere il conto della loro gestione e sono soggetti alla giurisdizione della Corte dei conti", "why_wrong": null },
+      { "id": "b", "text": "Rendono il conto soltanto al consiglio comunale, che lo approva in via definitiva", "why_wrong": "L'art. 93, comma 2, assoggetta gli agenti contabili alla giurisdizione della Corte dei conti." },
+      { "id": "c", "text": "Sono soggetti alla giurisdizione del giudice ordinario", "why_wrong": "L'art. 93, comma 2, indica la giurisdizione della Corte dei conti." },
+      { "id": "d", "text": "Rispondono solo se hanno agito con dolo", "why_wrong": "L'art. 93, comma 2, impone di rendere il conto e assoggetta alla Corte dei conti, senza limitare la responsabilità al solo dolo." }
+    ],
+    "correct": "a",
+    "explanation": "Il tesoriere, gli altri agenti contabili e chi si ingerisce nei loro incarichi devono rendere il conto della gestione e sono soggetti alla giurisdizione della Corte dei conti.",
+    "evidence": [
+      { "ref": "art. 93, comma 2", "text": "Il tesoriere ed ogni altro agente contabile che abbia maneggio di pubblico denaro o sia incaricato della gestione dei beni degli enti locali, nonché coloro che si ingeriscano negli incarichi attribuiti a detti agenti devono rendere il conto della loro gestione e sono soggetti alla giurisdizione della Corte dei conti secondo le norme e le procedure previste dalle leggi vigenti." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 93, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quali funzioni svolge il segretario comunale nei confronti degli organi dell'ente, secondo l'art. 97, comma 2, del TUEL?",
+    "options": [
+      { "id": "a", "text": "Funzioni di indirizzo e di controllo politico-amministrativo", "why_wrong": "L'indirizzo e il controllo politico-amministrativo spettano al consiglio (art. 42, comma 1)." },
+      { "id": "b", "text": "Funzioni di controllo preventivo di legittimità sugli atti, con potere di annullamento", "why_wrong": "L'art. 97, comma 2, attribuisce al segretario compiti di collaborazione e assistenza, non poteri di annullamento." },
+      { "id": "c", "text": "Compiti di collaborazione e funzioni di assistenza giuridico-amministrativa in ordine alla conformità dell'azione amministrativa alle leggi, allo statuto ed ai regolamenti", "why_wrong": null },
+      { "id": "d", "text": "La gestione amministrativa, finanziaria e tecnica dell'ente", "why_wrong": "La gestione amministrativa, finanziaria e tecnica è attribuita ai dirigenti (art. 107, comma 1)." }
+    ],
+    "correct": "c",
+    "explanation": "Il segretario svolge compiti di collaborazione e funzioni di assistenza giuridico-amministrativa nei confronti degli organi dell'ente, in ordine alla conformità dell'azione amministrativa a leggi, statuto e regolamenti.",
+    "evidence": [
+      { "ref": "art. 97, comma 2", "text": "Il segretario comunale e provinciale svolge compiti di collaborazione e funzioni di assistenza giuridico-amministrativa nei confronti degli organi dell'ente in ordine alla conformità dell'azione amministrativa alle leggi, allo statuto ed ai regolamenti." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quale tra le seguenti attività rientra tra quelle attribuite dal TUEL al segretario comunale?",
+    "options": [
+      { "id": "a", "text": "La presidenza delle commissioni di gara e di concorso", "why_wrong": "La presidenza delle commissioni di gara e di concorso è attribuita ai dirigenti (art. 107, comma 3, lettera a))." },
+      { "id": "b", "text": "Rogare, su richiesta dell'ente, i contratti nei quali l'ente è parte e autenticare scritture private ed atti unilaterali nell'interesse dell'ente", "why_wrong": null },
+      { "id": "c", "text": "La stipulazione dei contratti in rappresentanza dell'ente", "why_wrong": "La stipulazione dei contratti è attribuita ai dirigenti (art. 107, comma 3, lettera c)); il segretario roga i contratti su richiesta dell'ente." },
+      { "id": "d", "text": "La nomina dei responsabili degli uffici e dei servizi", "why_wrong": "La nomina dei responsabili degli uffici e dei servizi spetta al sindaco (art. 50, comma 10)." }
+    ],
+    "correct": "b",
+    "explanation": "Tra le funzioni del segretario vi sono la partecipazione alle riunioni di consiglio e giunta con cura della verbalizzazione e il rogito, su richiesta dell'ente, dei contratti di cui l'ente è parte, con l'autenticazione di scritture private e atti unilaterali.",
+    "evidence": [
+      { "ref": "art. 97, comma 4", "text": "c) ((roga, su richiesta dell'ente, i contratti nei quali l'ente è parte e autentica)) scritture private ed atti unilaterali nell'interesse dell'ente;" }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nelle riunioni del consiglio e della giunta, il segretario comunale:",
+    "options": [
+      { "id": "a", "text": "Partecipa con diritto di voto e ne cura la verbalizzazione", "why_wrong": "L'art. 97, comma 4, lettera a), prevede funzioni consultive, referenti e di assistenza, non il diritto di voto." },
+      { "id": "b", "text": "Partecipa solo se lo richiede il sindaco", "why_wrong": "La partecipazione alle riunioni e la verbalizzazione sono funzioni attribuite al segretario dall'art. 97, comma 4, lettera a), non rimesse a una richiesta del sindaco." },
+      { "id": "c", "text": "Presiede la seduta in assenza del sindaco", "why_wrong": "In caso di assenza o impedimento il sindaco è sostituito dal vicesindaco (art. 53, comma 2), non dal segretario." },
+      { "id": "d", "text": "Partecipa con funzioni consultive, referenti e di assistenza e ne cura la verbalizzazione", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Il segretario partecipa alle riunioni del consiglio e della giunta con funzioni consultive, referenti e di assistenza e ne cura la verbalizzazione.",
+    "evidence": [
+      { "ref": "art. 97, comma 4", "text": "a) partecipa con funzioni consultive, referenti e di assistenza alle riunioni del consiglio e della giunta e ne cura la verbalizzazione;" }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 97, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Scade il mandato del sindaco che aveva nominato il segretario comunale. Cosa accade al segretario?",
+    "options": [
+      { "id": "a", "text": "Resta in carica fino alla scadenza naturale del proprio contratto quinquennale", "why_wrong": "L'art. 99, comma 2, lega la durata della nomina al mandato del sindaco che lo ha nominato." },
+      { "id": "b", "text": "Decade immediatamente e le sue funzioni sono svolte dal vicesegretario fino a nuova nomina", "why_wrong": "L'art. 99, comma 2, prevede che il segretario continui a esercitare le funzioni fino alla nomina del nuovo segretario." },
+      { "id": "c", "text": "Cessa automaticamente dall'incarico, ma continua ad esercitare le funzioni sino alla nomina del nuovo segretario", "why_wrong": null },
+      { "id": "d", "text": "È confermato di diritto per il mandato successivo", "why_wrong": "La conferma opera solo se il nuovo sindaco non procede alla nomina entro centoventi giorni dall'insediamento (art. 99, comma 3), non di diritto alla scadenza del mandato." }
+    ],
+    "correct": "c",
+    "explanation": "La nomina del segretario dura quanto il mandato del sindaco che lo ha nominato; alla cessazione del mandato il segretario cessa automaticamente, ma continua a esercitare le funzioni fino alla nomina del nuovo.",
+    "evidence": [
+      { "ref": "art. 99, comma 2", "text": "Salvo quanto disposto dall'articolo 100, la nomina ha durata corrispondente a quella del mandato del sindaco o del presidente della provincia che lo ha nominato. Il segretario cessa automaticamente dall'incarico con la cessazione del mandato del sindaco e del presidente della provincia, continuando ad esercitare le funzioni sino alla nomina del nuovo segretario." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 99, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un sindaco neoeletto si è insediato da 130 giorni e non ha ancora nominato un nuovo segretario comunale. Qual è la situazione del segretario in servizio?",
+    "options": [
+      { "id": "a", "text": "Il segretario è confermato, perché la nomina doveva essere disposta non oltre centoventi giorni dall'insediamento", "why_wrong": null },
+      { "id": "b", "text": "Il sindaco può ancora nominare un nuovo segretario, perché non è previsto alcun termine", "why_wrong": "L'art. 99, comma 3, fissa per la nomina un termine massimo di centoventi giorni dall'insediamento." },
+      { "id": "c", "text": "Il segretario è collocato in disponibilità", "why_wrong": "La disponibilità (art. 101, comma 1) riguarda il segretario non confermato, revocato o privo di incarico; qui, decorso il termine, il segretario è confermato." },
+      { "id": "d", "text": "Il prefetto nomina il segretario in via sostitutiva", "why_wrong": "L'art. 99, comma 3, non prevede un intervento sostitutivo del prefetto: decorsi i termini il segretario è confermato." }
+    ],
+    "correct": "a",
+    "explanation": "La nomina del segretario è disposta non prima di sessanta e non oltre centoventi giorni dall'insediamento del sindaco; decorso tale termine il segretario in servizio è confermato.",
+    "evidence": [
+      { "ref": "art. 99, comma 3", "text": "La nomina è disposta non prima di sessanta giorni e non oltre centoventi giorni dalla data di insediamento del sindaco e del presidente della provincia, decorsi i quali il segretario è confermato." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 99, comma 3", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il segretario comunale può essere revocato:",
+    "options": [
+      { "id": "a", "text": "Con deliberazione del consiglio comunale a maggioranza assoluta, per qualsiasi motivo", "why_wrong": "L'art. 100 attribuisce la revoca al sindaco, previa deliberazione della giunta, e solo per violazione dei doveri d'ufficio." },
+      { "id": "b", "text": "Liberamente dal sindaco, trattandosi di incarico fiduciario", "why_wrong": "L'art. 100 richiede un provvedimento motivato, la previa deliberazione della giunta e la violazione dei doveri d'ufficio." },
+      { "id": "c", "text": "Dal prefetto, su proposta del sindaco", "why_wrong": "L'art. 100 attribuisce la revoca al sindaco o al presidente della provincia." },
+      { "id": "d", "text": "Con provvedimento motivato del sindaco, previa deliberazione della giunta, per violazione dei doveri d'ufficio", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "La revoca del segretario richiede un provvedimento motivato del sindaco o del presidente della provincia, la previa deliberazione della giunta e la violazione dei doveri d'ufficio.",
+    "evidence": [
+      { "ref": "art. 100, comma 1", "text": "Il segretario può essere revocato con provvedimento motivato del sindaco o del presidente della provincia, previa deliberazione della giunta, per violazione dei doveri d'ufficio." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 100, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il segretario comunale non confermato, revocato o comunque privo di incarico è collocato in posizione di disponibilità per la durata massima di:",
+    "options": [
+      { "id": "a", "text": "Sei mesi", "why_wrong": "L'art. 101, comma 1, fissa la durata massima in due anni." },
+      { "id": "b", "text": "Un anno", "why_wrong": "L'art. 101, comma 1, fissa la durata massima in due anni." },
+      { "id": "c", "text": "Due anni, decorsi i quali, se non ha preso servizio come titolare in altra sede, è collocato d'ufficio in mobilità presso altre pubbliche amministrazioni", "why_wrong": null },
+      { "id": "d", "text": "Tre anni, decorsi i quali è cancellato dall'albo", "why_wrong": "La disponibilità dura al massimo due anni e alla scadenza è prevista la mobilità d'ufficio, non la cancellazione dall'albo (art. 101, commi 1 e 4)." }
+    ],
+    "correct": "c",
+    "explanation": "La disponibilità dura al massimo due anni; decorso tale periodo senza presa di servizio come titolare in altra sede, il segretario è collocato d'ufficio in mobilità presso altre pubbliche amministrazioni.",
+    "evidence": [
+      { "ref": "art. 101, comma 1", "text": "Il segretario comunale o provinciale non confermato, revocato o comunque privo di incarico è collocato in posizione di disponibilità per la durata massima di (( due anni ))" },
+      { "ref": "art. 101, comma 4", "text": "senza che abbia preso servizio in qualità di titolare in altra sede il segretario viene collocato d'ufficio in mobilità presso altre pubbliche amministrazioni nella piena salvaguardia della posizione giuridica ed economica." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 101, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo il principio fissato dall'art. 107, comma 1, del TUEL:",
+    "options": [
+      { "id": "a", "text": "I poteri di indirizzo e di controllo politico-amministrativo spettano agli organi di governo, mentre la gestione amministrativa, finanziaria e tecnica è attribuita ai dirigenti", "why_wrong": null },
+      { "id": "b", "text": "Gli organi di governo esercitano sia l'indirizzo sia la gestione, avvalendosi dei dirigenti", "why_wrong": "L'art. 107, comma 1, separa l'indirizzo e controllo, spettante agli organi di governo, dalla gestione, attribuita ai dirigenti." },
+      { "id": "c", "text": "La gestione finanziaria spetta alla giunta, quella tecnica ai dirigenti", "why_wrong": "L'art. 107, comma 1, attribuisce ai dirigenti la gestione amministrativa, finanziaria e tecnica." },
+      { "id": "d", "text": "I dirigenti esercitano l'indirizzo politico-amministrativo nelle materie delegate dal sindaco", "why_wrong": "L'indirizzo e il controllo politico-amministrativo spettano agli organi di governo (art. 107, comma 1)." }
+    ],
+    "correct": "a",
+    "explanation": "Statuti e regolamenti si uniformano al principio di separazione: indirizzo e controllo politico-amministrativo agli organi di governo; gestione amministrativa, finanziaria e tecnica ai dirigenti, con autonomi poteri di spesa, di organizzazione e di controllo.",
+    "evidence": [
+      { "ref": "art. 107, comma 1", "text": "Questi si uniformano al principio per cui i poteri di indirizzo e di controllo politico-amministrativo spettano agli organi di governo, mentre la gestione amministrativa, finanziaria e tecnica è attribuita ai dirigenti mediante autonomi poteri di spesa, di organizzazione delle risorse umane, strumentali e di controllo." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In un Comune viene accertato un abuso edilizio in corso di realizzazione. Chi è competente, secondo il TUEL, ad adottare il provvedimento di sospensione dei lavori?",
+    "options": [
+      { "id": "a", "text": "Il sindaco, con ordinanza", "why_wrong": "L'art. 107, comma 3, lettera g), attribuisce ai dirigenti i provvedimenti di sospensione dei lavori e i poteri di vigilanza edilizia." },
+      { "id": "b", "text": "La giunta comunale, con deliberazione", "why_wrong": "Si tratta di un atto di gestione che l'art. 107, comma 3, lettera g), attribuisce ai dirigenti." },
+      { "id": "c", "text": "Il consiglio comunale, trattandosi di materia urbanistica", "why_wrong": "Al consiglio spettano i piani territoriali e urbanistici (art. 42, comma 2, lettera b)), non i singoli provvedimenti repressivi degli abusi." },
+      { "id": "d", "text": "Il dirigente competente", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Spettano ai dirigenti tutti i provvedimenti di sospensione dei lavori, abbattimento e riduzione in pristino di competenza comunale, oltre ai poteri di vigilanza edilizia e sanzionatori contro l'abusivismo edilizio e paesaggistico-ambientale.",
+    "evidence": [
+      { "ref": "art. 107, comma 3", "text": "g) tutti i provvedimenti di sospensione dei lavori, abbattimento e riduzione in pristino di competenza comunale, nonché i poteri di vigilanza edilizia e di irrogazione delle sanzioni amministrative previsti dalla vigente legislazione statale e regionale in materia di prevenzione e repressione dell'abusivismo edilizio e paesaggistico- ambientale;" }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 3", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Le attribuzioni dei dirigenti previste dall'art. 107 del TUEL possono essere derogate:",
+    "options": [
+      { "id": "a", "text": "Dallo statuto dell'ente", "why_wrong": "L'art. 107, comma 4, ammette deroghe solo da parte di specifiche disposizioni legislative." },
+      { "id": "b", "text": "Soltanto espressamente e ad opera di specifiche disposizioni legislative", "why_wrong": null },
+      { "id": "c", "text": "Con deliberazione della giunta, per singoli atti", "why_wrong": "L'art. 107, comma 4, ammette deroghe solo da parte di specifiche disposizioni legislative." },
+      { "id": "d", "text": "Dal regolamento sull'ordinamento degli uffici e dei servizi", "why_wrong": "L'art. 107, comma 4, ammette deroghe solo da parte di specifiche disposizioni legislative." }
+    ],
+    "correct": "b",
+    "explanation": "In applicazione del principio dell'art. 1, comma 4, le attribuzioni dei dirigenti possono essere derogate soltanto espressamente e da specifiche disposizioni di legge.",
+    "evidence": [
+      { "ref": "art. 107, comma 4", "text": "Le attribuzioni dei dirigenti, in applicazione del principio di cui all'articolo 1, comma 4, possono essere derogate soltanto espressamente e ad opera di specifiche disposizioni legislative." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 107, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il sindaco di un Comune di 9.000 abitanti vorrebbe avvalersi di un direttore generale. Cosa prevede il TUEL?",
+    "options": [
+      { "id": "a", "text": "Può nominarlo direttamente, previa deliberazione della giunta", "why_wrong": "La nomina diretta, previa deliberazione della giunta, è prevista per i comuni con popolazione superiore ai 15.000 abitanti (art. 108, comma 1)." },
+      { "id": "b", "text": "Non può mai nominarlo, perché il direttore generale è previsto solo nei comuni sopra i 15.000 abitanti", "why_wrong": "L'art. 108, comma 3, consente la nomina anche sotto i 15.000 abitanti, tramite convenzione tra comuni." },
+      { "id": "c", "text": "Può nominarlo previa stipula di convenzione tra comuni le cui popolazioni assommate raggiungano i 15.000 abitanti", "why_wrong": null },
+      { "id": "d", "text": "Può nominarlo solo con l'autorizzazione della regione", "why_wrong": "L'art. 108, comma 3, richiede una convenzione tra comuni, non un'autorizzazione regionale." }
+    ],
+    "correct": "c",
+    "explanation": "Nei comuni sotto i 15.000 abitanti il direttore generale può essere nominato previa convenzione tra comuni che insieme raggiungano i 15.000 abitanti; in tal caso provvede anche alla gestione coordinata o unitaria dei servizi tra i comuni.",
+    "evidence": [
+      { "ref": "art. 108, comma 3", "text": "Nei comuni con popolazione inferiore ai 15.000 abitanti è consentito procedere alla nomina del direttore generale previa stipula di convenzione tra comuni le cui popolazioni assommate raggiungano i 15.000 abitanti." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 108, comma 3", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Se il direttore generale non è stato nominato, le relative funzioni:",
+    "options": [
+      { "id": "a", "text": "Possono essere conferite dal sindaco al segretario", "why_wrong": null },
+      { "id": "b", "text": "Sono esercitate di diritto dal dirigente con maggiore anzianità", "why_wrong": "L'art. 108, comma 4, consente di conferire le funzioni al segretario, non al dirigente più anziano." },
+      { "id": "c", "text": "Sono esercitate dalla giunta collegialmente", "why_wrong": "L'art. 108, comma 4, prevede che le funzioni possano essere conferite al segretario." },
+      { "id": "d", "text": "Sono attribuite dal consiglio a un consigliere delegato", "why_wrong": "L'art. 108, comma 4, prevede il conferimento da parte del sindaco al segretario, non al consigliere." }
+    ],
+    "correct": "a",
+    "explanation": "Quando non sono stipulate le convenzioni per i comuni minori e in ogni altro caso di mancata nomina del direttore generale, il sindaco o il presidente della provincia possono conferirne le funzioni al segretario.",
+    "evidence": [
+      { "ref": "art. 108, comma 4", "text": "Quando non risultino stipulate le convenzioni previste dal comma 3 e in ogni altro caso in cui il direttore generale non sia stato nominato, le relative funzioni possono essere conferite dal sindaco o dal presidente della provincia al segretario." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 108, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-pers-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un piccolo Comune non ha personale con qualifica dirigenziale. A chi possono essere attribuite le funzioni dirigenziali previste dall'art. 107, commi 2 e 3?",
+    "options": [
+      { "id": "a", "text": "Esclusivamente al segretario comunale", "why_wrong": "L'art. 109, comma 2, consente di attribuirle ai responsabili degli uffici o dei servizi, facendo salvo solo quanto previsto dall'art. 97, comma 4, lettera d)." },
+      { "id": "b", "text": "Agli assessori competenti per materia", "why_wrong": "L'art. 109, comma 2, prevede l'attribuzione ai responsabili degli uffici o dei servizi, non agli assessori." },
+      { "id": "c", "text": "Ai responsabili degli uffici o dei servizi, con provvedimento motivato del sindaco, indipendentemente dalla loro qualifica funzionale", "why_wrong": null },
+      { "id": "d", "text": "A un dirigente esterno, obbligatoriamente assunto a tempo determinato", "why_wrong": "L'art. 109, comma 2, consente di attribuire le funzioni ai responsabili degli uffici o dei servizi; non impone l'assunzione di un dirigente esterno." }
+    ],
+    "correct": "c",
+    "explanation": "Nei comuni privi di dirigenti, le funzioni dirigenziali possono essere attribuite con provvedimento motivato del sindaco ai responsabili degli uffici o dei servizi, indipendentemente dalla qualifica funzionale e anche in deroga a ogni diversa disposizione.",
+    "evidence": [
+      { "ref": "art. 109, comma 2", "text": "Nei comuni privi di personale di qualifica dirigenziale le funzioni di cui all'articolo 107, commi 2 e 3, fatta salva l'applicazione dell'articolo 97, comma 4, lettera d), possono essere attribuite, a seguito di provvedimento motivato del sindaco, ai responsabili degli uffici o dei servizi, indipendentemente dalla loro qualifica funzionale, anche in deroga a ogni diversa disposizione." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 109, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  }
+]

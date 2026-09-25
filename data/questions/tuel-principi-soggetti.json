@@ -1,0 +1,405 @@
+[
+  {
+    "id": "tuel-ps-001",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo il TUEL, entro quale termine gli enti locali adeguano i propri statuti all'entrata in vigore di nuove leggi che enunciano principi costituenti limite inderogabile per la loro autonomia normativa?",
+    "options": [
+      { "id": "a", "text": "Entro 120 giorni dalla data di entrata in vigore delle leggi", "why_wrong": null },
+      { "id": "b", "text": "Entro 30 giorni dalla data di entrata in vigore delle leggi", "why_wrong": "Trenta giorni è il termine entro cui si ripete la votazione sullo statuto se non si raggiunge la maggioranza dei due terzi (art. 6, comma 4), non il termine di adeguamento." },
+      { "id": "c", "text": "Entro 60 giorni dalla data di entrata in vigore delle leggi", "why_wrong": "L'art. 1, comma 3, fissa per l'adeguamento degli statuti il termine di 120 giorni." },
+      { "id": "d", "text": "Entro un anno dalla pubblicazione delle leggi nella Gazzetta Ufficiale", "why_wrong": "L'art. 1, comma 3, fissa per l'adeguamento degli statuti il termine di 120 giorni dall'entrata in vigore delle leggi." }
+    ],
+    "correct": "a",
+    "explanation": "L'entrata in vigore di nuove leggi che enunciano principi inderogabili per l'autonomia normativa degli enti locali abroga le norme statutarie incompatibili; gli enti adeguano gli statuti entro 120 giorni.",
+    "evidence": [
+      { "ref": "art. 1, comma 3", "text": "L'entrata in vigore di nuove leggi che enunciano tali principi abroga le norme statutarie con essi incompatibili. Gli enti locali adeguano gli statuti entro 120 giorni dalla data di entrata in vigore delle leggi suddette." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 1, comma 3", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-002",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In base all'art. 1 del TUEL, le leggi della Repubblica possono introdurre deroghe al testo unico:",
+    "options": [
+      { "id": "a", "text": "Soltanto se approvate con la maggioranza assoluta dei componenti di ciascuna Camera", "why_wrong": "Il TUEL non richiede una maggioranza qualificata: richiede che la deroga avvenga mediante espressa modificazione delle sue disposizioni." },
+      { "id": "b", "text": "Liberamente, trattandosi di fonti di pari rango", "why_wrong": "L'art. 1, comma 4, esclude deroghe che non avvengano mediante espressa modificazione delle disposizioni del testo unico." },
+      { "id": "c", "text": "Solo mediante espressa modificazione delle sue disposizioni", "why_wrong": null },
+      { "id": "d", "text": "Solo previo parere favorevole della Conferenza Stato-città ed autonomie locali", "why_wrong": "L'art. 1, comma 4, non prevede alcun parere: richiede l'espressa modificazione delle disposizioni del testo unico." }
+    ],
+    "correct": "c",
+    "explanation": "Ai sensi dell'art. 128 Cost. richiamato dall'art. 1, comma 4, le leggi della Repubblica non possono derogare al TUEL se non modificandone espressamente le disposizioni.",
+    "evidence": [
+      { "ref": "art. 1, comma 4", "text": "le leggi della Repubblica non possono introdurre deroghe al presente testo unico se non mediante espressa modificazione delle sue disposizioni." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 1, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-003",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Ai fini del TUEL, si intendono per enti locali:",
+    "options": [
+      { "id": "a", "text": "I comuni, le province, le città metropolitane e le regioni", "why_wrong": "Le regioni non sono enti locali ai sensi dell'art. 2, comma 1; il TUEL disciplina i rapporti con esse, ad esempio all'art. 4." },
+      { "id": "b", "text": "I comuni, le province, le città metropolitane, le comunità montane, le comunità isolane e le unioni di comuni", "why_wrong": null },
+      { "id": "c", "text": "I comuni, le province e i consorzi cui partecipano enti locali", "why_wrong": "Ai consorzi si applicano, salvo diverse disposizioni, le norme sugli enti locali (art. 2, comma 2), ma non sono elencati tra gli enti locali dal comma 1." },
+      { "id": "d", "text": "Soltanto i comuni e le province", "why_wrong": "L'art. 2, comma 1, include anche città metropolitane, comunità montane, comunità isolane e unioni di comuni." }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 1, elenca come enti locali comuni, province, città metropolitane, comunità montane, comunità isolane e unioni di comuni.",
+    "evidence": [
+      { "ref": "art. 2, comma 1", "text": "Ai fini del presente testo unico si intendono per enti locali i comuni, le province, le città metropolitane, le comunità montane, le comunità isolane e le unioni di comuni." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 2, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-004",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Con quale maggioranza il consiglio comunale delibera lo statuto alla prima votazione?",
+    "options": [
+      { "id": "a", "text": "Maggioranza assoluta dei consiglieri assegnati", "why_wrong": "La maggioranza assoluta basta solo se ottenuta per due volte in successive sedute, quando alla prima votazione non si raggiungono i due terzi." },
+      { "id": "b", "text": "Maggioranza dei votanti, purché sia presente almeno la metà dei consiglieri", "why_wrong": "L'art. 6, comma 4, richiede il voto favorevole dei due terzi dei consiglieri assegnati." },
+      { "id": "c", "text": "Tre quinti dei consiglieri presenti", "why_wrong": "L'art. 6, comma 4, richiede i due terzi dei consiglieri assegnati, non dei presenti." },
+      { "id": "d", "text": "Voto favorevole dei due terzi dei consiglieri assegnati", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Gli statuti sono deliberati dai consigli con il voto favorevole dei due terzi dei consiglieri assegnati; la stessa regola vale per le modifiche statutarie.",
+    "evidence": [
+      { "ref": "art. 6, comma 4", "text": "Gli statuti sono deliberati dai rispettivi consigli con il voto favorevole dei due terzi dei consiglieri assegnati." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 6, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-005",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il consiglio comunale di un Comune vota una modifica dello statuto, che ottiene la maggioranza assoluta ma non i due terzi dei consiglieri assegnati. Cosa prevede il TUEL?",
+    "options": [
+      { "id": "a", "text": "La modifica è respinta e non può essere riproposta prima di un anno", "why_wrong": "L'art. 6, comma 4, non prevede alcun divieto di riproposizione: prevede la ripetizione della votazione in successive sedute." },
+      { "id": "b", "text": "La votazione è ripetuta in successive sedute da tenersi entro trenta giorni e la modifica è approvata se ottiene per due volte la maggioranza assoluta dei consiglieri assegnati", "why_wrong": null },
+      { "id": "c", "text": "La modifica è approvata, perché per le modifiche statutarie basta la maggioranza assoluta", "why_wrong": "L'art. 6, comma 4, applica anche alle modifiche statutarie la stessa procedura prevista per lo statuto." },
+      { "id": "d", "text": "La modifica è sottoposta a referendum popolare confermativo", "why_wrong": "L'art. 6, comma 4, prevede la ripetizione della votazione in consiglio, non un referendum." }
+    ],
+    "correct": "b",
+    "explanation": "Se la maggioranza dei due terzi non è raggiunta, la votazione si ripete in successive sedute entro trenta giorni e l'atto è approvato se ottiene per due volte la maggioranza assoluta dei consiglieri assegnati. La regola si applica anche alle modifiche statutarie.",
+    "evidence": [
+      { "ref": "art. 6, comma 4", "text": "Qualora tale maggioranza non venga raggiunta, la votazione è ripetuta in successive sedute da tenersi entro trenta giorni e lo statuto è approvato se ottiene per due volte il voto favorevole della maggioranza assoluta dei consiglieri assegnati. Le disposizioni di cui al presente comma si applicano anche alle modifiche statutarie." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 6, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-006",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quando entra in vigore lo statuto comunale?",
+    "options": [
+      { "id": "a", "text": "Il giorno successivo alla pubblicazione nel bollettino ufficiale della regione", "why_wrong": "La pubblicazione nel bollettino ufficiale della regione è una delle forme di pubblicità, ma l'entrata in vigore decorre dall'affissione all'albo pretorio." },
+      { "id": "b", "text": "Con l'inserimento nella raccolta ufficiale degli statuti del Ministero dell'interno", "why_wrong": "L'invio al Ministero dell'interno serve all'inserimento nella raccolta ufficiale, non determina l'entrata in vigore." },
+      { "id": "c", "text": "Decorsi trenta giorni dalla sua affissione all'albo pretorio dell'ente", "why_wrong": null },
+      { "id": "d", "text": "Decorsi quindici giorni dalla delibera consiliare di approvazione", "why_wrong": "L'art. 6, comma 5, fa decorrere trenta giorni dall'affissione all'albo pretorio, non dalla delibera." }
+    ],
+    "correct": "c",
+    "explanation": "Lo statuto è pubblicato nel bollettino ufficiale della regione, affisso all'albo pretorio per trenta giorni consecutivi e inviato al Ministero dell'interno; entra in vigore decorsi trenta giorni dall'affissione all'albo pretorio.",
+    "evidence": [
+      { "ref": "art. 6, comma 5", "text": "Lo statuto entra in vigore decorsi trenta giorni dalla sua affissione all'albo pretorio dell'ente." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 6, comma 5", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-007",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un cittadino viola un'ordinanza adottata dal sindaco sulla base di disposizioni di legge. Salvo diversa disposizione di legge, quale sanzione prevede il TUEL?",
+    "options": [
+      { "id": "a", "text": "La sanzione amministrativa pecuniaria da 25 euro a 500 euro", "why_wrong": null },
+      { "id": "b", "text": "Nessuna sanzione, perché l'art. 7-bis riguarda solo le violazioni dei regolamenti", "why_wrong": "Il comma 1-bis dell'art. 7-bis estende la sanzione anche alle violazioni delle ordinanze del sindaco adottate sulla base di disposizioni di legge." },
+      { "id": "c", "text": "La sanzione amministrativa pecuniaria da 50 euro a 1.000 euro", "why_wrong": "L'art. 7-bis, comma 1, fissa la sanzione da 25 euro a 500 euro." },
+      { "id": "d", "text": "La sanzione stabilita di volta in volta dalla giunta comunale", "why_wrong": "L'importo è fissato dall'art. 7-bis, comma 1 (da 25 a 500 euro); l'organo competente a irrogarla è individuato ai sensi dell'art. 17 della legge 689/1981." }
+    ],
+    "correct": "a",
+    "explanation": "La sanzione da 25 a 500 euro prevista per le violazioni dei regolamenti comunali e provinciali si applica anche alle violazioni delle ordinanze del sindaco e del presidente della provincia adottate sulla base di disposizioni di legge o di specifiche norme regolamentari.",
+    "evidence": [
+      { "ref": "art. 7-bis, comma 1", "text": "Salvo diversa disposizione di legge, per le violazioni delle disposizioni dei regolamenti comunali e provinciali si applica la sanzione amministrativa pecuniaria da 25 euro a 500 euro." },
+      { "ref": "art. 7-bis, comma 1-bis", "text": "La sanzione amministrativa di cui al comma 1 si applica anche alle violazioni alle ordinanze adottate dal sindaco e dal presidente della provincia sulla base di disposizioni di legge, ovvero di specifiche norme regolamentari." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 7-bis, comma 1-bis", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-008",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un Comune intende indire un referendum consultivo su una materia di esclusiva competenza locale, facendolo svolgere nello stesso giorno delle elezioni comunali per ridurre i costi. È possibile?",
+    "options": [
+      { "id": "a", "text": "Sì, se lo prevede lo statuto comunale", "why_wrong": "Il divieto di coincidenza con operazioni elettorali è posto direttamente dall'art. 8, comma 4, e lo statuto non può superarlo." },
+      { "id": "b", "text": "Sì, purché il referendum sia richiesto da un adeguato numero di cittadini", "why_wrong": "La richiesta dei cittadini riguarda l'iniziativa (art. 8, comma 3), non consente di superare il divieto di coincidenza con le elezioni." },
+      { "id": "c", "text": "Sì, previo parere favorevole del prefetto", "why_wrong": "L'art. 8, comma 4, non prevede alcun parere del prefetto: vieta la coincidenza con operazioni elettorali." },
+      { "id": "d", "text": "No, perché consultazioni e referendum non possono avere luogo in coincidenza con operazioni elettorali provinciali, comunali e circoscrizionali", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Le consultazioni e i referendum previsti dall'art. 8 devono riguardare materie di esclusiva competenza locale e non possono svolgersi in coincidenza con operazioni elettorali provinciali, comunali e circoscrizionali.",
+    "evidence": [
+      { "ref": "art. 8, comma 4", "text": "Le consultazioni e i referendum di cui al presente articolo devono riguardare materie di esclusiva competenza locale e non possono avere luogo in coincidenza con operazioni elettorali provinciali, comunali e circoscrizionali." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 8, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-009",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Un elettore promuove in giudizio un'azione che spetterebbe al Comune; il Comune, costituendosi, aderisce all'azione. Se l'azione viene respinta, a carico di chi sono le spese?",
+    "options": [
+      { "id": "a", "text": "Sempre a carico dell'elettore che ha promosso l'azione", "why_wrong": "L'art. 9, comma 2, fa salvo il caso in cui l'ente, costituendosi, abbia aderito all'azione." },
+      { "id": "b", "text": "Non a carico dell'elettore, perché l'ente costituendosi ha aderito all'azione", "why_wrong": null },
+      { "id": "c", "text": "Ripartite in parti uguali tra l'elettore e il Comune", "why_wrong": "L'art. 9, comma 2, non prevede alcuna ripartizione: le spese sono a carico di chi ha promosso l'azione salvo che l'ente vi abbia aderito." },
+      { "id": "d", "text": "A carico dello Stato, trattandosi di azione popolare", "why_wrong": "L'art. 9, comma 2, non pone le spese a carico dello Stato." }
+    ],
+    "correct": "b",
+    "explanation": "Ciascun elettore può far valere in giudizio le azioni e i ricorsi che spettano al comune; in caso di soccombenza le spese sono a carico di chi ha promosso l'azione, salvo che l'ente, costituendosi, vi abbia aderito.",
+    "evidence": [
+      { "ref": "art. 9, comma 1", "text": "Ciascun elettore può far valere in giudizio le azioni e i ricorsi che spettano al comune e alla provincia." },
+      { "ref": "art. 9, comma 2", "text": "In caso di soccombenza, le spese sono a carico di chi ha promosso l'azione o il ricorso, salvo che l'ente costituendosi abbia aderito alle azioni e ai ricorsi promossi dall'elettore." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 9, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-010",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Secondo l'art. 10 del TUEL, gli atti dell'amministrazione comunale:",
+    "options": [
+      { "id": "a", "text": "Sono pubblici solo se lo statuto lo prevede espressamente", "why_wrong": "L'art. 10, comma 1, stabilisce come regola generale che tutti gli atti sono pubblici." },
+      { "id": "b", "text": "Sono pubblici, salvo quelli per i quali il segretario comunale disponga la riservatezza", "why_wrong": "La dichiarazione temporanea e motivata che vieta l'esibizione spetta al sindaco o al presidente della provincia, non al segretario." },
+      { "id": "c", "text": "Sono tutti pubblici, ad eccezione di quelli riservati per espressa indicazione di legge o per effetto di una temporanea e motivata dichiarazione del sindaco che ne vieti l'esibizione", "why_wrong": null },
+      { "id": "d", "text": "Sono accessibili solo ai cittadini residenti nel Comune", "why_wrong": "L'art. 10, comma 1, afferma la pubblicità di tutti gli atti senza limitarla ai residenti." }
+    ],
+    "correct": "c",
+    "explanation": "Tutti gli atti sono pubblici; fanno eccezione quelli riservati per legge o per una dichiarazione temporanea e motivata del sindaco o del presidente della provincia, conforme al regolamento, quando la diffusione possa pregiudicare la riservatezza di persone, gruppi o imprese.",
+    "evidence": [
+      { "ref": "art. 10, comma 1", "text": "Tutti gli atti dell'amministrazione comunale e provinciale sono pubblici, ad eccezione di quelli riservati per espressa indicazione di legge o per effetto di una temporanea e motivata dichiarazione del sindaco o del presidente della provincia che ne vieti l'esibizione, conformemente a quanto previsto dal regolamento, in quanto la loro diffusione possa pregiudicare il diritto alla riservatezza delle persone, dei gruppi o delle imprese." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 10, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-011",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Le funzioni relative ai servizi elettorali, di stato civile, di anagrafe, di leva militare e di statistica gestiti dal comune sono esercitate:",
+    "options": [
+      { "id": "a", "text": "Dal sindaco quale ufficiale del Governo", "why_wrong": null },
+      { "id": "b", "text": "Dalla giunta comunale, in quanto organo esecutivo", "why_wrong": "L'art. 14, comma 2, attribuisce queste funzioni al sindaco quale ufficiale del Governo." },
+      { "id": "c", "text": "Dal prefetto, tramite gli uffici comunali", "why_wrong": "L'art. 14, comma 2, attribuisce queste funzioni al sindaco, sia pure quale ufficiale del Governo." },
+      { "id": "d", "text": "Dal segretario comunale", "why_wrong": "L'art. 14, comma 2, attribuisce queste funzioni al sindaco quale ufficiale del Governo." }
+    ],
+    "correct": "a",
+    "explanation": "Il comune gestisce i servizi elettorali, di stato civile, di anagrafe, di leva militare e di statistica; le relative funzioni sono esercitate dal sindaco quale ufficiale del Governo, ai sensi dell'art. 54.",
+    "evidence": [
+      { "ref": "art. 14, comma 1", "text": "Il comune gestisce i servizi elettorali, di stato civile, di anagrafe, di leva militare e di statistica." },
+      { "ref": "art. 14, comma 2", "text": "Le relative funzioni sono esercitate dal sindaco quale ufficiale del Governo, ai sensi dell'articolo 54." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 14, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-012",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Una frazione di 8.000 abitanti chiede di staccarsi dal proprio Comune per costituire un nuovo comune autonomo. Cosa prevede il TUEL?",
+    "options": [
+      { "id": "a", "text": "Il nuovo comune può essere istituito con legge regionale, sentite le popolazioni interessate", "why_wrong": "La regione può modificare le circoscrizioni, ma l'art. 15, comma 1, vieta di istituire nuovi comuni sotto i 10.000 abitanti, salvo i casi di fusione." },
+      { "id": "b", "text": "Il nuovo comune può essere istituito solo se il comune d'origine resta sopra i 5.000 abitanti", "why_wrong": "La soglia prevista dall'art. 15, comma 1, è di 10.000 abitanti e riguarda sia il nuovo comune sia gli altri comuni." },
+      { "id": "c", "text": "Il nuovo comune non può essere istituito, perché, salvo i casi di fusione, non possono essere istituiti nuovi comuni con popolazione inferiore ai 10.000 abitanti", "why_wrong": null },
+      { "id": "d", "text": "La frazione può ottenere il titolo di città con decreto del Presidente della Repubblica", "why_wrong": "Il titolo di città (art. 18) è concesso a comuni già esistenti e non crea un nuovo ente." }
+    ],
+    "correct": "c",
+    "explanation": "Le regioni possono modificare le circoscrizioni comunali sentite le popolazioni, ma, salvo i casi di fusione, non possono istituire comuni con meno di 10.000 abitanti o la cui costituzione faccia scendere altri comuni sotto tale limite.",
+    "evidence": [
+      { "ref": "art. 15, comma 1", "text": "Salvo i casi di fusione tra più comuni, non possono essere istituiti nuovi comuni con popolazione inferiore ai 10.000 abitanti o la cui costituzione comporti, come conseguenza, che altri comuni scendano sotto tale limite." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-013",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Tre Comuni hanno avviato il procedimento di fusione previsto dalla legge regionale. Possono definire lo statuto del nuovo comune prima della sua istituzione?",
+    "options": [
+      { "id": "a", "text": "No, lo statuto può essere approvato solo dal consiglio del nuovo comune dopo la sua istituzione", "why_wrong": "L'art. 15, comma 2, consente di definire lo statuto anche prima dell'istituzione del nuovo ente." },
+      { "id": "b", "text": "Sì, mediante approvazione di testo conforme da parte di tutti i consigli comunali; lo statuto entrerà in vigore con l'istituzione del nuovo comune", "why_wrong": null },
+      { "id": "c", "text": "Sì, ma lo statuto deve essere approvato dal consiglio regionale", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte dei consigli comunali, non del consiglio regionale." },
+      { "id": "d", "text": "Sì, con l'approvazione della maggioranza dei consigli comunali interessati", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte di tutti i consigli comunali." }
+    ],
+    "correct": "b",
+    "explanation": "I comuni che hanno avviato la fusione possono, anche prima dell'istituzione del nuovo ente, approvare con testo conforme di tutti i consigli lo statuto, che entra in vigore con l'istituzione del nuovo comune e resta vigente fino alle modifiche dei suoi organi.",
+    "evidence": [
+      { "ref": "art. 15, comma 2", "text": "I comuni che hanno dato avvio al procedimento di fusione ai sensi delle rispettive leggi regionali possono, anche prima dell'istituzione del nuovo ente, mediante approvazione di testo conforme da parte di tutti i consigli comunali, definire lo statuto che entrerà in vigore con l'istituzione del nuovo comune e rimarrà vigente fino alle modifiche dello stesso da parte degli organi del nuovo comune istituito." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 2", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-014",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Nei comuni istituiti mediante fusione di due o più comuni contigui, lo statuto comunale può prevedere l'istituzione di:",
+    "options": [
+      { "id": "a", "text": "Municipi nei territori delle comunità di origine o di alcune di esse", "why_wrong": null },
+      { "id": "b", "text": "Comunità isolane nei territori delle comunità di origine", "why_wrong": "Le comunità isolane (art. 29) sono istituite dai comuni di un'isola o di un arcipelago, non dallo statuto del comune nato dalla fusione." },
+      { "id": "c", "text": "Consorzi obbligatori tra le comunità di origine", "why_wrong": "I consorzi obbligatori (art. 31, comma 7) sono previsti dalla legge dello Stato, non dallo statuto del comune nato dalla fusione." },
+      { "id": "d", "text": "Unioni di comuni formate dalle comunità di origine", "why_wrong": "L'unione (art. 32) è costituita da due o più comuni; le comunità di origine di un comune nato da fusione non sono più comuni." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 16 consente allo statuto del comune nato da fusione di istituire municipi nei territori delle comunità di origine; statuto e regolamento ne disciplinano organizzazione e funzioni, anche con organi eletti a suffragio universale diretto.",
+    "evidence": [
+      { "ref": "art. 16, comma 1", "text": "Nei comuni istituiti mediante fusione di due o più comuni contigui lo statuto comunale può prevedere l'istituzione di municipi nei territori delle comunità di origine o di alcune di esse." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 16, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-015",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il titolo di città può essere concesso ai comuni insigni per ricordi, monumenti storici e per l'attuale importanza:",
+    "options": [
+      { "id": "a", "text": "Con legge regionale, su proposta del consiglio comunale", "why_wrong": "L'art. 18 prevede un decreto del Presidente della Repubblica su proposta del Ministro dell'interno." },
+      { "id": "b", "text": "Con decreto del Presidente della Repubblica su proposta del Ministro dell'interno", "why_wrong": null },
+      { "id": "c", "text": "Con decreto del prefetto, sentita la regione", "why_wrong": "L'art. 18 prevede un decreto del Presidente della Repubblica su proposta del Ministro dell'interno." },
+      { "id": "d", "text": "Con deliberazione dello stesso consiglio comunale, inserita nello statuto", "why_wrong": "Lo statuto disciplina lo stemma e il gonfalone (art. 6, comma 2), ma il titolo di città è concesso con decreto del Presidente della Repubblica." }
+    ],
+    "correct": "b",
+    "explanation": "Ai sensi dell'art. 18, il titolo di città è concesso con decreto del Presidente della Repubblica su proposta del Ministro dell'interno.",
+    "evidence": [
+      { "ref": "art. 18, comma 1", "text": "Il titolo di città può essere concesso con decreto del Presidente della Repubblica su proposta del Ministro dell'interno ai comuni insigni per ricordi, monumenti storici e per l'attuale importanza." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 18, comma 1", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-016",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Quattro Comuni vogliono gestire insieme l'ufficio tributi, senza creare un nuovo ente, affidando la funzione a un ufficio comune che operi con personale distaccato dai Comuni partecipanti. Quale strumento previsto dal TUEL consente questa soluzione?",
+    "options": [
+      { "id": "a", "text": "Il consorzio", "why_wrong": "Il consorzio (art. 31) si costituisce secondo le norme delle aziende speciali ed è un soggetto distinto, con propri organi." },
+      { "id": "b", "text": "L'unione di comuni", "why_wrong": "L'unione (art. 32) è un ente locale con propri organi: i Comuni vogliono evitare di creare un nuovo ente." },
+      { "id": "c", "text": "L'accordo di programma", "why_wrong": "L'accordo di programma (art. 34) riguarda opere, interventi o programmi che richiedono l'azione integrata di più soggetti, non la gestione di uffici comuni." },
+      { "id": "d", "text": "La convenzione", "why_wrong": null }
+    ],
+    "correct": "d",
+    "explanation": "Le convenzioni tra enti locali possono prevedere la costituzione di uffici comuni che operano con personale distaccato dagli enti partecipanti, ai quali affidare l'esercizio delle funzioni in luogo degli enti stessi.",
+    "evidence": [
+      { "ref": "art. 30, comma 4", "text": "Le convenzioni di cui al presente articolo possono prevedere anche la costituzione di uffici comuni che operano con personale distaccato dagli enti partecipanti, ai quali affidare l'esercizio delle funzioni pubbliche in luogo degli enti partecipanti all'accordo, ovvero la delega di funzioni da parte degli enti partecipanti all'accordo a favore di uno di essi, che opera in luogo e per conto degli enti deleganti." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 30, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-017",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "In materia di consorzi tra enti locali, il TUEL prevede che:",
+    "options": [
+      { "id": "a", "text": "Tra gli stessi enti locali non può essere costituito più di un consorzio", "why_wrong": null },
+      { "id": "b", "text": "Ogni ente locale può partecipare a un solo consorzio", "why_wrong": "L'art. 31, comma 6, vieta più consorzi tra gli stessi enti, non la partecipazione di un ente a più consorzi con enti diversi." },
+      { "id": "c", "text": "La convenzione e lo statuto del consorzio sono approvati dalle giunte degli enti partecipanti", "why_wrong": "L'art. 31, comma 2, affida l'approvazione ai consigli, a maggioranza assoluta dei componenti." },
+      { "id": "d", "text": "Al consorzio possono partecipare soltanto enti locali", "why_wrong": "L'art. 31, comma 1, consente la partecipazione di altri enti pubblici, quando siano a ciò autorizzati." }
+    ],
+    "correct": "a",
+    "explanation": "Il consorzio è costituito dai consigli, che approvano a maggioranza assoluta dei componenti la convenzione e lo statuto; tra gli stessi enti locali non può esserne costituito più di uno.",
+    "evidence": [
+      { "ref": "art. 31, comma 6", "text": "Tra gli stessi enti locali non può essere costituito più di un consorzio." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 31, comma 6", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-018",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "L'atto costitutivo e lo statuto di un'unione di comuni sono approvati:",
+    "options": [
+      { "id": "a", "text": "Dai consigli dei comuni partecipanti con le procedure e con la maggioranza richieste per le modifiche statutarie", "why_wrong": null },
+      { "id": "b", "text": "Dai consigli dei comuni partecipanti a maggioranza semplice", "why_wrong": "L'art. 32, comma 6, richiede le procedure e la maggioranza previste per le modifiche statutarie." },
+      { "id": "c", "text": "Dai sindaci dei comuni partecipanti riuniti in assemblea", "why_wrong": "L'art. 32, comma 6, affida l'approvazione ai consigli dei comuni partecipanti." },
+      { "id": "d", "text": "Dalla regione, su proposta dei comuni interessati", "why_wrong": "L'art. 32, comma 6, affida l'approvazione ai consigli dei comuni partecipanti; la regione non interviene." }
+    ],
+    "correct": "a",
+    "explanation": "L'unione è l'ente locale costituito da due o più comuni per l'esercizio associato di funzioni e servizi; atto costitutivo e statuto sono approvati dai consigli dei comuni partecipanti con procedure e maggioranza delle modifiche statutarie.",
+    "evidence": [
+      { "ref": "art. 32, comma 6", "text": "L'atto costitutivo e lo statuto dell'unione sono approvati dai consigli dei comuni partecipanti con le procedure e con la maggioranza richieste per le modifiche statutarie." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 32, comma 6", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-019",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "L'accordo di programma disciplinato dall'art. 34 del TUEL:",
+    "options": [
+      { "id": "a", "text": "Può essere concluso a maggioranza delle amministrazioni partecipanti alla conferenza", "why_wrong": "L'art. 34, comma 4, richiede il consenso unanime delle amministrazioni interessate." },
+      { "id": "b", "text": "Consiste nel consenso unanime delle amministrazioni interessate e deve essere sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza", "why_wrong": null },
+      { "id": "c", "text": "Deve essere sottoscritto entro trenta giorni dalla convocazione della conferenza", "why_wrong": "Trenta giorni è il termine per la ratifica consiliare dell'adesione del sindaco (art. 34, comma 5); la sottoscrizione va fatta entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza." },
+      { "id": "d", "text": "È approvato con deliberazione della giunta regionale e pubblicato nella Gazzetta Ufficiale", "why_wrong": "L'art. 34, comma 4, prevede l'approvazione con atto formale del presidente della regione, della provincia o del sindaco e la pubblicazione nel Bollettino ufficiale della regione." }
+    ],
+    "correct": "b",
+    "explanation": "L'accordo consiste nel consenso unanime delle amministrazioni interessate, va sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza, è approvato con atto formale del presidente della regione o della provincia o del sindaco ed è pubblicato nel Bollettino ufficiale della regione.",
+    "evidence": [
+      { "ref": "art. 34, comma 4", "text": "L'accordo, consistente nel consenso unanime del presidente della regione, del presidente della provincia, dei sindaci e delle altre amministrazioni interessate, deve essere sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza di cui al comma 3" }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 34, comma 4", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-ps-020",
+    "subject": "diritto-amministrativo-enti-locali",
+    "question": "Il sindaco di un Comune aderisce a un accordo di programma che comporta una variazione del piano regolatore comunale. Cosa deve accadere perché l'adesione non decada?",
+    "options": [
+      { "id": "a", "text": "L'adesione deve essere approvata dalla giunta comunale entro sessanta giorni", "why_wrong": "L'art. 34, comma 5, richiede la ratifica del consiglio comunale entro trenta giorni, non l'approvazione della giunta." },
+      { "id": "b", "text": "L'adesione deve essere confermata dal collegio di vigilanza sull'esecuzione dell'accordo", "why_wrong": "Il collegio di vigilanza (art. 34, comma 7) controlla l'esecuzione dell'accordo, non ratifica l'adesione del sindaco." },
+      { "id": "c", "text": "L'adesione deve essere ratificata dal consiglio comunale entro trenta giorni", "why_wrong": null },
+      { "id": "d", "text": "Nulla: l'adesione del sindaco è sufficiente", "why_wrong": "Quando l'accordo varia gli strumenti urbanistici, l'art. 34, comma 5, richiede la ratifica consiliare a pena di decadenza." }
+    ],
+    "correct": "c",
+    "explanation": "Se l'accordo di programma comporta variazione degli strumenti urbanistici, l'adesione del sindaco deve essere ratificata dal consiglio comunale entro trenta giorni, a pena di decadenza.",
+    "evidence": [
+      { "ref": "art. 34, comma 5", "text": "Ove l'accordo comporti variazione degli strumenti urbanistici, l'adesione del sindaco allo stesso deve essere ratificata dal consiglio comunale entro trenta giorni a pena di decadenza." }
+    ],
+    "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 34, comma 5", "file": "sources/TUEL.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "rivista",
+    "no_shuffle": false
+  }
+]
