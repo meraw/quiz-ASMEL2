@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "dlgs33-ac-001",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 1, del d.lgs. 33/2013, l'obbligo delle pubbliche amministrazioni di pubblicare documenti, informazioni o dati comporta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il diritto di chiunque di richiedere i medesimi, nei casi in cui sia stata omessa la loro pubblicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il diritto dei soli interessati di richiederli, dimostrando un interesse diretto, concreto e attuale",
+        "why_wrong": "Il comma 1 riconosce il diritto a «chiunque», e il comma 3 esclude limitazioni quanto alla legittimazione soggettiva."
+      },
+      {
+        "id": "c",
+        "text": "il diritto di chiunque di accedere ai dati ulteriori rispetto a quelli oggetto di pubblicazione",
+        "why_wrong": "L'accesso a dati ulteriori rispetto a quelli da pubblicare è disciplinato dal comma 2."
+      },
+      {
+        "id": "d",
+        "text": "l'obbligo di comunicare i dati all'Autorità nazionale anticorruzione, che ne cura la pubblicazione",
+        "why_wrong": "Il comma 1 collega all'obbligo di pubblicazione il diritto di chiunque di richiedere i dati non pubblicati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, comma 1, disciplina l'accesso civico ai dati oggetto di pubblicazione obbligatoria: se la pubblicazione è omessa, chiunque ha diritto di richiederli.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 1",
+        "text": "L'obbligo previsto dalla normativa vigente in capo alle pubbliche amministrazioni di pubblicare documenti, informazioni o dati comporta il diritto di chiunque di richiedere i medesimi, nei casi in cui sia stata omessa la loro pubblicazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-002",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 2, del d.lgs. 33/2013, chiunque ha diritto di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni ulteriori rispetto a quelli oggetto di pubblicazione, allo scopo di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tutelare situazioni giuridicamente rilevanti del richiedente in sede giudiziaria",
+        "why_wrong": "Lo scopo indicato dal comma 2 è il controllo diffuso e la partecipazione al dibattito pubblico."
+      },
+      {
+        "id": "b",
+        "text": "consentire alle amministrazioni di verificare la completezza dei propri archivi",
+        "why_wrong": "Il comma 2 indica finalità riferite al controllo diffuso e alla partecipazione al dibattito pubblico."
+      },
+      {
+        "id": "c",
+        "text": "favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e promuovere la partecipazione al dibattito pubblico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "ottenere la pubblicazione sul sito dei dati richiesti",
+        "why_wrong": "La pubblicazione a seguito della richiesta riguarda i dati oggetto di pubblicazione obbligatoria (comma 6), non quelli ulteriori del comma 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 5, comma 2, disciplina l'accesso civico generalizzato a dati e documenti ulteriori rispetto a quelli da pubblicare, per favorire il controllo diffuso e la partecipazione al dibattito pubblico, nei limiti dell'art. 5-bis.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 2",
+        "text": "Allo scopo di favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e di promuovere la partecipazione al dibattito pubblico, chiunque ha diritto di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni, ulteriori rispetto a quelli oggetto di pubblicazione ai sensi del presente decreto, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 5-bis."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-003",
+    "subject": "accesso",
+    "question": "Un cittadino residente in un'altra regione presenta a un Comune un'istanza di accesso civico generalizzato senza indicarne i motivi. Ai sensi dell'art. 5, comma 3, del d.lgs. 33/2013, il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve dichiararla inammissibile, perché priva di motivazione",
+        "why_wrong": "Il comma 3 stabilisce che l'istanza non richiede motivazione."
+      },
+      {
+        "id": "b",
+        "text": "non può respingerla per la mancanza di motivazione né per la residenza del richiedente, perché l'esercizio del diritto non è sottoposto ad alcuna limitazione quanto alla legittimazione soggettiva e l'istanza non richiede motivazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "deve chiedere al richiedente di dimostrare un interesse diretto, concreto e attuale",
+        "why_wrong": "Il comma 3 esclude ogni limitazione quanto alla legittimazione soggettiva del richiedente."
+      },
+      {
+        "id": "d",
+        "text": "può accoglierla solo se il richiedente è residente nel Comune",
+        "why_wrong": "Il diritto spetta a «chiunque», senza limiti di legittimazione soggettiva."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 5, comma 3, stabilisce che il diritto di accesso civico non è limitato quanto alla legittimazione soggettiva del richiedente e che l'istanza non richiede motivazione; deve però identificare i dati richiesti.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 3",
+        "text": "L'esercizio del diritto di cui ai commi 1 e 2 non è sottoposto ad alcuna limitazione quanto alla legittimazione soggettiva del richiedente. L'istanza di accesso civico identifica i dati, le informazioni o i documenti richiesti e non richiede motivazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-004",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 3, del d.lgs. 33/2013, l'istanza di accesso civico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve essere motivata e indicare l'interesse del richiedente",
+        "why_wrong": "Il comma 3 prevede che l'istanza non richieda motivazione."
+      },
+      {
+        "id": "b",
+        "text": "può limitarsi a chiedere «tutti i documenti» dell'amministrazione, senza altre indicazioni",
+        "why_wrong": "Il comma 3 richiede che l'istanza identifichi i dati, le informazioni o i documenti richiesti."
+      },
+      {
+        "id": "c",
+        "text": "deve essere presentata esclusivamente in forma cartacea",
+        "why_wrong": "Il comma 3 prevede anche la trasmissione per via telematica secondo il d.lgs. 82/2005."
+      },
+      {
+        "id": "d",
+        "text": "identifica i dati, le informazioni o i documenti richiesti e non richiede motivazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 3 stabilisce che l'istanza identifica i dati, le informazioni o i documenti richiesti e non richiede motivazione; può essere trasmessa anche per via telematica.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 3",
+        "text": "L'istanza di accesso civico identifica i dati, le informazioni o i documenti richiesti e non richiede motivazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-005",
+    "subject": "accesso",
+    "question": "Un cittadino vuole presentare un'istanza di accesso civico generalizzato ad atti che l'amministrazione non ha l'obbligo di pubblicare. Ai sensi dell'art. 5, comma 3, del d.lgs. 33/2013, a quale dei seguenti uffici NON è prevista la presentazione per questo tipo di istanza?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All'ufficio che detiene i dati, le informazioni o i documenti",
+        "why_wrong": "L'ufficio che detiene i dati è sempre tra i destinatari previsti (lettera a)."
+      },
+      {
+        "id": "b",
+        "text": "All'Ufficio relazioni con il pubblico",
+        "why_wrong": "L'URP è sempre tra i destinatari previsti (lettera b)."
+      },
+      {
+        "id": "c",
+        "text": "Al responsabile della prevenzione della corruzione e della trasparenza",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Ad altro ufficio indicato dall'amministrazione nella sezione «Amministrazione trasparente»",
+        "why_wrong": "Questo ufficio è sempre tra i destinatari previsti (lettera c)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 3 elenca gli uffici cui presentare l'istanza in alternativa; il RPCT (lettera d) è destinatario solo delle istanze che hanno ad oggetto dati, informazioni o documenti oggetto di pubblicazione obbligatoria.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 3",
+        "text": "d) al responsabile della prevenzione della corruzione e della trasparenza, ove l'istanza abbia a oggetto dati, informazioni o documenti oggetto di pubblicazione obbligatoria ai sensi del presente decreto."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-006",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 4, del d.lgs. 33/2013, il rilascio di dati o documenti in formato elettronico o cartaceo a seguito di accesso civico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è gratuito, salvo il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "è sempre gratuito, senza alcun rimborso",
+        "why_wrong": "Il comma 4 fa salvo il rimborso del costo di riproduzione su supporti materiali."
+      },
+      {
+        "id": "c",
+        "text": "è subordinato al pagamento di diritti di ricerca e di visura",
+        "why_wrong": "Il comma 4 prevede la gratuità, salvo il solo costo di riproduzione."
+      },
+      {
+        "id": "d",
+        "text": "è gratuito per i residenti e a pagamento per gli altri richiedenti",
+        "why_wrong": "Il comma 4 non distingue tra richiedenti; il comma 3 esclude limitazioni soggettive."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 4 stabilisce la gratuità del rilascio, salvo il rimborso del costo effettivamente sostenuto e documentato per la riproduzione su supporti materiali.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 4",
+        "text": "Il rilascio di dati o documenti in formato elettronico o cartaceo è gratuito, salvo il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-007",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 5, del d.lgs. 33/2013, i controinteressati cui l'amministrazione ha comunicato la richiesta di accesso civico possono presentare una motivata opposizione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro trenta giorni dalla ricezione della comunicazione",
+        "why_wrong": "Trenta giorni è il termine per concludere il procedimento (comma 6)."
+      },
+      {
+        "id": "b",
+        "text": "entro quindici giorni dalla ricezione della comunicazione",
+        "why_wrong": "Quindici giorni è il termine minimo prima della trasmissione dei dati in caso di accoglimento nonostante l'opposizione (comma 6)."
+      },
+      {
+        "id": "c",
+        "text": "entro venti giorni dalla ricezione della comunicazione",
+        "why_wrong": "Venti giorni è il termine per decidere sulla richiesta di riesame (comma 7)."
+      },
+      {
+        "id": "d",
+        "text": "entro dieci giorni dalla ricezione della comunicazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 5 prevede che i controinteressati possano presentare motivata opposizione, anche per via telematica, entro dieci giorni dalla ricezione della comunicazione.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 5",
+        "text": "Entro dieci giorni dalla ricezione della comunicazione, i controinteressati possono presentare una motivata opposizione, anche per via telematica, alla richiesta di accesso."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 5",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-008",
+    "subject": "accesso",
+    "question": "Nel corso di un procedimento di accesso civico generalizzato, l'amministrazione individua un controinteressato e gli invia copia della richiesta. Ai sensi dell'art. 5, comma 5, del d.lgs. 33/2013, il termine per concludere il procedimento:",
+    "options": [
+      {
+        "id": "a",
+        "text": "continua a decorrere regolarmente",
+        "why_wrong": "Il comma 5 prevede la sospensione del termine dalla comunicazione ai controinteressati."
+      },
+      {
+        "id": "b",
+        "text": "è sospeso dalla comunicazione ai controinteressati fino all'eventuale opposizione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è raddoppiato",
+        "why_wrong": "Il comma 5 prevede una sospensione, non un raddoppio del termine."
+      },
+      {
+        "id": "d",
+        "text": "ricomincia a decorrere da capo dopo la risposta del controinteressato",
+        "why_wrong": "Il comma 5 prevede la sospensione, non l'interruzione del termine."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 5 prevede che, a decorrere dalla comunicazione ai controinteressati, il termine del comma 6 sia sospeso fino all'eventuale opposizione; decorso il termine per l'opposizione, l'amministrazione provvede, accertata la ricezione della comunicazione.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 5",
+        "text": "A decorrere dalla comunicazione ai controinteressati, il termine di cui al comma 6 è sospeso fino all'eventuale opposizione dei controinteressati."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 5",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-009",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 5, del d.lgs. 33/2013, l'amministrazione è tenuta a dare comunicazione ai controinteressati della richiesta di accesso civico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in tutti i casi, compresi quelli di pubblicazione obbligatoria",
+        "why_wrong": "Il comma 5 fa salvi i casi di pubblicazione obbligatoria."
+      },
+      {
+        "id": "b",
+        "text": "solo se il richiedente ne fa espressa domanda",
+        "why_wrong": "Il comma 5 pone l'obbligo in capo all'amministrazione quando individua controinteressati."
+      },
+      {
+        "id": "c",
+        "text": "fatti salvi i casi di pubblicazione obbligatoria, se individua soggetti controinteressati ai sensi dell'art. 5-bis, comma 2",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "solo se il controinteressato è una pubblica amministrazione",
+        "why_wrong": "I controinteressati sono individuati con riferimento agli interessi privati dell'art. 5-bis, comma 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 5 impone la comunicazione ai controinteressati, individuati in base agli interessi privati dell'art. 5-bis, comma 2, fatti salvi i casi di pubblicazione obbligatoria.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 5",
+        "text": "Fatti salvi i casi di pubblicazione obbligatoria, l'amministrazione cui è indirizzata la richiesta di accesso, se individua soggetti controinteressati, ai sensi dell'articolo 5-bis, comma 2, è tenuta a dare comunicazione agli stessi"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 5",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-010",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 6, del d.lgs. 33/2013, il procedimento di accesso civico deve concludersi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con provvedimento espresso e motivato nel termine di trenta giorni dalla presentazione dell'istanza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "con provvedimento espresso nel termine di sessanta giorni",
+        "why_wrong": "Il comma 6 prevede un termine di trenta giorni."
+      },
+      {
+        "id": "c",
+        "text": "entro trenta giorni, decorsi i quali la richiesta si intende accolta",
+        "why_wrong": "Il comma 6 richiede un provvedimento espresso e motivato; la mancata risposta consente la richiesta di riesame (comma 7)."
+      },
+      {
+        "id": "d",
+        "text": "entro venti giorni, con comunicazione al solo richiedente",
+        "why_wrong": "Il termine è di trenta giorni e la comunicazione va anche ai controinteressati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 6 prevede che il procedimento si concluda con provvedimento espresso e motivato entro trenta giorni dalla presentazione dell'istanza, comunicato al richiedente e agli eventuali controinteressati.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 6",
+        "text": "Il procedimento di accesso civico deve concludersi con provvedimento espresso e motivato nel termine di trenta giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 6",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-011",
+    "subject": "accesso",
+    "question": "Un cittadino chiede con accesso civico i dati che il Comune avrebbe dovuto pubblicare e non ha pubblicato. Ai sensi dell'art. 5, comma 6, del d.lgs. 33/2013, in caso di accoglimento il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "trasmette i dati al solo richiedente, senza pubblicarli",
+        "why_wrong": "Per i dati oggetto di pubblicazione obbligatoria il comma 6 prevede la pubblicazione sul sito."
+      },
+      {
+        "id": "b",
+        "text": "pubblica sul sito i dati richiesti e comunica al richiedente l'avvenuta pubblicazione, indicandogli il relativo collegamento ipertestuale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "trasmette i dati all'Autorità nazionale anticorruzione, che provvede alla pubblicazione",
+        "why_wrong": "Il comma 6 pone la pubblicazione a carico dell'amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "invita il richiedente a presentare istanza di accesso ai sensi della L. 241/1990",
+        "why_wrong": "Il comma 6 disciplina l'accoglimento dell'accesso civico, con pubblicazione dei dati obbligatori."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 6 prevede che, se l'istanza riguarda dati oggetto di pubblicazione obbligatoria, l'amministrazione li pubblichi sul sito e comunichi al richiedente l'avvenuta pubblicazione con il collegamento ipertestuale.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 6",
+        "text": "nel caso in cui l'istanza riguardi dati, informazioni o documenti oggetto di pubblicazione obbligatoria ai sensi del presente decreto, a pubblicare sul sito i dati, le informazioni o i documenti richiesti e a comunicare al richiedente l'avvenuta pubblicazione dello stesso, indicandogli il relativo collegamento ipertestuale."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 6",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-012",
+    "subject": "accesso",
+    "question": "Una Regione accoglie una richiesta di accesso civico generalizzato nonostante l'opposizione di un'impresa controinteressata; non ricorrono casi di comprovata indifferibilità. Ai sensi dell'art. 5, comma 6, del d.lgs. 33/2013, la Regione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "trasmette immediatamente i documenti al richiedente",
+        "why_wrong": "In caso di opposizione, il comma 6 impone di attendere almeno quindici giorni, salvi i casi di comprovata indifferibilità."
+      },
+      {
+        "id": "b",
+        "text": "deve prima chiedere il parere del Garante per la protezione dei dati personali",
+        "why_wrong": "Il parere del Garante è previsto in sede di riesame per i dinieghi a tutela dei dati personali (comma 7)."
+      },
+      {
+        "id": "c",
+        "text": "sospende il procedimento fino alla decisione del difensore civico",
+        "why_wrong": "Il comma 6 non prevede questa sospensione; il controinteressato può chiedere il riesame o ricorrere al difensore civico (comma 9)."
+      },
+      {
+        "id": "d",
+        "text": "ne dà comunicazione al controinteressato e trasmette i documenti al richiedente non prima di quindici giorni dalla ricezione della comunicazione da parte del controinteressato",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 6 stabilisce che, in caso di accoglimento nonostante l'opposizione, salvi i casi di comprovata indifferibilità, l'amministrazione informa il controinteressato e trasmette i dati non prima di quindici giorni dalla ricezione della comunicazione.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 6",
+        "text": "In caso di accoglimento della richiesta di accesso civico nonostante l'opposizione del controinteressato, salvi i casi di comprovata indifferibilità, l'amministrazione ne dà comunicazione al controinteressato e provvede a trasmettere al richiedente i dati o i documenti richiesti non prima di quindici giorni dalla ricezione della stessa comunicazione da parte del controinteressato."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 6",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-013",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 6, del d.lgs. 33/2013, il rifiuto, il differimento e la limitazione dell'accesso civico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non richiedono motivazione, trattandosi di atti a contenuto vincolato",
+        "why_wrong": "Il comma 6 richiede che siano motivati con riferimento ai casi e ai limiti dell'art. 5-bis."
+      },
+      {
+        "id": "b",
+        "text": "devono essere motivati con riferimento ai casi e ai limiti stabiliti dall'art. 5-bis",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "possono essere motivati con qualsiasi ragione di opportunità amministrativa",
+        "why_wrong": "La motivazione deve riferirsi ai casi e ai limiti stabiliti dall'art. 5-bis."
+      },
+      {
+        "id": "d",
+        "text": "devono essere preventivamente autorizzati dall'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 6 non prevede autorizzazioni dell'ANAC."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 6 impone di motivare il rifiuto, il differimento e la limitazione dell'accesso con riferimento ai casi e ai limiti dell'art. 5-bis.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 6",
+        "text": "Il rifiuto, il differimento e la limitazione dell'accesso devono essere motivati con riferimento ai casi e ai limiti stabiliti dall'articolo 5-bis."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 6",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-014",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 7, del d.lgs. 33/2013, nei casi di diniego totale o parziale dell'accesso o di mancata risposta entro il termine, il richiedente può presentare richiesta di riesame:",
+    "options": [
+      {
+        "id": "a",
+        "text": "all'organismo indipendente di valutazione, che decide entro trenta giorni",
+        "why_wrong": "Il riesame spetta al RPCT, che decide entro venti giorni."
+      },
+      {
+        "id": "b",
+        "text": "al Garante per la protezione dei dati personali, che decide entro dieci giorni",
+        "why_wrong": "Il Garante esprime un parere entro dieci giorni solo se il diniego riguarda la protezione dei dati personali; il riesame spetta al RPCT."
+      },
+      {
+        "id": "c",
+        "text": "al responsabile della prevenzione della corruzione e della trasparenza, che decide con provvedimento motivato entro il termine di venti giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al dirigente dell'ufficio che ha negato l'accesso, entro quindici giorni",
+        "why_wrong": "Il comma 7 individua il RPCT come organo del riesame."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 7 prevede la richiesta di riesame al RPCT, che decide con provvedimento motivato entro venti giorni.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 7",
+        "text": "Nei casi di diniego totale o parziale dell'accesso o di mancata risposta entro il termine indicato al comma 6, il richiedente può presentare richiesta di riesame al responsabile della prevenzione della corruzione e della trasparenza, di cui all'articolo 43, che decide con provvedimento motivato, entro il termine di venti giorni."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 7",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-015",
+    "subject": "accesso",
+    "question": "Un Comune nega l'accesso civico generalizzato a tutela della protezione dei dati personali e il richiedente chiede il riesame. Ai sensi dell'art. 5, comma 7, del d.lgs. 33/2013, il responsabile della prevenzione della corruzione e della trasparenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "decide sentito il Garante per la protezione dei dati personali, che si pronuncia entro dieci giorni; il termine per la decisione è sospeso fino al parere e comunque per non oltre dieci giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "decide autonomamente entro venti giorni, senza sentire altri organi",
+        "why_wrong": "Quando il diniego riguarda la protezione dei dati personali, il comma 7 richiede di sentire il Garante."
+      },
+      {
+        "id": "c",
+        "text": "trasmette l'istanza al Garante, che decide al suo posto",
+        "why_wrong": "Il Garante si pronuncia con un parere; la decisione resta al responsabile."
+      },
+      {
+        "id": "d",
+        "text": "chiede il parere dell'Autorità nazionale anticorruzione, che si pronuncia entro trenta giorni",
+        "why_wrong": "Il comma 7 prevede il parere del Garante per la protezione dei dati personali."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 7 prevede che, se l'accesso è negato o differito per la protezione dei dati personali (art. 5-bis, comma 2, lettera a), il RPCT provveda sentito il Garante, che si pronuncia entro dieci giorni; il termine per decidere resta sospeso fino al parere e per non più di dieci giorni.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 7",
+        "text": "Se l'accesso è stato negato o differito a tutela degli interessi di cui all'articolo 5-bis, comma 2, lettera a), il suddetto responsabile provvede sentito il Garante per la protezione dei dati personali, il quale si pronuncia entro il termine di dieci giorni dalla richiesta."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 7",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato: la risposta corretta (a) afferma anche che «il termine per la decisione è sospeso fino al parere e comunque per non oltre dieci giorni», ma l'evidence riporta solo il periodo sul parere del Garante e non quello sulla sospensione. Il file, art. 5, comma 7, prosegue: «A decorrere dalla comunicazione al Garante, il termine per l'adozione del provvedimento da parte del responsabile è sospeso, fino alla ricezione del parere del Garante e comunque per un periodo non superiore ai predetti dieci giorni.» Suggerimento: aggiungere questo periodo come seconda evidence (ref art. 5, comma 7).",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-016",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 7, del d.lgs. 33/2013, avverso la decisione dell'amministrazione o, in caso di riesame, avverso quella del responsabile della prevenzione della corruzione e della trasparenza, il richiedente può proporre:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ricorso straordinario al Presidente della Repubblica, unico rimedio ammesso",
+        "why_wrong": "Il comma 7 prevede il ricorso al TAR ai sensi dell'art. 116 del codice del processo amministrativo."
+      },
+      {
+        "id": "b",
+        "text": "ricorso al giudice ordinario",
+        "why_wrong": "Il comma 7 indica il Tribunale amministrativo regionale."
+      },
+      {
+        "id": "c",
+        "text": "reclamo all'Autorità nazionale anticorruzione, che decide in via definitiva",
+        "why_wrong": "Il comma 7 non prevede reclami all'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "ricorso al Tribunale amministrativo regionale ai sensi dell'art. 116 del codice del processo amministrativo",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 7 prevede che contro la decisione dell'amministrazione o del RPCT in sede di riesame si possa ricorrere al TAR ai sensi dell'art. 116 del codice del processo amministrativo.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 7",
+        "text": "Avverso la decisione dell'amministrazione competente o, in caso di richiesta di riesame, avverso quella del responsabile della prevenzione della corruzione e della trasparenza, il richiedente può proporre ricorso al Tribunale amministrativo regionale ai sensi dell'articolo 116 del Codice del processo amministrativo"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 7",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-017",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 8, del d.lgs. 33/2013, qualora si tratti di atti delle amministrazioni delle regioni o degli enti locali, il richiedente può presentare ricorso al difensore civico competente per ambito territoriale; se tale organo non è stato istituito:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il ricorso non è ammesso e resta solo il ricorso al TAR",
+        "why_wrong": "Il comma 8 prevede in tal caso la competenza del difensore civico dell'ambito territoriale immediatamente superiore."
+      },
+      {
+        "id": "b",
+        "text": "la competenza è attribuita al difensore civico competente per l'ambito territoriale immediatamente superiore",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "la competenza è attribuita all'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 8 attribuisce la competenza al difensore civico dell'ambito territoriale superiore."
+      },
+      {
+        "id": "d",
+        "text": "la competenza è attribuita al prefetto",
+        "why_wrong": "Il comma 8 non prevede la competenza del prefetto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 8 prevede che, se il difensore civico competente non è stato istituito, la competenza passi al difensore civico dell'ambito territoriale immediatamente superiore; il ricorso va notificato anche all'amministrazione interessata.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 8",
+        "text": "Qualora tale organo non sia stato istituito, la competenza è attribuita al difensore civico competente per l'ambito territoriale immediatamente superiore."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 8",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-018",
+    "subject": "accesso",
+    "question": "Il difensore civico, adito contro il diniego di accesso civico di un Comune, ritiene il diniego illegittimo e lo comunica al Comune. Ai sensi dell'art. 5, comma 8, del d.lgs. 33/2013, se il Comune non conferma il diniego entro trenta giorni dal ricevimento della comunicazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'accesso è consentito",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il diniego si intende confermato",
+        "why_wrong": "Il comma 8 prevede l'effetto opposto: se il diniego non è confermato entro trenta giorni, l'accesso è consentito."
+      },
+      {
+        "id": "c",
+        "text": "il difensore civico trasmette gli atti al TAR",
+        "why_wrong": "Il comma 8 non prevede questa trasmissione."
+      },
+      {
+        "id": "d",
+        "text": "il richiedente deve presentare una nuova istanza",
+        "why_wrong": "Il comma 8 prevede che l'accesso sia consentito, senza nuova istanza."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 8 prevede che, se il difensore civico ritiene illegittimo il diniego o il differimento e l'amministrazione non lo conferma entro trenta giorni dal ricevimento della comunicazione, l'accesso è consentito.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 8",
+        "text": "Se il difensore civico ritiene illegittimo il diniego o il differimento, ne informa il richiedente e lo comunica all'amministrazione competente. Se questa non conferma il diniego o il differimento entro trenta giorni dal ricevimento della comunicazione del difensore civico, l'accesso è consentito."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 8",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-019",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 8, del d.lgs. 33/2013, qualora il richiedente l'accesso si sia rivolto al difensore civico, il termine per il ricorso al giudice amministrativo di cui all'art. 116, comma 1, del codice del processo amministrativo decorre:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dalla data di presentazione del ricorso al difensore civico",
+        "why_wrong": "Il comma 8 fa decorrere il termine dal ricevimento dell'esito dell'istanza al difensore civico."
+      },
+      {
+        "id": "b",
+        "text": "dalla data del diniego originario, senza alcun effetto del ricorso al difensore civico",
+        "why_wrong": "Il comma 8 collega espressamente la decorrenza all'esito dell'istanza al difensore civico."
+      },
+      {
+        "id": "c",
+        "text": "dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dalla scadenza del termine di trenta giorni entro cui l'amministrazione può confermare il diniego",
+        "why_wrong": "Il comma 8 fa decorrere il termine dal ricevimento dell'esito dell'istanza al difensore civico."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 8 stabilisce che, se il richiedente si è rivolto al difensore civico, il termine per il ricorso ex art. 116, comma 1, c.p.a. decorre dal ricevimento dell'esito dell'istanza al difensore civico.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 8",
+        "text": "Qualora il richiedente l'accesso si sia rivolto al difensore civico, il termine di cui all'articolo 116, comma 1, del Codice del processo amministrativo"
+      },
+      {
+        "ref": "art. 5, comma 8",
+        "text": "decorre dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 8",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-020",
+    "subject": "accesso",
+    "question": "Un'impresa si è opposta a una richiesta di accesso civico che l'amministrazione ha poi accolto. Ai sensi dell'art. 5, comma 9, del d.lgs. 33/2013, il controinteressato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non dispone di alcun rimedio, perché l'accesso è stato accolto",
+        "why_wrong": "Il comma 9 riconosce rimedi anche al controinteressato in caso di accoglimento."
+      },
+      {
+        "id": "b",
+        "text": "può solo chiedere il risarcimento del danno",
+        "why_wrong": "Il comma 9 prevede la richiesta di riesame e il ricorso al difensore civico."
+      },
+      {
+        "id": "c",
+        "text": "può presentare opposizione entro dieci giorni dalla trasmissione dei dati",
+        "why_wrong": "L'opposizione entro dieci giorni riguarda la fase precedente alla decisione (comma 5)."
+      },
+      {
+        "id": "d",
+        "text": "può presentare richiesta di riesame ai sensi del comma 7 e ricorso al difensore civico ai sensi del comma 8",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 9 consente al controinteressato, in caso di accoglimento della richiesta, di presentare richiesta di riesame al RPCT (comma 7) e ricorso al difensore civico (comma 8).",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 9",
+        "text": "Nei casi di accoglimento della richiesta di accesso, il controinteressato può presentare richiesta di riesame ai sensi del comma 7 e presentare ricorso al difensore civico ai sensi del comma 8."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 9",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-021",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 10, del d.lgs. 33/2013, se la richiesta di accesso civico riguarda dati oggetto di pubblicazione obbligatoria, il responsabile della prevenzione della corruzione e della trasparenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha l'obbligo di effettuare la segnalazione di cui all'art. 43, comma 5",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "deve trasmettere la richiesta al Garante per la protezione dei dati personali",
+        "why_wrong": "Il comma 10 richiama la segnalazione dell'art. 43, comma 5, non il Garante."
+      },
+      {
+        "id": "c",
+        "text": "può archiviare la richiesta se i dati sono già stati pubblicati altrove",
+        "why_wrong": "Il comma 10 pone un obbligo di segnalazione, senza prevedere archiviazioni."
+      },
+      {
+        "id": "d",
+        "text": "deve comunicare la richiesta al prefetto",
+        "why_wrong": "Il comma 10 richiama la segnalazione dell'art. 43, comma 5."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 10 impone al RPCT, quando la richiesta riguarda dati oggetto di pubblicazione obbligatoria, di effettuare la segnalazione dell'art. 43, comma 5 (all'ufficio di disciplina, al vertice politico e all'OIV, in relazione alla gravità dell'inadempimento).",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 10",
+        "text": "Nel caso in cui la richiesta di accesso civico riguardi dati, informazioni o documenti oggetto di pubblicazione obbligatoria ai sensi del presente decreto, il responsabile della prevenzione della corruzione e della trasparenza ha l'obbligo di effettuare la segnalazione di cui all'articolo 43, comma 5."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 10",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-022",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5, comma 11, del d.lgs. 33/2013, rispetto all'accesso civico, le diverse forme di accesso degli interessati previste dal Capo V della L. 241/1990:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono abrogate",
+        "why_wrong": "Il comma 11 stabilisce che restano ferme."
+      },
+      {
+        "id": "b",
+        "text": "restano ferme, come restano fermi gli obblighi di pubblicazione previsti dal Capo II",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "si applicano solo agli enti locali",
+        "why_wrong": "Il comma 11 non prevede questa limitazione."
+      },
+      {
+        "id": "d",
+        "text": "sono assorbite nell'accesso civico generalizzato",
+        "why_wrong": "Il comma 11 stabilisce che restano ferme, accanto all'accesso civico."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 11 chiarisce che l'accesso civico non sostituisce né gli obblighi di pubblicazione del Capo II né le diverse forme di accesso degli interessati del Capo V della L. 241/1990.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 11",
+        "text": "Restano fermi gli obblighi di pubblicazione previsti dal Capo II, nonché le diverse forme di accesso degli interessati previste dal Capo V della legge 7 agosto 1990, n. 241"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5, comma 11",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-023",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5-bis, comma 1, del d.lgs. 33/2013, l'accesso civico generalizzato è rifiutato se il diniego è necessario per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici inerenti, tra gli altri, a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "gli interessi economici e commerciali di una persona fisica o giuridica",
+        "why_wrong": "Questo è un interesse privato, elencato al comma 2."
+      },
+      {
+        "id": "b",
+        "text": "la libertà e la segretezza della corrispondenza",
+        "why_wrong": "Questo è un interesse privato, elencato al comma 2."
+      },
+      {
+        "id": "c",
+        "text": "il regolare svolgimento di attività ispettive",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la protezione dei dati personali",
+        "why_wrong": "Questo è un interesse privato, elencato al comma 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1 elenca gli interessi pubblici: sicurezza e ordine pubblico, sicurezza nazionale, difesa e questioni militari, relazioni internazionali, politica e stabilità finanziaria ed economica dello Stato, indagini sui reati, regolare svolgimento di attività ispettive. Gli interessi privati sono al comma 2.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 1",
+        "text": "L'accesso civico di cui all'articolo 5, comma 2, è rifiutato se il diniego è necessario per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici inerenti a:"
+      },
+      {
+        "ref": "art. 5-bis, comma 1",
+        "text": "g) il regolare svolgimento di attività ispettive."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-024",
+    "subject": "accesso",
+    "question": "Un cittadino chiede con accesso civico generalizzato la documentazione tecnica presentata da un'impresa in una procedura, contenente segreti commerciali dell'impresa. Ai sensi dell'art. 5-bis, comma 2, del d.lgs. 33/2013, l'amministrazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve rifiutare l'accesso se il diniego è necessario per evitare un pregiudizio concreto agli interessi economici e commerciali dell'impresa, compresi i segreti commerciali",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "deve sempre consentire l'accesso, perché l'accesso civico generalizzato non incontra limiti a tutela di interessi privati",
+        "why_wrong": "Il comma 2 prevede limiti a tutela di interessi privati, tra cui gli interessi economici e commerciali."
+      },
+      {
+        "id": "c",
+        "text": "deve rifiutare l'accesso in ogni caso, anche senza pregiudizio concreto",
+        "why_wrong": "Il comma 2 richiede che il diniego sia necessario per evitare un pregiudizio concreto."
+      },
+      {
+        "id": "d",
+        "text": "deve rifiutare l'accesso a tutto il documento, anche se il limite riguarda solo alcune parti",
+        "why_wrong": "Se i limiti riguardano solo alcune parti, deve essere consentito l'accesso alle altre (comma 4)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 2 prevede il rifiuto dell'accesso generalizzato quando è necessario per evitare un pregiudizio concreto agli interessi economici e commerciali di una persona fisica o giuridica, compresi proprietà intellettuale, diritto d'autore e segreti commerciali.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 2",
+        "text": "L'accesso di cui all'articolo 5, comma 2, è altresì rifiutato se il diniego è necessario per evitare un pregiudizio concreto alla tutela di uno dei seguenti interessi privati:"
+      },
+      {
+        "ref": "art. 5-bis, comma 2",
+        "text": "c) gli interessi economici e commerciali di una persona fisica o giuridica, ivi compresi la proprietà intellettuale, il diritto d'autore e i segreti commerciali."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-025",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5-bis, comma 3, del d.lgs. 33/2013, il diritto di accesso civico generalizzato è escluso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "per tutti gli atti che contengono dati personali",
+        "why_wrong": "La protezione dei dati personali è un limite relativo (comma 2), che richiede un pregiudizio concreto."
+      },
+      {
+        "id": "b",
+        "text": "per gli atti adottati dagli organi di indirizzo politico",
+        "why_wrong": "Il comma 3 non prevede questa esclusione."
+      },
+      {
+        "id": "c",
+        "text": "nei casi di segreto di Stato e negli altri casi di divieti di accesso o divulgazione previsti dalla legge, ivi compresi quelli di cui all'art. 24, comma 1, della L. 241/1990",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "per i documenti formati da più di cinque anni",
+        "why_wrong": "Il comma 3 non prevede esclusioni legate alla data di formazione del documento."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 3 prevede esclusioni assolute: segreto di Stato e altri divieti di accesso o divulgazione previsti dalla legge, compresi i casi in cui l'accesso è subordinato a specifiche condizioni, modalità o limiti, inclusi quelli dell'art. 24, comma 1, L. 241/1990.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 3",
+        "text": "Il diritto di cui all'articolo 5, comma 2, è escluso nei casi di segreto di Stato e negli altri casi di divieti di accesso o divulgazione previsti dalla legge, ivi compresi i casi in cui l'accesso è subordinato dalla disciplina vigente al rispetto di specifiche condizioni, modalità o limiti, inclusi quelli di cui all'articolo 24, comma 1"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato (e controllo 7): l'evidence si interrompe a «inclusi quelli di cui all'articolo 24, comma 1» e non contiene il riferimento alla legge, mentre l'opzione corretta (c) indica «art. 24, comma 1, della L. 241/1990»; il file, art. 5-bis, comma 3, prosegue «..., della legge n. 241 del 1990». Inoltre la spiegazione qualifica le ipotesi del comma 3 come «esclusioni assolute» e il why_wrong di (a) parla di «limite relativo»: qualificazioni dottrinali non presenti nel file (il file dice solo «è escluso» al comma 3 e «pregiudizio concreto» al comma 2). Suggerimento: estendere l'evidence fino a «della legge n. 241 del 1990» e rimuovere le qualificazioni «assolute»/«relativo» o riformularle con il testo del file.",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-026",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5-bis, comma 4, del d.lgs. 33/2013, se i limiti di cui ai commi 1 e 2 riguardano soltanto alcuni dati o alcune parti del documento richiesto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'accesso deve essere negato per l'intero documento",
+        "why_wrong": "Il comma 4 impone di consentire l'accesso agli altri dati o alle altre parti."
+      },
+      {
+        "id": "b",
+        "text": "deve essere consentito l'accesso agli altri dati o alle altre parti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "l'accesso è differito fino alla cessazione dei limiti per l'intero documento",
+        "why_wrong": "Il comma 4 prevede l'accesso parziale; il differimento è disciplinato dal comma 5."
+      },
+      {
+        "id": "d",
+        "text": "la decisione è rimessa al Garante per la protezione dei dati personali",
+        "why_wrong": "Il comma 4 non prevede l'intervento del Garante."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 4 impone l'accesso parziale: se i limiti riguardano solo alcuni dati o parti del documento, deve essere consentito l'accesso agli altri dati o alle altre parti.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 4",
+        "text": "Se i limiti di cui ai commi 1 e 2 riguardano soltanto alcuni dati o alcune parti del documento richiesto, deve essere consentito l'accesso agli altri dati o alle altre parti."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-027",
+    "subject": "accesso",
+    "question": "Un Comune riceve una richiesta di accesso civico generalizzato a documenti relativi a un'attività ispettiva ancora in corso; per tutelare l'ispezione sarebbe sufficiente rinviare l'accesso alla sua conclusione. Ai sensi dell'art. 5-bis, comma 5, del d.lgs. 33/2013, il Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve negare definitivamente l'accesso, perché l'interesse pubblico prevale",
+        "why_wrong": "Il comma 5 vieta il diniego quando è sufficiente il differimento."
+      },
+      {
+        "id": "b",
+        "text": "deve consentire subito l'accesso, perché i limiti del comma 1 non riguardano le attività ispettive",
+        "why_wrong": "Il regolare svolgimento di attività ispettive è tra gli interessi del comma 1, lettera g)."
+      },
+      {
+        "id": "c",
+        "text": "non può negare l'accesso, perché è sufficiente fare ricorso al potere di differimento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "deve trasmettere la richiesta all'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 5 non prevede questa trasmissione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 5 stabilisce che i limiti si applicano solo per il periodo in cui la protezione è giustificata e che l'accesso civico non può essere negato se, per la tutela degli interessi dei commi 1 e 2, è sufficiente il differimento.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 5",
+        "text": "I limiti di cui ai commi 1 e 2 si applicano unicamente per il periodo nel quale la protezione è giustificata in relazione alla natura del dato. L'accesso civico non può essere negato ove, per la tutela degli interessi di cui ai commi 1 e 2, sia sufficiente fare ricorso al potere di differimento."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 5",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-ac-028",
+    "subject": "accesso",
+    "question": "Ai sensi dell'art. 5-bis, comma 6, del d.lgs. 33/2013, le linee guida recanti indicazioni operative per la definizione delle esclusioni e dei limiti all'accesso civico sono adottate:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dal Dipartimento della funzione pubblica, sentita l'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 6 attribuisce l'adozione all'ANAC."
+      },
+      {
+        "id": "b",
+        "text": "dal Garante per la protezione dei dati personali, d'intesa con la Conferenza unificata",
+        "why_wrong": "Il Garante partecipa con l'intesa; l'adozione spetta all'ANAC, sentita la Conferenza unificata."
+      },
+      {
+        "id": "c",
+        "text": "da ciascuna amministrazione, con proprio regolamento",
+        "why_wrong": "Il comma 6 prevede linee guida adottate dall'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "dall'Autorità nazionale anticorruzione, d'intesa con il Garante per la protezione dei dati personali e sentita la Conferenza unificata",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 6 affida all'ANAC, d'intesa con il Garante privacy e sentita la Conferenza unificata, l'adozione di linee guida operative su esclusioni e limiti all'accesso civico.",
+    "evidence": [
+      {
+        "ref": "art. 5-bis, comma 6",
+        "text": "Ai fini della definizione delle esclusioni e dei limiti all'accesso civico di cui al presente articolo, l'Autorità nazionale anticorruzione, d'intesa con il Garante per la protezione dei dati personali e sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-bis, comma 6",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato: l'evidence si interrompe a «...Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281» e non contiene il verbo che attribuisce all'ANAC l'adozione delle linee guida. Il file, art. 5-bis, comma 6, prosegue: «adotta linee guida recanti indicazioni operative.» Senza questa parte l'evidence non dimostra che l'ANAC adotta le linee guida (risposta d). Suggerimento: aggiungere una seconda evidence (ref art. 5-bis, comma 6) con il testo «adotta linee guida recanti indicazioni operative.»",
+    "no_shuffle": false
+  }
+]

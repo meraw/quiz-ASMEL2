@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "dlgs33-p-001",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 1, del d.lgs. 33/2013, la trasparenza è intesa come:",
+    "options": [
+      {
+        "id": "a",
+        "text": "diritto dei soli interessati di prendere visione ed estrarre copia dei documenti amministrativi",
+        "why_wrong": "Il comma 1 parla di accessibilità totale dei dati e documenti detenuti dalle PA, senza limitarla agli interessati."
+      },
+      {
+        "id": "b",
+        "text": "accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione e favorire forme diffuse di controllo sulle funzioni istituzionali e sull'utilizzo delle risorse pubbliche",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "obbligo di pubblicare nella Gazzetta Ufficiale tutti gli atti di carattere normativo",
+        "why_wrong": "Il comma 1 non si riferisce alla Gazzetta Ufficiale, ma all'accessibilità totale di dati e documenti."
+      },
+      {
+        "id": "d",
+        "text": "pubblicazione dei soli atti che producono effetti nei confronti di terzi",
+        "why_wrong": "Il comma 1 riguarda tutti i dati e documenti detenuti dalle PA."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1 definisce la trasparenza come accessibilità totale dei dati e documenti detenuti dalle PA, con tre scopi: tutelare i diritti dei cittadini, promuovere la partecipazione all'attività amministrativa e favorire forme diffuse di controllo sulle funzioni istituzionali e sull'uso delle risorse pubbliche.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1",
+        "text": "La trasparenza è intesa come accessibilità totale ((dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all'attività amministrativa e)) favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 1, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-002",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 2, del d.lgs. 33/2013, la trasparenza opera nel rispetto delle disposizioni in materia di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "segreto di Stato e protezione dei dati personali, soltanto",
+        "why_wrong": "Il comma 2 richiama anche il segreto d'ufficio e il segreto statistico."
+      },
+      {
+        "id": "b",
+        "text": "segreto di Stato, segreto d'ufficio e protezione dei dati personali, ma non del segreto statistico",
+        "why_wrong": "Il comma 2 richiama espressamente anche il segreto statistico."
+      },
+      {
+        "id": "c",
+        "text": "segreto di Stato, segreto d'ufficio, segreto statistico e protezione dei dati personali",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "segreto di Stato e tutela degli interessi economici e commerciali delle imprese",
+        "why_wrong": "Gli interessi economici e commerciali sono un limite all'accesso civico generalizzato (art. 5-bis, comma 2), non tra quelli richiamati dall'art. 1, comma 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 stabilisce che la trasparenza opera nel rispetto delle disposizioni sul segreto di Stato, sul segreto d'ufficio, sul segreto statistico e sulla protezione dei dati personali, e concorre ad attuare il principio democratico e i principi costituzionali.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "La trasparenza, nel rispetto delle disposizioni in materia di segreto di Stato, di segreto d'ufficio, di segreto statistico e di protezione dei dati personali, concorre ad attuare il principio democratico"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 1, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-003",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 1, comma 3, del d.lgs. 33/2013, le disposizioni del decreto integrano l'individuazione del livello essenziale delle prestazioni a fini di trasparenza, prevenzione e contrasto della corruzione e costituiscono altresì esercizio della funzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "di coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale, di cui all'art. 117, secondo comma, lettera r), della Costituzione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "di coordinamento della finanza pubblica, oggetto di legislazione concorrente",
+        "why_wrong": "Il comma 3 richiama l'art. 117, secondo comma, lettera r), relativo al coordinamento informativo statistico e informatico."
+      },
+      {
+        "id": "c",
+        "text": "di ordinamento civile, di competenza esclusiva dello Stato",
+        "why_wrong": "Il comma 3 non richiama l'ordinamento civile, ma il coordinamento informativo statistico e informatico dei dati."
+      },
+      {
+        "id": "d",
+        "text": "di vigilanza sull'attività degli enti locali da parte delle regioni",
+        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 3 collega il decreto all'art. 117, secondo comma, lettera m) (livelli essenziali delle prestazioni) e lettera r) (coordinamento informativo statistico e informatico dei dati) della Costituzione.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 3",
+        "text": "costituiscono altresì esercizio della funzione di coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale, di cui all'articolo 117, secondo comma, lettera r), della Costituzione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 1, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-004",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 2, comma 1, del d.lgs. 33/2013, la libertà di accesso di chiunque ai dati e ai documenti detenuti dalle pubbliche amministrazioni è garantita:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esclusivamente tramite la pubblicazione nei siti istituzionali",
+        "why_wrong": "Il comma 1 indica due strumenti: l'accesso civico e la pubblicazione."
+      },
+      {
+        "id": "b",
+        "text": "tramite l'accesso ai documenti amministrativi riservato ai titolari di un interesse diretto, concreto e attuale",
+        "why_wrong": "Il comma 1 parla di libertà di accesso di «chiunque», tramite accesso civico e pubblicazione."
+      },
+      {
+        "id": "c",
+        "text": "esclusivamente tramite l'accesso civico su istanza",
+        "why_wrong": "Il comma 1 indica anche la pubblicazione di documenti, informazioni e dati."
+      },
+      {
+        "id": "d",
+        "text": "tramite l'accesso civico e tramite la pubblicazione di documenti, informazioni e dati concernenti l'organizzazione e l'attività delle pubbliche amministrazioni",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2, comma 1, indica i due strumenti con cui il decreto garantisce la libertà di accesso di chiunque, nel rispetto dei limiti a tutela di interessi pubblici e privati: l'accesso civico e la pubblicazione.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 1",
+        "text": "tramite l'accesso civico e tramite la pubblicazione di documenti, informazioni e dati concernenti l'organizzazione e l'attività delle pubbliche amministrazioni e le modalità per la loro realizzazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-005",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune consente di consultare la sezione del proprio sito con i dati pubblicati ai sensi del d.lgs. 33/2013 solo dopo l'accesso con credenziali personali. Alla luce dell'art. 2, comma 2, del d.lgs. 33/2013, questa scelta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è legittima, se le credenziali sono rilasciate gratuitamente",
+        "why_wrong": "La gratuità non basta: il comma 2 esclude ogni autenticazione e identificazione."
+      },
+      {
+        "id": "b",
+        "text": "non è conforme, perché alla pubblicazione corrisponde il diritto di chiunque di accedere ai siti direttamente ed immediatamente, senza autenticazione ed identificazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è legittima per i soli dati che contengono informazioni personali",
+        "why_wrong": "Il comma 2 non prevede questa distinzione; i dati personali non pertinenti vanno resi non intelligibili (art. 7-bis, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "è legittima, perché il diritto di accesso spetta ai soli residenti",
+        "why_wrong": "La pubblicazione dà diritto di accesso a «chiunque»."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 2, comma 2, definisce la pubblicazione e vi collega il diritto di chiunque di accedere ai siti direttamente ed immediatamente, senza autenticazione ed identificazione.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 2",
+        "text": "cui corrisponde il diritto di chiunque di accedere ai siti direttamente ed immediatamente, senza autenticazione ed identificazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-006",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 2-bis, comma 1, del d.lgs. 33/2013, ai fini del decreto per «pubbliche amministrazioni» si intendono le amministrazioni di cui all'art. 1, comma 2, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ad esclusione delle autorità amministrative indipendenti",
+        "why_wrong": "Il comma 1 include espressamente le autorità amministrative indipendenti di garanzia, vigilanza e regolazione."
+      },
+      {
+        "id": "b",
+        "text": "nonché gli enti pubblici economici e gli ordini professionali",
+        "why_wrong": "Enti pubblici economici e ordini professionali sono indicati dal comma 2, cui la disciplina si applica in quanto compatibile."
+      },
+      {
+        "id": "c",
+        "text": "ivi comprese le autorità portuali, nonché le autorità amministrative indipendenti di garanzia, vigilanza e regolazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "limitatamente alle amministrazioni dello Stato",
+        "why_wrong": "Il comma 1 rinvia a tutte le amministrazioni dell'art. 1, comma 2, del d.lgs. 165/2001."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2-bis, comma 1, comprende nella nozione di pubbliche amministrazioni tutte quelle dell'art. 1, comma 2, del d.lgs. 165/2001, le autorità portuali e le autorità amministrative indipendenti di garanzia, vigilanza e regolazione.",
+    "evidence": [
+      {
+        "ref": "art. 2-bis, comma 1",
+        "text": "e successive modificazioni, ivi comprese le autorità portuali, nonché le autorità amministrative indipendenti di garanzia, vigilanza e regolazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2-bis, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-007",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un ordine professionale provinciale chiede se deve applicare la disciplina del d.lgs. 33/2013. Ai sensi dell'art. 2-bis, comma 2, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si applica la medesima disciplina prevista per le pubbliche amministrazioni, in quanto compatibile",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "non si applica, perché gli ordini professionali non sono pubbliche amministrazioni",
+        "why_wrong": "Il comma 2, lettera a), estende espressamente la disciplina agli ordini professionali."
+      },
+      {
+        "id": "c",
+        "text": "si applica soltanto ai dati relativi all'attività di pubblico interesse",
+        "why_wrong": "Il limite all'attività di pubblico interesse riguarda i soggetti del comma 3, non gli ordini professionali del comma 2."
+      },
+      {
+        "id": "d",
+        "text": "si applica solo se l'ordine ha un bilancio superiore a cinquecentomila euro",
+        "why_wrong": "La soglia di bilancio riguarda associazioni, fondazioni ed enti di diritto privato (comma 2, lettera c, e comma 3)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 2-bis, comma 2, lettera a), estende agli enti pubblici economici e agli ordini professionali la medesima disciplina delle pubbliche amministrazioni, in quanto compatibile.",
+    "evidence": [
+      {
+        "ref": "art. 2-bis, comma 2",
+        "text": "La medesima disciplina prevista per le pubbliche amministrazioni di cui al comma 1 si applica anche, in quanto compatibile: a) agli enti pubblici economici e agli ordini professionali;"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2-bis, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-008",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Una fondazione di diritto privato ha un bilancio di 800.000 euro ed è finanziata in modo maggioritario da pubbliche amministrazioni da tre esercizi consecutivi; metà dei componenti del suo organo di amministrazione è designata da pubbliche amministrazioni. Rientra tra i soggetti dell'art. 2-bis, comma 2, lettera c), del d.lgs. 33/2013?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sì, perché il bilancio supera cinquecentomila euro e il finanziamento pubblico è maggioritario per almeno due esercizi",
+        "why_wrong": "La lettera c) richiede anche che la totalità dei titolari o componenti dell'organo sia designata da pubbliche amministrazioni."
+      },
+      {
+        "id": "b",
+        "text": "Sì, perché basta che la maggioranza dei componenti dell'organo sia designata da pubbliche amministrazioni",
+        "why_wrong": "La lettera c) richiede la totalità, non la maggioranza, dei componenti designati da pubbliche amministrazioni."
+      },
+      {
+        "id": "c",
+        "text": "No, perché il bilancio dovrebbe superare un milione di euro",
+        "why_wrong": "La soglia prevista dalla lettera c) è di cinquecentomila euro."
+      },
+      {
+        "id": "d",
+        "text": "No, perché la lettera c) richiede che la totalità dei titolari o dei componenti dell'organo d'amministrazione o di indirizzo sia designata da pubbliche amministrazioni",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La lettera c) richiede congiuntamente: bilancio superiore a 500.000 euro, finanziamento pubblico maggioritario per almeno due esercizi consecutivi nell'ultimo triennio e designazione da parte di PA della totalità dei titolari o componenti dell'organo. Qui manca l'ultimo requisito.",
+    "evidence": [
+      {
+        "ref": "art. 2-bis, comma 2",
+        "text": "c) alle associazioni, alle fondazioni e agli enti di diritto privato comunque denominati, anche privi di personalità giuridica, con bilancio superiore a cinquecentomila euro, la cui attività sia finanziata in modo maggioritario per almeno due esercizi finanziari consecutivi nell'ultimo triennio da pubbliche amministrazioni e in cui la totalità dei titolari o dei componenti dell'organo d'amministrazione o di indirizzo sia designata da pubbliche amministrazioni."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2-bis, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-009",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 2-bis, comma 2, lettera b), del d.lgs. 33/2013, tra le società in controllo pubblico sono escluse dall'applicazione della disciplina:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le società con meno di cinquanta dipendenti",
+        "why_wrong": "La lettera b) non prevede esclusioni legate al numero dei dipendenti."
+      },
+      {
+        "id": "b",
+        "text": "le società quotate e le società da esse partecipate, salvo che queste ultime siano, non per il tramite di società quotate, controllate o partecipate da amministrazioni pubbliche",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "le società che gestiscono servizi pubblici",
+        "why_wrong": "La gestione di servizi pubblici rileva per i soggetti del comma 3, non come causa di esclusione."
+      },
+      {
+        "id": "d",
+        "text": "le società a partecipazione pubblica minoritaria",
+        "why_wrong": "Le società in partecipazione pubblica sono disciplinate dal comma 3, non escluse dalla lettera b)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La lettera b) estende la disciplina alle società in controllo pubblico, escludendo le società quotate e le loro partecipate, salvo che queste ultime siano controllate o partecipate da PA non per il tramite di società quotate.",
+    "evidence": [
+      {
+        "ref": "art. 2-bis, comma 2",
+        "text": "Sono escluse le società quotate come definite dall'articolo 2, comma 1, lettera p), dello stesso decreto legislativo, nonché le società da esse partecipate, salvo che queste ultime siano, non per il tramite di società quotate, controllate o partecipate da amministrazioni pubbliche."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2-bis, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-010",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 2-bis, comma 3, del d.lgs. 33/2013, alle società in partecipazione pubblica la disciplina prevista per le pubbliche amministrazioni si applica, in quanto compatibile:",
+    "options": [
+      {
+        "id": "a",
+        "text": "integralmente, come per le pubbliche amministrazioni",
+        "why_wrong": "Il comma 3 limita l'applicazione ai dati e documenti inerenti all'attività di pubblico interesse."
+      },
+      {
+        "id": "b",
+        "text": "soltanto se la partecipazione pubblica supera il cinquanta per cento",
+        "why_wrong": "Il comma 3 non prevede soglie di partecipazione, ma il limite dell'attività di pubblico interesse."
+      },
+      {
+        "id": "c",
+        "text": "limitatamente ai dati e ai documenti inerenti all'attività di pubblico interesse disciplinata dal diritto nazionale o dell'Unione europea",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "soltanto per gli obblighi relativi ai titolari di incarichi politici",
+        "why_wrong": "Il comma 3 fa riferimento ai dati e documenti inerenti all'attività di pubblico interesse."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 3 applica la disciplina, in quanto compatibile e limitatamente ai dati e documenti inerenti all'attività di pubblico interesse, alle società in partecipazione pubblica e agli enti privati con bilancio superiore a 500.000 euro che esercitano funzioni amministrative o producono beni e servizi per le PA o gestiscono servizi pubblici.",
+    "evidence": [
+      {
+        "ref": "art. 2-bis, comma 3",
+        "text": "La medesima disciplina prevista per le pubbliche amministrazioni di cui al comma 1 si applica, in quanto compatibile, limitatamente ai dati e ai documenti inerenti all'attività di pubblico interesse disciplinata dal diritto nazionale o dell'Unione europea, alle società in partecipazione pubblica"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 2-bis, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-011",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 3, comma 1, del d.lgs. 33/2013, i documenti, le informazioni e i dati oggetto di accesso civico, compresi quelli oggetto di pubblicazione obbligatoria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono pubblici e chiunque ha diritto di conoscerli, di fruirne gratuitamente e di utilizzarli e riutilizzarli ai sensi dell'art. 7",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "sono pubblici, ma possono essere riutilizzati solo per fini non commerciali",
+        "why_wrong": "L'art. 3 rinvia all'art. 7, che consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
+      },
+      {
+        "id": "c",
+        "text": "sono conoscibili dai soli soggetti interessati, previo pagamento dei diritti di segreteria",
+        "why_wrong": "L'art. 3 riconosce a chiunque il diritto di conoscerli e di fruirne gratuitamente."
+      },
+      {
+        "id": "d",
+        "text": "sono pubblici, ma il loro riutilizzo richiede l'autorizzazione dell'amministrazione",
+        "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli ai sensi dell'art. 7."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 1, afferma la pubblicità dei documenti, informazioni e dati oggetto di accesso civico e di pubblicazione obbligatoria, e il diritto di chiunque di conoscerli, fruirne gratuitamente, utilizzarli e riutilizzarli.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1",
+        "text": "Tutti i documenti, le informazioni e i dati oggetto ((di accesso civico, ivi compresi quelli oggetto)) di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblici e chiunque ha diritto di conoscerli, di fruirne gratuitamente, e di utilizzarli e riutilizzarli ai sensi dell'articolo 7."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 3, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-012",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 3, comma 1-bis, del d.lgs. 33/2013, l'Autorità nazionale anticorruzione, all'esclusivo fine di ridurre gli oneri gravanti sui soggetti obbligati, può:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sospendere per un anno gli obblighi di pubblicazione dei comuni più piccoli",
+        "why_wrong": "Il comma 1-bis non prevede sospensioni, ma la sostituzione della pubblicazione integrale con informazioni riassuntive."
+      },
+      {
+        "id": "b",
+        "text": "identificare i dati, le informazioni e i documenti per i quali la pubblicazione in forma integrale è sostituita con quella di informazioni riassuntive, elaborate per aggregazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "abrogare con propria delibera gli obblighi di pubblicazione non più attuali",
+        "why_wrong": "Il comma 1-bis consente di sostituire la pubblicazione integrale con informazioni riassuntive, non di abrogare obblighi."
+      },
+      {
+        "id": "d",
+        "text": "escludere l'accesso civico ai dati non più pubblicati in forma integrale",
+        "why_wrong": "Il comma 1-bis prevede che l'accesso ai dati nella loro integrità sia disciplinato dall'art. 5."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1-bis consente all'ANAC, con delibera adottata previa consultazione pubblica e sentito il Garante se sono coinvolti dati personali, di sostituire la pubblicazione integrale con informazioni riassuntive; l'accesso ai dati integrali resta disciplinato dall'art. 5.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1-bis",
+        "text": "può identificare i dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della disciplina vigente per i quali la pubblicazione in forma integrale è sostituita con quella di informazioni riassuntive, elaborate per aggregazione. In questi casi, l'accesso ai dati e ai documenti nella loro integrità è disciplinato dall'articolo 5."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 3, comma 1-bis",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-013",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune di 8.000 abitanti lamenta la difficoltà di adempiere a tutti gli obblighi di pubblicazione. Ai sensi dell'art. 3, comma 1-ter, del d.lgs. 33/2013, l'Autorità nazionale anticorruzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può esonerarlo dagli obblighi di pubblicazione con provvedimento individuale",
+        "why_wrong": "Il comma 1-ter consente di precisare obblighi e modalità, non di esonerare dagli obblighi."
+      },
+      {
+        "id": "b",
+        "text": "non può intervenire, perché gli obblighi sono identici per tutti i soggetti",
+        "why_wrong": "Il comma 1-ter consente di prevedere modalità semplificate proprio per i comuni sotto i 15.000 abitanti."
+      },
+      {
+        "id": "c",
+        "text": "può, con il Piano nazionale anticorruzione, precisare gli obblighi di pubblicazione e prevedere modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può autorizzarlo a sostituire la pubblicazione con l'accesso civico su istanza",
+        "why_wrong": "Il comma 1-ter non prevede questa sostituzione; prevede modalità semplificate di pubblicazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1-ter consente all'ANAC, con il PNA, di precisare gli obblighi di pubblicazione in relazione alla natura, dimensione e attività dei soggetti, prevedendo in particolare modalità semplificate per i comuni sotto i 15.000 abitanti e per ordini e collegi professionali.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1-ter",
+        "text": "L'Autorità nazionale anticorruzione può, con il Piano nazionale anticorruzione, nel rispetto delle disposizioni del presente decreto, precisare gli obblighi di pubblicazione e le relative modalità di attuazione, in relazione alla natura dei soggetti, alla loro dimensione organizzativa e alle attività svolte, prevedendo in particolare modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti, per gli ordini e collegi professionali."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 3, comma 1-ter",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-014",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 4-bis, comma 2, del d.lgs. 33/2013, ciascuna amministrazione pubblica sul proprio sito, nella sezione «Amministrazione trasparente», i dati sui propri pagamenti e ne permette la consultazione in relazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "al solo ammontare complessivo annuo della spesa",
+        "why_wrong": "Il comma 2 richiede la consultazione per tipologia di spesa, ambito temporale e beneficiari."
+      },
+      {
+        "id": "c",
+        "text": "alla tipologia di spesa, con esclusione dei beneficiari",
+        "why_wrong": "Il comma 2 include espressamente i beneficiari."
+      },
+      {
+        "id": "d",
+        "text": "ai soli pagamenti relativi al personale",
+        "why_wrong": "Per le spese di personale il comma 3 rinvia agli artt. da 15 a 20."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4-bis, comma 2, impone a ogni amministrazione di pubblicare i dati sui propri pagamenti, consultabili per tipologia di spesa, ambito temporale e beneficiari; per le spese di personale si applicano gli artt. 15-20 (comma 3).",
+    "evidence": [
+      {
+        "ref": "art. 4-bis, comma 2",
+        "text": "Ciascuna amministrazione pubblica sul proprio sito istituzionale, in una parte chiaramente identificabile della sezione \"Amministrazione trasparente\", i dati sui propri pagamenti e ne permette la consultazione in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 4-bis, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-015",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 5-ter del d.lgs. 33/2013, gli enti e uffici del Sistema statistico nazionale possono consentire l'accesso per fini scientifici ai dati elementari raccolti per finalità statistiche:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a chiunque ne faccia richiesta, senza necessità di motivazione",
+        "why_wrong": "L'istanza senza motivazione è propria dell'accesso civico (art. 5); l'art. 5-ter richiede ricercatori qualificati e una proposta di ricerca."
+      },
+      {
+        "id": "b",
+        "text": "a ricercatori appartenenti a università, enti di ricerca e istituzioni pubbliche o private, inseriti nell'elenco redatto da Eurostat o in possesso dei requisiti stabiliti, con dati privi di ogni riferimento che permetta l'identificazione diretta delle unità statistiche",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "soltanto ad altre pubbliche amministrazioni, per finalità istituzionali",
+        "why_wrong": "L'art. 5-ter si riferisce a ricercatori di università, enti di ricerca e istituzioni pubbliche o private."
+      },
+      {
+        "id": "d",
+        "text": "a ricercatori qualificati, con dati comprensivi dei riferimenti identificativi delle unità statistiche",
+        "why_wrong": "I dati elementari devono essere privi di ogni riferimento che permetta l'identificazione diretta delle unità statistiche."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 5-ter consente al Sistan l'accesso per fini scientifici a dati elementari privi di riferimenti identificativi diretti, a favore di ricercatori qualificati, previo impegno di riservatezza e proposta di ricerca ritenuta adeguata.",
+    "evidence": [
+      {
+        "ref": "art. 5-ter, comma 1",
+        "text": "possono consentire l'accesso per fini scientifici ai dati elementari, privi di ogni riferimento che permetta l'identificazione diretta delle unità statistiche"
+      },
+      {
+        "ref": "art. 5-ter, comma 1",
+        "text": "l'accesso sia richiesto da ricercatori appartenenti a università, enti di ricerca e istituzioni pubbliche o private o loro strutture di ricerca, inseriti nell'elenco redatto dall'autorità statistica dell'Unione europea (Eurostat)"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 5-ter, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "da_rivedere",
+    "review_note": "Check 2 fallito: l'evidenza supporta solo in parte la risposta corretta. L'opzione b) include anche i ricercatori «in possesso dei requisiti stabiliti», ma la seconda citazione si interrompe a «inseriti nell'elenco redatto dall'autorità statistica dell'Unione europea (Eurostat)» e non riporta il seguito dell'art. 5-ter, comma 1, lettera a): «o che risultino in possesso dei requisiti stabiliti ai sensi del comma 3, lettera a), a seguito di valutazione effettuata dal medesimo soggetto del Sistan che concede l'accesso e approvata dal Comitato di cui al medesimo comma 3». Correzione suggerita: estendere la seconda evidenza fino a «approvata dal Comitato di cui al medesimo comma 3».",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-016",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 6, comma 1, del d.lgs. 33/2013, nel garantire la qualità delle informazioni riportate nei siti istituzionali le pubbliche amministrazioni ne assicurano, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la sola pubblicazione in formato cartaceo presso l'albo dell'ente",
+        "why_wrong": "Il comma 1 riguarda le informazioni dei siti istituzionali."
+      },
+      {
+        "id": "b",
+        "text": "l'integrità, il costante aggiornamento e la completezza, ma non la riutilizzabilità",
+        "why_wrong": "Il comma 1 comprende anche la riutilizzabilità secondo l'art. 7."
+      },
+      {
+        "id": "c",
+        "text": "la conformità ai documenti originali in possesso dell'amministrazione, l'indicazione della loro provenienza e la riutilizzabilità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la consultabilità previa registrazione dell'utente",
+        "why_wrong": "L'accesso ai siti avviene senza autenticazione ed identificazione (art. 2, comma 2)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 6, comma 1, elenca le caratteristiche di qualità: integrità, costante aggiornamento, completezza, tempestività, semplicità di consultazione, comprensibilità, omogeneità, facile accessibilità, conformità agli originali, indicazione della provenienza e riutilizzabilità.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 1",
+        "text": "assicurandone l'integrità, il costante aggiornamento, la completezza, la tempestività, la semplicità di consultazione, la comprensibilità, l'omogeneità, la facile accessibilità, nonché la conformità ai documenti originali in possesso dell'amministrazione, l'indicazione della loro provenienza e la riutilizzabilità secondo quanto previsto dall'articolo 7."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 6, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-017",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Il dirigente di un ufficio rinvia di alcuni mesi la pubblicazione di dati obbligatori, sostenendo che deve prima completarne la revisione per garantirne la qualità. Ai sensi dell'art. 6, comma 2, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il rinvio è legittimo, perché la qualità delle informazioni prevale sulla tempestività",
+        "why_wrong": "Il comma 2 esclude che l'esigenza di qualità giustifichi la ritardata pubblicazione."
+      },
+      {
+        "id": "b",
+        "text": "il rinvio è legittimo se autorizzato dal responsabile per la trasparenza",
+        "why_wrong": "Il comma 2 non prevede autorizzazioni al rinvio."
+      },
+      {
+        "id": "c",
+        "text": "il rinvio è legittimo fino a un massimo di sei mesi",
+        "why_wrong": "Il comma 2 non prevede alcun termine di rinvio."
+      },
+      {
+        "id": "d",
+        "text": "il rinvio non è giustificato, perché l'esigenza di assicurare adeguata qualità delle informazioni non può costituire motivo per l'omessa o ritardata pubblicazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 6, comma 2, stabilisce che l'esigenza di assicurare adeguata qualità delle informazioni non può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione.",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 2",
+        "text": "L'esigenza di assicurare adeguata qualità delle informazioni diffuse non può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 6, comma 2",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-018",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un'associazione di cittadini scarica i dati pubblicati da una Regione ai sensi del d.lgs. 33/2013 e li rielabora in un'applicazione. Ai sensi dell'art. 7 del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può farlo senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "deve chiedere preventivamente l'autorizzazione della Regione",
+        "why_wrong": "L'art. 7 consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
+      },
+      {
+        "id": "c",
+        "text": "può farlo solo per fini non commerciali",
+        "why_wrong": "L'art. 7 non prevede questa limitazione."
+      },
+      {
+        "id": "d",
+        "text": "non può farlo, perché i dati pubblicati sono destinati alla sola consultazione",
+        "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli e l'art. 7 li dichiara riutilizzabili."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7 prevede che i dati oggetto di pubblicazione obbligatoria siano pubblicati in formato di tipo aperto e siano riutilizzabili senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 1",
+        "text": "sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale"
+      },
+      {
+        "ref": "art. 7, comma 1",
+        "text": "senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 7, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-019",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune decide di pubblicare sul proprio sito documenti che non ha l'obbligo di pubblicare, alcuni dei quali contengono dati personali. Ai sensi dell'art. 7-bis, comma 3, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può farlo, perché si possono pubblicare solo i dati oggetto di obbligo",
+        "why_wrong": "Il comma 3 consente espressamente la pubblicazione di dati non obbligatori."
+      },
+      {
+        "id": "b",
+        "text": "può farlo senza limiti, trattandosi di una scelta discrezionale",
+        "why_wrong": "Il comma 3 richiede il rispetto dei limiti dell'art. 5-bis e l'anonimizzazione dei dati personali."
+      },
+      {
+        "id": "c",
+        "text": "può farlo nel rispetto dei limiti dell'art. 5-bis, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può farlo solo previo consenso scritto di tutti gli interessati",
+        "why_wrong": "Il comma 3 prevede l'indicazione in forma anonima dei dati personali, non il consenso degli interessati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 7-bis, comma 3, consente alle PA di pubblicare dati, informazioni e documenti non obbligatori, nel rispetto dei limiti dell'art. 5-bis e indicando in forma anonima i dati personali eventualmente presenti.",
+    "evidence": [
+      {
+        "ref": "art. 7-bis, comma 3",
+        "text": "Le pubbliche amministrazioni possono disporre la pubblicazione nel proprio sito istituzionale di dati, informazioni e documenti che non hanno l'obbligo di pubblicare ai sensi del presente decreto o sulla base di specifica previsione di legge o regolamento, nel rispetto dei limiti indicati dall'articolo 5-bis, procedendo alla indicazione in forma anonima dei dati personali eventualmente presenti."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 7-bis, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-020",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 7-bis, comma 4, del d.lgs. 33/2013, quando norme di legge o di regolamento prevedono la pubblicazione di atti o documenti, le pubbliche amministrazioni rendono non intelligibili:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tutti i dati personali presenti nell'atto",
+        "why_wrong": "Il comma 4 riguarda solo i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili."
+      },
+      {
+        "id": "b",
+        "text": "i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili rispetto alle specifiche finalità di trasparenza della pubblicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "i soli dati giudiziari, anche se indispensabili",
+        "why_wrong": "Il comma 4 riguarda i dati sensibili o giudiziari solo se non indispensabili."
+      },
+      {
+        "id": "d",
+        "text": "i dati relativi ai titolari di organi di indirizzo politico",
+        "why_wrong": "La pubblicazione di questi dati è finalizzata alla trasparenza pubblica (comma 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 7-bis, comma 4, impone di oscurare i dati personali non pertinenti e, se sensibili o giudiziari, quelli non indispensabili rispetto alle finalità di trasparenza della pubblicazione.",
+    "evidence": [
+      {
+        "ref": "art. 7-bis, comma 4",
+        "text": "Nei casi in cui norme di legge o di regolamento prevedano la pubblicazione di atti o documenti, le pubbliche amministrazioni provvedono a rendere non intelligibili i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili rispetto alle specifiche finalità di trasparenza della pubblicazione."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 7-bis, comma 4",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-021",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 8, comma 3, del d.lgs. 33/2013, i dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria sono pubblicati, salvo diversi termini previsti, per un periodo di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "3 anni dalla data di pubblicazione",
+        "why_wrong": "Tre anni dalla cessazione è il periodo previsto per i dati degli artt. 14 e 15, espressamente fatti salvi dal comma 3."
+      },
+      {
+        "id": "b",
+        "text": "5 anni dalla data di adozione dell'atto",
+        "why_wrong": "Il periodo decorre dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo."
+      },
+      {
+        "id": "c",
+        "text": "5 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "10 anni, decorrenti dalla data di pubblicazione",
+        "why_wrong": "Il comma 3 prevede un periodo di 5 anni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 8, comma 3, fissa la durata della pubblicazione in 5 anni dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo e comunque finché gli atti producono effetti, salvi i diversi termini in materia di dati personali e quelli degli artt. 14, comma 2, e 15, comma 4.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 3",
+        "text": "I dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblicati per un periodo di 5 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 8, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-022",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune ha pubblicato nel 2020 un atto soggetto a pubblicazione obbligatoria, i cui effetti si sono esauriti nello stesso anno; all'atto non si applicano termini speciali. Ai sensi dell'art. 8, comma 3, del d.lgs. 33/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'atto resta pubblicato fino al 31 dicembre 2025; decorso tale termine è accessibile ai sensi dell'art. 5",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'atto può essere rimosso subito, perché ha esaurito i suoi effetti",
+        "why_wrong": "Gli effetti prolungano la pubblicazione oltre i 5 anni, ma non la accorciano: il periodo minimo resta di 5 anni."
+      },
+      {
+        "id": "c",
+        "text": "l'atto resta pubblicato fino al 31 dicembre 2024; decorso tale termine è distrutto",
+        "why_wrong": "Il periodo decorre dal 1° gennaio dell'anno successivo (2021); decorso il termine l'atto resta accessibile ai sensi dell'art. 5."
+      },
+      {
+        "id": "d",
+        "text": "l'atto resta pubblicato fino al 31 dicembre 2025; decorso tale termine non è più accessibile",
+        "why_wrong": "Decorsi i termini, dati e documenti sono accessibili ai sensi dell'art. 5."
+      }
+    ],
+    "correct": "a",
+    "explanation": "I 5 anni decorrono dal 1° gennaio 2021 (anno successivo a quello dell'obbligo) e terminano il 31 dicembre 2025. Decorso il termine, i dati e documenti restano accessibili tramite accesso civico ai sensi dell'art. 5.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 3",
+        "text": "sono pubblicati per un periodo di 5 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione"
+      },
+      {
+        "ref": "art. 8, comma 3",
+        "text": "((Decorsi detti termini, i relativi dati e documenti sono accessibili ai sensi dell'articolo 5.))"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 8, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-023",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 8, comma 3-bis, del d.lgs. 33/2013, i casi in cui la durata della pubblicazione del dato e del documento può essere inferiore a 5 anni sono determinati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "da ciascuna amministrazione, con proprio regolamento",
+        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'Autorità nazionale anticorruzione."
+      },
+      {
+        "id": "b",
+        "text": "dal Garante per la protezione dei dati personali, sentita l'Autorità nazionale anticorruzione",
+        "why_wrong": "Il Garante può solo formulare una proposta; la determinazione spetta all'ANAC."
+      },
+      {
+        "id": "c",
+        "text": "dal responsabile della prevenzione della corruzione e della trasparenza di ciascun ente",
+        "why_wrong": "Il comma 3-bis attribuisce la determinazione all'ANAC."
+      },
+      {
+        "id": "d",
+        "text": "dall'Autorità nazionale anticorruzione, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso, anche su proposta del Garante per la protezione dei dati personali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 3-bis affida all'ANAC la determinazione dei casi di pubblicazione inferiore a 5 anni, in base al rischio corruttivo, alla semplificazione e alle richieste di accesso, anche su proposta del Garante.",
+    "evidence": [
+      {
+        "ref": "art. 8, comma 3-bis",
+        "text": "L'Autorità nazionale anticorruzione, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso, determina, anche su proposta del Garante per la protezione dei dati personali, i casi in cui la durata della pubblicazione del dato e del documento può essere inferiore a 5 anni."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 8, comma 3-bis",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-024",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Per ridurre il traffico sul proprio sito, un ente configura un filtro tecnico che impedisce ai motori di ricerca web di indicizzare la sezione «Amministrazione trasparente». Ai sensi dell'art. 9, comma 1, del d.lgs. 33/2013, la scelta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è legittima, se la sezione resta raggiungibile dalla home page",
+        "why_wrong": "Il comma 1 vieta in ogni caso filtri e soluzioni tecniche che impediscano l'indicizzazione."
+      },
+      {
+        "id": "b",
+        "text": "non è consentita, perché le amministrazioni non possono disporre filtri e altre soluzioni tecniche atte ad impedire ai motori di ricerca web di indicizzare ed effettuare ricerche nella sezione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è legittima per i soli dati personali contenuti nella sezione",
+        "why_wrong": "Il divieto del comma 1 riguarda l'intera sezione; per i dati personali valgono le regole dell'art. 7-bis."
+      },
+      {
+        "id": "d",
+        "text": "è legittima previa autorizzazione dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 1 non prevede autorizzazioni in deroga al divieto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 9, comma 1, prevede la sezione «Amministrazione trasparente» nella home page e vieta alle amministrazioni di disporre filtri o soluzioni tecniche che impediscano ai motori di ricerca di indicizzarla ed effettuarvi ricerche.",
+    "evidence": [
+      {
+        "ref": "art. 9, comma 1",
+        "text": "Le amministrazioni non possono disporre filtri e altre soluzioni tecniche atte ad impedire ai motori di ricerca web di indicizzare ed effettuare ricerche all'interno della sezione «Amministrazione trasparente»."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 9, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-025",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Un Comune ha comunicato regolarmente alla banca dati nazionale i dati richiesti per assolvere un obbligo di pubblicazione, ma l'amministrazione titolare della banca dati non li ha pubblicati. Ai sensi dell'art. 9-bis del d.lgs. 33/2013, la richiesta di accesso civico va presentata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "al responsabile della prevenzione della corruzione e della trasparenza del Comune",
+        "why_wrong": "Il RPCT dell'amministrazione tenuta alla comunicazione è competente quando l'omissione è imputabile a essa (comma 4)."
+      },
+      {
+        "id": "b",
+        "text": "all'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 3 indica il RPCT dell'amministrazione titolare della banca dati."
+      },
+      {
+        "id": "c",
+        "text": "al responsabile della prevenzione della corruzione e della trasparenza dell'amministrazione titolare della banca dati",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al difensore civico regionale",
+        "why_wrong": "Il difensore civico è competente per i ricorsi contro il diniego di accesso (art. 5, comma 8), non per la presentazione della richiesta."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 9-bis, comma 3, stabilisce che, se la banca dati omette di pubblicare dati effettivamente comunicati, la richiesta di accesso civico va al RPCT dell'amministrazione titolare della banca dati; se invece l'omissione è imputabile a chi doveva comunicare, va al RPCT di quest'ultimo (comma 4).",
+    "evidence": [
+      {
+        "ref": "art. 9-bis, comma 3",
+        "text": "Nel caso in cui sia stata omessa la pubblicazione, nelle banche dati, dei dati oggetto di comunicazione ai sensi del comma 2 ed effettivamente comunicati, la richiesta di accesso civico di cui all'articolo 5 è presentata al responsabile della prevenzione della corruzione e della trasparenza dell'amministrazione titolare della banca dati."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 9-bis, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-026",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 10, comma 1, del d.lgs. 33/2013, in un'apposita sezione del Piano triennale per la prevenzione della corruzione ogni amministrazione indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'elenco completo dei dati già pubblicati nell'anno precedente",
+        "why_wrong": "Il comma 1 riguarda l'indicazione dei responsabili della trasmissione e della pubblicazione."
+      },
+      {
+        "id": "c",
+        "text": "i nominativi dei dipendenti sanzionati per violazione degli obblighi di trasparenza",
+        "why_wrong": "Il comma 1 non prevede questa indicazione."
+      },
+      {
+        "id": "d",
+        "text": "i casi in cui la pubblicazione può avere durata inferiore a 5 anni",
+        "why_wrong": "Questi casi sono determinati dall'ANAC (art. 8, comma 3-bis)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10, comma 1, prevede che ogni amministrazione indichi, in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili della trasmissione e della pubblicazione di documenti, informazioni e dati.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 1",
+        "text": "i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati ai sensi del presente decreto."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 10, comma 1",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-027",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 10, comma 3, del d.lgs. 33/2013, la promozione di maggiori livelli di trasparenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è un'attività facoltativa, rimessa alla discrezionalità di ciascun dirigente",
+        "why_wrong": "Il comma 3 la qualifica come obiettivo strategico di ogni amministrazione."
+      },
+      {
+        "id": "b",
+        "text": "costituisce un obiettivo strategico di ogni amministrazione, che deve tradursi nella definizione di obiettivi organizzativi e individuali",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è compito esclusivo dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Il comma 3 la attribuisce a ogni amministrazione."
+      },
+      {
+        "id": "d",
+        "text": "riguarda solo le amministrazioni centrali dello Stato",
+        "why_wrong": "Il comma 3 si riferisce a ogni amministrazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 10, comma 3, stabilisce che la promozione di maggiori livelli di trasparenza è un obiettivo strategico di ogni amministrazione, da tradurre in obiettivi organizzativi e individuali.",
+    "evidence": [
+      {
+        "ref": "art. 10, comma 3",
+        "text": "La promozione di maggiori livelli di trasparenza costituisce un obiettivo strategico di ogni amministrazione, che deve tradursi nella definizione di obiettivi organizzativi e individuali."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 10, comma 3",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  },
+  {
+    "id": "dlgs33-p-028",
+    "subject": "trasparenza-anticorruzione",
+    "question": "Ai sensi dell'art. 12, comma 1-bis, del d.lgs. 33/2013, il responsabile della trasparenza delle amministrazioni competenti pubblica sul sito istituzionale uno scadenzario con l'indicazione delle date di efficacia dei nuovi obblighi amministrativi introdotti. L'inosservanza di tale obbligo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non comporta conseguenze, trattandosi di un adempimento informativo",
+        "why_wrong": "Il comma 1-bis prevede espressamente l'applicazione delle sanzioni dell'art. 46."
+      },
+      {
+        "id": "b",
+        "text": "comporta la nullità dei nuovi obblighi amministrativi",
+        "why_wrong": "Il comma 1-bis collega all'inosservanza le sanzioni dell'art. 46, non la nullità degli obblighi."
+      },
+      {
+        "id": "c",
+        "text": "comporta la decadenza del responsabile dall'incarico",
+        "why_wrong": "Il comma 1-bis rinvia alle sanzioni dell'art. 46."
+      },
+      {
+        "id": "d",
+        "text": "comporta l'applicazione delle sanzioni di cui all'art. 46",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 12, comma 1-bis, obbliga il responsabile della trasparenza a pubblicare lo scadenzario dei nuovi obblighi amministrativi e a comunicarlo al Dipartimento della funzione pubblica; l'inosservanza comporta le sanzioni dell'art. 46.",
+    "evidence": [
+      {
+        "ref": "art. 12, comma 1-bis",
+        "text": "L'inosservanza del presente comma comporta l'applicazione delle sanzioni di cui all'articolo 46."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 33/2013",
+      "article": "art. 12, comma 1-bis",
+      "file": "sources/dlgs 33 2013.txt",
+      "url": null
+    },
+    "source_date": "2026-09-24",
+    "status": "rivista",
+    "no_shuffle": false
+  }
+]
