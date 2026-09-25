@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "pi-rap-001",
+    "subject": "pubblico-impiego",
+    "question": "Un Comune deve assumere personale per un profilo per il quale è richiesto il solo requisito della scuola dell'obbligo. Ai sensi dell'art. 35, comma 1, del d.lgs. 165/2001, l'assunzione avviene con contratto individuale di lavoro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mediante chiamata diretta nominativa da parte del sindaco",
+        "why_wrong": "La chiamata diretta nominativa è prevista dal comma 2 solo per particolari categorie (ad esempio familiari del personale deceduto in servizio)."
+      },
+      {
+        "id": "b",
+        "text": "mediante avviamento degli iscritti nelle liste di collocamento ai sensi della legislazione vigente, fatti salvi gli eventuali ulteriori requisiti per specifiche professionalità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "esclusivamente mediante corso-concorso bandito dalla Scuola nazionale dell'amministrazione",
+        "why_wrong": "Il corso-concorso della Scuola nazionale riguarda l'accesso alla dirigenza (art. 28), non i profili che richiedono la sola scuola dell'obbligo."
+      },
+      {
+        "id": "d",
+        "text": "mediante incarico individuale di lavoro autonomo ai sensi dell'art. 7, comma 6",
+        "why_wrong": "L'art. 7, comma 6, riguarda incarichi a esperti di particolare e comprovata specializzazione, non le assunzioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 35, comma 1, lett. b), prevede l'assunzione mediante avviamento degli iscritti nelle liste di collocamento per le qualifiche e i profili per i quali è richiesto il solo requisito della scuola dell'obbligo, salvi gli ulteriori requisiti per specifiche professionalità.",
+    "evidence": [
+      {
+        "ref": "art. 35, comma 1",
+        "text": "b) mediante avviamento degli iscritti nelle liste di collocamento ai sensi della legislazione vigente per le qualifiche e profili per i quali è richiesto il solo requisito della scuola dell'obbligo, facendo salvi gli eventuali ulteriori requisiti per specifiche professionalità."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 35, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-002",
+    "subject": "pubblico-impiego",
+    "question": "Nel nominare la commissione di un concorso, un Comune intende inserire un consigliere comunale esperto nelle materie d'esame. Ai sensi dell'art. 35, comma 3, lett. e), del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la nomina è legittima, purché il consigliere sia esperto di provata competenza",
+        "why_wrong": "La lett. e) esclude comunque chi ricopre cariche politiche, anche se esperto."
+      },
+      {
+        "id": "b",
+        "text": "la nomina è legittima se il consigliere appartiene alla minoranza consiliare",
+        "why_wrong": "La lett. e) esclude chi ricopre cariche politiche, senza distinzioni tra maggioranza e minoranza."
+      },
+      {
+        "id": "c",
+        "text": "la nomina non è consentita, perché le commissioni non possono comprendere chi ricopre cariche politiche",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la nomina è consentita solo con funzioni di presidente della commissione",
+        "why_wrong": "La lett. e) esclude chi ricopre cariche politiche da qualsiasi ruolo nella composizione della commissione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La lett. e) prevede che le commissioni siano composte esclusivamente da esperti di provata competenza che non siano componenti dell'organo di direzione politica dell'amministrazione, non ricoprano cariche politiche e non siano rappresentanti sindacali o designati da sindacati o associazioni professionali.",
+    "evidence": [
+      {
+        "ref": "art. 35, comma 3",
+        "text": "e) composizione delle commissioni esclusivamente con esperti di provata competenza nelle materie di concorso, scelti tra funzionari delle amministrazioni, docenti ed estranei alle medesime, che non siano componenti dell'organo di direzione politica dell'amministrazione, che non ricoprano cariche politiche e che non siano rappresentanti sindacali o designati dalle confederazioni ed organizzazioni sindacali o dalle associazioni professionali;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 35, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-003",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 35, comma 5-ter, del d.lgs. 165/2001, le graduatorie dei concorsi per il reclutamento del personale presso le amministrazioni pubbliche rimangono vigenti, salvi i periodi inferiori previsti da leggi regionali e quelli stabiliti per gli enti locali dall'art. 91 del TUEL, per:",
+    "options": [
+      {
+        "id": "a",
+        "text": "un anno dalla data di approvazione",
+        "why_wrong": "Il comma 5-ter fissa la vigenza in due anni dalla data di approvazione."
+      },
+      {
+        "id": "b",
+        "text": "due anni dalla data di approvazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "tre anni dalla data di pubblicazione del bando",
+        "why_wrong": "Il comma 5-ter indica due anni, decorrenti dall'approvazione della graduatoria."
+      },
+      {
+        "id": "d",
+        "text": "cinque anni dalla data di approvazione",
+        "why_wrong": "Cinque anni è il periodo minimo di permanenza nella sede di prima destinazione (comma 5-bis), non la vigenza delle graduatorie."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 5-ter stabilisce che le graduatorie rimangono vigenti per due anni dalla data di approvazione, fatti salvi i periodi di vigenza inferiori previsti da leggi regionali e quelli stabiliti per gli enti locali dall'art. 91 del TUEL.",
+    "evidence": [
+      {
+        "ref": "art. 35, comma 5-ter",
+        "text": "Le graduatorie dei concorsi per il reclutamento del personale presso le amministrazioni pubbliche rimangono vigenti per un termine di due anni dalla data di approvazione."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 35, comma 5-ter",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-004",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 35, comma 5-bis, del d.lgs. 165/2001, i vincitori dei concorsi (esclusi i direttori dei servizi generali e amministrativi delle istituzioni scolastiche):",
+    "options": [
+      {
+        "id": "a",
+        "text": "devono permanere nella sede di prima destinazione per almeno tre anni, salvo diversa previsione dei contratti collettivi",
+        "why_wrong": "Il periodo generale è di cinque anni e la norma non è derogabile dai contratti collettivi."
+      },
+      {
+        "id": "b",
+        "text": "possono chiedere il trasferimento per mobilità dopo il superamento del periodo di prova",
+        "why_wrong": "Il comma 5-bis impone la permanenza nella sede di prima destinazione per almeno cinque anni."
+      },
+      {
+        "id": "c",
+        "text": "devono permanere nella sede di prima destinazione per almeno cinque anni, salvo diversa previsione dei contratti integrativi",
+        "why_wrong": "Il comma 5-bis dichiara la norma non derogabile dai contratti collettivi."
+      },
+      {
+        "id": "d",
+        "text": "devono permanere nella sede di prima destinazione per un periodo non inferiore a cinque anni; la disposizione non è derogabile dai contratti collettivi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 5-bis impone ai vincitori dei concorsi la permanenza nella sede di prima destinazione per almeno cinque anni (tre per i direttori dei servizi generali e amministrativi delle scuole) e qualifica la disposizione come norma non derogabile dai contratti collettivi.",
+    "evidence": [
+      {
+        "ref": "art. 35, comma 5-bis",
+        "text": "I vincitori dei concorsi devono permanere nella sede di prima destinazione per un periodo non inferiore a cinque anni"
+      },
+      {
+        "ref": "art. 35, comma 5-bis",
+        "text": "La presente disposizione costituisce norma non derogabile dai contratti collettivi."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 35, comma 5-bis",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-005",
+    "subject": "pubblico-impiego",
+    "question": "Un funzionario comunale è stato condannato, con sentenza non ancora passata in giudicato, per un reato previsto nel capo I del titolo II del libro secondo del codice penale. Ai sensi dell'art. 35-bis del d.lgs. 165/2001, egli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può far parte di commissioni di concorso fino a quando la sentenza non diventi definitiva",
+        "why_wrong": "L'art. 35-bis si applica anche in caso di condanna con sentenza non passata in giudicato."
+      },
+      {
+        "id": "b",
+        "text": "può far parte di commissioni di concorso solo con compiti di segreteria",
+        "why_wrong": "Il comma 1, lett. a), esclude la partecipazione alle commissioni anche con compiti di segreteria."
+      },
+      {
+        "id": "c",
+        "text": "non può fare parte, anche con compiti di segreteria, di commissioni per l'accesso o la selezione a pubblici impieghi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "decade automaticamente dal rapporto di impiego",
+        "why_wrong": "L'art. 35-bis prevede divieti di partecipare a commissioni e di assegnazione a determinati uffici, non la decadenza dall'impiego."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 35-bis, comma 1, stabilisce che chi è stato condannato, anche con sentenza non passata in giudicato, per i reati del capo I del titolo II del libro secondo del codice penale non può fare parte, anche con compiti di segreteria, di commissioni per l'accesso o la selezione a pubblici impieghi, né di commissioni di gara, né essere assegnato agli uffici indicati alla lett. b).",
+    "evidence": [
+      {
+        "ref": "art. 35-bis, comma 1",
+        "text": "a) non possono fare parte, anche con compiti di segreteria, di commissioni per l'accesso o la selezione a pubblici impieghi;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 35-bis, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-006",
+    "subject": "pubblico-impiego",
+    "question": "Una dipendente di un Ministero, assunta da due anni, chiede il passaggio diretto a un'altra amministrazione ai sensi dell'art. 30, comma 1, del d.lgs. 165/2001. Il passaggio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non richiede in nessun caso l'assenso dell'amministrazione di appartenenza",
+        "why_wrong": "Il comma 1 richiede il previo assenso, tra l'altro, per il personale assunto da meno di tre anni."
+      },
+      {
+        "id": "b",
+        "text": "richiede il previo assenso dell'amministrazione di appartenenza, trattandosi di personale assunto da meno di tre anni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è vietato, poiché la mobilità è ammessa solo dopo cinque anni di servizio",
+        "why_wrong": "Il comma 1 non vieta il passaggio, ma lo subordina al previo assenso per il personale assunto da meno di tre anni."
+      },
+      {
+        "id": "d",
+        "text": "richiede soltanto il parere delle organizzazioni sindacali",
+        "why_wrong": "Il comma 1 richiede il previo assenso dell'amministrazione di appartenenza, non un parere sindacale."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1 richiede il previo assenso dell'amministrazione di appartenenza per le posizioni dichiarate motivatamente infungibili, per il personale assunto da meno di tre anni e quando la mobilità determini una carenza di organico superiore al 20 per cento nella qualifica corrispondente.",
+    "evidence": [
+      {
+        "ref": "art. 30, comma 1",
+        "text": "È richiesto il previo assenso dell'amministrazione di appartenenza nel caso in cui si tratti di posizioni dichiarate motivatamente infungibili dall'amministrazione cedente o di personale assunto da meno di tre anni o qualora la mobilità determini una carenza di organico superiore al 20 per cento nella qualifica corrispondente a quella del richiedente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 30, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-007",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente di un Comune con 80 dipendenti a tempo indeterminato, in servizio da dieci anni in una posizione fungibile, chiede il passaggio diretto a un'altra amministrazione. Ai sensi dell'art. 30, comma 1, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è comunque richiesto il previo assenso dell'amministrazione di appartenenza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'assenso non è richiesto, perché il dipendente è in servizio da più di tre anni",
+        "why_wrong": "Per gli enti locali con non più di 100 dipendenti a tempo indeterminato il comma 1 richiede comunque il previo assenso."
+      },
+      {
+        "id": "c",
+        "text": "l'amministrazione di appartenenza può solo differire il passaggio fino a sessanta giorni",
+        "why_wrong": "Il differimento non si applica agli enti locali fino a 100 dipendenti, per i quali è richiesto comunque il previo assenso."
+      },
+      {
+        "id": "d",
+        "text": "il passaggio è subordinato al parere del Dipartimento della funzione pubblica",
+        "why_wrong": "Il comma 1 non prevede tale parere; per gli enti locali fino a 100 dipendenti richiede il previo assenso dell'ente."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 1 stabilisce che le regole sull'assenso limitato ai casi indicati e sul differimento non si applicano agli enti locali con non più di 100 dipendenti a tempo indeterminato, per i quali è comunque richiesto il previo assenso dell'amministrazione di appartenenza.",
+    "evidence": [
+      {
+        "ref": "art. 30, comma 1",
+        "text": "Le disposizioni di cui ai periodi secondo e terzo non si applicano al personale delle aziende e degli enti del servizio sanitario nazionale e degli enti locali con un numero di dipendenti a tempo indeterminato non superiore a 100, per i quali è comunque richiesto il previo assenso dell'amministrazione di appartenenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 30, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-008",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 30, comma 2, del d.lgs. 165/2001, i dipendenti possono essere trasferiti all'interno della stessa amministrazione o, previo accordo tra le amministrazioni, in altra amministrazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo con il loro consenso, qualunque sia la distanza della nuova sede",
+        "why_wrong": "Il comma 2 consente il trasferimento in sedi nello stesso comune o entro cinquanta chilometri; il consenso è richiesto solo per particolari categorie."
+      },
+      {
+        "id": "b",
+        "text": "in sedi collocate in qualsiasi comune della stessa regione",
+        "why_wrong": "Il comma 2 si riferisce allo stesso comune o a una distanza non superiore a cinquanta chilometri."
+      },
+      {
+        "id": "c",
+        "text": "in sedi collocate nel territorio dello stesso comune ovvero a distanza non superiore a cinquanta chilometri dalla sede cui sono adibiti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "in sedi collocate a distanza non superiore a cento chilometri",
+        "why_wrong": "Il limite fissato dal comma 2 è di cinquanta chilometri."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 consente il trasferimento in sedi nello stesso comune o a non più di cinquanta chilometri; per i dipendenti con figli di età inferiore a tre anni e per i soggetti dell'art. 33, comma 3, L. 104/1992 occorre il loro consenso.",
+    "evidence": [
+      {
+        "ref": "art. 30, comma 2",
+        "text": "i dipendenti possono essere trasferiti all'interno della stessa amministrazione o, previo accordo tra le amministrazioni interessate, in altra amministrazione, in sedi collocate nel territorio dello stesso comune ovvero a distanza non superiore a cinquanta chilometri dalla sede cui sono adibiti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 30, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-009",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 36, comma 1, del d.lgs. 165/2001, per le esigenze connesse con il proprio fabbisogno ordinario le pubbliche amministrazioni assumono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con contratti a tempo determinato, rinnovabili fino a trentasei mesi",
+        "why_wrong": "Il comma 1 impone per il fabbisogno ordinario l'assunzione esclusivamente a tempo indeterminato."
+      },
+      {
+        "id": "b",
+        "text": "indifferentemente con contratti a tempo indeterminato o di somministrazione",
+        "why_wrong": "La somministrazione è ammessa dal comma 2 solo per esigenze temporanee o eccezionali."
+      },
+      {
+        "id": "c",
+        "text": "esclusivamente con contratti di lavoro subordinato a tempo indeterminato, seguendo le procedure di reclutamento previste dall'art. 35",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "preferibilmente con contratti di collaborazione coordinata e continuativa",
+        "why_wrong": "Il comma 1 prevede esclusivamente contratti di lavoro subordinato a tempo indeterminato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 36, comma 1, stabilisce che per il fabbisogno ordinario le amministrazioni assumono esclusivamente con contratti di lavoro subordinato a tempo indeterminato secondo le procedure dell'art. 35; i contratti flessibili sono ammessi solo per comprovate esigenze temporanee o eccezionali (comma 2).",
+    "evidence": [
+      {
+        "ref": "art. 36, comma 1",
+        "text": "Per le esigenze connesse con il proprio fabbisogno ordinario le pubbliche amministrazioni assumono esclusivamente con contratti di lavoro subordinato a tempo indeterminato seguendo le procedure di reclutamento previste dall'articolo 35."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 36, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-010",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 36, comma 2, del d.lgs. 165/2001, il ricorso alla somministrazione di lavoro da parte delle pubbliche amministrazioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è ammesso per qualsiasi funzione, purché per esigenze temporanee",
+        "why_wrong": "Il comma 2 esclude la somministrazione per l'esercizio di funzioni direttive e dirigenziali."
+      },
+      {
+        "id": "b",
+        "text": "non è possibile per l'esercizio di funzioni direttive e dirigenziali",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è ammesso esclusivamente per funzioni dirigenziali di livello non generale",
+        "why_wrong": "Il comma 2 vieta proprio la somministrazione per funzioni direttive e dirigenziali."
+      },
+      {
+        "id": "d",
+        "text": "è vietato in ogni caso",
+        "why_wrong": "Il comma 2 ammette la somministrazione a tempo determinato per esigenze temporanee o eccezionali, escluse le funzioni direttive e dirigenziali."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 2 consente la somministrazione di lavoro a tempo determinato per comprovate esigenze temporanee o eccezionali, ma stabilisce che non è possibile ricorrervi per l'esercizio di funzioni direttive e dirigenziali.",
+    "evidence": [
+      {
+        "ref": "art. 36, comma 2",
+        "text": "Non è possibile ricorrere alla somministrazione di lavoro per l'esercizio di funzioni direttive e dirigenziali."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 36, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-011",
+    "subject": "pubblico-impiego",
+    "question": "Un lavoratore ha prestato servizio presso un ente pubblico con una successione abusiva di contratti a tempo determinato, in violazione di disposizioni imperative. Ai sensi dell'art. 36, comma 5, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il rapporto si converte in rapporto a tempo indeterminato con l'ente",
+        "why_wrong": "Il comma 5 esclude che la violazione possa comportare la costituzione di rapporti a tempo indeterminato."
+      },
+      {
+        "id": "b",
+        "text": "il lavoratore ha diritto solo alla restituzione dei contributi previdenziali",
+        "why_wrong": "Il comma 5 riconosce il diritto al risarcimento del danno e un'indennità."
+      },
+      {
+        "id": "c",
+        "text": "il lavoratore ha diritto all'assunzione con precedenza nel primo concorso utile",
+        "why_wrong": "Il comma 5 prevede il risarcimento del danno, non una precedenza nelle assunzioni."
+      },
+      {
+        "id": "d",
+        "text": "il rapporto non può convertirsi a tempo indeterminato; il lavoratore ha diritto al risarcimento del danno e il giudice stabilisce un'indennità tra quattro e ventiquattro mensilità, salva la prova del maggior danno",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 5 stabilisce che la violazione di disposizioni imperative sull'assunzione non può comportare la costituzione di rapporti a tempo indeterminato con la PA; il lavoratore ha diritto al risarcimento e, in caso di abuso di contratti a termine in successione, a un'indennità da quattro a ventiquattro mensilità, salva la prova del maggior danno.",
+    "evidence": [
+      {
+        "ref": "art. 36, comma 5",
+        "text": "In ogni caso, la violazione di disposizioni imperative riguardanti l'assunzione o l'impiego di lavoratori, da parte delle pubbliche amministrazioni, non può comportare la costituzione di rapporti di lavoro a tempo indeterminato con le medesime pubbliche amministrazioni, ferma restando ogni responsabilità e sanzione."
+      },
+      {
+        "ref": "art. 36, comma 5",
+        "text": "il giudice stabilisce un'indennità nella misura compresa tra un minimo di quattro e un massimo di ventiquattro mensilità dell'ultima retribuzione di riferimento per il calcolo del trattamento di fine rapporto"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 36, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-012",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 36, comma 5-quater, del d.lgs. 165/2001, al dirigente responsabile di irregolarità nell'utilizzo del lavoro flessibile:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può essere erogata la retribuzione di risultato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "si applica di diritto il licenziamento disciplinare",
+        "why_wrong": "Il comma 5-quater prevede la responsabilità ai sensi dell'art. 21 e il divieto di erogare la retribuzione di risultato, non il licenziamento di diritto."
+      },
+      {
+        "id": "c",
+        "text": "è decurtata la retribuzione di posizione del 30 per cento",
+        "why_wrong": "Il comma 5-quater riguarda la retribuzione di risultato, che non può essere erogata."
+      },
+      {
+        "id": "d",
+        "text": "non si applica alcuna conseguenza se i contratti sono stati poi risolti",
+        "why_wrong": "Il comma 5-quater stabilisce la nullità dei contratti, la responsabilità erariale e il divieto di erogare la retribuzione di risultato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 5-quater stabilisce che i contratti stipulati in violazione dell'art. 36 sono nulli e determinano responsabilità erariale; i dirigenti che violano l'articolo rispondono ai sensi dell'art. 21 e a quello responsabile di irregolarità nel lavoro flessibile non può essere erogata la retribuzione di risultato.",
+    "evidence": [
+      {
+        "ref": "art. 36, comma 5-quater",
+        "text": "Al dirigente responsabile di irregolarità nell'utilizzo del lavoro flessibile non può essere erogata la retribuzione di risultato."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 36, comma 5-quater",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-013",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente pubblico a tempo pieno svolge un incarico retribuito per una società privata senza la preventiva autorizzazione della propria amministrazione. Ai sensi dell'art. 53, comma 7, del d.lgs. 165/2001, salve le più gravi sanzioni e ferma la responsabilità disciplinare, il compenso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "resta al dipendente, che è tenuto solo a una sanzione pecuniaria",
+        "why_wrong": "Il comma 7 prevede che il compenso sia versato all'amministrazione di appartenenza."
+      },
+      {
+        "id": "b",
+        "text": "è versato all'erario dello Stato",
+        "why_wrong": "Il comma 7 indica il conto dell'entrata del bilancio dell'amministrazione di appartenenza."
+      },
+      {
+        "id": "c",
+        "text": "deve essere versato, a cura dell'erogante o, in difetto, del percettore, nel conto dell'entrata del bilancio dell'amministrazione di appartenenza, per incrementare il fondo di produttività o fondi equivalenti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è ripartito in parti uguali tra il dipendente e l'amministrazione",
+        "why_wrong": "Il comma 7 non prevede ripartizioni: l'intero compenso va versato all'amministrazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 7 vieta gli incarichi retribuiti non conferiti o autorizzati; in caso di violazione il compenso è versato dall'erogante o, in difetto, dal percettore all'amministrazione di appartenenza, a incremento del fondo di produttività. L'omesso versamento è fonte di responsabilità erariale (comma 7-bis).",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 7",
+        "text": "In caso di inosservanza del divieto, salve le più gravi sanzioni e ferma restando la responsabilità disciplinare, il compenso dovuto per le prestazioni eventualmente svolte deve essere versato, a cura dell'erogante o, in difetto, del percettore, nel conto dell'entrata del bilancio dell'amministrazione di appartenenza del dipendente per essere destinato ad incremento del fondo di produttività o di fondi equivalenti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 53, comma 7",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-014",
+    "subject": "pubblico-impiego",
+    "question": "Una società privata chiede a un Comune l'autorizzazione a conferire un incarico retribuito a un suo dipendente. Il Comune non si pronuncia entro trenta giorni. Ai sensi dell'art. 53, comma 10, del d.lgs. 165/2001, l'autorizzazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si intende accordata per silenzio-assenso",
+        "why_wrong": "Il silenzio vale come assenso solo per gli incarichi da conferirsi da amministrazioni pubbliche."
+      },
+      {
+        "id": "b",
+        "text": "si intende definitivamente negata",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "deve essere richiesta nuovamente dal dipendente",
+        "why_wrong": "Il comma 10 stabilisce direttamente l'effetto del decorso del termine: per gli incarichi non pubblici l'autorizzazione si intende negata."
+      },
+      {
+        "id": "d",
+        "text": "si intende accordata se il dipendente è a tempo parziale",
+        "why_wrong": "Il comma 10 non distingue in base al regime orario: per gli incarichi non pubblici il silenzio equivale a diniego."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 10 prevede che l'amministrazione si pronunci entro trenta giorni; decorso il termine, l'autorizzazione si intende accordata se l'incarico è conferito da amministrazioni pubbliche, mentre in ogni altro caso si intende definitivamente negata.",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 10",
+        "text": "Decorso il termine per provvedere, l'autorizzazione, se richiesta per incarichi da conferirsi da amministrazioni pubbliche, si intende accordata; in ogni altro caso, si intende definitivamente negata."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 53, comma 10",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-015",
+    "subject": "pubblico-impiego",
+    "question": "Un istruttore amministrativo a tempo pieno è invitato come relatore a un convegno e riceve un compenso. Ai sensi dell'art. 53, comma 6, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve ottenere la previa autorizzazione dell'amministrazione, trattandosi di incarico retribuito",
+        "why_wrong": "Il comma 6 esclude dagli incarichi retribuiti soggetti ad autorizzazione i compensi derivanti dalla partecipazione a convegni e seminari."
+      },
+      {
+        "id": "b",
+        "text": "non può in alcun caso partecipare, perché dipendente a tempo pieno",
+        "why_wrong": "Il comma 6 esclude espressamente la partecipazione a convegni e seminari dalla disciplina degli incarichi retribuiti."
+      },
+      {
+        "id": "c",
+        "text": "deve versare il compenso all'amministrazione di appartenenza",
+        "why_wrong": "Il versamento del comma 7 riguarda gli incarichi non autorizzati; i compensi da convegni e seminari sono esclusi dalla disciplina."
+      },
+      {
+        "id": "d",
+        "text": "il compenso derivante dalla partecipazione a convegni e seminari è escluso dagli incarichi retribuiti disciplinati dai commi successivi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 6 definisce incarichi retribuiti tutti quelli, anche occasionali, non compresi nei doveri d'ufficio per i quali è previsto un compenso, ma esclude i compensi derivanti, tra l'altro, dalla collaborazione a giornali e riviste, dalla partecipazione a convegni e seminari e dagli incarichi con solo rimborso spese documentate.",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 6",
+        "text": "c) dalla partecipazione a convegni e seminari;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 53, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-016",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 53, comma 16-ter, del d.lgs. 165/2001, i dipendenti che negli ultimi tre anni di servizio hanno esercitato poteri autoritativi o negoziali per conto delle pubbliche amministrazioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non possono svolgere alcuna attività lavorativa privata per un anno dalla cessazione",
+        "why_wrong": "Il comma 16-ter prevede un divieto triennale, limitato ai soggetti privati destinatari dell'attività svolta con quei poteri."
+      },
+      {
+        "id": "b",
+        "text": "non possono svolgere, nei tre anni successivi alla cessazione del rapporto, attività lavorativa o professionale presso i soggetti privati destinatari dell'attività svolta attraverso i medesimi poteri",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "possono lavorare presso i soggetti privati destinatari dei loro atti, previa autorizzazione dell'ultima amministrazione",
+        "why_wrong": "Il comma 16-ter non prevede autorizzazioni: il divieto opera per tre anni."
+      },
+      {
+        "id": "d",
+        "text": "non possono essere assunti da altre amministrazioni pubbliche per cinque anni",
+        "why_wrong": "Il divieto riguarda i soggetti privati destinatari dell'attività, per tre anni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 16-ter vieta per tre anni dalla cessazione l'attività lavorativa o professionale presso i privati destinatari dei poteri autoritativi o negoziali esercitati negli ultimi tre anni; i contratti conclusi in violazione sono nulli e i privati non possono contrattare con la PA per tre anni.",
+    "evidence": [
+      {
+        "ref": "art. 53, comma 16-ter",
+        "text": "I dipendenti che, negli ultimi tre anni di servizio, hanno esercitato poteri autoritativi o negoziali per conto delle pubbliche amministrazioni di cui all'articolo 1, comma 2, non possono svolgere, nei tre anni successivi alla cessazione del rapporto di pubblico impiego, attività lavorativa o professionale presso i soggetti privati destinatari dell'attività della pubblica amministrazione svolta attraverso i medesimi poteri."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 53, comma 16-ter",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-017",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55, comma 2, del d.lgs. 165/2001, la pubblicazione sul sito istituzionale dell'amministrazione del codice disciplinare, recante l'indicazione delle infrazioni e delle relative sanzioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "equivale a tutti gli effetti alla sua affissione all'ingresso della sede di lavoro",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "è facoltativa e non sostituisce l'affissione all'ingresso della sede di lavoro",
+        "why_wrong": "Il comma 2 stabilisce che la pubblicazione sul sito equivale a tutti gli effetti all'affissione."
+      },
+      {
+        "id": "c",
+        "text": "deve essere accompagnata dalla consegna personale del codice a ciascun dipendente, a pena di inefficacia",
+        "why_wrong": "Il comma 2 non prevede la consegna personale del codice disciplinare: la pubblicazione sul sito equivale all'affissione."
+      },
+      {
+        "id": "d",
+        "text": "è necessaria solo per le infrazioni punite con il licenziamento",
+        "why_wrong": "Il comma 2 si riferisce al codice disciplinare nel suo complesso."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 55, comma 2, rinvia ai contratti collettivi per la tipologia di infrazioni e sanzioni, salvo quanto previsto dalla legge, e stabilisce che la pubblicazione del codice disciplinare sul sito istituzionale equivale a tutti gli effetti all'affissione all'ingresso della sede di lavoro.",
+    "evidence": [
+      {
+        "ref": "art. 55, comma 2",
+        "text": "La pubblicazione sul sito istituzionale dell'amministrazione del codice disciplinare, recante l'indicazione delle predette infrazioni e relative sanzioni, equivale a tutti gli effetti alla sua affissione all'ingresso della sede di lavoro."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-018",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55-bis, comma 1, del d.lgs. 165/2001, il procedimento disciplinare per le infrazioni di minore gravità punibili con il rimprovero verbale è di competenza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dell'ufficio per i procedimenti disciplinari",
+        "why_wrong": "L'ufficio per i procedimenti disciplinari è competente per le infrazioni punibili con sanzione superiore al rimprovero verbale (comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "del segretario generale dell'ente",
+        "why_wrong": "Il comma 1 attribuisce la competenza al responsabile della struttura presso cui presta servizio il dipendente."
+      },
+      {
+        "id": "c",
+        "text": "del responsabile della struttura presso cui presta servizio il dipendente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dell'Ispettorato per la funzione pubblica",
+        "why_wrong": "All'Ispettorato sono solo comunicati gli atti di avvio e conclusione del procedimento (comma 4)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1 attribuisce il procedimento per le infrazioni punibili con il rimprovero verbale al responsabile della struttura presso cui presta servizio il dipendente, secondo la disciplina del contratto collettivo; per le sanzioni superiori è competente l'ufficio per i procedimenti disciplinari (comma 2).",
+    "evidence": [
+      {
+        "ref": "art. 55-bis, comma 1",
+        "text": "il procedimento disciplinare è di competenza del responsabile della struttura presso cui presta servizio il dipendente."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-bis, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-019",
+    "subject": "pubblico-impiego",
+    "question": "Il responsabile di un servizio comunale viene a conoscenza di un fatto commesso da un dipendente, punibile con una sanzione superiore al rimprovero verbale. Ai sensi dell'art. 55-bis, comma 4, del d.lgs. 165/2001, egli deve:",
+    "options": [
+      {
+        "id": "a",
+        "text": "contestare personalmente l'addebito entro trenta giorni",
+        "why_wrong": "La contestazione spetta all'ufficio per i procedimenti disciplinari; il responsabile della struttura deve segnalare i fatti."
+      },
+      {
+        "id": "b",
+        "text": "segnalare immediatamente, e comunque entro dieci giorni, i fatti all'ufficio competente per i procedimenti disciplinari",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "segnalare i fatti all'ufficio competente entro sessanta giorni",
+        "why_wrong": "Il comma 4 impone la segnalazione immediata e comunque entro dieci giorni."
+      },
+      {
+        "id": "d",
+        "text": "irrogare direttamente la sanzione, previa audizione del dipendente",
+        "why_wrong": "Per le sanzioni superiori al rimprovero verbale il procedimento è di competenza dell'ufficio per i procedimenti disciplinari."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per le infrazioni punibili con sanzioni superiori al rimprovero verbale, il responsabile della struttura segnala immediatamente, e comunque entro dieci giorni, i fatti all'ufficio per i procedimenti disciplinari, che contesta l'addebito entro trenta giorni dal ricevimento della segnalazione.",
+    "evidence": [
+      {
+        "ref": "art. 55-bis, comma 4",
+        "text": "il responsabile della struttura presso cui presta servizio il dipendente, segnala immediatamente, e comunque entro dieci giorni, all'ufficio competente per i procedimenti disciplinari i fatti ritenuti di rilevanza disciplinare di cui abbia avuto conoscenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-bis, comma 4",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-020",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55-bis, comma 4, del d.lgs. 165/2001, l'ufficio competente per i procedimenti disciplinari conclude il procedimento, con l'atto di archiviazione o di irrogazione della sanzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro trenta giorni dalla contestazione dell'addebito",
+        "why_wrong": "Trenta giorni è il termine per la contestazione dell'addebito dal ricevimento della segnalazione, non per la conclusione."
+      },
+      {
+        "id": "b",
+        "text": "entro novanta giorni dalla segnalazione del responsabile della struttura",
+        "why_wrong": "Il comma 4 fissa centoventi giorni, decorrenti dalla contestazione dell'addebito."
+      },
+      {
+        "id": "c",
+        "text": "entro centottanta giorni dalla commissione del fatto",
+        "why_wrong": "Il comma 4 fissa centoventi giorni dalla contestazione dell'addebito."
+      },
+      {
+        "id": "d",
+        "text": "entro centoventi giorni dalla contestazione dell'addebito",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 4 prevede che l'ufficio contesti l'addebito entro trenta giorni dalla segnalazione o dalla piena conoscenza dei fatti, convochi il dipendente con preavviso di almeno venti giorni e concluda il procedimento entro centoventi giorni dalla contestazione.",
+    "evidence": [
+      {
+        "ref": "art. 55-bis, comma 4",
+        "text": "L'ufficio competente per i procedimenti disciplinari conclude il procedimento, con l'atto di archiviazione o di irrogazione della sanzione, entro centoventi giorni dalla contestazione dell'addebito."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-bis, comma 4",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-021",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55-bis, comma 9, del d.lgs. 165/2001, la cessazione del rapporto di lavoro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "estingue sempre il procedimento disciplinare",
+        "why_wrong": "Il comma 9 prevede eccezioni: infrazioni punite con il licenziamento o casi di sospensione cautelare disposta."
+      },
+      {
+        "id": "b",
+        "text": "non ha alcun effetto sul procedimento disciplinare in corso",
+        "why_wrong": "Il comma 9 stabilisce come regola l'estinzione del procedimento."
+      },
+      {
+        "id": "c",
+        "text": "estingue il procedimento disciplinare, salvo che per l'infrazione sia prevista la sanzione del licenziamento o sia stata disposta la sospensione cautelare dal servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sospende il procedimento disciplinare fino all'eventuale riassunzione del dipendente",
+        "why_wrong": "Il comma 9 prevede l'estinzione, salvo le eccezioni indicate, non la sospensione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 9 stabilisce che la cessazione del rapporto estingue il procedimento, salvo che sia prevista la sanzione del licenziamento o sia stata disposta la sospensione cautelare; in tal caso le determinazioni conclusive sono assunte ai fini degli effetti giuridici ed economici non preclusi dalla cessazione.",
+    "evidence": [
+      {
+        "ref": "art. 55-bis, comma 9",
+        "text": "((La cessazione del rapporto di lavoro estingue il procedimento disciplinare salvo che per l'infrazione commessa sia prevista la sanzione del licenziamento o comunque sia stata disposta la sospensione cautelare dal servizio."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-bis, comma 9",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-022",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55-ter, comma 1, del d.lgs. 165/2001, il procedimento disciplinare che abbia ad oggetto fatti per i quali procede l'autorità giudiziaria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è sempre sospeso fino alla sentenza penale definitiva",
+        "why_wrong": "Il comma 1 stabilisce come regola la prosecuzione; la sospensione è una facoltà limitata a casi particolari."
+      },
+      {
+        "id": "b",
+        "text": "è proseguito e concluso anche in pendenza del procedimento penale, salvo la facoltà di sospenderlo, per le infrazioni più gravi, nei casi di particolare complessità dell'accertamento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "non può essere avviato prima del rinvio a giudizio del dipendente",
+        "why_wrong": "Il comma 1 prevede che il procedimento sia proseguito e concluso anche in pendenza del procedimento penale."
+      },
+      {
+        "id": "d",
+        "text": "si estingue con l'avvio dell'azione penale",
+        "why_wrong": "Il comma 1 non prevede l'estinzione: il procedimento disciplinare prosegue."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1 stabilisce che il procedimento disciplinare è proseguito e concluso anche in pendenza del procedimento penale; per le infrazioni punibili con sanzione superiore alla sospensione fino a dieci giorni, l'ufficio può sospenderlo in casi di particolare complessità e in mancanza di elementi sufficienti.",
+    "evidence": [
+      {
+        "ref": "art. 55-ter, comma 1",
+        "text": "Il procedimento disciplinare, che abbia ad oggetto, in tutto o in parte, fatti in relazione ai quali procede l'autorità giudiziaria, è proseguito e concluso anche in pendenza del procedimento penale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-ter, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-023",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente comunale si è assentato senza valida giustificazione per quattro giorni, non continuativi, nell'arco di un biennio. Ai sensi dell'art. 55-quater, comma 1, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si applica la sanzione del rimprovero scritto",
+        "why_wrong": "Il comma 1, lett. b), prevede il licenziamento per assenze ingiustificate superiori a tre giorni nel biennio."
+      },
+      {
+        "id": "b",
+        "text": "si applica la sospensione dal servizio fino a dieci giorni",
+        "why_wrong": "Il comma 1, lett. b), prevede il licenziamento disciplinare."
+      },
+      {
+        "id": "c",
+        "text": "non si applica alcuna sanzione, perché le assenze non sono continuative",
+        "why_wrong": "La lett. b) considera anche le assenze non continuative."
+      },
+      {
+        "id": "d",
+        "text": "si applica comunque la sanzione disciplinare del licenziamento",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 1, lett. b), prevede il licenziamento per assenza priva di valida giustificazione per un numero di giorni, anche non continuativi, superiore a tre nell'arco di un biennio o per più di sette giorni negli ultimi dieci anni.",
+    "evidence": [
+      {
+        "ref": "art. 55-quater, comma 1",
+        "text": "b) assenza priva di valida giustificazione per un numero di giorni, anche non continuativi, superiore a tre nell'arco di un biennio o comunque per più di sette giorni nel corso degli ultimi dieci anni"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-quater, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-024",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente viene sorpreso in flagranza mentre fa timbrare il proprio badge da un collega. Ai sensi dell'art. 55-quater, comma 3-bis, del d.lgs. 165/2001, la sospensione cautelare senza stipendio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere disposta solo dopo la preventiva audizione dell'interessato",
+        "why_wrong": "Il comma 3-bis prevede la sospensione senza obbligo di preventiva audizione dell'interessato."
+      },
+      {
+        "id": "b",
+        "text": "è disposta in via immediata e comunque entro quarantotto ore dal momento in cui il responsabile della struttura o l'ufficio disciplinare ne sono venuti a conoscenza, senza obbligo di preventiva audizione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è disposta entro trenta giorni dal Sindaco, previa contestazione",
+        "why_wrong": "Il comma 3-bis attribuisce la sospensione al responsabile della struttura o all'ufficio disciplinare, entro quarantotto ore."
+      },
+      {
+        "id": "d",
+        "text": "comporta la perdita anche dell'assegno alimentare",
+        "why_wrong": "Il comma 3-bis fa salvo il diritto all'assegno alimentare."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 3-bis prevede che la falsa attestazione della presenza accertata in flagranza determini l'immediata sospensione cautelare senza stipendio (salvo l'assegno alimentare), senza preventiva audizione, disposta con provvedimento motivato entro quarantotto ore dal responsabile della struttura o dall'ufficio disciplinare.",
+    "evidence": [
+      {
+        "ref": "art. 55-quater, comma 3-bis",
+        "text": "determina l'immediata sospensione cautelare senza stipendio del dipendente, fatto salvo il diritto all'assegno alimentare nella misura stabilita dalle disposizioni normative e contrattuali vigenti, senza obbligo di preventiva audizione dell'interessato."
+      },
+      {
+        "ref": "art. 55-quater, comma 3-bis",
+        "text": "con provvedimento motivato, in via immediata e comunque entro quarantotto ore dal momento in cui i suddetti soggetti ne sono venuti a conoscenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-quater, comma 3-bis",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-rap-025",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 55-sexies, comma 1, del d.lgs. 165/2001, la violazione di obblighi concernenti la prestazione lavorativa che abbia determinato la condanna dell'amministrazione al risarcimento del danno comporta per il dipendente responsabile, salvo che ricorrano i presupposti di una sanzione più grave:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il licenziamento senza preavviso",
+        "why_wrong": "Il comma 1 prevede la sospensione da tre giorni a tre mesi, salvo i presupposti per una sanzione più grave."
+      },
+      {
+        "id": "b",
+        "text": "la sola responsabilità erariale, senza conseguenze disciplinari",
+        "why_wrong": "Il comma 1 prevede comunque una sanzione disciplinare."
+      },
+      {
+        "id": "c",
+        "text": "la sospensione dal servizio con privazione della retribuzione da un minimo di tre giorni fino a un massimo di tre mesi, in proporzione all'entità del risarcimento",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il collocamento in disponibilità",
+        "why_wrong": "Il collocamento in disponibilità è previsto dal comma 2 per il grave danno al funzionamento dell'ufficio dovuto a inefficienza o incompetenza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1 prevede la sospensione dal servizio con privazione della retribuzione da tre giorni a tre mesi, in proporzione all'entità del risarcimento, salvo i presupposti per una sanzione più grave; il comma 2 disciplina invece il collocamento in disponibilità per grave danno al funzionamento dell'ufficio.",
+    "evidence": [
+      {
+        "ref": "art. 55-sexies, comma 1",
+        "text": "comporta comunque, nei confronti del dipendente responsabile, l'applicazione della sospensione dal servizio con privazione della retribuzione da un minimo di tre giorni fino ad un massimo di tre mesi, in proporzione all'entità del risarcimento"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 55-sexies, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

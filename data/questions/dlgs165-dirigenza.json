@@ -1,0 +1,670 @@
+[
+  {
+    "id": "pi-dir-001",
+    "subject": "pubblico-impiego",
+    "question": "Un dirigente ministeriale non adotta un provvedimento di sua competenza. Ai sensi dell'art. 14, comma 3, del d.lgs. 165/2001, il Ministro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può avocare a sé il provvedimento e adottarlo direttamente",
+        "why_wrong": "Il comma 3 vieta al Ministro di revocare, riformare, riservare o avocare a sé gli atti di competenza dei dirigenti."
+      },
+      {
+        "id": "b",
+        "text": "può fissare un termine perentorio entro il quale il dirigente deve adottare l'atto e, se l'inerzia permane, nominare un commissario ad acta",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "può revocare immediatamente l'incarico dirigenziale senza contestazione",
+        "why_wrong": "Il comma 3 prevede il termine perentorio e il commissario ad acta; la revoca dell'incarico segue le regole dell'art. 21, previa contestazione."
+      },
+      {
+        "id": "d",
+        "text": "deve limitarsi a segnalare l'inerzia al Presidente del Consiglio dei ministri",
+        "why_wrong": "Il comma 3 attribuisce al Ministro il potere di fissare un termine perentorio e di nominare un commissario ad acta; al Presidente del Consiglio va data solo comunicazione del provvedimento."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il Ministro non può revocare, riformare, riservare o avocare a sé gli atti dei dirigenti; in caso di inerzia o ritardo può fissare un termine perentorio e, se l'inerzia permane, nominare un commissario ad acta, dandone comunicazione al Presidente del Consiglio dei ministri.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 3",
+        "text": "Il Ministro non può revocare, riformare, riservare o avocare a sé o altrimenti adottare provvedimenti o atti di competenza dei dirigenti. In caso di inerzia o ritardo il Ministro può fissare un termine perentorio entro il quale il dirigente deve adottare gli atti o i provvedimenti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 14, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-002",
+    "subject": "pubblico-impiego",
+    "question": "Un'impresa intende proporre ricorso gerarchico contro un provvedimento non definitivo adottato da un dirigente di livello non generale di un Ministero. Ai sensi dell'art. 16 del d.lgs. 165/2001, sul ricorso decide:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dirigente dell'ufficio dirigenziale generale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il Ministro, in quanto organo di indirizzo politico-amministrativo",
+        "why_wrong": "L'art. 16, comma 1, lett. i), attribuisce la decisione sui ricorsi gerarchici contro gli atti dei dirigenti ai dirigenti degli uffici dirigenziali generali."
+      },
+      {
+        "id": "c",
+        "text": "nessuno, perché gli atti dei dirigenti non sono mai suscettibili di ricorso gerarchico",
+        "why_wrong": "Il comma 4 esclude il ricorso gerarchico solo per gli atti dei dirigenti di vertice e dei dirigenti di uffici dirigenziali generali."
+      },
+      {
+        "id": "d",
+        "text": "il Comitato dei garanti",
+        "why_wrong": "Il Comitato dei garanti è sentito sui provvedimenti di responsabilità dirigenziale (art. 22), non decide ricorsi gerarchici."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Secondo l'art. 16, comma 1, lett. i), i dirigenti di uffici dirigenziali generali decidono sui ricorsi gerarchici contro gli atti e i provvedimenti amministrativi non definitivi dei dirigenti; sono invece esclusi dal ricorso gerarchico gli atti degli stessi dirigenti generali (comma 4).",
+    "evidence": [
+      {
+        "ref": "art. 16, comma 1",
+        "text": "i) decidono sui ricorsi gerarchici contro gli atti e i provvedimenti amministrativi non definitivi dei dirigenti;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 16, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-003",
+    "subject": "pubblico-impiego",
+    "question": "Un dirigente intende delegare a un funzionario del proprio ufficio alcune competenze di gestione del personale. Ai sensi dell'art. 17, comma 1-bis, del d.lgs. 165/2001, la delega:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere conferita a tempo indeterminato e anche in forma orale",
+        "why_wrong": "Il comma 1-bis richiede un periodo di tempo determinato e un atto scritto e motivato."
+      },
+      {
+        "id": "b",
+        "text": "comporta l'applicazione dell'art. 2103 del codice civile e il diritto alle mansioni superiori",
+        "why_wrong": "Il comma 1-bis esclude in ogni caso l'applicazione dell'art. 2103 del codice civile."
+      },
+      {
+        "id": "c",
+        "text": "può essere conferita a qualsiasi dipendente dell'ufficio, indipendentemente dalla posizione",
+        "why_wrong": "Il comma 1-bis limita la delega ai dipendenti che ricoprono le posizioni funzionali più elevate."
+      },
+      {
+        "id": "d",
+        "text": "richiede specifiche e comprovate ragioni di servizio, è conferita per un periodo determinato con atto scritto e motivato e non comporta l'applicazione dell'art. 2103 del codice civile",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 1-bis consente la delega, per specifiche e comprovate ragioni di servizio e per un periodo determinato, con atto scritto e motivato, di alcune competenze delle lettere b), d) ed e) ai dipendenti con le posizioni funzionali più elevate; non si applica l'art. 2103 c.c.",
+    "evidence": [
+      {
+        "ref": "art. 17, comma 1-bis",
+        "text": "I dirigenti, per specifiche e comprovate ragioni di servizio, possono delegare per un periodo di tempo determinato, con atto scritto e motivato, alcune delle competenze comprese nelle funzioni di cui alle lettere b), d) ed e) del comma 1 a dipendenti che ricoprano le posizioni funzionali più elevate nell'ambito degli uffici ad essi affidati. Non si applica in ogni caso l'articolo 2103 del codice civile"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 17, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-004",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 17, comma 1, lettera e-bis), del d.lgs. 165/2001, la valutazione del personale assegnato ai propri uffici, ai fini della progressione economica e tra le aree e della corresponsione di indennità e premi incentivanti, è effettuata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dall'organo di governo dell'amministrazione",
+        "why_wrong": "La lettera e-bis) attribuisce la valutazione ai dirigenti, nel rispetto del principio del merito."
+      },
+      {
+        "id": "b",
+        "text": "dal Comitato dei garanti",
+        "why_wrong": "Il Comitato dei garanti è sentito sui provvedimenti dell'art. 21, non valuta il personale."
+      },
+      {
+        "id": "c",
+        "text": "dai dirigenti, nel rispetto del principio del merito",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dal Dipartimento della funzione pubblica",
+        "why_wrong": "La lettera e-bis) affida la valutazione ai dirigenti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 17, comma 1, lett. e-bis), stabilisce che i dirigenti effettuano la valutazione del personale assegnato ai propri uffici, nel rispetto del principio del merito, ai fini della progressione economica e tra le aree e della corresponsione di indennità e premi incentivanti.",
+    "evidence": [
+      {
+        "ref": "art. 17, comma 1",
+        "text": "e-bis) effettuano la valutazione del personale assegnato ai propri uffici, nel rispetto del principio del merito, ai fini della progressione economica e tra le aree, nonché della corresponsione di indennità e premi incentivanti."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 17, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-005",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 19, comma 1, del d.lgs. 165/2001, al conferimento degli incarichi dirigenziali e al passaggio ad incarichi diversi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si applica l'art. 2103 del codice civile, a tutela della professionalità acquisita",
+        "why_wrong": "Il comma 1 esclude espressamente l'applicazione dell'art. 2103 c.c."
+      },
+      {
+        "id": "b",
+        "text": "non si applica l'art. 2103 del codice civile",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "si applica l'art. 2103 del codice civile solo per i dirigenti di prima fascia",
+        "why_wrong": "Il comma 1 esclude l'art. 2103 c.c. senza distinguere tra fasce."
+      },
+      {
+        "id": "d",
+        "text": "si applica l'art. 2103 del codice civile se il nuovo incarico ha minore rilievo economico",
+        "why_wrong": "Il comma 1 esclude l'art. 2103 c.c. senza eccezioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 19, comma 1, dopo aver indicato i criteri di conferimento (attitudini, capacità, risultati, competenze, esperienze), stabilisce che al conferimento degli incarichi e al passaggio ad incarichi diversi non si applica l'art. 2103 del codice civile.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 1",
+        "text": "Al conferimento degli incarichi e al passaggio ad incarichi diversi non si applica l'articolo 2103 del codice civile"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 19, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-006",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 19, comma 2, del d.lgs. 165/2001, la durata degli incarichi di funzione dirigenziale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è sempre pari a cinque anni e gli incarichi non sono rinnovabili",
+        "why_wrong": "Il comma 2 prevede una durata tra tre e cinque anni e stabilisce che gli incarichi sono rinnovabili."
+      },
+      {
+        "id": "b",
+        "text": "non può essere inferiore a due anni né superiore a sette anni",
+        "why_wrong": "Il comma 2 fissa i limiti in tre e cinque anni."
+      },
+      {
+        "id": "c",
+        "text": "non può essere inferiore a tre anni né eccedere il termine di cinque anni, salvo che la minore durata coincida con il raggiungimento del limite di età per il collocamento a riposo",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è liberamente determinata dall'organo di vertice, purché non superi la durata del mandato del Governo",
+        "why_wrong": "Il comma 2 lega la durata agli obiettivi, entro il minimo di tre e il massimo di cinque anni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 prevede che la durata sia correlata agli obiettivi e che non possa essere inferiore a tre anni né eccedere cinque anni; può essere inferiore a tre anni se coincide con il limite di età per il collocamento a riposo. Gli incarichi sono rinnovabili.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 2",
+        "text": "che deve essere correlata agli obiettivi prefissati e che, comunque, non può essere inferiore a tre anni né eccedere il termine di cinque anni. La durata dell'incarico può essere inferiore a tre anni se coincide con il conseguimento del limite di età per il collocamento a riposo dell'interessato. Gli incarichi sono rinnovabili."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 19, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-007",
+    "subject": "pubblico-impiego",
+    "question": "Un Comune conferisce un incarico dirigenziale a termine ai sensi dell'art. 110 del TUEL. Secondo l'art. 19, comma 2, del d.lgs. 165/2001, la durata dell'incarico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve essere comunque di almeno tre anni",
+        "why_wrong": "Il comma 2 prevede per gli enti locali che la durata non superi quella del mandato del sindaco in carica."
+      },
+      {
+        "id": "b",
+        "text": "non può superare un anno, rinnovabile",
+        "why_wrong": "Il comma 2 non fissa un limite annuale, ma lo collega al mandato del sindaco."
+      },
+      {
+        "id": "c",
+        "text": "coincide sempre con cinque anni dalla data del conferimento",
+        "why_wrong": "Il comma 2 fissa come limite massimo la durata del mandato del sindaco in carica alla data del conferimento."
+      },
+      {
+        "id": "d",
+        "text": "non può essere superiore a quella del mandato del sindaco in carica alla data del conferimento",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Per gli enti locali, l'art. 19, comma 2, dispone che gli incarichi dirigenziali a termine dell'art. 110 del TUEL abbiano comunque una durata non superiore a quella del mandato del sindaco in carica alla data del conferimento.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 2",
+        "text": "((Per gli enti locali, gli incarichi dirigenziali a termine di cui all'articolo 110 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267"
+      },
+      {
+        "ref": "art. 19, comma 2",
+        "text": "hanno comunque una durata non superiore a quella del mandato del sindaco in carica alla data del conferimento))"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 19, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-008",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 19, comma 6, del d.lgs. 165/2001, un dipendente di una pubblica amministrazione al quale sia conferito un incarico dirigenziale a tempo determinato in base a tale comma, per la durata dell'incarico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è collocato in aspettativa senza assegni, con riconoscimento dell'anzianità di servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "conserva il posto e la retribuzione presso l'amministrazione di appartenenza",
+        "why_wrong": "Il comma 6 prevede il collocamento in aspettativa senza assegni."
+      },
+      {
+        "id": "c",
+        "text": "è collocato in aspettativa senza assegni, senza riconoscimento dell'anzianità di servizio",
+        "why_wrong": "Il comma 6 riconosce l'anzianità di servizio."
+      },
+      {
+        "id": "d",
+        "text": "cessa dal rapporto di lavoro con l'amministrazione di appartenenza",
+        "why_wrong": "Il comma 6 prevede l'aspettativa, non la cessazione del rapporto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 6 stabilisce che, per il periodo di durata dell'incarico, i dipendenti delle pubbliche amministrazioni sono collocati in aspettativa senza assegni, con riconoscimento dell'anzianità di servizio.",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 6",
+        "text": "Per il periodo di durata dell'incarico, i dipendenti delle pubbliche amministrazioni sono collocati in aspettativa senza assegni, con riconoscimento dell'anzianità di servizio."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 19, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-009",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 19, comma 1-ter, del d.lgs. 165/2001, gli incarichi dirigenziali possono essere revocati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in qualsiasi momento, per scelta fiduciaria dell'organo di governo",
+        "why_wrong": "Il comma 1-ter ammette la revoca esclusivamente nei casi e con le modalità dell'art. 21, comma 1, secondo periodo."
+      },
+      {
+        "id": "b",
+        "text": "esclusivamente nei casi e con le modalità di cui all'art. 21, comma 1, secondo periodo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo con il consenso del dirigente interessato",
+        "why_wrong": "Il comma 1-ter rinvia all'art. 21, comma 1; il consenso riguarda la risoluzione consensuale del rapporto prevista dal comma 2."
+      },
+      {
+        "id": "d",
+        "text": "automaticamente in caso di cambio dell'organo di vertice",
+        "why_wrong": "Il comma 1-ter limita la revoca ai casi dell'art. 21, comma 1, secondo periodo."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1-ter stabilisce che gli incarichi dirigenziali possono essere revocati esclusivamente nei casi e con le modalità dell'art. 21, comma 1, secondo periodo (casi di particolare gravità, previa contestazione e nel rispetto del contraddittorio).",
+    "evidence": [
+      {
+        "ref": "art. 19, comma 1-ter",
+        "text": "Gli incarichi dirigenziali possono essere revocati esclusivamente nei casi e con le modalità di cui all'articolo 21, comma 1, secondo periodo."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 19, comma 1-ter",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-010",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 21, comma 1, del d.lgs. 165/2001, il mancato raggiungimento degli obiettivi accertato attraverso il sistema di valutazione, imputabile al dirigente, comporta, previa contestazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il licenziamento automatico del dirigente",
+        "why_wrong": "Il comma 1 prevede l'impossibilità di rinnovo; il recesso è solo una possibilità nei casi più gravi, secondo il contratto collettivo."
+      },
+      {
+        "id": "b",
+        "text": "la sola decurtazione della retribuzione di risultato fino all'ottanta per cento",
+        "why_wrong": "La decurtazione fino all'80% è prevista dal comma 1-bis per la violazione del dovere di vigilanza."
+      },
+      {
+        "id": "c",
+        "text": "l'impossibilità di rinnovo dello stesso incarico dirigenziale, ferma restando l'eventuale responsabilità disciplinare",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "la sospensione dal servizio con privazione della retribuzione",
+        "why_wrong": "Il comma 1 non prevede la sospensione dal servizio, ma l'impossibilità di rinnovo dell'incarico."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1 prevede che il mancato raggiungimento degli obiettivi o l'inosservanza delle direttive imputabili al dirigente comportino, previa contestazione, l'impossibilità di rinnovo dello stesso incarico; nei casi più gravi l'amministrazione può revocare l'incarico o recedere dal rapporto.",
+    "evidence": [
+      {
+        "ref": "art. 21, comma 1",
+        "text": "l'inosservanza delle direttive imputabili al dirigente comportano, previa contestazione e ferma restando l'eventuale responsabilità disciplinare secondo la disciplina contenuta nel contratto collettivo, l'impossibilità di rinnovo dello stesso incarico dirigenziale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 21, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-011",
+    "subject": "pubblico-impiego",
+    "question": "A un dirigente viene accertata, previa contestazione e nel contraddittorio, la colpevole violazione del dovere di vigilanza sul rispetto, da parte del personale assegnato, degli standard quantitativi e qualitativi fissati dall'amministrazione. Ai sensi dell'art. 21, comma 1-bis, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'incarico è revocato di diritto",
+        "why_wrong": "Il comma 1-bis prevede la decurtazione della retribuzione di risultato, non la revoca di diritto."
+      },
+      {
+        "id": "b",
+        "text": "la retribuzione di posizione è decurtata fino al cinquanta per cento",
+        "why_wrong": "Il comma 1-bis riguarda la retribuzione di risultato e fissa il limite all'ottanta per cento."
+      },
+      {
+        "id": "c",
+        "text": "il dirigente è collocato a disposizione dei ruoli senza ulteriori conseguenze economiche",
+        "why_wrong": "Il collocamento a disposizione dei ruoli è previsto dal comma 1 per la revoca nei casi gravi; il comma 1-bis prevede la decurtazione della retribuzione di risultato."
+      },
+      {
+        "id": "d",
+        "text": "la retribuzione di risultato è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, di una quota fino all'ottanta per cento",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 1-bis prevede che, in caso di colpevole violazione del dovere di vigilanza, la retribuzione di risultato sia decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione, fino all'ottanta per cento.",
+    "evidence": [
+      {
+        "ref": "art. 21, comma 1-bis",
+        "text": "la retribuzione di risultato è decurtata, sentito il Comitato dei garanti, in relazione alla gravità della violazione di una quota fino all'ottanta per cento."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 21, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-012",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 22 del d.lgs. 165/2001, il parere del Comitato dei garanti sui provvedimenti di responsabilità dirigenziale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è vincolante e deve essere reso entro trenta giorni",
+        "why_wrong": "Il comma 3 fissa il termine di quarantacinque giorni e consente di prescindere dal parere se il termine decorre inutilmente."
+      },
+      {
+        "id": "b",
+        "text": "è reso entro quarantacinque giorni dalla richiesta; decorso inutilmente tale termine si prescinde dal parere",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è reso entro sessanta giorni; in mancanza, il provvedimento non può essere adottato",
+        "why_wrong": "Il comma 3 fissa quarantacinque giorni e prevede che, decorso il termine, si prescinda dal parere."
+      },
+      {
+        "id": "d",
+        "text": "è facoltativo e può essere richiesto solo dal dirigente interessato",
+        "why_wrong": "Il comma 1 prevede che i provvedimenti dell'art. 21, commi 1 e 1-bis, siano adottati sentito il Comitato."
+      }
+    ],
+    "correct": "b",
+    "explanation": "I provvedimenti dell'art. 21, commi 1 e 1-bis, sono adottati sentito il Comitato dei garanti, che rende il parere entro quarantacinque giorni dalla richiesta; decorso inutilmente il termine si prescinde dal parere.",
+    "evidence": [
+      {
+        "ref": "art. 22, comma 3",
+        "text": "Il parere del Comitato dei garanti viene reso entro il termine di quarantacinque giorni dalla richiesta; decorso inutilmente tale termine si prescinde dal parere."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 22, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-013",
+    "subject": "pubblico-impiego",
+    "question": "Un dirigente viene designato dalla propria amministrazione quale componente del consiglio di amministrazione di un ente terzo, che prevede un compenso. Ai sensi dell'art. 24, comma 3, del d.lgs. 165/2001, il compenso dovuto dal terzo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "spetta personalmente al dirigente, in aggiunta alla retribuzione",
+        "why_wrong": "Il comma 3 prevede che il trattamento economico del dirigente remuneri anche gli incarichi conferiti su designazione dell'amministrazione."
+      },
+      {
+        "id": "b",
+        "text": "spetta al dirigente nel limite del trenta per cento, e il resto all'amministrazione",
+        "why_wrong": "Il comma 3 non prevede ripartizioni: i compensi sono corrisposti direttamente all'amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "è corrisposto direttamente all'amministrazione e confluisce nelle risorse destinate al trattamento economico accessorio della dirigenza",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è versato all'entrata del bilancio dello Stato",
+        "why_wrong": "Il comma 3 stabilisce che i compensi confluiscano nelle risorse destinate al trattamento accessorio della dirigenza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "In base al principio di onnicomprensività (art. 24, comma 3), il trattamento economico remunera anche gli incarichi conferiti al dirigente dall'amministrazione o su sua designazione; i compensi dovuti dai terzi sono corrisposti all'amministrazione e confluiscono nelle risorse per il trattamento accessorio della dirigenza.",
+    "evidence": [
+      {
+        "ref": "art. 24, comma 3",
+        "text": "nonché qualsiasi incarico ad essi conferito in ragione del loro ufficio o comunque conferito dall'amministrazione presso cui prestano servizio o su designazione della stessa; i compensi dovuti dai terzi sono corrisposti direttamente alla medesima amministrazione e confluiscono nelle risorse destinate al trattamento economico accessorio della dirigenza."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 24, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-014",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 24, comma 1-bis, del d.lgs. 165/2001, il trattamento accessorio del dirigente collegato ai risultati deve costituire:",
+    "options": [
+      {
+        "id": "a",
+        "text": "almeno il 10 per cento della retribuzione complessiva",
+        "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
+      },
+      {
+        "id": "b",
+        "text": "non più del 30 per cento della retribuzione complessiva",
+        "why_wrong": "Il 30 per cento è una soglia minima, non massima."
+      },
+      {
+        "id": "c",
+        "text": "almeno il 50 per cento della retribuzione complessiva",
+        "why_wrong": "Il comma 1-bis fissa la soglia minima al 30 per cento."
+      },
+      {
+        "id": "d",
+        "text": "almeno il 30 per cento della retribuzione complessiva, al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti al regime dell'onnicomprensività",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 1-bis stabilisce che il trattamento accessorio collegato ai risultati costituisca almeno il 30 per cento della retribuzione complessiva del dirigente, considerata al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti a onnicomprensività.",
+    "evidence": [
+      {
+        "ref": "art. 24, comma 1-bis",
+        "text": "Il trattamento accessorio collegato ai risultati deve costituire almeno il 30 per cento della retribuzione complessiva del dirigente considerata al netto della retribuzione individuale di anzianità e degli incarichi aggiuntivi soggetti al regime dell'onnicomprensività."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 24, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-dir-015",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 28 del d.lgs. 165/2001, nelle procedure di sviluppo di carriera per l'accesso alla dirigenza di seconda fascia, delle quali possono avvalersi anche le regioni e gli enti locali, gli incarichi dirigenziali temporanei conferiti all'esito della prima fase selettiva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hanno durata di cinque anni e non sono rinnovabili",
+        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta."
+      },
+      {
+        "id": "b",
+        "text": "hanno durata non superiore a un anno, rinnovabile senza limiti",
+        "why_wrong": "Il comma 1-septies prevede una durata non superiore a tre anni, rinnovabile una sola volta."
+      },
+      {
+        "id": "c",
+        "text": "non possono avere durata superiore a tre anni e sono rinnovabili una sola volta, previa valutazione favorevole della commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "determinano l'immediato inserimento nei ruoli della dirigenza di seconda fascia",
+        "why_wrong": "Secondo il comma 1-octies l'inserimento nei ruoli consegue all'esito favorevole della valutazione dell'incarico temporaneo esercitato per almeno quattro anni."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1-septies stabilisce che gli incarichi temporanei non possono durare più di tre anni e sono rinnovabili una sola volta, previa valutazione favorevole della commissione; l'inserimento nei ruoli consegue alla valutazione positiva dopo almeno quattro anni di incarico (comma 1-octies). Il comma 1-novies consente a regioni ed enti locali di avvalersi di queste procedure.",
+    "evidence": [
+      {
+        "ref": "art. 28, comma 1-septies",
+        "text": "Gli incarichi conferiti ai sensi del comma 1-quinquies non possono avere durata superiore a tre anni e sono rinnovabili una sola volta, previa la necessaria valutazione favorevole della commissione di cui al comma 1-sexies sull'attività svolta nell'espletamento dell'incarico."
+      },
+      {
+        "ref": "art. 28, comma 1-novies",
+        "text": "Le regioni e gli enti locali possono avvalersi delle procedure di cui ai commi da 1-ter a 1-octies"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 28, comma 1-septies",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
