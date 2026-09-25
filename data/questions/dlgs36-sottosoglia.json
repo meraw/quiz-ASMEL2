@@ -129,7 +129,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -394,7 +394,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -531,7 +531,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 6: source.article indica \"art. 52, comma 1\", ma la regola su cui si fonda la risposta corretta (risoluzione del contratto e sospensione da uno a dodici mesi) è nel comma 2: \"Quando in conseguenza della verifica non sia confermato il possesso dei requisiti generali o speciali dichiarati, la stazione appaltante procede alla risoluzione del contratto, [...] e alla sospensione dell'operatore economico [...] per un periodo da uno a dodici mesi\". Anche spiegazione e why_wrong citano il comma 2. Il comma 1 serve solo a inquadrare il caso (dichiarazione sostitutiva sotto i 40.000 euro). Correzione proposta: source.article = \"art. 52, commi 1 e 2\" (o \"art. 52, comma 2\"). Opzioni, why_wrong ed evidence sono per il resto corretti.",
     "rev": 2,
     "no_shuffle": false
   },
@@ -576,7 +577,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
