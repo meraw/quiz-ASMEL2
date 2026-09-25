@@ -1,0 +1,275 @@
+[
+  {
+    "id": "mg-mod-001",
+    "subject": "management-pubblico",
+    "question": "Il modello burocratico di amministrazione, nella sua formulazione classica, si fonda principalmente su:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Regole impersonali, gerarchia e competenze predefinite dalle norme",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Orientamento ai risultati e adozione di tecniche manageriali tratte dalle imprese",
+        "why_wrong": "Sono tratti del New Public Management, nato come reazione ai limiti del modello burocratico."
+      },
+      {
+        "id": "c",
+        "text": "Coordinamento di reti di attori pubblici e privati",
+        "why_wrong": "È il tratto caratteristico della public governance."
+      },
+      {
+        "id": "d",
+        "text": "Concorrenza tra erogatori pubblici e privati dei servizi",
+        "why_wrong": "L'introduzione di meccanismi di mercato è tipica del New Public Management."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il modello burocratico garantisce legalità e imparzialità attraverso regole generali e impersonali, una struttura gerarchica e competenze fissate dalle norme; il suo limite è l'attenzione alla conformità formale più che ai risultati.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modello burocratico",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-002",
+    "subject": "management-pubblico",
+    "question": "Quale dei seguenti elementi è caratteristico del New Public Management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il controllo di legittimità sui singoli atti come principale strumento di governo dell'amministrazione",
+        "why_wrong": "L'enfasi sulla conformità formale degli atti è propria del modello burocratico."
+      },
+      {
+        "id": "b",
+        "text": "La co-progettazione delle politiche con una rete di soggetti pubblici e privati",
+        "why_wrong": "È il tratto tipico della public governance."
+      },
+      {
+        "id": "c",
+        "text": "La rigida uniformità delle procedure a prescindere dai risultati ottenuti",
+        "why_wrong": "È un limite attribuito al modello burocratico."
+      },
+      {
+        "id": "d",
+        "text": "L'introduzione nella PA di strumenti manageriali di origine aziendale e l'orientamento ai risultati",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il New Public Management propone di applicare alla PA logiche e tecniche di gestione mutuate dal settore privato: orientamento ai risultati, responsabilizzazione dei dirigenti, misurazione delle prestazioni, decentramento e ricorso a meccanismi di mercato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "New Public Management",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-003",
+    "subject": "management-pubblico",
+    "question": "Un Comune elabora il piano della mobilità cittadina coinvolgendo in tavoli di co-progettazione associazioni, aziende di trasporto, scuole e cittadini, e assume il ruolo di regia della rete. L'approccio è coerente soprattutto con il modello:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Burocratico",
+        "why_wrong": "Il modello burocratico si basa sull'azione unilaterale dell'amministrazione secondo regole e gerarchia."
+      },
+      {
+        "id": "b",
+        "text": "Della public governance",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Del New Public Management, nella sua versione orientata alla concorrenza",
+        "why_wrong": "Il New Public Management punta sulla competizione e sulle tecniche aziendali, non sulla cooperazione in rete."
+      },
+      {
+        "id": "d",
+        "text": "Dell'amministrazione per atti",
+        "why_wrong": "L'amministrazione per atti è la logica formale del modello burocratico."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Nella public governance l'amministrazione non agisce da sola ma coordina una rete di attori pubblici e privati, costruendo le politiche con la loro partecipazione, in vista della creazione di valore pubblico per la collettività.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Public governance e valore pubblico",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-004",
+    "subject": "management-pubblico",
+    "question": "Nel linguaggio del management pubblico, l'efficienza esprime:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il grado di raggiungimento degli obiettivi prefissati",
+        "why_wrong": "È la definizione di efficacia."
+      },
+      {
+        "id": "b",
+        "text": "L'acquisizione delle risorse al minor costo a parità di qualità",
+        "why_wrong": "Riguarda l'economicità, intesa come economia nell'acquisizione dei fattori."
+      },
+      {
+        "id": "c",
+        "text": "Il rapporto tra i risultati prodotti e le risorse impiegate per ottenerli",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La conformità dell'azione amministrativa alle norme",
+        "why_wrong": "È la legittimità, non una misura di prestazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'efficienza misura il rapporto tra output e input: è più efficiente chi ottiene più risultati a parità di risorse, o gli stessi risultati con meno risorse. L'efficacia riguarda invece il raggiungimento degli obiettivi, l'economicità il costo dei fattori impiegati.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Efficacia, efficienza, economicità",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-005",
+    "subject": "management-pubblico",
+    "question": "Due uffici anagrafe rilasciano nello stesso anno lo stesso numero di carte d'identità, ma il primo impiega la metà del personale del secondo. Sulla base di questi soli dati, il primo ufficio è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Più efficace",
+        "why_wrong": "L'efficacia riguarda il raggiungimento degli obiettivi, non il rapporto tra risultati e risorse."
+      },
+      {
+        "id": "b",
+        "text": "Equivalente al secondo, perché l'output è identico",
+        "why_wrong": "A parità di output il primo usa meno risorse, quindi il rapporto output/input è diverso."
+      },
+      {
+        "id": "c",
+        "text": "Più efficiente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Portatore di un outcome maggiore",
+        "why_wrong": "L'outcome è l'impatto sulla collettività, che i dati forniti non misurano."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Ottenere lo stesso output con la metà delle risorse significa avere un migliore rapporto tra risultati e risorse impiegate, cioè una maggiore efficienza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Efficacia, efficienza, economicità",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-006",
+    "subject": "management-pubblico",
+    "question": "Un Comune organizza corsi di alfabetizzazione digitale per anziani. Quale dei seguenti dati misura un outcome dell'iniziativa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il numero di corsi svolti nell'anno",
+        "why_wrong": "È un output: misura ciò che l'amministrazione ha prodotto."
+      },
+      {
+        "id": "b",
+        "text": "L'aumento della quota di anziani che usano autonomamente i servizi comunali online",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Le ore di docenza erogate",
+        "why_wrong": "È una misura della quantità di attività svolta, cioè un output."
+      },
+      {
+        "id": "d",
+        "text": "La spesa sostenuta per i docenti",
+        "why_wrong": "È un input: misura le risorse impiegate."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'output è il prodotto diretto dell'attività (corsi, ore); l'outcome è l'effetto che quell'attività genera sui destinatari e sulla collettività, come la maggiore autonomia degli anziani nell'uso dei servizi digitali.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Output e outcome",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-mod-007",
+    "subject": "management-pubblico",
+    "question": "Nel management pubblico il termine accountability indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La capacità dell'ente di raggiungere gli obiettivi programmati",
+        "why_wrong": "È la definizione di efficacia."
+      },
+      {
+        "id": "b",
+        "text": "Il sistema di contabilità finanziaria dell'ente",
+        "why_wrong": "L'accountability non coincide con la tenuta della contabilità."
+      },
+      {
+        "id": "c",
+        "text": "Il rapporto tra risultati ottenuti e risorse impiegate",
+        "why_wrong": "È la definizione di efficienza."
+      },
+      {
+        "id": "d",
+        "text": "Il dovere di rendere conto ai portatori di interesse dell'uso delle risorse e dei risultati conseguiti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Accountability significa responsabilità di rendere conto: l'amministrazione deve spiegare e giustificare ai cittadini e agli altri portatori di interesse come ha impiegato le risorse e quali risultati ha ottenuto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Accountability",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

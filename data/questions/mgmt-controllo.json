@@ -1,0 +1,275 @@
+[
+  {
+    "id": "mg-ctr-001",
+    "subject": "management-pubblico",
+    "question": "La direzione per obiettivi (management by objectives) si basa sul principio che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gli obiettivi sono definiti e concordati tra responsabile e collaboratori, e i risultati vengono poi confrontati con essi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il lavoro è valutato soprattutto verificando il rispetto formale delle procedure",
+        "why_wrong": "È la logica di controllo tipica del modello burocratico, non della direzione per obiettivi."
+      },
+      {
+        "id": "c",
+        "text": "Gli obiettivi sono fissati dal vertice senza alcuna verifica successiva dei risultati",
+        "why_wrong": "La direzione per obiettivi richiede la misurazione dei risultati rispetto agli obiettivi."
+      },
+      {
+        "id": "d",
+        "text": "La valutazione dei collaboratori dipende principalmente dall'anzianità di servizio",
+        "why_wrong": "La direzione per obiettivi valuta il grado di raggiungimento degli obiettivi, non l'anzianità."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La direzione per obiettivi prevede che gli obiettivi siano definiti in anticipo, possibilmente condivisi con chi deve realizzarli, e che la valutazione avvenga confrontando i risultati ottenuti con quelli attesi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Direzione per obiettivi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-002",
+    "subject": "management-pubblico",
+    "question": "Quale dei seguenti obiettivi di un ufficio comunale è formulato secondo i criteri SMART?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Migliorare la qualità dei servizi offerti ai cittadini",
+        "why_wrong": "Non è specifico né misurabile e non ha una scadenza."
+      },
+      {
+        "id": "b",
+        "text": "Ridurre i tempi di rilascio dei permessi di occupazione di suolo pubblico",
+        "why_wrong": "Manca un valore obiettivo misurabile e una scadenza."
+      },
+      {
+        "id": "c",
+        "text": "Ridurre da 30 a 20 giorni, entro il 31 dicembre, il tempo medio di rilascio dei permessi di occupazione di suolo pubblico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Evadere entro domani tutte le pratiche arretrate degli ultimi dieci anni",
+        "why_wrong": "Non è raggiungibile con le risorse e nei tempi indicati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Un obiettivo SMART è specifico, misurabile, raggiungibile, rilevante e definito nel tempo: l'opzione corretta indica il fenomeno, il valore di partenza e quello da raggiungere, e la scadenza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Obiettivi SMART",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-003",
+    "subject": "management-pubblico",
+    "question": "Nell'acronimo SMART, riferito alla formulazione degli obiettivi, la lettera T indica che l'obiettivo deve essere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Trasparente",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+      },
+      {
+        "id": "b",
+        "text": "Definito nel tempo, cioè con una scadenza",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Trasversale a più uffici",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+      },
+      {
+        "id": "d",
+        "text": "Tecnicamente fondato",
+        "why_wrong": "Non è uno dei criteri SMART: la T sta per time-bound."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La T di SMART sta per time-bound: l'obiettivo deve avere una scadenza entro la quale verificarne il raggiungimento. Le altre lettere indicano che deve essere specifico (S) e misurabile (M), oltre che raggiungibile e rilevante.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Obiettivi SMART",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-004",
+    "subject": "management-pubblico",
+    "question": "Il servizio di asilo nido di un Comune calcola il costo medio annuo per bambino iscritto. Si tratta di un indicatore di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Output",
+        "why_wrong": "L'indicatore di output misura la quantità prodotta, ad esempio il numero di bambini accolti."
+      },
+      {
+        "id": "b",
+        "text": "Outcome",
+        "why_wrong": "L'indicatore di outcome misura l'impatto sui destinatari o sulla collettività."
+      },
+      {
+        "id": "c",
+        "text": "Qualità",
+        "why_wrong": "L'indicatore di qualità misura caratteristiche del servizio come tempestività o soddisfazione degli utenti."
+      },
+      {
+        "id": "d",
+        "text": "Efficienza",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il costo per unità di servizio mette in rapporto le risorse impiegate (costi) con l'output (bambini serviti): è quindi un indicatore di efficienza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori di performance",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-005",
+    "subject": "management-pubblico",
+    "question": "Un Comune confronta in modo sistematico i propri tempi e costi di riscossione dei tributi con quelli di altri Comuni di dimensioni simili, per individuare e adottare le pratiche migliori. Sta svolgendo un'attività di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Controllo di regolarità amministrativa",
+        "why_wrong": "Il controllo di regolarità verifica la legittimità degli atti, non il confronto delle prestazioni con altri enti."
+      },
+      {
+        "id": "b",
+        "text": "Benchmarking",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Indagine di customer satisfaction",
+        "why_wrong": "La customer satisfaction rileva l'opinione degli utenti sul servizio."
+      },
+      {
+        "id": "d",
+        "text": "Controllo strategico",
+        "why_wrong": "Il controllo strategico verifica l'attuazione delle scelte strategiche dell'ente, non il confronto con altre organizzazioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il benchmarking è il confronto sistematico delle proprie prestazioni e dei propri processi con quelli di altre organizzazioni, in particolare le migliori, per individuare margini di miglioramento.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Benchmarking",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-006",
+    "subject": "management-pubblico",
+    "question": "Rispetto al controllo di gestione, il controllo strategico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verifica nel breve periodo il rapporto tra costi e risultati delle singole attività",
+        "why_wrong": "È l'oggetto tipico del controllo di gestione."
+      },
+      {
+        "id": "b",
+        "text": "Verifica la legittimità formale dei singoli atti",
+        "why_wrong": "È l'oggetto del controllo di regolarità amministrativa."
+      },
+      {
+        "id": "c",
+        "text": "Verifica l'adeguatezza delle scelte di indirizzo e la coerenza tra risultati e obiettivi strategici di medio-lungo periodo",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Valuta le prestazioni individuali dei singoli dipendenti",
+        "why_wrong": "È l'oggetto della valutazione del personale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il controllo strategico riguarda le scelte di fondo e gli obiettivi di medio-lungo periodo definiti dal vertice politico; il controllo di gestione opera a livello operativo e verifica efficienza, efficacia ed economicità della gestione per consentire interventi correttivi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Controllo strategico e controllo di gestione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mg-ctr-007",
+    "subject": "management-pubblico",
+    "question": "Nel management pubblico, lo stakeholder engagement consiste nel:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pubblicare a fine anno una sintesi dei risultati raggiunti",
+        "why_wrong": "È una forma di sola informazione unidirezionale, senza coinvolgimento."
+      },
+      {
+        "id": "b",
+        "text": "Coinvolgere in modo strutturato i portatori di interesse nelle fasi di programmazione, attuazione e valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Selezionare i fornitori dell'ente tramite procedure competitive",
+        "why_wrong": "Riguarda gli acquisti, non il coinvolgimento dei portatori di interesse."
+      },
+      {
+        "id": "d",
+        "text": "Confrontare le prestazioni dell'ente con quelle di altre amministrazioni",
+        "why_wrong": "È il benchmarking."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Lo stakeholder engagement è il coinvolgimento attivo e organizzato dei portatori di interesse (cittadini, associazioni, imprese, altri enti) nelle decisioni e nella valutazione dei risultati, andando oltre la semplice informazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Stakeholder engagement",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
