@@ -1,0 +1,392 @@
+[
+  {
+    "id": "mkt-ind-001",
+    "subject": "marketing-territoriale",
+    "question": "Secondo la definizione dell'Organizzazione mondiale del turismo (UN Tourism, già UNWTO), il turismo sostenibile:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tiene pienamente conto dei suoi impatti economici, sociali e ambientali, attuali e futuri, rispondendo alle esigenze dei visitatori, del settore, dell'ambiente e delle comunità ospitanti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Si svolge esclusivamente in aree naturali protette",
+        "why_wrong": "Riguarda ogni forma di turismo, non solo quello nelle aree naturali."
+      },
+      {
+        "id": "c",
+        "text": "Coincide con la riduzione del numero dei turisti",
+        "why_wrong": "La sostenibilità riguarda la gestione degli impatti, non la sola riduzione dei flussi."
+      },
+      {
+        "id": "d",
+        "text": "Considera soltanto gli impatti ambientali",
+        "why_wrong": "La definizione comprende anche gli impatti economici e sociali."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il turismo sostenibile considera insieme le tre dimensioni (economica, sociale, ambientale), nel presente e nel futuro, e gli interessi di visitatori, imprese, ambiente e comunità ospitanti. Non è un tipo di turismo, ma un modo di gestirlo.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Turismo sostenibile",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-002",
+    "subject": "marketing-territoriale",
+    "question": "Con il termine overtourism si indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La crescita del turismo nelle aree interne poco conosciute",
+        "why_wrong": "La crescita in aree poco frequentate non comporta di per sé sovraffollamento."
+      },
+      {
+        "id": "b",
+        "text": "Un afflusso turistico eccessivo, che peggiora la qualità della vita dei residenti e/o la qualità dell'esperienza dei visitatori",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il turismo di lusso ad alta capacità di spesa",
+        "why_wrong": "L'overtourism riguarda la quantità e la concentrazione dei flussi, non la loro capacità di spesa."
+      },
+      {
+        "id": "d",
+        "text": "La permanenza dei turisti oltre la durata prenotata",
+        "why_wrong": "Non riguarda la durata del soggiorno del singolo turista."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Si parla di overtourism quando i flussi turistici superano ciò che la destinazione può sostenere, con effetti negativi percepiti dai residenti, dai visitatori o da entrambi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Overtourism",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-003",
+    "subject": "marketing-territoriale",
+    "question": "Una località montana registra il 70% delle presenze annue nei soli mesi di luglio, agosto e dicembre. Quale azione è coerente con l'obiettivo di ridurre la stagionalità?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aumentare i prezzi nei mesi di bassa stagione",
+        "why_wrong": "Prezzi più alti in bassa stagione scoraggerebbero ancora di più i visitatori in quei mesi."
+      },
+      {
+        "id": "b",
+        "text": "Concentrare la promozione sui mesi di luglio e agosto",
+        "why_wrong": "Rafforzerebbe la concentrazione dei flussi nei mesi già più frequentati."
+      },
+      {
+        "id": "c",
+        "text": "Creare prodotti ed eventi adatti alla primavera e all'autunno, come escursionismo e percorsi enogastronomici",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Chiudere gli uffici turistici nei mesi di bassa affluenza",
+        "why_wrong": "Ridurrebbe i servizi proprio nei periodi in cui si vogliono attirare visitatori."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La destagionalizzazione punta a distribuire i flussi nell'arco dell'anno, creando motivi di visita nei periodi di bassa affluenza con prodotti, eventi e promozione mirati.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Stagionalità",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-004",
+    "subject": "marketing-territoriale",
+    "question": "Nelle statistiche ISTAT sul movimento dei clienti negli esercizi ricettivi, gli arrivi sono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il numero delle notti trascorse dai clienti negli esercizi ricettivi",
+        "why_wrong": "Sono le presenze."
+      },
+      {
+        "id": "b",
+        "text": "Il numero di posti letto disponibili nel periodo",
+        "why_wrong": "È un dato di capacità ricettiva, non di movimento dei clienti."
+      },
+      {
+        "id": "c",
+        "text": "Il numero di clienti, italiani e stranieri, ospitati negli esercizi ricettivi nel periodo considerato",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il numero di persone che entrano nel territorio comunale, anche senza pernottare",
+        "why_wrong": "Le statistiche sul movimento negli esercizi ricettivi non rilevano i visitatori che non vi alloggiano."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Gli arrivi contano i clienti che prendono alloggio negli esercizi ricettivi nel periodo considerato: si registrano all'ingresso nella struttura, indipendentemente dalla durata del soggiorno.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: arrivi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-005",
+    "subject": "marketing-territoriale",
+    "question": "Nelle statistiche ISTAT sul turismo, le presenze indicano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il numero di clienti ospitati negli esercizi ricettivi",
+        "why_wrong": "Sono gli arrivi."
+      },
+      {
+        "id": "b",
+        "text": "Il numero di notti trascorse dai clienti negli esercizi ricettivi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il numero di camere occupate in un giorno",
+        "why_wrong": "È un dato utile per il tasso di occupazione delle camere."
+      },
+      {
+        "id": "d",
+        "text": "Il numero di visitatori presenti in un museo o in un evento",
+        "why_wrong": "Le presenze turistiche si riferiscono agli esercizi ricettivi, non agli ingressi a musei o eventi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le presenze sono il numero di notti trascorse dai clienti negli esercizi ricettivi: un cliente che resta 4 notti genera 1 arrivo e 4 presenze.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: presenze",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-006",
+    "subject": "marketing-territoriale",
+    "question": "In un Comune, in un anno, gli esercizi ricettivi registrano 2.000 arrivi e 7.000 presenze. La permanenza media è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "3,5 notti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "0,29 notti",
+        "why_wrong": "È il rapporto inverso (arrivi/presenze); la permanenza media è presenze/arrivi."
+      },
+      {
+        "id": "c",
+        "text": "5.000 notti",
+        "why_wrong": "È la differenza tra presenze e arrivi, che non ha significato come indicatore."
+      },
+      {
+        "id": "d",
+        "text": "9.000 notti",
+        "why_wrong": "È la somma di arrivi e presenze, che non ha significato come indicatore."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La permanenza media è il rapporto tra presenze e arrivi: 7.000 / 2.000 = 3,5 notti per cliente.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: permanenza media",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-007",
+    "subject": "marketing-territoriale",
+    "question": "Un turista trascorre 3 notti in un albergo e poi, nello stesso Comune, 2 notti in un bed and breakfast. Nelle statistiche ISTAT sul movimento negli esercizi ricettivi genera:",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 arrivo e 5 presenze",
+        "why_wrong": "L'arrivo è registrato da ciascuna struttura in cui il cliente prende alloggio: le strutture sono due."
+      },
+      {
+        "id": "b",
+        "text": "2 arrivi e 2 presenze",
+        "why_wrong": "Le presenze sono le notti trascorse: 3 + 2 = 5."
+      },
+      {
+        "id": "c",
+        "text": "1 arrivo e 2 presenze",
+        "why_wrong": "Gli arrivi sono 2 (uno per struttura) e le presenze 5 (le notti totali)."
+      },
+      {
+        "id": "d",
+        "text": "2 arrivi e 5 presenze",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Gli arrivi sono rilevati in ogni esercizio ricettivo: il cliente che cambia struttura viene contato di nuovo come arrivo. Le presenze sono le notti complessive, 3 + 2 = 5.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: arrivi e presenze",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-008",
+    "subject": "marketing-territoriale",
+    "question": "Un albergo con 50 posti letto, aperto per tutti i 30 giorni di un mese, registra nel mese 900 presenze. Il tasso di utilizzazione lorda dei posti letto è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "30%",
+        "why_wrong": "Si otterrebbe con 450 presenze."
+      },
+      {
+        "id": "b",
+        "text": "18%",
+        "why_wrong": "È il rapporto tra presenze e (posti letto × 100), che non è la formula del tasso."
+      },
+      {
+        "id": "c",
+        "text": "60%",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "90%",
+        "why_wrong": "Si otterrebbe con 1.350 presenze."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il tasso di utilizzazione lorda è il rapporto tra le presenze e il numero di posti letto moltiplicato per le giornate del periodo: 900 / (50 × 30) × 100 = 900 / 1.500 × 100 = 60%.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: tasso di utilizzazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-009",
+    "subject": "marketing-territoriale",
+    "question": "Qual è la differenza tra il tasso di utilizzazione lorda e il tasso di utilizzazione netta dei posti letto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il tasso lordo comprende anche i clienti che non pernottano",
+        "why_wrong": "Entrambi i tassi si calcolano sulle presenze, cioè sulle notti."
+      },
+      {
+        "id": "b",
+        "text": "Il tasso netto si calcola sulle giornate di effettiva disponibilità dei posti letto, mentre quello lordo sull'intero periodo di riferimento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il tasso netto si calcola sugli arrivi invece che sulle presenze",
+        "why_wrong": "Anche il tasso netto usa le presenze; cambia il denominatore."
+      },
+      {
+        "id": "d",
+        "text": "Il tasso lordo riguarda solo gli esercizi alberghieri, quello netto solo gli extralberghieri",
+        "why_wrong": "La distinzione non dipende dal tipo di esercizio."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Entrambi i tassi rapportano le presenze ai posti letto moltiplicati per le giornate: il tasso lordo considera tutte le giornate del periodo, quello netto solo le giornate in cui i posti letto sono effettivamente disponibili (ad esempio escludendo i periodi di chiusura).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: tasso di utilizzazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-ind-010",
+    "subject": "marketing-territoriale",
+    "question": "Il tasso di occupazione delle camere di un esercizio alberghiero è dato dal rapporto tra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Presenze e arrivi",
+        "why_wrong": "Questo rapporto dà la permanenza media."
+      },
+      {
+        "id": "b",
+        "text": "Arrivi e popolazione residente",
+        "why_wrong": "Non è un indicatore di occupazione delle strutture."
+      },
+      {
+        "id": "c",
+        "text": "Posti letto e camere disponibili",
+        "why_wrong": "È un dato sulla dimensione delle camere, non sul loro utilizzo."
+      },
+      {
+        "id": "d",
+        "text": "Camere occupate e camere disponibili nel periodo",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il tasso di occupazione delle camere misura quante delle camere disponibili sono state effettivamente occupate (camere-giorno occupate / camere-giorno disponibili); si esprime di norma in percentuale.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Indicatori statistici: tasso di occupazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

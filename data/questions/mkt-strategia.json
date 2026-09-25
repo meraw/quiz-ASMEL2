@@ -1,0 +1,392 @@
+[
+  {
+    "id": "mkt-str-001",
+    "subject": "marketing-territoriale",
+    "question": "Nell'analisi SWOT di una destinazione, i punti di forza e di debolezza riguardano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "I fattori esterni, che la destinazione non può controllare",
+        "why_wrong": "I fattori esterni sono le opportunità e le minacce."
+      },
+      {
+        "id": "b",
+        "text": "I fattori interni alla destinazione, su cui essa può intervenire",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Esclusivamente le risorse finanziarie dell'ente locale",
+        "why_wrong": "I fattori interni comprendono tutte le risorse e caratteristiche della destinazione, non solo quelle finanziarie."
+      },
+      {
+        "id": "d",
+        "text": "Le tendenze future della domanda turistica",
+        "why_wrong": "Le tendenze della domanda sono fattori esterni: opportunità o minacce."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La SWOT distingue fattori interni (Strengths, Weaknesses: punti di forza e di debolezza) e fattori esterni (Opportunities, Threats: opportunità e minacce).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Analisi SWOT",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-002",
+    "subject": "marketing-territoriale",
+    "question": "Una compagnia aerea attiva nuovi voli low cost verso un aeroporto vicino a una località turistica. Nell'analisi SWOT della località, questo fatto è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un punto di forza",
+        "why_wrong": "I punti di forza sono fattori interni; i nuovi voli dipendono da una scelta esterna alla destinazione."
+      },
+      {
+        "id": "b",
+        "text": "Un punto di debolezza",
+        "why_wrong": "È un fattore esterno e, per la località, favorevole."
+      },
+      {
+        "id": "c",
+        "text": "Un'opportunità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Una minaccia",
+        "why_wrong": "Le minacce sono fattori esterni sfavorevoli; un migliore collegamento aereo è favorevole."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La decisione della compagnia aerea è esterna alla destinazione, che non la controlla, e può favorirla portando nuovi visitatori: è un'opportunità.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Analisi SWOT",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-003",
+    "subject": "marketing-territoriale",
+    "question": "Un borgo storico di pregio dispone di pochi posti letto e di una segnaletica turistica carente. Nella sua analisi SWOT, questi due elementi sono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Punti di debolezza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Minacce",
+        "why_wrong": "Le minacce sono fattori esterni; posti letto e segnaletica sono caratteristiche interne della destinazione."
+      },
+      {
+        "id": "c",
+        "text": "Opportunità",
+        "why_wrong": "Le opportunità sono fattori esterni favorevoli."
+      },
+      {
+        "id": "d",
+        "text": "Punti di forza",
+        "why_wrong": "Sono caratteristiche interne sfavorevoli, non favorevoli."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Scarsità di posti letto e segnaletica carente sono caratteristiche interne alla destinazione, su cui essa può intervenire, e la penalizzano: sono punti di debolezza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Analisi SWOT",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-004",
+    "subject": "marketing-territoriale",
+    "question": "La segmentazione del mercato consiste:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella scelta dei gruppi di clienti a cui rivolgere l'offerta",
+        "why_wrong": "Questa è la fase successiva, il targeting."
+      },
+      {
+        "id": "b",
+        "text": "Nella definizione dell'immagine che la destinazione vuole occupare nella mente dei clienti",
+        "why_wrong": "Questo è il posizionamento."
+      },
+      {
+        "id": "c",
+        "text": "Nella suddivisione del territorio in zone turistiche omogenee",
+        "why_wrong": "La segmentazione riguarda la domanda (i clienti), non il territorio."
+      },
+      {
+        "id": "d",
+        "text": "Nella suddivisione della domanda in gruppi di clienti omogenei al loro interno per bisogni o comportamenti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Segmentare significa dividere il mercato in gruppi di clienti simili al loro interno e diversi tra loro, per poter scegliere a quali rivolgersi (targeting) e come posizionarsi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Segmentazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-005",
+    "subject": "marketing-territoriale",
+    "question": "Un ufficio turistico classifica i propri visitatori in base al Paese di provenienza. Quale criterio di segmentazione sta utilizzando?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Demografico",
+        "why_wrong": "I criteri demografici riguardano età, sesso, composizione del nucleo familiare e simili."
+      },
+      {
+        "id": "b",
+        "text": "Geografico",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Psicografico",
+        "why_wrong": "I criteri psicografici riguardano stili di vita, valori e personalità."
+      },
+      {
+        "id": "d",
+        "text": "Comportamentale",
+        "why_wrong": "I criteri comportamentali riguardano l'uso del prodotto, ad esempio la frequenza dei viaggi o la fedeltà."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La provenienza dei visitatori (Paese, regione, città) è un criterio di segmentazione geografico.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Segmentazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-006",
+    "subject": "marketing-territoriale",
+    "question": "Dopo aver individuato i segmenti del mercato, una destinazione sceglie di rivolgersi alle famiglie con bambini e agli escursionisti. Questa fase è detta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Posizionamento",
+        "why_wrong": "Il posizionamento riguarda l'immagine da occupare nella mente del target, dopo averlo scelto."
+      },
+      {
+        "id": "b",
+        "text": "Segmentazione",
+        "why_wrong": "La segmentazione è la fase precedente, in cui i gruppi vengono individuati."
+      },
+      {
+        "id": "c",
+        "text": "Targeting",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Benchmarking",
+        "why_wrong": "Il benchmarking è il confronto con i concorrenti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il processo segue la sequenza segmentazione, targeting, posizionamento: il targeting è la scelta dei segmenti a cui rivolgere l'offerta.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Targeting",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-007",
+    "subject": "marketing-territoriale",
+    "question": "Il posizionamento di una destinazione turistica indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il posto che la destinazione occupa nella mente dei clienti obiettivo rispetto alle destinazioni concorrenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La sua collocazione geografica rispetto alle principali vie di comunicazione",
+        "why_wrong": "La collocazione geografica riguarda l'accessibilità, non il posizionamento di marketing."
+      },
+      {
+        "id": "c",
+        "text": "La posizione della destinazione nei risultati dei motori di ricerca",
+        "why_wrong": "Il posizionamento nei motori di ricerca è un aspetto tecnico della visibilità online."
+      },
+      {
+        "id": "d",
+        "text": "Il livello dei prezzi rispetto alla media nazionale",
+        "why_wrong": "Il prezzo può contribuire al posizionamento, ma non lo esaurisce."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Posizionarsi significa fare in modo che i clienti obiettivo associno alla destinazione caratteristiche distintive rispetto a quelle concorrenti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Posizionamento",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-008",
+    "subject": "marketing-territoriale",
+    "question": "Nel marketing mix delle 4P, la leva che riguarda i canali attraverso cui il prodotto raggiunge il cliente è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Product",
+        "why_wrong": "Product riguarda le caratteristiche dell'offerta."
+      },
+      {
+        "id": "b",
+        "text": "Price",
+        "why_wrong": "Price riguarda il prezzo e le condizioni di vendita."
+      },
+      {
+        "id": "c",
+        "text": "Promotion",
+        "why_wrong": "Promotion riguarda la comunicazione verso il mercato."
+      },
+      {
+        "id": "d",
+        "text": "Place",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Le 4P sono Product (prodotto), Price (prezzo), Place (distribuzione) e Promotion (comunicazione). Place riguarda i canali di distribuzione e vendita.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Marketing mix",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-009",
+    "subject": "marketing-territoriale",
+    "question": "Nel marketing dei servizi, il marketing mix è esteso a 7P. Le tre leve aggiunte alle 4P tradizionali sono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Packaging, Partnership, Programming",
+        "why_wrong": "Non sono le leve aggiunte nel modello delle 7P."
+      },
+      {
+        "id": "b",
+        "text": "People, Process, Physical evidence",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Pubblicità, Pubbliche relazioni, Promozione delle vendite",
+        "why_wrong": "Sono strumenti di comunicazione, quindi rientrano nella leva Promotion."
+      },
+      {
+        "id": "d",
+        "text": "Prezzo, Posizionamento, Pianificazione",
+        "why_wrong": "Il prezzo è già una delle 4P; posizionamento e pianificazione non sono leve del mix."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le 7P aggiungono alle 4P People (persone che erogano il servizio), Process (processi di erogazione) e Physical evidence (elementi tangibili, come ambienti e materiali), importanti perché i servizi sono intangibili.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Marketing mix",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-str-010",
+    "subject": "marketing-territoriale",
+    "question": "Un Comune confronta i servizi, i prezzi e i risultati della propria offerta turistica con quelli di destinazioni simili e di successo, per individuare le pratiche migliori da adottare. Sta svolgendo un'attività di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Segmentazione",
+        "why_wrong": "La segmentazione divide la domanda in gruppi di clienti."
+      },
+      {
+        "id": "b",
+        "text": "Destagionalizzazione",
+        "why_wrong": "La destagionalizzazione mira a distribuire i flussi turistici nell'arco dell'anno."
+      },
+      {
+        "id": "c",
+        "text": "Benchmarking",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Place branding",
+        "why_wrong": "Il place branding riguarda l'identità e l'immagine del proprio luogo, non il confronto con i concorrenti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il benchmarking è il confronto sistematico con destinazioni concorrenti o di riferimento, per valutare la propria posizione e individuare le pratiche migliori.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Analisi competitiva",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

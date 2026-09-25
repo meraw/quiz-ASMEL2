@@ -1,0 +1,392 @@
+[
+  {
+    "id": "mkt-pro-001",
+    "subject": "marketing-territoriale",
+    "question": "Il prodotto turistico di una destinazione è di norma:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un bene materiale, prodotto e venduto da un'unica impresa",
+        "why_wrong": "Il prodotto turistico è formato soprattutto da servizi, offerti da soggetti diversi."
+      },
+      {
+        "id": "b",
+        "text": "Un prodotto composito, formato da attrattive, servizi, accessibilità e ospitalità offerti da soggetti diversi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Il solo pernottamento presso una struttura ricettiva",
+        "why_wrong": "L'alloggio è solo una delle componenti del prodotto turistico."
+      },
+      {
+        "id": "d",
+        "text": "L'insieme dei beni culturali di proprietà pubblica",
+        "why_wrong": "I beni culturali sono una delle attrattive, non l'intero prodotto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il turista acquista e vive un insieme di elementi (attrattive, trasporti, alloggio, ristorazione, servizi, accoglienza): per questo il prodotto turistico di una destinazione è composito.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Prodotto turistico",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-002",
+    "subject": "marketing-territoriale",
+    "question": "Una camera d'albergo rimasta libera questa notte non potrà essere venduta in un secondo momento. Quale caratteristica dei servizi turistici esprime questo fatto?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Intangibilità",
+        "why_wrong": "L'intangibilità indica che il servizio non può essere visto o toccato prima dell'acquisto."
+      },
+      {
+        "id": "b",
+        "text": "Eterogeneità",
+        "why_wrong": "L'eterogeneità indica che la qualità del servizio può variare da un'erogazione all'altra."
+      },
+      {
+        "id": "c",
+        "text": "Deperibilità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Inseparabilità",
+        "why_wrong": "L'inseparabilità indica che produzione e consumo del servizio avvengono contemporaneamente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "I servizi non si possono immagazzinare: la capacità non venduta in un dato giorno è persa. È la deperibilità, che rende importante la gestione della domanda e dei prezzi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Caratteristiche dei servizi turistici",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-003",
+    "subject": "marketing-territoriale",
+    "question": "Un Comune costiero, molto frequentato solo in estate, organizza un festival gastronomico nel mese di novembre. Il principale obiettivo di marketing dell'iniziativa è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Contrastare la stagionalità, attirando visitatori in un periodo di bassa affluenza",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Aumentare la capacità ricettiva della località",
+        "why_wrong": "Un evento non aumenta i posti letto disponibili: ne favorisce l'utilizzo."
+      },
+      {
+        "id": "c",
+        "text": "Ridurre le presenze turistiche nel periodo estivo",
+        "why_wrong": "L'evento si svolge a novembre e non è pensato per ridurre i flussi estivi."
+      },
+      {
+        "id": "d",
+        "text": "Sostituire la promozione del turismo balneare",
+        "why_wrong": "L'evento integra l'offerta estiva, non la sostituisce."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Gli eventi programmati in bassa stagione sono uno strumento tipico di destagionalizzazione: creano un motivo di visita nei periodi di scarsa affluenza e rafforzano l'immagine della destinazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Eventi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-004",
+    "subject": "marketing-territoriale",
+    "question": "Nel marketing di una destinazione, un grande evento periodico può contribuire soprattutto a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rendere superflua la promozione della destinazione durante il resto dell'anno",
+        "why_wrong": "L'evento è uno strumento tra gli altri e non sostituisce la promozione continuativa."
+      },
+      {
+        "id": "b",
+        "text": "Garantire da solo la sostenibilità ambientale della destinazione",
+        "why_wrong": "Un evento, al contrario, può generare concentrazioni di visitatori da gestire."
+      },
+      {
+        "id": "c",
+        "text": "Eliminare la necessità di collaborazione con gli operatori privati",
+        "why_wrong": "La riuscita di un evento richiede di norma la collaborazione con gli operatori."
+      },
+      {
+        "id": "d",
+        "text": "Rafforzare la notorietà e l'immagine della destinazione e generare flussi di visitatori",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Gli eventi attirano visitatori, ottengono visibilità sui media e associano alla destinazione un'immagine precisa; per questo sono uno strumento di marketing territoriale.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Eventi",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-005",
+    "subject": "marketing-territoriale",
+    "question": "La sigla IAT, riferita agli uffici turistici, significa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Istituto per l'Accoglienza Turistica",
+        "why_wrong": "La sigla non indica un istituto."
+      },
+      {
+        "id": "b",
+        "text": "Informazione e Accoglienza Turistica",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Imposta di Accesso al Territorio",
+        "why_wrong": "Non si tratta di un tributo."
+      },
+      {
+        "id": "d",
+        "text": "Itinerari e Attrazioni del Territorio",
+        "why_wrong": "Non è lo scioglimento della sigla."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Gli uffici IAT (Informazione e Accoglienza Turistica) forniscono al visitatore sul posto informazioni sulla destinazione, sulle attrattive, sugli eventi e sui servizi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Uffici di informazione turistica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-006",
+    "subject": "marketing-territoriale",
+    "question": "Il portale web ufficiale di una destinazione turistica ha principalmente la funzione di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sostituire le strutture ricettive nella vendita delle camere",
+        "why_wrong": "Il portale può rimandare alla prenotazione, ma non sostituisce le imprese nella vendita."
+      },
+      {
+        "id": "b",
+        "text": "Pubblicare gli atti amministrativi dell'ente",
+        "why_wrong": "La pubblicazione degli atti avviene nell'albo pretorio online e nella sezione Amministrazione trasparente."
+      },
+      {
+        "id": "c",
+        "text": "Essere il punto di riferimento online per informare e ispirare il visitatore e presentare l'offerta complessiva del territorio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Raccogliere le recensioni dei turisti in sostituzione delle piattaforme specializzate",
+        "why_wrong": "Le recensioni sono raccolte soprattutto dalle piattaforme dedicate; non è la funzione principale del portale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il portale di destinazione presenta in modo unitario e affidabile l'offerta del territorio (attrattive, eventi, servizi, itinerari), ispira il viaggio e collega il visitatore agli operatori.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Portali di destinazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-007",
+    "subject": "marketing-territoriale",
+    "question": "Le online travel agency (OTA) sono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Intermediari che vendono online servizi turistici forniti da altri, come camere d'albergo, di norma in cambio di una commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Siti web delle singole strutture ricettive che vendono direttamente le proprie camere",
+        "why_wrong": "La vendita dal sito della struttura è vendita diretta, senza intermediari."
+      },
+      {
+        "id": "c",
+        "text": "Enti pubblici che coordinano la promozione di una destinazione",
+        "why_wrong": "Questa è la funzione delle DMO."
+      },
+      {
+        "id": "d",
+        "text": "Siti che pubblicano esclusivamente recensioni senza possibilità di prenotare",
+        "why_wrong": "Le OTA sono canali di vendita, anche se spesso ospitano recensioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le OTA sono intermediari del canale distributivo online: vendono servizi di fornitori terzi (alloggi, voli, pacchetti) e sono remunerate tipicamente con una commissione sulle prenotazioni.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Online travel agency",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-008",
+    "subject": "marketing-territoriale",
+    "question": "Un albergo offre condizioni più vantaggiose a chi prenota dal proprio sito web anziché tramite le online travel agency. Il principale obiettivo di questa scelta è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aumentare le commissioni pagate agli intermediari",
+        "why_wrong": "È il contrario: la vendita diretta evita le commissioni."
+      },
+      {
+        "id": "b",
+        "text": "Aumentare le prenotazioni dirette, riducendo i costi di intermediazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Uscire dal mercato turistico online",
+        "why_wrong": "Il sito dell'albergo è anch'esso un canale online."
+      },
+      {
+        "id": "d",
+        "text": "Migliorare la propria posizione nelle classifiche delle OTA",
+        "why_wrong": "Spostare le vendite sul sito proprio non mira al posizionamento sulle OTA."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Le prenotazioni tramite OTA comportano il pagamento di una commissione; incentivare la vendita diretta riduce questo costo e consente un rapporto diretto con il cliente.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Online travel agency",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-009",
+    "subject": "marketing-territoriale",
+    "question": "La reputazione online di una destinazione o di una struttura turistica dipende:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Soltanto dai contenuti pubblicati sul sito ufficiale",
+        "why_wrong": "I contenuti ufficiali sono solo una parte; pesano molto quelli generati dagli utenti."
+      },
+      {
+        "id": "b",
+        "text": "Soltanto dal numero di follower sui social network",
+        "why_wrong": "Il numero di follower non misura il giudizio espresso su di essa."
+      },
+      {
+        "id": "c",
+        "text": "Esclusivamente dalle campagne pubblicitarie a pagamento",
+        "why_wrong": "La pubblicità è controllata dall'impresa; la reputazione dipende soprattutto da ciò che dicono gli altri."
+      },
+      {
+        "id": "d",
+        "text": "Dall'insieme dei contenuti presenti in rete che la riguardano, in particolare recensioni e commenti degli utenti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La reputazione online è la percezione che emerge da ciò che si trova in rete: recensioni, commenti, contenuti generati dagli utenti e articoli, oltre ai contenuti ufficiali.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reputazione online",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-pro-010",
+    "subject": "marketing-territoriale",
+    "question": "Un agriturismo riceve su una piattaforma di recensioni un giudizio negativo, ma circostanziato, sulla pulizia delle camere. Il comportamento più corretto per tutelare la reputazione online è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignorare la recensione, per non darle ulteriore visibilità",
+        "why_wrong": "Il silenzio lascia la critica senza risposta davanti agli altri utenti."
+      },
+      {
+        "id": "b",
+        "text": "Rispondere pubblicamente con tono cortese, riconoscere il problema e indicare le misure adottate",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Rispondere contestando duramente l'autore della recensione",
+        "why_wrong": "Una risposta aggressiva peggiora l'immagine della struttura agli occhi di chi legge."
+      },
+      {
+        "id": "d",
+        "text": "Pubblicare recensioni positive scritte dal personale per bilanciare il giudizio",
+        "why_wrong": "Le recensioni false sono scorrette e, se scoperte, danneggiano ancora di più la reputazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Una risposta pubblica, tempestiva e cortese, che riconosce il problema e spiega come è stato affrontato, mostra attenzione al cliente anche ai futuri lettori della recensione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Reputazione online",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

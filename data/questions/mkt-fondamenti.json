@@ -1,0 +1,392 @@
+[
+  {
+    "id": "mkt-fon-001",
+    "subject": "marketing-territoriale",
+    "question": "Rispetto al destination marketing, il marketing territoriale ha un ambito:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Più ampio, perché si rivolge non solo ai turisti ma anche a imprese, investitori e nuovi residenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Più ristretto, perché riguarda esclusivamente la promozione turistica di una località",
+        "why_wrong": "È il destination marketing a concentrarsi sul territorio come destinazione turistica."
+      },
+      {
+        "id": "c",
+        "text": "Identico, perché le due espressioni sono sinonimi",
+        "why_wrong": "Il destination marketing è la parte del marketing territoriale rivolta ai flussi turistici."
+      },
+      {
+        "id": "d",
+        "text": "Limitato alla vendita dei prodotti tipici del territorio",
+        "why_wrong": "La promozione dei prodotti tipici è solo uno degli strumenti possibili, non l'ambito del marketing territoriale."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il marketing territoriale mira a rendere un territorio attrattivo per diversi pubblici (imprese, investitori, residenti, studenti, turisti); il destination marketing ne è la componente dedicata al territorio come destinazione turistica.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Marketing territoriale e destination marketing",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-002",
+    "subject": "marketing-territoriale",
+    "question": "Un Comune avvia un piano per attrarre nuove imprese artigiane e giovani famiglie, offrendo aree attrezzate e servizi. Si tratta di un'azione di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Destination marketing",
+        "why_wrong": "Il destination marketing si rivolge ai turisti, non a imprese e nuovi residenti."
+      },
+      {
+        "id": "b",
+        "text": "Marketing territoriale",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Revenue management",
+        "why_wrong": "Il revenue management riguarda la gestione dei prezzi e delle disponibilità, ad esempio di una struttura ricettiva."
+      },
+      {
+        "id": "d",
+        "text": "Marketing turistico di una singola impresa ricettiva",
+        "why_wrong": "L'azione è promossa dall'ente pubblico per l'intero territorio, non da una singola impresa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Attrarre imprese e residenti rientra nel marketing territoriale in senso ampio, che promuove il territorio verso pubblici diversi dai soli turisti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Marketing territoriale e destination marketing",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-003",
+    "subject": "marketing-territoriale",
+    "question": "Il place branding consiste:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nella registrazione del nome di una località come marchio commerciale",
+        "why_wrong": "La registrazione di un marchio è un atto giuridico, non coincide con il processo di costruzione dell'identità di un luogo."
+      },
+      {
+        "id": "b",
+        "text": "Nella sola ideazione del logo e dello slogan di una località",
+        "why_wrong": "Logo e slogan sono elementi visivi del brand, ma il place branding non si esaurisce in essi."
+      },
+      {
+        "id": "c",
+        "text": "Nella costruzione e gestione dell'identità e dell'immagine di un luogo, affinché sia percepito in modo distintivo e coerente dai suoi pubblici",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Nella vendita online dei servizi turistici della località",
+        "why_wrong": "La vendita online riguarda la distribuzione, non l'identità del luogo."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il place branding lavora sull'identità e sulla reputazione di un luogo: definisce valori e tratti distintivi e cura che l'immagine percepita sia coerente con essi. Logo e slogan ne sono solo la parte visibile.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Place branding",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-004",
+    "subject": "marketing-territoriale",
+    "question": "Qual è la relazione tra destination management e destination marketing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il destination marketing comprende il destination management come sua fase operativa",
+        "why_wrong": "È il contrario: il marketing è una delle funzioni del management."
+      },
+      {
+        "id": "b",
+        "text": "Sono attività alternative: una destinazione sceglie di praticare l'una o l'altra",
+        "why_wrong": "Non sono alternative: il marketing è parte della gestione complessiva della destinazione."
+      },
+      {
+        "id": "c",
+        "text": "Il destination management riguarda solo le strutture ricettive private",
+        "why_wrong": "Il destination management riguarda l'intera destinazione e il coordinamento di tutti i suoi attori."
+      },
+      {
+        "id": "d",
+        "text": "Il destination management è la gestione coordinata di tutti gli elementi della destinazione, di cui il destination marketing è una componente",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il destination management coordina tutti gli elementi di una destinazione (attrattive, servizi, accessibilità, qualità, attori pubblici e privati); la promozione e la commercializzazione, cioè il destination marketing, ne sono una parte.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Destination management",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-005",
+    "subject": "marketing-territoriale",
+    "question": "Una DMO (Destination Management Organization) è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un'organizzazione che coordina la gestione e la promozione di una destinazione, mettendo in rete gli attori pubblici e privati del territorio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un'agenzia di viaggi online che vende pacchetti relativi a una destinazione",
+        "why_wrong": "Le agenzie di viaggi online sono intermediari commerciali, non organismi di gestione della destinazione."
+      },
+      {
+        "id": "c",
+        "text": "Un albergo che gestisce direttamente le attrattive della propria località",
+        "why_wrong": "Una singola impresa ricettiva non svolge il coordinamento dell'intera destinazione."
+      },
+      {
+        "id": "d",
+        "text": "Un ufficio statale che rilascia le autorizzazioni all'apertura delle strutture ricettive",
+        "why_wrong": "Il rilascio di autorizzazioni è un'attività amministrativa, non la funzione di una DMO."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La DMO è il soggetto che guida e coordina la destinazione: ne cura la gestione, la promozione e spesso lo sviluppo dei prodotti turistici, facendo collaborare enti pubblici, imprese e altri portatori di interesse.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "DMO",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-006",
+    "subject": "marketing-territoriale",
+    "question": "Alcuni Comuni di una valle costituiscono, insieme alle associazioni di categoria, un organismo che coordina l'informazione turistica, la creazione di prodotti e la promozione dell'intera area. Questo organismo svolge il ruolo di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Online travel agency",
+        "why_wrong": "Una OTA è un intermediario commerciale online, non un organismo di coordinamento della destinazione."
+      },
+      {
+        "id": "b",
+        "text": "Tour operator",
+        "why_wrong": "Il tour operator organizza e vende pacchetti turistici, non coordina gli attori della destinazione."
+      },
+      {
+        "id": "c",
+        "text": "Destination Management Organization",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Consorzio di acquisto tra imprese ricettive",
+        "why_wrong": "Un consorzio di acquisto riguarda l'approvvigionamento delle imprese, non la gestione e la promozione della destinazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Coordinare informazione, prodotto e promozione di un'area, mettendo insieme enti pubblici e privati, è la funzione tipica di una DMO.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "DMO",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-007",
+    "subject": "marketing-territoriale",
+    "question": "Nella gestione di una destinazione turistica, i residenti sono considerati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Soggetti estranei, perché non acquistano servizi turistici",
+        "why_wrong": "I residenti sono coinvolti dagli effetti del turismo e contribuiscono all'accoglienza: sono portatori di interesse."
+      },
+      {
+        "id": "b",
+        "text": "Portatori di interesse, perché il turismo incide sulla loro qualità della vita e la loro accoglienza fa parte dell'esperienza del visitatore",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Destinatari esclusivi delle politiche turistiche, in quanto elettori",
+        "why_wrong": "Le politiche turistiche si rivolgono a più soggetti (visitatori, imprese, residenti), non ai soli residenti."
+      },
+      {
+        "id": "d",
+        "text": "Concorrenti delle imprese turistiche",
+        "why_wrong": "I residenti non sono concorrenti, ma parte della comunità ospitante."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Gli stakeholder di una destinazione comprendono enti pubblici, imprese, associazioni, visitatori e residenti. I residenti subiscono gli effetti del turismo (positivi e negativi) e ne condizionano la qualità dell'accoglienza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Stakeholder",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-008",
+    "subject": "marketing-territoriale",
+    "question": "Nel marketing di una destinazione, il partenariato pubblico-privato indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La cessione ai privati della proprietà dei beni culturali pubblici",
+        "why_wrong": "La cessione della proprietà non è un partenariato: il partenariato è una collaborazione tra soggetti che restano distinti."
+      },
+      {
+        "id": "b",
+        "text": "Il finanziamento pubblico a fondo perduto concesso a una singola impresa",
+        "why_wrong": "Un contributo a una singola impresa non comporta obiettivi e decisioni condivisi."
+      },
+      {
+        "id": "c",
+        "text": "La gestione di tutti i servizi turistici esclusivamente da parte dell'ente pubblico",
+        "why_wrong": "È l'opposto: il partenariato richiede la partecipazione dei privati."
+      },
+      {
+        "id": "d",
+        "text": "La collaborazione tra enti pubblici e soggetti privati, che condividono obiettivi, risorse e responsabilità per lo sviluppo della destinazione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Nel partenariato pubblico-privato enti pubblici e imprese collaborano stabilmente, mettendo in comune risorse e decisioni per obiettivi condivisi di sviluppo e promozione della destinazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Partenariato pubblico-privato",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-009",
+    "subject": "marketing-territoriale",
+    "question": "Un Comune e l'associazione degli albergatori cofinanziano una campagna promozionale e ne decidono insieme contenuti e mercati obiettivo. Si tratta di un esempio di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Partenariato pubblico-privato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Esternalizzazione di un servizio pubblico",
+        "why_wrong": "Nell'esternalizzazione l'ente affida un servizio a terzi; qui le parti cofinanziano e decidono insieme."
+      },
+      {
+        "id": "c",
+        "text": "Sponsorizzazione",
+        "why_wrong": "Lo sponsor finanzia in cambio di visibilità, senza condividere le decisioni sui contenuti e sui mercati."
+      },
+      {
+        "id": "d",
+        "text": "Marketing diretto",
+        "why_wrong": "Il marketing diretto è una tecnica di comunicazione rivolta al singolo cliente, non una forma di collaborazione tra soggetti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La condivisione delle risorse (cofinanziamento) e delle decisioni tra ente pubblico e soggetti privati caratterizza il partenariato pubblico-privato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Partenariato pubblico-privato",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "mkt-fon-010",
+    "subject": "marketing-territoriale",
+    "question": "Perché la gestione di una destinazione turistica richiede il coordinamento tra numerosi soggetti?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perché la legge impone che ogni destinazione sia gestita da un unico ente pubblico",
+        "why_wrong": "Il coordinamento nasce dalla natura dell'offerta turistica, non da un obbligo di gestione unica."
+      },
+      {
+        "id": "b",
+        "text": "Perché le imprese turistiche sono tutte di grandi dimensioni",
+        "why_wrong": "La necessità di coordinamento non dipende dalla dimensione delle imprese, ma dalla frammentazione dell'offerta."
+      },
+      {
+        "id": "c",
+        "text": "Perché il turista vive la destinazione come un'esperienza unitaria, ma i servizi che la compongono sono forniti da soggetti diversi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Perché il turista acquista sempre un pacchetto da un unico operatore",
+        "why_wrong": "Il turista spesso acquista i servizi separatamente, da fornitori diversi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'offerta di una destinazione è frammentata (alloggio, trasporti, ristorazione, attrattive, servizi pubblici), mentre il visitatore ne giudica l'insieme: senza coordinamento l'esperienza complessiva risulta disomogenea.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Destinazione come sistema",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
