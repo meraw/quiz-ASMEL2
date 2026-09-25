@@ -6,22 +6,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Esclusivamente in società, anche consortili, costituite in forma di società per azioni o di società a responsabilità limitata, anche in forma cooperativa",
+        "text": "Esclusivamente in società per azioni o a responsabilità limitata, anche consortili e anche in forma cooperativa",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "In qualsiasi organismo di cui ai titoli V e VI, capo I, del libro V del codice civile",
+        "text": "In qualsiasi organismo di cui ai titoli V e VI, capo I, del libro V del codice civile, anche con attività consortile",
         "why_wrong": "È la definizione di «società» dell'art. 2, comma 1, lett. l); l'art. 3, comma 1, limita invece la partecipazione alle sole s.p.a. e s.r.l."
       },
       {
         "id": "c",
-        "text": "Esclusivamente in società per azioni, con esclusione delle società a responsabilità limitata",
+        "text": "Esclusivamente in società per azioni, anche consortili e anche in forma cooperativa, escluse le società a responsabilità limitata",
         "why_wrong": "L'art. 3, comma 1, ammette espressamente anche le società a responsabilità limitata."
       },
       {
         "id": "d",
-        "text": "In società per azioni e a responsabilità limitata, con esclusione delle società consortili e cooperative",
+        "text": "In società per azioni o a responsabilità limitata, con esclusione delle società consortili e delle società cooperative",
         "why_wrong": "L'art. 3, comma 1, ammette le società «anche consortili» e «anche in forma cooperativa»."
       }
     ],
@@ -40,8 +40,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-002",
@@ -50,7 +51,7 @@
     "options": [
       {
         "id": "a",
-        "text": "È possibile, se lo statuto lo prevede espressamente",
+        "text": "È possibile, purché lo statuto della società per azioni lo preveda espressamente e il Comune ne dia atto con delibera motivata del consiglio",
         "why_wrong": "L'art. 3, comma 2, esclude l'affidamento al collegio sindacale nelle s.p.a. a controllo pubblico, senza eccezioni statutarie."
       },
       {
@@ -60,12 +61,12 @@
       },
       {
         "id": "c",
-        "text": "È possibile, perché l'unico obbligo previsto riguarda la nomina dell'organo di controllo o di un revisore",
-        "why_wrong": "L'obbligo di prevedere l'organo di controllo o un revisore riguarda le s.r.l. a controllo pubblico (art. 3, comma 2, primo periodo)."
+        "text": "È possibile, perché l'unico obbligo statutario riguarda la nomina dell'organo di controllo o di un revisore, a scelta della società",
+        "why_wrong": "L'obbligo di prevedere l'organo di controllo o un revisore riguarda le s.r.l. a controllo pubblico (art. 3, comma 2, primo periodo); per le s.p.a. vale il divieto del secondo periodo."
       },
       {
         "id": "d",
-        "text": "È possibile solo previa deliberazione del consiglio comunale",
+        "text": "È possibile solo previa deliberazione del consiglio comunale, da trasmettere alla Sezione regionale di controllo della Corte dei conti",
         "why_wrong": "L'art. 3, comma 2, pone un divieto per le s.p.a. a controllo pubblico che nessuna deliberazione può superare."
       }
     ],
@@ -84,8 +85,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-003",
@@ -138,22 +140,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Solo se si tratta di società in house",
-        "why_wrong": "L'art. 4, comma 3, non richiede che la società sia in house."
+        "text": "Solo se si tratta di società in house, tramite il conferimento di beni immobili e comunque nel rispetto dei limiti del comma 1 dell'art. 4",
+        "why_wrong": "L'art. 4, comma 3, non richiede che la società sia in house e consente l'acquisizione anche in deroga al comma 1."
       },
       {
         "id": "b",
-        "text": "Anche in deroga al comma 1 dell'art. 4, tramite il conferimento di beni immobili, per realizzare un investimento secondo criteri propri di un qualsiasi operatore di mercato",
+        "text": "Anche in deroga al comma 1 dell'art. 4, tramite il conferimento di beni immobili, per un investimento secondo criteri propri di un qualsiasi operatore di mercato",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Solo previo decreto del Presidente del Consiglio dei ministri di esclusione dall'applicazione dell'art. 4",
+        "text": "Solo previo decreto del Presidente del Consiglio dei ministri che escluda la singola società dall'applicazione dell'art. 4, su proposta del Ministro dell'economia",
         "why_wrong": "Il DPCM di esclusione è previsto dall'art. 4, comma 9; la possibilità del comma 3 opera direttamente."
       },
       {
         "id": "d",
-        "text": "Esclusivamente mediante conferimento in denaro, per garantire la liquidità della società",
+        "text": "Anche in deroga al comma 1 dell'art. 4, ma esclusivamente mediante conferimenti in denaro, per garantire la liquidità della società partecipata",
         "why_wrong": "L'art. 4, comma 3, prevede l'acquisizione «tramite il conferimento di beni immobili»."
       }
     ],
@@ -172,8 +174,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-005",
@@ -182,12 +185,12 @@
     "options": [
       {
         "id": "a",
-        "text": "Può farlo, previa deliberazione del consiglio comunale",
-        "why_wrong": "L'art. 4, comma 5, pone un divieto per le società strumentali controllate da enti locali, non superabile con una deliberazione dell'ente."
+        "text": "Può farlo, previa deliberazione motivata del consiglio comunale e consultazione pubblica sullo schema di atto deliberativo",
+        "why_wrong": "L'art. 4, comma 5, pone un divieto per le società strumentali controllate da enti locali, non superabile con una deliberazione dell'ente; la consultazione pubblica (art. 5, comma 2) riguarda gli atti dell'ente."
       },
       {
         "id": "b",
-        "text": "Può farlo solo se la nuova società svolge anch'essa attività strumentali",
+        "text": "Può farlo solo se anche la nuova società svolge attività di autoproduzione di beni o servizi strumentali all'ente",
         "why_wrong": "Il divieto dell'art. 4, comma 5, riguarda ogni nuova partecipazione, senza distinguere l'attività della società partecipata."
       },
       {
@@ -197,7 +200,7 @@
       },
       {
         "id": "d",
-        "text": "Può farlo liberamente, perché il divieto riguarda solo la costituzione di nuove società",
+        "text": "Può farlo liberamente, perché il divieto riguarda soltanto la costituzione di nuove società e non l'acquisto di partecipazioni",
         "why_wrong": "L'art. 4, comma 5, vieta sia di costituire nuove società sia di acquisire nuove partecipazioni."
       }
     ],
@@ -216,8 +219,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-006",
@@ -226,8 +230,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Non oltre il 10 per cento del capitale sociale",
-        "why_wrong": "Il 10 per cento è la soglia di partecipazione oltre la quale, nelle società non a controllo pubblico, l'amministrazione propone misure analoghe a quelle dell'art. 11, commi 6 e 10 (art. 11, comma 16)."
+        "text": "Non oltre il 10 per cento del capitale sociale, senza ulteriori oneri finanziari rispetto a quelli derivanti dalla partecipazione",
+        "why_wrong": "L'art. 4, comma 9-ter, fissa il limite all'1 per cento; il 10 per cento è la soglia oltre la quale, nelle società non a controllo pubblico, l'amministrazione propone misure analoghe a quelle dell'art. 11, commi 6 e 10 (art. 11, comma 16)."
       },
       {
         "id": "b",
@@ -236,12 +240,12 @@
       },
       {
         "id": "c",
-        "text": "Non oltre il 30 per cento del capitale sociale",
-        "why_wrong": "Il 30 per cento è la quota minima del socio privato nelle società miste (art. 17, comma 1)."
+        "text": "Non oltre il 30 per cento del capitale sociale, previa comunicazione dell'atto deliberativo alla Corte dei conti",
+        "why_wrong": "L'art. 4, comma 9-ter, fissa il limite all'1 per cento; il 30 per cento è la quota minima del socio privato nelle società miste (art. 17, comma 1)."
       },
       {
         "id": "d",
-        "text": "Senza limiti, purché l'atto deliberativo sia comunicato alla Corte dei conti",
+        "text": "Senza limiti di quota, purché l'atto deliberativo sia inviato alla Corte dei conti e all'Autorità garante della concorrenza",
         "why_wrong": "L'art. 4, comma 9-ter, fissa un limite massimo dell'1 per cento del capitale sociale."
       }
     ],
@@ -260,8 +264,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-007",
@@ -358,23 +363,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Deve motivare analiticamente le ragioni per le quali intende discostarsi dal parere e dare pubblicità a tali ragioni nel proprio sito internet istituzionale",
+        "text": "Deve motivare analiticamente le ragioni per cui intende discostarsi dal parere e pubblicarle nel proprio sito internet istituzionale",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Non può procedere, perché il parere negativo è vincolante",
+        "text": "Non può procedere, perché il parere in tutto o in parte negativo della Sezione regionale di controllo è per l'ente vincolante",
         "why_wrong": "L'art. 5, comma 4, ammette che l'amministrazione proceda egualmente, con motivazione analitica e pubblicità."
       },
       {
         "id": "c",
-        "text": "Deve sottoporre la delibera alle Sezioni Riunite in sede di controllo",
+        "text": "Deve sottoporre di nuovo la delibera, con motivazione integrata, alle Sezioni Riunite della Corte dei conti in sede di controllo per un riesame",
         "why_wrong": "Le Sezioni Riunite sono competenti per gli atti delle amministrazioni dello Stato e degli enti nazionali; per gli enti locali è competente la Sezione regionale di controllo (art. 5, comma 4)."
       },
       {
         "id": "d",
-        "text": "Deve attendere il decorso di sessanta giorni dal parere",
-        "why_wrong": "I sessanta giorni sono il termine entro cui la Corte delibera (art. 5, comma 3), non un'attesa successiva al parere negativo."
+        "text": "Deve attendere il decorso di sessanta giorni dal parere, trascorsi i quali può procedere senza alcun ulteriore adempimento a suo carico",
+        "why_wrong": "I sessanta giorni sono il termine entro cui la Corte delibera (art. 5, comma 3); in caso di parere negativo l'ente deve motivare analiticamente e dare pubblicità alle ragioni (art. 5, comma 4)."
       }
     ],
     "correct": "a",
@@ -392,8 +397,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-par-010",
@@ -490,22 +496,22 @@
     "options": [
       {
         "id": "a",
-        "text": "La titolarità di strumenti finanziari che attribuiscono diritti amministrativi",
+        "text": "La titolarità, da parte di un'amministrazione, di strumenti finanziari che attribuiscono diritti amministrativi in una società",
         "why_wrong": "È parte della definizione generale di «partecipazione» (art. 2, comma 1, lett. f)."
       },
       {
         "id": "b",
-        "text": "La partecipazione in una società detenuta da un'amministrazione pubblica per il tramite di società o altri organismi soggetti a controllo da parte della medesima amministrazione",
+        "text": "La partecipazione in una società detenuta da un'amministrazione per il tramite di società o altri organismi da essa controllati",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "La partecipazione detenuta da un'amministrazione congiuntamente con altre amministrazioni che esercitano il controllo analogo",
+        "text": "La partecipazione in una società detenuta da un'amministrazione congiuntamente con altre amministrazioni che esercitano il controllo analogo",
         "why_wrong": "Descrive il «controllo analogo congiunto» (art. 2, comma 1, lett. d), non la partecipazione indiretta."
       },
       {
         "id": "d",
-        "text": "La partecipazione detenuta da un'amministrazione in una società quotata in mercati regolamentati",
+        "text": "La partecipazione detenuta da un'amministrazione in una società quotata che ha emesso strumenti finanziari diversi dalle azioni",
         "why_wrong": "Le società quotate sono definite dall'art. 2, comma 1, lett. p), senza riferimento al carattere indiretto della partecipazione."
       }
     ],
@@ -524,7 +530,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   }
 ]

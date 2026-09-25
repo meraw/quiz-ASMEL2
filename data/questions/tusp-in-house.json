@@ -138,22 +138,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Solo se la produzione ulteriore è rivolta alle stesse finalità dei compiti affidati dagli enti soci",
+        "text": "Solo se la produzione ulteriore è rivolta alle stesse finalità dei compiti affidati dall'ente pubblico o dagli enti pubblici soci",
         "why_wrong": "L'art. 16, comma 3-bis, precisa che la produzione ulteriore «può essere rivolta anche a finalità diverse»."
       },
       {
         "id": "b",
-        "text": "Solo se permette di conseguire economie di scala o altri recuperi di efficienza sul complesso dell'attività principale della società",
+        "text": "Solo se consente di conseguire economie di scala o altri recuperi di efficienza sul complesso dell'attività principale della società",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Solo previa autorizzazione della Sezione regionale di controllo della Corte dei conti",
-        "why_wrong": "L'art. 16, comma 3-bis, non prevede alcuna autorizzazione della Corte dei conti."
+        "text": "Solo previa autorizzazione della Sezione regionale di controllo della Corte dei conti, da richiedere per ciascun esercizio",
+        "why_wrong": "L'art. 16, comma 3-bis, non prevede alcuna autorizzazione della Corte dei conti: la condizione è il conseguimento di economie di scala o recuperi di efficienza."
       },
       {
         "id": "d",
-        "text": "Solo se la società ha chiuso in utile gli ultimi tre esercizi",
+        "text": "Solo se la società ha chiuso in utile gli ultimi tre esercizi e ha distribuito gli utili all'ente pubblico o agli enti pubblici soci",
         "why_wrong": "L'art. 16, comma 3-bis, collega la produzione ulteriore alle economie di scala o ai recuperi di efficienza, non ai risultati di esercizio."
       }
     ],
@@ -172,8 +172,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-inh-005",
@@ -227,23 +228,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Il Comune le riaffida alla stessa società con un nuovo affidamento diretto",
+        "text": "Il Comune le riaffida alla stessa società con un nuovo affidamento diretto; nelle more, la stessa società continua a fornire i beni o servizi",
         "why_wrong": "L'art. 16, comma 5, impone il riaffidamento mediante procedure competitive regolate dalla disciplina dei contratti pubblici."
       },
       {
         "id": "b",
-        "text": "Il Comune le riaffida mediante procedure competitive entro sei mesi dallo scioglimento del rapporto e, nelle more della gara, i beni o servizi continuano a essere forniti dalla stessa società",
+        "text": "Il Comune le riaffida con procedure competitive entro sei mesi dallo scioglimento del rapporto; nelle more, la stessa società continua a svolgerle",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Le attività cessano immediatamente, fino all'aggiudicazione della nuova gara",
+        "text": "Il Comune le riaffida con procedure competitive entro sei mesi dallo scioglimento del rapporto; nelle more, le attività restano sospese",
         "why_wrong": "L'art. 16, comma 5, stabilisce che nelle more delle procedure di gara i beni o servizi continuano a essere forniti dalla stessa società."
       },
       {
         "id": "d",
-        "text": "Il Comune le riaffida mediante procedure competitive entro tre mesi dalla rinuncia",
-        "why_wrong": "Tre mesi è il termine per sanare l'irregolarità; il riaffidamento avviene entro i sei mesi successivi allo scioglimento del rapporto."
+        "text": "Il Comune le riaffida con procedure competitive entro tre mesi da quando si è manifestata l'irregolarità; nelle more, la stessa società continua a svolgerle",
+        "why_wrong": "Tre mesi è il termine per sanare l'irregolarità; il riaffidamento avviene entro i sei mesi successivi allo scioglimento del rapporto (art. 16, comma 5)."
       }
     ],
     "correct": "b",
@@ -261,8 +262,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "op-inh-007",
