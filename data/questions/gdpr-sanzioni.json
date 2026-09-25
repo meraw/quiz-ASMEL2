@@ -5,9 +5,9 @@
     "question": "Ai sensi del Regolamento (UE) 2016/679, l'interessato che ritenga che il trattamento che lo riguarda violi il Regolamento ha il diritto di proporre reclamo a un'autorità di controllo, segnatamente nello Stato membro:",
     "options": [
       { "id": "a", "text": "in cui risiede abitualmente, lavora oppure del luogo ove si è verificata la presunta violazione", "why_wrong": null },
-      { "id": "b", "text": "in cui ha lo stabilimento il titolare del trattamento, esclusivamente", "why_wrong": "L'art. 77, par. 1, indica la residenza abituale, il luogo di lavoro o il luogo della presunta violazione; lo Stato dello stabilimento rileva per le azioni giudiziarie contro il titolare (art. 79, par. 2)." },
-      { "id": "c", "text": "di cui ha la cittadinanza, esclusivamente", "why_wrong": "L'art. 77, par. 1, fa riferimento alla residenza abituale, al luogo di lavoro o al luogo della presunta violazione, non alla cittadinanza." },
-      { "id": "d", "text": "indicato dal titolare del trattamento nell'informativa", "why_wrong": "Il criterio è fissato dall'art. 77, par. 1, e non dipende da una scelta del titolare." }
+      { "id": "b", "text": "in cui ha uno stabilimento il titolare o il responsabile del trattamento, esclusivamente", "why_wrong": "L'art. 77, par. 1, indica la residenza abituale, il luogo di lavoro o il luogo della presunta violazione; lo Stato dello stabilimento rileva per le azioni giudiziarie contro il titolare o il responsabile (art. 79, par. 2)." },
+      { "id": "c", "text": "di cui ha la cittadinanza, esclusivamente, anche se risiede e lavora in un altro Stato membro", "why_wrong": "L'art. 77, par. 1, indica lo Stato membro della residenza abituale, del luogo di lavoro o della presunta violazione; la cittadinanza non è un criterio previsto." },
+      { "id": "d", "text": "indicato dal titolare del trattamento nell'informativa fornita all'interessato al momento della raccolta dei dati", "why_wrong": "Lo Stato membro è individuato dall'art. 77, par. 1 (residenza abituale, lavoro o luogo della presunta violazione), non dall'informativa del titolare." }
     ],
     "correct": "a",
     "explanation": "L'art. 77, par. 1, fatto salvo ogni altro ricorso amministrativo o giurisdizionale, riconosce all'interessato il diritto di proporre reclamo a un'autorità di controllo, segnatamente nello Stato membro in cui risiede abitualmente, lavora oppure del luogo della presunta violazione. L'autorità informa il reclamante dello stato o dell'esito del reclamo (par. 2).",
@@ -16,7 +16,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 77, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -44,10 +45,10 @@
     "subject": "privacy",
     "question": "Una società che opera come responsabile del trattamento per un Comune ha adempiuto tutti gli obblighi che il Regolamento pone specificamente a carico dei responsabili e ha seguito le legittime istruzioni del Comune. Un cittadino subisce un danno causato da un trattamento che viola il Regolamento. Ai sensi dell'art. 82 del Regolamento (UE) 2016/679, la società:",
     "options": [
-      { "id": "a", "text": "non risponde del danno, perché il responsabile risponde solo se non ha adempiuto gli obblighi a esso specificamente diretti o ha agito in modo difforme o contrario alle legittime istruzioni del titolare", "why_wrong": null },
-      { "id": "b", "text": "risponde in ogni caso in solido con il Comune", "why_wrong": "La responsabilità in solido (art. 82, par. 4) riguarda i soggetti che siano responsabili del danno ai sensi dei paragrafi 2 e 3." },
-      { "id": "c", "text": "risponde in via esclusiva, in luogo del Comune", "why_wrong": "Il titolare coinvolto nel trattamento risponde per il danno cagionato dal suo trattamento che violi il Regolamento (art. 82, par. 2)." },
-      { "id": "d", "text": "risponde del solo danno materiale e non di quello immateriale", "why_wrong": "L'art. 82, par. 1, comprende sia il danno materiale sia quello immateriale; il responsabile risponde soltanto nei casi indicati dal par. 2." }
+      { "id": "a", "text": "non risponde: il responsabile risponde solo se non ha adempiuto gli obblighi a esso specificamente diretti o ha agito in modo difforme o contrario alle legittime istruzioni del titolare", "why_wrong": null },
+      { "id": "b", "text": "risponde in ogni caso in solido con il Comune per l'intero ammontare del danno, salvo il diritto di reclamare dal Comune la parte corrispondente alla sua responsabilità", "why_wrong": "La responsabilità in solido (art. 82, par. 4) riguarda i soggetti che siano responsabili del danno ai sensi dei paragrafi 2 e 3; il responsabile risponde solo nei casi del par. 2." },
+      { "id": "c", "text": "risponde in via esclusiva, in luogo del Comune, perché il danno deriva dal trattamento svolto materialmente dalla società per conto del Comune, anche se conforme alle istruzioni ricevute", "why_wrong": "Il titolare coinvolto nel trattamento risponde per il danno cagionato dal suo trattamento che violi il Regolamento (art. 82, par. 2); il responsabile risponde solo se ha violato i propri obblighi o le istruzioni del titolare." },
+      { "id": "d", "text": "risponde del solo danno materiale e non di quello immateriale, in quanto ha adempiuto gli obblighi posti a carico dei responsabili e seguito le istruzioni del Comune", "why_wrong": "L'art. 82, par. 1, riconosce il risarcimento del danno sia materiale sia immateriale; il responsabile che ha rispettato i propri obblighi e le istruzioni non risponde affatto (par. 2)." }
     ],
     "correct": "a",
     "explanation": "L'art. 82, par. 1, riconosce il risarcimento del danno materiale o immateriale causato da una violazione del Regolamento. Per il par. 2 il titolare risponde per il danno cagionato dal suo trattamento illecito. Il responsabile risponde solo se non ha adempiuto gli obblighi specificamente diretti ai responsabili o ha agito in modo difforme o contrario alle legittime istruzioni del titolare.",
@@ -56,7 +57,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 82, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -85,10 +87,10 @@
     "subject": "privacy",
     "question": "Un Comune viola il Regolamento (UE) 2016/679. Ai sensi dell'art. 83 del Regolamento, l'applicazione di sanzioni amministrative pecuniarie ad autorità pubbliche e organismi pubblici:",
     "options": [
-      { "id": "a", "text": "dipende dalle norme con cui ciascuno Stato membro può stabilire se e in quale misura possono essere inflitte, fatti salvi i poteri correttivi dell'autorità di controllo", "why_wrong": null },
-      { "id": "b", "text": "è esclusa dal Regolamento in ogni caso, insieme a qualsiasi potere correttivo", "why_wrong": "L'art. 83, par. 7, lascia la scelta agli Stati membri e fa salvi in ogni caso i poteri correttivi dell'autorità di controllo (art. 58, par. 2)." },
-      { "id": "c", "text": "è disciplinata direttamente dal Regolamento con importi ridotti alla metà", "why_wrong": "Il Regolamento non prevede importi ridotti: l'art. 83, par. 7, rimette agli Stati membri la scelta se e in quale misura sanzionare autorità e organismi pubblici." },
-      { "id": "d", "text": "comporta che la sanzione sia posta a carico del responsabile della protezione dei dati", "why_wrong": "L'art. 83, par. 7, rimette agli Stati membri la scelta se e in quale misura sanzionare autorità e organismi pubblici; non pone la sanzione a carico del RPD, che non può essere penalizzato per l'adempimento dei propri compiti (art. 38, par. 3)." }
+      { "id": "a", "text": "dipende dalle norme con cui ciascuno Stato membro può stabilire se e in quale misura infliggerle, fatti salvi i poteri correttivi dell'autorità di controllo", "why_wrong": null },
+      { "id": "b", "text": "è esclusa in ogni caso dal Regolamento, insieme a qualsiasi potere correttivo dell'autorità di controllo nei confronti dell'ente pubblico", "why_wrong": "Il Regolamento non esclude le sanzioni: l'art. 83, par. 7, rimette la scelta agli Stati membri e fa comunque salvi i poteri correttivi dell'art. 58, par. 2." },
+      { "id": "c", "text": "è disciplinata direttamente dal Regolamento, con importi massimi ridotti alla metà rispetto a quelli previsti per le imprese e gli altri titolari del trattamento", "why_wrong": "L'art. 83, par. 7, non fissa importi ridotti per gli enti pubblici, ma rimette a ciascuno Stato membro la scelta se e in quale misura sanzionarli." },
+      { "id": "d", "text": "comporta che la sanzione sia posta a carico del responsabile della protezione dei dati designato dall'autorità pubblica o dall'organismo pubblico", "why_wrong": "L'art. 83, par. 7, riguarda sanzioni ad autorità e organismi pubblici, rimesse alla scelta degli Stati membri; il RPD non può essere penalizzato per l'adempimento dei propri compiti (art. 38, par. 3)." }
     ],
     "correct": "a",
     "explanation": "L'art. 83, par. 7, consente a ogni Stato membro di stabilire se e in quale misura possono essere inflitte sanzioni amministrative pecuniarie ad autorità pubbliche e organismi pubblici istituiti nel suo territorio. Restano fermi i poteri correttivi dell'autorità di controllo previsti dall'art. 58, par. 2.",
@@ -97,7 +99,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 83, par. 7", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

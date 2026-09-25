@@ -50,23 +50,23 @@
     "options": [
       {
         "id": "a",
-        "text": "L'esecuzione di parte delle prestazioni o lavorazioni oggetto del contratto, con organizzazione di mezzi e rischi a carico del subappaltatore",
+        "text": "L'esecuzione di parte delle prestazioni o lavorazioni, con organizzazione di mezzi e rischi a carico del subappaltatore",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "L'intero contratto, subentrando il terzo nella posizione dell'appaltatore",
-        "why_wrong": "È la cessione del contratto, che l'art. 119, comma 1, dichiara nulla salvo l'art. 120, comma 1, lett. d)."
+        "text": "L'intero contratto, con subentro del terzo nella posizione dell'appaltatore per tutta la durata residua dell'appalto",
+        "why_wrong": "Il subentro del terzo nell'intero contratto configura la cessione del contratto, che l'art. 119, comma 1, dichiara nulla salvo l'art. 120, comma 1, lett. d); il subappalto riguarda solo parte delle prestazioni (comma 2)."
       },
       {
         "id": "c",
-        "text": "L'esecuzione di parte delle prestazioni, con organizzazione di mezzi e rischi a carico dell'appaltatore",
-        "why_wrong": "L'art. 119, comma 2, pone l'organizzazione dei mezzi e i rischi a carico del subappaltatore."
+        "text": "L'esecuzione di parte delle prestazioni o lavorazioni, con organizzazione di mezzi e rischi a carico dell'appaltatore",
+        "why_wrong": "L'art. 119, comma 2, pone l'organizzazione dei mezzi e i rischi a carico del subappaltatore, non dell'appaltatore."
       },
       {
         "id": "d",
-        "text": "La sola fornitura di materiali, senza impiego di manodopera",
-        "why_wrong": "L'art. 119, comma 2, definisce il subappalto con riferimento all'esecuzione di parte delle prestazioni; le forniture con posa in opera possono anzi costituire subappalto di lavori."
+        "text": "L'integrale esecuzione delle prestazioni o lavorazioni appaltate, con organizzazione di mezzi e rischi a carico del terzo affidatario",
+        "why_wrong": "L'art. 119, comma 1, dichiara nullo l'accordo con cui a terzi sia affidata l'integrale esecuzione delle prestazioni o lavorazioni appaltate; il subappalto riguarda solo parte di esse (comma 2)."
       }
     ],
     "correct": "a",
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

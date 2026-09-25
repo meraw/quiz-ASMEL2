@@ -96,22 +96,22 @@
     "options": [
       {
         "id": "a",
-        "text": "possono essere trattenuti dal dipendente se il donatore rifiuta la restituzione",
-        "why_wrong": "Il comma 4 impone di metterli immediatamente a disposizione dell'amministrazione."
+        "text": "sono trattenuti dal dipendente qualora il donatore ne rifiuti la restituzione, previa comunicazione scritta al responsabile dell'ufficio di appartenenza",
+        "why_wrong": "Il comma 4 impone di metterli immediatamente a disposizione dell'amministrazione per la restituzione o per essere devoluti a fini istituzionali."
       },
       {
         "id": "b",
-        "text": "devono essere consegnati alla Guardia di finanza",
-        "why_wrong": "Il comma 4 prevede la messa a disposizione dell'amministrazione, non la consegna alla Guardia di finanza."
+        "text": "sono consegnati, a cura del responsabile dell'ufficio, alla Guardia di finanza, che ne dispone la vendita o la distruzione",
+        "why_wrong": "Il comma 4 prevede la messa a disposizione dell'amministrazione, a cura dello stesso dipendente, non la consegna alla Guardia di finanza."
       },
       {
         "id": "c",
-        "text": "devono essere distrutti a cura del responsabile dell'ufficio",
-        "why_wrong": "Il comma 4 prevede la restituzione o la devoluzione a fini istituzionali."
+        "text": "sono distrutti a cura del responsabile dell'ufficio, che vigila sulla corretta applicazione delle disposizioni in materia di regali",
+        "why_wrong": "Il comma 4 prevede la restituzione o la devoluzione a fini istituzionali, non la distruzione."
       },
       {
         "id": "d",
-        "text": "sono immediatamente messi a disposizione dell'amministrazione, a cura dello stesso dipendente, per la restituzione o per essere devoluti a fini istituzionali",
+        "text": "sono immediatamente messi a disposizione dell'amministrazione, a cura dello stesso dipendente, per la restituzione o la devoluzione a fini istituzionali",
         "why_wrong": null
       }
     ],
@@ -130,7 +130,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -140,23 +141,23 @@
     "options": [
       {
         "id": "a",
-        "text": "non ha alcun obbligo, perché l'adesione ad associazioni rientra nella libertà personale",
-        "why_wrong": "Il comma 1 impone la comunicazione quando gli ambiti di interessi dell'associazione possono interferire con l'attività dell'ufficio."
+        "text": "non ha alcun obbligo di comunicazione, poiché questo riguarda soltanto l'adesione ad associazioni od organizzazioni a carattere riservato",
+        "why_wrong": "Il comma 1 impone la comunicazione a prescindere dal carattere riservato o meno dell'associazione, quando i suoi ambiti di interessi possono interferire con l'attività dell'ufficio."
       },
       {
         "id": "b",
-        "text": "comunica tempestivamente al responsabile dell'ufficio di appartenenza la propria adesione, a prescindere dal carattere riservato o meno dell'associazione",
+        "text": "comunica tempestivamente l'adesione al responsabile dell'ufficio di appartenenza, a prescindere dal carattere riservato o meno dell'associazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "deve recedere dall'associazione entro trenta giorni",
-        "why_wrong": "Il comma 1 prevede solo l'obbligo di comunicazione, non il recesso."
+        "text": "comunica l'adesione al responsabile dell'ufficio e deve comunque recedere dall'associazione entro trenta giorni dalla comunicazione",
+        "why_wrong": "La comunicazione al responsabile dell'ufficio è dovuta, ma il comma 1 non impone alcun recesso dall'associazione."
       },
       {
         "id": "d",
-        "text": "deve chiedere l'autorizzazione preventiva all'ufficio per i procedimenti disciplinari",
-        "why_wrong": "Il comma 1 richiede una comunicazione al responsabile dell'ufficio, non un'autorizzazione."
+        "text": "deve chiedere l'autorizzazione preventiva all'ufficio per i procedimenti disciplinari, a prescindere dal carattere riservato o meno dell'associazione",
+        "why_wrong": "Il comma 1 richiede una comunicazione al responsabile dell'ufficio di appartenenza, non un'autorizzazione."
       }
     ],
     "correct": "b",
@@ -174,7 +175,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -228,22 +230,22 @@
     "options": [
       {
         "id": "a",
-        "text": "può istruire la pratica, purché ne dia notizia nel provvedimento finale",
-        "why_wrong": "L'art. 7 impone l'astensione quando la decisione o l'attività possono coinvolgere interessi del coniuge."
+        "text": "può istruire la pratica, purché ne dia notizia per iscritto al responsabile dell'ufficio e nel provvedimento finale",
+        "why_wrong": "La comunicazione non basta: l'art. 7 impone l'astensione dalle decisioni o attività che possano coinvolgere interessi del coniuge."
       },
       {
         "id": "b",
-        "text": "deve astenersi e sull'astensione decide il Responsabile della prevenzione della corruzione",
-        "why_wrong": "L'art. 7 attribuisce la decisione sull'astensione al responsabile dell'ufficio di appartenenza."
+        "text": "deve astenersi dal partecipare alla decisione e all'attività; sull'astensione decide il Responsabile della prevenzione della corruzione",
+        "why_wrong": "L'obbligo di astensione è corretto, ma l'art. 7 affida la decisione sull'astensione al responsabile dell'ufficio di appartenenza, non al Responsabile della prevenzione della corruzione."
       },
       {
         "id": "c",
-        "text": "deve astenersi solo se il conflitto di interessi è attuale e patrimoniale",
-        "why_wrong": "L'art. 7 prevede l'astensione quando le attività possano coinvolgere interessi del coniuge, e anche in ogni caso di gravi ragioni di convenienza."
+        "text": "deve astenersi solo se il conflitto di interessi è attuale e di natura patrimoniale; sull'astensione decide il responsabile dell'ufficio",
+        "why_wrong": "L'art. 7 non richiede un conflitto attuale e patrimoniale: basta che le attività possano coinvolgere interessi del coniuge, e l'astensione è dovuta anche per gravi ragioni di convenienza."
       },
       {
         "id": "d",
-        "text": "deve astenersi dal partecipare all'adozione delle decisioni o alle attività, e sull'astensione decide il responsabile dell'ufficio di appartenenza",
+        "text": "deve astenersi dal partecipare alla decisione e all'attività; sull'astensione decide il responsabile dell'ufficio di appartenenza",
         "why_wrong": null
       }
     ],
@@ -266,7 +268,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -276,23 +279,23 @@
     "options": [
       {
         "id": "a",
-        "text": "può esprimere liberamente qualsiasi commento sull'amministrazione, trattandosi di account personale",
-        "why_wrong": "Il comma 2 impone di astenersi da interventi o commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione."
+        "text": "può esprimere liberamente qualsiasi commento sull'amministrazione di appartenenza, trattandosi di un account personale e non istituzionale",
+        "why_wrong": "L'uso di un account personale non esclude i limiti dell'art. 11-ter: il comma 2 impone in ogni caso di astenersi da commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione."
       },
       {
         "id": "b",
-        "text": "utilizza ogni cautela affinché le proprie opinioni o i propri giudizi non siano in alcun modo attribuibili direttamente alla pubblica amministrazione di appartenenza",
+        "text": "utilizza ogni cautela affinché le proprie opinioni o i propri giudizi non siano in alcun modo attribuibili direttamente all'amministrazione di appartenenza",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "deve ottenere l'autorizzazione dell'amministrazione prima di aprire un account",
-        "why_wrong": "L'art. 11-ter non prevede autorizzazioni per l'apertura di account personali."
+        "text": "deve ottenere la preventiva autorizzazione dell'amministrazione di appartenenza prima di aprire un account personale su qualsiasi piattaforma digitale o social media",
+        "why_wrong": "L'art. 11-ter non subordina l'apertura di account personali ad alcuna autorizzazione; il comma 4 consente alle amministrazioni di dotarsi di una social media policy."
       },
       {
         "id": "d",
-        "text": "deve indicare sempre nel profilo l'amministrazione di appartenenza",
-        "why_wrong": "L'art. 11-ter chiede cautela affinché le opinioni non siano attribuibili all'amministrazione, non l'indicazione dell'ente di appartenenza."
+        "text": "deve indicare sempre nel proprio profilo l'amministrazione di appartenenza, affinché le opinioni espresse siano a questa riconducibili",
+        "why_wrong": "Il comma 1 chiede ogni cautela affinché le opinioni non siano in alcun modo attribuibili all'amministrazione di appartenenza."
       }
     ],
     "correct": "b",
@@ -310,7 +313,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -325,18 +329,18 @@
       },
       {
         "id": "b",
-        "text": "dà precedenza alle pratiche di maggior valore economico",
-        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico, salvo diverse esigenze o priorità stabilite dall'amministrazione."
+        "text": "dà precedenza alle pratiche di maggior valore economico e può rifiutare le prestazioni ritenute non prioritarie",
+        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico e vieta di rifiutare prestazioni dovute con motivazioni generiche."
       },
       {
         "id": "c",
-        "text": "segue l'ordine di priorità indicato di volta in volta dall'utente",
-        "why_wrong": "Il comma 1 fa riferimento all'ordine cronologico e alle priorità stabilite dall'amministrazione, non a quelle indicate dall'utente."
+        "text": "segue l'ordine di priorità indicato di volta in volta dall'utente e rispetta gli appuntamenti fissati con i cittadini",
+        "why_wrong": "Il rispetto degli appuntamenti è previsto dall'art. 12, comma 1, ma la trattazione delle pratiche segue l'ordine cronologico o le priorità stabilite dall'amministrazione, non quelle indicate dall'utente."
       },
       {
         "id": "d",
-        "text": "tratta per prime le pratiche dei cittadini residenti nel Comune",
-        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico; l'art. 3 vieta inoltre trattamenti discriminatori."
+        "text": "tratta per prime le pratiche dei cittadini residenti nel Comune, rispettando per le altre l'ordine cronologico",
+        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico, salvo diverse esigenze di servizio o priorità stabilite dall'amministrazione; l'art. 3 vieta inoltre trattamenti discriminatori."
       }
     ],
     "correct": "a",
@@ -354,7 +358,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -408,23 +413,23 @@
     "options": [
       {
         "id": "a",
-        "text": "può partecipare all'esecuzione del contratto, se le utilità erano di modico valore",
-        "why_wrong": "Il comma 2 non distingue in base al valore: il dipendente si astiene dalle decisioni e dall'esecuzione."
+        "text": "può comunque partecipare all'esecuzione del contratto se le utilità ricevute erano di modico valore, redigendo verbale scritto da conservare agli atti dell'ufficio",
+        "why_wrong": "Il comma 2 non distingue in base al valore: il dipendente si astiene dalle decisioni e dalle attività di esecuzione del contratto."
       },
       {
         "id": "b",
-        "text": "deve informarne l'ANAC entro quindici giorni",
-        "why_wrong": "Il comma 2 prevede l'astensione con verbale scritto conservato agli atti, non una comunicazione all'ANAC."
+        "text": "non ha obblighi di astensione, ma ne informa per iscritto il dirigente dell'ufficio, come per i contratti conclusi a titolo privato",
+        "why_wrong": "L'informazione scritta al dirigente è prevista dal comma 3 per i contratti a titolo privato; il comma 2 impone l'astensione con verbale scritto."
       },
       {
         "id": "c",
-        "text": "si astiene dal partecipare all'adozione delle decisioni e alle attività relative all'esecuzione del contratto, redigendo verbale scritto dell'astensione da conservare agli atti dell'ufficio",
+        "text": "si astiene dall'adozione delle decisioni e dalle attività relative all'esecuzione del contratto, con verbale scritto conservato agli atti dell'ufficio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "deve chiedere il trasferimento ad altro ufficio",
-        "why_wrong": "Il comma 2 prevede l'astensione, non il trasferimento."
+        "text": "deve chiedere il trasferimento ad altro ufficio, informando per iscritto il dirigente apicale responsabile della gestione del personale",
+        "why_wrong": "Il comma 2 prevede l'astensione con verbale scritto, non il trasferimento; l'informazione al dirigente apicale riguarda il dirigente (comma 4)."
       }
     ],
     "correct": "c",
@@ -442,7 +447,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

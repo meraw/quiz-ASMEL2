@@ -5,9 +5,9 @@
     "question": "Ai sensi del Regolamento (UE) 2016/679, il titolare del trattamento fornisce all'interessato le informazioni relative all'azione intrapresa riguardo a una sua richiesta di esercizio dei diritti:",
     "options": [
       { "id": "a", "text": "senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta", "why_wrong": null },
-      { "id": "b", "text": "entro 72 ore dal ricevimento della richiesta", "why_wrong": "Le 72 ore sono il termine, ove possibile, per notificare una violazione dei dati personali all'autorità di controllo (art. 33, par. 1)." },
-      { "id": "c", "text": "entro tre mesi dal ricevimento della richiesta", "why_wrong": "Tre mesi è il termine oltre il quale l'interessato può agire in giudizio se l'autorità di controllo non lo informa sul reclamo (art. 78, par. 2)." },
-      { "id": "d", "text": "entro otto settimane dal ricevimento della richiesta", "why_wrong": "Otto settimane è il termine per il parere dell'autorità di controllo nella consultazione preventiva (art. 36, par. 2)." }
+      { "id": "b", "text": "senza ingiustificato ritardo e, ove possibile, entro 72 ore dal ricevimento della richiesta", "why_wrong": "Il termine di 72 ore, ove possibile, riguarda la notifica di una violazione dei dati personali all'autorità di controllo (art. 33, par. 1); l'art. 12, par. 3, prevede al più tardi un mese." },
+      { "id": "c", "text": "entro otto settimane dal ricevimento della richiesta, prorogabili di sei settimane tenuto conto della complessità", "why_wrong": "Otto settimane, prorogabili di sei, è il termine per il parere dell'autorità di controllo nella consultazione preventiva (art. 36, par. 2)." },
+      { "id": "d", "text": "entro tre mesi dal ricevimento della richiesta, informando l'interessato dei motivi dell'eventuale ritardo", "why_wrong": "Tre mesi è il termine oltre il quale l'interessato può agire in giudizio se l'autorità di controllo non lo informa sul reclamo (art. 78, par. 2); l'art. 12, par. 3, prevede al più tardi un mese." }
     ],
     "correct": "a",
     "explanation": "L'art. 12, par. 3, impone al titolare di informare l'interessato sull'azione intrapresa riguardo a una richiesta ai sensi degli articoli da 15 a 22 senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta.",
@@ -16,7 +16,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 12, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -24,10 +25,10 @@
     "subject": "privacy",
     "question": "Un Comune riceve da un cittadino una richiesta di accesso ai propri dati particolarmente complessa, che non riesce a soddisfare entro il termine ordinario. Ai sensi del Regolamento (UE) 2016/679, il Comune:",
     "options": [
-      { "id": "a", "text": "può prorogare il termine di due mesi, informando l'interessato della proroga e dei motivi del ritardo entro un mese dal ricevimento della richiesta", "why_wrong": null },
-      { "id": "b", "text": "può prorogare il termine di sei mesi, senza obbligo di comunicazione all'interessato", "why_wrong": "L'art. 12, par. 3, prevede una proroga di due mesi, che deve essere comunicata all'interessato con i motivi del ritardo." },
-      { "id": "c", "text": "non può in alcun caso superare il termine di un mese", "why_wrong": "L'art. 12, par. 3, ammette una proroga di due mesi, tenuto conto della complessità e del numero delle richieste." },
-      { "id": "d", "text": "può sospendere il termine fino al versamento di un contributo spese da parte dell'interessato", "why_wrong": "Il contributo spese è previsto per le richieste manifestamente infondate o eccessive (art. 12, par. 5); il par. 3 disciplina la proroga, non una sospensione del termine." }
+      { "id": "a", "text": "può prorogare il termine di due mesi, informandone l'interessato, con i motivi del ritardo, entro un mese dal ricevimento della richiesta", "why_wrong": null },
+      { "id": "b", "text": "può prorogare il termine di sei settimane, informando l'interessato della proroga e dei motivi del ritardo entro otto settimane dalla richiesta", "why_wrong": "L'art. 12, par. 3, prevede una proroga di due mesi, comunicata entro un mese dal ricevimento della richiesta; otto settimane prorogabili di sei riguardano la consultazione preventiva (art. 36, par. 2)." },
+      { "id": "c", "text": "non può in alcun caso superare il termine di un mese, trascorso il quale la richiesta si intende respinta", "why_wrong": "L'art. 12, par. 3, ammette una proroga di due mesi, tenuto conto della complessità e del numero delle richieste; se non ottempera, il titolare informa l'interessato dei motivi (art. 12, par. 4)." },
+      { "id": "d", "text": "può sospendere il termine fino al versamento, da parte dell'interessato, di un contributo spese ragionevole per i costi amministrativi", "why_wrong": "L'art. 12, par. 3, consente solo la proroga di due mesi, non la sospensione del termine; il contributo spese ragionevole è ammesso solo per richieste manifestamente infondate o eccessive (art. 12, par. 5)." }
     ],
     "correct": "a",
     "explanation": "Per l'art. 12, par. 3, il termine di un mese può essere prorogato di due mesi, se necessario, tenuto conto della complessità e del numero delle richieste. Il titolare deve informare l'interessato della proroga e dei motivi del ritardo entro un mese dal ricevimento della richiesta.",
@@ -36,7 +37,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 12, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -44,10 +46,10 @@
     "subject": "privacy",
     "question": "Ai sensi del Regolamento (UE) 2016/679, se le richieste dell'interessato sono manifestamente infondate o eccessive, in particolare per il loro carattere ripetitivo, il titolare del trattamento:",
     "options": [
-      { "id": "a", "text": "può addebitare un contributo spese ragionevole o rifiutare di soddisfare la richiesta, e ha l'onere di dimostrarne il carattere manifestamente infondato o eccessivo", "why_wrong": null },
-      { "id": "b", "text": "può rifiutare di soddisfare la richiesta, e spetta all'interessato dimostrare che essa non è eccessiva", "why_wrong": "L'art. 12, par. 5, pone l'onere della prova a carico del titolare del trattamento." },
-      { "id": "c", "text": "deve comunque soddisfare la richiesta gratuitamente", "why_wrong": "La gratuità è la regola, ma per le richieste manifestamente infondate o eccessive l'art. 12, par. 5, consente l'addebito di un contributo o il rifiuto." },
-      { "id": "d", "text": "deve trasmettere la richiesta all'autorità di controllo, che decide se darvi seguito", "why_wrong": "L'art. 12, par. 5, attribuisce la scelta al titolare; non prevede la trasmissione della richiesta all'autorità di controllo." }
+      { "id": "a", "text": "può addebitare un contributo spese ragionevole o rifiutare di soddisfarla, e ha l'onere di dimostrarne il carattere manifestamente infondato o eccessivo", "why_wrong": null },
+      { "id": "b", "text": "può addebitare un contributo spese ragionevole o rifiutare di soddisfarla, ma spetta all'interessato dimostrare che la richiesta non è eccessiva", "why_wrong": "L'art. 12, par. 5, pone a carico del titolare del trattamento l'onere di dimostrare il carattere manifestamente infondato o eccessivo della richiesta." },
+      { "id": "c", "text": "deve comunque soddisfarla gratuitamente, poiché le comunicazioni e le azioni intraprese ai sensi degli articoli da 15 a 22 sono gratuite", "why_wrong": "La gratuità prevista dall'art. 12, par. 5, primo periodo, è la regola generale; per le richieste manifestamente infondate o eccessive lo stesso paragrafo consente di addebitare un contributo spese o di rifiutare." },
+      { "id": "d", "text": "deve trasmetterla all'autorità di controllo, alla quale spetta decidere se darvi seguito, respingerla oppure autorizzare l'addebito di un contributo spese ragionevole", "why_wrong": "L'art. 12, par. 5, attribuisce la scelta tra contributo spese e rifiuto al titolare; non prevede la trasmissione della richiesta all'autorità di controllo." }
     ],
     "correct": "a",
     "explanation": "L'art. 12, par. 5, stabilisce che informazioni e comunicazioni sono gratuite. Davanti a richieste manifestamente infondate o eccessive, il titolare può addebitare un contributo spese ragionevole oppure rifiutare di soddisfarle, ma deve dimostrarne il carattere manifestamente infondato o eccessivo.",
@@ -56,7 +58,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 12, par. 5", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -65,9 +68,9 @@
     "question": "Un Comune acquisisce da un altro ente pubblico i dati personali di alcuni cittadini, senza raccoglierli presso di loro; i dati non sono destinati alla comunicazione con gli interessati né ad altri destinatari. Ai sensi del Regolamento (UE) 2016/679, salvo le eccezioni previste, il Comune fornisce agli interessati le informazioni sul trattamento:",
     "options": [
       { "id": "a", "text": "entro un termine ragionevole dall'ottenimento dei dati, ma al più tardi entro un mese", "why_wrong": null },
-      { "id": "b", "text": "nel momento in cui i dati sono ottenuti", "why_wrong": "È la regola dell'art. 13, par. 1, per i dati raccolti presso l'interessato." },
-      { "id": "c", "text": "entro 72 ore dall'ottenimento dei dati", "why_wrong": "Le 72 ore riguardano la notifica di una violazione dei dati personali all'autorità di controllo (art. 33, par. 1)." },
-      { "id": "d", "text": "soltanto se l'interessato ne fa richiesta", "why_wrong": "L'art. 14 pone l'obbligo di informazione a carico del titolare indipendentemente da una richiesta, entro i termini del par. 3." }
+      { "id": "b", "text": "nel momento in cui i dati personali sono ottenuti, e comunque prima di iniziarne il trattamento", "why_wrong": "Il momento in cui i dati sono ottenuti è il termine previsto dall'art. 13, par. 1, per i dati raccolti presso l'interessato; per i dati non ottenuti presso l'interessato vale l'art. 14, par. 3." },
+      { "id": "c", "text": "senza ingiustificato ritardo e, ove possibile, entro 72 ore dall'ottenimento dei dati", "why_wrong": "Il termine «senza ingiustificato ritardo e, ove possibile, entro 72 ore» è quello per notificare una violazione all'autorità di controllo (art. 33, par. 1); per l'informativa vale l'art. 14, par. 3, lett. a)." },
+      { "id": "d", "text": "soltanto se l'interessato ne fa richiesta, entro un mese dal ricevimento della richiesta stessa", "why_wrong": "L'art. 14 pone l'obbligo di informazione a carico del titolare indipendentemente da una richiesta; il termine di un mese dal ricevimento della richiesta riguarda le richieste ai sensi degli articoli da 15 a 22 (art. 12, par. 3)." }
     ],
     "correct": "a",
     "explanation": "Quando i dati non sono ottenuti presso l'interessato, l'art. 14, par. 3, lett. a), impone di fornire le informazioni entro un termine ragionevole, al più tardi entro un mese. Se i dati servono a comunicare con l'interessato o sono destinati ad altri, le informazioni vanno date al più tardi alla prima comunicazione (lett. b) e c)).",
@@ -76,7 +79,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 14, par. 3, lett. a)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -104,10 +108,10 @@
     "subject": "privacy",
     "question": "Un cittadino chiede al Comune di cancellare i propri dati dai registri anagrafici, invocando il diritto alla cancellazione («diritto all'oblio»). Il Comune tratta quei dati per adempiere un obbligo legale e per eseguire un compito di interesse pubblico. Ai sensi del Regolamento (UE) 2016/679:",
     "options": [
-      { "id": "a", "text": "il diritto alla cancellazione non si applica nella misura in cui il trattamento sia necessario per adempiere l'obbligo legale o per eseguire il compito di interesse pubblico", "why_wrong": null },
-      { "id": "b", "text": "il Comune deve cancellare i dati senza ingiustificato ritardo", "why_wrong": "L'obbligo di cancellazione dell'art. 17, par. 1, non si applica nei casi del par. 3, tra cui l'adempimento di un obbligo legale e l'esecuzione di un compito di interesse pubblico." },
-      { "id": "c", "text": "il Comune deve cancellare i dati se il cittadino revoca il consenso", "why_wrong": "La revoca del consenso è motivo di cancellazione solo per i trattamenti basati sul consenso (art. 17, par. 1, lett. b)); qui il trattamento si fonda su un obbligo legale." },
-      { "id": "d", "text": "il Comune deve limitare il trattamento fino alla decisione dell'autorità di controllo", "why_wrong": "La limitazione del trattamento ha presupposti propri (art. 18, par. 1) e non prevede l'attesa di una decisione dell'autorità di controllo." }
+      { "id": "a", "text": "il diritto alla cancellazione non si applica, nella misura in cui il trattamento sia necessario per adempiere l'obbligo legale o eseguire il compito di interesse pubblico", "why_wrong": null },
+      { "id": "b", "text": "il Comune deve cancellare i dati senza ingiustificato ritardo, perché il diritto all'oblio prevale sull'obbligo legale e sul compito di interesse pubblico", "why_wrong": "L'obbligo di cancellazione dell'art. 17, par. 1, non si applica nei casi del par. 3, tra cui l'adempimento di un obbligo legale e l'esecuzione di un compito di interesse pubblico (lett. b))." },
+      { "id": "c", "text": "il Comune deve cancellare i dati se il cittadino revoca il consenso, anche quando sussiste un altro fondamento giuridico per il trattamento", "why_wrong": "La revoca del consenso è motivo di cancellazione solo se non sussiste altro fondamento giuridico per il trattamento (art. 17, par. 1, lett. b)); qui il trattamento si fonda su un obbligo legale." },
+      { "id": "d", "text": "il Comune deve sospendere il trattamento e trasmettere la richiesta all'autorità di controllo, che decide sulla cancellazione entro un mese", "why_wrong": "L'art. 17, par. 3, lett. b), esclude il diritto alla cancellazione quando il trattamento è necessario per un obbligo legale o un compito di interesse pubblico; l'art. 17 non prevede alcuna decisione dell'autorità di controllo." }
     ],
     "correct": "a",
     "explanation": "L'art. 17, par. 3, lett. b), esclude il diritto alla cancellazione nella misura in cui il trattamento sia necessario per adempiere un obbligo legale o per eseguire un compito svolto nel pubblico interesse o nell'esercizio di pubblici poteri. È il caso dei dati anagrafici trattati da un Comune.",
@@ -116,7 +120,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 17, par. 3, lett. b)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -165,9 +170,9 @@
     "question": "Un cittadino si oppone, per motivi connessi alla sua situazione particolare, al trattamento dei propri dati che il Comune effettua per l'esecuzione di un compito di interesse pubblico. Ai sensi del Regolamento (UE) 2016/679, il Comune:",
     "options": [
       { "id": "a", "text": "si astiene dal trattare ulteriormente i dati, salvo che dimostri motivi legittimi cogenti prevalenti sugli interessi, i diritti e le libertà dell'interessato, o l'esigenza di difendere un diritto in sede giudiziaria", "why_wrong": null },
-      { "id": "b", "text": "può proseguire il trattamento, perché l'opposizione riguarda solo i trattamenti basati sul legittimo interesse", "why_wrong": "L'art. 21, par. 1, riguarda i trattamenti fondati sull'art. 6, par. 1, lettere e) o f), quindi anche quelli per compiti di interesse pubblico." },
-      { "id": "c", "text": "deve cessare immediatamente il trattamento, senza poter far valere motivi prevalenti", "why_wrong": "La cessazione automatica è prevista per l'opposizione al marketing diretto (art. 21, par. 3); nel caso del par. 1 il titolare può dimostrare motivi legittimi cogenti." },
-      { "id": "d", "text": "deve chiedere all'autorità di controllo l'autorizzazione a proseguire il trattamento", "why_wrong": "L'art. 21, par. 1, pone a carico del titolare la dimostrazione dei motivi legittimi cogenti, senza alcuna autorizzazione dell'autorità di controllo." }
+      { "id": "b", "text": "può proseguire il trattamento, perché il diritto di opposizione per motivi connessi alla situazione particolare riguarda solo i trattamenti basati sul legittimo interesse", "why_wrong": "Il diritto di opposizione dell'art. 21, par. 1, riguarda i trattamenti fondati sull'art. 6, par. 1, lettere e) o f): non solo il legittimo interesse, ma anche l'esecuzione di un compito di interesse pubblico." },
+      { "id": "c", "text": "deve cessare immediatamente e definitivamente il trattamento, senza poter far valere motivi legittimi cogenti prevalenti sui diritti dell'interessato né esigenze di accertamento, esercizio o difesa di un diritto in sede giudiziaria", "why_wrong": "La cessazione senza eccezioni è prevista per l'opposizione al marketing diretto (art. 21, par. 3); nel caso del par. 1 il titolare può dimostrare motivi legittimi cogenti o esigenze di difesa in giudizio." },
+      { "id": "d", "text": "può proseguire il trattamento solo previa autorizzazione dell'autorità di controllo, alla quale deve dimostrare la prevalenza dei propri motivi legittimi cogenti", "why_wrong": "L'art. 21, par. 1, richiede che il titolare dimostri i motivi legittimi cogenti prevalenti, ma non prevede alcuna autorizzazione preventiva dell'autorità di controllo per proseguire il trattamento." }
     ],
     "correct": "a",
     "explanation": "L'art. 21, par. 1, consente di opporsi in qualsiasi momento, per motivi connessi alla situazione particolare, ai trattamenti basati sull'art. 6, par. 1, lettere e) (compito di interesse pubblico) o f). Il titolare si astiene dal trattamento, salvo che dimostri motivi legittimi cogenti prevalenti o l'esigenza di accertare, esercitare o difendere un diritto in sede giudiziaria.",
@@ -176,7 +181,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 21, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -184,10 +190,10 @@
     "subject": "privacy",
     "question": "Ai sensi del Regolamento (UE) 2016/679, l'interessato ha il diritto di non essere sottoposto a una decisione:",
     "options": [
-      { "id": "a", "text": "basata unicamente sul trattamento automatizzato, compresa la profilazione, che produca effetti giuridici che lo riguardano o che incida in modo analogo significativamente sulla sua persona", "why_wrong": null },
-      { "id": "b", "text": "adottata con l'ausilio di strumenti informatici, anche se con l'intervento di una persona", "why_wrong": "L'art. 22, par. 1, riguarda solo le decisioni basate «unicamente» sul trattamento automatizzato." },
-      { "id": "c", "text": "basata su dati pseudonimizzati", "why_wrong": "L'art. 22, par. 1, non riguarda la pseudonimizzazione, ma le decisioni basate unicamente sul trattamento automatizzato." },
-      { "id": "d", "text": "basata su un trattamento automatizzato, anche se priva di effetti giuridici o di effetti analoghi significativi", "why_wrong": "L'art. 22, par. 1, presuppone che la decisione produca effetti giuridici o incida in modo analogo significativamente sull'interessato." }
+      { "id": "a", "text": "basata unicamente sul trattamento automatizzato, compresa la profilazione, che produca effetti giuridici che lo riguardano o incida in modo analogo significativamente sulla sua persona", "why_wrong": null },
+      { "id": "b", "text": "adottata con l'ausilio di strumenti informatici, anche con l'intervento di una persona, che produca effetti giuridici che lo riguardano o incida significativamente sulla sua persona", "why_wrong": "L'art. 22, par. 1, riguarda solo le decisioni basate «unicamente» sul trattamento automatizzato; una decisione con l'intervento di una persona non vi rientra, anche se produce effetti giuridici." },
+      { "id": "c", "text": "basata su categorie particolari di dati personali, anche se adottata con l'intervento umano e priva di effetti giuridici nei suoi confronti", "why_wrong": "L'art. 22, par. 1, riguarda le decisioni basate unicamente sul trattamento automatizzato che producono effetti giuridici o incidono in modo analogo significativamente sull'interessato; le categorie particolari di dati sono considerate dal par. 4 per le decisioni del par. 2." },
+      { "id": "d", "text": "basata su un trattamento automatizzato, compresa la profilazione, anche quando non produca effetti giuridici che lo riguardano né incida in modo analogo significativamente sulla sua persona", "why_wrong": "L'art. 22, par. 1, non riguarda ogni decisione automatizzata: presuppone che essa produca effetti giuridici o incida in modo analogo significativamente sull'interessato." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, par. 1, vieta di sottoporre l'interessato a decisioni basate unicamente sul trattamento automatizzato, profilazione compresa, che producano effetti giuridici o incidano in modo analogo significativamente sulla sua persona. Il par. 2 prevede eccezioni (contratto, autorizzazione di legge, consenso esplicito).",
@@ -196,7 +202,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 22, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

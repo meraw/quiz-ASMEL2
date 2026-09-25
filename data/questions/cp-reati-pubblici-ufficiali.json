@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "dal solo pubblico ufficiale; l'incaricato di un pubblico servizio che si appropria del denaro risponde di indebita destinazione",
-        "why_wrong": "L'art. 314 indica come autori sia il pubblico ufficiale sia l'incaricato di un pubblico servizio."
+        "text": "dal solo pubblico ufficiale che si appropria del denaro o della cosa mobile altrui di cui ha il possesso per ragione del suo ufficio; l'incaricato di un pubblico servizio risponde di indebita destinazione",
+        "why_wrong": "L'art. 314 punisce allo stesso modo il pubblico ufficiale e l'incaricato di un pubblico servizio che si appropriano; l'indebita destinazione (art. 314-bis) riguarda la destinazione a un uso diverso, non l'appropriazione."
       },
       {
         "id": "b",
-        "text": "da chiunque, anche estraneo alla pubblica amministrazione, si appropri di denaro pubblico",
-        "why_wrong": "La formula «chiunque, estraneo alla pubblica amministrazione» è quella della malversazione (art. 316-bis); il peculato riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio."
+        "text": "da chiunque, anche estraneo alla pubblica amministrazione, si appropri del denaro o della cosa mobile altrui ottenuti dallo Stato o da altro ente pubblico",
+        "why_wrong": "Il riferimento a «chiunque, estraneo alla pubblica amministrazione» e alle erogazioni ottenute dallo Stato o da altro ente pubblico richiama la malversazione (art. 316-bis); autori del peculato sono solo il pubblico ufficiale e l'incaricato di un pubblico servizio."
       },
       {
         "id": "c",
-        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio che si appropria del denaro o della cosa mobile altrui di cui ha il possesso o la disponibilità per ragione del suo ufficio o servizio",
+        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio che si appropria del denaro o della cosa mobile altrui di cui ha il possesso o la disponibilità per ragione dell'ufficio o servizio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio, anche quando il possesso del denaro non deriva dall'ufficio o dal servizio",
-        "why_wrong": "L'art. 314 richiede che il possesso o la disponibilità siano avuti «per ragione del suo ufficio o servizio»."
+        "text": "dal pubblico ufficiale o dall'incaricato di un pubblico servizio che si appropria del denaro o della cosa mobile altrui, anche quando il possesso non deriva dall'ufficio o dal servizio",
+        "why_wrong": "L'appropriazione da parte del pubblico ufficiale non basta: l'art. 314 richiede che il possesso o la disponibilità del denaro o della cosa siano avuti «per ragione del suo ufficio o servizio»."
       }
     ],
     "correct": "c",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -139,23 +140,23 @@
     "options": [
       {
         "id": "a",
-        "text": "si appropri del denaro o della cosa mobile altrui di cui ha il possesso per ragione del suo ufficio",
-        "why_wrong": "L'appropriazione è la condotta del peculato (art. 314); l'art. 314-bis si applica «fuori dei casi previsti dall'articolo 314»."
+        "text": "si appropri del denaro o della cosa mobile altrui di cui ha il possesso o la disponibilità per ragione del suo ufficio o servizio, anche al solo scopo di farne un uso momentaneo e restituirla immediatamente dopo l'uso",
+        "why_wrong": "L'appropriazione, anche a fine di uso momentaneo, è la condotta del peculato (art. 314, commi 1 e 2); l'art. 314-bis si applica «fuori dei casi previsti dall'articolo 314»."
       },
       {
         "id": "b",
-        "text": "destini il denaro a un uso diverso da quello previsto da atti amministrativi che gli lasciano ampi margini di discrezionalità",
-        "why_wrong": "L'art. 314-bis richiede la violazione di specifiche disposizioni di legge o di atti aventi forza di legge «dai quali non residuano margini di discrezionalità»."
+        "text": "destini il denaro o la cosa mobile a un uso diverso da quello previsto da atti amministrativi generali che gli lasciano ampi margini di discrezionalità, anche senza procurare intenzionalmente a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto",
+        "why_wrong": "L'art. 314-bis richiede la violazione di specifiche disposizioni di legge o di atti aventi forza di legge «dai quali non residuano margini di discrezionalità» e che l'agente procuri intenzionalmente un ingiusto vantaggio patrimoniale o un danno ingiusto."
       },
       {
         "id": "c",
-        "text": "destini il denaro o la cosa mobile a un uso diverso da quello previsto da specifiche disposizioni di legge o da atti aventi forza di legge che non lasciano margini di discrezionalità, procurando intenzionalmente a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto",
+        "text": "destini il denaro o la cosa a un uso diverso da quello previsto da specifiche disposizioni di legge o atti aventi forza di legge senza margini di discrezionalità, procurando intenzionalmente a sé o ad altri un ingiusto vantaggio patrimoniale o ad altri un danno ingiusto",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "riceva o ritenga indebitamente denaro giovandosi dell'errore altrui",
-        "why_wrong": "È la condotta del peculato mediante profitto dell'errore altrui (art. 316)."
+        "text": "nell'esercizio delle funzioni o del servizio, giovandosi dell'errore altrui, riceva o ritenga indebitamente, per sé o per un terzo, denaro o altra utilità",
+        "why_wrong": "Ricevere o ritenere indebitamente denaro o altra utilità giovandosi dell'errore altrui è la condotta del peculato mediante profitto dell'errore altrui (art. 316), non la destinazione a un uso diverso richiesta dall'art. 314-bis."
       }
     ],
     "correct": "c",
@@ -173,7 +174,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -271,22 +273,22 @@
     "options": [
       {
         "id": "a",
-        "text": "il pubblico ufficiale che destina il denaro pubblico di cui ha la disponibilità a un uso diverso da quello previsto dalla legge",
-        "why_wrong": "È la condotta dell'indebita destinazione di denaro o cose mobili (art. 314-bis), propria del pubblico ufficiale o dell'incaricato di un pubblico servizio."
+        "text": "il pubblico ufficiale o l'incaricato di un pubblico servizio che destina il denaro pubblico di cui ha la disponibilità a un uso diverso da quello previsto da specifiche disposizioni di legge",
+        "why_wrong": "Destinare il denaro a un uso diverso da quello previsto da specifiche disposizioni di legge è la condotta dell'art. 314-bis, che riguarda il pubblico ufficiale o l'incaricato di un pubblico servizio; la malversazione riguarda chi è estraneo alla pubblica amministrazione."
       },
       {
         "id": "b",
-        "text": "chiunque consegue indebitamente contributi pubblici mediante dichiarazioni o documenti falsi",
-        "why_wrong": "È la condotta dell'indebita percezione di erogazioni pubbliche (art. 316-ter)."
+        "text": "chiunque consegue indebitamente, per sé o per altri, contributi, sovvenzioni o finanziamenti pubblici mediante dichiarazioni o documenti falsi o mediante l'omissione di informazioni dovute",
+        "why_wrong": "Conseguire indebitamente erogazioni mediante dichiarazioni o documenti falsi o omissione di informazioni dovute è l'indebita percezione (art. 316-ter); la malversazione punisce chi, ottenute le erogazioni, non le destina alle finalità previste."
       },
       {
         "id": "c",
-        "text": "il pubblico ufficiale che si appropria dei contributi pubblici di cui ha il possesso per ragione del suo ufficio",
-        "why_wrong": "È la condotta del peculato (art. 314)."
+        "text": "il pubblico ufficiale o l'incaricato di un pubblico servizio che si appropria dei contributi pubblici di cui ha il possesso o la disponibilità per ragione del suo ufficio o servizio",
+        "why_wrong": "L'appropriazione da parte del pubblico ufficiale o dell'incaricato di un pubblico servizio di beni posseduti per ragione dell'ufficio è peculato (art. 314); la malversazione riguarda chi è estraneo alla pubblica amministrazione."
       },
       {
         "id": "d",
-        "text": "chiunque, estraneo alla pubblica amministrazione, avendo ottenuto contributi, sovvenzioni, finanziamenti o altre erogazioni pubbliche destinati a una o più finalità, non li destina alle finalità previste",
+        "text": "chiunque, estraneo alla pubblica amministrazione, avendo ottenuto contributi, sovvenzioni o altre erogazioni pubbliche destinati a una o più finalità, non li destina alle finalità previste",
         "why_wrong": null
       }
     ],
@@ -305,7 +307,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -588,23 +591,23 @@
     "options": [
       {
         "id": "a",
-        "text": "L'art. 318 punisce solo l'accettazione della promessa; l'art. 319 solo la ricezione effettiva del denaro",
-        "why_wrong": "Entrambe le norme puniscono sia chi riceve denaro o altra utilità sia chi ne accetta la promessa."
+        "text": "L'art. 318 punisce solo il pubblico ufficiale che accetta la promessa di denaro o altra utilità; l'art. 319 solo quello che riceve effettivamente il denaro per omettere o ritardare un atto",
+        "why_wrong": "Sia l'art. 318 sia l'art. 319 puniscono tanto la ricezione del denaro o altra utilità quanto l'accettazione della promessa; la differenza sta nello scopo della dazione."
       },
       {
         "id": "b",
-        "text": "Nell'art. 318 il pubblico ufficiale riceve denaro o ne accetta la promessa per l'esercizio delle sue funzioni o dei suoi poteri; nell'art. 319 per omettere o ritardare un atto del suo ufficio o per compiere un atto contrario ai doveri d'ufficio",
+        "text": "Nell'art. 318 il denaro è ricevuto o promesso per l'esercizio delle funzioni o dei poteri; nell'art. 319 per omettere o ritardare un atto dell'ufficio o per compiere un atto contrario ai doveri d'ufficio",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Nell'art. 318 il denaro è ricevuto per un terzo; nell'art. 319 per sé",
-        "why_wrong": "Entrambe le norme prevedono la ricezione «per sé o per un terzo»."
+        "text": "Nell'art. 318 il denaro o altra utilità è ricevuto soltanto per un terzo; nell'art. 319 il pubblico ufficiale lo riceve soltanto per sé, per compiere un atto contrario ai doveri d'ufficio",
+        "why_wrong": "Sia l'art. 318 sia l'art. 319 prevedono la ricezione «per sé o per un terzo»; la differenza sta nello scopo della dazione."
       },
       {
         "id": "d",
-        "text": "L'art. 318 riguarda l'incaricato di un pubblico servizio; l'art. 319 il pubblico ufficiale",
-        "why_wrong": "Entrambe le norme riguardano il pubblico ufficiale; l'art. 320 ne estende l'applicazione all'incaricato di un pubblico servizio."
+        "text": "L'art. 318 riguarda soltanto l'incaricato di un pubblico servizio che riceve denaro per l'esercizio delle funzioni; l'art. 319 soltanto il pubblico ufficiale che compie un atto contrario ai doveri d'ufficio",
+        "why_wrong": "Gli artt. 318 e 319 riguardano entrambi il pubblico ufficiale; è l'art. 320 a estenderne le disposizioni all'incaricato di un pubblico servizio."
       }
     ],
     "correct": "b",
@@ -626,7 +629,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -724,23 +728,23 @@
     "options": [
       {
         "id": "a",
-        "text": "il fatto non è punibile, perché la dazione è successiva al compimento dell'atto",
-        "why_wrong": "L'art. 319 punisce anche chi riceve denaro «per aver compiuto» un atto contrario ai doveri di ufficio."
+        "text": "il fatto non è punibile ai sensi dell'art. 319, perché la dazione del denaro è successiva al compimento dell'atto contrario ai doveri",
+        "why_wrong": "La dazione successiva non esclude la punibilità: l'art. 319 punisce anche il pubblico ufficiale che riceve denaro «per aver compiuto» un atto contrario ai doveri di ufficio."
       },
       {
         "id": "b",
-        "text": "il fatto integra soltanto l'istigazione alla corruzione",
-        "why_wrong": "L'art. 322 si applica qualora l'offerta o la promessa non sia accettata; qui il denaro è stato ricevuto."
+        "text": "il fatto integra soltanto l'istigazione alla corruzione, punita con la pena dell'art. 319 ridotta di un terzo",
+        "why_wrong": "L'istigazione alla corruzione (art. 322) presuppone che l'offerta o la promessa non sia accettata; qui il pubblico ufficiale ha ricevuto il denaro, fatto previsto dall'art. 319."
       },
       {
         "id": "c",
-        "text": "il fatto rientra nell'art. 319, che punisce anche il pubblico ufficiale che riceve denaro per aver compiuto un atto contrario ai doveri di ufficio",
+        "text": "il fatto rientra nell'art. 319, che punisce anche chi riceve denaro per aver compiuto un atto contrario ai doveri di ufficio",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "il fatto è punibile solo se l'atto è stato ritardato od omesso",
-        "why_wrong": "L'art. 319 riguarda anche il compimento di un atto contrario ai doveri di ufficio."
+        "text": "il fatto rientra nell'art. 319 solo se l'atto del suo ufficio è stato omesso o ritardato, non se è stato compiuto",
+        "why_wrong": "L'art. 319 riguarda anche chi riceve denaro per aver compiuto un atto contrario ai doveri di ufficio."
       }
     ],
     "correct": "c",
@@ -758,7 +762,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -948,23 +953,23 @@
     "options": [
       {
         "id": "a",
-        "text": "soggiace alla pena prevista dal primo comma per chi offre denaro non accettato per l'esercizio delle funzioni",
+        "text": "soggiace alla stessa pena prevista dal primo comma dell'art. 322",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "non è punibile se il privato rifiuta",
-        "why_wrong": "Il terzo comma dell'art. 322 punisce la sollecitazione del pubblico ufficiale in quanto tale."
+        "text": "non è punibile se il privato rifiuta la promessa o la dazione sollecitata",
+        "why_wrong": "Il rifiuto del privato non esclude la punibilità: l'art. 322, terzo comma, punisce il pubblico ufficiale per il solo fatto di sollecitare la promessa o la dazione."
       },
       {
         "id": "c",
-        "text": "risponde sempre di concussione",
-        "why_wrong": "L'art. 317 richiede che il pubblico ufficiale costringa taluno a dare o promettere, non che si limiti a sollecitare."
+        "text": "risponde sempre di concussione, anche se non costringe il privato a dare o promettere",
+        "why_wrong": "La concussione (art. 317) richiede che il pubblico ufficiale costringa taluno a dare o promettere; la semplice sollecitazione è punita dall'art. 322, terzo comma."
       },
       {
         "id": "d",
-        "text": "è punito solo se la sollecitazione riguarda un atto contrario ai doveri d'ufficio",
-        "why_wrong": "Il terzo comma riguarda la sollecitazione per l'esercizio delle funzioni o dei poteri; quella per le finalità dell'art. 319 è prevista dal quarto comma."
+        "text": "soggiace alla pena prevista dal secondo comma dell'art. 322, stabilita per gli atti contrari ai doveri",
+        "why_wrong": "La pena del secondo comma si applica, per il quarto comma, alla sollecitazione per le finalità dell'art. 319; per la sollecitazione relativa all'esercizio delle funzioni o dei poteri il terzo comma richiama la pena del primo comma."
       }
     ],
     "correct": "a",
@@ -982,7 +987,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -992,13 +998,13 @@
     "options": [
       {
         "id": "a",
-        "text": "sono sempre assimilati ai pubblici ufficiali",
-        "why_wrong": "Il terzo comma li assimila ai pubblici ufficiali solo qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi."
+        "text": "sono sempre assimilati ai pubblici ufficiali, qualunque siano le funzioni esercitate presso le istituzioni europee",
+        "why_wrong": "L'art. 322-bis, terzo comma, non prevede un'assimilazione indipendente dalle funzioni: li assimila ai pubblici ufficiali solo se esercitano funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi."
       },
       {
         "id": "b",
-        "text": "sono sempre assimilati agli incaricati di un pubblico servizio",
-        "why_wrong": "Il terzo comma li assimila ai pubblici ufficiali qualora esercitino funzioni corrispondenti."
+        "text": "sono assimilati agli incaricati di un pubblico servizio, anche qualora esercitino funzioni corrispondenti a quelle dei pubblici ufficiali",
+        "why_wrong": "Se esercitano funzioni corrispondenti a quelle dei pubblici ufficiali, l'art. 322-bis, terzo comma, li assimila ai pubblici ufficiali, non agli incaricati di un pubblico servizio."
       },
       {
         "id": "c",
@@ -1007,8 +1013,8 @@
       },
       {
         "id": "d",
-        "text": "non sono soggetti ai delitti dei pubblici ufficiali previsti dal codice penale",
-        "why_wrong": "Il primo comma estende espressamente a queste persone le disposizioni degli artt. 314, 314-bis, 316 e da 317 a 320, oltre all'art. 322, terzo e quarto comma."
+        "text": "non sono assimilati né ai pubblici ufficiali né agli incaricati di un pubblico servizio, e i delitti dei pubblici ufficiali non si applicano nei loro confronti",
+        "why_wrong": "Il primo comma estende a queste persone le disposizioni degli artt. 314, 314-bis, 316, da 317 a 320 e 322, terzo e quarto comma; il terzo comma le assimila ai pubblici ufficiali o agli incaricati di un pubblico servizio."
       }
     ],
     "correct": "c",
@@ -1030,7 +1036,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1085,8 +1092,8 @@
     "options": [
       {
         "id": "a",
-        "text": "entro quattro mesi dal momento in cui ha avuto notizia delle indagini nei suoi confronti",
-        "why_wrong": "Il primo comma richiede che la denuncia avvenga prima di avere notizia delle indagini e comunque entro quattro mesi dalla commissione del fatto."
+        "text": "entro quattro mesi dal momento in cui ha avuto notizia che nei suoi confronti sono svolte indagini per quei fatti",
+        "why_wrong": "Il termine non decorre dalla notizia delle indagini: l'art. 323-ter, primo comma, richiede che la denuncia preceda tale notizia e avvenga entro quattro mesi dalla commissione del fatto."
       },
       {
         "id": "b",
@@ -1095,13 +1102,13 @@
       },
       {
         "id": "c",
-        "text": "entro un anno dalla commissione del fatto, anche dopo l'avvio delle indagini",
-        "why_wrong": "Il primo comma fissa il termine di quattro mesi dalla commissione del fatto e richiede che la denuncia preceda la notizia delle indagini."
+        "text": "entro quattro mesi dalla commissione del fatto, anche dopo aver avuto notizia che nei suoi confronti sono svolte indagini in relazione a tali fatti",
+        "why_wrong": "Il primo comma richiede che la denuncia avvenga prima di avere notizia delle indagini, oltre che entro quattro mesi dalla commissione del fatto."
       },
       {
         "id": "d",
-        "text": "in qualunque momento, purché prima della sentenza di primo grado",
-        "why_wrong": "Il primo comma richiede che la denuncia preceda la notizia delle indagini e avvenga entro quattro mesi dalla commissione del fatto."
+        "text": "prima di avere notizia che nei suoi confronti sono svolte indagini per quei fatti e, comunque, entro un anno dalla commissione del fatto",
+        "why_wrong": "Il primo comma fissa il termine di quattro mesi, non di un anno, dalla commissione del fatto."
       }
     ],
     "correct": "b",
@@ -1119,7 +1126,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1129,23 +1137,23 @@
     "options": [
       {
         "id": "a",
-        "text": "risarcire integralmente il danno all'amministrazione di appartenenza",
-        "why_wrong": "L'art. 323-ter subordina la non punibilità alla messa a disposizione dell'utilità percepita (o di una somma equivalente) o all'indicazione del beneficiario effettivo, non al risarcimento del danno."
+        "text": "risarcire integralmente il danno cagionato all'amministrazione di appartenenza ovvero, in caso di impossibilità, versarle una somma di denaro di valore equivalente al prezzo del reato",
+        "why_wrong": "L'art. 323-ter, secondo comma, subordina la non punibilità alla messa a disposizione dell'utilità percepita (o di una somma equivalente) o all'indicazione del beneficiario effettivo, non al risarcimento del danno."
       },
       {
         "id": "b",
-        "text": "dimettersi dall'incarico ricoperto",
-        "why_wrong": "L'art. 323-ter non prevede questa condizione."
+        "text": "dimettersi dall'incarico ricoperto e astenersi da ogni ulteriore attività nel procedimento cui si riferisce il fatto denunciato",
+        "why_wrong": "L'art. 323-ter non prevede questa condizione; richiede la messa a disposizione dell'utilità percepita o l'indicazione del beneficiario effettivo."
       },
       {
         "id": "c",
-        "text": "mettere a disposizione l'utilità percepita o, se impossibile, una somma di denaro di valore equivalente, ovvero indicare elementi utili e concreti per individuarne il beneficiario effettivo",
+        "text": "mettere a disposizione l'utilità percepita o, se impossibile, una somma di denaro equivalente, ovvero indicare elementi utili e concreti per individuarne il beneficiario effettivo",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "ottenere il consenso del privato che gli ha dato il denaro",
-        "why_wrong": "L'art. 323-ter non prevede questa condizione; richiede la messa a disposizione dell'utilità percepita o l'indicazione del beneficiario effettivo."
+        "text": "ottenere il consenso scritto del privato che gli ha dato il denaro alla presentazione della denuncia all'autorità giudiziaria",
+        "why_wrong": "L'art. 323-ter non subordina la non punibilità al consenso del privato; il secondo comma richiede la messa a disposizione dell'utilità percepita o di una somma equivalente, ovvero l'indicazione del beneficiario effettivo."
       }
     ],
     "correct": "c",
@@ -1163,7 +1171,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
