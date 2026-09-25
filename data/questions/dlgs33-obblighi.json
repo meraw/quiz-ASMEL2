@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -92,7 +92,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -140,7 +140,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -184,7 +184,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -228,7 +228,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -272,7 +272,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 4 non superato: il why_wrong dell'opzione a afferma che il 31 gennaio è il termine per il Piano triennale per la prevenzione della corruzione (art. 1, comma 8, L. 190/2012), ma il file sorgente non contiene alcun riferimento al «31 gennaio» né a tale termine, quindi l'affermazione non è verificabile sul file. Suggerimento: riformulare il why_wrong in modo neutro, ad es. «L'art. 23, comma 1, prevede un aggiornamento ogni sei mesi, non annuale».",
     "no_shuffle": false
   },
   {
@@ -316,7 +317,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 3 e 5 non superati: l'opzione b («è condizione di efficacia solo per il secondo contributo») è difendibile. L'art. 26, comma 3, riferisce la condizione di efficacia ai «provvedimenti che dispongano concessioni e attribuzioni di importo complessivo superiore a mille euro nel corso dell'anno solare al medesimo beneficiario»: al momento della concessione del primo contributo (600 euro) la soglia complessiva non era ancora superata, ed è solo con il secondo che il totale supera mille euro; il file non chiarisce se la condizione operi retroattivamente sul primo provvedimento. Suggerimento: chiedere se la pubblicazione sia condizione di efficacia del secondo provvedimento, oppure prevedere un unico provvedimento o due concessioni contestuali.",
     "no_shuffle": false
   },
   {
@@ -360,7 +362,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -404,7 +406,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -448,7 +450,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -492,7 +494,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 non superato: l'evidence riporta solo «svolge, di norma, le funzioni di Responsabile per la trasparenza, di seguito «Responsabile», e il suo nominativo è indicato nel ((Piano triennale per la prevenzione della corruzione))» senza il soggetto, che è proprio il contenuto della risposta corretta. Il file recita: «All'interno di ogni amministrazione il responsabile per la prevenzione della corruzione, di cui all'articolo 1, comma 7, della legge 6 novembre 2012, n. 190 [...], svolge, di norma, le funzioni di Responsabile per la trasparenza». Suggerimento: estendere l'evidence includendo il soggetto (la parte prima del link normattiva può essere citata come evidence separata).",
     "no_shuffle": false
   },
   {
@@ -536,7 +539,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -580,7 +583,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -628,7 +631,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -672,7 +675,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 non superato: la risposta corretta ha due parti (illecito disciplinare e segnalazione all'ufficio per i procedimenti disciplinari), ma l'evidence copre solo la prima: «Il mancato rispetto dell'obbligo di pubblicazione di cui al comma 1 costituisce illecito disciplinare.» La seconda parte è nel periodo successivo del file: «L'Autorità nazionale anticorruzione segnala l'illecito all'ufficio di cui all'articolo 55-bis, comma 4, del decreto legislativo 30 marzo 2001, n. 165 [...], dell'amministrazione interessata ai fini dell'attivazione del procedimento disciplinare». Suggerimento: aggiungere questo periodo come seconda evidence.",
     "no_shuffle": false
   },
   {
@@ -716,7 +720,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -760,7 +764,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -804,7 +808,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -848,7 +852,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -892,7 +896,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
