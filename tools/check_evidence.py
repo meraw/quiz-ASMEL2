@@ -79,6 +79,13 @@ TREATY_RE = re.compile(r"^TRATTATO (SULL'UNIONE EUROPEA|SUL FUNZIONAMENTO DELL'U
                        r" \(VERSIONE CONSOLIDATA\)\s*$")
 TREATIES = {"SULL'UNIONE EUROPEA": 'TUE', "SUL FUNZIONAMENTO DELL'UNIONE EUROPEA": 'TFUE'}
 END_RE = re.compile(r'^\s*(?:Il presente decreto, munito del sigillo dello Stato|Fatto a \S.*, il )')
+# A code approved by the decree and published as its annex after the closing
+# formula (e.g. the Codice del turismo, "ALLEGATO 1 (previsto dall'articolo 1)"
+# of d.lgs. 79/2011): reading resumes there, and its articles are headed
+# "ART. 4". Their numbers replace those of the approving decree.
+ANNEX_RE = re.compile(r'^\s*ALLEGATO 1\s*$')
+ANNEX_NOTE_RE = re.compile(r"^\s*\(previsto dall'articolo 1\)\s*$")
+ANNEX_ARTICLE_RE = re.compile(r'^\s*ART\.\s+(\d+' + SUFFIX + r')\.?\s*$')
 # The Costituzione: recognised by its title line; its articles end before the
 # transitional provisions, and its headings are not part of any article
 CONSTITUTION_RE = re.compile(r'^COSTITUZIONE DELLA REPUBBLICA ITALIANA\s*$')
@@ -196,9 +203,25 @@ def parse_law(path):
             if commas:
                 law[article] = commas
 
-    for line in lines:
+    ended, annex = False, False
+    for i, line in enumerate(lines):
+        if ended:
+            # After the closing formula, only an annexed code is read
+            if ANNEX_RE.match(line):
+                following = next((n for n in lines[i + 1:] if n.strip()), '')
+                if ANNEX_NOTE_RE.match(following):
+                    ended, annex = False, True
+            continue
         if END_RE.match(line) or (constitution and CONSTITUTION_END_RE.match(line)):
-            break
+            if annex:
+                break
+            flush()
+            flush_point()
+            end_article()
+            article, comma, buf, raw = None, None, [], []
+            point, pbuf = None, []
+            ended = True
+            continue
         t = TREATY_RE.match(line)
         if t:
             flush()
@@ -208,7 +231,7 @@ def parse_law(path):
             point, pbuf = None, []
             treaty = TREATIES[t.group(1)]
             continue
-        m = ARTICLE_RE.match(line)
+        m = ARTICLE_RE.match(line) or (ANNEX_ARTICLE_RE.match(line) if annex else None)
         if m:
             flush()
             flush_point()

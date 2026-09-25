@@ -1,0 +1,234 @@
+[
+  {
+    "id": "tur-cin-001",
+    "subject": "normativa-turistica",
+    "question": "Ai sensi dell'art. 13-ter del d.l. 145/2023, il codice identificativo nazionale (CIN) delle unità immobiliari destinate a locazioni turistiche o brevi e delle strutture turistico-ricettive è assegnato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dal comune nel cui territorio si trova l'immobile, tramite lo sportello unico per le attività produttive",
+        "why_wrong": "Al SUAP del comune si presenta la SCIA per la locazione in forma imprenditoriale (comma 8); il CIN è assegnato dal Ministero del turismo (comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "Dall'Agenzia delle entrate, al momento della registrazione del contratto",
+        "why_wrong": "L'Agenzia delle entrate, con la Guardia di finanza, svolge analisi del rischio contro l'evasione (comma 12); non assegna il CIN."
+      },
+      {
+        "id": "c",
+        "text": "Dal Ministero del turismo, tramite apposita procedura automatizzata, che detiene e gestisce la relativa banca dati",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Dalla questura, in base agli obblighi del testo unico delle leggi di pubblica sicurezza",
+        "why_wrong": "Il comma 6 richiama gli obblighi dell'art. 109 TULPS, ma l'assegnazione del CIN spetta al Ministero del turismo (comma 1)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 1 prevede che il Ministero del turismo, salvo quanto previsto dal comma 3, assegni tramite apposita procedura automatizzata un CIN alle unità immobiliari ad uso abitativo destinate a locazioni per finalità turistiche o a locazioni brevi e alle strutture turistico-ricettive alberghiere ed extralberghiere, e detenga e gestisca la relativa banca dati.",
+    "evidence": [
+      {
+        "ref": "art. 13-ter, comma 1",
+        "text": "il Ministero del turismo, salvo quanto previsto dal comma 3, assegna, tramite apposita procedura automatizzata, un codice identificativo nazionale (CIN) alle unità immobiliari ad uso abitativo destinate a contratti di locazione per finalità turistiche"
+      }
+    ],
+    "source": {
+      "act": "D.L. 145/2023",
+      "article": "art. 13-ter, comma 1",
+      "file": "sources/DECRETO-LEGGE 18 ottobre 2023 , n. 145.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-cin-002",
+    "subject": "normativa-turistica",
+    "question": "Una piattaforma online pubblica annunci di appartamenti destinati a locazione per finalità turistiche. Ai sensi dell'art. 13-ter del d.l. 145/2023, il gestore del portale telematico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ha l'obbligo di indicare negli annunci, ovunque pubblicati e comunicati, il CIN dell'unità immobiliare",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Non ha obblighi, perché l'indicazione del CIN spetta solo al locatore",
+        "why_wrong": "Il comma 6 pone l'obbligo di indicare il CIN negli annunci anche a carico dei soggetti che gestiscono portali telematici."
+      },
+      {
+        "id": "c",
+        "text": "Deve esporre il CIN all'esterno dello stabile in cui si trova l'appartamento",
+        "why_wrong": "L'esposizione all'esterno dello stabile è un obbligo di chi propone o concede in locazione l'unità o del titolare della struttura (comma 6)."
+      },
+      {
+        "id": "d",
+        "text": "Deve indicare il CIN solo negli annunci pubblicati in Italia",
+        "why_wrong": "Il comma 6 riferisce l'obbligo agli annunci ovunque pubblicati e comunicati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 6 obbliga chi propone o concede in locazione l'unità (o il titolare della struttura) a esporre il CIN all'esterno dello stabile e a indicarlo in ogni annuncio; inoltre gli intermediari immobiliari e i gestori di portali telematici devono indicare il CIN negli annunci ovunque pubblicati e comunicati.",
+    "evidence": [
+      {
+        "ref": "art. 13-ter, comma 6",
+        "text": "I soggetti che esercitano attività di intermediazione immobiliare e i soggetti che gestiscono portali telematici hanno l'obbligo di indicare, negli annunci ovunque pubblicati e comunicati, il CIN dell'unità immobiliare destinata alla"
+      }
+    ],
+    "source": {
+      "act": "D.L. 145/2023",
+      "article": "art. 13-ter, comma 6",
+      "file": "sources/DECRETO-LEGGE 18 ottobre 2023 , n. 145.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-cin-003",
+    "subject": "normativa-turistica",
+    "question": "Durante un controllo, la polizia locale accerta che un privato concede in locazione per finalità turistiche un appartamento privo di CIN. In assenza di una sanzione regionale per lo stesso fatto, ai sensi dell'art. 13-ter del d.l. 145/2023 si applica la sanzione pecuniaria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Da euro 500 a euro 5.000",
+        "why_wrong": "Questa è la sanzione per la mancata esposizione e indicazione del CIN (comma 9, secondo periodo)."
+      },
+      {
+        "id": "b",
+        "text": "Da euro 2.000 a euro 10.000",
+        "why_wrong": "Questa è la sanzione per l'esercizio in forma imprenditoriale senza SCIA (comma 9, ultimo periodo)."
+      },
+      {
+        "id": "c",
+        "text": "Da euro 600 a euro 6.000",
+        "why_wrong": "Questa è la sanzione per l'assenza dei dispositivi di sicurezza previsti dal secondo periodo del comma 7."
+      },
+      {
+        "id": "d",
+        "text": "Da euro 800 a euro 8.000, in relazione alle dimensioni della struttura o dell'immobile",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 9 punisce chi propone o concede in locazione, per finalità turistiche o come locazione breve, unità immobiliari prive di CIN con la sanzione pecuniaria da 800 a 8.000 euro, in relazione alle dimensioni dell'immobile; il comma 10 esclude l'applicazione se lo stesso fatto è sanzionato dalla normativa regionale.",
+    "evidence": [
+      {
+        "ref": "art. 13-ter, comma 9",
+        "text": "immobiliari o porzioni di esse prive di CIN è punito con la sanzione pecuniaria da euro 800 a euro 8.000, in relazione alle dimensioni della struttura o dell'immobile."
+      },
+      {
+        "ref": "art. 13-ter, comma 10",
+        "text": "Le disposizioni di cui al comma 9 non trovano applicazione se lo stesso fatto è sanzionato dalla normativa regionale."
+      }
+    ],
+    "source": {
+      "act": "D.L. 145/2023",
+      "article": "art. 13-ter, comma 9",
+      "file": "sources/DECRETO-LEGGE 18 ottobre 2023 , n. 145.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-cin-004",
+    "subject": "normativa-turistica",
+    "question": "Ai sensi dell'art. 13-ter del d.l. 145/2023, chi esercita in forma imprenditoriale l'attività di locazione per finalità turistiche o di locazione breve:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deve ottenere un'autorizzazione dal Ministero del turismo",
+        "why_wrong": "Il comma 8 richiede la SCIA presso il SUAP del comune, non un'autorizzazione ministeriale."
+      },
+      {
+        "id": "b",
+        "text": "È soggetto all'obbligo di SCIA presso lo sportello unico per le attività produttive del comune in cui è svolta l'attività",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Deve solo comunicare l'inizio dell'attività alla regione",
+        "why_wrong": "Il comma 8 prevede la segnalazione certificata di inizio attività presso il SUAP del comune."
+      },
+      {
+        "id": "d",
+        "text": "Presenta la SCIA presso la camera di commercio, anche quando opera tramite società",
+        "why_wrong": "Il comma 8 individua il SUAP del comune e, per le società, attribuisce la presentazione al legale rappresentante."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 8 assoggetta chi esercita, direttamente o tramite intermediario, l'attività di locazione per finalità turistiche o breve in forma imprenditoriale all'obbligo di SCIA presso il SUAP del comune in cui è svolta l'attività; se l'attività è esercitata tramite società, la SCIA è presentata dal legale rappresentante.",
+    "evidence": [
+      {
+        "ref": "art. 13-ter, comma 8",
+        "text": "è soggetto all'obbligo di segnalazione certificata di inizio attività (SCIA)"
+      },
+      {
+        "ref": "art. 13-ter, comma 8",
+        "text": "presso lo sportello unico per le attività produttive (SUAP) del comune nel cui territorio è svolta l'attività. Nel caso in cui tale attività sia esercitata tramite società, la SCIA è presentata dal legale rappresentante."
+      }
+    ],
+    "source": {
+      "act": "D.L. 145/2023",
+      "article": "art. 13-ter, comma 8",
+      "file": "sources/DECRETO-LEGGE 18 ottobre 2023 , n. 145.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tur-cin-005",
+    "subject": "normativa-turistica",
+    "question": "Ai sensi dell'art. 13-ter del d.l. 145/2023, a chi spettano i controlli e l'applicazione delle sanzioni previste per le violazioni in materia di CIN, e a cosa sono destinati i relativi proventi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Al Ministero del turismo; i proventi confluiscono nel bilancio dello Stato",
+        "why_wrong": "Il comma 11 attribuisce controlli e sanzioni al comune, che incamera i proventi."
+      },
+      {
+        "id": "b",
+        "text": "Alla regione; i proventi finanziano la promozione turistica regionale",
+        "why_wrong": "Il comma 11 individua il comune in cui è ubicato l'immobile o la struttura, non la regione."
+      },
+      {
+        "id": "c",
+        "text": "Al comune in cui si trova l'immobile o la struttura, attraverso la polizia locale; i proventi finanziano investimenti per politiche del turismo e interventi di raccolta e smaltimento dei rifiuti",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Alla Guardia di finanza; i proventi sono destinati al contrasto dell'evasione fiscale",
+        "why_wrong": "La Guardia di finanza, con l'Agenzia delle entrate, svolge analisi del rischio (comma 12); le sanzioni del comma 9 sono applicate dal comune."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 11 affida controlli, verifiche e applicazione delle sanzioni del comma 9 al comune in cui è ubicata la struttura o l'unità immobiliare, attraverso gli organi di polizia locale; i proventi sono incamerati dal comune e destinati a investimenti per politiche del turismo e a interventi di raccolta e smaltimento dei rifiuti.",
+    "evidence": [
+      {
+        "ref": "art. 13-ter, comma 11",
+        "text": "alle funzioni di controllo e verifica e all'applicazione delle sanzioni amministrative di cui al comma 9 provvede il comune nel cui territorio è ubicata la struttura turistico-ricettiva alberghiera o extralberghiera o l'unità immobiliare concessa in locazione, attraverso gli organi di polizia locale"
+      },
+      {
+        "ref": "art. 13-ter, comma 11",
+        "text": "I relativi proventi sono incamerati dal medesimo comune e sono destinati a finanziare investimenti per politiche in materia di turismo e interventi concernenti la raccolta e lo smaltimento dei rifiuti."
+      }
+    ],
+    "source": {
+      "act": "D.L. 145/2023",
+      "article": "art. 13-ter, comma 11",
+      "file": "sources/DECRETO-LEGGE 18 ottobre 2023 , n. 145.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
