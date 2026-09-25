@@ -231,18 +231,18 @@
       },
       {
         "id": "b",
-        "text": "Nella verifica trimestrale di cassa svolta dall'organo di revisione",
-        "why_wrong": "La verifica ordinaria di cassa è altra attività dell'organo di revisione (art. 223, comma 1)."
+        "text": "Nella verifica trimestrale di cassa e della gestione del servizio di tesoreria, svolta dall'organo di revisione economico-finanziaria",
+        "why_wrong": "La verifica trimestrale di cassa e della gestione del servizio di tesoreria è un'altra attività dell'organo di revisione (art. 223, comma 1), distinta dal riaccertamento (art. 228, comma 3)."
       },
       {
         "id": "c",
-        "text": "Nella cancellazione automatica di tutti i residui attivi non riscossi",
-        "why_wrong": "Il riaccertamento rivede le ragioni del mantenimento dei residui, in tutto o in parte, senza cancellazioni automatiche (art. 228, comma 3)."
+        "text": "Nella cancellazione automatica di tutti i residui attivi non riscossi e dei residui passivi non pagati entro l'esercizio",
+        "why_wrong": "Il riaccertamento rivede le ragioni del mantenimento dei residui, in tutto o in parte, e non comporta cancellazioni automatiche (art. 228, comma 3)."
       },
       {
         "id": "d",
-        "text": "Nella nuova emissione in conto competenza degli ordinativi non riscossi",
-        "why_wrong": "Gli ordinativi non riscossi entro l'esercizio sono riemessi in conto residui (art. 180, comma 4-quinquies); il riaccertamento è la revisione descritta dall'art. 228, comma 3."
+        "text": "Nell'annullamento degli ordinativi d'incasso non riscossi e nella loro nuova emissione in conto competenza nell'esercizio successivo",
+        "why_wrong": "Gli ordinativi d'incasso non riscossi sono riemessi nell'esercizio successivo in conto residui, non in conto competenza (art. 180, comma 4-quinquies); il riaccertamento è la revisione descritta dall'art. 228, comma 3."
       }
     ],
     "correct": "a",
@@ -260,7 +260,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -270,13 +271,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Sono eliminati immediatamente anche dallo stato patrimoniale",
-        "why_wrong": "Lo stato patrimoniale li comprende sino al compimento dei termini di prescrizione (art. 230, comma 5)."
+        "text": "Sono eliminati immediatamente anche dallo stato patrimoniale, senza alcun elenco allegato",
+        "why_wrong": "Lo stato patrimoniale li comprende sino al compimento dei termini di prescrizione e il loro elenco è allegato al rendiconto (art. 230, comma 5)."
       },
       {
         "id": "b",
-        "text": "Restano tra i residui attivi del conto del bilancio",
-        "why_wrong": "Si tratta di crediti stralciati dal conto del bilancio; il loro elenco è allegato al rendiconto distintamente da quello dei residui attivi (art. 230, comma 5)."
+        "text": "Restano iscritti tra i residui attivi del conto del bilancio sino alla prescrizione",
+        "why_wrong": "I crediti inesigibili sono stralciati dal conto del bilancio e restano nello stato patrimoniale sino alla prescrizione; il loro elenco è allegato al rendiconto distintamente da quello dei residui attivi (art. 230, comma 5)."
       },
       {
         "id": "c",
@@ -285,8 +286,8 @@
       },
       {
         "id": "d",
-        "text": "Sono trasferiti al fondo di riserva",
-        "why_wrong": "Il fondo di riserva è uno stanziamento di spesa del bilancio di previsione (art. 166, comma 1), estraneo alla sorte dei crediti inesigibili (art. 230, comma 5)."
+        "text": "Sono trasferiti al fondo di riserva del bilancio di previsione dell'esercizio successivo",
+        "why_wrong": "Il fondo di riserva è uno stanziamento iscritto nella spesa del bilancio (art. 166, comma 1) e non accoglie crediti; quelli inesigibili restano nello stato patrimoniale sino alla prescrizione (art. 230, comma 5)."
       }
     ],
     "correct": "c",
@@ -304,7 +305,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -446,23 +448,23 @@
     "options": [
       {
         "id": "a",
-        "text": "In qualsiasi momento, per decisione motivata del consiglio",
-        "why_wrong": "Il revisore è revocabile solo per inadempienza (art. 235, comma 2)."
+        "text": "In qualsiasi momento, con deliberazione motivata del consiglio adottata a maggioranza assoluta dei consiglieri assegnati all'ente",
+        "why_wrong": "Il revisore è revocabile solo per inadempienza (art. 235, comma 2); la norma non prevede una revoca discrezionale del consiglio."
       },
       {
         "id": "b",
-        "text": "Solo per inadempienza, in particolare per la mancata presentazione della relazione sulla proposta di deliberazione consiliare del rendiconto entro il termine previsto",
+        "text": "Solo per inadempienza, in particolare per mancata presentazione nei termini della relazione sulla proposta di deliberazione del rendiconto",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "In caso di cambio della maggioranza consiliare",
-        "why_wrong": "La norma ammette la revoca solo per inadempienza (art. 235, comma 2)."
+        "text": "In caso di cambio della maggioranza consiliare, con deliberazione del nuovo consiglio da adottarsi entro trenta giorni dall'insediamento",
+        "why_wrong": "La norma ammette la revoca solo per inadempienza (art. 235, comma 2), non per mutamenti della maggioranza consiliare."
       },
       {
         "id": "d",
-        "text": "Per scadenza del mandato",
-        "why_wrong": "La scadenza del mandato è una causa di cessazione dall'incarico (art. 235, comma 3, lettera a)), non di revoca."
+        "text": "Per scadenza del mandato triennale oppure per impossibilità a svolgere l'incarico per il periodo di tempo stabilito dal regolamento dell'ente",
+        "why_wrong": "Scadenza del mandato e impossibilità a svolgere l'incarico sono cause di cessazione dall'incarico (art. 235, comma 3, lettere a) e c)), non di revoca."
       }
     ],
     "correct": "b",
@@ -480,7 +482,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -490,23 +493,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Le dimissioni hanno effetto solo se accettate dal consiglio",
-        "why_wrong": "Le dimissioni volontarie non sono soggette ad accettazione da parte dell'ente (art. 235, comma 3, lettera b))."
+        "text": "Sono comunicate con preavviso di almeno quarantacinque giorni e hanno effetto solo se accettate dal consiglio comunale",
+        "why_wrong": "Le dimissioni volontarie, da comunicare con preavviso di almeno quarantacinque giorni, non sono soggette ad accettazione da parte dell'ente (art. 235, comma 3, lettera b))."
       },
       {
         "id": "b",
-        "text": "Le dimissioni sono comunicate con preavviso di almeno quarantacinque giorni e non sono soggette ad accettazione da parte dell'ente",
+        "text": "Sono comunicate con preavviso di almeno quarantacinque giorni e non sono soggette ad accettazione da parte dell'ente",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Le dimissioni hanno effetto immediato, senza preavviso",
-        "why_wrong": "È richiesto un preavviso di almeno quarantacinque giorni (art. 235, comma 3, lettera b))."
+        "text": "Hanno effetto immediato, senza necessità di preavviso, e non sono soggette ad accettazione da parte dell'ente",
+        "why_wrong": "L'art. 235, comma 3, lettera b), esclude l'accettazione da parte dell'ente ma richiede un preavviso di almeno quarantacinque giorni: le dimissioni non hanno effetto immediato."
       },
       {
         "id": "d",
-        "text": "Il revisore non può dimettersi prima della scadenza triennale",
-        "why_wrong": "Le dimissioni volontarie sono una causa di cessazione dall'incarico (art. 235, comma 3, lettera b))."
+        "text": "Non sono ammesse prima della scadenza triennale, salvo impossibilità a svolgere l'incarico accertata dall'ente",
+        "why_wrong": "Le dimissioni volontarie sono una causa di cessazione dall'incarico (art. 235, comma 3, lettera b)), distinta dall'impossibilità a svolgerlo (lettera c))."
       }
     ],
     "correct": "b",
@@ -524,7 +527,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -534,22 +538,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Sì, perché ha cessato la carica prima della nomina",
-        "why_wrong": "L'incompatibilità si estende a chi ha ricoperto l'incarico di componente degli organi dell'ente nel biennio precedente alla nomina (art. 236, comma 2)."
+        "text": "Sì, perché l'incompatibilità riguarda soltanto chi è in carica come componente degli organi dell'ente al momento della nomina",
+        "why_wrong": "L'art. 236, comma 2, estende l'incompatibilità a chi ha ricoperto l'incarico di componente degli organi dell'ente nel biennio precedente alla nomina, non solo a chi è in carica."
       },
       {
         "id": "b",
-        "text": "Sì, purché si tratti del primo incarico di revisione presso quell'ente",
-        "why_wrong": "Il limite di due incarichi nello stesso ente (art. 235, comma 1) non supera l'incompatibilità di chi è stato componente degli organi dell'ente nel biennio precedente (art. 236, comma 2)."
+        "text": "Sì, purché si tratti del primo incarico di revisione presso quell'ente, nel rispetto del limite di due incarichi",
+        "why_wrong": "Il limite di due incarichi nello stesso ente (art. 235, comma 1) è una regola distinta e non supera l'incompatibilità di chi è stato componente degli organi dell'ente nel biennio precedente (art. 236, comma 2)."
       },
       {
         "id": "c",
-        "text": "Sì, se l'incarico è approvato dall'organo regionale di controllo",
-        "why_wrong": "La norma non prevede deroghe di questo tipo all'incompatibilità (art. 236, comma 2)."
+        "text": "Sì, se la nomina è deliberata dal consiglio comunale a maggioranza assoluta dei membri, previa verifica dei requisiti",
+        "why_wrong": "La maggioranza assoluta riguarda l'elezione del revisore unico (art. 234, comma 3) e non consente di superare l'incompatibilità dell'art. 236, comma 2."
       },
       {
         "id": "d",
-        "text": "No, perché l'incarico non può essere esercitato da chi è stato componente degli organi dell'ente nel biennio precedente alla nomina",
+        "text": "No, perché non può esercitare l'incarico chi è stato componente degli organi dell'ente nel biennio precedente alla nomina",
         "why_wrong": null
       }
     ],
@@ -568,7 +572,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -578,23 +583,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Sono facoltativi e il consiglio può discostarsene senza motivazione",
-        "why_wrong": "I pareri sono obbligatori e il consiglio deve adottare i provvedimenti conseguenti o motivare la mancata adozione delle misure proposte (art. 239, comma 1-bis)."
+        "text": "Sono facoltativi: il consiglio può richiederli quando lo ritiene opportuno e può discostarsene anche senza fornire alcuna motivazione",
+        "why_wrong": "L'art. 239, comma 1-bis, dichiara i pareri obbligatori, non rimessi alla richiesta del consiglio, che può non adottare le misure proposte solo motivando adeguatamente."
       },
       {
         "id": "b",
-        "text": "Sono vincolanti: il consiglio non può deliberare in senso difforme",
-        "why_wrong": "La norma consente al consiglio di non adottare le misure proposte, purché motivi adeguatamente (art. 239, comma 1-bis)."
+        "text": "Sono vincolanti: il consiglio è tenuto ad adottare i provvedimenti conseguenti e non può in alcun caso deliberare in senso difforme dal parere",
+        "why_wrong": "La norma consente al consiglio di non adottare le misure proposte, purché ne motivi adeguatamente la mancata adozione (art. 239, comma 1-bis)."
       },
       {
         "id": "c",
-        "text": "Sono obbligatori: il consiglio è tenuto ad adottare i provvedimenti conseguenti o a motivare adeguatamente la mancata adozione delle misure proposte",
+        "text": "Sono obbligatori: il consiglio deve adottare i provvedimenti conseguenti o motivare adeguatamente la mancata adozione delle misure proposte",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Sono richiesti solo se previsti dallo statuto dell'ente",
-        "why_wrong": "I pareri dell'art. 239, comma 1, lettera b), sono obbligatori per legge (art. 239, comma 1-bis); lo statuto può solo ampliare le funzioni dei revisori (art. 239, comma 6)."
+        "text": "Sono obbligatori solo se previsti dallo statuto; in tal caso il consiglio è tenuto ad adottare le misure proposte dall'organo di revisione",
+        "why_wrong": "I pareri sono obbligatori per legge (art. 239, comma 1-bis), non per previsione statutaria, e il consiglio può non adottare le misure proposte motivando adeguatamente; lo statuto può solo ampliare le funzioni dei revisori (art. 239, comma 6)."
       }
     ],
     "correct": "c",
@@ -612,7 +617,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -622,23 +628,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Entro il termine previsto dal regolamento di contabilità e comunque non inferiore a 20 giorni, decorrente dalla trasmissione della proposta approvata dall'organo esecutivo",
+        "text": "Entro il termine del regolamento di contabilità, comunque non inferiore a 20 giorni dalla trasmissione della proposta approvata dall'organo esecutivo",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Entro 30 giorni dalla chiusura dell'esercizio finanziario",
-        "why_wrong": "Trenta giorni dalla chiusura dell'esercizio è il termine per la resa del conto del tesoriere e degli agenti contabili (artt. 226, comma 1, e 233, comma 1)."
+        "text": "Entro 30 giorni dalla chiusura dell'esercizio finanziario, contestualmente alla resa del conto della gestione di cassa da parte del tesoriere",
+        "why_wrong": "Trenta giorni dalla chiusura dell'esercizio è il termine per la resa del conto del tesoriere (art. 226, comma 1); per la relazione dei revisori il termine è non inferiore a 20 giorni dalla trasmissione della proposta (art. 239, comma 1, lettera d))."
       },
       {
         "id": "c",
-        "text": "Entro il 30 aprile, contestualmente all'approvazione del rendiconto",
-        "why_wrong": "Il 30 aprile è il termine per la deliberazione consiliare del rendiconto (art. 227, comma 2); la relazione dei revisori la precede."
+        "text": "Entro il 30 aprile dell'anno successivo, nella stessa seduta in cui l'organo consiliare delibera sul rendiconto della gestione dell'esercizio",
+        "why_wrong": "Il 30 aprile è il termine per la deliberazione consiliare del rendiconto (art. 227, comma 2), che tiene motivatamente conto della relazione dell'organo di revisione."
       },
       {
         "id": "d",
-        "text": "Entro 5 giorni dalla trasmissione della proposta approvata dalla Giunta",
-        "why_wrong": "La norma fissa un termine non inferiore a 20 giorni dalla trasmissione della proposta (art. 239, comma 1, lettera d))."
+        "text": "Entro il termine del regolamento di contabilità, comunque non superiore a 5 giorni dalla trasmissione della proposta approvata dall'organo esecutivo dell'ente",
+        "why_wrong": "L'art. 239, comma 1, lettera d), fissa un termine non inferiore a 20 giorni dalla trasmissione della proposta, non un termine massimo di 5 giorni."
       }
     ],
     "correct": "a",
@@ -656,7 +662,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
