@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 3 non superato (opzione d). L'opzione d («Quando tutti i parametri obiettivi della tabella presentano valori deficitari») descrive un caso in cui l'ente è comunque strutturalmente deficitario, perché se tutti i parametri sono deficitari è soddisfatta anche la condizione dell'art. 242, comma 1: «contenente parametri obiettivi dei quali almeno la metà presentino valori deficitari». L'opzione è quindi difendibile come corretta (condizione sufficiente, anche se non necessaria). Suggerimento: sostituire d con una condizione non sufficiente, ad esempio «Quando almeno un parametro obiettivo della tabella presenta valori deficitari», con why_wrong: «Occorre che presentino valori deficitari almeno la metà dei parametri (art. 242, comma 1).»",
     "no_shuffle": false
   },
   {
@@ -84,7 +85,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +129,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +177,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -224,7 +225,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -272,7 +273,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -320,7 +321,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -368,7 +369,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -412,7 +413,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -456,7 +457,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -88,7 +88,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +132,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +176,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +220,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -264,7 +264,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +308,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +352,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +396,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato (why_wrong dell'opzione d). Il why_wrong afferma senza qualificazioni che «Il bilancio costituisce limite a tutti gli impegni e pagamenti di spesa», ma lo stesso comma prevede un'eccezione: l'art. 164, comma 2, dopo «b) agli impegni e ai pagamenti di spesa», prosegue «Non comportano limiti alla gestione le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro.» Correzione suggerita: «Il bilancio costituisce limite agli impegni e ai pagamenti di spesa (art. 164, comma 2, lettera b)); le sole eccezioni riguardano i rimborsi delle anticipazioni di tesoreria e le partite di giro, non le spese in conto capitale.»",
     "no_shuffle": false
   },
   {
@@ -440,7 +441,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -484,7 +485,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -528,7 +529,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -572,7 +573,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -616,7 +617,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -664,7 +665,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -708,7 +709,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -756,7 +757,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -800,7 +801,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -844,7 +845,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -888,7 +889,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
