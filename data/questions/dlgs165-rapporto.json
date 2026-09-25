@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +176,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +220,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -264,7 +264,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 5 non superato. La dipendente è di un Ministero e la destinazione è «un'altra amministrazione» non specificata. L'art. 30, comma 1, prevede però: «per il trasferimento tra le sedi centrali di differenti ministeri, agenzie ed enti pubblici non economici nazionali non è richiesto l'assenso dell'amministrazione di appartenenza, la quale dispone il trasferimento entro due mesi dalla richiesta dell'amministrazione di destinazione». Se la destinazione fosse la sede centrale di un altro ministero, l'opzione b non sarebbe corretta. Suggerimento: indicare una destinazione diversa (es. «a un Comune») o un'amministrazione di appartenenza diversa da un Ministero (e non un ente locale fino a 100 dipendenti).",
     "no_shuffle": false
   },
   {
@@ -308,7 +309,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +353,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +397,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -440,7 +441,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -488,7 +489,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -532,7 +533,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -576,7 +577,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -620,7 +621,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 4 non superato. Il why_wrong dell'opzione d afferma che «Il comma 10 non distingue in base al regime orario», ma l'art. 53, comma 6, dispone: «I commi da 7 a 13 del presente articolo si applicano ai dipendenti [...] con esclusione dei dipendenti con rapporto di lavoro a tempo parziale con prestazione lavorativa non superiore al cinquanta per cento di quella a tempo pieno». Il regime orario quindi rileva: per il part-time fino al 50% il comma 10 non si applica affatto. L'opzione d resta errata, ma la motivazione è inesatta. Suggerimento: «Il comma 10 non prevede alcun silenzio-assenso legato al tempo parziale; i dipendenti con part-time non superiore al 50% sono esclusi dai commi 7-13 (comma 6), non destinatari di un assenso tacito».",
     "no_shuffle": false
   },
   {
@@ -664,7 +666,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'evidence riporta solo la voce di elenco «c) dalla partecipazione a convegni e seminari;», che da sola non dice che tali compensi siano esclusi dagli incarichi retribuiti. Nel comma 6 la voce dipende dalla frase «Sono esclusi i compensi e le prestazioni derivanti:». Suggerimento: aggiungere questa frase come evidence (ref «art. 53, comma 6»).",
     "no_shuffle": false
   },
   {
@@ -708,7 +711,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -752,7 +755,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -796,7 +799,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -840,7 +843,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -884,7 +887,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -928,7 +931,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -972,7 +975,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta b contiene anche «salvo la facoltà di sospenderlo, per le infrazioni più gravi, nei casi di particolare complessità dell'accertamento», ma l'evidence riporta solo la regola della prosecuzione. La facoltà di sospensione è in un periodo successivo dell'art. 55-ter, comma 1: «Per le infrazioni per le quali è applicabile una sanzione superiore alla sospensione dal servizio con privazione della retribuzione fino a dieci giorni, l'ufficio competente per i procedimenti disciplinari, nei casi di particolare complessità dell'accertamento del fatto addebitato al dipendente e quando all'esito dell'istruttoria non dispone di elementi sufficienti a motivare l'irrogazione della sanzione, può sospendere il procedimento disciplinare fino al termine di quello penale». Suggerimento: aggiungere questo periodo come seconda evidence e rendere l'opzione più precisa («infrazioni punibili con sanzione superiore alla sospensione fino a dieci giorni», con il requisito dell'insufficienza degli elementi).",
     "no_shuffle": false
   },
   {
@@ -1016,7 +1020,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1064,7 +1068,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -1108,7 +1112,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

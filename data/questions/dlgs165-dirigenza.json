@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta b afferma che il Ministro, «se l'inerzia permane», può «nominare un commissario ad acta», ma l'evidence riporta solo i primi due periodi dell'art. 14, comma 3 (fino a «deve adottare gli atti o i provvedimenti.»). La nomina del commissario è nel periodo successivo: «Qualora l'inerzia permanga, o in caso di grave inosservanza delle direttive generali da parte del dirigente competente, che determinino pregiudizio per l'interesse pubblico, il Ministro può nominare, salvi i casi di urgenza previa contestazione, un commissario ad acta, dando comunicazione al Presidente del Consiglio dei ministri del relativo provvedimento.» Suggerimento: aggiungere questo periodo come seconda evidence (ref «art. 14, comma 3»).",
     "no_shuffle": false
   },
   {
@@ -84,7 +85,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +129,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +173,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +217,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -260,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +309,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +353,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +397,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -440,7 +441,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. La domanda riguarda «il mancato raggiungimento degli obiettivi accertato attraverso il sistema di valutazione», ma l'evidence parte da metà frase («l'inosservanza delle direttive imputabili al dirigente comportano, previa contestazione [...] l'impossibilità di rinnovo dello stesso incarico dirigenziale.») e, letta da sola, riguarda solo l'inosservanza delle direttive. Suggerimento: estendere l'evidence dall'inizio dell'art. 21, comma 1: «Il mancato raggiungimento degli obiettivi accertato attraverso le risultanze del sistema di valutazione [...] ovvero l'inosservanza delle direttive imputabili al dirigente comportano [...] l'impossibilità di rinnovo dello stesso incarico dirigenziale.»",
     "no_shuffle": false
   },
   {
@@ -484,7 +486,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -528,7 +530,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -572,7 +574,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -616,7 +618,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -664,7 +666,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
