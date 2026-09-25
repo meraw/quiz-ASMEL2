@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +172,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +216,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 fallito: l'evidence parte da «tributarie è vietata, pena la decadenza...» e omette i destinatari del divieto, per cui non dimostra che il divieto si applichi al magistrato amministrativo del caso. Il file recita: «Ai magistrati ordinari, amministrativi, contabili e militari, agli avvocati e procuratori dello Stato e ai ((componenti delle corti)) tributarie è vietata...». Suggerimento: estendere l'evidence all'inizio del comma 18 (almeno «Ai magistrati ordinari, amministrativi, contabili e militari»).",
     "no_shuffle": false
   },
   {
@@ -260,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -304,7 +305,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -348,7 +349,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -392,7 +393,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 2 fallito: l'elemento che distingue la risposta corretta dalle alternative a), b) e d) è «in ogni momento», che non compare nell'evidence (che parte da «le informazioni relative ai provvedimenti...»). Il file recita: «hanno l'obbligo di rendere accessibili in ogni momento agli interessati, tramite strumenti di identificazione informatica...». Suggerimento: aggiungere un'evidence con «hanno l'obbligo di rendere accessibili in ogni momento agli interessati».",
     "no_shuffle": false
   },
   {
@@ -436,7 +438,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -480,7 +482,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -524,7 +526,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -568,7 +570,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -612,7 +614,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Check 4 fallito: il why_wrong dell'opzione b) afferma che «Le stazioni appaltanti consultano l'elenco», ma il file non menziona le stazioni appaltanti: il comma 52 dice che l'informazione antimafia «è obbligatoriamente acquisita dai soggetti di cui all'articolo 83, commi 1 e 2, del decreto legislativo 6 settembre 2011, n. 159, attraverso la consultazione, anche in via telematica, di apposito elenco». Suggerimento: «L'elenco è consultato dai soggetti di cui all'art. 83, commi 1 e 2, del d.lgs. 159/2011; l'iscrizione è disposta dalla prefettura».",
     "no_shuffle": false
   },
   {
@@ -656,7 +659,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -700,7 +703,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -748,7 +751,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -792,7 +795,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -844,7 +847,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -888,7 +891,7 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
