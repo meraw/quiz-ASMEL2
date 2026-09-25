@@ -139,7 +139,7 @@
       {
         "id": "a",
         "text": "Il ricorso è legittimo, purché la stazione appaltante selezioni almeno tre operatori economici da consultare, se sussistono in tale numero",
-        "why_wrong": "La consultazione di almeno tre operatori (art. 76, comma 7) non supera il requisito della non imputabilità dell'urgenza previsto dal comma 2, lett. c)."
+        "why_wrong": "La selezione di almeno tre operatori è una modalità di svolgimento della procedura (art. 76, comma 7), non sana la mancanza del presupposto: per il comma 2, lett. c), l'urgenza non deve essere in alcun caso imputabile alla stazione appaltante."
       },
       {
         "id": "b",
@@ -243,7 +243,7 @@
       {
         "id": "d",
         "text": "Supera il limite, perché il fatturato globale richiesto non può mai superare il valore stimato dell'appalto",
-        "why_wrong": "L'art. 100, comma 11, consente di chiedere un fatturato fino al doppio del valore stimato, non solo fino al valore stimato."
+        "why_wrong": "L'art. 100, comma 11, fissa il limite al doppio del valore stimato: la richiesta è illegittima perché 1.500.000 euro supera 1.000.000 euro, non perché supera il valore stimato."
       }
     ],
     "correct": "c",
@@ -405,7 +405,7 @@
       {
         "id": "a",
         "text": "È comunque escluso, trattandosi di causa di esclusione automatica che non ammette regolarizzazioni successive",
-        "why_wrong": "L'art. 94, comma 6, precisa che la causa non si applica quando l'operatore ha pagato prima della scadenza del termine per l'offerta."
+        "why_wrong": "L'art. 94, comma 6, non opera in modo automatico: la causa di esclusione non si applica se il pagamento o l'impegno vincolante si sono perfezionati prima della scadenza del termine di presentazione dell'offerta."
       },
       {
         "id": "b",
@@ -499,7 +499,7 @@
       {
         "id": "b",
         "text": "Esclude immediatamente il concorrente, trattandosi di documentazione da presentare con il documento di gara unico europeo",
-        "why_wrong": "L'art. 101, comma 1, prevede il soccorso istruttorio per integrare la documentazione mancante; l'esclusione segue solo se il concorrente non adempie nel termine (comma 2)."
+        "why_wrong": "Anche per il documento di gara unico europeo l'art. 101, comma 1, prevede il soccorso istruttorio con un termine da cinque a dieci giorni; l'esclusione segue solo in caso di mancato adempimento (comma 2)."
       },
       {
         "id": "c",
@@ -509,7 +509,7 @@
       {
         "id": "d",
         "text": "Può consentire l'integrazione anche dell'offerta tecnica ed economica, se incomplete, entro il termine fissato nel bando",
-        "why_wrong": "L'art. 101, comma 1, lett. a), esclude dal soccorso istruttorio la documentazione che compone l'offerta tecnica e l'offerta economica."
+        "why_wrong": "L'art. 101, comma 1, lett. a) e b), esclude dal soccorso istruttorio la documentazione dell'offerta tecnica e dell'offerta economica; il termine è assegnato dalla stazione appaltante tra cinque e dieci giorni."
       }
     ],
     "correct": "a",
@@ -587,12 +587,12 @@
       {
         "id": "a",
         "text": "A scelta della stazione appaltante, con il minor prezzo o con l'offerta economicamente più vantaggiosa indicata nei documenti di gara",
-        "why_wrong": "L'art. 108, comma 2, lett. a), impone per la ristorazione scolastica il solo criterio del miglior rapporto qualità/prezzo."
+        "why_wrong": "Per la ristorazione scolastica l'art. 108, comma 2, lett. a), non lascia scelta alla stazione appaltante: il contratto è aggiudicato esclusivamente con il miglior rapporto qualità/prezzo."
       },
       {
         "id": "b",
         "text": "Con il criterio del minor prezzo, trattandosi di servizio con caratteristiche standardizzate o con condizioni definite dal mercato",
-        "why_wrong": "Il minor prezzo (art. 108, comma 3) è ammesso per servizi standardizzati, ma la ristorazione scolastica rientra tra i casi del comma 2."
+        "why_wrong": "Il minor prezzo per servizi standardizzati o con condizioni definite dal mercato (art. 108, comma 3) non si applica ai servizi di ristorazione scolastica, riservati dal comma 2, lett. a), al miglior rapporto qualità/prezzo."
       },
       {
         "id": "c",
@@ -637,7 +637,7 @@
       {
         "id": "b",
         "text": "Il costo del ciclo di vita del prodotto offerto, eccetto che nelle forniture senza posa in opera e nei servizi di natura intellettuale",
-        "why_wrong": "Il costo del ciclo di vita è un possibile criterio di comparazione costo/efficacia (art. 108, comma 1), non un'indicazione richiesta a pena di esclusione."
+        "why_wrong": "L'art. 108, comma 9, richiede a pena di esclusione i costi della manodopera e gli oneri per la sicurezza; il costo del ciclo di vita è un criterio di comparazione costo/efficacia (comma 1)."
       },
       {
         "id": "c",

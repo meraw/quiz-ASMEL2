@@ -12,12 +12,12 @@
       {
         "id": "b",
         "text": "Nel provvedimento di aggiudicazione, per le sole fasi di esecuzione del contratto e di collaudo delle prestazioni",
-        "why_wrong": "L'art. 15, comma 1, colloca la nomina nel primo atto di avvio dell'intervento e la riferisce a tutte le fasi, dalla programmazione all'esecuzione."
+        "why_wrong": "L'art. 15, comma 1, prevede la nomina del RUP nel primo atto di avvio dell'intervento, non nel provvedimento di aggiudicazione, e per tutte le fasi di programmazione, progettazione, affidamento ed esecuzione."
       },
       {
         "id": "c",
         "text": "Nella decisione di contrarre, per la sola fase di affidamento, dopo l'approvazione del progetto da porre a base di gara",
-        "why_wrong": "Per l'art. 15, comma 1, il RUP è nominato nel primo atto di avvio dell'intervento e opera anche per programmazione, progettazione ed esecuzione."
+        "why_wrong": "Secondo l'art. 15, comma 1, il RUP è nominato nel primo atto di avvio dell'intervento, non nella decisione di contrarre, e opera per programmazione, progettazione ed esecuzione, non per il solo affidamento."
       },
       {
         "id": "d",
@@ -106,7 +106,7 @@
       {
         "id": "c",
         "text": "Deve essere accertata d'ufficio dall'ANAC prima dell'aggiudicazione, su segnalazione della stazione appaltante",
-        "why_wrong": "L'art. 16, comma 2, pone l'onere della prova su chi invoca il conflitto; non prevede un accertamento preventivo dell'ANAC."
+        "why_wrong": "L'art. 16, comma 2, non attribuisce all'ANAC un accertamento d'ufficio: la minaccia deve essere provata da chi invoca il conflitto, sulla base di presupposti specifici e documentati."
       },
       {
         "id": "d",
@@ -146,12 +146,12 @@
       {
         "id": "b",
         "text": "Darne comunicazione all'ANAC e proseguire l'attività nella procedura di aggiudicazione fino alla decisione dell'Autorità",
-        "why_wrong": "L'art. 16, comma 3, prevede la comunicazione alla stazione appaltante e l'astensione, non la prosecuzione in attesa dell'ANAC."
+        "why_wrong": "L'art. 16, comma 3, impone di comunicare il conflitto alla stazione appaltante, non all'ANAC, e di astenersi subito dalla procedura, senza proseguire in attesa di decisioni."
       },
       {
         "id": "c",
         "text": "Darne comunicazione alla stazione appaltante e astenersi solo dall'esecuzione, potendo partecipare alla valutazione delle offerte",
-        "why_wrong": "L'art. 16, comma 3, impone l'astensione sia dalla procedura di aggiudicazione sia dall'esecuzione."
+        "why_wrong": "L'astensione prevista dall'art. 16, comma 3, riguarda sia la procedura di aggiudicazione, compresa la valutazione delle offerte, sia l'esecuzione."
       },
       {
         "id": "d",

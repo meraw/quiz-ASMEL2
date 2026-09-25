@@ -12,12 +12,12 @@
       {
         "id": "b",
         "text": "costituisce principio fondamentale riservato alla legislazione concorrente delle regioni, che ne definiscono i livelli di tutela",
-        "why_wrong": "Il comma 15 la qualifica come livello essenziale delle prestazioni ai sensi dell'art. 117, secondo comma, lettera m)."
+        "why_wrong": "Il comma 15 non rimette alle regioni la definizione dei livelli di tutela: qualifica la trasparenza come livello essenziale delle prestazioni ai sensi dell'art. 117, secondo comma, lettera m), della Costituzione."
       },
       {
         "id": "c",
         "text": "è assicurata esclusivamente mediante il diritto di accesso ai documenti amministrativi di cui al capo V della L. 241/1990",
-        "why_wrong": "Il comma 15 prevede che sia assicurata mediante la pubblicazione nei siti web istituzionali."
+        "why_wrong": "Il capo V della L. 241/1990 è richiamato dal comma 30; il comma 15 prevede che la trasparenza sia assicurata mediante la pubblicazione nei siti web istituzionali."
       },
       {
         "id": "d",
@@ -229,7 +229,7 @@
       {
         "id": "a",
         "text": "non devono essere pubblicate, perché i procedimenti posti in essere in deroga alle procedure ordinarie sono esclusi",
-        "why_wrong": "Il comma 26 estende i commi 15 e 16 anche ai procedimenti in deroga alle procedure ordinarie."
+        "why_wrong": "Il comma 26 non esclude i procedimenti posti in essere in deroga alle procedure ordinarie, ma vi estende espressamente i commi 15 e 16."
       },
       {
         "id": "b",
@@ -239,12 +239,12 @@
       {
         "id": "c",
         "text": "sono trasmesse soltanto in via telematica alla Commissione, senza obbligo di pubblicazione in alcun sito web",
-        "why_wrong": "La trasmissione telematica alla Commissione (comma 27) si aggiunge alla pubblicazione, non la sostituisce."
+        "why_wrong": "La trasmissione telematica alla Commissione (comma 27) riguarda le informazioni già pubblicate ai sensi dei commi 15 e 16 e non sostituisce la pubblicazione prevista dal comma 26."
       },
       {
         "id": "d",
         "text": "sono pubblicate nel sito web istituzionale della prefettura della provincia in cui il commissario opera",
-        "why_wrong": "Il comma 26 indica il sito dell'amministrazione dalla quale il soggetto è nominato."
+        "why_wrong": "Il comma 26 non fa riferimento alla prefettura né al luogo in cui il soggetto opera, ma al sito dell'amministrazione dalla quale è nominato."
       }
     ],
     "correct": "b",
@@ -417,12 +417,12 @@
       {
         "id": "c",
         "text": "trasmette gli atti alla prefettura competente per le verifiche periodiche circa la perdurante insussistenza dei tentativi di infiltrazione mafiosa",
-        "why_wrong": "Le verifiche antimafia della prefettura sono disciplinate dal comma 52; il comma 32-bis indica come destinataria la commissione."
+        "why_wrong": "Le verifiche periodiche sull'insussistenza di tentativi di infiltrazione mafiosa sono compiute dalla prefettura ai sensi del comma 52; il comma 32-bis prevede la trasmissione di informazioni alla commissione."
       },
       {
         "id": "d",
         "text": "dichiara d'ufficio la nullità degli atti adottati in violazione delle regole della trasparenza, anche in esito a una sommaria valutazione",
-        "why_wrong": "Il comma 32-bis non attribuisce al giudice questo potere, ma l'obbligo di trasmettere le informazioni."
+        "why_wrong": "La «sommaria valutazione» del comma 32-bis serve solo a individuare le informazioni da trasmettere alla commissione; il giudice non dichiara la nullità degli atti."
       }
     ],
     "correct": "a",
@@ -452,7 +452,7 @@
       {
         "id": "a",
         "text": "per l'intera loro attività, senza limitazioni, al pari delle amministrazioni pubbliche e degli enti pubblici nazionali",
-        "why_wrong": "Il comma 34 limita l'applicazione alla loro attività di pubblico interesse."
+        "why_wrong": "Solo amministrazioni pubbliche ed enti pubblici nazionali sono soggetti senza limitazioni; per le società partecipate e controllate il comma 34 limita l'applicazione all'attività di pubblico interesse."
       },
       {
         "id": "b",
@@ -462,7 +462,7 @@
       {
         "id": "c",
         "text": "solo se quotate in mercati regolamentati, secondo quanto previsto dal testo unico in materia di intermediazione finanziaria",
-        "why_wrong": "Il comma 34 non distingue tra società quotate e non quotate, ma limita l'applicazione all'attività di pubblico interesse."
+        "why_wrong": "Il testo unico di cui al d.lgs. 58/1998 è richiamato dal comma 55 per le comunicazioni delle società quotate; il comma 34 non distingue tra quotate e non quotate."
       },
       {
         "id": "d",
@@ -497,7 +497,7 @@
       {
         "id": "a",
         "text": "in formati proprietari, previa registrazione dell'utente, a condizioni tali da permetterne il riutilizzo con l'obbligo di citare la fonte e di rispettarne l'integrità",
-        "why_wrong": "La definizione richiede formati non proprietari e il più ampio riutilizzo senza ulteriori restrizioni."
+        "why_wrong": "Il comma 35, lett. f), richiede formati non proprietari e il più ampio riutilizzo senza ulteriori restrizioni, non compatibile con formati proprietari e registrazione dell'utente."
       },
       {
         "id": "b",
@@ -507,7 +507,7 @@
       {
         "id": "c",
         "text": "in qualsiasi formato elettronico, anche proprietario, purché consultabili gratuitamente e aggiornati secondo i termini previsti per ciascuna pubblicazione",
-        "why_wrong": "La definizione richiede formati non proprietari e condizioni che permettano il più ampio riutilizzo."
+        "why_wrong": "Il comma 35, lett. f), esclude i formati proprietari; i termini di aggiornamento delle pubblicazioni sono oggetto di un distinto criterio (lett. g)."
       },
       {
         "id": "d",
@@ -631,7 +631,7 @@
       {
         "id": "a",
         "text": "tiene luogo della comunicazione e dell'informazione antimafia liberatoria solo per i contratti relativi all'attività per la quale è stata disposta",
-        "why_wrong": "Il comma 52-bis estende l'effetto anche a contratti relativi ad attività diverse."
+        "why_wrong": "Il comma 52-bis non limita l'effetto all'attività per cui l'iscrizione è stata disposta, ma lo estende a contratti e subcontratti relativi ad attività diverse."
       },
       {
         "id": "b",
@@ -641,7 +641,7 @@
       {
         "id": "c",
         "text": "tiene luogo della sola comunicazione antimafia, mentre l'informazione antimafia liberatoria va acquisita per ogni contratto o subcontratto",
-        "why_wrong": "Il comma 52-bis prevede che tenga luogo di entrambe."
+        "why_wrong": "Il comma 52-bis prevede che l'iscrizione tenga luogo sia della comunicazione sia dell'informazione antimafia liberatoria, senza doverla acquisire per ogni contratto."
       },
       {
         "id": "d",
@@ -720,12 +720,12 @@
       {
         "id": "a",
         "text": "non deve comunicare nulla, perché la prefettura effettua verifiche periodiche sulla perdurante insussistenza di infiltrazioni",
-        "why_wrong": "Le verifiche periodiche (comma 52) non escludono l'obbligo di comunicazione del comma 55."
+        "why_wrong": "Le verifiche periodiche della prefettura (comma 52) non esonerano l'impresa dall'obbligo di comunicare le modifiche degli organi sociali entro trenta giorni (comma 55)."
       },
       {
         "id": "b",
         "text": "deve comunicarlo alla prefettura competente entro sei mesi, pena una sanzione amministrativa pecuniaria",
-        "why_wrong": "Il termine è di trenta giorni e la conseguenza è la cancellazione dell'iscrizione."
+        "why_wrong": "Il comma 55 prevede il termine di trenta giorni e, per la mancata comunicazione, la cancellazione dall'elenco, non una sanzione pecuniaria."
       },
       {
         "id": "c",
@@ -813,12 +813,12 @@
       {
         "id": "a",
         "text": "può svolgerlo restando in servizio, previa autorizzazione dell'organo di governo autonomo di appartenenza",
-        "why_wrong": "Il comma 66 richiede il contestuale collocamento in posizione di fuori ruolo."
+        "why_wrong": "Il comma 66 non consente di restare in servizio previa autorizzazione: impone il contestuale collocamento fuori ruolo per tutta la durata dell'incarico."
       },
       {
         "id": "b",
         "text": "può svolgerlo collocandosi in aspettativa per tutta la durata dell'incarico, senza essere posto fuori ruolo",
-        "why_wrong": "Il comma 66 esclude il ricorso all'istituto dell'aspettativa."
+        "why_wrong": "Il comma 66 richiede il collocamento fuori ruolo ed esclude espressamente il ricorso all'aspettativa."
       },
       {
         "id": "c",
@@ -828,7 +828,7 @@
       {
         "id": "d",
         "text": "non può in nessun caso assumerlo, pena la decadenza dall'incarico e la nullità di tutti gli atti compiuti nel suo svolgimento",
-        "why_wrong": "Decadenza e nullità sono previste dal comma 18 per la partecipazione a collegi arbitrali."
+        "why_wrong": "Il comma 66 consente l'incarico con collocamento fuori ruolo; decadenza e nullità degli atti sono previste dal comma 18 per la partecipazione a collegi arbitrali."
       }
     ],
     "correct": "c",
@@ -866,17 +866,17 @@
       {
         "id": "a",
         "text": "la revoca è efficace dal momento della sua adozione, e l'Autorità può solo formulare osservazioni entro trenta giorni dalla comunicazione del provvedimento da parte del prefetto",
-        "why_wrong": "Il comma 82 prevede che la revoca diventi efficace decorsi trenta giorni, salvo i rilievi dell'Autorità."
+        "why_wrong": "Ai sensi del comma 82 la revoca non è efficace dall'adozione: lo diventa decorsi trenta giorni, salvo che l'Autorità rilevi che è correlata alle attività del segretario in materia di prevenzione della corruzione."
       },
       {
         "id": "b",
         "text": "la revoca diventa efficace solo dopo il parere favorevole espresso dall'Autorità, che si pronuncia entro trenta giorni dalla comunicazione",
-        "why_wrong": "Il comma 82 non richiede un parere favorevole: decorso il termine la revoca diventa efficace, salvo i rilievi dell'Autorità."
+        "why_wrong": "Il comma 82 non richiede un parere favorevole: decorsi trenta giorni la revoca diventa efficace anche senza pronuncia dell'Autorità, salvo i suoi rilievi."
       },
       {
         "id": "c",
         "text": "l'Autorità si esprime entro sessanta giorni, decorsi i quali la revoca è inefficace, salvo che il prefetto ne confermi le ragioni con atto motivato",
-        "why_wrong": "Il termine è di trenta giorni e, decorso, la revoca diventa efficace."
+        "why_wrong": "Il comma 82 fissa trenta giorni, decorsi i quali la revoca diventa efficace; non prevede alcuna conferma del prefetto."
       },
       {
         "id": "d",

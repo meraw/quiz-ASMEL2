@@ -17,7 +17,7 @@
       {
         "id": "c",
         "text": "Con la massima tempestività e il migliore rapporto possibile tra qualità e prezzo, anche in deroga al principio di concorrenza quando lo richiede l'urgenza",
-        "why_wrong": "L'art. 1, comma 1, impone di perseguire il risultato nel rispetto dei principi di legalità, trasparenza e concorrenza, senza prevederne deroghe."
+        "why_wrong": "L'art. 1, comma 1, richiede che il risultato sia perseguito sempre nel rispetto dei principi di legalità, trasparenza e concorrenza; non ammette deroghe alla concorrenza per ragioni di urgenza."
       },
       {
         "id": "d",
@@ -283,12 +283,12 @@
       {
         "id": "b",
         "text": "Dà diritto al risarcimento del mancato utile per l'intera durata del contratto, a carico della stazione appaltante che ha annullato",
-        "why_wrong": "L'art. 5, comma 3, non prevede tale risarcimento; nei casi in cui non spetta l'aggiudicazione limita il danno ai pregiudizi economici effettivamente subiti e provati."
+        "why_wrong": "L'art. 5, comma 3, non riconosce il mancato utile per l'intera durata del contratto: quando non spetta l'aggiudicazione, il danno da lesione dell'affidamento è limitato ai pregiudizi economici effettivamente subiti e provati."
       },
       {
         "id": "c",
         "text": "Non si considera incolpevole solo se l'annullamento è disposto su ricorso di terzi, e non anche in caso di autotutela",
-        "why_wrong": "L'art. 5, comma 3, applica la stessa regola sia all'annullamento su ricorso di terzi sia a quello in autotutela."
+        "why_wrong": "L'art. 5, comma 3, esclude l'affidamento incolpevole sia quando l'aggiudicazione è annullata su ricorso di terzi sia quando è annullata in autotutela, senza distinguere tra le due ipotesi."
       },
       {
         "id": "d",
@@ -328,7 +328,7 @@
       {
         "id": "b",
         "text": "Del parere favorevole rilasciato dall'ANAC sulla congruità economica del singolo affidamento",
-        "why_wrong": "L'art. 7, comma 2, non prevede alcun parere dell'ANAC sul singolo affidamento in house."
+        "why_wrong": "L'art. 7, comma 2, non subordina l'affidamento in house a un parere dell'ANAC sulla congruità: la motivazione per le prestazioni strumentali dà conto dei vantaggi di economicità, celerità o interessi strategici."
       },
       {
         "id": "c",
@@ -338,7 +338,7 @@
       {
         "id": "d",
         "text": "Del ribasso percentuale offerto dalla società in house rispetto al prezzo posto a base di gara",
-        "why_wrong": "L'affidamento in house non presuppone una gara con prezzo a base d'asta; l'art. 7, comma 2, richiede di dar conto dei vantaggi di economicità, celerità o interessi strategici."
+        "why_wrong": "L'affidamento diretto in house (art. 7, comma 2) non comporta un'offerta di ribasso su un prezzo a base di gara; i vantaggi di economicità possono emergere dal confronto con gli standard Consip, delle centrali di committenza o di mercato."
       }
     ],
     "correct": "c",
@@ -589,7 +589,7 @@
       {
         "id": "a",
         "text": "Deve essere escluso, perché il contratto collettivo indicato dalla stazione appaltante nei documenti di gara è vincolante",
-        "why_wrong": "L'art. 11, comma 3, consente di indicare un diverso contratto collettivo, purché garantisca le stesse tutele."
+        "why_wrong": "Il contratto indicato dalla stazione appaltante non è vincolante in modo assoluto: l'art. 11, comma 3, consente all'operatore di indicare un contratto collettivo differente che garantisca le stesse tutele, senza esclusione."
       },
       {
         "id": "b",
@@ -599,12 +599,12 @@
       {
         "id": "c",
         "text": "Può applicare il differente contratto collettivo solo se preventivamente autorizzato dall'ANAC su richiesta della stazione appaltante",
-        "why_wrong": "L'art. 11, comma 3, non prevede autorizzazioni dell'ANAC; prima dell'aggiudicazione la stazione appaltante acquisisce la dichiarazione di equivalenza delle tutele (comma 4)."
+        "why_wrong": "L'art. 11 non prevede alcuna autorizzazione preventiva dell'ANAC: l'operatore indica il differente contratto nell'offerta (comma 3) e la stazione appaltante acquisisce la dichiarazione di equivalenza delle tutele (comma 4)."
       },
       {
         "id": "d",
         "text": "Può applicare il differente contratto collettivo soltanto al personale impiegato nelle prestazioni affidate in subappalto",
-        "why_wrong": "Il comma 5 dell'art. 11 riguarda la garanzia delle medesime tutele ai lavoratori in subappalto, non la scelta del contratto da parte dell'offerente."
+        "why_wrong": "L'art. 11, comma 3, consente di indicare il differente contratto per il personale impiegato nell'appalto; il comma 5 riguarda invece la garanzia delle medesime tutele ai lavoratori in subappalto."
       }
     ],
     "correct": "b",

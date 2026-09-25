@@ -52,12 +52,12 @@
       {
         "id": "a",
         "text": "non produce conseguenze giuridiche, trattandosi di obiettivi meramente programmatici inseriti nell'atto di conferimento",
-        "why_wrong": "Il comma 1-quater collega al mancato raggiungimento la responsabilità dirigenziale."
+        "why_wrong": "Il comma 1-quater non considera gli obiettivi di trasparenza meramente programmatici: il loro mancato raggiungimento determina responsabilità dirigenziale ai sensi dell'art. 21 del d.lgs. 165/2001."
       },
       {
         "id": "b",
         "text": "comporta la decadenza immediata dall'incarico, dichiarata dall'organo di indirizzo politico che lo ha conferito",
-        "why_wrong": "Il comma 1-quater prevede la responsabilità dirigenziale e la valutazione per i successivi incarichi, non la decadenza."
+        "why_wrong": "Il comma 1-quater non prevede la decadenza né una dichiarazione dell'organo di indirizzo politico, ma la responsabilità dirigenziale e la valutazione ai fini dei successivi incarichi."
       },
       {
         "id": "c",
@@ -67,7 +67,7 @@
       {
         "id": "d",
         "text": "comporta una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del dirigente, irrogata dall'Autorità nazionale anticorruzione",
-        "why_wrong": "Questa sanzione riguarda la mancata comunicazione dei dati patrimoniali dell'art. 14 (art. 47, comma 1)."
+        "why_wrong": "La sanzione da 500 a 10.000 euro, irrogata dall'ANAC (art. 47, comma 3), colpisce la mancata comunicazione dei dati dell'art. 14 (art. 47, comma 1), non il mancato raggiungimento degli obiettivi di trasparenza."
       }
     ],
     "correct": "c",
@@ -115,12 +115,12 @@
       {
         "id": "c",
         "text": "sono necessarie solo se il compenso supera mille euro nel corso dell'anno solare al medesimo beneficiario",
-        "why_wrong": "La soglia di mille euro riguarda i vantaggi economici dell'art. 26; il comma 2 si applica a tutti gli incarichi per cui è previsto un compenso."
+        "why_wrong": "La soglia di mille euro nell'anno solare al medesimo beneficiario riguarda i vantaggi economici dell'art. 26, comma 3; il comma 2 si applica a tutti gli incarichi per cui è previsto un compenso."
       },
       {
         "id": "d",
         "text": "sono condizioni di validità dell'atto di conferimento, la cui mancanza ne determina la nullità insanabile",
-        "why_wrong": "Il comma 2 parla di condizioni di efficacia e di liquidazione dei compensi, non di validità."
+        "why_wrong": "Il comma 2 qualifica pubblicazione e comunicazione come condizioni di efficacia dell'atto e di liquidazione dei compensi, non di validità dell'atto di conferimento; non prevede alcuna nullità."
       }
     ],
     "correct": "a",
@@ -199,7 +199,7 @@
       {
         "id": "a",
         "text": "il Comune non può erogare alla società alcuna somma a qualsivoglia titolo, neppure il corrispettivo del contratto",
-        "why_wrong": "Il divieto esclude i pagamenti dovuti a fronte di obbligazioni contrattuali per prestazioni svolte."
+        "why_wrong": "Il divieto del comma 4 riguarda le somme a qualsivoglia titolo, ma esclude espressamente i pagamenti dovuti per obbligazioni contrattuali relative a prestazioni svolte."
       },
       {
         "id": "b",
@@ -209,7 +209,7 @@
       {
         "id": "c",
         "text": "il Comune può erogare entrambe le somme, perché il divieto riguarda solo gli enti pubblici vigilati e non le società partecipate",
-        "why_wrong": "Il divieto riguarda tutti gli enti del comma 1, comprese le società partecipate."
+        "why_wrong": "Il comma 4 si riferisce a tutti gli enti del comma 1, che comprende alla lettera b) le società partecipate, e non solo agli enti pubblici vigilati."
       },
       {
         "id": "d",
@@ -344,7 +344,7 @@
       {
         "id": "c",
         "text": "la concessione non va pubblicata in alcuna forma, trattandosi di un provvedimento relativo a una situazione di disagio economico-sociale",
-        "why_wrong": "Il comma 4 esclude solo la pubblicazione dei dati identificativi delle persone fisiche, non ogni pubblicazione."
+        "why_wrong": "La situazione di disagio economico-sociale esclude, ai sensi del comma 4, solo la pubblicazione dei dati identificativi delle persone fisiche, non la pubblicazione della concessione."
       },
       {
         "id": "d",
@@ -394,7 +394,7 @@
       {
         "id": "d",
         "text": "può chiedere all'istante di ripresentare l'istanza sul modulo non pubblicato, con interruzione dei termini del procedimento fino alla nuova presentazione",
-        "why_wrong": "Il comma 2 vieta di richiedere l'uso di moduli non pubblicati."
+        "why_wrong": "Il comma 2 vieta di richiedere l'uso di moduli non pubblicati e non prevede interruzioni dei termini: il procedimento può essere avviato anche senza modulo."
       }
     ],
     "correct": "c",
@@ -513,12 +513,12 @@
       {
         "id": "a",
         "text": "soltanto all'ufficio di disciplina, ai fini dell'eventuale attivazione del procedimento disciplinare",
-        "why_wrong": "L'ufficio di disciplina è destinatario solo nei casi più gravi; le segnalazioni vanno anche a organo di indirizzo, OIV e ANAC."
+        "why_wrong": "Ai sensi del comma 1 l'ufficio di disciplina riceve la segnalazione solo nei casi più gravi, e non in via esclusiva: destinatari sono anche organo di indirizzo politico, OIV e ANAC."
       },
       {
         "id": "b",
         "text": "al prefetto e alla Corte dei conti, ai fini dell'attivazione delle altre forme di responsabilità",
-        "why_wrong": "La segnalazione alla Corte dei conti, «se del caso», è prevista per l'ANAC (art. 45, comma 4), non per il Responsabile."
+        "why_wrong": "Prefetto e Corte dei conti non sono destinatari delle segnalazioni del Responsabile (art. 43, comma 1); la segnalazione alla Corte dei conti, «se del caso», spetta all'ANAC (art. 45, comma 4)."
       },
       {
         "id": "c",
@@ -528,7 +528,7 @@
       {
         "id": "d",
         "text": "al solo organismo indipendente di valutazione, che ne tiene conto nella valutazione della performance individuale",
-        "why_wrong": "Il comma 1 indica più destinatari: organo di indirizzo, OIV, ANAC e, nei casi più gravi, ufficio di disciplina."
+        "why_wrong": "L'OIV non è l'unico destinatario: il comma 1 indica anche organo di indirizzo politico, ANAC e, nei casi più gravi, ufficio di disciplina."
       }
     ],
     "correct": "c",
@@ -573,7 +573,7 @@
       {
         "id": "d",
         "text": "ordina alle amministrazioni di procedere, entro un termine non superiore a trenta giorni, alla pubblicazione di dati, documenti e informazioni e alla rimozione degli atti contrastanti",
-        "why_wrong": "Questo potere spetta all'ANAC (art. 45, comma 1)."
+        "why_wrong": "L'ordine di procedere, entro un termine non superiore a trenta giorni, alla pubblicazione o alla rimozione di atti contrastanti è un potere dell'ANAC (art. 45, comma 1), non dell'OIV."
       }
     ],
     "correct": "b",
@@ -696,12 +696,12 @@
       {
         "id": "a",
         "text": "costituiscono reato di omissione di atti d'ufficio, che il Responsabile per la trasparenza è tenuto a segnalare all'autorità giudiziaria",
-        "why_wrong": "Il comma 1 non qualifica l'inadempimento come reato, ma come elemento di valutazione negativa della responsabilità dirigenziale."
+        "why_wrong": "Il comma 1 non configura un reato né prevede segnalazioni all'autorità giudiziaria, ma un elemento di valutazione negativa della responsabilità dirigenziale."
       },
       {
         "id": "b",
         "text": "comportano la nullità degli atti non pubblicati e dei provvedimenti di diniego dell'accesso civico, rilevabile da chiunque vi abbia interesse",
-        "why_wrong": "Il comma 1 disciplina la responsabilità dei dirigenti, non la validità degli atti."
+        "why_wrong": "Il comma 1 non incide sulla validità degli atti né dei dinieghi di accesso civico, ma sulla responsabilità dirigenziale e sulla retribuzione di risultato."
       },
       {
         "id": "c",
@@ -790,12 +790,12 @@
       {
         "id": "b",
         "text": "alla decadenza dalla carica, dichiarata dall'Autorità nazionale anticorruzione con provvedimento pubblicato sul sito",
-        "why_wrong": "Il comma 1 prevede una sanzione amministrativa pecuniaria, non la decadenza."
+        "why_wrong": "Il comma 1 non prevede la decadenza ma una sanzione amministrativa pecuniaria da 500 a 10.000 euro, il cui provvedimento è pubblicato sul sito dell'amministrazione."
       },
       {
         "id": "c",
         "text": "a una sanzione pari alla somma corrisposta, a carico del dirigente che ha disposto il pagamento dei compensi",
-        "why_wrong": "La sanzione pari alla somma corrisposta è prevista per il pagamento dei consulenti senza pubblicazione (art. 15, comma 3)."
+        "why_wrong": "La sanzione pari alla somma corrisposta a carico del dirigente che ha disposto il pagamento riguarda i consulenti senza pubblicazione (art. 15, comma 3), non la mancata comunicazione dei dati dell'art. 14."
       },
       {
         "id": "d",
@@ -835,12 +835,12 @@
       {
         "id": "b",
         "text": "dal Responsabile per la trasparenza di ciascuna amministrazione, su segnalazione dell'organismo indipendente di valutazione",
-        "why_wrong": "Il Responsabile segnala gli inadempimenti (art. 43); le sanzioni sono irrogate dall'ANAC."
+        "why_wrong": "Il Responsabile per la trasparenza segnala gli inadempimenti (art. 43, comma 1) e non irroga sanzioni; il comma 3 attribuisce l'irrogazione all'ANAC."
       },
       {
         "id": "c",
         "text": "dall'ufficio per i procedimenti disciplinari dell'amministrazione interessata, su segnalazione dell'ANAC",
-        "why_wrong": "All'ufficio disciplinare l'ANAC segnala l'illecito disciplinare dell'art. 45, comma 4; le sanzioni dell'art. 47 sono irrogate dall'ANAC."
+        "why_wrong": "L'ANAC segnala all'ufficio per i procedimenti disciplinari l'illecito disciplinare dell'art. 45, comma 4, ma le sanzioni dell'art. 47 le irroga direttamente (comma 3)."
       },
       {
         "id": "d",

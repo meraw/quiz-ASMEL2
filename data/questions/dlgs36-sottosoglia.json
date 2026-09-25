@@ -101,17 +101,17 @@
       {
         "id": "b",
         "text": "Solo previa autorizzazione dell'ANAC, richiesta dalla stazione appaltante con provvedimento motivato in relazione alla specifica situazione di fatto",
-        "why_wrong": "L'art. 49, comma 4, non richiede autorizzazioni dell'ANAC, ma una motivazione riferita alla struttura del mercato e all'assenza di alternative."
+        "why_wrong": "L'art. 49, comma 4, non prevede alcuna autorizzazione dell'ANAC: basta un provvedimento motivato con riferimento alla struttura del mercato e all'effettiva assenza di alternative, previa verifica dell'esecuzione precedente."
       },
       {
         "id": "c",
         "text": "Solo se il nuovo contratto ha importo inferiore a 40.000 euro e l'operatore attesta i requisiti con dichiarazione sostitutiva di atto di notorietà",
-        "why_wrong": "La soglia di 40.000 euro riguarda il controllo dei requisiti tramite dichiarazione sostitutiva (art. 52, comma 1), non la deroga alla rotazione."
+        "why_wrong": "L'importo inferiore a 40.000 euro e la dichiarazione sostitutiva attengono al controllo sul possesso dei requisiti (art. 52, comma 1), non alle condizioni per reinvitare il contraente uscente (art. 49, comma 4)."
       },
       {
         "id": "d",
         "text": "Solo se l'affidamento precedente era avvenuto mediante procedura negoziata senza bando, previa consultazione di almeno cinque operatori",
-        "why_wrong": "L'art. 49, comma 4, non fa dipendere la deroga dal tipo di procedura del precedente affidamento."
+        "why_wrong": "La consultazione di almeno cinque operatori riguarda le procedure negoziate dell'art. 50, comma 1; l'art. 49, comma 4, non subordina la deroga al tipo di procedura seguita per il precedente affidamento."
       }
     ],
     "correct": "a",
@@ -371,12 +371,12 @@
       {
         "id": "c",
         "text": "È sempre vietato, anche in presenza di situazioni particolari e specificamente motivate e in assenza di altri metodi praticabili",
-        "why_wrong": "L'art. 50, comma 2, ammette il sorteggio in situazioni particolari e specificamente motivate, quando nessun altro metodo è praticabile."
+        "why_wrong": "Il divieto dell'art. 50, comma 2, non è assoluto: il sorteggio è ammesso proprio in situazioni particolari e specificamente motivate in cui non sia praticabile nessun altro metodo."
       },
       {
         "id": "d",
         "text": "È obbligatorio quando gli operatori iscritti nell'elenco sono più di dieci, per individuare quelli da invitare alla successiva procedura negoziata",
-        "why_wrong": "L'art. 50, comma 2, non prevede alcun obbligo di sorteggio legato al numero degli iscritti."
+        "why_wrong": "L'art. 50, comma 2, considera il sorteggio un'eccezione, ammessa solo in situazioni particolari e motivate; non lo rende obbligatorio in base al numero di iscritti nell'elenco."
       }
     ],
     "correct": "b",
@@ -494,7 +494,7 @@
       {
         "id": "a",
         "text": "Alla sola segnalazione alla Procura della Repubblica, mantenendo in essere il contratto già stipulato con l'operatore",
-        "why_wrong": "L'art. 52, comma 2, prevede la risoluzione del contratto, l'escussione della garanzia, la comunicazione all'ANAC e la sospensione dell'operatore."
+        "why_wrong": "L'art. 52, comma 2, non prevede il mantenimento del contratto: impone la risoluzione, l'escussione dell'eventuale garanzia definitiva, la comunicazione all'ANAC e la sospensione dell'operatore."
       },
       {
         "id": "b",
@@ -504,12 +504,12 @@
       {
         "id": "c",
         "text": "All'esclusione dell'operatore da tutte le procedure di affidamento indette da qualsiasi stazione appaltante per un periodo fisso di cinque anni",
-        "why_wrong": "L'art. 52, comma 2, prevede una sospensione da uno a dodici mesi, limitata alle procedure indette dalla medesima stazione appaltante."
+        "why_wrong": "L'art. 52, comma 2, prevede la sospensione dalle procedure della medesima stazione appaltante, per un periodo da uno a dodici mesi, non un'esclusione quinquennale da tutte le procedure."
       },
       {
         "id": "d",
         "text": "Al soccorso istruttorio, assegnando all'operatore un termine da cinque a dieci giorni per acquisire i requisiti mancanti",
-        "why_wrong": "L'art. 52, comma 2, non prevede il soccorso istruttorio, ma la risoluzione del contratto e le altre misure indicate."
+        "why_wrong": "Il termine da cinque a dieci giorni è quello del soccorso istruttorio (art. 101, comma 1); l'art. 52, comma 2, dispone invece la risoluzione del contratto e le altre misure indicate."
       }
     ],
     "correct": "b",
@@ -543,17 +543,17 @@
       {
         "id": "a",
         "text": "È pari al 2 per cento del prezzo base indicato nell'avviso o nell'invito",
-        "why_wrong": "L'art. 53, comma 2, pone un limite massimo dell'uno per cento per i contratti sotto soglia."
+        "why_wrong": "Per le procedure sotto soglia l'art. 53, comma 2, non fissa una misura del 2 per cento, ma un limite massimo dell'uno per cento dell'importo previsto nell'avviso o nell'invito."
       },
       {
         "id": "b",
         "text": "Non può superare il 5 per cento dell'importo contrattuale previsto nell'avviso o nell'invito",
-        "why_wrong": "Il 5 per cento è la misura della garanzia definitiva, quando richiesta (art. 53, comma 4)."
+        "why_wrong": "Il 5 per cento dell'importo contrattuale è la misura della garanzia definitiva quando richiesta (art. 53, comma 4); la garanzia provvisoria non può superare l'uno per cento (comma 2)."
       },
       {
         "id": "c",
         "text": "È determinato liberamente dalla stazione appaltante nella decisione di contrarre",
-        "why_wrong": "L'art. 53, comma 2, fissa un limite massimo dell'uno per cento."
+        "why_wrong": "L'ammontare non è libero: l'art. 53, comma 2, lo limita all'uno per cento dell'importo previsto nell'avviso o nell'invito; nella decisione di contrarre sono indicate solo le particolari esigenze (comma 1)."
       },
       {
         "id": "d",
