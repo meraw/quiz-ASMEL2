@@ -1,0 +1,538 @@
+[
+  {
+    "id": "re-amm-001",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi del Regolamento (UE) 2021/1060, gli Stati membri adoperano i contributi dei fondi per fornire ai beneficiari sostegno sotto forma di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sole sovvenzioni",
+        "why_wrong": "L'art. 52 elenca anche strumenti finanziari e premi."
+      },
+      {
+        "id": "b",
+        "text": "sovvenzioni o strumenti finanziari, ma non una loro combinazione",
+        "why_wrong": "L'art. 52 ammette una combinazione delle diverse modalità; l'art. 58, par. 5, disciplina la combinazione di strumenti finanziari e sovvenzioni in una singola operazione."
+      },
+      {
+        "id": "c",
+        "text": "sovvenzioni, strumenti finanziari o premi, o una combinazione di tali modalità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "soltanto prestiti o garanzie",
+        "why_wrong": "Prestiti o garanzie sono gli unici prodotti degli strumenti finanziari attuati direttamente dall'autorità di gestione (art. 59, par. 1), non le forme di sostegno in generale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 52 stabilisce che gli Stati membri adoperano i contributi dei fondi per fornire ai beneficiari sostegno sotto forma di sovvenzioni, strumenti finanziari o premi, o di una combinazione di tali modalità.",
+    "evidence": [
+      {
+        "ref": "art. 52 Reg. 2021/1060",
+        "text": "Gli Stati membri adoperano i contributi dei fondi per fornire ai beneficiari sostegno sotto forma di sovvenzioni, strumenti finanziari o premi o una combinazione di tali modalità."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 52 Reg. 2021/1060",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-002",
+    "subject": "rendicontazione-ue",
+    "question": "Un Comune presenta un'operazione finanziata dal FSE+ con un costo totale di 150 000 EUR; il sostegno non configura aiuto di Stato e l'operazione non rientra nel settore della ricerca e dell'innovazione. Secondo il Regolamento (UE) 2021/1060, il contributo fornito al beneficiario:",
+    "options": [
+      {
+        "id": "a",
+        "text": "assume la forma di rimborso dei costi ammissibili effettivamente sostenuti e pagati",
+        "why_wrong": "Se il costo totale non supera 200 000 EUR, il contributo del FSE+ assume la forma di costi unitari, somme forfettarie o tassi forfettari (art. 53, par. 2)."
+      },
+      {
+        "id": "b",
+        "text": "assume la forma di costi unitari, somme forfettarie o tassi forfettari",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "assume necessariamente la forma di finanziamento non collegato ai costi",
+        "why_wrong": "Il finanziamento non collegato ai costi è una forma possibile solo se coperta da un rimborso del contributo dell'Unione a norma dell'art. 95 (art. 53, par. 1, lett. f)); non è la forma imposta dall'art. 53, par. 2."
+      },
+      {
+        "id": "d",
+        "text": "può assumere qualsiasi forma, perché l'obbligo di utilizzare opzioni semplificate riguarda il solo FESR",
+        "why_wrong": "L'art. 53, par. 2, si applica al contributo di FESR, FSE+, JTF, AMIF, ISF e BMVI."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 53, par. 2, prevede che, se il costo totale di un'operazione non supera 200 000 EUR, il contributo fornito al beneficiario da FESR, FSE+, JTF, AMIF, ISF e BMVI assuma la forma di costi unitari, somme forfettarie o tassi forfettari, salvo che il sostegno configuri un aiuto di Stato.",
+    "evidence": [
+      {
+        "ref": "art. 53 Reg. 2021/1060, par. 2",
+        "text": "Se il costo totale di un’operazione non supera 200 000 EUR, il contributo fornito al beneficiario dal FESR, dal FSE+, dal JTF, dall’AMIF, dall’ISF e dal BMVI assume la forma di costi unitari, somme forfettarie o tassi forfettari, ad eccezione delle operazioni il cui sostegno configura un aiuto di Stato."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 53 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-003",
+    "subject": "rendicontazione-ue",
+    "question": "Il Regolamento (UE) 2021/1060 impone di ricorrere a costi unitari, somme forfettarie o tassi forfettari per le operazioni il cui costo totale non supera 200 000 EUR. Da tale obbligo sono escluse:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le operazioni il cui sostegno configura un aiuto di Stato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "le operazioni cofinanziate dal FSE+",
+        "why_wrong": "Il FSE+ è tra i fondi ai quali si applica l'obbligo dell'art. 53, par. 2."
+      },
+      {
+        "id": "c",
+        "text": "tutte le operazioni nel settore della ricerca e dell'innovazione, automaticamente",
+        "why_wrong": "Per la ricerca e l'innovazione l'autorità di gestione «può convenire» di esentare solo «alcune operazioni», previa approvazione del comitato di sorveglianza (art. 53, par. 2, secondo comma)."
+      },
+      {
+        "id": "d",
+        "text": "le operazioni i cui progetti di bilancio sono approvati ex ante",
+        "why_wrong": "I progetti di bilancio approvati ex ante sono uno dei modi per stabilire gli importi di costi unitari, somme forfettarie e tassi forfettari (art. 53, par. 3, lett. b)), non un'esclusione dall'obbligo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 53, par. 2, esclude dall'obbligo le operazioni il cui sostegno configura un aiuto di Stato. Inoltre l'autorità di gestione può esentare alcune operazioni nel settore della ricerca e dell'innovazione, ma solo previa approvazione del comitato di sorveglianza.",
+    "evidence": [
+      {
+        "ref": "art. 53 Reg. 2021/1060, par. 2",
+        "text": "ad eccezione delle operazioni il cui sostegno configura un aiuto di Stato."
+      },
+      {
+        "ref": "art. 53 Reg. 2021/1060, par. 2",
+        "text": "In deroga al primo comma del presente paragrafo, l’autorità di gestione può convenire di esentare dall’obbligo di cui a tale comma alcune operazioni nel settore della ricerca e dell’innovazione, previa approvazione del comitato di sorveglianza."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 53 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-004",
+    "subject": "rendicontazione-ue",
+    "question": "In un'operazione sostenuta da una sovvenzione, l'autorità di gestione intende coprire i costi indiretti con un tasso forfettario senza eseguire alcun calcolo per determinare il tasso applicabile. Secondo il Regolamento (UE) 2021/1060, può applicare un tasso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fino al 25 % dei costi diretti ammissibili",
+        "why_wrong": "Il tasso fino al 25 % richiede che sia calcolato secondo l'art. 53, par. 3, lett. a) (art. 54, lett. c))."
+      },
+      {
+        "id": "b",
+        "text": "fino al 15 % dei costi diretti ammissibili complessivi",
+        "why_wrong": "Il 15 % si calcola sui costi diretti ammissibili per il personale, non sul totale dei costi diretti (art. 54, lett. b))."
+      },
+      {
+        "id": "c",
+        "text": "fino al 20 % dei costi diretti ammissibili",
+        "why_wrong": "Il 20 % è il tasso per calcolare i costi diretti per il personale sui costi diretti diversi da quelli per il personale (art. 55, par. 1)."
+      },
+      {
+        "id": "d",
+        "text": "fino al 7 % dei costi diretti ammissibili",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 54, lett. a), consente un tasso forfettario per i costi indiretti fino al 7 % dei costi diretti ammissibili, senza che lo Stato membro debba eseguire un calcolo. Senza calcolo è ammesso anche un tasso fino al 15 % dei costi diretti per il personale (lett. b)); il tasso fino al 25 % richiede invece un calcolo (lett. c)).",
+    "evidence": [
+      {
+        "ref": "art. 54 Reg. 2021/1060",
+        "text": "Se si applica un tasso forfettario per coprire i costi indiretti di un’operazione, esso può basarsi su uno degli elementi seguenti: a) fino al 7 % dei costi diretti ammissibili, nel qual caso lo Stato membro non è tenuto a eseguire un calcolo per determinare il tasso applicabile;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 54 Reg. 2021/1060",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-005",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi del Regolamento (UE) 2021/1060, un tasso forfettario per i costi indiretti fino al 25 % dei costi diretti ammissibili può essere applicato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "senza che lo Stato membro sia tenuto a eseguire alcun calcolo",
+        "why_wrong": "L'esonero dal calcolo vale per i tassi fino al 7 % dei costi diretti e fino al 15 % dei costi diretti per il personale (art. 54, lett. a) e b))."
+      },
+      {
+        "id": "b",
+        "text": "a condizione che il tasso sia calcolato con un metodo giusto, equo e verificabile ai sensi dell'art. 53, par. 3, lett. a)",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo per le operazioni il cui costo totale non supera 200 000 EUR",
+        "why_wrong": "La soglia di 200 000 EUR riguarda l'obbligo di opzioni semplificate (art. 53, par. 2) e i progetti di bilancio (art. 53, par. 3, lett. b))."
+      },
+      {
+        "id": "d",
+        "text": "solo previa approvazione del comitato di sorveglianza",
+        "why_wrong": "L'approvazione del comitato di sorveglianza riguarda l'esenzione di alcune operazioni di ricerca e innovazione (art. 53, par. 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 54, lett. c), consente un tasso fino al 25 % dei costi diretti ammissibili a condizione che sia calcolato secondo l'art. 53, par. 3, lett. a), cioè con un metodo giusto, equo e verificabile basato su dati statistici o valutazioni di esperti, su dati storici verificati o sulle normali prassi di contabilità dei costi del beneficiario.",
+    "evidence": [
+      {
+        "ref": "art. 54 Reg. 2021/1060",
+        "text": "c) fino al 25 % dei costi diretti ammissibili, a condizione che il tasso sia calcolato in conformità dell’articolo 53, paragrafo 3, lettera a)."
+      },
+      {
+        "ref": "art. 53 Reg. 2021/1060, par. 3",
+        "text": "a) un metodo di calcolo giusto, equo e verificabile, basato:"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 54 Reg. 2021/1060",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-006",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, i costi diretti per il personale di un'operazione possono essere calcolati, senza che lo Stato membro debba eseguire un calcolo per determinare il tasso, a un tasso forfettario:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fino al 20 % dei costi diretti dell'operazione diversi dai costi diretti per il personale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "fino al 15 % dei costi diretti ammissibili",
+        "why_wrong": "Il 15 % dei costi diretti per il personale è una base per il calcolo dei costi indiretti (art. 54, lett. b))."
+      },
+      {
+        "id": "c",
+        "text": "fino al 40 % dei costi diretti ammissibili per il personale",
+        "why_wrong": "Il 40 % dei costi diretti per il personale copre i costi ammissibili residui dell'operazione (art. 56, par. 1)."
+      },
+      {
+        "id": "d",
+        "text": "fino al 7 % dei costi diretti ammissibili",
+        "why_wrong": "Il 7 % dei costi diretti ammissibili è il tasso per i costi indiretti (art. 54, lett. a))."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 55, par. 1, consente di calcolare i costi diretti per il personale a un tasso forfettario fino al 20 % dei costi diretti diversi da quelli per il personale, senza obbligo di calcolo, purché i costi diretti non comprendano appalti pubblici di valore superiore alle soglie delle direttive 2014/24/UE e 2014/25/UE.",
+    "evidence": [
+      {
+        "ref": "art. 55 Reg. 2021/1060, par. 1",
+        "text": "I costi diretti per il personale di un’operazione possono essere calcolati a un tasso forfettario fino al 20 % dei costi diretti di tale operazione diversi dai costi diretti per il personale, senza che lo Stato membro sia tenuto a eseguire un calcolo per determinare il tasso applicabile"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 55 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-007",
+    "subject": "rendicontazione-ue",
+    "question": "Per un dipendente a tempo pieno impiegato in un'operazione, i più recenti costi del lavoro lordi annui documentati ammontano a 43 000 EUR. Con il metodo dell'art. 55, par. 2, lett. a), del Regolamento (UE) 2021/1060, la tariffa oraria è pari a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "23,89 EUR",
+        "why_wrong": "È il risultato della divisione per 1 800 ore; per il tempo pieno il divisore è 1 720 ore (art. 55, par. 2, lett. a))."
+      },
+      {
+        "id": "b",
+        "text": "26,88 EUR",
+        "why_wrong": "È il risultato della divisione per 1 600 ore; per il tempo pieno il divisore è 1 720 ore (art. 55, par. 2, lett. a))."
+      },
+      {
+        "id": "c",
+        "text": "25,00 EUR",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "20,67 EUR",
+        "why_wrong": "È il risultato della divisione per 2 080 ore; per il tempo pieno il divisore è 1 720 ore (art. 55, par. 2, lett. a))."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 55, par. 2, lett. a), prevede che la tariffa oraria si ottenga dividendo i più recenti costi del lavoro lordi annui documentati per 1 720 ore, per il lavoro a tempo pieno: 43 000 / 1 720 = 25 EUR.",
+    "evidence": [
+      {
+        "ref": "art. 55 Reg. 2021/1060, par. 2",
+        "text": "a) dividendo i più recenti costi del lavoro lordi documentati per il personale, se annui, per 1 720 ore nel caso di lavoro a tempo pieno"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 55 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-008",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, le spese sono ammissibili al contributo dei fondi se sono state sostenute e pagate per l'attuazione di operazioni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tra il 1° gennaio 2021 e il 31 dicembre 2027",
+        "why_wrong": "Il periodo 2021-2027 è quello degli impegni di bilancio dell'Unione (art. 86, par. 2); le spese sono ammissibili fino al 31 dicembre 2029 (art. 63, par. 2)."
+      },
+      {
+        "id": "b",
+        "text": "tra la data di approvazione del programma e il 31 dicembre 2030",
+        "why_wrong": "Il 31 dicembre 2030 è il termine per il reimpiego delle risorse restituite dalle sovvenzioni soggette a condizioni (art. 57, par. 3)."
+      },
+      {
+        "id": "c",
+        "text": "tra il 1° luglio 2021 e il 30 giugno 2030",
+        "why_wrong": "Il 30 giugno 2030 chiude il periodo contabile finale (art. 2, punto 29), non il periodo di ammissibilità delle spese."
+      },
+      {
+        "id": "d",
+        "text": "tra la data di presentazione del programma alla Commissione, o il 1° gennaio 2021 se anteriore, e il 31 dicembre 2029",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 63, par. 2, stabilisce che le spese sono ammissibili se sostenute da un beneficiario (o dal partner privato di un PPP) e pagate per l'attuazione di operazioni tra la data di presentazione del programma alla Commissione, o il 1° gennaio 2021 se anteriore, e il 31 dicembre 2029.",
+    "evidence": [
+      {
+        "ref": "art. 63 Reg. 2021/1060, par. 2",
+        "text": "Le spese sono ammissibili al contributo dei fondi se sono state sostenute da un beneficiario o dal partner privato di un’operazione PPP e pagate per l’attuazione di operazioni tra la data di presentazione del programma alla Commissione, o il 1o gennaio 2021 se anteriore, e il 31 dicembre 2029."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 63 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-009",
+    "subject": "rendicontazione-ue",
+    "question": "Un Comune ha terminato i lavori di riqualificazione di una piazza nel marzo 2024, senza avere ancora pagato tutte le fatture; nel giugno 2024 presenta una domanda di finanziamento a valere su un programma FESR. Secondo il Regolamento (UE) 2021/1060, l'operazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può essere selezionata, perché non tutti i pagamenti sono stati effettuati",
+        "why_wrong": "L'art. 63, par. 6, esclude le operazioni materialmente completate «a prescindere dal fatto che tutti i relativi pagamenti siano stati effettuati o meno»."
+      },
+      {
+        "id": "b",
+        "text": "non può essere selezionata, perché è stata materialmente completata prima della presentazione della domanda di finanziamento",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "può essere selezionata limitatamente alle spese non ancora pagate",
+        "why_wrong": "Il divieto dell'art. 63, par. 6, riguarda l'operazione in sé, indipendentemente dai pagamenti."
+      },
+      {
+        "id": "d",
+        "text": "può essere selezionata se l'autorità di gestione verifica che sia stato osservato il diritto applicabile",
+        "why_wrong": "La verifica del rispetto del diritto applicabile riguarda le operazioni «cominciate» prima della domanda (art. 73, par. 2, lett. f)), non quelle già completate."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 63, par. 6, stabilisce che non sono selezionate le operazioni materialmente completate o pienamente attuate prima della presentazione della domanda di finanziamento, a prescindere dal fatto che tutti i pagamenti siano stati effettuati.",
+    "evidence": [
+      {
+        "ref": "art. 63 Reg. 2021/1060, par. 6",
+        "text": "Non sono selezionate per ricevere sostegno dai fondi le operazioni materialmente completate o pienamente attuate prima che sia stata presentata la domanda di finanziamento a titolo del programma, a prescindere dal fatto che tutti i relativi pagamenti siano stati effettuati o meno."
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 63 Reg. 2021/1060, par. 6",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-010",
+    "subject": "rendicontazione-ue",
+    "question": "Un'operazione, che non riguarda la conservazione dell'ambiente, ha spese totali ammissibili pari a 1 000 000 EUR e prevede l'acquisto di un terreno che non è un sito in stato di degrado né un sito precedentemente adibito a uso industriale. Secondo il Regolamento (UE) 2021/1060, la spesa per l'acquisto del terreno è ammissibile fino a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "150 000 EUR",
+        "why_wrong": "Il limite del 15 % vale per i siti in stato di degrado e per quelli precedentemente adibiti a uso industriale che comprendono edifici (art. 64, par. 1, lett. b))."
+      },
+      {
+        "id": "b",
+        "text": "70 000 EUR",
+        "why_wrong": "Il 7 % è il tasso forfettario per i costi indiretti (art. 54, lett. a)); per i terreni il limite è il 10 % delle spese totali ammissibili."
+      },
+      {
+        "id": "c",
+        "text": "100 000 EUR",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "nessun importo, perché l'acquisto di terreni non è mai ammissibile",
+        "why_wrong": "L'art. 64, par. 1, lett. b), esclude l'acquisto di terreni solo per l'importo superiore al 10 % delle spese totali ammissibili."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 64, par. 1, lett. b), esclude dal contributo dei fondi l'acquisto di terreni per un importo superiore al 10 % delle spese totali ammissibili dell'operazione (15 % per i siti degradati o ex industriali con edifici): su 1 000 000 EUR il limite è 100 000 EUR. La regola non si applica alle operazioni di conservazione dell'ambiente.",
+    "evidence": [
+      {
+        "ref": "art. 64 Reg. 2021/1060, par. 1",
+        "text": "l’acquisto di terreni per un importo superiore al 10 % delle spese totali ammissibili dell’operazione interessata; per i siti in stato di degrado e per quelli precedentemente adibiti a uso industriale che comprendono edifici, tale limite è aumentato al 15 %;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 64 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-011",
+    "subject": "rendicontazione-ue",
+    "question": "Secondo il Regolamento (UE) 2021/1060, l'IVA è ammissibile al contributo dei fondi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sempre, se effettivamente pagata dal beneficiario",
+        "why_wrong": "L'art. 64, par. 1, lett. c), include l'IVA tra i costi non ammissibili, salvo i casi che elenca."
+      },
+      {
+        "id": "b",
+        "text": "solo per le operazioni il cui costo totale non supera 200 000 EUR",
+        "why_wrong": "200 000 EUR è la soglia per l'obbligo di opzioni semplificate in materia di costi (art. 53, par. 2)."
+      },
+      {
+        "id": "c",
+        "text": "in nessun caso",
+        "why_wrong": "L'art. 64, par. 1, lett. c), prevede espressamente casi in cui l'IVA è ammissibile."
+      },
+      {
+        "id": "d",
+        "text": "per le operazioni di costo totale inferiore a 5 000 000 EUR (IVA inclusa) e, per quelle di costo pari o superiore, se non recuperabile a norma della legislazione nazionale sull'IVA",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 64, par. 1, lett. c), considera l'IVA non ammissibile, salvo, tra l'altro, per le operazioni il cui costo totale è inferiore a 5 000 000 EUR (IVA inclusa) e per quelle di costo pari ad almeno 5 000 000 EUR quando l'IVA non è recuperabile secondo la legislazione nazionale.",
+    "evidence": [
+      {
+        "ref": "art. 64 Reg. 2021/1060, par. 1",
+        "text": "l’imposta sul valore aggiunto («IVA») salvo: i) per le operazioni il cui costo totale è inferiore a 5 000 000 EUR (IVA inclusa); ii) per le operazioni il cui costo totale è pari ad almeno 5 000 000 EUR (IVA inclusa) nei casi in cui non sia recuperabile a norma della legislazione nazionale sull’IVA;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 64 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-amm-012",
+    "subject": "rendicontazione-ue",
+    "question": "In materia di stabilità delle operazioni, il Regolamento (UE) 2021/1060 prevede che lo Stato membro restituisca il contributo dei fondi a un'operazione che comporta investimenti in infrastrutture o investimenti produttivi se, entro cinque anni dal pagamento finale al beneficiario (o nel termine della normativa sugli aiuti di Stato), si verifica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la cessazione di un'attività produttiva a causa di un fallimento non fraudolento",
+        "why_wrong": "L'art. 65, par. 3, esclude l'obbligo di restituzione in caso di cessazione dovuta a un fallimento non fraudolento."
+      },
+      {
+        "id": "b",
+        "text": "la cessazione o il trasferimento di un'attività produttiva al di fuori della regione di livello NUTS 2 in cui ha ricevuto sostegno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "qualsiasi modifica dell'operazione, anche non sostanziale",
+        "why_wrong": "Rileva solo la modifica sostanziale che alteri natura, obiettivi o condizioni di attuazione compromettendo gli obiettivi originari (art. 65, par. 1, lett. c))."
+      },
+      {
+        "id": "d",
+        "text": "il trasferimento di un'attività produttiva all'interno della stessa regione NUTS 2",
+        "why_wrong": "Rileva solo il trasferimento al di fuori della regione NUTS 2 in cui l'operazione ha ricevuto sostegno (art. 65, par. 1, lett. a))."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 65, par. 1, impone la restituzione del contributo se entro cinque anni dal pagamento finale (o nel termine della normativa sugli aiuti di Stato) si verificano: cessazione o trasferimento dell'attività produttiva fuori dalla regione NUTS 2; cambio di proprietà di un'infrastruttura che procuri un vantaggio indebito; modifica sostanziale che comprometta gli obiettivi originari. Per le PMI il termine può essere ridotto a tre anni.",
+    "evidence": [
+      {
+        "ref": "art. 65 Reg. 2021/1060, par. 1",
+        "text": "Lo Stato membro restituisce il contributo dei fondi a un’operazione che comporta investimenti in infrastrutture o investimenti produttivi, se entro cinque anni dal pagamento finale al beneficiario o entro il termine stabilito nella normativa sugli aiuti di Stato, ove applicabile, si verifica quanto segue: a) cessazione o trasferimento di un’attività produttiva al di fuori della regione di livello NUTS 2 in cui ha ricevuto sostegno;"
+      }
+    ],
+    "source": {
+      "act": "Reg. UE 2021/1060",
+      "article": "art. 65 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

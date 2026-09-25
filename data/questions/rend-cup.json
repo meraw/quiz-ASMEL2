@@ -1,0 +1,134 @@
+[
+  {
+    "id": "re-cup-001",
+    "subject": "rendicontazione-ue",
+    "question": "Ai sensi dell'art. 11 della L. 3/2003, il «Codice unico di progetto» (CUP):",
+    "options": [
+      {
+        "id": "a",
+        "text": "è attribuito solo ai progetti di investimento pubblico cofinanziati da fondi dell'Unione europea",
+        "why_wrong": "L'art. 11, comma 1, riguarda ogni nuovo progetto di investimento pubblico, senza distinzione di fonte di finanziamento."
+      },
+      {
+        "id": "b",
+        "text": "è richiesto in via telematica dalle competenti amministrazioni o dai soggetti aggiudicatori per ogni nuovo progetto di investimento pubblico, secondo la procedura definita dal CIPE",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è rilasciato dalla Conferenza unificata su richiesta del soggetto aggiudicatore",
+        "why_wrong": "La Conferenza unificata esprime il parere sulla disciplina del CIPE (art. 11, comma 2); il CUP è richiesto in via telematica secondo la procedura del CIPE (comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "non è previsto per i progetti già in corso di attuazione al 1° gennaio 2003",
+        "why_wrong": "L'art. 11, comma 1, dota del CUP anche ogni progetto in corso di attuazione a quella data."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, comma 1, della L. 3/2003 prevede che ogni nuovo progetto di investimento pubblico, e ogni progetto in corso di attuazione al 1° gennaio 2003, sia dotato di un Codice unico di progetto, richiesto in via telematica dalle competenti amministrazioni o dai soggetti aggiudicatori secondo la procedura definita dal CIPE, anche per la funzionalità della rete di monitoraggio degli investimenti pubblici.",
+    "evidence": [
+      {
+        "ref": "art. 11 L. 3/2003, comma 1",
+        "text": "ogni nuovo progetto di investimento pubblico, nonché ogni progetto in corso di attuazione alla predetta data, è dotato di un \"Codice unico di progetto\", che le competenti amministrazioni o i soggetti aggiudicatori richiedono in via telematica secondo la procedura definita dal CIPE."
+      }
+    ],
+    "source": {
+      "act": "L. 3/2003",
+      "article": "art. 11 L. 3/2003, comma 1",
+      "file": "sources/LEGGE 16 gennaio 2003 , n. 3.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-cup-002",
+    "subject": "rendicontazione-ue",
+    "question": "Un'amministrazione pubblica, tra quelle indicate dall'art. 1, comma 2, del d.lgs. 165/2001, adotta un atto amministrativo che dispone il finanziamento pubblico di un progetto di investimento pubblico senza il corrispondente CUP. Ai sensi dell'art. 11 della L. 3/2003, l'atto è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "valido, ma il CUP deve essere acquisito prima dell'avvio dei lavori",
+        "why_wrong": "L'art. 11, comma 2-bis, non prevede un'acquisizione successiva: l'atto privo di CUP è nullo."
+      },
+      {
+        "id": "b",
+        "text": "annullabile, su ricorso dei soggetti interessati",
+        "why_wrong": "L'art. 11, comma 2-bis, qualifica l'atto come nullo, non annullabile."
+      },
+      {
+        "id": "c",
+        "text": "nullo, perché il CUP costituisce elemento essenziale dell'atto",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "valido, perché il CUP rileva solo ai fini della pubblicazione annuale sul sito istituzionale",
+        "why_wrong": "La pubblicazione annuale è un obbligo distinto (art. 11, comma 2-quater); il comma 2-bis fa del CUP un elemento essenziale dell'atto."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 11, comma 2-bis, della L. 3/2003 stabilisce che gli atti amministrativi, anche regolamentari, che dispongono il finanziamento pubblico o autorizzano l'esecuzione di progetti di investimento pubblico sono nulli in assenza dei corrispondenti CUP, che costituiscono elemento essenziale dell'atto.",
+    "evidence": [
+      {
+        "ref": "art. 11 L. 3/2003, comma 2-bis",
+        "text": "che dispongono il finanziamento pubblico o autorizzano l'esecuzione di progetti di investimento pubblico, sono nulli in assenza dei corrispondenti codici di cui al comma 1 che costituiscono elemento essenziale dell'atto stesso."
+      }
+    ],
+    "source": {
+      "act": "L. 3/2003",
+      "article": "art. 11 L. 3/2003, comma 2-bis",
+      "file": "sources/LEGGE 16 gennaio 2003 , n. 3.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "re-cup-003",
+    "subject": "rendicontazione-ue",
+    "question": "In base all'art. 11 della L. 3/2003, i soggetti titolari di progetti d'investimento pubblico danno notizia, in un'apposita sezione dei propri siti web istituzionali, dell'elenco dei progetti finanziati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "con periodicità annuale, indicando CUP, importo totale del finanziamento, fonti finanziarie, data di avvio e stato di attuazione finanziario e procedurale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "con periodicità semestrale, indicando soltanto il CUP e l'importo del finanziamento",
+        "why_wrong": "L'art. 11, comma 2-quater, prevede una periodicità annuale e un contenuto più ampio (fonti finanziarie, data di avvio, stato di attuazione)."
+      },
+      {
+        "id": "c",
+        "text": "entro il 30 giugno di ogni anno, mediante trasmissione al CIPE",
+        "why_wrong": "Il 30 giugno è il termine per l'informativa al CIPE sullo stato di attuazione della programmazione degli investimenti pubblici (art. 11, comma 2-quinquies), non per la pubblicazione sul sito."
+      },
+      {
+        "id": "d",
+        "text": "solo alla conclusione di ciascun progetto",
+        "why_wrong": "L'art. 11, comma 2-quater, prevede una pubblicazione con periodicità annuale, che comprende lo stato di attuazione dei progetti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 11, comma 2-quater, della L. 3/2003 impone ai soggetti titolari di progetti d'investimento pubblico di pubblicare ogni anno, in un'apposita sezione del sito istituzionale, l'elenco dei progetti finanziati con CUP, importo totale del finanziamento, fonti finanziarie, data di avvio e stato di attuazione finanziario e procedurale.",
+    "evidence": [
+      {
+        "ref": "art. 11 L. 3/2003, comma 2-quater",
+        "text": "I soggetti titolari di progetti d'investimento pubblico danno notizia, con periodicità annuale, in apposita sezione dei propri siti web istituzionali, dell'elenco dei progetti finanziati, indicandone il CUP, l'importo totale del finanziamento, le fonti finanziarie, la data di avvio del progetto e lo stato di attuazione finanziario e procedurale."
+      }
+    ],
+    "source": {
+      "act": "L. 3/2003",
+      "article": "art. 11 L. 3/2003, comma 2-quater",
+      "file": "sources/LEGGE 16 gennaio 2003 , n. 3.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -13,7 +13,9 @@ For each question with an `evidence` list, and for each item in it:
      article made of a single unnumbered paragraph is cited as "art. 16":
      the quote must be inside that article. When one source file holds two
      treaties with their own article numbers (TUE and TFUE), the treaty
-     follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE";
+     follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE".
+     The name of the act may also follow the article number, as a label
+     only: "art. 74 Reg. 2021/1060, par. 2", "art. 11 L. 3/2003, comma 1";
   2. `text` must appear, word for word, inside THAT comma of THAT article
      of the source file. When an article has no numbered commas (e.g. the
      codice penale), its commas are its paragraphs, counted from 1 after the
@@ -64,13 +66,18 @@ COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
 # Optional treaty after the article number ("art. 5 TUE", "art. 288 TFUE"):
 # see TREATY_RE
 ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE))?)'
+# Optional name of the act after the article number ("art. 74 Reg. 2021/1060,
+# par. 2", "art. 11 L. 3/2003, comma 2-bis"): only a label, the act is always
+# the one in source.file
+ART += r'(?:\s+(?:Reg\.|Dir\.|L\.|D\.lgs\.|D\.L\.|D\.P\.R\.)\s+\d+/\d+)?'
 REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
                     r'(?:,\s+lett\.\s+[a-z]+\))?$')
 # "art. 4, punto 7": a numbered point "7)" of an article made of points
 POINT_REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+punto\s+(\d+)$')
 # "art. 16": the whole article (EU articles with a single unnumbered paragraph)
 ARTICLE_REF_RE = re.compile(r'^art\.\s+' + ART + r'$')
-POINT_RE = re.compile(r'^\s*(\d+)\)\s+\S')
+# A point starts with "7) text", or with "7)" alone on its line (EUR-Lex)
+POINT_RE = re.compile(r'^\s*(\d+)\)(?:\s+\S|\s*$)')
 # The closing formula of the act: nothing after it belongs to the act
 # The heading of a treaty in the consolidated TUE/TFUE file (EUR-Lex): the
 # articles after it are stored as "5 TUE", "288 TFUE", because both treaties

@@ -204,7 +204,11 @@ paragraph is cited as a whole: `"art. 10"`.
 The consolidated TUE/TFUE file holds two treaties that both number their
 articles from 1, so the treaty follows the article number:
 `"art. 5 TUE, par. 3"`, `"art. 294 TFUE, par. 7, lett. a)"`, or, for an
-article without numbered paragraphs, `"art. 288 TFUE"`. The check reads the
+article without numbered paragraphs, `"art. 288 TFUE"`.
+
+The name of the act may also follow the article number, as a label only
+(the act is always the one in `source.file`): `"art. 74 Reg. 2021/1060, par. 2"`,
+`"art. 2 Reg. 2021/1060, punto 31"`, `"art. 11 L. 3/2003, comma 2-bis"`. The check reads the
 heading of each treaty ("TRATTATO SULL'UNIONE EUROPEA (VERSIONE
 CONSOLIDATA)", "TRATTATO SUL FUNZIONAMENTO...") to know which treaty an
 article belongs to.
