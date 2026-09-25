@@ -1,0 +1,266 @@
+[
+  {
+    "id": "inf-cad-doc-001",
+    "subject": "informatica",
+    "question": "Nel CAD, \"il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti\" è la definizione di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Documento informatico",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Documento analogico",
+        "why_wrong": "Il documento analogico è la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti (art. 1, comma 1, lett. p-bis)."
+      },
+      {
+        "id": "c",
+        "text": "Copia informatica di documento analogico",
+        "why_wrong": "È il documento informatico avente contenuto identico a quello del documento analogico da cui è tratto (art. 1, comma 1, lett. i-bis)."
+      },
+      {
+        "id": "d",
+        "text": "Duplicato informatico",
+        "why_wrong": "È il documento informatico ottenuto memorizzando la medesima sequenza di valori binari del documento originario (art. 1, comma 1, lett. i-quinquies)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 1, lett. p), definisce il documento informatico come il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; la lett. p-bis) definisce invece il documento analogico come rappresentazione non informatica.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1, lett. p)",
+        "text": "p) documento informatico: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 1, comma 1, lett. p)",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-doc-002",
+    "subject": "informatica",
+    "question": "Secondo il CAD, il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un duplicato informatico",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Una copia informatica di documento informatico",
+        "why_wrong": "La copia informatica di documento informatico ha contenuto identico ma diversa sequenza di valori binari (art. 1, comma 1, lett. i-quater)."
+      },
+      {
+        "id": "c",
+        "text": "Una copia per immagine su supporto informatico di documento analogico",
+        "why_wrong": "Questa copia ha contenuto e forma identici a quelli di un documento analogico (art. 1, comma 1, lett. i-ter)."
+      },
+      {
+        "id": "d",
+        "text": "Un originale non unico",
+        "why_wrong": "Gli originali non unici sono documenti il cui contenuto è ricavabile da altre scritture o documenti di cui sia obbligatoria la conservazione (art. 1, comma 1, lett. v)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, comma 1, lett. i-quinquies), definisce duplicato informatico il documento ottenuto memorizzando la medesima sequenza di valori binari del documento originario; per l'art. 23-bis, comma 1, se prodotto in conformità alle Linee guida ha il medesimo valore giuridico del documento da cui è tratto.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 1",
+        "text": "i-quinquies) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario;"
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 1, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-doc-003",
+    "subject": "informatica",
+    "question": "Un privato trasmette al giudice, come prova, un documento informatico privo di firma elettronica avanzata, qualificata o digitale e non formato attraverso un processo con i requisiti fissati dall'AgID. In base all'art. 20, comma 1-bis, del CAD, l'idoneità di tale documento a soddisfare il requisito della forma scritta e il suo valore probatorio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sono liberamente valutabili in giudizio, in relazione alle caratteristiche di sicurezza, integrità e immodificabilità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Sono sempre esclusi: il documento è privo di qualsiasi valore",
+        "why_wrong": "L'art. 20, comma 1-bis, non esclude il valore del documento, ma lo rimette alla libera valutazione del giudice."
+      },
+      {
+        "id": "c",
+        "text": "Equivalgono sempre a quelli della scrittura privata ai sensi dell'art. 2702 del codice civile",
+        "why_wrong": "L'efficacia dell'art. 2702 c.c. spetta al documento con firma digitale, qualificata o avanzata o formato con il processo AgID (primo periodo del comma 1-bis)."
+      },
+      {
+        "id": "d",
+        "text": "Dipendono dall'attestazione di conformità di un pubblico ufficiale",
+        "why_wrong": "L'attestazione del pubblico ufficiale riguarda le copie (artt. 22, 23 e 23-bis), non il documento informatico originale disciplinato dall'art. 20."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 20, comma 1-bis, riconosce la forma scritta e l'efficacia dell'art. 2702 c.c. al documento informatico con firma digitale, qualificata o avanzata o formato con il processo fissato dall'AgID; in tutti gli altri casi idoneità alla forma scritta e valore probatorio sono liberamente valutabili in giudizio.",
+    "evidence": [
+      {
+        "ref": "art. 20, comma 1-bis",
+        "text": "In tutti gli altri casi, l'idoneità del documento informatico a soddisfare il requisito della forma scritta e il suo valore probatorio sono liberamente valutabili in giudizio, in relazione alle caratteristiche di sicurezza, integrità e immodificabilità."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 20, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-doc-004",
+    "subject": "informatica",
+    "question": "Un dipendente comunale appone la propria firma digitale a una determinazione utilizzando un certificato qualificato scaduto da una settimana. Ai sensi dell'art. 24 del CAD:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'apposizione della firma equivale a mancata sottoscrizione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La firma è valida, perché la scadenza ha effetto solo dalla sua pubblicazione",
+        "why_wrong": "L'effetto dalla pubblicazione riguarda la revoca o la sospensione (art. 24, comma 4-bis, secondo periodo); la firma basata su certificato scaduto equivale a mancata sottoscrizione."
+      },
+      {
+        "id": "c",
+        "text": "La firma è valida, ma il documento ha valore di firma elettronica avanzata",
+        "why_wrong": "L'art. 24, comma 4-bis, non prevede una degradazione a firma avanzata: equipara la firma a mancata sottoscrizione."
+      },
+      {
+        "id": "d",
+        "text": "La firma è valida se il certificato è stato rilasciato da un certificatore stabilito nell'Unione europea",
+        "why_wrong": "Il comma 4-ter riguarda i certificati rilasciati in Stati extra UE; per il comma 3 il certificato non deve risultare scaduto al momento della sottoscrizione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 24, comma 3, la firma digitale va generata con un certificato qualificato non scaduto, revocato o sospeso al momento della sottoscrizione; il comma 4-bis stabilisce che la firma basata su certificato revocato, scaduto o sospeso equivale a mancata sottoscrizione.",
+    "evidence": [
+      {
+        "ref": "art. 24, comma 4-bis",
+        "text": "L'apposizione a un documento informatico di una firma digitale o di un altro tipo di firma elettronica qualificata basata su un certificato elettronico revocato, scaduto o sospeso equivale a mancata sottoscrizione, salvo che lo stato di sospensione sia stato annullato."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 24, comma 4-bis",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-doc-005",
+    "subject": "informatica",
+    "question": "Il responsabile della gestione dei documenti informatici di un Comune si chiede con quale cadenza minima debba trasmettere al sistema di conservazione fascicoli e serie documentarie. Secondo l'art. 44 del CAD:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Almeno una volta all'anno, anche per i fascicoli e le serie relativi a procedimenti non conclusi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Almeno una volta all'anno, ma solo per i procedimenti conclusi",
+        "why_wrong": "L'art. 44, comma 1-bis, include espressamente i fascicoli e le serie documentarie anche relative a procedimenti non conclusi."
+      },
+      {
+        "id": "c",
+        "text": "Con cadenza almeno semestrale",
+        "why_wrong": "La cadenza almeno semestrale è quella prevista dall'art. 6-ter, comma 3, per l'aggiornamento dell'Indice dei domicili digitali delle PA."
+      },
+      {
+        "id": "d",
+        "text": "Soltanto alla chiusura di ciascun procedimento",
+        "why_wrong": "L'art. 44, comma 1-bis, prevede una trasmissione almeno annuale, anche per procedimenti non conclusi."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 44, comma 1-bis, stabilisce che almeno una volta all'anno il responsabile della gestione dei documenti informatici trasmette al sistema di conservazione i fascicoli e le serie documentarie, anche relativi a procedimenti non conclusi.",
+    "evidence": [
+      {
+        "ref": "art. 44, comma 1-bis",
+        "text": "Almeno una volta all'anno il responsabile della gestione dei documenti informatici provvede a trasmettere al sistema di conservazione i fascicoli e le serie documentarie anche relative a procedimenti non conclusi."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 44, comma 1-bis",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "inf-cad-doc-006",
+    "subject": "informatica",
+    "question": "Ai sensi dell'art. 44, comma 1-ter, del CAD, il sistema di conservazione dei documenti informatici assicura, per quanto in esso conservato, caratteristiche di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Autenticità, integrità, affidabilità, leggibilità, reperibilità",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Integrità, disponibilità e riservatezza delle informazioni",
+        "why_wrong": "Integrità, disponibilità e riservatezza sono gli obiettivi delle misure tecniche previste dall'art. 20, comma 4, per le informazioni contenute nel documento informatico."
+      },
+      {
+        "id": "c",
+        "text": "Sicurezza, integrità e immodificabilità del documento",
+        "why_wrong": "Sono le caratteristiche che l'art. 20, comma 1-bis, richiama per la forma scritta e il valore probatorio del documento informatico."
+      },
+      {
+        "id": "d",
+        "text": "Interoperabilità e cooperazione applicativa",
+        "why_wrong": "Sono concetti definiti dall'art. 1, comma 1, lett. dd) ed ee), riferiti ai sistemi informativi, non al sistema di conservazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 44, comma 1-ter, prevede che, in tutti i casi in cui la legge prescrive obblighi di conservazione, il sistema di conservazione assicuri autenticità, integrità, affidabilità, leggibilità e reperibilità di quanto conservato, secondo le Linee guida.",
+    "evidence": [
+      {
+        "ref": "art. 44, comma 1-ter",
+        "text": "di conservazione dei documenti informatici assicura, per quanto in esso conservato, caratteristiche di autenticità, integrità, affidabilità, leggibilità, reperibilità, secondo le modalità indicate nelle Linee guida."
+      }
+    ],
+    "source": {
+      "act": "D.lgs. 82/2005 (CAD)",
+      "article": "art. 44, comma 1-ter",
+      "file": "sources/DECRETO LEGISLATIVO 7 marzo 2005 , n. 82.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
