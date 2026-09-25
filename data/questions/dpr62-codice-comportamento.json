@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'unica evidence è l'art. 4, comma 5 («per regali o altre utilità di modico valore si intendono quelle di valore non superiore, in via orientativa, a 150 euro»), che definisce la soglia ma non stabilisce che il dipendente possa accettare il regalo. La facoltà di accettare deriva dal comma 2: «Il dipendente non accetta, per sé o per altri, regali o altre utilità, salvo quelli d'uso di modico valore effettuati occasionalmente nell'ambito delle normali relazioni di cortesia». Suggerimento: aggiungere questo periodo come evidence (ref «art. 4, comma 2») e indicare in source.article «art. 4, commi 2 e 5». Risposta, distrattori e why_wrong sono per il resto corretti.",
     "no_shuffle": false
   },
   {
@@ -84,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controlli 2, 4 e 7 non superati. Il periodo citato dell'art. 4, comma 2, riguarda solo la richiesta: «il dipendente non chiede, per sé o per altri, regali o altre utilità, neanche di modico valore a titolo di corrispettivo per compiere o per aver compiuto un atto del proprio ufficio». Il verbo «accetta» non compare in quel periodo, quindi l'opzione c («è vietato chiedere o accettare regali [...] a titolo di corrispettivo»), il why_wrong di a e la spiegazione («non chiede né accetta») attribuiscono al file un divieto che il file, in quei termini, non contiene. Nello scenario il cittadino offre il buono: il divieto va ricavato dal primo periodo del comma 2 («Il dipendente non accetta, per sé o per altri, regali o altre utilità, salvo quelli d'uso di modico valore effettuati occasionalmente nell'ambito delle normali relazioni di cortesia»), perché un buono dato come ringraziamento per una pratica non è un regalo d'uso di cortesia. Suggerimento: basare risposta ed evidence sul primo periodo, oppure cambiare lo scenario in una richiesta del dipendente; correggere di conseguenza il why_wrong di a e la spiegazione.",
     "no_shuffle": false
   },
   {
@@ -128,7 +130,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +174,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +218,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -264,7 +266,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +310,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -352,7 +354,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -396,7 +398,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -440,7 +442,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

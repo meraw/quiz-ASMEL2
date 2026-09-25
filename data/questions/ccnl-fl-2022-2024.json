@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +176,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +220,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -268,7 +268,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -316,7 +316,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -360,7 +360,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -404,7 +404,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -448,7 +448,8 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 7 non superato. La spiegazione afferma che l'art. 32 «riconosce 18 ore annue di permesso», presentandolo come un diritto, ma il comma 1 dispone: «Al dipendente, possono essere concesse, a domanda, compatibilmente con le esigenze di servizio, 18 ore di permesso retribuito nell'anno [...] Il diniego deve essere motivato e formalizzato.» Suggerimento: sostituire «riconosce» con «prevede che possano essere concesse, a domanda e compatibilmente con le esigenze di servizio,». Risposta, distrattori ed evidence sono per il resto corretti.",
     "no_shuffle": false
   },
   {
@@ -496,7 +497,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -540,7 +541,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -588,7 +589,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -632,7 +633,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -676,7 +677,7 @@
       "url": null
     },
     "source_date": "2026-02-23",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
