@@ -84,10 +84,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Una giunta comunale è composta dal sindaco e da sei assessori. Alla seduta sono presenti in quattro; tre votano a favore dell'immediata eseguibilità di una deliberazione urgente. La deliberazione è immediatamente eseguibile?",
     "options": [
-      { "id": "a", "text": "Sì, perché ha votato a favore la maggioranza dei presenti", "why_wrong": "L'art. 134, comma 4, richiede la maggioranza dei componenti, non dei presenti." },
-      { "id": "b", "text": "Sì, perché per la giunta non è richiesta alcuna maggioranza particolare", "why_wrong": "L'art. 134, comma 4, richiede per consiglio e giunta il voto della maggioranza dei componenti." },
-      { "id": "c", "text": "Sì, se il sindaco ne dichiara l'urgenza", "why_wrong": "L'art. 134, comma 4, richiede comunque il voto della maggioranza dei componenti." },
-      { "id": "d", "text": "No, perché l'immediata eseguibilità richiede il voto della maggioranza dei componenti, cioè almeno quattro voti su sette", "why_wrong": null }
+      { "id": "a", "text": "Sì, perché ha votato a favore la maggioranza dei presenti alla seduta, cioè tre su quattro", "why_wrong": "Tre voti su quattro presenti sono la maggioranza dei presenti; l'art. 134, comma 4, richiede la maggioranza dei componenti, cioè almeno quattro su sette." },
+      { "id": "b", "text": "Sì, perché per la giunta non è richiesta alcuna maggioranza particolare, ma solo l'urgenza", "why_wrong": "L'art. 134, comma 4, richiede per consiglio e giunta, oltre all'urgenza, il voto della maggioranza dei componenti." },
+      { "id": "c", "text": "Sì, se il sindaco ne dichiara l'urgenza, anche senza il voto della maggioranza dei componenti", "why_wrong": "L'art. 134, comma 4, richiede comunque il voto della maggioranza dei componenti; la sola dichiarazione di urgenza non basta." },
+      { "id": "d", "text": "No, perché serve il voto della maggioranza dei componenti, cioè almeno quattro voti su sette", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "L'immediata eseguibilità richiede il voto della maggioranza dei componenti dell'organo: in una giunta di sette componenti servono almeno quattro voti favorevoli. Senza di essa, la deliberazione diventa esecutiva dopo il decimo giorno dalla pubblicazione.",
@@ -96,7 +96,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 134, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -105,9 +106,9 @@
     "question": "Con quale atto vengono sciolti i consigli comunali ai sensi dell'art. 141 del TUEL?",
     "options": [
       { "id": "a", "text": "Con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno", "why_wrong": null },
-      { "id": "b", "text": "Con decreto del prefetto", "why_wrong": "Il prefetto può sospendere il consiglio in attesa del decreto (art. 141, comma 7), ma lo scioglimento è disposto con decreto del Presidente della Repubblica." },
-      { "id": "c", "text": "Con decreto del Ministro dell'interno", "why_wrong": "Con decreto del Ministro dell'interno si dispone la rimozione degli amministratori (art. 142, comma 1) o lo scioglimento degli organi degli altri enti locali (art. 141, comma 8), non dei consigli comunali." },
-      { "id": "d", "text": "Con legge regionale", "why_wrong": "L'art. 141, comma 1, prevede un decreto del Presidente della Repubblica su proposta del Ministro dell'interno." }
+      { "id": "b", "text": "Con decreto del prefetto, previa sospensione del consiglio per non oltre novanta giorni", "why_wrong": "Il prefetto può sospendere il consiglio per non oltre novanta giorni in attesa del decreto (art. 141, comma 7), ma lo scioglimento è disposto con decreto del Presidente della Repubblica." },
+      { "id": "c", "text": "Con decreto del Ministro dell'interno, su proposta del prefetto competente per territorio", "why_wrong": "Con decreto del Ministro dell'interno si dispone la rimozione degli amministratori (art. 142, comma 1); i consigli comunali sono sciolti con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno e non del prefetto (art. 141, comma 1)." },
+      { "id": "d", "text": "Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'interno", "why_wrong": "L'art. 141, comma 1, prevede un decreto del Presidente della Repubblica su proposta del Ministro dell'interno, non un decreto del Presidente del Consiglio." }
     ],
     "correct": "a",
     "explanation": "I consigli comunali e provinciali sono sciolti con decreto del Presidente della Repubblica su proposta del Ministro dell'interno, tra l'altro quando compiono atti contrari alla Costituzione, per gravi e persistenti violazioni di legge o per gravi motivi di ordine pubblico.",
@@ -116,7 +117,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 141, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -144,10 +146,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 141, comma 1, lettera c-bis), del TUEL, il consiglio comunale è sciolto quando:",
     "options": [
-      { "id": "a", "text": "Non approva nei termini il bilancio", "why_wrong": "La mancata approvazione del bilancio è una causa distinta di scioglimento, prevista dalla lettera c) dell'art. 141, comma 1." },
-      { "id": "b", "text": "L'ente, con più di mille abitanti, è sprovvisto degli strumenti urbanistici generali e non li adotta entro diciotto mesi dalla data di elezione degli organi", "why_wrong": null },
-      { "id": "c", "text": "Non adotta lo statuto entro centoventi giorni dall'entrata in vigore di nuove leggi di principio", "why_wrong": "Il termine di 120 giorni riguarda l'adeguamento degli statuti (art. 1, comma 3) e non è indicato tra le cause di scioglimento dell'art. 141." },
-      { "id": "d", "text": "Non approva il piano di priorità degli interventi entro sessanta giorni", "why_wrong": "Il piano di priorità degli interventi è adottato dalla commissione straordinaria entro sessanta giorni dall'insediamento (art. 145, comma 2), non è causa di scioglimento." }
+      { "id": "a", "text": "Non approva il bilancio nei termini, neppure entro quello non superiore a venti giorni assegnato dall'organo regionale di controllo", "why_wrong": "La mancata approvazione del bilancio è una causa distinta di scioglimento, prevista dalla lettera c) dell'art. 141, comma 1, con la procedura del comma 2." },
+      { "id": "b", "text": "L'ente con più di mille abitanti, privo degli strumenti urbanistici generali, non li adotta entro diciotto mesi dall'elezione degli organi", "why_wrong": null },
+      { "id": "c", "text": "Non adegua lo statuto entro centoventi giorni dall'entrata in vigore di nuove leggi che enunciano principi di limite inderogabile", "why_wrong": "L'adeguamento degli statuti entro 120 giorni dalle nuove leggi di principio è previsto dall'art. 1, comma 3, ma non figura tra le cause di scioglimento dell'art. 141, comma 1; la lettera c-bis) riguarda gli strumenti urbanistici." },
+      { "id": "d", "text": "Non approva il piano di priorità degli interventi entro sessanta giorni dall'insediamento della commissione straordinaria nominata con il decreto di scioglimento", "why_wrong": "Il piano di priorità è adottato dalla commissione straordinaria entro sessanta giorni dal suo insediamento (art. 145, comma 2), quindi dopo lo scioglimento: non ne è una causa." }
     ],
     "correct": "b",
     "explanation": "Gli enti con più di mille abitanti privi di strumenti urbanistici generali che non li adottano entro diciotto mesi dall'elezione degli organi possono essere sciolti; il decreto è adottato su proposta del Ministro dell'interno di concerto con il Ministro delle infrastrutture e dei trasporti.",
@@ -156,7 +158,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 141, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -164,10 +167,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un Comune di 5.000 abitanti non ha adottato gli strumenti urbanistici generali nel termine previsto e la regione lo segnala al prefetto. Cosa fa il prefetto?",
     "options": [
-      { "id": "a", "text": "Propone subito lo scioglimento del consiglio al Ministro dell'interno", "why_wrong": "L'art. 141, comma 2-bis, impone prima al prefetto di invitare l'ente ad adempiere entro quattro mesi." },
-      { "id": "b", "text": "Nomina direttamente un commissario ad acta che adotta gli strumenti urbanistici", "why_wrong": "L'art. 141, comma 2-bis, prevede l'invito ad adempiere; gli interventi sostitutivi sono quelli che l'ente può attivare in base al proprio statuto." },
-      { "id": "c", "text": "Sospende il consiglio per novanta giorni", "why_wrong": "La sospensione fino a novanta giorni (art. 141, comma 7) presuppone una procedura di scioglimento già iniziata e motivi di grave e urgente necessità." },
-      { "id": "d", "text": "Invita l'ente ad adempiere nel termine di quattro mesi, decorso infruttuosamente il quale inizia la procedura per lo scioglimento del consiglio", "why_wrong": null }
+      { "id": "a", "text": "Propone subito al Ministro dell'interno lo scioglimento del consiglio, senza assegnare all'ente alcun termine per adempiere", "why_wrong": "Il prefetto non propone subito lo scioglimento: prima invita l'ente ad adempiere entro quattro mesi e solo dopo inizia la procedura (art. 141, comma 2-bis)." },
+      { "id": "b", "text": "Nomina direttamente un commissario ad acta che adotta gli strumenti urbanistici entro diciotto mesi dalla data del suo insediamento", "why_wrong": "L'art. 141, comma 2-bis, prevede l'invito ad adempiere entro quattro mesi; gli interventi sostitutivi sono quelli che l'ente può attivare in base al proprio statuto." },
+      { "id": "c", "text": "Sospende il consiglio per un periodo non superiore a novanta giorni e nomina un commissario per la provvisoria amministrazione dell'ente", "why_wrong": "La sospensione per non oltre novanta giorni con nomina di un commissario (art. 141, comma 7) presuppone una procedura di scioglimento già iniziata; qui il prefetto deve prima invitare l'ente ad adempiere entro quattro mesi (comma 2-bis)." },
+      { "id": "d", "text": "Invita l'ente ad adempiere entro quattro mesi; decorso inutilmente il termine, inizia la procedura per lo scioglimento del consiglio", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "Scaduto il termine per l'adozione degli strumenti urbanistici, la regione segnala gli enti inadempienti al prefetto, che li invita ad adempiere entro quattro mesi; se il termine decorre inutilmente, il prefetto avvia la procedura di scioglimento.",
@@ -177,7 +180,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 141, comma 2-bis", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -185,10 +189,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il consiglio comunale viene sciolto a seguito del decesso del sindaco. Con il decreto di scioglimento viene nominato un commissario?",
     "options": [
-      { "id": "a", "text": "Sì, sempre, qualunque sia la causa dello scioglimento", "why_wrong": "L'art. 141, comma 3, esclude la nomina del commissario nei casi del numero 1) della lettera b), che comprende il decesso del sindaco." },
-      { "id": "b", "text": "Sì, ma solo se lo richiede il vicesindaco", "why_wrong": "L'art. 141, comma 3, esclude la nomina del commissario in caso di decesso del sindaco, senza eccezioni legate a richieste." },
-      { "id": "c", "text": "No, perché il commissario è nominato nei casi diversi da impedimento permanente, rimozione, decadenza o decesso del sindaco", "why_wrong": null },
-      { "id": "d", "text": "No, perché il commissario è nominato solo in caso di mancata approvazione del bilancio", "why_wrong": "L'art. 141, comma 3, prevede il commissario in tutti i casi diversi dal numero 1) della lettera b), non solo per il bilancio." }
+      { "id": "a", "text": "Sì, perché con il decreto di scioglimento il commissario è nominato sempre, qualunque sia la causa che ha determinato lo scioglimento", "why_wrong": "Il commissario non è nominato in ogni caso: l'art. 141, comma 3, lo esclude nei casi del numero 1) della lettera b), tra cui il decesso del sindaco." },
+      { "id": "b", "text": "Sì, ma solo se il rinnovo del consiglio non può coincidere con il primo turno elettorale utile previsto dalla legge", "why_wrong": "L'art. 141, comma 3, esclude la nomina del commissario in caso di decesso del sindaco, senza eccezioni; il rinnovo del consiglio coincide sempre con il primo turno elettorale utile (comma 4)." },
+      { "id": "c", "text": "No, perché il commissario si nomina nei casi diversi da impedimento permanente, rimozione, decadenza o decesso del sindaco", "why_wrong": null },
+      { "id": "d", "text": "No, perché con il decreto il commissario è nominato solo quando il consiglio non approva nei termini il bilancio", "why_wrong": "La mancata approvazione del bilancio è solo uno dei casi: il commissario è nominato in tutti i casi diversi dal numero 1) della lettera b), che comprende il decesso del sindaco (art. 141, comma 3)." }
     ],
     "correct": "c",
     "explanation": "Il commissario è nominato con il decreto di scioglimento in tutti i casi diversi da impedimento permanente, rimozione, decadenza o decesso del sindaco; in questi casi consiglio e giunta restano in carica fino alle elezioni e il vicesindaco svolge le funzioni del sindaco (art. 53, comma 1).",
@@ -197,7 +201,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 141, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -205,10 +210,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Iniziata la procedura di scioglimento del consiglio comunale e in attesa del decreto, per motivi di grave e urgente necessità il prefetto può:",
     "options": [
-      { "id": "a", "text": "Sciogliere direttamente il consiglio", "why_wrong": "Lo scioglimento è disposto con decreto del Presidente della Repubblica (art. 141, comma 1); il prefetto può solo sospendere il consiglio in attesa del decreto." },
-      { "id": "b", "text": "Sospendere il consiglio per un periodo comunque non superiore a novanta giorni e nominare un commissario per la provvisoria amministrazione dell'ente", "why_wrong": null },
-      { "id": "c", "text": "Sospendere il consiglio per un periodo non superiore a sessanta giorni", "why_wrong": "Sessanta giorni è il limite della sospensione degli organi nella procedura per infiltrazioni mafiose (art. 143, comma 12); per l'art. 141 il limite è di novanta giorni." },
-      { "id": "d", "text": "Prorogare il mandato del consiglio fino al primo turno elettorale utile", "why_wrong": "L'art. 141, comma 7, prevede la sospensione del consiglio, non una proroga del mandato." }
+      { "id": "a", "text": "Sciogliere direttamente il consiglio con proprio decreto e nominare un commissario per la provvisoria amministrazione", "why_wrong": "Il prefetto non scioglie il consiglio con proprio decreto: lo scioglimento è disposto con decreto del Presidente della Repubblica (art. 141, comma 1); il prefetto può solo sospenderlo (comma 7)." },
+      { "id": "b", "text": "Sospendere il consiglio per non più di novanta giorni e nominare un commissario per la provvisoria amministrazione dell'ente", "why_wrong": null },
+      { "id": "c", "text": "Sospendere il consiglio per non più di sessanta giorni e assicurare la provvisoria amministrazione mediante commissari", "why_wrong": "La sospensione fino a sessanta giorni con invio di commissari è prevista nella procedura per infiltrazioni mafiose (art. 143, comma 12); per l'art. 141, comma 7, il limite è di novanta giorni." },
+      { "id": "d", "text": "Prorogare il mandato del consiglio fino al primo turno elettorale utile, nominando un commissario ad acta per gli atti urgenti", "why_wrong": "L'art. 141, comma 7, prevede la sospensione del consiglio e la nomina di un commissario per la provvisoria amministrazione, non una proroga del mandato." }
     ],
     "correct": "b",
     "explanation": "Avviata la procedura di scioglimento, il prefetto può, per gravi e urgenti necessità, sospendere il consiglio per non più di novanta giorni e nominare un commissario per la provvisoria amministrazione.",
@@ -217,7 +222,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 141, comma 7", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -225,10 +231,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il sindaco che compia atti contrari alla Costituzione o gravi e persistenti violazioni di legge può essere rimosso:",
     "options": [
-      { "id": "a", "text": "Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri", "why_wrong": "Il decreto del Presidente della Repubblica è previsto per lo scioglimento dei consigli (artt. 141 e 143); la rimozione degli amministratori è disposta con decreto del Ministro dell'interno." },
-      { "id": "b", "text": "Con deliberazione del consiglio comunale a maggioranza assoluta", "why_wrong": "Il consiglio può far cessare il sindaco con la mozione di sfiducia (art. 52), ma la rimozione dell'art. 142 è disposta con decreto del Ministro dell'interno." },
-      { "id": "c", "text": "Con decreto del prefetto", "why_wrong": "Il prefetto può sospendere gli amministratori in attesa del decreto (art. 142, comma 2); la rimozione spetta al Ministro dell'interno." },
-      { "id": "d", "text": "Con decreto del Ministro dell'interno; in attesa del decreto, il prefetto può sospenderlo per motivi di grave e urgente necessità", "why_wrong": null }
+      { "id": "a", "text": "Con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno, previa deliberazione del Consiglio dei ministri", "why_wrong": "Il decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, è previsto per lo scioglimento per infiltrazioni mafiose (art. 143, comma 4); la rimozione è disposta con decreto del Ministro dell'interno (art. 142, comma 1)." },
+      { "id": "b", "text": "Con deliberazione del consiglio comunale, adottata a maggioranza assoluta dei consiglieri assegnati, sentito il prefetto", "why_wrong": "La rimozione non è deliberata dal consiglio, ma disposta con decreto del Ministro dell'interno (art. 142, comma 1); il consiglio può solo approvare la mozione di sfiducia (art. 52, comma 2)." },
+      { "id": "c", "text": "Con decreto del prefetto, sentito il comitato provinciale per l'ordine e la sicurezza pubblica e il procuratore della Repubblica", "why_wrong": "Il prefetto può solo sospendere gli amministratori in attesa del decreto (art. 142, comma 2); il comitato provinciale è sentito nella procedura dell'art. 143, comma 3; la rimozione spetta al Ministro dell'interno (art. 142, comma 1)." },
+      { "id": "d", "text": "Con decreto del Ministro dell'interno; in attesa del decreto, il prefetto può sospenderlo per grave e urgente necessità", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "Sindaco, presidente della provincia e componenti di consigli e giunte possono essere rimossi con decreto del Ministro dell'interno per atti contrari alla Costituzione, gravi e persistenti violazioni di legge o gravi motivi di ordine pubblico; in attesa del decreto, il prefetto può sospenderli.",
@@ -238,7 +244,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 142, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -246,10 +253,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Per verificare possibili infiltrazioni mafiose in un Comune, il prefetto nomina una commissione d'indagine. Come è composta e in quanto tempo deve concludere gli accertamenti?",
     "options": [
-      { "id": "a", "text": "Tre funzionari della pubblica amministrazione; entro tre mesi dall'accesso, rinnovabili una volta per un ulteriore periodo massimo di tre mesi", "why_wrong": null },
-      { "id": "b", "text": "Tre magistrati in quiescenza; entro sei mesi non rinnovabili", "why_wrong": "Magistrati in quiescenza possono far parte della commissione straordinaria (art. 144, comma 1); la commissione d'indagine è composta da tre funzionari della pubblica amministrazione." },
-      { "id": "c", "text": "Cinque funzionari della prefettura; entro quarantacinque giorni", "why_wrong": "Quarantacinque giorni è il termine entro cui il prefetto invia la relazione al Ministro dopo il deposito delle conclusioni (art. 143, comma 3)." },
-      { "id": "d", "text": "Il comitato provinciale per l'ordine e la sicurezza pubblica; entro novanta giorni", "why_wrong": "Il comitato provinciale è sentito dal prefetto prima della relazione (art. 143, comma 3); gli accertamenti sono svolti dalla commissione d'indagine di tre funzionari." }
+      { "id": "a", "text": "Tre funzionari della pubblica amministrazione; entro tre mesi dall'accesso, rinnovabili una volta per altri tre mesi al massimo", "why_wrong": null },
+      { "id": "b", "text": "Tre magistrati della giurisdizione ordinaria o amministrativa in quiescenza; entro sei mesi dalla data di accesso, non rinnovabili", "why_wrong": "Magistrati in quiescenza possono far parte della commissione straordinaria (art. 144, comma 1); la commissione d'indagine è composta da tre funzionari della pubblica amministrazione e conclude entro tre mesi, rinnovabili una volta (art. 143, comma 2)." },
+      { "id": "c", "text": "Cinque funzionari della prefettura; entro quarantacinque giorni dall'accesso, rinnovabili una volta per altri quarantacinque", "why_wrong": "Quarantacinque giorni è il termine entro cui il prefetto invia la relazione al Ministro dopo il deposito delle conclusioni (art. 143, comma 3); la commissione è di tre funzionari e conclude entro tre mesi (comma 2)." },
+      { "id": "d", "text": "Il comitato provinciale per l'ordine e la sicurezza pubblica; entro novanta giorni dall'accesso, rinnovabili una sola volta", "why_wrong": "Il comitato provinciale è sentito dal prefetto prima della relazione (art. 143, comma 3); gli accertamenti sono svolti dalla commissione d'indagine di tre funzionari entro tre mesi (comma 2)." }
     ],
     "correct": "a",
     "explanation": "La commissione d'indagine è composta da tre funzionari della pubblica amministrazione e conclude gli accertamenti entro tre mesi dall'accesso, rinnovabili una volta per altri tre mesi al massimo.",
@@ -259,7 +266,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 143, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -267,10 +275,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Per quanto tempo conserva i suoi effetti il decreto di scioglimento del consiglio comunale per infiltrazioni mafiose?",
     "options": [
-      { "id": "a", "text": "Per un periodo massimo di novanta giorni", "why_wrong": "Novanta giorni è il limite della sospensione dei consigli disposta dal prefetto ai sensi dell'art. 141, comma 7." },
-      { "id": "b", "text": "Fino al primo turno elettorale utile, senza limiti minimi", "why_wrong": "L'art. 143, comma 10, fissa una durata da dodici a diciotto mesi, prorogabile fino a ventiquattro." },
-      { "id": "c", "text": "Per un periodo da dodici a diciotto mesi, prorogabili fino ad un massimo di ventiquattro mesi in casi eccezionali", "why_wrong": null },
-      { "id": "d", "text": "Per cinque anni, pari alla durata ordinaria del mandato", "why_wrong": "Cinque anni è la durata in carica di sindaco e consiglio (art. 51, comma 1); il decreto di scioglimento dura da dodici a diciotto mesi, prorogabili fino a ventiquattro." }
+      { "id": "a", "text": "Fino a sessanta giorni, come la sospensione degli organi disposta dal prefetto in attesa del decreto", "why_wrong": "Sessanta giorni è la durata massima della sospensione degli organi disposta dal prefetto in attesa del decreto (art. 143, comma 12); il decreto conserva i suoi effetti da dodici a diciotto mesi (comma 10)." },
+      { "id": "b", "text": "Fino al primo turno elettorale utile, senza limiti minimi né massimi di durata stabiliti dalla legge", "why_wrong": "La durata è fissata dalla legge: l'art. 143, comma 10, prevede da dodici a diciotto mesi, prorogabili fino a ventiquattro in casi eccezionali." },
+      { "id": "c", "text": "Da dodici a diciotto mesi, prorogabili fino a un massimo di ventiquattro mesi in casi eccezionali", "why_wrong": null },
+      { "id": "d", "text": "Per cinque anni, pari alla durata ordinaria del mandato del sindaco e del consiglio comunale", "why_wrong": "Il decreto non dura quanto il mandato ordinario: l'art. 143, comma 10, fissa da dodici a diciotto mesi, prorogabili fino a ventiquattro in casi eccezionali." }
     ],
     "correct": "c",
     "explanation": "Il decreto di scioglimento per infiltrazioni mafiose conserva i suoi effetti da dodici a diciotto mesi, prorogabili in casi eccezionali fino a ventiquattro, dandone comunicazione alle Commissioni parlamentari competenti.",
@@ -279,7 +287,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 143, comma 10", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -287,10 +296,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un assessore è ritenuto responsabile delle condotte che hanno causato lo scioglimento del consiglio comunale per infiltrazioni mafiose, e la sua incandidabilità è dichiarata con provvedimento definitivo. Quale conseguenza prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "Non può candidarsi alle elezioni comunali per i successivi cinque anni, ma può candidarsi alle elezioni politiche", "why_wrong": "L'art. 143, comma 11, estende l'incandidabilità anche alle elezioni per Camera, Senato e Parlamento europeo e la lega ai due turni elettorali successivi." },
-      { "id": "b", "text": "Non può essere candidato alle elezioni politiche, europee, regionali, provinciali, comunali e circoscrizionali in relazione ai due turni elettorali successivi allo scioglimento", "why_wrong": null },
-      { "id": "c", "text": "Decade dalle altre cariche elettive ricoperte, ma resta candidabile", "why_wrong": "L'art. 143, comma 11, prevede proprio l'incandidabilità per i due turni elettorali successivi." },
-      { "id": "d", "text": "Non può essere candidato solo nel Comune sciolto, per il primo turno elettorale utile", "why_wrong": "L'art. 143, comma 11, riguarda tutte le elezioni elencate e i due turni elettorali successivi, non solo il Comune sciolto." }
+      { "id": "a", "text": "Non può candidarsi alle sole elezioni comunali e circoscrizionali per i successivi cinque anni, ma resta candidabile alle elezioni politiche ed europee", "why_wrong": "L'art. 143, comma 11, estende l'incandidabilità anche alle elezioni per Camera, Senato, Parlamento europeo, regioni e province e la lega ai due turni elettorali successivi." },
+      { "id": "b", "text": "Non può candidarsi alle elezioni politiche, europee, regionali, provinciali, comunali e circoscrizionali per i due turni elettorali successivi", "why_wrong": null },
+      { "id": "c", "text": "Decade da ogni altro incarico connesso alla carica ricoperta, ma resta candidabile a tutte le elezioni successive allo scioglimento", "why_wrong": "La cessazione dagli incarichi connessi discende dallo scioglimento (art. 143, comma 4); l'art. 143, comma 11, prevede inoltre l'incandidabilità per i due turni elettorali successivi." },
+      { "id": "d", "text": "Non può candidarsi alle elezioni del solo Comune sciolto, per il primo turno elettorale utile successivo allo scioglimento stesso", "why_wrong": "L'incandidabilità non è limitata al Comune sciolto né al primo turno utile: riguarda le elezioni politiche, europee, regionali, provinciali, comunali e circoscrizionali per i due turni elettorali successivi (art. 143, comma 11)." }
     ],
     "correct": "b",
     "explanation": "Gli amministratori responsabili delle condotte che hanno causato lo scioglimento, se l'incandidabilità è dichiarata con provvedimento definitivo, non possono candidarsi alle elezioni politiche, europee, regionali, provinciali, comunali e circoscrizionali per i due turni elettorali successivi.",
@@ -299,7 +308,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 143, comma 11", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -307,10 +317,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "La commissione straordinaria nominata con il decreto di scioglimento per infiltrazioni mafiose:",
     "options": [
-      { "id": "a", "text": "È composta di tre membri scelti tra funzionari dello Stato, in servizio o in quiescenza, e tra magistrati della giurisdizione ordinaria o amministrativa in quiescenza, e rimane in carica fino al primo turno elettorale utile", "why_wrong": null },
-      { "id": "b", "text": "È composta di cinque membri eletti dal consiglio regionale", "why_wrong": "L'art. 144, comma 1, prevede tre membri scelti tra funzionari dello Stato e magistrati in quiescenza, nominati con il decreto di scioglimento." },
-      { "id": "c", "text": "È composta di un solo commissario nominato dal prefetto", "why_wrong": "Il commissario unico è previsto per gli scioglimenti dell'art. 141 (comma 3); per l'art. 143 opera una commissione straordinaria di tre membri." },
-      { "id": "d", "text": "Rimane in carica per cinque anni", "why_wrong": "L'art. 144, comma 1, la mantiene in carica fino allo svolgimento del primo turno elettorale utile." }
+      { "id": "a", "text": "Ha tre membri, scelti tra funzionari dello Stato in servizio o in quiescenza e magistrati ordinari o amministrativi in quiescenza, e resta in carica fino al primo turno elettorale utile", "why_wrong": null },
+      { "id": "b", "text": "Ha cinque membri, eletti dal consiglio regionale tra funzionari della regione e degli enti locali, e resta in carica fino all'approvazione del primo bilancio di previsione utile dell'ente", "why_wrong": "L'art. 144, comma 1, prevede tre membri scelti tra funzionari dello Stato e magistrati in quiescenza, nominati con il decreto di scioglimento, in carica fino al primo turno elettorale utile." },
+      { "id": "c", "text": "È composta di un solo commissario, nominato dal prefetto tra i funzionari della prefettura, che esercita le attribuzioni conferitegli con il decreto di scioglimento", "why_wrong": "Il commissario unico è previsto per gli scioglimenti dell'art. 141 (comma 3); per l'art. 143 opera una commissione straordinaria di tre membri (art. 144, comma 1)." },
+      { "id": "d", "text": "Ha tre membri, scelti tra i consiglieri comunali estranei alle condotte che hanno causato lo scioglimento, e resta in carica per cinque anni come il consiglio sciolto", "why_wrong": "La commissione è composta di tre membri scelti tra funzionari dello Stato e magistrati in quiescenza e rimane in carica fino al primo turno elettorale utile (art. 144, comma 1)." }
     ],
     "correct": "a",
     "explanation": "Con il decreto di scioglimento dell'art. 143 è nominata una commissione straordinaria di tre membri, scelti tra funzionari dello Stato in servizio o in quiescenza e magistrati ordinari o amministrativi in quiescenza, che resta in carica fino al primo turno elettorale utile.",
@@ -319,7 +329,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 144, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -327,10 +338,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Nella fase preventiva della formazione dell'atto, il controllo di regolarità amministrativa e contabile è esercitato:",
     "options": [
-      { "id": "a", "text": "Dal segretario, attraverso una selezione casuale degli atti", "why_wrong": "La selezione casuale sotto la direzione del segretario riguarda il controllo nella fase successiva (art. 147-bis, comma 2)." },
-      { "id": "b", "text": "Dall'organo di revisione, attraverso il visto di legittimità", "why_wrong": "L'art. 147-bis, comma 1, affida il controllo preventivo ai responsabili di servizio e al responsabile del servizio finanziario." },
-      { "id": "c", "text": "Dalla sezione regionale della Corte dei conti", "why_wrong": "Il controllo previsto dall'art. 147-bis è un controllo interno, esercitato dai responsabili dell'ente." },
-      { "id": "d", "text": "Da ogni responsabile di servizio, con il parere di regolarità tecnica, e dal responsabile del servizio finanziario, con il parere di regolarità contabile e il visto attestante la copertura finanziaria", "why_wrong": null }
+      { "id": "a", "text": "Dal segretario, attraverso una selezione casuale degli atti effettuata con motivate tecniche di campionamento, secondo principi generali di revisione aziendale", "why_wrong": "La selezione casuale con tecniche di campionamento, secondo principi di revisione aziendale e sotto la direzione del segretario, riguarda il controllo nella fase successiva (art. 147-bis, comma 2), non quella preventiva." },
+      { "id": "b", "text": "Dall'organo di revisione, con il parere di regolarità contabile, e dal segretario comunale, con il parere di legittimità e il visto attestante la copertura finanziaria della spesa prevista dall'atto", "why_wrong": "L'art. 147-bis, comma 1, attribuisce il parere di regolarità contabile e il visto di copertura finanziaria al responsabile del servizio finanziario, non all'organo di revisione o al segretario; il parere di regolarità tecnica spetta a ogni responsabile di servizio." },
+      { "id": "c", "text": "Dalla sezione regionale della Corte dei conti, con cadenza annuale, nell'ambito del controllo di legittimità e regolarità delle gestioni dell'ente locale", "why_wrong": "La verifica annuale delle sezioni regionali della Corte dei conti è un controllo esterno (art. 148, comma 1); il controllo dell'art. 147-bis è interno, esercitato dai responsabili dell'ente." },
+      { "id": "d", "text": "Da ogni responsabile di servizio, con il parere di regolarità tecnica, e dal responsabile del servizio finanziario, con parere di regolarità contabile e visto di copertura finanziaria", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "Nella fase preventiva, ogni responsabile di servizio rilascia il parere di regolarità tecnica; il responsabile del servizio finanziario effettua il controllo contabile con il parere di regolarità contabile e il visto di copertura finanziaria.",
@@ -339,7 +350,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 147-bis, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -368,10 +380,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il controllo sugli equilibri finanziari dell'ente locale è svolto:",
     "options": [
-      { "id": "a", "text": "Sotto la direzione e il coordinamento del segretario, con la vigilanza della giunta", "why_wrong": "L'art. 147-quinquies, comma 1, affida la direzione al responsabile del servizio finanziario e la vigilanza all'organo di revisione." },
-      { "id": "b", "text": "Dalla sezione regionale della Corte dei conti, con cadenza annuale", "why_wrong": "Il controllo dell'art. 147-quinquies è un controllo interno, diretto dal responsabile del servizio finanziario." },
-      { "id": "c", "text": "Sotto la direzione e il coordinamento del responsabile del servizio finanziario e mediante la vigilanza dell'organo di revisione", "why_wrong": null },
-      { "id": "d", "text": "Dall'unità preposta al controllo strategico, sotto la direzione del direttore generale", "why_wrong": "L'unità sotto la direzione del direttore generale riguarda il controllo strategico (art. 147-ter, comma 2), non quello sugli equilibri finanziari." }
+      { "id": "a", "text": "Sotto la direzione e il coordinamento del segretario comunale, con la vigilanza della giunta e del consiglio comunale dell'ente", "why_wrong": "La direzione e il coordinamento spettano al responsabile del servizio finanziario e la vigilanza all'organo di revisione, non al segretario, alla giunta o al consiglio, che sono solo coinvolti (art. 147-quinquies, comma 1)." },
+      { "id": "b", "text": "Dalla sezione regionale della Corte dei conti, con cadenza annuale, sulla base del referto trasmesso dal sindaco", "why_wrong": "Le sezioni regionali della Corte dei conti svolgono controlli esterni (art. 148, comma 1); il controllo dell'art. 147-quinquies è interno, diretto dal responsabile del servizio finanziario." },
+      { "id": "c", "text": "Sotto la direzione e il coordinamento del responsabile del servizio finanziario, con la vigilanza dell'organo di revisione", "why_wrong": null },
+      { "id": "d", "text": "Dall'unità preposta al controllo strategico, sotto la direzione del direttore generale o, in mancanza, del segretario", "why_wrong": "L'unità sotto la direzione del direttore generale o del segretario riguarda il controllo strategico (art. 147-ter, comma 2), non quello sugli equilibri finanziari." }
     ],
     "correct": "c",
     "explanation": "Il controllo sugli equilibri finanziari è diretto e coordinato dal responsabile del servizio finanziario, con la vigilanza dell'organo di revisione e il coinvolgimento degli organi di governo, del direttore generale, del segretario e dei responsabili dei servizi; è disciplinato nel regolamento di contabilità.",
@@ -380,7 +392,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 147-quinquies, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

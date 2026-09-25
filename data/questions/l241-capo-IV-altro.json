@@ -4,10 +4,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 15 della L. 241/1990, le amministrazioni pubbliche possono concludere tra loro accordi:",
     "options": [
-      {"id": "a", "text": "solo al fine di determinare il contenuto discrezionale di un provvedimento nei confronti di un privato", "why_wrong": "È la funzione degli accordi integrativi con gli interessati (art. 11, comma 1), non degli accordi tra amministrazioni."},
-      {"id": "b", "text": "sempre, anche al di fuori delle ipotesi di conferenza di servizi, per disciplinare lo svolgimento in collaborazione di attività di interesse comune", "why_wrong": null},
-      {"id": "c", "text": "solo nell'ambito di una conferenza di servizi decisoria", "why_wrong": "L'art. 15, comma 1, ammette gli accordi anche al di fuori delle ipotesi previste dall'art. 14."},
-      {"id": "d", "text": "solo previa determinazione del Presidente del Consiglio dei ministri", "why_wrong": "L'art. 15 non richiede alcuna determinazione presidenziale: le amministrazioni possono sempre concludere tra loro accordi."}
+      {"id": "a", "text": "solo al fine di determinare il contenuto discrezionale di un provvedimento nei confronti di un privato, ovvero in sostituzione di questo", "why_wrong": "È la funzione degli accordi integrativi o sostitutivi con gli interessati (art. 11, comma 1), non degli accordi tra amministrazioni."},
+      {"id": "b", "text": "sempre, anche fuori dalle ipotesi di conferenza di servizi, per disciplinare lo svolgimento in collaborazione di attività di interesse comune", "why_wrong": null},
+      {"id": "c", "text": "solo nell'ambito di una conferenza di servizi decisoria indetta dall'amministrazione procedente, per l'esame contestuale degli interessi coinvolti", "why_wrong": "L'art. 15, comma 1, ammette gli accordi anche al di fuori delle ipotesi previste dall'art. 14 sulla conferenza di servizi."},
+      {"id": "d", "text": "solo previa determinazione del Presidente del Consiglio dei ministri, adottata su proposta del Ministro per la funzione pubblica", "why_wrong": "L'art. 15, comma 1, non richiede alcuna determinazione presidenziale: le amministrazioni possono sempre concludere tra loro accordi."}
     ],
     "correct": "b",
     "explanation": "L'art. 15, comma 1, consente alle amministrazioni pubbliche di concludere sempre tra loro accordi per disciplinare lo svolgimento in collaborazione di attività di interesse comune, anche al di fuori delle ipotesi dell'art. 14.",
@@ -16,7 +16,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 15, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -24,10 +25,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Due Comuni stipulano un accordo per la gestione in collaborazione di un servizio di interesse comune, sottoscrivendolo con firma autografa su carta. Ai sensi dell'art. 15, comma 2-bis, della L. 241/1990, l'accordo:",
     "options": [
-      {"id": "a", "text": "è nullo, perché deve essere sottoscritto con firma digitale, con firma elettronica avanzata o con altra firma elettronica qualificata", "why_wrong": null},
-      {"id": "b", "text": "è valido, perché per gli accordi tra amministrazioni basta la forma scritta", "why_wrong": "Il comma 2-bis impone la sottoscrizione con firma digitale, firma elettronica avanzata o altra firma elettronica qualificata, pena la nullità."},
-      {"id": "c", "text": "è valido ma inefficace fino alla sua pubblicazione", "why_wrong": "La sanzione prevista dal comma 2-bis per la mancata sottoscrizione elettronica è la nullità."},
-      {"id": "d", "text": "è annullabile solo su istanza di uno dei due Comuni", "why_wrong": "Il comma 2-bis prevede la nullità, non l'annullabilità."}
+      {"id": "a", "text": "è nullo, perché va sottoscritto con firma digitale, con firma elettronica avanzata o con altra firma elettronica qualificata", "why_wrong": null},
+      {"id": "b", "text": "è valido, perché agli accordi tra amministrazioni si applica soltanto la forma scritta richiesta dall'art. 11, comma 2", "why_wrong": "Oltre al richiamo dell'art. 11, commi 2 e 3 (art. 15, comma 2), il comma 2-bis impone la firma digitale, la firma elettronica avanzata o altra firma elettronica qualificata, pena la nullità."},
+      {"id": "c", "text": "è valido ma resta inefficace fino alla sua pubblicazione sul sito istituzionale di ciascuna delle amministrazioni firmatarie", "why_wrong": "La conseguenza prevista dal comma 2-bis per la mancata sottoscrizione elettronica è la nullità, non l'inefficacia."},
+      {"id": "d", "text": "è soltanto annullabile su istanza di uno dei due Comuni, e continua a produrre effetti fino all'eventuale pronuncia di annullamento", "why_wrong": "L'art. 15, comma 2-bis, sanziona la mancata sottoscrizione con firma digitale, elettronica avanzata o qualificata con la nullità dell'accordo, non con l'annullabilità su istanza di parte."}
     ],
     "correct": "a",
     "explanation": "L'art. 15, comma 2-bis, dispone che gli accordi tra amministrazioni siano sottoscritti con firma digitale, con firma elettronica avanzata o con altra firma elettronica qualificata, pena la nullità degli stessi.",
@@ -37,7 +38,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 15, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -105,10 +107,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "L'organo consultivo cui è stato richiesto un parere rappresenta esigenze istruttorie. Ai sensi dell'art. 16, comma 4, della L. 241/1990:",
     "options": [
-      {"id": "a", "text": "i termini possono essere interrotti più volte, fino a un massimo di novanta giorni", "why_wrong": "L'interruzione è ammessa per una sola volta."},
-      {"id": "b", "text": "il parere deve essere reso entro venti giorni dalla ricezione degli elementi istruttori", "why_wrong": "Venti giorni è il termine ordinario del comma 1; dopo la ricezione degli elementi istruttori il parere va reso entro quindici giorni."},
-      {"id": "c", "text": "i termini possono essere interrotti per una sola volta e il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori", "why_wrong": null},
-      {"id": "d", "text": "i termini sono sospesi per non più di trenta giorni", "why_wrong": "La sospensione per non più di trenta giorni riguarda i termini di conclusione del procedimento (art. 2, comma 7); l'art. 16, comma 4, prevede un'interruzione per una sola volta."}
+      {"id": "a", "text": "i termini possono essere interrotti più volte, fino a un massimo complessivo di novanta giorni decorrenti dal ricevimento della richiesta di parere", "why_wrong": "L'art. 16, comma 4, ammette l'interruzione dei termini per una sola volta."},
+      {"id": "b", "text": "i termini possono essere interrotti una sola volta e il parere deve essere reso entro venti giorni dalla ricezione degli elementi istruttori", "why_wrong": "Venti giorni è il termine ordinario del comma 1; dopo la ricezione degli elementi istruttori il parere va reso entro quindici giorni (comma 4)."},
+      {"id": "c", "text": "i termini possono essere interrotti una sola volta e il parere va reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori", "why_wrong": null},
+      {"id": "d", "text": "i termini sono sospesi per non più di trenta giorni e, decorso tale periodo, l'amministrazione richiedente procede indipendentemente dall'espressione del parere", "why_wrong": "La sospensione per non più di trenta giorni riguarda i termini di conclusione del procedimento (art. 2, comma 7); in caso di esigenze istruttorie l'art. 16, comma 4, prevede un'interruzione per una sola volta e il parere entro quindici giorni dalla ricezione degli elementi."}
     ],
     "correct": "c",
     "explanation": "L'art. 16, comma 4, prevede che, se l'organo adito rappresenta esigenze istruttorie, i termini possono essere interrotti per una sola volta e il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori.",
@@ -117,7 +119,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 16, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -205,10 +208,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Nei procedimenti di cui all'art. 17-bis della L. 241/1990, in caso di mancato accordo tra le amministrazioni statali coinvolte, sulle modifiche da apportare allo schema di provvedimento decide:",
     "options": [
-      {"id": "a", "text": "il Ministro competente per materia", "why_wrong": "Il Ministro competente propone l'opposizione per le amministrazioni statali nella conferenza di servizi (art. 14-quinquies, comma 1)."},
+      {"id": "a", "text": "il Ministro competente per materia, sentite le altre amministrazioni statali coinvolte", "why_wrong": "Il Ministro competente propone l'opposizione per le amministrazioni statali nella conferenza di servizi (art. 14-quinquies, comma 1); l'art. 17-bis, comma 2, attribuisce la decisione al Presidente del Consiglio dei ministri."},
       {"id": "b", "text": "il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri", "why_wrong": null},
-      {"id": "c", "text": "il Prefetto", "why_wrong": "Il Prefetto nomina il rappresentante unico delle amministrazioni statali periferiche in conferenza (art. 14-ter, comma 4)."},
-      {"id": "d", "text": "l'amministrazione procedente, in via definitiva", "why_wrong": "Il comma 2 attribuisce la decisione al Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri."}
+      {"id": "c", "text": "il Prefetto, dopo aver nominato un rappresentante unico delle amministrazioni statali coinvolte", "why_wrong": "Il Prefetto nomina il rappresentante unico delle amministrazioni statali periferiche in conferenza di servizi (art. 14-ter, comma 4); l'art. 17-bis, comma 2, attribuisce la decisione al Presidente del Consiglio dei ministri."},
+      {"id": "d", "text": "l'amministrazione procedente, in via definitiva, tenendo conto delle modifiche richieste", "why_wrong": "L'art. 17-bis, comma 2, attribuisce la decisione al Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri."}
     ],
     "correct": "b",
     "explanation": "L'art. 17-bis, comma 2, prevede che, in caso di mancato accordo tra le amministrazioni statali, il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, decide sulle modifiche da apportare allo schema di provvedimento.",
@@ -217,7 +220,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 17-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -245,10 +249,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un privato presenta un'istanza a un Comune, ma l'ufficio non gli rilascia alcuna ricevuta. Ai sensi dell'art. 18-bis della L. 241/1990, l'istanza:",
     "options": [
-      {"id": "a", "text": "deve essere ripresentata allo sportello unico", "why_wrong": "Lo sportello unico è previsto per la SCIA (art. 19-bis); il mancato rilascio della ricevuta non impone di ripresentare l'istanza."},
+      {"id": "a", "text": "deve essere ripresentata allo sportello unico, che ne rilascia immediatamente ricevuta", "why_wrong": "Lo sportello unico è previsto per la SCIA (art. 19-bis); l'art. 18-bis, comma 1, non impone di ripresentare l'istanza in caso di mancata ricevuta."},
       {"id": "b", "text": "produce comunque effetti, ferma restando la responsabilità del soggetto competente", "why_wrong": null},
-      {"id": "c", "text": "non produce effetti finché non viene rilasciata la ricevuta", "why_wrong": "L'art. 18-bis, comma 1, stabilisce che le istanze producono effetti anche in caso di mancato rilascio della ricevuta."},
-      {"id": "d", "text": "si intende respinta decorsi trenta giorni", "why_wrong": "L'art. 18-bis non prevede alcun silenzio-rigetto per la mancata ricevuta."}
+      {"id": "c", "text": "non produce effetti finché l'ufficio non rilascia la ricevuta, anche in via telematica", "why_wrong": "La ricevuta, da rilasciare immediatamente anche in via telematica, non condiziona gli effetti: l'art. 18-bis, comma 1, prevede che le istanze producano effetti anche in caso di mancato rilascio."},
+      {"id": "d", "text": "si intende respinta decorsi trenta giorni, salvo che l'interessato presenti una diffida", "why_wrong": "L'art. 18-bis, comma 1, non prevede alcun silenzio-rigetto: l'istanza produce effetti anche senza ricevuta."}
     ],
     "correct": "b",
     "explanation": "L'art. 18-bis, comma 1, prevede il rilascio immediato di una ricevuta, ma stabilisce che istanze, segnalazioni o comunicazioni producono effetti anche in caso di mancato rilascio, ferma restando la responsabilità del soggetto competente.",
@@ -257,7 +261,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 18-bis, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -305,10 +310,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 19 della L. 241/1990, un atto di autorizzazione è sostituito da una segnalazione dell'interessato quando:",
     "options": [
-      {"id": "a", "text": "l'interessato ne fa richiesta, qualunque sia il tipo di atto", "why_wrong": "La sostituzione con la SCIA dipende dai presupposti oggettivi del comma 1, non da una scelta dell'interessato."},
-      {"id": "b", "text": "il suo rilascio dipende esclusivamente dall'accertamento di requisiti e presupposti richiesti dalla legge o da atti amministrativi a contenuto generale, e non è previsto alcun limite o contingente complessivo o strumento di programmazione settoriale", "why_wrong": null},
-      {"id": "c", "text": "il suo rilascio comporta valutazioni discrezionali dell'amministrazione", "why_wrong": "La SCIA presuppone che il rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti, non da valutazioni discrezionali."},
-      {"id": "d", "text": "è previsto un contingente complessivo per il rilascio degli atti", "why_wrong": "L'art. 19, comma 1, esclude la SCIA quando è previsto un limite o contingente complessivo."}
+      {"id": "a", "text": "l'interessato ne fa espressa richiesta all'amministrazione competente, qualunque sia il tipo di atto richiesto e anche in presenza di vincoli ambientali, paesaggistici o culturali", "why_wrong": "La sostituzione con la SCIA dipende dai presupposti oggettivi dell'art. 19, comma 1, non da una scelta dell'interessato; i casi con vincoli ambientali, paesaggistici o culturali sono esclusi."},
+      {"id": "b", "text": "il rilascio dipende esclusivamente dall'accertamento di requisiti e presupposti di legge o di atti generali, senza limiti o contingenti complessivi né strumenti di programmazione settoriale", "why_wrong": null},
+      {"id": "c", "text": "il rilascio comporta valutazioni discrezionali dell'amministrazione, purché non sia previsto alcun limite o contingente complessivo né strumenti di programmazione settoriale", "why_wrong": "La SCIA presuppone che il rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti (art. 19, comma 1), non da valutazioni discrezionali."},
+      {"id": "d", "text": "il rilascio dipende dall'accertamento di requisiti di legge, anche se è previsto un contingente complessivo o uno specifico strumento di programmazione settoriale per il rilascio degli atti stessi", "why_wrong": "L'art. 19, comma 1, esclude la SCIA quando è previsto un limite o contingente complessivo o specifici strumenti di programmazione settoriale."}
     ],
     "correct": "b",
     "explanation": "L'art. 19, comma 1, sostituisce con la segnalazione dell'interessato gli atti autorizzatori il cui rilascio dipenda esclusivamente dall'accertamento di requisiti e presupposti di legge o di atti a contenuto generale, senza limiti o contingenti complessivi né specifici strumenti di programmazione settoriale.",
@@ -317,7 +322,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 19, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -325,9 +331,9 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 19, comma 1, della L. 241/1990, la SCIA NON sostituisce gli atti:",
     "options": [
-      {"id": "a", "text": "relativi all'iscrizione in albi o ruoli richiesta per l'esercizio di attività commerciale o artigianale", "why_wrong": "Le domande per le iscrizioni in albi o ruoli per attività imprenditoriali, commerciali o artigianali sono espressamente comprese nella SCIA dal comma 1."},
-      {"id": "b", "text": "il cui rilascio dipende esclusivamente dall'accertamento di requisiti di legge", "why_wrong": "È proprio il presupposto per l'applicazione della SCIA."},
-      {"id": "c", "text": "per i quali la normativa prevede l'acquisizione di pareri di organi appositi", "why_wrong": "Il comma 1 prevede che tali pareri siano comunque sostituiti da autocertificazioni, attestazioni e asseverazioni, salve le verifiche successive."},
+      {"id": "a", "text": "relativi alle domande di iscrizione in albi o ruoli richieste per l'esercizio di attività imprenditoriale, commerciale o artigianale", "why_wrong": "Le domande per le iscrizioni in albi o ruoli per attività imprenditoriali, commerciali o artigianali sono espressamente comprese nella SCIA dall'art. 19, comma 1."},
+      {"id": "b", "text": "il cui rilascio dipende esclusivamente dall'accertamento di requisiti e presupposti richiesti dalla legge o da atti amministrativi a contenuto generale", "why_wrong": "È proprio il presupposto per l'applicazione della SCIA (art. 19, comma 1)."},
+      {"id": "c", "text": "per i quali la normativa vigente prevede l'acquisizione di atti o pareri di organi o enti appositi, ovvero l'esecuzione di verifiche preventive", "why_wrong": "L'art. 19, comma 1, prevede che tali atti, pareri e verifiche siano comunque sostituiti da autocertificazioni, attestazioni e asseverazioni, salve le verifiche successive."},
       {"id": "d", "text": "rilasciati dalle amministrazioni preposte alla difesa nazionale, alla pubblica sicurezza, all'immigrazione, all'asilo e alla cittadinanza", "why_wrong": null}
     ],
     "correct": "d",
@@ -337,7 +343,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 19, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -425,10 +432,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il vicino di un esercizio commerciale avviato con SCIA ritiene che l'attività non sia conforme alla legge. Ai sensi dell'art. 19, comma 6-ter, della L. 241/1990:",
     "options": [
-      {"id": "a", "text": "il vicino può impugnare direttamente la SCIA come provvedimento tacito di assenso", "why_wrong": "Il comma 6-ter esclude che la SCIA costituisca un provvedimento tacito direttamente impugnabile."},
-      {"id": "b", "text": "il vicino può proporre opposizione al Presidente del Consiglio dei ministri entro dieci giorni", "why_wrong": "L'opposizione al Presidente del Consiglio è un rimedio delle amministrazioni dissenzienti in conferenza di servizi (art. 14-quinquies)."},
-      {"id": "c", "text": "il vicino deve chiedere la conformazione dell'attività entro trenta giorni", "why_wrong": "L'invito alla conformazione è un potere dell'amministrazione (art. 19, comma 3), non un rimedio del terzo."},
-      {"id": "d", "text": "la SCIA non costituisce un provvedimento tacito direttamente impugnabile; il vicino può sollecitare l'esercizio delle verifiche spettanti all'amministrazione", "why_wrong": null}
+      {"id": "a", "text": "il vicino può impugnare direttamente la SCIA, che costituisce a tutti gli effetti un provvedimento tacito di assenso all'esercizio dell'attività", "why_wrong": "L'art. 19, comma 6-ter, esclude che la SCIA costituisca un provvedimento tacito direttamente impugnabile: il terzo può sollecitare le verifiche spettanti all'amministrazione."},
+      {"id": "b", "text": "il vicino può proporre opposizione al Presidente del Consiglio dei ministri entro dieci giorni dalla presentazione della SCIA", "why_wrong": "L'opposizione al Presidente del Consiglio dei ministri è un rimedio delle amministrazioni dissenzienti in conferenza di servizi (art. 14-quinquies, comma 1)."},
+      {"id": "c", "text": "il vicino può invitare direttamente l'esercente a conformare l'attività, assegnandogli un termine non inferiore a trenta giorni", "why_wrong": "L'invito alla conformazione è un potere dell'amministrazione competente (art. 19, comma 3), non un rimedio del terzo."},
+      {"id": "d", "text": "la SCIA non è un provvedimento tacito direttamente impugnabile; il vicino può sollecitare le verifiche spettanti all'amministrazione", "why_wrong": null}
     ],
     "correct": "d",
     "explanation": "L'art. 19, comma 6-ter, stabilisce che SCIA, denuncia e dichiarazione di inizio attività non sono provvedimenti taciti direttamente impugnabili; gli interessati possono sollecitare le verifiche spettanti all'amministrazione e, in caso di inerzia, esperire l'azione indicata dalla norma.",
@@ -437,7 +444,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 19, comma 6-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -445,10 +453,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Per avviare un'attività soggetta a SCIA sono necessarie anche altre segnalazioni e comunicazioni di competenza di diverse amministrazioni. Ai sensi dell'art. 19-bis della L. 241/1990, l'interessato:",
     "options": [
-      {"id": "a", "text": "presenta la SCIA al Prefetto, che la trasmette alle amministrazioni interessate", "why_wrong": "Il comma 1 individua come destinatario lo sportello unico indicato sul sito di ciascuna amministrazione."},
+      {"id": "a", "text": "presenta la SCIA alla Prefettura competente per territorio, che la trasmette alle altre amministrazioni interessate", "why_wrong": "L'art. 19-bis, comma 1, individua come destinatario lo sportello unico indicato sul sito istituzionale di ciascuna amministrazione."},
       {"id": "b", "text": "presenta un'unica SCIA allo sportello unico, che la trasmette immediatamente alle altre amministrazioni interessate", "why_wrong": null},
-      {"id": "c", "text": "presenta separatamente ciascuna segnalazione all'amministrazione competente", "why_wrong": "L'art. 19-bis, comma 2, prevede un'unica SCIA presentata allo sportello unico."},
-      {"id": "d", "text": "deve chiedere l'indizione di una conferenza di servizi prima di presentare la SCIA", "why_wrong": "La conferenza è prevista dal comma 3 quando l'attività è condizionata ad atti di assenso o pareri; nel caso del comma 2 basta un'unica SCIA."}
+      {"id": "c", "text": "presenta separatamente ciascuna SCIA, comunicazione o asseverazione all'amministrazione di volta in volta competente", "why_wrong": "L'art. 19-bis, comma 2, prevede che l'interessato presenti un'unica SCIA allo sportello unico e che l'amministrazione ricevente la trasmetta alle altre amministrazioni interessate."},
+      {"id": "d", "text": "deve chiedere l'indizione di una conferenza di servizi e attendere il rilascio degli atti prima di presentare la SCIA", "why_wrong": "La conferenza e l'attesa del rilascio degli atti sono previste dal comma 3 per le attività condizionate ad atti di assenso o pareri; per altre SCIA e comunicazioni il comma 2 prevede un'unica SCIA allo sportello unico."}
     ],
     "correct": "b",
     "explanation": "L'art. 19-bis, comma 2, prevede che, se per un'attività soggetta a SCIA sono necessarie altre SCIA, comunicazioni, attestazioni, asseverazioni e notifiche, l'interessato presenti un'unica SCIA allo sportello unico; l'amministrazione ricevente la trasmette immediatamente alle altre amministrazioni interessate.",
@@ -457,7 +465,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 19-bis, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -485,10 +494,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 20 della L. 241/1990, nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi, se l'amministrazione non comunica il diniego nel termine previsto e non indice una conferenza di servizi, il silenzio:",
     "options": [
-      {"id": "a", "text": "non produce effetti fino al rilascio dell'attestazione telematica", "why_wrong": "L'attestazione del comma 2-bis lascia fermi gli effetti comunque intervenuti del silenzio assenso."},
-      {"id": "b", "text": "equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide", "why_wrong": null},
-      {"id": "c", "text": "equivale a rigetto della domanda", "why_wrong": "L'art. 20, comma 1, disciplina il silenzio assenso; il silenzio con valore di rigetto riguarda i casi in cui la legge lo qualifica così, esclusi dall'art. 20 (comma 4)."},
-      {"id": "d", "text": "equivale ad accoglimento solo dopo una diffida del privato", "why_wrong": "Il comma 1 esclude espressamente la necessità di ulteriori istanze o diffide."}
+      {"id": "a", "text": "non produce effetti fino al rilascio dell'attestazione telematica da parte dell'amministrazione", "why_wrong": "L'attestazione dell'art. 20, comma 2-bis, lascia fermi gli effetti comunque intervenuti del silenzio assenso."},
+      {"id": "b", "text": "equivale ad accoglimento della domanda, senza necessità di ulteriori istanze o diffide", "why_wrong": null},
+      {"id": "c", "text": "equivale a rigetto della domanda, salvo che l'interessato presenti una nuova istanza", "why_wrong": "Nell'ipotesi descritta l'art. 20, comma 1, fa equivalere il silenzio ad accoglimento; il silenzio con valore di rigetto riguarda i casi in cui la legge lo qualifica così, esclusi dall'art. 20 (comma 4)."},
+      {"id": "d", "text": "equivale ad accoglimento della domanda solo dopo una diffida ad adempiere del privato", "why_wrong": "L'art. 20, comma 1, esclude espressamente la necessità di ulteriori istanze o diffide."}
     ],
     "correct": "b",
     "explanation": "L'art. 20, comma 1, prevede che, fatta salva l'applicazione dell'art. 19, nei procedimenti ad istanza di parte il silenzio dell'amministrazione competente equivale ad accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se l'amministrazione non comunica il diniego nel termine dell'art. 2, commi 2 o 3, o non indice una conferenza di servizi.",
@@ -497,7 +506,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 20, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

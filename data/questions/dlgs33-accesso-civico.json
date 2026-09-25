@@ -50,13 +50,13 @@
     "options": [
       {
         "id": "a",
-        "text": "tutelare situazioni giuridicamente rilevanti del richiedente in sede giudiziaria",
-        "why_wrong": "Lo scopo indicato dal comma 2 è il controllo diffuso e la partecipazione al dibattito pubblico."
+        "text": "tutelare in sede giudiziaria situazioni giuridicamente rilevanti del richiedente, previa dimostrazione di un interesse diretto, concreto e attuale all'accesso ai documenti",
+        "why_wrong": "Il comma 2 indica lo scopo del controllo diffuso e della partecipazione al dibattito pubblico; il comma 3 esclude ogni limitazione quanto alla legittimazione soggettiva del richiedente."
       },
       {
         "id": "b",
-        "text": "consentire alle amministrazioni di verificare la completezza dei propri archivi",
-        "why_wrong": "Il comma 2 indica finalità riferite al controllo diffuso e alla partecipazione al dibattito pubblico."
+        "text": "consentire alle amministrazioni di verificare la completezza dei propri archivi e di individuare i dati, le informazioni e i documenti da pubblicare nella sezione «Amministrazione trasparente»",
+        "why_wrong": "Il comma 2 indica finalità riferite al controllo diffuso sulle funzioni istituzionali e sulle risorse pubbliche e alla partecipazione al dibattito pubblico."
       },
       {
         "id": "c",
@@ -65,8 +65,8 @@
       },
       {
         "id": "d",
-        "text": "ottenere la pubblicazione sul sito dei dati richiesti",
-        "why_wrong": "La pubblicazione a seguito della richiesta riguarda i dati oggetto di pubblicazione obbligatoria (comma 6), non quelli ulteriori del comma 2."
+        "text": "ottenere la pubblicazione sul sito dei dati richiesti e la comunicazione al richiedente dell'avvenuta pubblicazione, con l'indicazione del relativo collegamento ipertestuale",
+        "why_wrong": "La pubblicazione sul sito con comunicazione del collegamento ipertestuale riguarda i dati oggetto di pubblicazione obbligatoria (comma 6), non quelli ulteriori del comma 2."
       }
     ],
     "correct": "c",
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,23 +95,23 @@
     "options": [
       {
         "id": "a",
-        "text": "deve dichiararla inammissibile, perché priva di motivazione",
-        "why_wrong": "Il comma 3 stabilisce che l'istanza non richiede motivazione."
+        "text": "deve dichiararla inammissibile perché priva di motivazione, dato che l'istanza di accesso civico deve indicare i motivi della richiesta oltre ai dati, alle informazioni e ai documenti richiesti",
+        "why_wrong": "Il comma 3 stabilisce che l'istanza identifica i dati, le informazioni o i documenti richiesti e non richiede motivazione."
       },
       {
         "id": "b",
-        "text": "non può respingerla per la mancanza di motivazione né per la residenza del richiedente, perché l'esercizio del diritto non è sottoposto ad alcuna limitazione quanto alla legittimazione soggettiva e l'istanza non richiede motivazione",
+        "text": "non può respingerla per tali ragioni, perché l'esercizio del diritto non è sottoposto ad alcuna limitazione quanto alla legittimazione soggettiva e l'istanza non richiede motivazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "deve chiedere al richiedente di dimostrare un interesse diretto, concreto e attuale",
-        "why_wrong": "Il comma 3 esclude ogni limitazione quanto alla legittimazione soggettiva del richiedente."
+        "text": "deve chiedere al richiedente di dimostrare un interesse diretto, concreto e attuale, perché il diritto spetta solo a chi è titolare di una situazione giuridicamente tutelata",
+        "why_wrong": "Il diritto spetta a «chiunque» (art. 5, comma 2) e il comma 3 esclude ogni limitazione quanto alla legittimazione soggettiva: non è richiesta la titolarità di una situazione tutelata."
       },
       {
         "id": "d",
-        "text": "può accoglierla solo se il richiedente è residente nel Comune",
-        "why_wrong": "Il diritto spetta a «chiunque», senza limiti di legittimazione soggettiva."
+        "text": "può accoglierla solo se il richiedente è residente nel Comune, perché l'accesso civico generalizzato spetta ai soli residenti nel territorio dell'ente che detiene i dati",
+        "why_wrong": "Il diritto spetta a «chiunque» (comma 2) e il comma 3 esclude limitazioni quanto alla legittimazione soggettiva."
       }
     ],
     "correct": "b",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -231,18 +233,18 @@
       },
       {
         "id": "b",
-        "text": "è sempre gratuito, senza alcun rimborso",
-        "why_wrong": "Il comma 4 fa salvo il rimborso del costo di riproduzione su supporti materiali."
+        "text": "è sempre gratuito, senza alcun rimborso, perché il rilascio di dati o documenti in formato elettronico o cartaceo non può comportare oneri per il richiedente",
+        "why_wrong": "Il comma 4 fa salvo il rimborso del costo effettivamente sostenuto e documentato per la riproduzione su supporti materiali."
       },
       {
         "id": "c",
-        "text": "è subordinato al pagamento di diritti di ricerca e di visura",
-        "why_wrong": "Il comma 4 prevede la gratuità, salvo il solo costo di riproduzione."
+        "text": "è subordinato al pagamento di diritti di ricerca e di visura, oltre al rimborso del costo sostenuto dall'amministrazione per la riproduzione su supporti materiali",
+        "why_wrong": "Il comma 4 prevede la gratuità del rilascio, salvo il solo rimborso del costo di riproduzione su supporti materiali."
       },
       {
         "id": "d",
-        "text": "è gratuito per i residenti e a pagamento per gli altri richiedenti",
-        "why_wrong": "Il comma 4 non distingue tra richiedenti; il comma 3 esclude limitazioni soggettive."
+        "text": "è gratuito per i richiedenti residenti, mentre per gli altri è subordinato al rimborso del costo documentato per la riproduzione su supporti materiali",
+        "why_wrong": "Il comma 4 non distingue tra richiedenti; il comma 3 esclude limitazioni quanto alla legittimazione soggettiva."
       }
     ],
     "correct": "a",
@@ -260,7 +262,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -358,13 +361,13 @@
     "options": [
       {
         "id": "a",
-        "text": "in tutti i casi, compresi quelli di pubblicazione obbligatoria",
-        "why_wrong": "Il comma 5 fa salvi i casi di pubblicazione obbligatoria."
+        "text": "in tutti i casi, compresi quelli di pubblicazione obbligatoria, mediante invio di copia con raccomandata con avviso di ricevimento",
+        "why_wrong": "La raccomandata con avviso di ricevimento è una delle modalità previste dall'art. 5, comma 5, ma l'obbligo di comunicazione non sussiste nei casi di pubblicazione obbligatoria, che il comma fa salvi."
       },
       {
         "id": "b",
-        "text": "solo se il richiedente ne fa espressa domanda",
-        "why_wrong": "Il comma 5 pone l'obbligo in capo all'amministrazione quando individua controinteressati."
+        "text": "solo se il richiedente ne fa espressa domanda, affinché i controinteressati possano presentare opposizione entro dieci giorni",
+        "why_wrong": "Il comma 5 pone l'obbligo di comunicazione in capo all'amministrazione quando individua controinteressati, indipendentemente da una domanda del richiedente."
       },
       {
         "id": "c",
@@ -373,8 +376,8 @@
       },
       {
         "id": "d",
-        "text": "solo se il controinteressato è una pubblica amministrazione",
-        "why_wrong": "I controinteressati sono individuati con riferimento agli interessi privati dell'art. 5-bis, comma 2."
+        "text": "solo se il controinteressato è una pubblica amministrazione titolare di uno degli interessi pubblici indicati dall'art. 5-bis, comma 1",
+        "why_wrong": "I controinteressati sono individuati con riferimento agli interessi privati dell'art. 5-bis, comma 2, non agli interessi pubblici del comma 1."
       }
     ],
     "correct": "c",
@@ -392,7 +395,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -407,18 +411,18 @@
       },
       {
         "id": "b",
-        "text": "con provvedimento espresso nel termine di sessanta giorni",
-        "why_wrong": "Il comma 6 prevede un termine di trenta giorni."
+        "text": "con provvedimento espresso e motivato nel termine di sessanta giorni dalla presentazione dell'istanza",
+        "why_wrong": "Il provvedimento espresso e motivato va adottato nel termine di trenta giorni dalla presentazione dell'istanza, non di sessanta (art. 5, comma 6)."
       },
       {
         "id": "c",
-        "text": "entro trenta giorni, decorsi i quali la richiesta si intende accolta",
-        "why_wrong": "Il comma 6 richiede un provvedimento espresso e motivato; la mancata risposta consente la richiesta di riesame (comma 7)."
+        "text": "entro trenta giorni dalla presentazione dell'istanza, decorsi i quali la richiesta si intende accolta",
+        "why_wrong": "L'art. 5, comma 6, non prevede l'accoglimento tacito: richiede un provvedimento espresso e motivato; la mancata risposta nel termine consente la richiesta di riesame (comma 7)."
       },
       {
         "id": "d",
-        "text": "entro venti giorni, con comunicazione al solo richiedente",
-        "why_wrong": "Il termine è di trenta giorni e la comunicazione va anche ai controinteressati."
+        "text": "con provvedimento motivato entro venti giorni dall'istanza, con comunicazione al solo richiedente",
+        "why_wrong": "Il comma 6 prevede un termine di trenta giorni e la comunicazione al richiedente e agli eventuali controinteressati; venti giorni è il termine per la decisione sul riesame (comma 7)."
       }
     ],
     "correct": "a",
@@ -436,7 +440,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -446,8 +451,8 @@
     "options": [
       {
         "id": "a",
-        "text": "trasmette i dati al solo richiedente, senza pubblicarli",
-        "why_wrong": "Per i dati oggetto di pubblicazione obbligatoria il comma 6 prevede la pubblicazione sul sito."
+        "text": "trasmette tempestivamente al solo richiedente i dati richiesti, senza pubblicarli sul sito né comunicare il collegamento ipertestuale",
+        "why_wrong": "La sola trasmissione al richiedente riguarda i dati non soggetti a pubblicazione obbligatoria; per questi il comma 6 prevede la pubblicazione sul sito."
       },
       {
         "id": "b",
@@ -456,13 +461,13 @@
       },
       {
         "id": "c",
-        "text": "trasmette i dati all'Autorità nazionale anticorruzione, che provvede alla pubblicazione",
-        "why_wrong": "Il comma 6 pone la pubblicazione a carico dell'amministrazione."
+        "text": "trasmette i dati all'Autorità nazionale anticorruzione, che provvede alla loro pubblicazione sul sito e ne dà comunicazione al richiedente",
+        "why_wrong": "Il comma 6 pone la pubblicazione e la comunicazione al richiedente a carico dell'amministrazione."
       },
       {
         "id": "d",
-        "text": "invita il richiedente a presentare istanza di accesso ai sensi della L. 241/1990",
-        "why_wrong": "Il comma 6 disciplina l'accoglimento dell'accesso civico, con pubblicazione dei dati obbligatori."
+        "text": "invita il richiedente a presentare un'istanza di accesso ai documenti amministrativi ai sensi del Capo V della L. 241/1990",
+        "why_wrong": "Le forme di accesso del Capo V della L. 241/1990 restano ferme (comma 11), ma in caso di accoglimento il comma 6 prevede la pubblicazione dei dati obbligatori."
       }
     ],
     "correct": "b",
@@ -480,7 +485,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -490,22 +496,22 @@
     "options": [
       {
         "id": "a",
-        "text": "trasmette immediatamente i documenti al richiedente",
-        "why_wrong": "In caso di opposizione, il comma 6 impone di attendere almeno quindici giorni, salvi i casi di comprovata indifferibilità."
+        "text": "trasmette immediatamente i documenti al richiedente, dandone contestuale comunicazione al controinteressato, poiché l'opposizione non produce effetti dopo l'accoglimento",
+        "why_wrong": "In caso di accoglimento nonostante l'opposizione, il comma 6 impone di trasmettere i dati non prima di quindici giorni, salvi i casi di comprovata indifferibilità."
       },
       {
         "id": "b",
-        "text": "deve prima chiedere il parere del Garante per la protezione dei dati personali",
-        "why_wrong": "Il parere del Garante è previsto in sede di riesame per i dinieghi a tutela dei dati personali (comma 7)."
+        "text": "deve prima chiedere il parere del Garante per la protezione dei dati personali, che si pronuncia entro dieci giorni, e solo dopo trasmette i documenti al richiedente",
+        "why_wrong": "Il parere del Garante è previsto in sede di riesame quando l'accesso è negato o differito a tutela dei dati personali (comma 7)."
       },
       {
         "id": "c",
-        "text": "sospende il procedimento fino alla decisione del difensore civico",
-        "why_wrong": "Il comma 6 non prevede questa sospensione; il controinteressato può chiedere il riesame o ricorrere al difensore civico (comma 9)."
+        "text": "sospende il procedimento fino alla pronuncia del difensore civico, che si pronuncia entro trenta giorni dalla presentazione del ricorso del controinteressato",
+        "why_wrong": "Il comma 6 non prevede questa sospensione; il ricorso al difensore civico è un rimedio che il controinteressato può esperire (commi 8 e 9)."
       },
       {
         "id": "d",
-        "text": "ne dà comunicazione al controinteressato e trasmette i documenti al richiedente non prima di quindici giorni dalla ricezione della comunicazione da parte del controinteressato",
+        "text": "informa il controinteressato e trasmette i documenti al richiedente non prima di quindici giorni dalla ricezione della comunicazione da parte del controinteressato",
         "why_wrong": null
       }
     ],
@@ -524,7 +530,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -578,23 +585,23 @@
     "options": [
       {
         "id": "a",
-        "text": "all'organismo indipendente di valutazione, che decide entro trenta giorni",
-        "why_wrong": "Il riesame spetta al RPCT, che decide entro venti giorni."
+        "text": "all'organismo indipendente di valutazione dell'amministrazione, che decide con provvedimento motivato entro il termine di trenta giorni",
+        "why_wrong": "Il comma 7 attribuisce il riesame al RPCT, che decide entro venti giorni."
       },
       {
         "id": "b",
-        "text": "al Garante per la protezione dei dati personali, che decide entro dieci giorni",
-        "why_wrong": "Il Garante esprime un parere entro dieci giorni solo se il diniego riguarda la protezione dei dati personali; il riesame spetta al RPCT."
+        "text": "al Garante per la protezione dei dati personali, che decide con provvedimento motivato entro il termine di dieci giorni",
+        "why_wrong": "Il Garante si pronuncia entro dieci giorni solo se l'accesso è negato o differito a tutela dei dati personali, e il RPCT provvede sentito il Garante; il riesame spetta al RPCT."
       },
       {
         "id": "c",
-        "text": "al responsabile della prevenzione della corruzione e della trasparenza, che decide con provvedimento motivato entro il termine di venti giorni",
+        "text": "al responsabile della prevenzione della corruzione e della trasparenza, che decide con provvedimento motivato entro venti giorni",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "al dirigente dell'ufficio che ha negato l'accesso, entro quindici giorni",
-        "why_wrong": "Il comma 7 individua il RPCT come organo del riesame."
+        "text": "al dirigente dell'ufficio che ha negato l'accesso, che decide con provvedimento motivato entro il termine di quindici giorni",
+        "why_wrong": "Il comma 7 individua il RPCT come organo del riesame, con termine di venti giorni."
       }
     ],
     "correct": "c",
@@ -612,7 +619,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -667,18 +675,18 @@
     "options": [
       {
         "id": "a",
-        "text": "ricorso straordinario al Presidente della Repubblica, unico rimedio ammesso",
-        "why_wrong": "Il comma 7 prevede il ricorso al TAR ai sensi dell'art. 116 del codice del processo amministrativo."
+        "text": "ricorso straordinario al Presidente della Repubblica, quale unico rimedio ammesso avverso tale decisione",
+        "why_wrong": "L'art. 5, comma 7, non prevede il ricorso straordinario, né come unico rimedio: indica il ricorso al TAR ai sensi dell'art. 116 del codice del processo amministrativo."
       },
       {
         "id": "b",
-        "text": "ricorso al giudice ordinario",
-        "why_wrong": "Il comma 7 indica il Tribunale amministrativo regionale."
+        "text": "ricorso al giudice ordinario competente per territorio, previo parere del Garante per la protezione dei dati",
+        "why_wrong": "Il comma 7 indica il Tribunale amministrativo regionale; il parere del Garante riguarda il riesame dei dinieghi a tutela dei dati personali."
       },
       {
         "id": "c",
-        "text": "reclamo all'Autorità nazionale anticorruzione, che decide in via definitiva",
-        "why_wrong": "Il comma 7 non prevede reclami all'ANAC."
+        "text": "reclamo all'Autorità nazionale anticorruzione, che decide in via definitiva entro il termine di trenta giorni",
+        "why_wrong": "Il comma 7 non prevede reclami all'ANAC, ma il ricorso al TAR."
       },
       {
         "id": "d",
@@ -701,7 +709,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -711,8 +720,8 @@
     "options": [
       {
         "id": "a",
-        "text": "il ricorso non è ammesso e resta solo il ricorso al TAR",
-        "why_wrong": "Il comma 8 prevede in tal caso la competenza del difensore civico dell'ambito territoriale immediatamente superiore."
+        "text": "il ricorso al difensore civico non è ammesso e il richiedente può proporre soltanto ricorso al TAR competente",
+        "why_wrong": "L'art. 5, comma 8, non esclude il ricorso se l'organo non è istituito: attribuisce la competenza al difensore civico dell'ambito territoriale immediatamente superiore."
       },
       {
         "id": "b",
@@ -721,13 +730,13 @@
       },
       {
         "id": "c",
-        "text": "la competenza è attribuita all'Autorità nazionale anticorruzione",
-        "why_wrong": "Il comma 8 attribuisce la competenza al difensore civico dell'ambito territoriale superiore."
+        "text": "la competenza è attribuita all'Autorità nazionale anticorruzione, che si pronuncia entro trenta giorni dal ricorso",
+        "why_wrong": "Il comma 8 attribuisce la competenza al difensore civico dell'ambito territoriale immediatamente superiore."
       },
       {
         "id": "d",
-        "text": "la competenza è attribuita al prefetto",
-        "why_wrong": "Il comma 8 non prevede la competenza del prefetto."
+        "text": "la competenza è attribuita al prefetto della provincia in cui ha sede l'amministrazione interessata",
+        "why_wrong": "Il comma 8 non prevede la competenza del prefetto, ma quella del difensore civico dell'ambito territoriale superiore."
       }
     ],
     "correct": "b",
@@ -745,7 +754,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -847,18 +857,18 @@
     "options": [
       {
         "id": "a",
-        "text": "non dispone di alcun rimedio, perché l'accesso è stato accolto",
-        "why_wrong": "Il comma 9 riconosce rimedi anche al controinteressato in caso di accoglimento."
+        "text": "non dispone di alcun rimedio, perché la sua opposizione è già stata valutata e la richiesta di accesso è stata accolta",
+        "why_wrong": "Il comma 9 riconosce rimedi al controinteressato proprio nei casi di accoglimento."
       },
       {
         "id": "b",
-        "text": "può solo chiedere il risarcimento del danno",
-        "why_wrong": "Il comma 9 prevede la richiesta di riesame e il ricorso al difensore civico."
+        "text": "può soltanto chiedere il risarcimento del danno subito, non potendo contestare la decisione di accoglimento dell'accesso",
+        "why_wrong": "Il comma 9 prevede la richiesta di riesame (comma 7) e il ricorso al difensore civico (comma 8)."
       },
       {
         "id": "c",
-        "text": "può presentare opposizione entro dieci giorni dalla trasmissione dei dati",
-        "why_wrong": "L'opposizione entro dieci giorni riguarda la fase precedente alla decisione (comma 5)."
+        "text": "può presentare una nuova opposizione motivata entro dieci giorni dalla trasmissione dei dati o dei documenti al richiedente",
+        "why_wrong": "L'opposizione entro dieci giorni riguarda la fase precedente alla decisione e decorre dalla ricezione della comunicazione (comma 5)."
       },
       {
         "id": "d",
@@ -881,7 +891,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -935,8 +946,8 @@
     "options": [
       {
         "id": "a",
-        "text": "sono abrogate",
-        "why_wrong": "Il comma 11 stabilisce che restano ferme."
+        "text": "sono abrogate e sostituite dall'accesso civico e dagli obblighi di pubblicazione del Capo II",
+        "why_wrong": "Il comma 11 stabilisce che restano ferme, come gli obblighi di pubblicazione del Capo II."
       },
       {
         "id": "b",
@@ -945,13 +956,13 @@
       },
       {
         "id": "c",
-        "text": "si applicano solo agli enti locali",
-        "why_wrong": "Il comma 11 non prevede questa limitazione."
+        "text": "si applicano solo agli enti locali, mentre per le altre amministrazioni opera l'accesso civico",
+        "why_wrong": "Il comma 11 le fa salve senza questa limitazione."
       },
       {
         "id": "d",
-        "text": "sono assorbite nell'accesso civico generalizzato",
-        "why_wrong": "Il comma 11 stabilisce che restano ferme, accanto all'accesso civico."
+        "text": "sono assorbite nell'accesso civico generalizzato, come gli obblighi di pubblicazione del Capo II",
+        "why_wrong": "Il comma 11 stabilisce che restano ferme sia le forme di accesso del Capo V della L. 241/1990 sia gli obblighi di pubblicazione del Capo II."
       }
     ],
     "correct": "b",
@@ -969,7 +980,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1032,18 +1044,18 @@
       },
       {
         "id": "b",
-        "text": "deve sempre consentire l'accesso, perché l'accesso civico generalizzato non incontra limiti a tutela di interessi privati",
-        "why_wrong": "Il comma 2 prevede limiti a tutela di interessi privati, tra cui gli interessi economici e commerciali."
+        "text": "deve sempre consentire l'accesso, perché l'accesso civico generalizzato incontra limiti solo a tutela di interessi pubblici, come l'ordine pubblico e la sicurezza nazionale",
+        "why_wrong": "Oltre agli interessi pubblici del comma 1, il comma 2 prevede limiti a tutela di interessi privati, tra cui gli interessi economici e commerciali."
       },
       {
         "id": "c",
-        "text": "deve rifiutare l'accesso in ogni caso, anche senza pregiudizio concreto",
-        "why_wrong": "Il comma 2 richiede che il diniego sia necessario per evitare un pregiudizio concreto."
+        "text": "deve rifiutare l'accesso in ogni caso, anche in assenza di un pregiudizio concreto, perché i segreti commerciali sono sempre esclusi dall'accesso civico generalizzato",
+        "why_wrong": "Per gli interessi economici e commerciali, compresi i segreti commerciali, l'art. 5-bis, comma 2, lett. c), prevede il rifiuto solo se necessario per evitare un pregiudizio concreto."
       },
       {
         "id": "d",
-        "text": "deve rifiutare l'accesso a tutto il documento, anche se il limite riguarda solo alcune parti",
-        "why_wrong": "Se i limiti riguardano solo alcune parti, deve essere consentito l'accesso alle altre (comma 4)."
+        "text": "deve rifiutare l'accesso all'intero documento richiesto, anche se il pregiudizio agli interessi economici e commerciali dell'impresa riguarda soltanto alcune sue parti",
+        "why_wrong": "Se i limiti riguardano soltanto alcuni dati o alcune parti del documento, deve essere consentito l'accesso alle altre parti (comma 4)."
       }
     ],
     "correct": "a",
@@ -1065,7 +1077,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

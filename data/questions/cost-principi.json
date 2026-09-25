@@ -50,8 +50,8 @@
     "options": [
       {
         "id": "a",
-        "text": "familiare e sociale",
-        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale."
+        "text": "familiare, morale e sociale",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale, non quella familiare e morale."
       },
       {
         "id": "b",
@@ -60,13 +60,13 @@
       },
       {
         "id": "c",
-        "text": "politica e militare",
-        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale."
+        "text": "politica, civile e militare",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale; la difesa della Patria è sacro dovere del cittadino ai sensi dell'art. 52."
       },
       {
         "id": "d",
-        "text": "economica e fiscale",
-        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale; il concorso alle spese pubbliche è previsto dall'art. 53."
+        "text": "economica, fiscale e territoriale",
+        "why_wrong": "L'art. 2 richiama la solidarietà politica, economica e sociale, non quella fiscale e territoriale; il concorso alle spese pubbliche è previsto dall'art. 53."
       }
     ],
     "correct": "b",
@@ -84,7 +84,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -94,23 +95,23 @@
     "options": [
       {
         "id": "a",
-        "text": "la Repubblica riconosce e promuove le autonomie locali",
-        "why_wrong": "Il riconoscimento delle autonomie locali è oggetto dell'art. 5, non della rimozione degli ostacoli di ordine economico e sociale."
+        "text": "la Repubblica, una e indivisibile, riconosce e promuove le autonomie locali e attua, nei servizi che dipendono dallo Stato, il più ampio decentramento amministrativo",
+        "why_wrong": "Il riconoscimento delle autonomie locali e il decentramento amministrativo sono oggetto dell'art. 5, non della rimozione degli ostacoli di ordine economico e sociale."
       },
       {
         "id": "b",
-        "text": "la Repubblica promuove lo sviluppo della cultura",
-        "why_wrong": "La promozione della cultura è oggetto dell'art. 9, non della rimozione degli ostacoli di ordine economico e sociale."
+        "text": "la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica e tutela il paesaggio e il patrimonio storico e artistico della Nazione",
+        "why_wrong": "La promozione della cultura e della ricerca è oggetto dell'art. 9, non della rimozione degli ostacoli di ordine economico e sociale."
       },
       {
         "id": "c",
-        "text": "è compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana",
+        "text": "la Repubblica deve rimuovere gli ostacoli economici e sociali che, limitando di fatto libertà ed eguaglianza dei cittadini, impediscono il pieno sviluppo della persona",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "tutti i cittadini sono eguali davanti alla legge, senza distinzione di condizioni personali e sociali",
-        "why_wrong": "L'eguaglianza davanti alla legge è sancita dal primo comma; la rimozione degli ostacoli di ordine economico e sociale è compito della Repubblica ai sensi del secondo comma."
+        "text": "tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione e di condizioni personali e sociali",
+        "why_wrong": "La pari dignità sociale e l'eguaglianza davanti alla legge sono sancite dal primo comma; la rimozione degli ostacoli di ordine economico e sociale è compito della Repubblica ai sensi del secondo comma."
       }
     ],
     "correct": "c",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -402,8 +404,8 @@
     "options": [
       {
         "id": "a",
-        "text": "quando siano necessarie alla risoluzione delle controversie internazionali mediante la guerra",
-        "why_wrong": "L'art. 11 ripudia la guerra come mezzo di risoluzione delle controversie internazionali."
+        "text": "quando siano necessarie a risolvere le controversie internazionali, anche ricorrendo alla guerra come strumento di offesa",
+        "why_wrong": "L'art. 11 ripudia la guerra come strumento di offesa e come mezzo di risoluzione delle controversie internazionali."
       },
       {
         "id": "b",
@@ -412,13 +414,13 @@
       },
       {
         "id": "c",
-        "text": "senza condizioni, ogni volta che lo preveda un trattato internazionale",
-        "why_wrong": "L'art. 11 richiede condizioni di parità con gli altri Stati e la necessità per un ordinamento che assicuri la pace e la giustizia fra le Nazioni."
+        "text": "senza alcuna condizione, ogni volta che lo preveda un trattato internazionale la cui ratifica sia autorizzata con legge dalle Camere",
+        "why_wrong": "L'autorizzazione alla ratifica dei trattati è disciplinata dall'art. 80; l'art. 11 richiede condizioni di parità con gli altri Stati e la necessità per un ordinamento che assicuri la pace e la giustizia fra le Nazioni."
       },
       {
         "id": "d",
-        "text": "solo previa approvazione con referendum popolare",
-        "why_wrong": "L'art. 11 non prevede alcun referendum: indica le condizioni di parità e il fine della pace e della giustizia fra le Nazioni."
+        "text": "solo previa approvazione con referendum popolare, al quale abbia partecipato la maggioranza degli aventi diritto al voto",
+        "why_wrong": "Il quorum di partecipazione riguarda il referendum abrogativo (art. 75); l'art. 11 non prevede alcun referendum, ma indica le condizioni di parità e il fine della pace e della giustizia fra le Nazioni."
       }
     ],
     "correct": "b",
@@ -436,7 +438,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

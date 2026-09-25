@@ -274,22 +274,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Previsioni di competenza e di cassa per tutti gli esercizi considerati",
-        "why_wrong": "Le previsioni di cassa riguardano solo il primo esercizio; per gli esercizi successivi sono previste solo quelle di competenza (art. 151, comma 3)."
+        "text": "Previsioni di competenza e di cassa per il primo esercizio e per tutti gli esercizi successivi",
+        "why_wrong": "Per gli esercizi successivi al primo sono previste solo le previsioni di competenza, non quelle di cassa (art. 151, comma 3)."
       },
       {
         "id": "b",
-        "text": "Previsioni di sola cassa per il primo esercizio e di competenza per gli esercizi successivi",
-        "why_wrong": "Per il primo esercizio sono previste sia la competenza sia la cassa (art. 151, comma 3)."
+        "text": "Previsioni di sola cassa per il primo esercizio e di sola competenza per gli esercizi successivi",
+        "why_wrong": "Per il primo esercizio sono previste sia la competenza sia la cassa, non la sola cassa (art. 151, comma 3)."
       },
       {
         "id": "c",
-        "text": "Previsioni di sola competenza per tutti gli esercizi considerati",
-        "why_wrong": "Per il primo esercizio sono previste anche le previsioni di cassa (art. 151, comma 3)."
+        "text": "Previsioni di sola competenza per il primo esercizio e di competenza e di cassa per gli esercizi successivi",
+        "why_wrong": "Le previsioni di cassa riguardano il primo esercizio; per gli esercizi successivi sono previste solo quelle di competenza (art. 151, comma 3)."
       },
       {
         "id": "d",
-        "text": "Previsioni di competenza e di cassa per il primo esercizio e previsioni di sola competenza per gli esercizi successivi",
+        "text": "Previsioni di competenza e di cassa per il primo esercizio e di sola competenza per i successivi",
         "why_wrong": null
       }
     ],
@@ -308,7 +308,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -318,8 +319,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Per l'entrata il titolo, per la spesa la missione",
-        "why_wrong": "Per l'entrata l'unità di voto è la tipologia e per la spesa il programma (art. 164, comma 1)."
+        "text": "Per l'entrata il titolo, per la spesa la missione, articolata in programmi",
+        "why_wrong": "Titoli e missioni sono i livelli più aggregati della classificazione (art. 165, commi 2 e 4); l'unità di voto è la tipologia per l'entrata e il programma per la spesa (art. 164, comma 1)."
       },
       {
         "id": "b",
@@ -328,13 +329,13 @@
       },
       {
         "id": "c",
-        "text": "Per l'entrata la categoria, per la spesa il macroaggregato",
-        "why_wrong": "Categorie e macroaggregati sono articolazioni del Piano esecutivo di gestione ai fini della gestione (art. 165, commi 3 e 5), non unità di voto."
+        "text": "Per l'entrata la categoria, per la spesa il macroaggregato, articolato in capitoli",
+        "why_wrong": "Categorie e macroaggregati sono articolazioni del Piano esecutivo di gestione ai fini della gestione (art. 165, commi 3 e 5), non unità di voto del bilancio (art. 164, comma 1)."
       },
       {
         "id": "d",
-        "text": "Per l'entrata e per la spesa il capitolo",
-        "why_wrong": "I capitoli sono le unità elementari ai fini della gestione e della rendicontazione nel PEG (art. 169, comma 2), non unità di voto del bilancio."
+        "text": "Per l'entrata e per la spesa il capitolo, eventualmente articolato in articoli",
+        "why_wrong": "I capitoli, eventualmente articolati in articoli, sono le unità elementari ai fini della gestione e della rendicontazione nel PEG (art. 169, comma 2), non unità di voto del bilancio."
       }
     ],
     "correct": "b",
@@ -352,7 +353,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -451,23 +453,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Un dodicesimo degli stanziamenti del primo esercizio del bilancio di previsione deliberato l'anno precedente",
-        "why_wrong": "Il riferimento è agli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente (art. 163, comma 5)."
+        "text": "Un dodicesimo degli stanziamenti del primo esercizio del bilancio di previsione deliberato l'anno precedente, senza recupero dei dodicesimi non utilizzati",
+        "why_wrong": "Il riferimento è agli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti (art. 163, comma 5)."
       },
       {
         "id": "b",
-        "text": "Un dodicesimo delle spese impegnate nell'esercizio precedente",
-        "why_wrong": "Il parametro sono gli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, non gli impegni dell'anno precedente (art. 163, comma 5)."
+        "text": "Un dodicesimo delle spese impegnate nell'esercizio precedente, unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti",
+        "why_wrong": "Il recupero della quota dei dodicesimi non utilizzata è previsto, ma il parametro sono gli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, non le spese impegnate (art. 163, comma 5)."
       },
       {
         "id": "c",
-        "text": "Un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente, oltre alla quota dei dodicesimi non utilizzata nei mesi precedenti",
+        "text": "Un dodicesimo degli stanziamenti del secondo esercizio del bilancio deliberato l'anno precedente, più i dodicesimi non utilizzati nei mesi precedenti",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Tre dodicesimi delle entrate accertate nel penultimo anno precedente",
-        "why_wrong": "Tre dodicesimi delle entrate accertate nel penultimo anno è il limite delle anticipazioni di tesoreria (art. 222, comma 1), non degli impegni in esercizio provvisorio."
+        "text": "Tre dodicesimi delle entrate accertate nel penultimo anno precedente, afferenti ai primi tre titoli di entrata del bilancio",
+        "why_wrong": "Tre dodicesimi delle entrate accertate nel penultimo anno precedente, afferenti ai primi tre titoli, è il limite delle anticipazioni di tesoreria (art. 222, comma 1), non degli impegni in esercizio provvisorio."
       }
     ],
     "correct": "c",
@@ -485,7 +487,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -495,23 +498,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Tutte le spese correnti, nel limite di un dodicesimo al mese",
-        "why_wrong": "Il limite dei dodicesimi riguarda l'esercizio provvisorio (art. 163, comma 5); in questo caso si applica la più restrittiva gestione provvisoria (art. 163, comma 2)."
+        "text": "Tutte le spese correnti, per ciascun programma entro il limite mensile di un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente",
+        "why_wrong": "Gli impegni di spese correnti per programma nel limite mensile dei dodicesimi sono ammessi nell'esercizio provvisorio (art. 163, commi 3 e 5), qui non autorizzato; in gestione provvisoria l'ente assume solo le obbligazioni elencate dall'art. 163, comma 2."
       },
       {
         "id": "b",
-        "text": "Solo obbligazioni derivanti da provvedimenti giurisdizionali esecutivi, quelle tassativamente regolate dalla legge e quelle necessarie a evitare danni patrimoniali certi e gravi all'ente",
+        "text": "Solo quelle derivanti da provvedimenti giurisdizionali esecutivi, tassativamente regolate dalla legge o necessarie a evitare danni patrimoniali certi e gravi all'ente",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "Nessuna obbligazione fino all'approvazione del bilancio",
-        "why_wrong": "Anche in gestione provvisoria l'ente può assumere alcune obbligazioni, elencate dall'art. 163, comma 2."
+        "text": "Nessuna obbligazione, potendo soltanto disporre i pagamenti per le obbligazioni già assunte, per le spese di personale, per i residui passivi e per le rate di mutuo",
+        "why_wrong": "Anche in gestione provvisoria l'ente può assumere alcune obbligazioni, oltre a disporre i pagamenti ammessi (art. 163, comma 2)."
       },
       {
         "id": "d",
-        "text": "Solo obbligazioni finanziate con l'indebitamento",
-        "why_wrong": "La norma non collega le obbligazioni ammesse all'indebitamento, ma le limita ai casi elencati dall'art. 163, comma 2."
+        "text": "Solo spese correnti, le eventuali spese correlate riguardanti le partite di giro e i lavori pubblici o gli altri interventi di somma urgenza, senza ricorso all'indebitamento",
+        "why_wrong": "Sono le spese impegnabili nell'esercizio provvisorio (art. 163, comma 3), che qui non è stato autorizzato; in gestione provvisoria valgono i limiti dell'art. 163, comma 2."
       }
     ],
     "correct": "b",
@@ -529,7 +532,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -539,18 +543,18 @@
     "options": [
       {
         "id": "a",
-        "text": "Dal Consiglio dell'ente, con deliberazione adottata entro il 31 dicembre",
-        "why_wrong": "L'esercizio provvisorio non è autorizzato dall'ente, ma con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+        "text": "Con deliberazione del Consiglio dell'ente, adottata entro il 31 dicembre dell'anno precedente a quello di riferimento",
+        "why_wrong": "Il Consiglio delibera il bilancio entro il 31 dicembre (art. 151, comma 1), ma non autorizza l'esercizio provvisorio, che è autorizzato con legge o con decreto del Ministro dell'interno che differisce il termine (art. 163, comma 3)."
       },
       {
         "id": "b",
-        "text": "Dalla Giunta, previo parere dell'organo di revisione",
-        "why_wrong": "L'esercizio provvisorio è autorizzato con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+        "text": "Con deliberazione della Giunta, previo parere dell'organo di revisione, da comunicare al Consiglio dell'ente",
+        "why_wrong": "L'esercizio provvisorio non è autorizzato dalla Giunta, ma con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
       },
       {
         "id": "c",
-        "text": "Dal Prefetto, su richiesta del sindaco",
-        "why_wrong": "Il Prefetto non è previsto: l'autorizzazione avviene con legge o con decreto del Ministro dell'interno (art. 163, comma 3)."
+        "text": "Con decreto del Prefetto che, su richiesta del sindaco, assegna all'ente un nuovo termine per approvare il bilancio",
+        "why_wrong": "Il termine di approvazione del bilancio non è differito dal Prefetto: l'esercizio provvisorio è autorizzato con legge o con decreto del Ministro dell'interno che differisce tale termine (art. 163, comma 3)."
       },
       {
         "id": "d",
@@ -573,7 +577,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -588,18 +593,18 @@
       },
       {
         "id": "b",
-        "text": "Non inferiore allo 0,45 e non superiore al 2 per cento del totale delle spese correnti",
-        "why_wrong": "Lo 0,45 per cento è il limite minimo solo per gli enti nelle situazioni previste dagli articoli 195 e 222 (art. 166, comma 2-ter)."
+        "text": "Non inferiore allo 0,45 e non superiore al 2 per cento del totale delle spese correnti inizialmente previste in bilancio",
+        "why_wrong": "Lo 0,45 per cento delle spese correnti è il limite minimo solo per gli enti nelle situazioni degli articoli 195 e 222 (art. 166, comma 2-ter); in via ordinaria il minimo è lo 0,30 per cento (comma 1)."
       },
       {
         "id": "c",
-        "text": "Non inferiore allo 0,2 per cento delle spese finali",
-        "why_wrong": "Lo 0,2 per cento delle spese finali è il minimo del fondo di riserva di cassa (art. 166, comma 2-quater)."
+        "text": "Non inferiore allo 0,2 e non superiore al 2 per cento del totale delle spese finali di competenza inizialmente previste",
+        "why_wrong": "Lo 0,2 per cento delle spese finali è il minimo del fondo di riserva di cassa (art. 166, comma 2-quater); il fondo di riserva di competenza si calcola sulle spese correnti (comma 1)."
       },
       {
         "id": "d",
-        "text": "Non superiore al 10 per cento delle entrate correnti",
-        "why_wrong": "La norma fissa i limiti in percentuale delle spese correnti di competenza, tra lo 0,30 e il 2 per cento (art. 166, comma 1)."
+        "text": "Non inferiore allo 0,30 e non superiore al 10 per cento del totale delle entrate correnti di competenza inizialmente previste",
+        "why_wrong": "Il limite massimo è il 2 per cento e la base di calcolo è il totale delle spese correnti di competenza, non delle entrate correnti (art. 166, comma 1)."
       }
     ],
     "correct": "a",
@@ -617,7 +622,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -627,22 +633,22 @@
     "options": [
       {
         "id": "a",
-        "text": "No, perché i prelevamenti dal fondo di riserva sono di competenza del Consiglio",
-        "why_wrong": "I prelevamenti dal fondo di riserva sono di competenza dell'organo esecutivo (art. 176, comma 1)."
+        "text": "No, perché i prelevamenti dal fondo di riserva sono di competenza esclusiva del Consiglio",
+        "why_wrong": "I prelevamenti dal fondo di riserva sono di competenza dell'organo esecutivo (art. 176, comma 1); al Consiglio le deliberazioni sono soltanto comunicate (art. 166, comma 2)."
       },
       {
         "id": "b",
-        "text": "No, perché i prelevamenti sono ammessi solo fino al 30 novembre",
-        "why_wrong": "Il 30 novembre è il termine ordinario per le variazioni di bilancio (art. 175, comma 3); i prelevamenti dal fondo di riserva sono ammessi fino al 31 dicembre (art. 176, comma 1)."
+        "text": "No, perché i prelevamenti dal fondo di riserva sono ammessi soltanto fino al 30 novembre",
+        "why_wrong": "Il limite del 30 novembre riguarda le variazioni di bilancio (art. 175, comma 3); i prelevamenti dal fondo di riserva possono essere deliberati sino al 31 dicembre (art. 176, comma 1)."
       },
       {
         "id": "c",
-        "text": "Sì, ma solo previa ratifica del Consiglio entro sessanta giorni",
-        "why_wrong": "La ratifica consiliare entro sessanta giorni riguarda le variazioni di bilancio adottate in via d'urgenza dalla Giunta (art. 175, comma 4); per il fondo di riserva è prevista la comunicazione al Consiglio (art. 166, comma 2)."
+        "text": "Sì, ma solo previa ratifica del Consiglio, a pena di decadenza, entro i sessanta giorni seguenti",
+        "why_wrong": "La ratifica consiliare entro sessanta giorni, a pena di decadenza, riguarda le variazioni di bilancio adottate d'urgenza dalla Giunta (art. 175, comma 4); le deliberazioni sul fondo di riserva sono solo comunicate al Consiglio (art. 166, comma 2)."
       },
       {
         "id": "d",
-        "text": "Sì, perché i prelevamenti sono di competenza dell'organo esecutivo e possono essere deliberati sino al 31 dicembre",
+        "text": "Sì, perché i prelevamenti spettano all'organo esecutivo e sono ammessi sino al 31 dicembre",
         "why_wrong": null
       }
     ],
@@ -665,7 +671,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -811,23 +818,23 @@
     "options": [
       {
         "id": "a",
-        "text": "La verifica generale di tutte le voci di entrata e di uscita, compreso il fondo di riserva e il fondo di cassa, deliberata dal consiglio entro il 31 luglio",
+        "text": "La verifica generale di tutte le voci di entrata e di uscita, compresi il fondo di riserva e il fondo di cassa, deliberata dal consiglio entro il 31 luglio",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Il riaccertamento dei residui attivi e passivi, deliberato dalla Giunta entro il 30 aprile",
-        "why_wrong": "Il riaccertamento dei residui precede l'inserimento nel conto del bilancio (art. 228, comma 3); l'assestamento è una variazione consiliare entro il 31 luglio (art. 175, comma 8)."
+        "text": "Il riaccertamento dei residui attivi e passivi, con la revisione delle ragioni del loro mantenimento in bilancio, deliberato dalla Giunta entro il 30 aprile",
+        "why_wrong": "Il riaccertamento, cioè la revisione delle ragioni del mantenimento dei residui, precede l'inserimento nel conto del bilancio (art. 228, comma 3); il 30 aprile è il termine del rendiconto (art. 151, comma 7); l'assestamento è deliberato dal consiglio entro il 31 luglio (art. 175, comma 8)."
       },
       {
         "id": "c",
-        "text": "La presentazione del DUP al consiglio, entro il 31 luglio",
-        "why_wrong": "Il DUP è presentato dalla Giunta entro il 31 luglio (art. 170, comma 1), ma è altro atto rispetto all'assestamento generale (art. 175, comma 8)."
+        "text": "La presentazione al consiglio del Documento unico di programmazione, con le linee strategiche dell'ente, entro il 31 luglio di ciascun anno",
+        "why_wrong": "Entro il 31 luglio la Giunta presenta al Consiglio il DUP (art. 170, comma 1), che contiene le linee strategiche del bilancio (art. 151, comma 1); è atto distinto dall'assestamento generale (art. 175, comma 8)."
       },
       {
         "id": "d",
-        "text": "L'approvazione delle variazioni compensative del PEG, entro il 15 dicembre",
-        "why_wrong": "Le variazioni al PEG spettano all'organo esecutivo entro il 15 dicembre (art. 175, comma 9); l'assestamento generale è deliberato dal consiglio (art. 175, comma 8)."
+        "text": "L'approvazione delle variazioni compensative del PEG fra capitoli di spesa del medesimo macroaggregato, da adottare entro il 15 dicembre",
+        "why_wrong": "Le variazioni al PEG spettano all'organo esecutivo o, per quelle compensative del comma 5-quater, ai responsabili della spesa (art. 175, commi 5-quater e 9); l'assestamento generale è deliberato dal consiglio (art. 175, comma 8)."
       }
     ],
     "correct": "a",
@@ -845,7 +852,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -855,13 +863,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Esclusivamente il Consiglio",
-        "why_wrong": "Le variazioni al PEG non sono di competenza consiliare; quelle compensative nello stesso macroaggregato spettano ai responsabili della spesa (art. 175, comma 5-quater)."
+        "text": "Esclusivamente il Consiglio, con deliberazione da adottare non oltre il 30 novembre di ciascun anno",
+        "why_wrong": "Il termine del 30 novembre riguarda le variazioni al bilancio di competenza consiliare (art. 175, commi 2 e 3); queste variazioni del PEG spettano ai responsabili della spesa (art. 175, comma 5-quater)."
       },
       {
         "id": "b",
-        "text": "Esclusivamente la Giunta",
-        "why_wrong": "Alla Giunta restano le variazioni dei capitoli dei macroaggregati relativi a trasferimenti e contributi agli investimenti (art. 175, comma 5-quater, lettera a))."
+        "text": "Esclusivamente la Giunta, con provvedimento amministrativo da adottare entro il 15 dicembre",
+        "why_wrong": "Alla Giunta spettano le variazioni del PEG diverse da quelle del comma 5-quater (art. 175, comma 9); quelle compensative fra capitoli dello stesso macroaggregato spettano ai responsabili della spesa (art. 175, comma 5-quater)."
       },
       {
         "id": "c",
@@ -870,8 +878,8 @@
       },
       {
         "id": "d",
-        "text": "Il segretario comunale",
-        "why_wrong": "Il segretario non è indicato dalla norma, che attribuisce queste variazioni ai responsabili della spesa o al responsabile finanziario (art. 175, comma 5-quater)."
+        "text": "Il segretario comunale, sotto la cui direzione si svolge il controllo di regolarità amministrativa",
+        "why_wrong": "La direzione del segretario riguarda il controllo successivo di regolarità amministrativa (art. 147-bis, comma 2); queste variazioni spettano ai responsabili della spesa o al responsabile finanziario (art. 175, comma 5-quater)."
       }
     ],
     "correct": "c",
@@ -889,7 +897,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

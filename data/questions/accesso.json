@@ -44,10 +44,10 @@
     "subject": "accesso",
     "question": "Secondo la definizione dell'art. 22 della L. 241/1990, sono «interessati» all'accesso i soggetti privati che abbiano un interesse:",
     "options": [
-      { "id": "a", "text": "diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso", "why_wrong": null },
-      { "id": "b", "text": "diretto, concreto e attuale, anche se non collegato al documento al quale è chiesto l'accesso", "why_wrong": "La definizione richiede che la situazione giuridicamente tutelata sia «collegata al documento al quale è chiesto l'accesso»." },
-      { "id": "c", "text": "generico al controllo dell'operato della pubblica amministrazione", "why_wrong": "L'art. 24, comma 3, dichiara inammissibili le istanze preordinate ad un controllo generalizzato dell'operato delle pubbliche amministrazioni." },
-      { "id": "d", "text": "a non veder compromesso il proprio diritto alla riservatezza", "why_wrong": "È l'elemento che caratterizza i «controinteressati» (art. 22, comma 1, lett. c), non gli interessati." }
+      { "id": "a", "text": "diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento richiesto", "why_wrong": null },
+      { "id": "b", "text": "diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata, anche se non collegata al documento richiesto", "why_wrong": "L'art. 22, comma 1, lett. b), richiede che la situazione giuridicamente tutelata sia «collegata al documento al quale è chiesto l'accesso»." },
+      { "id": "c", "text": "generico al controllo dell'operato della pubblica amministrazione, anche se non corrispondente ad una situazione giuridicamente tutelata", "why_wrong": "L'art. 24, comma 3, dichiara inammissibili le istanze preordinate ad un controllo generalizzato dell'operato delle pubbliche amministrazioni; l'art. 22, comma 1, lett. b), richiede una situazione giuridicamente tutelata." },
+      { "id": "d", "text": "a non veder compromesso il proprio diritto alla riservatezza dall'esercizio dell'accesso richiesto da altri soggetti", "why_wrong": "Chi dall'accesso chiesto da altri vedrebbe compromesso il proprio diritto alla riservatezza è un «controinteressato» (art. 22, comma 1, lett. c); l'interessato deve avere un interesse diretto, concreto e attuale (lett. b)." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, comma 1, lett. b), qualifica come interessati tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento richiesto.",
@@ -56,7 +56,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -64,10 +65,10 @@
     "subject": "accesso",
     "question": "Ai sensi dell'art. 22 della L. 241/1990, sono «controinteressati»:",
     "options": [
-      { "id": "a", "text": "i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall'esercizio dell'accesso vedrebbero compromesso il loro diritto alla riservatezza", "why_wrong": null },
-      { "id": "b", "text": "i soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti", "why_wrong": "Sono i destinatari della comunicazione di avvio del procedimento (art. 7), non i controinteressati all'accesso." },
-      { "id": "c", "text": "i portatori di interessi pubblici o privati cui possa derivare un pregiudizio dal provvedimento", "why_wrong": "Sono i soggetti che hanno facoltà di intervenire nel procedimento ai sensi dell'art. 9." },
-      { "id": "d", "text": "le amministrazioni che hanno formato il documento o che lo detengono stabilmente", "why_wrong": "Sono le amministrazioni alle quali deve essere rivolta la richiesta di accesso (art. 25, comma 2)." }
+      { "id": "a", "text": "i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall'accesso vedrebbero compromesso il loro diritto alla riservatezza", "why_wrong": null },
+      { "id": "b", "text": "i soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti e quelli che per legge debbono intervenire nel procedimento", "why_wrong": "Sono i destinatari della comunicazione di avvio del procedimento (art. 7, comma 1), non i controinteressati all'accesso." },
+      { "id": "c", "text": "i soggetti portatori di interessi pubblici o privati, nonché i portatori di interessi diffusi costituiti in associazioni o comitati, cui possa derivare un pregiudizio dal provvedimento", "why_wrong": "Sono i soggetti che hanno facoltà di intervenire nel procedimento ai sensi dell'art. 9, comma 1, non i controinteressati all'accesso." },
+      { "id": "d", "text": "le amministrazioni che hanno formato il documento richiesto o che lo detengono stabilmente, alle quali deve essere rivolta la richiesta motivata di accesso", "why_wrong": "Sono le amministrazioni alle quali deve essere rivolta la richiesta di accesso (art. 25, comma 2), non i controinteressati." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, comma 1, lett. c), definisce controinteressati i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall'esercizio dell'accesso vedrebbero compromesso il loro diritto alla riservatezza.",
@@ -76,7 +77,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -85,9 +87,9 @@
     "question": "Secondo l'art. 22 della L. 241/1990, costituisce «documento amministrativo» ogni rappresentazione del contenuto di atti detenuti da una pubblica amministrazione e concernenti attività di pubblico interesse:",
     "options": [
       { "id": "a", "text": "anche interni o non relativi ad uno specifico procedimento, indipendentemente dalla natura pubblicistica o privatistica della loro disciplina sostanziale", "why_wrong": null },
-      { "id": "b", "text": "purché relativi ad uno specifico procedimento amministrativo", "why_wrong": "La definizione comprende espressamente anche gli atti «non relativi ad uno specifico procedimento»." },
-      { "id": "c", "text": "con esclusione degli atti interni", "why_wrong": "La definizione comprende espressamente anche gli atti «interni»." },
-      { "id": "d", "text": "purché la loro disciplina sostanziale abbia natura pubblicistica", "why_wrong": "La definizione prescinde dalla natura «pubblicistica o privatistica» della disciplina sostanziale degli atti." }
+      { "id": "b", "text": "anche interni, purché relativi ad uno specifico procedimento amministrativo e indipendentemente dalla natura pubblicistica o privatistica della loro disciplina", "why_wrong": "L'art. 22, comma 1, lett. d), comprende espressamente anche gli atti «non relativi ad uno specifico procedimento»." },
+      { "id": "c", "text": "relativi o non relativi ad uno specifico procedimento, con esclusione degli atti interni, qualunque sia la natura della loro disciplina sostanziale", "why_wrong": "L'art. 22, comma 1, lett. d), comprende espressamente anche gli atti «interni»." },
+      { "id": "d", "text": "anche interni o non relativi ad uno specifico procedimento, purché la loro disciplina sostanziale abbia natura pubblicistica e non privatistica", "why_wrong": "L'art. 22, comma 1, lett. d), prescinde dalla natura «pubblicistica o privatistica» della disciplina sostanziale degli atti." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, comma 1, lett. d), include nella nozione di documento amministrativo ogni rappresentazione del contenuto di atti, anche interni o non relativi ad uno specifico procedimento, detenuti da una pubblica amministrazione e concernenti attività di pubblico interesse, indipendentemente dalla natura pubblicistica o privatistica della loro disciplina sostanziale.",
@@ -96,7 +98,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -125,9 +128,9 @@
     "question": "Ai sensi della L. 241/1990, le informazioni in possesso di una pubblica amministrazione che non abbiano forma di documento amministrativo:",
     "options": [
       { "id": "a", "text": "non sono accessibili, salvo quanto previsto dal d.lgs. n. 196/2003 in materia di accesso a dati personali da parte della persona cui i dati si riferiscono", "why_wrong": null },
-      { "id": "b", "text": "sono accessibili se il richiedente dimostra un interesse diretto, concreto e attuale", "why_wrong": "L'art. 22, comma 4, esclude l'accesso a tali informazioni, a prescindere dall'interesse del richiedente." },
-      { "id": "c", "text": "sono accessibili previa richiesta motivata rivolta all'amministrazione che le detiene stabilmente", "why_wrong": "La richiesta motivata all'amministrazione che detiene stabilmente il documento (art. 25, comma 2) riguarda i documenti amministrativi, non le informazioni prive di tale forma." },
-      { "id": "d", "text": "sono accessibili fino a quando l'amministrazione ha l'obbligo di detenerle", "why_wrong": "Il limite temporale dell'art. 22, comma 6, riguarda i documenti amministrativi; le informazioni prive di forma documentale non sono accessibili (art. 22, comma 4)." }
+      { "id": "b", "text": "sono accessibili se il richiedente dimostra un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata ad esse", "why_wrong": "L'art. 22, comma 4, esclude l'accesso a tali informazioni, a prescindere dall'interesse del richiedente; l'interesse dell'art. 22, comma 1, lett. b), riguarda l'accesso ai documenti." },
+      { "id": "c", "text": "sono accessibili solo previa richiesta motivata, da rivolgere all'amministrazione che le ha formate o che comunque le detiene stabilmente", "why_wrong": "La richiesta motivata all'amministrazione che ha formato il documento o lo detiene stabilmente (art. 25, comma 2) riguarda i documenti amministrativi, non le informazioni prive di tale forma (art. 22, comma 4)." },
+      { "id": "d", "text": "sono accessibili fino a quando la pubblica amministrazione ha l'obbligo di detenerle, secondo la regola prevista per i documenti amministrativi", "why_wrong": "La regola dell'art. 22, comma 6, che lega l'accesso all'obbligo di detenzione, vale per i documenti amministrativi; le informazioni prive di tale forma non sono accessibili (art. 22, comma 4)." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, comma 4, esclude l'accesso alle informazioni che non abbiano forma di documento amministrativo, facendo salva la disciplina del d.lgs. n. 196/2003 sull'accesso ai dati personali da parte della persona cui i dati si riferiscono.",
@@ -137,7 +140,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -146,9 +150,9 @@
     "question": "Ai sensi dell'art. 22 della L. 241/1990, il diritto di accesso è esercitabile:",
     "options": [
       { "id": "a", "text": "fino a quando la pubblica amministrazione ha l'obbligo di detenere i documenti amministrativi ai quali si chiede di accedere", "why_wrong": null },
-      { "id": "b", "text": "fino alla conclusione del procedimento al quale i documenti si riferiscono", "why_wrong": "Il limite è l'obbligo di detenzione (art. 22, comma 6); inoltre sono documenti amministrativi anche gli atti non relativi ad uno specifico procedimento (art. 22, comma 1, lett. d)." },
-      { "id": "c", "text": "entro trenta giorni dall'adozione del provvedimento al quale i documenti si riferiscono", "why_wrong": "La legge non fissa un termine di questo tipo: l'unico limite è l'obbligo di detenzione dei documenti (art. 22, comma 6). I trenta giorni dell'art. 25, comma 4, riguardano il silenzio sulla richiesta." },
-      { "id": "d", "text": "entro il periodo di tempo fissato dalla Commissione per l'accesso", "why_wrong": "L'art. 22, comma 6, lega l'esercizio del diritto all'obbligo di detenzione; i periodi di sottrazione all'accesso sono fissati dalle singole amministrazioni (art. 24, comma 5), non dalla Commissione." }
+      { "id": "b", "text": "fino alla conclusione del procedimento amministrativo al quale si riferiscono i documenti ai quali si chiede di accedere", "why_wrong": "Il limite è l'obbligo di detenzione dei documenti (art. 22, comma 6); inoltre sono documenti amministrativi anche gli atti non relativi ad uno specifico procedimento (art. 22, comma 1, lett. d)." },
+      { "id": "c", "text": "entro trenta giorni dall'adozione del provvedimento finale al quale si riferiscono i documenti ai quali si chiede di accedere", "why_wrong": "L'unico limite è l'obbligo di detenzione dei documenti (art. 22, comma 6). I trenta giorni dell'art. 25, comma 4, riguardano il silenzio sulla richiesta di accesso." },
+      { "id": "d", "text": "entro il periodo di tempo fissato dalla Commissione per l'accesso per ciascuna categoria di documenti amministrativi", "why_wrong": "L'art. 22, comma 6, lega l'esercizio del diritto all'obbligo di detenzione; il periodo di sottrazione all'accesso di ogni categoria di documenti è fissato dalle pubbliche amministrazioni (art. 24, comma 5), non dalla Commissione." }
     ],
     "correct": "a",
     "explanation": "L'art. 22, comma 6, stabilisce che il diritto di accesso è esercitabile fino a quando la pubblica amministrazione ha l'obbligo di detenere i documenti amministrativi ai quali si chiede di accedere.",
@@ -157,7 +161,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 22, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -326,9 +331,9 @@
     "question": "Ai sensi dell'art. 24, comma 6, della L. 241/1990, il Governo può prevedere con regolamento casi di sottrazione all'accesso di documenti amministrativi, tra l'altro, quando i documenti riguardino:",
     "options": [
       { "id": "a", "text": "l'attività in corso di contrattazione collettiva nazionale di lavoro e gli atti interni connessi all'espletamento del relativo mandato", "why_wrong": null },
-      { "id": "b", "text": "i procedimenti tributari", "why_wrong": "Nei procedimenti tributari l'accesso è escluso direttamente dalla legge (art. 24, comma 1, lett. b); non è una delle ipotesi elencate nel comma 6 per il regolamento governativo." },
-      { "id": "c", "text": "l'attività diretta all'emanazione di atti di pianificazione e di programmazione", "why_wrong": "Questa esclusione è disposta direttamente dalla legge (art. 24, comma 1, lett. c); non è una delle ipotesi elencate nel comma 6." },
-      { "id": "d", "text": "le informazioni di carattere psicoattitudinale relative a terzi nei procedimenti selettivi", "why_wrong": "Questa esclusione è disposta direttamente dalla legge (art. 24, comma 1, lett. d); non è una delle ipotesi elencate nel comma 6." }
+      { "id": "b", "text": "i casi di segreto di Stato ai sensi della legge n. 801 del 1977 e i casi di divieto di divulgazione espressamente previsti dalla legge", "why_wrong": "Questa esclusione è disposta direttamente dalla legge (art. 24, comma 1, lett. a); non è una delle ipotesi elencate nel comma 6 per il regolamento governativo." },
+      { "id": "c", "text": "l'attività della pubblica amministrazione diretta all'emanazione di atti normativi, amministrativi generali, di pianificazione e di programmazione", "why_wrong": "Per l'attività diretta all'emanazione di atti normativi, amministrativi generali, di pianificazione e di programmazione l'accesso è escluso direttamente dalla legge (art. 24, comma 1, lett. c), non dal regolamento del comma 6." },
+      { "id": "d", "text": "i documenti la cui conoscenza sia necessaria ai richiedenti per curare o per difendere i propri interessi giuridici", "why_wrong": "Per questi documenti l'accesso deve comunque essere garantito ai richiedenti (art. 24, comma 7): non sono un caso di sottrazione all'accesso." }
     ],
     "correct": "a",
     "explanation": "Tra le ipotesi in cui il regolamento governativo previsto dall'art. 24, comma 6, può sottrarre documenti all'accesso rientra (lett. e) quella dei documenti riguardanti l'attività in corso di contrattazione collettiva nazionale di lavoro e gli atti interni connessi all'espletamento del relativo mandato. Le altre opzioni sono esclusioni disposte direttamente dal comma 1.",
@@ -338,7 +343,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 24, comma 6", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -427,9 +433,9 @@
     "question": "Se il difensore civico competente per l'ambito territoriale del comune che ha negato l'accesso non è stato istituito, la richiesta di riesame va rivolta:",
     "options": [
       { "id": "a", "text": "al difensore civico competente per l'ambito territoriale immediatamente superiore", "why_wrong": null },
-      { "id": "b", "text": "alla Commissione per l'accesso ai documenti amministrativi", "why_wrong": "La Commissione è competente per gli atti delle amministrazioni centrali e periferiche dello Stato, non per quelli comunali (art. 25, comma 4)." },
-      { "id": "c", "text": "all'amministrazione resistente, che decide in via definitiva", "why_wrong": "Per gli atti comunali la legge attribuisce la competenza al difensore civico dell'ambito territoriale immediatamente superiore (art. 25, comma 4)." },
-      { "id": "d", "text": "al Garante per la protezione dei dati personali", "why_wrong": "Il Garante non è competente per il riesame; si pronuncia solo con parere nei casi relativi a dati personali di terzi (art. 25, comma 4)." }
+      { "id": "b", "text": "alla Commissione per l'accesso ai documenti amministrativi e all'amministrazione resistente", "why_wrong": "Commissione e amministrazione resistente ricevono la richiesta di riesame per gli atti delle amministrazioni centrali e periferiche dello Stato, non per quelli comunali (art. 25, comma 4)." },
+      { "id": "c", "text": "all'amministrazione resistente, che si pronuncia in via definitiva entro trenta giorni", "why_wrong": "Per gli atti comunali, se il difensore civico competente non è istituito, la competenza è del difensore civico dell'ambito territoriale immediatamente superiore (art. 25, comma 4)." },
+      { "id": "d", "text": "al Garante per la protezione dei dati personali, che si pronuncia entro dieci giorni", "why_wrong": "Il Garante non è competente per il riesame; è sentito dalla Commissione, entro dieci giorni, solo nei casi relativi a dati personali di terzi (art. 25, comma 4)." }
     ],
     "correct": "a",
     "explanation": "L'art. 25, comma 4, stabilisce che, qualora il difensore civico competente non sia stato istituito, la competenza è attribuita al difensore civico competente per l'ambito territoriale immediatamente superiore.",
@@ -438,7 +444,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -508,9 +515,9 @@
     "question": "Qualora il richiedente l'accesso si sia rivolto al difensore civico o alla Commissione per l'accesso, il termine per il ricorso giurisdizionale di cui all'art. 25, comma 5, decorre:",
     "options": [
       { "id": "a", "text": "dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico o alla Commissione", "why_wrong": null },
-      { "id": "b", "text": "dalla data in cui è stato comunicato il diniego originario", "why_wrong": "Quando il richiedente si è rivolto al difensore civico o alla Commissione, il termine decorre dal ricevimento dell'esito dell'istanza (art. 25, comma 4)." },
-      { "id": "c", "text": "dalla data di presentazione dell'istanza al difensore civico o alla Commissione", "why_wrong": "Il termine non decorre dalla presentazione dell'istanza ma dal ricevimento del suo esito (art. 25, comma 4)." },
-      { "id": "d", "text": "dalla scadenza dei trenta giorni concessi all'autorità disponente per confermare il diniego", "why_wrong": "La legge collega la decorrenza al ricevimento, da parte del richiedente, dell'esito dell'istanza (art. 25, comma 4)." }
+      { "id": "b", "text": "dalla data in cui si è formato il diniego originario, espresso o tacito, opposto dall'amministrazione alla richiesta", "why_wrong": "Quando il richiedente si è rivolto al difensore civico o alla Commissione, il termine decorre dal ricevimento dell'esito dell'istanza, non dal diniego originario (art. 25, comma 4)." },
+      { "id": "c", "text": "dalla data di presentazione, da parte del richiedente, dell'istanza di riesame al difensore civico o alla Commissione", "why_wrong": "Il termine non decorre dalla presentazione dell'istanza ma dal ricevimento, da parte del richiedente, del suo esito (art. 25, comma 4)." },
+      { "id": "d", "text": "dalla scadenza dei trenta giorni concessi all'autorità disponente per emanare il provvedimento confermativo motivato del diniego", "why_wrong": "I trenta giorni per il provvedimento confermativo riguardano l'autorità disponente; il termine per il ricorso decorre dal ricevimento dell'esito dell'istanza (art. 25, comma 4)." }
     ],
     "correct": "a",
     "explanation": "L'art. 25, comma 4, stabilisce che, qualora il richiedente si sia rivolto al difensore civico o alla Commissione, il termine di cui al comma 5 decorre dalla data di ricevimento, da parte del richiedente, dell'esito della sua istanza.",
@@ -519,7 +526,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 25, comma 4", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -589,9 +597,9 @@
     "question": "Quale tra i seguenti compiti è attribuito dalla L. 241/1990 alla Commissione per l'accesso ai documenti amministrativi?",
     "options": [
       { "id": "a", "text": "Redigere una relazione annuale sulla trasparenza dell'attività della pubblica amministrazione, da comunicare alle Camere e al Presidente del Consiglio dei Ministri", "why_wrong": null },
-      { "id": "b", "text": "Individuare le categorie di documenti sottratti all'accesso da ciascuna amministrazione", "why_wrong": "Questo compito spetta alle singole pubbliche amministrazioni (art. 24, comma 2)." },
-      { "id": "c", "text": "Adottare il regolamento che prevede casi di sottrazione all'accesso", "why_wrong": "Il regolamento è adottato dal Governo (art. 24, comma 6); la Commissione può solo proporre al Governo modifiche dei testi legislativi e regolamentari (art. 27, comma 5)." },
-      { "id": "d", "text": "Decidere in sede giurisdizionale le controversie relative all'accesso", "why_wrong": "Le controversie relative all'accesso sono disciplinate dal codice del processo amministrativo (art. 25, comma 5); la Commissione adotta le determinazioni di riesame previste dall'art. 25, comma 4." }
+      { "id": "b", "text": "Individuare le categorie di documenti formati da ciascuna pubblica amministrazione o comunque rientranti nella sua disponibilità che devono essere sottratti all'accesso", "why_wrong": "Questo compito spetta alle singole pubbliche amministrazioni (art. 24, comma 2), non alla Commissione." },
+      { "id": "c", "text": "Adottare il regolamento con il quale sono previsti casi di sottrazione all'accesso di documenti amministrativi, ad esempio per la tutela dell'ordine pubblico", "why_wrong": "Il regolamento che prevede casi di sottrazione all'accesso, anche per la tutela dell'ordine pubblico, è adottato dal Governo (art. 24, comma 6, lett. c); la Commissione può solo proporre al Governo modifiche dei testi regolamentari (art. 27, comma 5)." },
+      { "id": "d", "text": "Decidere in sede giurisdizionale, in via esclusiva, le controversie relative all'accesso ai documenti amministrativi e al diniego opposto dall'amministrazione", "why_wrong": "Le controversie relative all'accesso sono disciplinate dal codice del processo amministrativo (art. 25, comma 5); sul diniego la Commissione si pronuncia solo in sede di riesame (art. 25, comma 4)." }
     ],
     "correct": "a",
     "explanation": "L'art. 27, comma 5, attribuisce alla Commissione, tra l'altro, il compito di redigere una relazione annuale sulla trasparenza dell'attività della pubblica amministrazione, che comunica alle Camere e al Presidente del Consiglio dei Ministri.",
@@ -600,7 +608,8 @@
     ],
     "source": { "act": "L. 241/1990", "article": "art. 27, comma 5", "file": "sources/L241-1990_2026-09-24.txt", "url": null },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

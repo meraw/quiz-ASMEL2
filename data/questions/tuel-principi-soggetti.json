@@ -44,10 +44,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai fini del TUEL, si intendono per enti locali:",
     "options": [
-      { "id": "a", "text": "I comuni, le province, le città metropolitane e le regioni", "why_wrong": "Le regioni non sono enti locali ai sensi dell'art. 2, comma 1; il TUEL disciplina i rapporti con esse, ad esempio all'art. 4." },
+      { "id": "a", "text": "I comuni, le province, le città metropolitane, le regioni, le comunità montane, le comunità isolane e le circoscrizioni", "why_wrong": "Le regioni e le circoscrizioni di decentramento (art. 17) non sono elencate tra gli enti locali dall'art. 2, comma 1, che comprende invece le unioni di comuni." },
       { "id": "b", "text": "I comuni, le province, le città metropolitane, le comunità montane, le comunità isolane e le unioni di comuni", "why_wrong": null },
-      { "id": "c", "text": "I comuni, le province e i consorzi cui partecipano enti locali", "why_wrong": "Ai consorzi si applicano, salvo diverse disposizioni, le norme sugli enti locali (art. 2, comma 2), ma non sono elencati tra gli enti locali dal comma 1." },
-      { "id": "d", "text": "Soltanto i comuni e le province", "why_wrong": "L'art. 2, comma 1, include anche città metropolitane, comunità montane, comunità isolane e unioni di comuni." }
+      { "id": "c", "text": "I comuni, le province, le città metropolitane, le unioni di comuni e i consorzi cui partecipano enti locali", "why_wrong": "Ai consorzi si applicano, salvo diverse disposizioni, le norme sugli enti locali (art. 2, comma 2), ma non sono elencati tra gli enti locali dal comma 1, che comprende anche comunità montane e isolane." },
+      { "id": "d", "text": "Soltanto i comuni, le province e le città metropolitane, con esclusione delle comunità montane e delle unioni di comuni", "why_wrong": "L'art. 2, comma 1, include tra gli enti locali anche le comunità montane, le comunità isolane e le unioni di comuni." }
     ],
     "correct": "b",
     "explanation": "L'art. 2, comma 1, elenca come enti locali comuni, province, città metropolitane, comunità montane, comunità isolane e unioni di comuni.",
@@ -56,7 +56,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 2, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -84,10 +85,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il consiglio comunale di un Comune vota una modifica dello statuto, che ottiene la maggioranza assoluta ma non i due terzi dei consiglieri assegnati. Cosa prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "La modifica è respinta e non può essere riproposta prima di un anno", "why_wrong": "L'art. 6, comma 4, non prevede alcun divieto di riproposizione: prevede la ripetizione della votazione in successive sedute." },
-      { "id": "b", "text": "La votazione è ripetuta in successive sedute da tenersi entro trenta giorni e la modifica è approvata se ottiene per due volte la maggioranza assoluta dei consiglieri assegnati", "why_wrong": null },
-      { "id": "c", "text": "La modifica è approvata, perché per le modifiche statutarie basta la maggioranza assoluta", "why_wrong": "L'art. 6, comma 4, applica anche alle modifiche statutarie la stessa procedura prevista per lo statuto." },
-      { "id": "d", "text": "La modifica è sottoposta a referendum popolare confermativo", "why_wrong": "L'art. 6, comma 4, prevede la ripetizione della votazione in consiglio, non un referendum." }
+      { "id": "a", "text": "La modifica è respinta e può essere riproposta solo dopo un anno, con una nuova votazione che richiede comunque la maggioranza dei due terzi dei consiglieri assegnati", "why_wrong": "L'art. 6, comma 4, non prevede alcun divieto temporaneo di riproposizione: la votazione è ripetuta in successive sedute da tenersi entro trenta giorni." },
+      { "id": "b", "text": "La votazione è ripetuta in successive sedute entro trenta giorni e la modifica è approvata se ottiene per due volte la maggioranza assoluta dei consiglieri assegnati", "why_wrong": null },
+      { "id": "c", "text": "La modifica è approvata, perché per le modifiche statutarie è sufficiente la maggioranza assoluta dei consiglieri assegnati, raggiunta anche in una sola votazione", "why_wrong": "L'art. 6, comma 4, applica anche alle modifiche statutarie la procedura dello statuto: servono i due terzi o, in mancanza, per due volte la maggioranza assoluta." },
+      { "id": "d", "text": "La modifica è sottoposta a referendum popolare confermativo, da tenersi entro trenta giorni dalla votazione, ed è approvata se ottiene la maggioranza dei votanti", "why_wrong": "L'art. 6, comma 4, prevede la ripetizione della votazione in consiglio in successive sedute, non un referendum." }
     ],
     "correct": "b",
     "explanation": "Se la maggioranza dei due terzi non è raggiunta, la votazione si ripete in successive sedute entro trenta giorni e l'atto è approvato se ottiene per due volte la maggioranza assoluta dei consiglieri assegnati. La regola si applica anche alle modifiche statutarie.",
@@ -96,7 +97,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 6, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -145,10 +147,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un Comune intende indire un referendum consultivo su una materia di esclusiva competenza locale, facendolo svolgere nello stesso giorno delle elezioni comunali per ridurre i costi. È possibile?",
     "options": [
-      { "id": "a", "text": "Sì, se lo prevede lo statuto comunale", "why_wrong": "Il divieto di coincidenza con operazioni elettorali è posto direttamente dall'art. 8, comma 4, e lo statuto non può superarlo." },
-      { "id": "b", "text": "Sì, purché il referendum sia richiesto da un adeguato numero di cittadini", "why_wrong": "La richiesta dei cittadini riguarda l'iniziativa (art. 8, comma 3), non consente di superare il divieto di coincidenza con le elezioni." },
-      { "id": "c", "text": "Sì, previo parere favorevole del prefetto", "why_wrong": "L'art. 8, comma 4, non prevede alcun parere del prefetto: vieta la coincidenza con operazioni elettorali." },
-      { "id": "d", "text": "No, perché consultazioni e referendum non possono avere luogo in coincidenza con operazioni elettorali provinciali, comunali e circoscrizionali", "why_wrong": null }
+      { "id": "a", "text": "Sì, purché lo statuto comunale preveda espressamente tale possibilità e la materia sia di esclusiva competenza locale", "why_wrong": "Il divieto di coincidenza con operazioni elettorali è posto direttamente dall'art. 8, comma 4, e lo statuto non può superarlo; l'esclusiva competenza locale è un requisito ulteriore, non una deroga." },
+      { "id": "b", "text": "Sì, purché il referendum sia stato richiesto da un adeguato numero di cittadini, secondo le modalità stabilite dallo statuto comunale", "why_wrong": "La richiesta di un adeguato numero di cittadini riguarda l'iniziativa referendaria (art. 8, comma 3) e non consente di superare il divieto di coincidenza con le elezioni (art. 8, comma 4)." },
+      { "id": "c", "text": "Sì, previo parere favorevole del prefetto, trattandosi di una consultazione abbinata a operazioni elettorali comunali", "why_wrong": "L'art. 8, comma 4, non prevede alcun parere del prefetto: vieta che consultazioni e referendum coincidano con operazioni elettorali comunali." },
+      { "id": "d", "text": "No, perché consultazioni e referendum non possono coincidere con operazioni elettorali provinciali, comunali e circoscrizionali", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "Le consultazioni e i referendum previsti dall'art. 8 devono riguardare materie di esclusiva competenza locale e non possono svolgersi in coincidenza con operazioni elettorali provinciali, comunali e circoscrizionali.",
@@ -157,7 +159,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 8, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -165,10 +168,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un elettore promuove in giudizio un'azione che spetterebbe al Comune; il Comune, costituendosi, aderisce all'azione. Se l'azione viene respinta, a carico di chi sono le spese?",
     "options": [
-      { "id": "a", "text": "Sempre a carico dell'elettore che ha promosso l'azione", "why_wrong": "L'art. 9, comma 2, fa salvo il caso in cui l'ente, costituendosi, abbia aderito all'azione." },
+      { "id": "a", "text": "Sempre a carico dell'elettore che ha promosso l'azione, anche se l'ente vi ha aderito", "why_wrong": "L'art. 9, comma 2, pone le spese a carico di chi ha promosso l'azione, salvo che l'ente, costituendosi, vi abbia aderito." },
       { "id": "b", "text": "Non a carico dell'elettore, perché l'ente costituendosi ha aderito all'azione", "why_wrong": null },
-      { "id": "c", "text": "Ripartite in parti uguali tra l'elettore e il Comune", "why_wrong": "L'art. 9, comma 2, non prevede alcuna ripartizione: le spese sono a carico di chi ha promosso l'azione salvo che l'ente vi abbia aderito." },
-      { "id": "d", "text": "A carico dello Stato, trattandosi di azione popolare", "why_wrong": "L'art. 9, comma 2, non pone le spese a carico dello Stato." }
+      { "id": "c", "text": "Ripartite in parti uguali tra l'elettore e il Comune che ha aderito all'azione", "why_wrong": "L'art. 9, comma 2, non prevede alcuna ripartizione: le spese sono a carico di chi ha promosso l'azione, salvo che l'ente vi abbia aderito." },
+      { "id": "d", "text": "A carico dello Stato, trattandosi di azione popolare promossa da un elettore", "why_wrong": "L'art. 9, comma 2, non pone le spese a carico dello Stato: sono a carico di chi ha promosso l'azione, salvo adesione dell'ente." }
     ],
     "correct": "b",
     "explanation": "Ciascun elettore può far valere in giudizio le azioni e i ricorsi che spettano al comune; in caso di soccombenza le spese sono a carico di chi ha promosso l'azione, salvo che l'ente, costituendosi, vi abbia aderito.",
@@ -178,7 +181,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 9, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -186,10 +190,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Secondo l'art. 10 del TUEL, gli atti dell'amministrazione comunale:",
     "options": [
-      { "id": "a", "text": "Sono pubblici solo se lo statuto lo prevede espressamente", "why_wrong": "L'art. 10, comma 1, stabilisce come regola generale che tutti gli atti sono pubblici." },
-      { "id": "b", "text": "Sono pubblici, salvo quelli per i quali il segretario comunale disponga la riservatezza", "why_wrong": "La dichiarazione temporanea e motivata che vieta l'esibizione spetta al sindaco o al presidente della provincia, non al segretario." },
-      { "id": "c", "text": "Sono tutti pubblici, ad eccezione di quelli riservati per espressa indicazione di legge o per effetto di una temporanea e motivata dichiarazione del sindaco che ne vieti l'esibizione", "why_wrong": null },
-      { "id": "d", "text": "Sono accessibili solo ai cittadini residenti nel Comune", "why_wrong": "L'art. 10, comma 1, afferma la pubblicità di tutti gli atti senza limitarla ai residenti." }
+      { "id": "a", "text": "Sono pubblici solo se lo statuto comunale lo prevede espressamente; in mancanza, la loro esibizione è rimessa alla decisione motivata della giunta comunale", "why_wrong": "L'art. 10, comma 1, stabilisce direttamente che tutti gli atti sono pubblici, senza subordinarlo a una previsione statutaria." },
+      { "id": "b", "text": "Sono tutti pubblici, salvo quelli per i quali il segretario comunale disponga la riservatezza con provvedimento motivato, conforme a quanto previsto dal regolamento", "why_wrong": "La dichiarazione temporanea e motivata che vieta l'esibizione spetta al sindaco o al presidente della provincia (art. 10, comma 1), non al segretario comunale." },
+      { "id": "c", "text": "Sono tutti pubblici, salvo quelli riservati per espressa indicazione di legge o per temporanea e motivata dichiarazione del sindaco che ne vieti l'esibizione", "why_wrong": null },
+      { "id": "d", "text": "Sono tutti pubblici, ma accessibili ai soli cittadini residenti nel Comune, previo pagamento dei costi di riproduzione e degli eventuali diritti di ricerca", "why_wrong": "L'art. 10 afferma la pubblicità di tutti gli atti senza limitarla ai residenti; il regolamento disciplina il rilascio di copie previo pagamento dei soli costi (art. 10, comma 2)." }
     ],
     "correct": "c",
     "explanation": "Tutti gli atti sono pubblici; fanno eccezione quelli riservati per legge o per una dichiarazione temporanea e motivata del sindaco o del presidente della provincia, conforme al regolamento, quando la diffusione possa pregiudicare la riservatezza di persone, gruppi o imprese.",
@@ -198,7 +202,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 10, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -227,10 +232,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Una frazione di 8.000 abitanti chiede di staccarsi dal proprio Comune per costituire un nuovo comune autonomo. Cosa prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "Il nuovo comune può essere istituito con legge regionale, sentite le popolazioni interessate", "why_wrong": "La regione può modificare le circoscrizioni, ma l'art. 15, comma 1, vieta di istituire nuovi comuni sotto i 10.000 abitanti, salvo i casi di fusione." },
-      { "id": "b", "text": "Il nuovo comune può essere istituito solo se il comune d'origine resta sopra i 5.000 abitanti", "why_wrong": "La soglia prevista dall'art. 15, comma 1, è di 10.000 abitanti e riguarda sia il nuovo comune sia gli altri comuni." },
-      { "id": "c", "text": "Il nuovo comune non può essere istituito, perché, salvo i casi di fusione, non possono essere istituiti nuovi comuni con popolazione inferiore ai 10.000 abitanti", "why_wrong": null },
-      { "id": "d", "text": "La frazione può ottenere il titolo di città con decreto del Presidente della Repubblica", "why_wrong": "Il titolo di città (art. 18) è concesso a comuni già esistenti e non crea un nuovo ente." }
+      { "id": "a", "text": "Può essere istituito con legge regionale, sentite le popolazioni interessate nelle forme previste dalla legge regionale, anche senza procedere a una fusione", "why_wrong": "La regione può modificare le circoscrizioni sentite le popolazioni, ma l'art. 15, comma 1, vieta di istituire nuovi comuni sotto i 10.000 abitanti, salvo i casi di fusione." },
+      { "id": "b", "text": "Può essere istituito solo se il comune d'origine, dopo il distacco della frazione, conserva comunque una popolazione di almeno 5.000 abitanti", "why_wrong": "L'art. 15, comma 1, vieta di istituire nuovi comuni con meno di 10.000 abitanti, come la frazione di 8.000, e di far scendere altri comuni sotto tale limite; non prevede una soglia di 5.000 abitanti." },
+      { "id": "c", "text": "Non può essere istituito, perché, salvo i casi di fusione, non possono essere istituiti nuovi comuni con popolazione inferiore ai 10.000 abitanti", "why_wrong": null },
+      { "id": "d", "text": "Può essere istituito con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno, sentite la regione e le popolazioni interessate", "why_wrong": "Il decreto del Presidente della Repubblica su proposta del Ministro dell'interno riguarda il titolo di città (art. 18); l'art. 15, comma 1, vieta nuovi comuni sotto i 10.000 abitanti, salvo fusione." }
     ],
     "correct": "c",
     "explanation": "Le regioni possono modificare le circoscrizioni comunali sentite le popolazioni, ma, salvo i casi di fusione, non possono istituire comuni con meno di 10.000 abitanti o la cui costituzione faccia scendere altri comuni sotto tale limite.",
@@ -239,7 +244,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -247,10 +253,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Tre Comuni hanno avviato il procedimento di fusione previsto dalla legge regionale. Possono definire lo statuto del nuovo comune prima della sua istituzione?",
     "options": [
-      { "id": "a", "text": "No, lo statuto può essere approvato solo dal consiglio del nuovo comune dopo la sua istituzione", "why_wrong": "L'art. 15, comma 2, consente di definire lo statuto anche prima dell'istituzione del nuovo ente." },
+      { "id": "a", "text": "No, lo statuto può essere approvato soltanto dal consiglio del nuovo comune, dopo la sua istituzione e dopo l'elezione dei nuovi organi comunali", "why_wrong": "L'art. 15, comma 2, consente di definire lo statuto anche prima dell'istituzione del nuovo ente, con testo conforme approvato da tutti i consigli comunali." },
       { "id": "b", "text": "Sì, mediante approvazione di testo conforme da parte di tutti i consigli comunali; lo statuto entrerà in vigore con l'istituzione del nuovo comune", "why_wrong": null },
-      { "id": "c", "text": "Sì, ma lo statuto deve essere approvato dal consiglio regionale", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte dei consigli comunali, non del consiglio regionale." },
-      { "id": "d", "text": "Sì, con l'approvazione della maggioranza dei consigli comunali interessati", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte di tutti i consigli comunali." }
+      { "id": "c", "text": "Sì, ma il testo concordato dai consigli comunali deve essere poi approvato dal consiglio regionale con la legge istitutiva del nuovo comune", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte di tutti i consigli comunali e non prevede un'approvazione del consiglio regionale." },
+      { "id": "d", "text": "Sì, mediante approvazione di testo conforme da parte della maggioranza dei consigli comunali; lo statuto entrerà in vigore con l'istituzione del nuovo comune", "why_wrong": "L'art. 15, comma 2, richiede l'approvazione di testo conforme da parte di tutti i consigli comunali, non della sola maggioranza." }
     ],
     "correct": "b",
     "explanation": "I comuni che hanno avviato la fusione possono, anche prima dell'istituzione del nuovo ente, approvare con testo conforme di tutti i consigli lo statuto, che entra in vigore con l'istituzione del nuovo comune e resta vigente fino alle modifiche dei suoi organi.",
@@ -259,7 +265,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 15, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -348,9 +355,9 @@
     "question": "L'atto costitutivo e lo statuto di un'unione di comuni sono approvati:",
     "options": [
       { "id": "a", "text": "Dai consigli dei comuni partecipanti con le procedure e con la maggioranza richieste per le modifiche statutarie", "why_wrong": null },
-      { "id": "b", "text": "Dai consigli dei comuni partecipanti a maggioranza semplice", "why_wrong": "L'art. 32, comma 6, richiede le procedure e la maggioranza previste per le modifiche statutarie." },
-      { "id": "c", "text": "Dai sindaci dei comuni partecipanti riuniti in assemblea", "why_wrong": "L'art. 32, comma 6, affida l'approvazione ai consigli dei comuni partecipanti." },
-      { "id": "d", "text": "Dalla regione, su proposta dei comuni interessati", "why_wrong": "L'art. 32, comma 6, affida l'approvazione ai consigli dei comuni partecipanti; la regione non interviene." }
+      { "id": "b", "text": "Dai consigli dei comuni partecipanti a maggioranza semplice, con successiva ratifica da parte del consiglio dell'unione", "why_wrong": "L'art. 32, comma 6, richiede le procedure e la maggioranza previste per le modifiche statutarie; al consiglio dell'unione spettano le successive modifiche dello statuto (art. 32, comma 4)." },
+      { "id": "c", "text": "Dall'assemblea dei sindaci dei comuni partecipanti, con il voto favorevole dei due terzi dei sindaci componenti", "why_wrong": "L'art. 32, comma 6, affida l'approvazione ai consigli dei comuni partecipanti, non ai sindaci." },
+      { "id": "d", "text": "Dalla regione con propria deliberazione, su proposta dei consigli dei comuni che intendono costituire l'unione", "why_wrong": "L'art. 32, comma 6, affida l'approvazione direttamente ai consigli dei comuni partecipanti, non a una deliberazione della regione su loro proposta." }
     ],
     "correct": "a",
     "explanation": "L'unione è l'ente locale costituito da due o più comuni per l'esercizio associato di funzioni e servizi; atto costitutivo e statuto sono approvati dai consigli dei comuni partecipanti con procedure e maggioranza delle modifiche statutarie.",
@@ -359,7 +366,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 32, comma 6", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -367,10 +375,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "L'accordo di programma disciplinato dall'art. 34 del TUEL:",
     "options": [
-      { "id": "a", "text": "Può essere concluso a maggioranza delle amministrazioni partecipanti alla conferenza", "why_wrong": "L'art. 34, comma 4, richiede il consenso unanime delle amministrazioni interessate." },
-      { "id": "b", "text": "Consiste nel consenso unanime delle amministrazioni interessate e deve essere sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza", "why_wrong": null },
-      { "id": "c", "text": "Deve essere sottoscritto entro trenta giorni dalla convocazione della conferenza", "why_wrong": "Trenta giorni è il termine per la ratifica consiliare dell'adesione del sindaco (art. 34, comma 5); la sottoscrizione va fatta entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza." },
-      { "id": "d", "text": "È approvato con deliberazione della giunta regionale e pubblicato nella Gazzetta Ufficiale", "why_wrong": "L'art. 34, comma 4, prevede l'approvazione con atto formale del presidente della regione, della provincia o del sindaco e la pubblicazione nel Bollettino ufficiale della regione." }
+      { "id": "a", "text": "Può essere concluso a maggioranza delle amministrazioni partecipanti alla conferenza e va sottoscritto entro sessanta giorni dalla convocazione della conferenza stessa", "why_wrong": "L'art. 34, comma 4, richiede il consenso unanime delle amministrazioni interessate e fa decorrere i sessanta giorni dalla comunicazione dell'esito positivo della conferenza." },
+      { "id": "b", "text": "Consiste nel consenso unanime delle amministrazioni interessate e va sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza", "why_wrong": null },
+      { "id": "c", "text": "Consiste nel consenso unanime delle amministrazioni interessate e va sottoscritto entro trenta giorni dalla data di convocazione della conferenza tra le amministrazioni", "why_wrong": "Trenta giorni è il termine per la ratifica consiliare dell'adesione del sindaco (art. 34, comma 5); la sottoscrizione va fatta entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza (art. 34, comma 4)." },
+      { "id": "d", "text": "È approvato con deliberazione della giunta regionale, previo consenso unanime delle amministrazioni, ed è poi pubblicato nella Gazzetta Ufficiale della Repubblica", "why_wrong": "L'art. 34, comma 4, prevede l'approvazione con atto formale del presidente della regione, della provincia o del sindaco, non con deliberazione della giunta regionale, e la pubblicazione nel Bollettino ufficiale della regione, non nella Gazzetta Ufficiale." }
     ],
     "correct": "b",
     "explanation": "L'accordo consiste nel consenso unanime delle amministrazioni interessate, va sottoscritto entro sessanta giorni dalla comunicazione dell'esito positivo della conferenza, è approvato con atto formale del presidente della regione o della provincia o del sindaco ed è pubblicato nel Bollettino ufficiale della regione.",
@@ -379,7 +387,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 34, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

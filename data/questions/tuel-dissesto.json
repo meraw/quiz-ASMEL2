@@ -51,23 +51,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Quando l'ente presenta un disavanzo di amministrazione nell'ultimo rendiconto",
-        "why_wrong": "Il disavanzo può essere applicato al bilancio o ripianato con un piano di rientro (art. 188, comma 1); il dissesto ricorre nelle ipotesi dell'art. 244, comma 1."
+        "text": "Quando l'ente presenta un disavanzo di amministrazione nell'ultimo rendiconto approvato, da applicare all'esercizio in corso di gestione o da ripianare con un piano di rientro approvato dal consiglio",
+        "why_wrong": "Il disavanzo di amministrazione è applicato all'esercizio in corso o ripianato con un piano di rientro (art. 188, comma 1); il dissesto ricorre nelle diverse ipotesi dell'art. 244, comma 1."
       },
       {
         "id": "b",
-        "text": "Quando l'ente non approva il rendiconto entro il 30 aprile",
-        "why_wrong": "La mancata approvazione del rendiconto comporta la procedura dell'art. 141, comma 2 (art. 227, comma 2-bis), non il dissesto."
+        "text": "Quando l'organo consiliare non approva il rendiconto della gestione entro il 30 aprile dell'anno successivo, con conseguente applicazione della procedura prevista dal comma 2 dell'articolo 141",
+        "why_wrong": "La mancata approvazione del rendiconto entro il 30 aprile comporta la procedura dell'art. 141, comma 2 (art. 227, comma 2-bis), non il dissesto (art. 244, comma 1)."
       },
       {
         "id": "c",
-        "text": "Quando l'ente non può garantire l'assolvimento delle funzioni e dei servizi indispensabili ovvero esistono crediti liquidi ed esigibili di terzi cui non si possa fare validamente fronte con le modalità degli articoli 193 e 194",
+        "text": "Quando l'ente non può garantire l'assolvimento delle funzioni e dei servizi indispensabili ovvero esistono crediti liquidi ed esigibili di terzi non validamente fronteggiabili con le modalità degli artt. 193 e 194",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "Quando almeno la metà dei parametri obiettivi presenta valori deficitari",
-        "why_wrong": "Questo è il criterio della deficitarietà strutturale (art. 242, comma 1), non del dissesto."
+        "text": "Quando almeno la metà dei parametri obiettivi della tabella allegata al rendiconto della gestione presenta valori deficitari, evidenziando gravi ed incontrovertibili condizioni di squilibrio della gestione finanziaria",
+        "why_wrong": "Questo è il criterio che individua gli enti in condizioni strutturalmente deficitarie (art. 242, comma 1), non il dissesto finanziario (art. 244, comma 1)."
       }
     ],
     "correct": "c",
@@ -85,7 +85,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -95,8 +96,8 @@
     "options": [
       {
         "id": "a",
-        "text": "È adottata dalla Giunta e può essere revocata se la situazione finanziaria migliora",
-        "why_wrong": "La deliberazione è adottata dal consiglio e non è revocabile (art. 246, comma 1)."
+        "text": "È adottata dalla Giunta, può essere revocata se la situazione finanziaria migliora e ad essa è allegata la relazione dell'organo di revisione",
+        "why_wrong": "La deliberazione è adottata dal consiglio, non dalla Giunta, e non è revocabile (art. 246, comma 1)."
       },
       {
         "id": "b",
@@ -105,13 +106,13 @@
       },
       {
         "id": "c",
-        "text": "È adottata dal Ministro dell'interno su proposta del prefetto",
-        "why_wrong": "La dichiarazione di dissesto è deliberata dal consiglio dell'ente; il Ministero dell'interno ne riceve la trasmissione (art. 246, commi 1 e 2)."
+        "text": "È adottata dal Ministro dell'interno su proposta del prefetto, dopo aver acquisito una dettagliata relazione dell'organo di revisione dell'ente",
+        "why_wrong": "La dichiarazione di dissesto è deliberata dal consiglio dell'ente (art. 246, comma 1); il Ministero dell'interno ne riceve la trasmissione entro 5 giorni dall'esecutività (art. 246, comma 2)."
       },
       {
         "id": "d",
-        "text": "È adottata dal consiglio e produce effetti solo dopo l'approvazione della Corte dei conti",
-        "why_wrong": "La norma prevede la trasmissione alla Procura regionale della Corte dei conti entro 5 giorni dall'esecutività, non un'approvazione (art. 246, comma 2)."
+        "text": "È adottata dal consiglio, non è revocabile e produce effetti solo dopo l'approvazione da parte della Procura regionale presso la Corte dei conti",
+        "why_wrong": "La norma prevede la sola trasmissione alla Procura regionale presso la Corte dei conti entro 5 giorni dall'esecutività, non un'approvazione (art. 246, comma 2)."
       }
     ],
     "correct": "b",
@@ -129,7 +130,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -144,18 +146,18 @@
       },
       {
         "id": "b",
-        "text": "Il dissesto si intende dichiarato per silenzio-assenso",
-        "why_wrong": "La norma non prevede una dichiarazione tacita, ma la nomina di un commissario ad acta (art. 247, comma 3)."
+        "text": "Il dissesto si intende dichiarato per silenzio-assenso, con effetto dalla scadenza del termine assegnato al consiglio",
+        "why_wrong": "La norma non prevede una dichiarazione tacita: decorso infruttuosamente il termine, l'organo regionale di controllo nomina un commissario ad acta (art. 247, comma 3)."
       },
       {
         "id": "c",
-        "text": "L'organo regionale di controllo assegna un nuovo termine di trenta giorni",
-        "why_wrong": "Trenta giorni è il termine non prorogabile per chiarimenti e relazione dell'organo di revisione, nella fase precedente (art. 247, comma 1)."
+        "text": "L'organo regionale di controllo assegna al consiglio un nuovo termine, non prorogabile, di trenta giorni per deliberare",
+        "why_wrong": "Il termine non prorogabile di trenta giorni riguarda i chiarimenti chiesti all'ente e la relazione dell'organo di revisione, nella fase precedente (art. 247, comma 1); scaduto il termine per deliberare, è nominato un commissario ad acta (art. 247, comma 3)."
       },
       {
         "id": "d",
-        "text": "Il Ministro dell'interno nomina direttamente l'organo straordinario di liquidazione",
-        "why_wrong": "L'organo straordinario di liquidazione è nominato dopo la dichiarazione di dissesto (art. 252, comma 2); in caso di inerzia del consiglio è nominato un commissario ad acta (art. 247, comma 3)."
+        "text": "Il Ministro dell'interno nomina direttamente l'organo straordinario di liquidazione, senza deliberazione di dissesto",
+        "why_wrong": "L'organo straordinario di liquidazione è nominato con decreto del Presidente della Repubblica dopo la dichiarazione di dissesto (art. 252, comma 2); in caso di inerzia del consiglio è nominato un commissario ad acta (art. 247, comma 3)."
       }
     ],
     "correct": "a",
@@ -177,7 +179,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -187,22 +190,22 @@
     "options": [
       {
         "id": "a",
-        "text": "L'impresa può comunque avviare un'azione esecutiva, ma solo presso il tesoriere",
-        "why_wrong": "Dalla dichiarazione di dissesto e sino all'approvazione del rendiconto della liquidazione non possono essere intraprese o proseguite azioni esecutive per questi debiti (art. 248, comma 2)."
+        "text": "L'impresa può avviare azioni esecutive soltanto presso il tesoriere dell'ente, mentre il debito cessa di produrre interessi e rivalutazione",
+        "why_wrong": "Per questi debiti non possono essere intraprese o proseguite azioni esecutive, nemmeno presso il tesoriere (art. 248, comma 2); i pignoramenti eseguiti dopo la deliberazione non vincolano l'ente e il tesoriere (art. 248, comma 3)."
       },
       {
         "id": "b",
-        "text": "Il credito continua a produrre interessi al tasso contrattuale",
-        "why_wrong": "Dalla deliberazione di dissesto i debiti insoluti non producono più interessi né sono soggetti a rivalutazione monetaria (art. 248, comma 4)."
+        "text": "Le azioni esecutive restano sospese fino all'approvazione del piano di riequilibrio, mentre il debito continua a produrre interessi al tasso contrattuale",
+        "why_wrong": "La sospensione fino all'approvazione del piano riguarda la procedura di riequilibrio finanziario pluriennale (art. 243-bis, comma 4); dopo il dissesto i debiti non producono più interessi né rivalutazione (art. 248, comma 4)."
       },
       {
         "id": "c",
-        "text": "Il credito si estingue automaticamente",
-        "why_wrong": "Il credito non si estingue: rientra nella massa passiva gestita dall'organo straordinario di liquidazione (art. 252, comma 4)."
+        "text": "Il credito si estingue automaticamente, salvo che l'impresa presenti domanda di inserimento nel piano di rilevazione entro sessanta giorni",
+        "why_wrong": "Il credito non si estingue: la domanda serve per l'inserimento nel piano di rilevazione della massa passiva (art. 254, comma 2), che l'organo straordinario di liquidazione rileva, liquida e paga (art. 252, comma 4)."
       },
       {
         "id": "d",
-        "text": "Non possono essere intraprese o proseguite azioni esecutive nei confronti dell'ente per quel debito e il debito non produce più interessi né è soggetto a rivalutazione monetaria",
+        "text": "Non possono essere intraprese o proseguite azioni esecutive per quel debito, che non produce più interessi né è soggetto a rivalutazione monetaria",
         "why_wrong": null
       }
     ],
@@ -225,7 +228,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -235,8 +239,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Un singolo commissario, nominato dal prefetto",
-        "why_wrong": "Il singolo commissario è previsto per i comuni sino a 5.000 abitanti e la nomina avviene con decreto del Presidente della Repubblica (art. 252, commi 1 e 2)."
+        "text": "Un singolo commissario, nominato con decreto del prefetto su proposta del Ministro dell'interno fra i segretari comunali esperti",
+        "why_wrong": "Il singolo commissario è previsto per i comuni sino a 5.000 abitanti (art. 252, comma 1) e la nomina avviene con decreto del Presidente della Repubblica (art. 252, comma 2)."
       },
       {
         "id": "b",
@@ -245,13 +249,13 @@
       },
       {
         "id": "c",
-        "text": "Una commissione di tre membri, eletta dal consiglio comunale",
-        "why_wrong": "La commissione non è eletta dal consiglio, ma nominata con decreto del Presidente della Repubblica su proposta del Ministro dell'interno (art. 252, comma 2)."
+        "text": "Una commissione di tre membri, eletta dal consiglio comunale fra gli iscritti nel registro dei revisori contabili",
+        "why_wrong": "I componenti possono essere scelti anche fra gli iscritti nel registro dei revisori contabili (art. 252, comma 1), ma la commissione è nominata con decreto del Presidente della Repubblica su proposta del Ministro dell'interno, non eletta dal consiglio (art. 252, comma 2)."
       },
       {
         "id": "d",
-        "text": "Un singolo commissario, nominato con decreto del Presidente della Repubblica",
-        "why_wrong": "Per i comuni con popolazione superiore a 5.000 abitanti l'organo è una commissione di tre membri (art. 252, comma 1)."
+        "text": "Un singolo commissario, nominato con decreto del Presidente della Repubblica su proposta del Ministro dell'interno",
+        "why_wrong": "La nomina con decreto del Presidente della Repubblica è corretta (art. 252, comma 2), ma per i comuni con più di 5.000 abitanti l'organo è una commissione di tre membri, non un singolo commissario (art. 252, comma 1)."
       }
     ],
     "correct": "b",
@@ -273,7 +277,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -283,13 +288,13 @@
     "options": [
       {
         "id": "a",
-        "text": "Provvedere al ripiano dell'indebitamento pregresso",
-        "why_wrong": "Il ripiano dell'indebitamento pregresso spetta all'organo straordinario di liquidazione (art. 245, comma 2)."
+        "text": "Provvedere al ripiano dell'indebitamento pregresso con i mezzi consentiti dalla legge, anche mediante alienazione dei beni patrimoniali disponibili",
+        "why_wrong": "Il ripiano dell'indebitamento pregresso spetta all'organo straordinario di liquidazione (art. 245, comma 2), che acquisisce i mezzi anche mediante alienazione dei beni patrimoniali (art. 252, comma 4)."
       },
       {
         "id": "b",
-        "text": "Rilevare la massa passiva e liquidarla",
-        "why_wrong": "La rilevazione, liquidazione e pagamento della massa passiva spettano all'organo straordinario di liquidazione (art. 252, comma 4)."
+        "text": "Rilevare la massa passiva, formando entro 180 giorni il piano di rilevazione, e provvedere alla sua liquidazione e al suo pagamento",
+        "why_wrong": "La rilevazione, liquidazione e pagamento della massa passiva spettano all'organo straordinario di liquidazione (art. 252, comma 4; art. 254, comma 1)."
       },
       {
         "id": "c",
@@ -298,8 +303,8 @@
       },
       {
         "id": "d",
-        "text": "Approvare il piano di estinzione delle passività",
-        "why_wrong": "Il piano di estinzione è predisposto dall'organo straordinario di liquidazione e approvato dal Ministro dell'interno (art. 256, commi 6 e 7)."
+        "text": "Predisporre entro 24 mesi dall'insediamento il piano di estinzione delle passività e depositarlo presso il Ministero dell'interno",
+        "why_wrong": "Il piano di estinzione è predisposto dall'organo straordinario di liquidazione (art. 256, comma 6) e approvato dal Ministro dell'interno (art. 256, comma 7)."
       }
     ],
     "correct": "c",
@@ -321,7 +326,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -331,23 +337,23 @@
     "options": [
       {
         "id": "a",
-        "text": "Può offrire il pagamento di una somma variabile tra il 40 e il 60 per cento del debito, in relazione alla sua anzianità; i debiti per retribuzioni di lavoro subordinato sono liquidati per intero",
+        "text": "Può offrire tra il 40 e il 60 per cento del debito, in relazione alla sua anzianità; i debiti per retribuzioni di lavoro subordinato sono liquidati per intero",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "Può offrire il pagamento di una somma variabile tra il 40 e il 60 per cento di tutti i debiti, comprese le retribuzioni del personale",
-        "why_wrong": "I debiti relativi alle retribuzioni per prestazioni di lavoro subordinato sono esclusi dalla transazione e liquidati per intero (art. 258, comma 3)."
+        "text": "Può offrire tra il 40 e il 60 per cento del debito, in relazione alla sua anzianità, per tutti i debiti, comprese le retribuzioni per lavoro subordinato del personale",
+        "why_wrong": "La transazione tra il 40 e il 60 per cento non si applica alle retribuzioni per prestazioni di lavoro subordinato, che fanno eccezione e sono liquidate per intero (art. 258, comma 3)."
       },
       {
         "id": "c",
-        "text": "Deve offrire il pagamento integrale di tutti i debiti, con rinuncia agli interessi",
-        "why_wrong": "La transazione prevede una somma variabile tra il 40 e il 60 per cento del debito (art. 258, comma 3)."
+        "text": "Deve offrire il pagamento integrale di tutti i debiti, con rinuncia agli interessi e liquidazione obbligatoria entro 30 giorni dall'accettazione",
+        "why_wrong": "La transazione prevede il pagamento di una somma variabile tra il 40 e il 60 per cento del debito, non il pagamento integrale (art. 258, comma 3)."
       },
       {
         "id": "d",
-        "text": "Può offrire il 50 per cento dei debiti, accantonando il 100 per cento per quelli non transatti",
-        "why_wrong": "Il 50 per cento è la misura dell'accantonamento per i debiti non transatti, elevata al 100 per cento solo per quelli privilegiati (art. 258, comma 4)."
+        "text": "Può offrire il 50 per cento del debito, in relazione alla sua anzianità; i soli debiti assistiti da privilegio sono invece liquidati per intero",
+        "why_wrong": "Il 50 per cento è la misura dell'accantonamento per i debiti non transatti, elevata al 100 per cento per quelli privilegiati (art. 258, comma 4); la transazione è proposta anche ai creditori privilegiati (art. 258, comma 3)."
       }
     ],
     "correct": "a",
@@ -369,7 +375,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -379,8 +386,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Entro trenta giorni dalla deliberazione di dissesto",
-        "why_wrong": "Trenta giorni è il termine per deliberare le aliquote e tariffe nella misura massima (art. 251, comma 1)."
+        "text": "Entro trenta giorni dalla data di esecutività della deliberazione con cui il consiglio ha dichiarato il dissesto",
+        "why_wrong": "Trenta giorni dall'esecutività della delibera di dissesto è il termine per deliberare aliquote e tariffe nella misura massima (art. 251, comma 1)."
       },
       {
         "id": "b",
@@ -389,13 +396,13 @@
       },
       {
         "id": "c",
-        "text": "Entro 180 giorni dall'insediamento dell'organo straordinario di liquidazione",
-        "why_wrong": "Centottanta giorni è il termine per il piano di rilevazione della massa passiva (art. 254, comma 1)."
+        "text": "Entro centottanta giorni dalla data di insediamento presso l'ente dell'organo straordinario di liquidazione",
+        "why_wrong": "Centottanta giorni dall'insediamento è il termine per il piano di rilevazione della massa passiva (art. 254, comma 1)."
       },
       {
         "id": "d",
-        "text": "Entro 24 mesi dall'insediamento dell'organo straordinario di liquidazione",
-        "why_wrong": "Ventiquattro mesi è il termine per il piano di estinzione delle passività (art. 256, comma 6)."
+        "text": "Entro ventiquattro mesi dalla data di insediamento presso l'ente dell'organo straordinario di liquidazione",
+        "why_wrong": "Ventiquattro mesi dall'insediamento è il termine per il piano di estinzione delle passività (art. 256, comma 6)."
       }
     ],
     "correct": "b",
@@ -413,7 +420,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -423,8 +431,8 @@
     "options": [
       {
         "id": "a",
-        "text": "Entro trenta giorni; durata massima di cinque anni",
-        "why_wrong": "Il termine è di novanta giorni e la durata del piano è compresa tra quattro e venti anni (art. 243-bis, comma 5)."
+        "text": "Entro il termine perentorio di trenta giorni dall'esecutività della delibera di ricorso alla procedura; durata massima di cinque anni, compreso quello in corso",
+        "why_wrong": "Il termine perentorio è di novanta giorni, non di trenta, e il piano dura tra quattro e venti anni, non al massimo cinque (art. 243-bis, comma 5)."
       },
       {
         "id": "b",
@@ -433,13 +441,13 @@
       },
       {
         "id": "c",
-        "text": "Entro tre mesi dalla nomina dell'organo straordinario di liquidazione; durata di cinque anni",
-        "why_wrong": "Questo termine riguarda l'ipotesi di bilancio stabilmente riequilibrato dell'ente dissestato (art. 259, comma 1), non il piano di riequilibrio pluriennale (art. 243-bis, comma 5)."
+        "text": "Entro tre mesi dall'emanazione del decreto di nomina dell'organo straordinario di liquidazione; durata di cinque anni, compreso quello in corso",
+        "why_wrong": "Tre mesi dal decreto di nomina dell'organo straordinario di liquidazione è il termine per l'ipotesi di bilancio stabilmente riequilibrato dell'ente dissestato (art. 259, comma 1); il piano di riequilibrio è deliberato entro novanta giorni e dura tra quattro e venti anni (art. 243-bis, comma 5)."
       },
       {
         "id": "d",
-        "text": "Entro 5 giorni dall'esecutività della delibera di ricorso; durata di dieci anni",
-        "why_wrong": "Cinque giorni è il termine per trasmettere la delibera di ricorso alla Corte dei conti e al Ministero dell'interno (art. 243-bis, comma 2)."
+        "text": "Entro il termine di 5 giorni dall'esecutività della delibera di ricorso alla procedura; durata compresa tra quattro e dieci anni, compreso quello in corso",
+        "why_wrong": "Cinque giorni è il termine per trasmettere la delibera di ricorso alla Corte dei conti e al Ministero dell'interno (art. 243-bis, comma 2); il piano è deliberato entro novanta giorni e dura tra quattro e venti anni (art. 243-bis, comma 5)."
       }
     ],
     "correct": "b",
@@ -457,7 +465,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

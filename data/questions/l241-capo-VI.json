@@ -44,10 +44,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 1, della L. 241/1990, quali tra le seguenti disposizioni si applicano a tutte le amministrazioni pubbliche?",
     "options": [
-      {"id": "a", "text": "Le disposizioni sulla comunicazione di avvio del procedimento (artt. 7 e 8)", "why_wrong": "Gli artt. 7 e 8 non sono compresi nell'elenco del comma 1."},
-      {"id": "b", "text": "Le disposizioni sull'autocertificazione (art. 18)", "why_wrong": "L'art. 18 non è compreso nell'elenco del comma 1."},
+      {"id": "a", "text": "Le disposizioni sulla comunicazione di avvio del procedimento (artt. 7 e 8) e sull'intervento nel procedimento (art. 9)", "why_wrong": "Gli artt. 7, 8 e 9 non sono compresi nell'elenco del comma 1."},
+      {"id": "b", "text": "Le disposizioni sull'autocertificazione (art. 18) e sui provvedimenti attributivi di vantaggi economici (art. 12)", "why_wrong": "Gli artt. 12 e 18 non sono compresi nell'elenco del comma 1."},
       {"id": "c", "text": "Le disposizioni sulle conseguenze del ritardo (art. 2-bis), sugli accordi (artt. 11 e 15) e quelle del Capo IV-bis", "why_wrong": null},
-      {"id": "d", "text": "Le disposizioni sulla conferenza di servizi e sulla SCIA", "why_wrong": "Conferenza di servizi e SCIA sono richiamate dal comma 2-ter tra le materie attinenti ai livelli essenziali delle prestazioni, non nell'elenco del comma 1."}
+      {"id": "d", "text": "Le disposizioni sulla conferenza di servizi (art. 14) e sulla segnalazione certificata di inizio attività (art. 19)", "why_wrong": "Gli artt. 14 e 19 non sono compresi nell'elenco del comma 1 dell'art. 29; conferenza di servizi e SCIA sono richiamate dal comma 2-ter tra le materie attinenti ai livelli essenziali."}
     ],
     "correct": "c",
     "explanation": "L'art. 29, comma 1, dispone che gli artt. 2-bis, 11, 15 e 25, commi 5, 5-bis e 6, nonché le disposizioni del Capo IV-bis, si applicano a tutte le amministrazioni pubbliche.",
@@ -56,7 +56,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 1", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -64,10 +65,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2, della L. 241/1990, le regioni e gli enti locali, nell'ambito delle rispettive competenze:",
     "options": [
-      {"id": "a", "text": "adeguano la propria legislazione secondo i rispettivi statuti e le relative norme di attuazione", "why_wrong": "È la regola per le regioni a statuto speciale e le province autonome (comma 2-quinquies)."},
+      {"id": "a", "text": "possono stabilire, nei procedimenti di loro competenza, garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni, se previsto dai propri statuti", "why_wrong": "L'art. 29, comma 2-quater, vieta a regioni ed enti locali di stabilire garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni."},
       {"id": "b", "text": "regolano le materie disciplinate dalla legge nel rispetto del sistema costituzionale e delle garanzie del cittadino, come definite dai principi stabiliti dalla legge", "why_wrong": null},
-      {"id": "c", "text": "applicano integralmente e direttamente tutte le disposizioni della legge, senza potere di regolazione", "why_wrong": "Il comma 2 riconosce a regioni ed enti locali il potere di regolare le materie della legge, nel rispetto dei suoi principi."},
-      {"id": "d", "text": "sono liberi di regolare le materie della legge senza alcun vincolo", "why_wrong": "Il comma 2 impone il rispetto del sistema costituzionale e delle garanzie del cittadino definite dai principi della legge."}
+      {"id": "c", "text": "applicano integralmente e direttamente tutte le disposizioni della legge, senza alcun potere di regolare le materie da essa disciplinate nei procedimenti di loro competenza", "why_wrong": "L'art. 29, comma 2, attribuisce a regioni ed enti locali il potere di regolare le materie disciplinate dalla legge, nell'ambito delle rispettive competenze."},
+      {"id": "d", "text": "regolano liberamente le materie disciplinate dalla legge, senza essere vincolati né al sistema costituzionale né ai principi da essa stabiliti a garanzia del cittadino", "why_wrong": "L'art. 29, comma 2, vincola tale potere al rispetto del sistema costituzionale e delle garanzie del cittadino definite dai principi della legge."}
     ],
     "correct": "b",
     "explanation": "L'art. 29, comma 2, stabilisce che regioni ed enti locali regolano le materie disciplinate dalla legge nel rispetto del sistema costituzionale e delle garanzie del cittadino nei riguardi dell'azione amministrativa, così come definite dai principi della legge.",
@@ -76,7 +77,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -84,10 +86,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2-bis, della L. 241/1990, attengono ai livelli essenziali delle prestazioni le disposizioni concernenti gli obblighi della pubblica amministrazione di:",
     "options": [
-      {"id": "a", "text": "predeterminare i criteri per la concessione di contributi e sovvenzioni", "why_wrong": "L'art. 12 non è richiamato dai commi 2-bis e 2-ter tra le disposizioni sui livelli essenziali."},
-      {"id": "b", "text": "concludere accordi con altre amministrazioni per attività di interesse comune", "why_wrong": "Gli accordi tra amministrazioni (art. 15) si applicano a tutte le PA ai sensi del comma 1, ma non sono richiamati dal comma 2-bis."},
-      {"id": "c", "text": "adottare misure organizzative per l'autocertificazione", "why_wrong": "Il comma 2-bis non richiama la disciplina dell'autocertificazione."},
-      {"id": "d", "text": "garantire la partecipazione dell'interessato, individuare un responsabile, concludere il procedimento entro il termine prefissato, misurare i tempi effettivi e assicurare l'accesso", "why_wrong": null}
+      {"id": "a", "text": "predeterminare i criteri e le modalità per la concessione di sovvenzioni, contributi, sussidi e ausili finanziari e per l'attribuzione di vantaggi economici", "why_wrong": "La predeterminazione di criteri e modalità (art. 12) non è richiamata dai commi 2-bis e 2-ter tra le disposizioni sui livelli essenziali."},
+      {"id": "b", "text": "concludere accordi con altre amministrazioni per disciplinare lo svolgimento in collaborazione di attività di interesse comune, con sottoscrizione digitale", "why_wrong": "Gli accordi fra amministrazioni (art. 15), compresa la loro sottoscrizione digitale, non sono richiamati dal comma 2-bis; l'art. 15 rientra tra le disposizioni che il comma 1 applica a tutte le amministrazioni."},
+      {"id": "c", "text": "adottare le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte dei cittadini", "why_wrong": "Le misure organizzative sull'autocertificazione (art. 18) non sono richiamate dal comma 2-bis."},
+      {"id": "d", "text": "garantire la partecipazione dell'interessato, individuare un responsabile, concludere il procedimento nel termine prefissato, misurarne i tempi effettivi e assicurare l'accesso", "why_wrong": null}
     ],
     "correct": "d",
     "explanation": "L'art. 29, comma 2-bis, riconduce ai livelli essenziali delle prestazioni gli obblighi di garantire la partecipazione, individuare un responsabile, concludere entro il termine, misurare i tempi effettivi, assicurare l'accesso, nonché le disposizioni sulla durata massima dei procedimenti.",
@@ -96,7 +98,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 2-bis", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -104,10 +107,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2-ter, della L. 241/1990, attengono altresì ai livelli essenziali delle prestazioni le disposizioni concernenti:",
     "options": [
-      {"id": "a", "text": "l'attività consultiva e le valutazioni tecniche", "why_wrong": "Gli artt. 16 e 17 non sono richiamati dal comma 2-ter."},
-      {"id": "b", "text": "gli atti di notorietà", "why_wrong": "L'art. 30 non è richiamato dal comma 2-ter."},
+      {"id": "a", "text": "l'attività consultiva degli organi consultivi (art. 16) e le valutazioni tecniche di organi od enti appositi (art. 17)", "why_wrong": "L'attività consultiva (art. 16) e le valutazioni tecniche (art. 17) non sono richiamate dal comma 2-ter dell'art. 29."},
+      {"id": "b", "text": "gli atti di notorietà, il numero dei testimoni ridotto a due e il divieto di esigerli in luogo della dichiarazione sostitutiva", "why_wrong": "La disciplina degli atti di notorietà (art. 30, commi 1 e 2) non è richiamata dal comma 2-ter dell'art. 29."},
       {"id": "c", "text": "la presentazione di istanze, segnalazioni e comunicazioni, la SCIA, il silenzio assenso e la conferenza di servizi", "why_wrong": null},
-      {"id": "d", "text": "gli accordi integrativi o sostitutivi del provvedimento", "why_wrong": "Gli accordi dell'art. 11 si applicano a tutte le PA ai sensi del comma 1, ma non sono richiamati dal comma 2-ter."}
+      {"id": "d", "text": "gli accordi integrativi o sostitutivi del provvedimento (art. 11) e gli accordi fra pubbliche amministrazioni (art. 15)", "why_wrong": "Gli accordi degli artt. 11 e 15 si applicano a tutte le PA ai sensi del comma 1, ma non sono richiamati dal comma 2-ter."}
     ],
     "correct": "c",
     "explanation": "L'art. 29, comma 2-ter, riconduce ai livelli essenziali delle prestazioni anche le disposizioni su presentazione di istanze, segnalazioni e comunicazioni, SCIA, silenzio assenso e conferenza di servizi, salva la possibilità di individuare con intese in Conferenza unificata casi ulteriori in cui esse non si applicano.",
@@ -116,7 +119,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 2-ter", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -125,9 +129,9 @@
     "question": "Un Comune approva un regolamento sul procedimento amministrativo che prevede, per i procedimenti di sua competenza, un termine di conclusione più breve di quello statale e ulteriori forme di partecipazione. Ai sensi dell'art. 29, comma 2-quater, della L. 241/1990:",
     "options": [
       {"id": "a", "text": "il Comune può prevedere livelli ulteriori di tutela, ma non garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni", "why_wrong": null},
-      {"id": "b", "text": "il Comune non può discostarsi in alcun modo dalla disciplina statale", "why_wrong": "Il comma 2-quater consente espressamente di prevedere livelli ulteriori di tutela."},
-      {"id": "c", "text": "il Comune può stabilire anche garanzie inferiori, purché motivate", "why_wrong": "Il comma 2-quater vieta di stabilire garanzie inferiori a quelle attinenti ai livelli essenziali."},
-      {"id": "d", "text": "il regolamento deve essere preventivamente approvato con intesa in Conferenza unificata", "why_wrong": "Le intese in Conferenza unificata servono a individuare casi ulteriori di non applicazione delle disposizioni del comma 2-ter, non ad approvare i regolamenti comunali."}
+      {"id": "b", "text": "il Comune non può discostarsi in alcun modo dalla disciplina statale, né in senso più favorevole né in senso meno favorevole ai privati", "why_wrong": "Il comma 2-quater vieta solo garanzie inferiori a quelle dei livelli essenziali e consente espressamente di prevedere livelli ulteriori di tutela."},
+      {"id": "c", "text": "il Comune può stabilire anche garanzie inferiori a quelle dei livelli essenziali delle prestazioni, purché motivate e limitate ai propri procedimenti", "why_wrong": "Il comma 2-quater vieta, proprio nei procedimenti di competenza dell'ente, garanzie inferiori a quelle attinenti ai livelli essenziali, senza eccezioni legate alla motivazione."},
+      {"id": "d", "text": "il regolamento è valido solo se preventivamente approvato con intesa in sede di Conferenza unificata, trattandosi di livelli essenziali", "why_wrong": "Il comma 2-ter prevede intese in Conferenza unificata solo per individuare casi ulteriori di non applicazione delle sue disposizioni; il comma 2-quater non subordina i regolamenti locali ad alcuna intesa."}
     ],
     "correct": "a",
     "explanation": "L'art. 29, comma 2-quater, stabilisce che regioni ed enti locali, nel disciplinare i procedimenti di loro competenza, non possono stabilire garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni dei commi 2-bis e 2-ter, ma possono prevedere livelli ulteriori di tutela.",
@@ -136,7 +140,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 2-quater", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -144,10 +149,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2-quinquies, della L. 241/1990, le regioni a statuto speciale e le province autonome di Trento e di Bolzano:",
     "options": [
-      {"id": "a", "text": "applicano direttamente tutte le disposizioni della legge, senza necessità di adeguamento", "why_wrong": "Il comma 2-quinquies prevede un adeguamento della loro legislazione secondo i rispettivi statuti."},
-      {"id": "b", "text": "possono stabilire garanzie inferiori a quelle dei livelli essenziali delle prestazioni", "why_wrong": "Il divieto di garanzie inferiori è posto dal comma 2-quater; il comma 2-quinquies prevede l'adeguamento secondo statuti e norme di attuazione."},
+      {"id": "a", "text": "applicano direttamente tutte le disposizioni della legge, senza necessità di adeguare la propria legislazione né di norme di attuazione", "why_wrong": "Il comma 2-quinquies prevede un adeguamento della loro legislazione secondo i rispettivi statuti e le relative norme di attuazione."},
+      {"id": "b", "text": "possono stabilire garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni, in virtù dei rispettivi statuti", "why_wrong": "Il comma 2-quinquies non prevede alcuna facoltà di garanzie inferiori, vietate dal comma 2-quater; prevede l'adeguamento secondo statuti e norme di attuazione."},
       {"id": "c", "text": "adeguano la propria legislazione alle disposizioni dell'art. 29, secondo i rispettivi statuti e le relative norme di attuazione", "why_wrong": null},
-      {"id": "d", "text": "sono escluse dall'applicazione dell'art. 29", "why_wrong": "Il comma 2-quinquies impone loro di adeguare la propria legislazione, secondo statuti e norme di attuazione."}
+      {"id": "d", "text": "sono escluse dall'applicazione dell'art. 29, restando disciplinate esclusivamente dai rispettivi statuti speciali di autonomia", "why_wrong": "Il comma 2-quinquies non le esclude: impone loro di adeguare la propria legislazione alle disposizioni dell'art. 29, secondo statuti e norme di attuazione."}
     ],
     "correct": "c",
     "explanation": "L'art. 29, comma 2-quinquies, prevede che le regioni a statuto speciale e le province autonome di Trento e di Bolzano adeguino la propria legislazione alle disposizioni dell'articolo, secondo i rispettivi statuti e le relative norme di attuazione.",
@@ -156,7 +161,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 29, comma 2-quinquies", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -184,10 +190,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un'impresa che gestisce un servizio di pubblica utilità chiede a un cliente un atto di notorietà per provare un fatto a sua diretta conoscenza, rifiutando la dichiarazione sostitutiva. Ai sensi dell'art. 30, comma 2, della L. 241/1990:",
     "options": [
-      {"id": "a", "text": "la richiesta è legittima, perché il divieto riguarda solo le pubbliche amministrazioni", "why_wrong": "Il comma 2 estende il divieto alle imprese esercenti servizi di pubblica necessità e di pubblica utilità."},
-      {"id": "b", "text": "la richiesta è legittima, purché l'atto di notorietà sia asseverato da due testimoni", "why_wrong": "Il numero di due testimoni (comma 1) non rende lecito esigere l'atto di notorietà nei casi vietati dal comma 2."},
-      {"id": "c", "text": "la richiesta è legittima se l'impresa ha predeterminato criteri e modalità", "why_wrong": "La predeterminazione di criteri e modalità riguarda i vantaggi economici (art. 12), non gli atti di notorietà."},
-      {"id": "d", "text": "la richiesta è vietata: non si possono esigere atti di notorietà in luogo della dichiarazione sostitutiva quando si tratta di provare fatti a diretta conoscenza dell'interessato", "why_wrong": null}
+      {"id": "a", "text": "la richiesta è legittima, perché il divieto di esigere atti di notorietà in luogo della dichiarazione sostitutiva riguarda soltanto le pubbliche amministrazioni statali", "why_wrong": "Il comma 2 rivolge il divieto a tutte le pubbliche amministrazioni e anche alle imprese esercenti servizi di pubblica necessità e di pubblica utilità."},
+      {"id": "b", "text": "la richiesta è legittima, purché il numero dei testimoni che asseverano l'atto di notorietà sia ridotto a due, come previsto in via generale dal comma 1", "why_wrong": "La riduzione a due dei testimoni (comma 1) non rende lecito esigere l'atto di notorietà nei casi vietati dal comma 2."},
+      {"id": "c", "text": "la richiesta è legittima se l'impresa ha predeterminato e reso pubblici i criteri e le modalità cui attenersi nel richiedere atti di notorietà", "why_wrong": "Il comma 2 non subordina il divieto ad alcuna predeterminazione di criteri, che l'art. 12 prevede per la concessione di vantaggi economici."},
+      {"id": "d", "text": "la richiesta è vietata: non si possono esigere atti di notorietà in luogo della dichiarazione sostitutiva per provare fatti a diretta conoscenza dell'interessato", "why_wrong": null}
     ],
     "correct": "d",
     "explanation": "L'art. 30, comma 2, vieta alle pubbliche amministrazioni e alle imprese esercenti servizi di pubblica necessità e di pubblica utilità di esigere atti di notorietà in luogo della dichiarazione sostitutiva quando si tratti di provare qualità personali, stati o fatti a diretta conoscenza dell'interessato.",
@@ -197,7 +203,8 @@
     ],
     "source": {"act": "L. 241/1990", "article": "art. 30, comma 2", "file": "sources/L241-1990_2026-09-24.txt", "url": null},
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

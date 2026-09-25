@@ -44,10 +44,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Quando entrano in carica i consiglieri comunali?",
     "options": [
-      { "id": "a", "text": "Dalla prima seduta del consiglio, dopo la convalida degli eletti", "why_wrong": "L'art. 38, comma 4, fa decorrere l'entrata in carica dalla proclamazione, non dalla convalida in prima seduta." },
-      { "id": "b", "text": "Dal giuramento prestato davanti al consiglio", "why_wrong": "Il giuramento davanti al consiglio è previsto per il sindaco e il presidente della provincia (art. 50, comma 11), non segna l'entrata in carica dei consiglieri." },
+      { "id": "a", "text": "Dalla prima seduta del consiglio, una volta esaminata la condizione degli eletti e dichiarata l'assenza di cause di ineleggibilità", "why_wrong": "L'esame della condizione degli eletti si svolge nella prima seduta (art. 41, comma 1), ma l'entrata in carica decorre dalla proclamazione (art. 38, comma 4)." },
+      { "id": "b", "text": "Dal giuramento di osservare lealmente la Costituzione, prestato davanti al consiglio nella seduta di insediamento", "why_wrong": "Il giuramento davanti al consiglio è previsto per il sindaco e il presidente della provincia (art. 50, comma 11); i consiglieri entrano in carica con la proclamazione (art. 38, comma 4)." },
       { "id": "c", "text": "All'atto della proclamazione ovvero, in caso di surrogazione, non appena adottata dal consiglio la relativa deliberazione", "why_wrong": null },
-      { "id": "d", "text": "Decorsi dieci giorni dalla proclamazione", "why_wrong": "Dieci giorni dalla proclamazione è il termine per convocare la prima seduta (art. 40, comma 1), non per l'entrata in carica." }
+      { "id": "d", "text": "Decorsi dieci giorni dalla proclamazione ovvero, in caso di surrogazione, dalla comunicazione della relativa deliberazione", "why_wrong": "Dieci giorni dalla proclamazione è il termine per convocare la prima seduta (art. 40, comma 1); l'art. 38, comma 4, fa decorrere l'entrata in carica dalla proclamazione o dall'adozione della deliberazione di surroga." }
     ],
     "correct": "c",
     "explanation": "I consiglieri entrano in carica con la proclamazione; il consigliere surrogante entra in carica non appena il consiglio adotta la deliberazione di surroga.",
@@ -56,7 +56,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 38, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -64,10 +65,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "È stato pubblicato il decreto di indizione dei comizi elettorali per il rinnovo del consiglio comunale. Il consiglio uscente intende approvare un nuovo regolamento sulla partecipazione, non urgente. Può farlo?",
     "options": [
-      { "id": "a", "text": "Sì, perché il consiglio resta in carica con pienezza di poteri fino all'elezione del nuovo", "why_wrong": "Il consiglio resta in carica fino all'elezione del nuovo, ma dopo il decreto di indizione dei comizi i suoi poteri sono limitati (art. 38, comma 5)." },
-      { "id": "b", "text": "Sì, ma solo con la maggioranza dei due terzi dei consiglieri assegnati", "why_wrong": "L'art. 38, comma 5, non prevede maggioranze rafforzate: limita il consiglio agli atti urgenti e improrogabili." },
-      { "id": "c", "text": "Sì, previo parere favorevole del prefetto", "why_wrong": "L'art. 38, comma 5, non prevede alcun parere del prefetto." },
-      { "id": "d", "text": "No, perché dopo la pubblicazione del decreto di indizione dei comizi il consiglio può adottare solo gli atti urgenti e improrogabili", "why_wrong": null }
+      { "id": "a", "text": "Sì, perché il consiglio dura in carica sino all'elezione del nuovo e conserva fino a quel momento la pienezza dei propri poteri deliberativi", "why_wrong": "Il consiglio dura in carica sino all'elezione del nuovo, ma dopo la pubblicazione del decreto di indizione dei comizi si limita agli atti urgenti e improrogabili (art. 38, comma 5)." },
+      { "id": "b", "text": "Sì, ma solo con deliberazione approvata dai due terzi dei consiglieri assegnati per legge, senza computare il sindaco", "why_wrong": "L'art. 38, comma 5, non prevede alcuna maggioranza dei due terzi che consenta di superare il limite: dopo l'indizione dei comizi il consiglio adotta solo atti urgenti e improrogabili." },
+      { "id": "c", "text": "Sì, previo parere favorevole del prefetto, da richiedere dopo la pubblicazione del decreto di indizione dei comizi elettorali", "why_wrong": "L'art. 38, comma 5, non prevede alcun parere del prefetto: limita il consiglio agli atti urgenti e improrogabili." },
+      { "id": "d", "text": "No, perché dopo la pubblicazione del decreto di indizione dei comizi il consiglio può adottare solo atti urgenti e improrogabili", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "I consigli durano in carica sino all'elezione dei nuovi, ma dopo la pubblicazione del decreto di indizione dei comizi elettorali si limitano ad adottare gli atti urgenti e improrogabili.",
@@ -76,7 +77,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 38, comma 5", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -104,10 +106,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Due consiglieri comunali presentano personalmente le dimissioni, protocollate in giorni diversi. Senza che ricorrano i presupposti per lo scioglimento del consiglio, come deve procedere il consiglio?",
     "options": [
-      { "id": "a", "text": "Deve procedere alla surroga entro trenta giorni, con un'unica deliberazione", "why_wrong": "L'art. 38, comma 8, fissa il termine di dieci giorni e richiede separate deliberazioni." },
-      { "id": "b", "text": "Deve procedere alla surroga entro e non oltre dieci giorni, con separate deliberazioni, seguendo l'ordine di presentazione delle dimissioni risultante dal protocollo", "why_wrong": null },
-      { "id": "c", "text": "Deve prima prendere atto delle dimissioni e poi procedere alla surroga nella prima seduta utile", "why_wrong": "Le dimissioni non necessitano di presa d'atto e la surroga va fatta entro dieci giorni (art. 38, comma 8)." },
-      { "id": "d", "text": "Deve affidare la supplenza ai primi dei non eletti fino alle nuove elezioni", "why_wrong": "La supplenza riguarda il consigliere sospeso (art. 45, comma 2); per il seggio vacante si procede alla surroga." }
+      { "id": "a", "text": "Deve procedere alla surroga entro trenta giorni, con un'unica deliberazione, seguendo l'ordine di presentazione delle dimissioni risultante dal protocollo", "why_wrong": "L'ordine del protocollo è corretto, ma l'art. 38, comma 8, impone la surroga entro dieci giorni e con separate deliberazioni, non entro trenta giorni con un'unica deliberazione." },
+      { "id": "b", "text": "Deve procedere alla surroga entro dieci giorni, con separate deliberazioni, seguendo l'ordine di presentazione delle dimissioni risultante dal protocollo", "why_wrong": null },
+      { "id": "c", "text": "Deve prima prendere atto delle dimissioni con apposita deliberazione e poi procedere alla surroga nella prima seduta utile, secondo l'ordine del protocollo", "why_wrong": "Le dimissioni non necessitano di presa d'atto, sono immediatamente efficaci e la surroga va fatta entro dieci giorni (art. 38, comma 8)." },
+      { "id": "d", "text": "Deve affidare la supplenza ai candidati della stessa lista che hanno riportato, dopo gli eletti, il maggior numero di voti, fino alle nuove elezioni", "why_wrong": "La supplenza riguarda il consigliere sospeso (art. 45, comma 2); per i consiglieri dimissionari si procede alla surroga (art. 38, comma 8)." }
     ],
     "correct": "b",
     "explanation": "Il consiglio, entro e non oltre dieci giorni, surroga i consiglieri dimissionari con separate deliberazioni, seguendo l'ordine di presentazione delle dimissioni risultante dal protocollo; non si fa luogo alla surroga se si deve sciogliere il consiglio ai sensi dell'art. 141.",
@@ -116,7 +118,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 38, comma 8", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -124,10 +127,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "In un Comune di 40.000 abitanti, un quinto dei consiglieri chiede per iscritto al presidente del consiglio la convocazione del consiglio su una determinata questione. Cosa prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "Il presidente valuta discrezionalmente se convocare il consiglio", "why_wrong": "L'art. 39, comma 2, dice che il presidente è tenuto a riunire il consiglio: non ha discrezionalità." },
-      { "id": "b", "text": "Il presidente deve riunire il consiglio entro dieci giorni", "why_wrong": "Dieci giorni è il termine per convocare la prima seduta dopo la proclamazione (art. 40, comma 1); qui il termine è di venti giorni." },
-      { "id": "c", "text": "Il presidente è tenuto a riunire il consiglio in un termine non superiore ai venti giorni, inserendo all'ordine del giorno le questioni richieste", "why_wrong": null },
-      { "id": "d", "text": "La richiesta è valida solo se sottoscritta da almeno due quinti dei consiglieri assegnati", "why_wrong": "I due quinti sono richiesti per sottoscrivere la mozione di sfiducia (art. 52, comma 2); per chiedere la convocazione basta un quinto dei consiglieri." }
+      { "id": "a", "text": "Il presidente valuta discrezionalmente se convocare il consiglio e quali delle questioni richieste inserire all'ordine del giorno", "why_wrong": "L'art. 39, comma 2, dice che il presidente è tenuto a riunire il consiglio, inserendo all'ordine del giorno le questioni richieste." },
+      { "id": "b", "text": "Il presidente è tenuto a riunire il consiglio entro dieci giorni dalla richiesta, inserendo all'ordine del giorno le questioni richieste", "why_wrong": "Dieci giorni è il termine per convocare la prima seduta dopo la proclamazione (art. 40, comma 1); qui il termine è di venti giorni (art. 39, comma 2)." },
+      { "id": "c", "text": "Il presidente è tenuto a riunire il consiglio entro venti giorni, inserendo all'ordine del giorno le questioni richieste", "why_wrong": null },
+      { "id": "d", "text": "La richiesta è valida solo se motivata e sottoscritta da almeno due quinti dei consiglieri assegnati, senza computare il sindaco", "why_wrong": "I due quinti sono richiesti per sottoscrivere la mozione di sfiducia (art. 52, comma 2); per chiedere la convocazione basta un quinto dei consiglieri (art. 39, comma 2)." }
     ],
     "correct": "c",
     "explanation": "Il presidente del consiglio deve riunirlo entro venti giorni quando lo richiedono un quinto dei consiglieri o il sindaco, inserendo all'ordine del giorno le questioni richieste. Se non lo fa, provvede il prefetto previa diffida.",
@@ -136,7 +139,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 39, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -184,10 +188,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Entro quali termini deve essere convocata e tenuta la prima seduta del consiglio comunale neoeletto?",
     "options": [
-      { "id": "a", "text": "Convocata entro venti giorni dalla proclamazione e tenuta entro dieci giorni dalla convocazione", "why_wrong": "Venti giorni è il termine per riunire il consiglio su richiesta di un quinto dei consiglieri (art. 39, comma 2); la prima seduta va convocata entro dieci giorni." },
+      { "id": "a", "text": "Convocata entro il termine perentorio di venti giorni dalla proclamazione e tenuta entro il termine di dieci giorni dalla convocazione", "why_wrong": "Venti giorni è il termine per riunire il consiglio su richiesta di un quinto dei consiglieri (art. 39, comma 2); la prima seduta va convocata entro dieci giorni dalla proclamazione (art. 40, comma 1)." },
       { "id": "b", "text": "Convocata entro il termine perentorio di dieci giorni dalla proclamazione e tenuta entro dieci giorni dalla convocazione", "why_wrong": null },
-      { "id": "c", "text": "Convocata e tenuta entro trenta giorni dalle elezioni", "why_wrong": "L'art. 40, comma 1, fissa due termini di dieci giorni: uno dalla proclamazione per la convocazione e uno dalla convocazione per la seduta." },
-      { "id": "d", "text": "Convocata entro il termine fissato dallo statuto", "why_wrong": "Lo statuto fissa il termine per la presentazione delle linee programmatiche (art. 46, comma 3); per la prima seduta i termini sono fissati dall'art. 40, comma 1." }
+      { "id": "c", "text": "Convocata entro dieci giorni dalle elezioni e tenuta entro il termine perentorio di dieci giorni dalla convocazione", "why_wrong": "L'art. 40, comma 1, fa decorrere il termine perentorio di dieci giorni per la convocazione dalla proclamazione, non dalle elezioni." },
+      { "id": "d", "text": "Convocata dal sindaco entro il termine fissato dallo statuto e tenuta entro il termine fissato dal regolamento consiliare", "why_wrong": "Lo statuto fissa il termine per la presentazione delle linee programmatiche (art. 46, comma 3); i termini della prima seduta sono fissati dall'art. 40, comma 1." }
     ],
     "correct": "b",
     "explanation": "La prima seduta va convocata entro il termine perentorio di dieci giorni dalla proclamazione e deve tenersi entro dieci giorni dalla convocazione.",
@@ -196,7 +200,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 40, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -204,10 +209,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Nella prima seduta, prima di deliberare su qualsiasi altro oggetto, il consiglio comunale deve:",
     "options": [
-      { "id": "a", "text": "Approvare le linee programmatiche del mandato", "why_wrong": "Le linee programmatiche sono presentate dal sindaco entro il termine fissato dallo statuto (art. 46, comma 3), non come primo adempimento della prima seduta." },
-      { "id": "b", "text": "Eleggere la giunta comunale", "why_wrong": "La giunta non è eletta dal consiglio: i suoi componenti sono nominati dal sindaco, che ne dà comunicazione al consiglio (art. 46, comma 2)." },
-      { "id": "c", "text": "Esaminare la condizione degli eletti e dichiararne l'ineleggibilità quando sussista alcuna delle cause previste, anche se non è stato prodotto alcun reclamo", "why_wrong": null },
-      { "id": "d", "text": "Eleggere la commissione elettorale comunale, solo se è stato presentato un reclamo", "why_wrong": "L'elezione della commissione elettorale comunale avviene nella prima seduta (art. 41, comma 2), ma non dipende da reclami e non precede l'esame della condizione degli eletti." }
+      { "id": "a", "text": "Discutere e approvare le linee programmatiche presentate dal sindaco, relative alle azioni e ai progetti da realizzare nel mandato", "why_wrong": "Le linee programmatiche sono presentate dal sindaco entro il termine fissato dallo statuto (art. 46, comma 3); prima di ogni altra deliberazione il consiglio esamina la condizione degli eletti (art. 41, comma 1)." },
+      { "id": "b", "text": "Eleggere la giunta comunale tra i propri componenti, su proposta del sindaco, nel rispetto del principio di pari opportunità", "why_wrong": "La giunta non è eletta dal consiglio: la nomina il sindaco, nel rispetto delle pari opportunità, e ne dà comunicazione al consiglio (art. 46, comma 2)." },
+      { "id": "c", "text": "Esaminare la condizione degli eletti e dichiararne l'ineleggibilità quando sussista una delle cause previste, anche in assenza di reclami", "why_wrong": null },
+      { "id": "d", "text": "Eleggere tra i propri componenti la commissione elettorale comunale, ma soltanto qualora sia stato presentato almeno un reclamo sugli eletti", "why_wrong": "L'elezione della commissione elettorale comunale avviene nella prima seduta (art. 41, comma 2), ma non dipende da reclami e non precede l'esame della condizione degli eletti (art. 41, comma 1)." }
     ],
     "correct": "c",
     "explanation": "Prima di ogni altra deliberazione, e anche senza reclami, il consiglio esamina la condizione degli eletti e dichiara l'ineleggibilità di chi si trovi in una delle cause previste, con la procedura dell'art. 69.",
@@ -216,7 +221,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 41, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -304,10 +310,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Un consigliere comunale di minoranza chiede all'azienda speciale del Comune notizie sui contratti stipulati, utili all'espletamento del proprio mandato. Cosa prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "Il consigliere può chiedere informazioni solo agli uffici del Comune, non alle aziende dipendenti", "why_wrong": "L'art. 43, comma 2, estende il diritto anche alle aziende ed enti dipendenti dal comune." },
-      { "id": "b", "text": "Il consigliere deve presentare un'istanza di accesso motivata come qualsiasi cittadino", "why_wrong": "L'art. 43, comma 2, riconosce ai consiglieri un diritto proprio, legato all'espletamento del mandato." },
-      { "id": "c", "text": "Il consigliere ha diritto di ottenere tutte le notizie e le informazioni utili al mandato ed è tenuto al segreto nei casi specificamente determinati dalla legge", "why_wrong": null },
-      { "id": "d", "text": "Il consigliere ha diritto alle informazioni solo previa autorizzazione del sindaco", "why_wrong": "L'art. 43, comma 2, non subordina il diritto dei consiglieri ad alcuna autorizzazione del sindaco." }
+      { "id": "a", "text": "Il consigliere ha diritto di ottenere notizie e informazioni utili al mandato soltanto dagli uffici del Comune, non anche dalle sue aziende ed enti dipendenti", "why_wrong": "L'art. 43, comma 2, riconosce il diritto verso gli uffici del comune e anche verso le sue aziende ed enti dipendenti." },
+      { "id": "b", "text": "Il consigliere deve presentare un'istanza di accesso motivata come qualsiasi cittadino, alla quale l'azienda risponde entro trenta giorni", "why_wrong": "L'art. 43, comma 2, riconosce ai consiglieri un diritto proprio, legato al mandato; i 30 giorni riguardano la risposta del sindaco alle interrogazioni (art. 43, comma 3)." },
+      { "id": "c", "text": "Il consigliere ha diritto di ottenere tutte le notizie e informazioni utili al mandato ed è tenuto al segreto nei casi specificamente determinati dalla legge", "why_wrong": null },
+      { "id": "d", "text": "Il consigliere ha diritto di ottenere le notizie utili al mandato solo previa autorizzazione del sindaco o dell'assessore da lui delegato", "why_wrong": "L'art. 43, comma 2, non subordina il diritto dei consiglieri ad alcuna autorizzazione del sindaco o degli assessori." }
     ],
     "correct": "c",
     "explanation": "I consiglieri hanno diritto di ottenere dagli uffici del comune e dalle sue aziende ed enti dipendenti tutte le notizie e informazioni utili al mandato, e sono tenuti al segreto nei casi determinati dalla legge.",
@@ -316,7 +322,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 43, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -405,10 +412,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il sindaco di un Comune di 8.000 abitanti vuole nominare assessore un cittadino che non fa parte del consiglio comunale. È possibile?",
     "options": [
-      { "id": "a", "text": "No, nei comuni sotto i 15.000 abitanti gli assessori devono sempre essere consiglieri", "why_wrong": "L'art. 47, comma 4, consente la nomina di assessori esterni anche sotto i 15.000 abitanti, se lo statuto lo prevede." },
-      { "id": "b", "text": "Sì, sempre, purché il cittadino abbia i requisiti per essere eletto consigliere", "why_wrong": "La nomina di esterni senza necessità di previsione statutaria vale per i comuni oltre i 15.000 abitanti (art. 47, comma 3); sotto tale soglia serve la previsione dello statuto." },
-      { "id": "c", "text": "Sì, se lo statuto lo prevede e il cittadino possiede i requisiti di candidabilità, eleggibilità e compatibilità alla carica di consigliere", "why_wrong": null },
-      { "id": "d", "text": "Sì, previa deliberazione del consiglio comunale a maggioranza assoluta", "why_wrong": "L'art. 47, comma 4, subordina la nomina alla previsione dello statuto, non a una deliberazione consiliare caso per caso." }
+      { "id": "a", "text": "No, perché nei comuni con popolazione inferiore a 15.000 abitanti gli assessori devono essere sempre scelti tra i componenti del consiglio", "why_wrong": "Sotto i 15.000 abitanti l'art. 47, comma 4, consente allo statuto di prevedere la nomina di assessori non facenti parte del consiglio." },
+      { "id": "b", "text": "Sì, anche in assenza di previsione statutaria, purché il cittadino possieda i requisiti di candidabilità, eleggibilità e compatibilità", "why_wrong": "La nomina di esterni senza necessità di previsione statutaria vale per i comuni oltre i 15.000 abitanti (art. 47, comma 3); sotto tale soglia serve la previsione dello statuto (art. 47, comma 4)." },
+      { "id": "c", "text": "Sì, se lo statuto lo prevede e il cittadino ha i requisiti di candidabilità, eleggibilità e compatibilità alla carica di consigliere", "why_wrong": null },
+      { "id": "d", "text": "Sì, se il consiglio comunale lo autorizza con deliberazione adottata a maggioranza assoluta dei componenti, su proposta del sindaco", "why_wrong": "L'art. 47, comma 4, rimette la possibilità allo statuto; non prevede un'autorizzazione del consiglio a maggioranza assoluta sulla singola nomina." }
     ],
     "correct": "c",
     "explanation": "Nei comuni sotto i 15.000 abitanti lo statuto può prevedere la nomina ad assessore di cittadini esterni al consiglio, in possesso dei requisiti di candidabilità, eleggibilità e compatibilità alla carica di consigliere.",
@@ -417,7 +424,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 47, comma 4", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -425,10 +433,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Quale organo adotta il regolamento sull'ordinamento degli uffici e dei servizi del Comune?",
     "options": [
-      { "id": "a", "text": "Il consiglio comunale, a maggioranza assoluta", "why_wrong": "Al consiglio spettano i criteri generali in materia di ordinamento degli uffici e dei servizi (art. 42, comma 2, lettera a)), non l'adozione del regolamento." },
+      { "id": "a", "text": "Il consiglio comunale, a maggioranza assoluta dei consiglieri assegnati", "why_wrong": "Al consiglio spettano i criteri generali in materia di ordinamento degli uffici e dei servizi (art. 42, comma 2, lettera a)); l'adozione del regolamento spetta alla giunta (art. 48, comma 3)." },
       { "id": "b", "text": "La giunta, nel rispetto dei criteri generali stabiliti dal consiglio", "why_wrong": null },
-      { "id": "c", "text": "Il sindaco, sentito il segretario comunale", "why_wrong": "L'art. 48, comma 3, attribuisce l'adozione alla giunta." },
-      { "id": "d", "text": "Il segretario comunale, su indirizzo della giunta", "why_wrong": "L'art. 48, comma 3, attribuisce l'adozione alla giunta." }
+      { "id": "c", "text": "Il sindaco, nel rispetto degli indirizzi espressi dal consiglio comunale", "why_wrong": "L'art. 48, comma 3, attribuisce l'adozione alla giunta, non al sindaco." },
+      { "id": "d", "text": "Il segretario comunale, secondo le direttive impartite dalla giunta", "why_wrong": "L'art. 48, comma 3, attribuisce l'adozione alla giunta, non al segretario." }
     ],
     "correct": "b",
     "explanation": "L'adozione dei regolamenti sull'ordinamento degli uffici e dei servizi è di competenza della giunta, nel rispetto dei criteri generali stabiliti dal consiglio; per questo l'art. 42 fa salva l'ipotesi dell'art. 48, comma 3.",
@@ -437,7 +445,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 48, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -445,10 +454,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Quale competenza attribuisce alla giunta l'art. 48, comma 2, del TUEL?",
     "options": [
-      { "id": "a", "text": "Tutti gli atti di gestione amministrativa, finanziaria e tecnica", "why_wrong": "La gestione amministrativa, finanziaria e tecnica spetta ai dirigenti (art. 107); la giunta compie gli atti rientranti nelle funzioni degli organi di governo." },
-      { "id": "b", "text": "Soltanto gli atti espressamente elencati dallo statuto", "why_wrong": "L'art. 48, comma 2, attribuisce alla giunta tutti gli atti degli organi di governo non riservati ad altri, non un elenco tassativo." },
-      { "id": "c", "text": "Tutti gli atti che rientrano nelle funzioni degli organi di governo, non riservati dalla legge al consiglio e non rientranti nelle competenze del sindaco o degli organi di decentramento", "why_wrong": null },
-      { "id": "d", "text": "L'indirizzo e il controllo politico-amministrativo sull'ente", "why_wrong": "L'indirizzo e il controllo politico-amministrativo spettano al consiglio (art. 42, comma 1)." }
+      { "id": "a", "text": "Tutti gli atti di gestione amministrativa, finanziaria e tecnica, compresa l'adozione degli atti e dei provvedimenti amministrativi che impegnano l'ente verso l'esterno", "why_wrong": "La gestione amministrativa, finanziaria e tecnica e gli atti che impegnano l'amministrazione verso l'esterno spettano ai dirigenti (art. 107, commi 1 e 2)." },
+      { "id": "b", "text": "Soltanto gli atti espressamente elencati dallo statuto, mentre tutti gli atti non attribuiti ad altri organi spettano al consiglio comunale", "why_wrong": "Il consiglio ha competenza limitata agli atti fondamentali (art. 42, comma 2); l'art. 48, comma 2, attribuisce alla giunta tutti gli atti degli organi di governo non riservati ad altri." },
+      { "id": "c", "text": "Tutti gli atti degli organi di governo non riservati dalla legge al consiglio e non rientranti nelle competenze del sindaco o degli organi di decentramento", "why_wrong": null },
+      { "id": "d", "text": "L'indirizzo e il controllo politico-amministrativo sull'ente, nonché l'approvazione dei bilanci annuali e pluriennali e del rendiconto della gestione", "why_wrong": "L'indirizzo e il controllo politico-amministrativo, come i bilanci e il rendiconto, spettano al consiglio (art. 42, commi 1 e 2, lettera b))." }
     ],
     "correct": "c",
     "explanation": "La giunta ha competenza residuale: compie tutti gli atti degli organi di governo non riservati dalla legge al consiglio e non attribuiti al sindaco o agli organi di decentramento; collabora con il sindaco e riferisce annualmente al consiglio.",
@@ -457,7 +466,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 48, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -485,9 +495,9 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Su una proposta di deliberazione del consiglio che comporta riflessi diretti o indiretti sulla situazione economico-finanziaria dell'ente, quali pareri devono essere richiesti?",
     "options": [
-      { "id": "a", "text": "Il solo parere di regolarità tecnica del responsabile del servizio interessato", "why_wrong": "Quando la proposta ha riflessi economico-finanziari o sul patrimonio, l'art. 49, comma 1, richiede anche il parere di regolarità contabile." },
-      { "id": "b", "text": "Il parere di legittimità del segretario comunale e quello del revisore dei conti", "why_wrong": "L'art. 49, comma 1, richiede il parere di regolarità tecnica del responsabile del servizio e quello di regolarità contabile del responsabile di ragioneria." },
-      { "id": "c", "text": "Nessun parere, trattandosi di una deliberazione del consiglio", "why_wrong": "L'art. 49, comma 1, riguarda le proposte sottoposte sia alla giunta sia al consiglio." },
+      { "id": "a", "text": "Il solo parere di regolarità tecnica del responsabile del servizio interessato, che deve essere inserito nel testo della deliberazione", "why_wrong": "Quando la proposta ha riflessi economico-finanziari o sul patrimonio, l'art. 49, comma 1, richiede anche il parere di regolarità contabile del responsabile di ragioneria." },
+      { "id": "b", "text": "Il parere di legittimità del segretario comunale sulla proposta e quello di regolarità contabile espresso dall'organo di revisione economico-finanziaria", "why_wrong": "L'art. 49, comma 1, richiede il parere tecnico del responsabile del servizio e quello contabile del responsabile di ragioneria; il segretario interviene solo se l'ente non ha responsabili dei servizi (art. 49, comma 2)." },
+      { "id": "c", "text": "Nessun parere, perché l'obbligo dei pareri riguarda soltanto le proposte di deliberazione sottoposte alla giunta e non quelle del consiglio", "why_wrong": "L'art. 49, comma 1, impone i pareri su ogni proposta di deliberazione sottoposta alla giunta e al consiglio che non sia mero atto di indirizzo." },
       { "id": "d", "text": "Il parere di regolarità tecnica del responsabile del servizio interessato e quello di regolarità contabile del responsabile di ragioneria", "why_wrong": null }
     ],
     "correct": "d",
@@ -497,7 +507,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 49, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -525,10 +536,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il sindaco di un Comune di 40.000 abitanti ha svolto due mandati consecutivi. Il primo è durato meno di due anni, sei mesi e un giorno perché il consiglio è stato sciolto per causa diversa dalle dimissioni volontarie del sindaco. Può candidarsi subito per un terzo mandato consecutivo?",
     "options": [
-      { "id": "a", "text": "Sì, perché uno dei due mandati precedenti ha avuto durata inferiore a due anni, sei mesi e un giorno per causa diversa dalle dimissioni volontarie", "why_wrong": null },
-      { "id": "b", "text": "No, perché chi ha ricoperto due mandati consecutivi non è mai immediatamente ricandidabile", "why_wrong": "L'art. 51, comma 3, consente un terzo mandato consecutivo se uno dei due precedenti è durato meno di due anni, sei mesi e un giorno per causa diversa dalle dimissioni volontarie." },
-      { "id": "c", "text": "Sì, perché nei comuni fino a 50.000 abitanti il limite scatta solo allo scadere del terzo mandato", "why_wrong": "Il limite scatta allo scadere del terzo mandato solo nei comuni con popolazione fino a 15.000 abitanti (art. 51, comma 2)." },
-      { "id": "d", "text": "Sì, perché il limite dei mandati non si applica ai comuni con meno di 50.000 abitanti", "why_wrong": "Il limite dei mandati non si applica solo ai comuni con popolazione fino a 5.000 abitanti (art. 51, comma 2)." }
+      { "id": "a", "text": "Sì, perché uno dei due mandati precedenti è durato meno di due anni, sei mesi e un giorno per causa diversa dalle dimissioni volontarie", "why_wrong": null },
+      { "id": "b", "text": "No, perché chi ha ricoperto due mandati consecutivi non è mai immediatamente ricandidabile, a prescindere dalla durata dei mandati svolti", "why_wrong": "La durata conta: l'art. 51, comma 3, consente il terzo mandato consecutivo se uno dei due precedenti è durato meno di due anni, sei mesi e un giorno per causa diversa dalle dimissioni volontarie." },
+      { "id": "c", "text": "Sì, perché nei comuni con popolazione fino a 50.000 abitanti il limite dei mandati scatta solo allo scadere del terzo mandato", "why_wrong": "La soglia per l'applicazione del limite allo scadere del terzo mandato è di 15.000 abitanti, non di 50.000 (art. 51, comma 2)." },
+      { "id": "d", "text": "Sì, perché il divieto di immediata ricandidatura dopo due mandati non si applica ai comuni con meno di 50.000 abitanti", "why_wrong": "Il divieto non si applica solo ai comuni con popolazione fino a 5.000 abitanti, non fino a 50.000 (art. 51, comma 2)." }
     ],
     "correct": "a",
     "explanation": "Chi ha svolto due mandati consecutivi da sindaco non è immediatamente ricandidabile, ma è consentito un terzo mandato consecutivo se uno dei due precedenti è durato meno di due anni, sei mesi e un giorno per causa diversa dalle dimissioni volontarie.",
@@ -537,7 +548,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 51, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -545,10 +557,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "La mozione di sfiducia nei confronti del sindaco:",
     "options": [
-      { "id": "a", "text": "Deve essere sottoscritta da almeno un quinto dei consiglieri e discussa entro venti giorni", "why_wrong": "Un quinto dei consiglieri e venti giorni riguardano la richiesta di convocazione del consiglio (art. 39, comma 2), non la mozione di sfiducia." },
-      { "id": "b", "text": "Deve essere motivata e sottoscritta da almeno due quinti dei consiglieri assegnati, senza computare il sindaco, ed è discussa non prima di dieci e non oltre trenta giorni dalla presentazione", "why_wrong": null },
-      { "id": "c", "text": "È approvata con votazione a scrutinio segreto dalla maggioranza dei presenti", "why_wrong": "L'art. 52, comma 2, richiede il voto per appello nominale della maggioranza assoluta dei componenti il consiglio." },
-      { "id": "d", "text": "Si considera implicitamente approvata quando il consiglio respinge una proposta della giunta", "why_wrong": "Il voto contrario del consiglio a una proposta del sindaco o della giunta non comporta le dimissioni degli stessi (art. 52, comma 1)." }
+      { "id": "a", "text": "Deve essere sottoscritta da almeno un quinto dei consiglieri assegnati ed è discussa in un termine non superiore ai venti giorni dalla sua presentazione", "why_wrong": "Un quinto dei consiglieri e venti giorni riguardano la richiesta di convocazione del consiglio (art. 39, comma 2), non la mozione di sfiducia (art. 52, comma 2)." },
+      { "id": "b", "text": "Deve essere motivata e sottoscritta da almeno due quinti dei consiglieri assegnati, sindaco escluso, ed è discussa tra il decimo e il trentesimo giorno dalla presentazione", "why_wrong": null },
+      { "id": "c", "text": "È approvata a scrutinio segreto dalla maggioranza dei consiglieri presenti, purché sia presente almeno un terzo dei consiglieri assegnati per legge all'ente", "why_wrong": "L'art. 52, comma 2, richiede il voto per appello nominale della maggioranza assoluta dei componenti; il terzo dei consiglieri assegnati è il minimo per la validità delle sedute (art. 38, comma 2)." },
+      { "id": "d", "text": "Si considera implicitamente approvata quando il consiglio vota contro una proposta del sindaco o della giunta, che per effetto di tale voto cessano immediatamente dalla carica", "why_wrong": "Il voto contrario del consiglio a una proposta del sindaco o della giunta non ne comporta le dimissioni (art. 52, comma 1); la cessazione deriva dall'approvazione della mozione di sfiducia (art. 52, comma 2)." }
     ],
     "correct": "b",
     "explanation": "La mozione di sfiducia va motivata e sottoscritta da almeno due quinti dei consiglieri assegnati (sindaco escluso), discussa tra il decimo e il trentesimo giorno dalla presentazione e approvata per appello nominale dalla maggioranza assoluta dei componenti; se approvata, il consiglio è sciolto e si nomina un commissario.",
@@ -557,7 +569,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 52, comma 2", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -565,10 +578,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il sindaco di un Comune muore durante il mandato. Cosa prevede il TUEL?",
     "options": [
-      { "id": "a", "text": "Il vicesindaco diventa sindaco fino alla scadenza naturale del mandato", "why_wrong": "Il vicesindaco svolge le funzioni del sindaco solo fino alle nuove elezioni, perché il consiglio viene sciolto (art. 53, comma 1)." },
-      { "id": "b", "text": "Il consiglio elegge un nuovo sindaco tra i propri componenti", "why_wrong": "Il sindaco è eletto a suffragio universale e diretto; in caso di decesso si scioglie il consiglio e si va a nuove elezioni (art. 53, comma 1)." },
-      { "id": "c", "text": "Si procede allo scioglimento del consiglio e alla immediata nomina di un commissario, che sostituisce consiglio e giunta", "why_wrong": "La contestuale nomina di un commissario è prevista per le dimissioni del sindaco (art. 53, comma 3); in caso di decesso consiglio e giunta restano in carica fino alle elezioni." },
-      { "id": "d", "text": "La giunta decade e il consiglio è sciolto, ma consiglio e giunta restano in carica fino alle nuove elezioni e le funzioni del sindaco sono svolte dal vicesindaco", "why_wrong": null }
+      { "id": "a", "text": "Il vicesindaco assume la carica di sindaco fino alla scadenza naturale del mandato, mentre il consiglio e la giunta restano regolarmente in carica", "why_wrong": "La giunta decade e il consiglio è sciolto; il vicesindaco svolge le funzioni del sindaco solo fino alle nuove elezioni (art. 53, comma 1)." },
+      { "id": "b", "text": "Il consiglio elegge a maggioranza assoluta un nuovo sindaco tra i propri componenti, che resta in carica fino alla scadenza del mandato", "why_wrong": "Il sindaco è eletto a suffragio universale e diretto (art. 46, comma 1); in caso di decesso si scioglie il consiglio e si va a nuove elezioni (art. 53, comma 1)." },
+      { "id": "c", "text": "Si procede allo scioglimento del consiglio e alla immediata nomina di un commissario, che sostituisce il consiglio e la giunta fino allo svolgimento delle nuove elezioni", "why_wrong": "La contestuale nomina di un commissario è prevista per le dimissioni del sindaco (art. 53, comma 3); in caso di decesso consiglio e giunta restano in carica fino alle elezioni (art. 53, comma 1)." },
+      { "id": "d", "text": "La giunta decade e il consiglio è sciolto, ma entrambi restano in carica fino alle nuove elezioni e le funzioni del sindaco sono svolte dal vicesindaco", "why_wrong": null }
     ],
     "correct": "d",
     "explanation": "In caso di impedimento permanente, rimozione, decadenza o decesso del sindaco, la giunta decade e il consiglio è sciolto; consiglio e giunta restano in carica fino all'elezione dei nuovi organi e le funzioni del sindaco sono svolte dal vicesindaco.",
@@ -577,7 +590,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 53, comma 1", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -585,10 +599,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Le dimissioni presentate dal sindaco al consiglio comunale:",
     "options": [
-      { "id": "a", "text": "Sono immediatamente efficaci e irrevocabili", "why_wrong": "L'immediata efficacia riguarda le dimissioni dei consiglieri (art. 38, comma 8); quelle del sindaco diventano efficaci dopo 20 giorni." },
-      { "id": "b", "text": "Diventano efficaci ed irrevocabili trascorso il termine di 20 giorni dalla loro presentazione al consiglio", "why_wrong": null },
-      { "id": "c", "text": "Devono essere accettate dal consiglio con deliberazione a maggioranza assoluta", "why_wrong": "L'art. 53, comma 3, non prevede alcuna accettazione: le dimissioni diventano efficaci per il solo decorso di 20 giorni." },
-      { "id": "d", "text": "Diventano efficaci trascorsi 30 giorni, durante i quali il consiglio può respingerle", "why_wrong": "L'art. 53, comma 3, fissa il termine di 20 giorni e non prevede che il consiglio possa respingerle." }
+      { "id": "a", "text": "Sono immediatamente efficaci e irrevocabili e non necessitano di presa d'atto da parte del consiglio", "why_wrong": "L'immediata efficacia senza presa d'atto riguarda le dimissioni dei consiglieri (art. 38, comma 8); quelle del sindaco diventano efficaci dopo 20 giorni (art. 53, comma 3)." },
+      { "id": "b", "text": "Diventano efficaci ed irrevocabili trascorsi 20 giorni dalla loro presentazione al consiglio", "why_wrong": null },
+      { "id": "c", "text": "Devono essere accettate dal consiglio, con deliberazione a maggioranza assoluta dei componenti", "why_wrong": "L'art. 53, comma 3, non prevede alcuna accettazione né maggioranza: le dimissioni diventano efficaci per il solo decorso di 20 giorni dalla presentazione." },
+      { "id": "d", "text": "Diventano efficaci trascorsi 30 giorni dalla presentazione, durante i quali il consiglio può respingerle", "why_wrong": "L'art. 53, comma 3, fissa il termine di 20 giorni, non di 30, e non attribuisce al consiglio il potere di respingerle: decorso il termine sono irrevocabili." }
     ],
     "correct": "b",
     "explanation": "Le dimissioni del sindaco diventano efficaci ed irrevocabili trascorsi 20 giorni dalla presentazione al consiglio; ne seguono lo scioglimento del consiglio e la contestuale nomina di un commissario.",
@@ -597,7 +611,8 @@
     ],
     "source": { "act": "D.Lgs. 267/2000 (TUEL)", "article": "art. 53, comma 3", "file": "sources/TUEL.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]
