@@ -1,0 +1,392 @@
+[
+  {
+    "id": "tti-gio-001",
+    "subject": "teoria-tecniche-informazione",
+    "question": "In ambito giornalistico, per \"notiziabilità\" si intende:",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'insieme dei criteri con cui si stabilisce se un fatto merita di diventare una notizia",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La tecnica di scrittura che colloca le informazioni più importanti all'inizio dell'articolo",
+        "why_wrong": "È la tecnica della piramide rovesciata."
+      },
+      {
+        "id": "c",
+        "text": "Il controllo dell'attendibilità delle fonti prima della pubblicazione",
+        "why_wrong": "È la verifica delle fonti."
+      },
+      {
+        "id": "d",
+        "text": "Il primo paragrafo dell'articolo, che riassume le informazioni essenziali",
+        "why_wrong": "È il lead (attacco)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La notiziabilità è l'attitudine di un fatto a essere trasformato in notizia. Si valuta attraverso i valori notizia, come la vicinanza, la rilevanza, il numero di persone coinvolte, la notorietà dei protagonisti, la novità.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: notiziabilità e valori notizia",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-002",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nella stessa giornata un quotidiano locale dedica un ampio articolo a un incidente con due feriti avvenuto in città e solo un breve trafiletto a un incidente più grave avvenuto all'estero. Il valore notizia che ha orientato la scelta è soprattutto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il numero di persone coinvolte",
+        "why_wrong": "In base a questo criterio avrebbe prevalso l'incidente all'estero, più grave."
+      },
+      {
+        "id": "b",
+        "text": "La notorietà dei protagonisti",
+        "why_wrong": "Nel caso descritto nessuno dei due incidenti coinvolge personaggi noti."
+      },
+      {
+        "id": "c",
+        "text": "La vicinanza (prossimità) dell'evento al pubblico",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "La possibilità di prevedere l'evento",
+        "why_wrong": "Entrambi gli incidenti sono eventi imprevisti; non è questo l'elemento che li distingue."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La vicinanza, geografica o culturale, è uno dei principali valori notizia: un fatto accaduto vicino ai lettori li interessa di più, anche se meno grave di un fatto lontano.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: notiziabilità e valori notizia",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-003",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Secondo la regola delle 5 W, una notizia completa deve rispondere alle domande:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chi dice che cosa, attraverso quale canale, a chi, con quale effetto",
+        "why_wrong": "È la formula di Lasswell, un modello della comunicazione."
+      },
+      {
+        "id": "b",
+        "text": "Chi (who), che cosa (what), quando (when), dove (where), perché (why)",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Chi (who), che cosa (what), per chi (whom), quanto (which), come (way)",
+        "why_wrong": "Le 5 W non comprendono questi elementi; le domande sono chi, che cosa, quando, dove, perché."
+      },
+      {
+        "id": "d",
+        "text": "Fonte, messaggio, canale, codice, destinatario",
+        "why_wrong": "Sono elementi della comunicazione, non le domande della regola delle 5 W."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La regola delle 5 W indica le informazioni essenziali di una notizia: chi è coinvolto (who), che cosa è successo (what), quando (when), dove (where) e perché (why).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: regola delle 5 W",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-004",
+    "subject": "teoria-tecniche-informazione",
+    "question": "La tecnica di scrittura giornalistica detta \"piramide rovesciata\" prevede che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il racconto segua l'ordine cronologico degli eventi, dal primo all'ultimo",
+        "why_wrong": "È la struttura cronologica, diversa dalla piramide rovesciata, che parte dal fatto principale."
+      },
+      {
+        "id": "b",
+        "text": "La notizia principale sia rivelata solo nelle ultime righe, per creare attesa",
+        "why_wrong": "È la struttura della suspense, opposta alla piramide rovesciata."
+      },
+      {
+        "id": "c",
+        "text": "Il titolo sia posto sotto il sommario",
+        "why_wrong": "Il sommario si trova sotto il titolo, non sopra."
+      },
+      {
+        "id": "d",
+        "text": "Le informazioni più importanti siano collocate all'inizio e seguite da quelle via via meno importanti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Nella piramide rovesciata l'articolo si apre con le informazioni essenziali (di solito le risposte alle 5 W) e prosegue con dettagli e approfondimenti di importanza decrescente.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: piramide rovesciata",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-005",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un articolo scritto secondo la piramide rovesciata deve essere accorciato all'ultimo momento per ragioni di spazio. Qual è la conseguenza tipica di questa struttura?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'articolo può essere tagliato dal fondo senza perdere le informazioni essenziali",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "L'articolo deve essere interamente riscritto, perché la conclusione contiene la notizia principale",
+        "why_wrong": "Nella piramide rovesciata la notizia principale sta all'inizio, non alla fine."
+      },
+      {
+        "id": "c",
+        "text": "Occorre eliminare il lead, che contiene soltanto elementi di contorno",
+        "why_wrong": "Il lead contiene le informazioni essenziali ed è l'ultima parte da eliminare."
+      },
+      {
+        "id": "d",
+        "text": "Si deve riordinare il testo in ordine cronologico",
+        "why_wrong": "La piramide rovesciata segue l'ordine di importanza, non quello cronologico."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Poiché le informazioni sono disposte in ordine di importanza decrescente, i paragrafi finali contengono i dettagli meno rilevanti: tagliando dal fondo il senso della notizia resta intatto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: piramide rovesciata",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-006",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nell'articolo di cronaca, il lead (o attacco) è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La riga posta sopra il titolo, che introduce l'argomento",
+        "why_wrong": "È l'occhiello."
+      },
+      {
+        "id": "b",
+        "text": "Il testo che accompagna una fotografia",
+        "why_wrong": "È la didascalia."
+      },
+      {
+        "id": "c",
+        "text": "Il paragrafo iniziale, che riassume le informazioni essenziali della notizia rispondendo alle principali domande delle 5 W",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'elenco delle fonti consultate, collocato in fondo all'articolo",
+        "why_wrong": "Il lead è in apertura dell'articolo e contiene la notizia, non le fonti."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il lead è l'apertura dell'articolo: in poche righe deve dare al lettore il nucleo della notizia, di norma rispondendo a chi, che cosa, quando, dove e perché.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: lead",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-007",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nella titolazione di un articolo di giornale, la riga posta sopra il titolo, che introduce o inquadra l'argomento, si chiama:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sommario",
+        "why_wrong": "Il sommario si trova sotto il titolo e ne sviluppa il contenuto."
+      },
+      {
+        "id": "b",
+        "text": "Occhiello",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Lead",
+        "why_wrong": "Il lead è il primo paragrafo del testo dell'articolo, non un elemento della titolazione."
+      },
+      {
+        "id": "d",
+        "text": "Didascalia",
+        "why_wrong": "La didascalia è il testo che accompagna un'immagine."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La titolazione classica si compone di occhiello (sopra il titolo, introduce l'argomento), titolo (la frase principale, in caratteri più grandi) e sommario (sotto il titolo, aggiunge informazioni).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: titolazione e struttura dell'articolo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-008",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un giornalista riceve tramite un social network la foto di una presunta ordinanza del sindaco che chiude tutte le scuole della città. Qual è il comportamento corretto prima di pubblicare la notizia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pubblicarla subito, perché il documento sembra autentico e la notizia è urgente",
+        "why_wrong": "L'urgenza non esonera dal verificare la notizia prima di pubblicarla."
+      },
+      {
+        "id": "b",
+        "text": "Pubblicarla precisando che la notizia circola sui social, senza ulteriori controlli",
+        "why_wrong": "Riportare un contenuto non verificato, anche citandone la provenienza, non sostituisce la verifica."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicarla solo se la foto ha ricevuto molte condivisioni",
+        "why_wrong": "La diffusione di un contenuto non ne dimostra l'autenticità."
+      },
+      {
+        "id": "d",
+        "text": "Verificarla alla fonte originaria, per esempio consultando l'atto pubblicato dal Comune o contattando l'ufficio competente",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La verifica delle fonti impone di risalire alla fonte primaria (nel caso di un atto pubblico, l'ente che lo ha adottato) o di ottenere conferme indipendenti prima di pubblicare, soprattutto per contenuti circolati sui social network.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: verifica delle fonti",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-009",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un giornalista deve dare notizia di un fatto di cronaca in cui è coinvolto un minorenne. Secondo i principi della deontologia giornalistica, deve:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pubblicarne il nome solo se il fatto è molto grave",
+        "why_wrong": "La gravità del fatto non giustifica l'identificazione del minore."
+      },
+      {
+        "id": "b",
+        "text": "Evitare di pubblicarne il nome e ogni elemento che possa renderlo identificabile",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Pubblicarne liberamente nome e fotografia, perché si tratta di un fatto di cronaca",
+        "why_wrong": "La tutela del minore prevale sul diritto di cronaca per quanto riguarda la sua identificazione."
+      },
+      {
+        "id": "d",
+        "text": "Limitarsi a pubblicarne le iniziali e l'indirizzo di residenza",
+        "why_wrong": "Anche le iniziali e l'indirizzo possono rendere identificabile il minore."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La tutela dei minori è uno dei principi fondamentali della deontologia giornalistica: non vanno pubblicati il nome del minore né dati (come foto, indirizzo, scuola, nomi dei familiari) che ne consentano l'identificazione.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: principi di deontologia giornalistica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-gio-010",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un giornalista si accorge che in un articolo già pubblicato ha riportato un dato errato. Secondo i principi della deontologia giornalistica, deve:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Correggere tempestivamente l'errore con una rettifica adeguatamente visibile",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Attendere che l'interessato presenti un reclamo formale",
+        "why_wrong": "Il dovere di rettificare gli errori non dipende dalla richiesta dell'interessato."
+      },
+      {
+        "id": "c",
+        "text": "Eliminare l'articolo senza darne conto ai lettori",
+        "why_wrong": "Far sparire l'articolo non corregge l'informazione già diffusa e non ne dà conto ai lettori."
+      },
+      {
+        "id": "d",
+        "text": "Correggere l'errore solo se riguarda persone note",
+        "why_wrong": "Il dovere di rettifica vale per qualsiasi errore, a prescindere da chi riguarda."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il rispetto della verità dei fatti comporta il dovere di rettificare con tempestività le informazioni che risultano inesatte, dando alla correzione un rilievo adeguato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Giornalismo: principi di deontologia giornalistica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

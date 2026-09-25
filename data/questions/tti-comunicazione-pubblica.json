@@ -1,0 +1,392 @@
+[
+  {
+    "id": "tti-cp-001",
+    "subject": "teoria-tecniche-informazione",
+    "question": "La comunicazione politica si distingue dalla comunicazione istituzionale perché:",
+    "options": [
+      {
+        "id": "a",
+        "text": "È svolta esclusivamente attraverso i mezzi di comunicazione di massa",
+        "why_wrong": "La distinzione non dipende dal mezzo utilizzato: entrambe possono servirsi di qualsiasi canale."
+      },
+      {
+        "id": "b",
+        "text": "È promossa da attori politici, come partiti e candidati, con l'obiettivo di ottenere consenso",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Riguarda soltanto le informazioni sugli orari e sulle modalità di accesso ai servizi",
+        "why_wrong": "Informare sui servizi è un compito tipico della comunicazione istituzionale."
+      },
+      {
+        "id": "d",
+        "text": "È rivolta unicamente ai dipendenti dell'ente",
+        "why_wrong": "Rivolgersi ai dipendenti è proprio della comunicazione interna, non di quella politica."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La comunicazione istituzionale è svolta dall'ente pubblico per informare sulla propria attività e sui servizi e per rafforzare il rapporto con i cittadini; la comunicazione politica è promossa da soggetti politici e mira alla ricerca del consenso.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Comunicazione pubblica, istituzionale e politica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-002",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un Comune pubblica sul proprio sito e sui social un avviso con i nuovi orari di apertura dell'ufficio anagrafe e le modalità di prenotazione. Si tratta di comunicazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Politica",
+        "why_wrong": "La comunicazione politica è promossa da attori politici per ottenere consenso."
+      },
+      {
+        "id": "b",
+        "text": "Commerciale",
+        "why_wrong": "La comunicazione commerciale promuove prodotti o servizi di un'impresa a fini di vendita."
+      },
+      {
+        "id": "c",
+        "text": "Istituzionale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Interpersonale",
+        "why_wrong": "La comunicazione interpersonale avviene tra singoli individui, non da un ente verso il pubblico."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Informare i cittadini sull'accesso ai servizi dell'ente è un tipico esempio di comunicazione istituzionale: è svolta dall'amministrazione, riguarda la sua attività e ha finalità di servizio, non di consenso.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Comunicazione pubblica, istituzionale e politica",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-003",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Il comunicato stampa è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un testo sintetico inviato dall'ente agli organi di informazione per diffondere una notizia che lo riguarda",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un incontro in cui i rappresentanti dell'ente rispondono alle domande dei giornalisti",
+        "why_wrong": "È la conferenza stampa."
+      },
+      {
+        "id": "c",
+        "text": "La raccolta degli articoli pubblicati dai media sull'attività dell'ente",
+        "why_wrong": "È la rassegna stampa."
+      },
+      {
+        "id": "d",
+        "text": "Il documento che programma obiettivi, pubblici, azioni e tempi della comunicazione dell'ente",
+        "why_wrong": "È il piano di comunicazione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comunicato stampa è lo strumento con cui l'ufficio stampa trasmette ai giornalisti una notizia sull'ente, in forma breve e chiara, perché possa essere ripresa dai media.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strumenti: comunicato stampa",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-004",
+    "subject": "teoria-tecniche-informazione",
+    "question": "L'ufficio stampa di un Comune deve redigere un comunicato sull'apertura di un nuovo asilo nido. Quale impostazione è corretta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aprire con una lunga premessa sulla storia delle politiche per l'infanzia dell'ente e indicare la notizia nella parte finale",
+        "why_wrong": "La notizia va data all'inizio; le informazioni di contorno seguono."
+      },
+      {
+        "id": "b",
+        "text": "Indicare nel primo paragrafo le informazioni essenziali (che cosa, dove, quando) e aggiungere dopo i dettagli, i contatti e i riferimenti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Usare il linguaggio tecnico della delibera, così da garantire la precisione giuridica del testo",
+        "why_wrong": "Il comunicato si rivolge ai giornalisti e, tramite loro, ai cittadini: deve essere chiaro e comprensibile."
+      },
+      {
+        "id": "d",
+        "text": "Omettere i riferimenti di un referente, perché il comunicato deve essere autosufficiente",
+        "why_wrong": "L'indicazione dei contatti permette ai giornalisti di chiedere chiarimenti o approfondimenti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Un comunicato efficace segue la logica giornalistica della piramide rovesciata: le informazioni essenziali nel primo paragrafo, poi i dettagli. Il linguaggio deve essere chiaro e devono essere indicati i contatti dell'ufficio stampa.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strumenti: comunicato stampa",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-005",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Rispetto al comunicato stampa, la conferenza stampa ha il vantaggio principale di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Evitare che la notizia venga ripresa dai media",
+        "why_wrong": "Lo scopo della conferenza stampa è proprio favorire la diffusione della notizia."
+      },
+      {
+        "id": "b",
+        "text": "Poter essere utilizzata per qualsiasi notizia, anche di minima rilevanza",
+        "why_wrong": "Proprio perché richiede la presenza dei giornalisti, la conferenza stampa va riservata a notizie di particolare rilievo."
+      },
+      {
+        "id": "c",
+        "text": "Sostituire la rassegna stampa",
+        "why_wrong": "La rassegna stampa raccoglie gli articoli già usciti; ha una funzione diversa."
+      },
+      {
+        "id": "d",
+        "text": "Consentire un contatto diretto con i giornalisti, che possono porre domande e chiedere chiarimenti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La conferenza stampa è un incontro tra i rappresentanti dell'ente e i giornalisti: permette l'interazione diretta e le domande. Poiché richiede ai giornalisti di spostarsi, si riserva alle notizie di particolare rilevanza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strumenti: conferenza stampa",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-006",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un Comune deve informare i media di una modifica marginale all'orario estivo della biblioteca e, qualche settimana dopo, di un grande progetto di riqualificazione del centro storico su cui si prevedono molte domande. Qual è la scelta più appropriata?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un comunicato stampa per la modifica dell'orario e una conferenza stampa per il progetto di riqualificazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Una conferenza stampa per entrambe le notizie",
+        "why_wrong": "Convocare i giornalisti per una notizia marginale è sproporzionato."
+      },
+      {
+        "id": "c",
+        "text": "Un comunicato stampa per il progetto e una conferenza stampa per l'orario della biblioteca",
+        "why_wrong": "È l'abbinamento inverso: la conferenza stampa va riservata alla notizia rilevante e su cui si attendono domande."
+      },
+      {
+        "id": "d",
+        "text": "Nessuna comunicazione ai media: basta attendere la rassegna stampa",
+        "why_wrong": "La rassegna stampa raccoglie quanto già pubblicato dai media, non informa i media."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comunicato stampa è adatto a notizie semplici; la conferenza stampa si giustifica per notizie di grande rilievo, che richiedono spiegazioni e confronto diretto con i giornalisti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strumenti: conferenza stampa",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-007",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nell'attività di un ufficio stampa pubblico, la rassegna stampa è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il documento inviato ai giornalisti per annunciare una notizia",
+        "why_wrong": "È il comunicato stampa."
+      },
+      {
+        "id": "b",
+        "text": "La selezione e raccolta degli articoli e dei servizi dei media che riguardano l'ente o temi di suo interesse, destinata ad amministratori e uffici",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "L'elenco dei giornalisti invitati a una conferenza stampa",
+        "why_wrong": "È la mailing list o l'elenco degli accreditati, non la rassegna stampa."
+      },
+      {
+        "id": "d",
+        "text": "Il materiale informativo consegnato ai giornalisti durante una conferenza stampa",
+        "why_wrong": "È la cartella stampa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La rassegna stampa raccoglie, di solito ogni giorno, gli articoli e i servizi dei media sull'ente e sui temi che lo interessano: serve ad amministratori e uffici per conoscere come i media rappresentano l'attività dell'ente.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strumenti: rassegna stampa",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-008",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Il piano di comunicazione di un ente pubblico è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La raccolta quotidiana degli articoli che parlano dell'ente",
+        "why_wrong": "È la rassegna stampa."
+      },
+      {
+        "id": "b",
+        "text": "L'elenco dei comunicati stampa inviati nell'anno",
+        "why_wrong": "È solo un archivio delle attività svolte, non uno strumento di programmazione."
+      },
+      {
+        "id": "c",
+        "text": "Uno strumento di programmazione che definisce obiettivi, pubblici di riferimento, azioni, strumenti, tempi, risorse e modalità di valutazione della comunicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il regolamento che disciplina l'organizzazione dell'ufficio stampa",
+        "why_wrong": "Il piano non disciplina l'organizzazione degli uffici, ma programma le attività di comunicazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il piano di comunicazione programma e coordina le attività comunicative dell'ente: parte dall'analisi del contesto, fissa obiettivi e pubblici, sceglie azioni e strumenti, definisce tempi e risorse e prevede la valutazione dei risultati.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Piano di comunicazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-009",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un Comune ha realizzato una campagna per promuovere l'uso dei servizi online. Al termine confronta il numero di richieste presentate online prima e dopo la campagna con l'obiettivo fissato nel piano di comunicazione. In quale fase del piano si colloca questa attività?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analisi del contesto",
+        "why_wrong": "L'analisi del contesto precede la definizione degli obiettivi e delle azioni."
+      },
+      {
+        "id": "b",
+        "text": "Individuazione dei pubblici di riferimento",
+        "why_wrong": "Consiste nello stabilire a chi si rivolge la comunicazione."
+      },
+      {
+        "id": "c",
+        "text": "Scelta degli strumenti",
+        "why_wrong": "Consiste nel decidere con quali mezzi comunicare."
+      },
+      {
+        "id": "d",
+        "text": "Valutazione dei risultati",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La valutazione è la fase finale del piano: misura i risultati ottenuti e li confronta con gli obiettivi fissati, fornendo indicazioni per le attività successive.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Piano di comunicazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-cp-010",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Secondo i principi di semplificazione del linguaggio amministrativo, quale formulazione è preferibile per un avviso ai cittadini?",
+    "options": [
+      {
+        "id": "a",
+        "text": "\"Si rende noto che è fatto obbligo ai signori utenti di provvedere al conferimento dei rifiuti ingombranti presso l'isola ecologica\"",
+        "why_wrong": "Usa formule burocratiche, costruzioni impersonali e nominalizzazioni che il linguaggio chiaro invita a evitare."
+      },
+      {
+        "id": "b",
+        "text": "\"Ai sensi della vigente normativa, gli utenti sono tenuti al conferimento dei RAEE e degli ingombranti c/o l'isola ecologica\"",
+        "why_wrong": "Usa sigle e abbreviazioni non spiegate e formule generiche di rinvio alla normativa."
+      },
+      {
+        "id": "c",
+        "text": "\"Dovete portare i rifiuti ingombranti all'isola ecologica\"",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "\"Il conferimento dei rifiuti ingombranti dovrà essere effettuato, a cura degli utenti, presso l'isola ecologica\"",
+        "why_wrong": "Usa la forma passiva e la nominalizzazione, invece di un verbo attivo rivolto direttamente al lettore."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il linguaggio amministrativo chiaro preferisce frasi brevi, verbi in forma attiva, parole di uso comune e un rivolgersi diretto al destinatario; evita formule burocratiche, sigle non spiegate e nominalizzazioni.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Semplificazione del linguaggio amministrativo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

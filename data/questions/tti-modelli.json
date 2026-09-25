@@ -1,0 +1,392 @@
+[
+  {
+    "id": "tti-mod-001",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nel modello della comunicazione di Shannon e Weaver, il termine \"rumore\" indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La risposta che il destinatario invia all'emittente dopo aver ricevuto il messaggio",
+        "why_wrong": "È la definizione di feedback, elemento che non fa parte del modello originario di Shannon e Weaver."
+      },
+      {
+        "id": "b",
+        "text": "L'insieme di segni e regole condiviso da emittente e destinatario",
+        "why_wrong": "È la definizione di codice."
+      },
+      {
+        "id": "c",
+        "text": "Qualsiasi disturbo che interferisce con la trasmissione e altera il segnale tra emittente e destinatario",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il mezzo fisico attraverso il quale viaggia il messaggio",
+        "why_wrong": "È la definizione di canale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Nel modello di Shannon e Weaver il rumore è ogni interferenza che si inserisce nel canale durante la trasmissione e può deformare il segnale, così che il messaggio ricevuto non coincide con quello inviato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: modello di Shannon e Weaver",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-002",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Il modello della comunicazione di Shannon e Weaver, nato nell'ambito delle telecomunicazioni, descrive la comunicazione come:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un processo circolare in cui la risposta del destinatario è l'elemento centrale",
+        "why_wrong": "Il modello originario non prevede il feedback: la circolarità è stata introdotta da modelli successivi."
+      },
+      {
+        "id": "b",
+        "text": "Un flusso che passa dai media ai leader d'opinione e da questi al pubblico",
+        "why_wrong": "È l'ipotesi del flusso a due fasi, una teoria sugli effetti dei media."
+      },
+      {
+        "id": "c",
+        "text": "Una scelta attiva del pubblico, che usa i media per soddisfare i propri bisogni",
+        "why_wrong": "È l'approccio degli usi e gratificazioni."
+      },
+      {
+        "id": "d",
+        "text": "Un processo lineare e unidirezionale di trasmissione di un segnale da una fonte a un destinatario",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il modello di Shannon e Weaver è un modello lineare: una fonte produce un messaggio, un trasmettitore lo codifica in segnale, il segnale attraversa un canale (dove può subire rumore) e un ricevitore lo decodifica per il destinatario. Il ritorno di informazioni dal destinatario (feedback) non è previsto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: modello di Shannon e Weaver",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-003",
+    "subject": "teoria-tecniche-informazione",
+    "question": "La formula di Lasswell descrive un atto comunicativo rispondendo alle domande:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chi? Che cosa? Quando? Dove? Perché?",
+        "why_wrong": "Sono le 5 W del giornalismo, che indicano le informazioni essenziali di una notizia."
+      },
+      {
+        "id": "b",
+        "text": "Chi dice che cosa, attraverso quale canale, a chi, con quale effetto?",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Chi trasmette, con quale codice, in quale contesto, con quale rumore?",
+        "why_wrong": "Codice, contesto e rumore sono elementi della comunicazione, ma non compongono la formula di Lasswell."
+      },
+      {
+        "id": "d",
+        "text": "Chi dice che cosa, a chi, con quale risposta del destinatario verso l'emittente?",
+        "why_wrong": "La risposta del destinatario verso l'emittente è il feedback; la formula di Lasswell si chiude invece con l'effetto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La formula di Lasswell scompone la comunicazione in cinque domande: chi (emittente), dice che cosa (messaggio), attraverso quale canale (mezzo), a chi (destinatario), con quale effetto (conseguenze sul destinatario).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: formula di Lasswell",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-004",
+    "subject": "teoria-tecniche-informazione",
+    "question": "L'ufficio comunicazione di un Comune vuole misurare quanti cittadini hanno effettivamente cambiato le proprie abitudini di raccolta differenziata dopo una campagna informativa. Secondo la formula di Lasswell, l'indagine riguarda l'elemento:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chi",
+        "why_wrong": "Riguarda l'emittente del messaggio, cioè il Comune stesso."
+      },
+      {
+        "id": "b",
+        "text": "Che cosa",
+        "why_wrong": "Riguarda il contenuto del messaggio della campagna."
+      },
+      {
+        "id": "c",
+        "text": "Attraverso quale canale",
+        "why_wrong": "Riguarda i mezzi utilizzati per diffondere il messaggio."
+      },
+      {
+        "id": "d",
+        "text": "Con quale effetto",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Nella formula di Lasswell l'ultimo elemento, \"con quale effetto\", riguarda le conseguenze che il messaggio produce sul destinatario: misurare il cambiamento dei comportamenti dopo una campagna significa analizzarne gli effetti.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: formula di Lasswell",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-005",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un operatore dell'URP risponde al telefono e, sentendo la linea disturbata, chiede: \"Pronto, mi sente?\". Secondo lo schema di Jakobson, prevale la funzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fatica",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Conativa",
+        "why_wrong": "La funzione conativa è orientata al destinatario e mira a ottenere da lui un comportamento."
+      },
+      {
+        "id": "c",
+        "text": "Referenziale",
+        "why_wrong": "La funzione referenziale è orientata al contesto e trasmette informazioni sulla realtà."
+      },
+      {
+        "id": "d",
+        "text": "Poetica",
+        "why_wrong": "La funzione poetica è orientata alla forma del messaggio stesso."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nello schema di Jakobson la funzione fatica è orientata al canale: serve ad aprire, mantenere o verificare il contatto tra gli interlocutori, come nel \"Pronto, mi sente?\".",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: funzioni del linguaggio di Jakobson",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-006",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Un avviso del Comune riporta: \"Presentate la domanda entro il 30 giugno\". Secondo lo schema di Jakobson, prevale la funzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Emotiva",
+        "why_wrong": "La funzione emotiva è orientata all'emittente ed esprime i suoi stati d'animo."
+      },
+      {
+        "id": "b",
+        "text": "Conativa",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Metalinguistica",
+        "why_wrong": "La funzione metalinguistica è orientata al codice e serve a spiegarlo."
+      },
+      {
+        "id": "d",
+        "text": "Fatica",
+        "why_wrong": "La funzione fatica è orientata al canale e serve a mantenere il contatto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La funzione conativa è orientata al destinatario: il messaggio cerca di influenzarne il comportamento, tipicamente con l'imperativo o il vocativo, come in un invito a presentare una domanda.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: funzioni del linguaggio di Jakobson",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-007",
+    "subject": "teoria-tecniche-informazione",
+    "question": "In un bando si legge: \"Ai fini del presente avviso, per 'nucleo familiare' si intende l'insieme delle persone risultanti dallo stato di famiglia\". Secondo lo schema di Jakobson, la frase svolge principalmente la funzione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Referenziale",
+        "why_wrong": "La funzione referenziale fornisce informazioni sulla realtà esterna, non sul significato delle parole usate."
+      },
+      {
+        "id": "b",
+        "text": "Poetica",
+        "why_wrong": "La funzione poetica è orientata alla forma del messaggio."
+      },
+      {
+        "id": "c",
+        "text": "Metalinguistica",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Emotiva",
+        "why_wrong": "La funzione emotiva esprime gli stati d'animo dell'emittente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La funzione metalinguistica è orientata al codice: si ha quando il linguaggio viene usato per spiegare il linguaggio stesso, per esempio definendo il significato di un termine.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Modelli della comunicazione: funzioni del linguaggio di Jakobson",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-008",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Tra gli elementi della comunicazione, il \"codice\" è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il mezzo fisico attraverso cui passa il messaggio, come l'aria o la linea telefonica",
+        "why_wrong": "È la definizione di canale."
+      },
+      {
+        "id": "b",
+        "text": "La situazione in cui avviene lo scambio comunicativo",
+        "why_wrong": "È la definizione di contesto."
+      },
+      {
+        "id": "c",
+        "text": "Il contenuto informativo trasmesso dall'emittente",
+        "why_wrong": "È la definizione di messaggio."
+      },
+      {
+        "id": "d",
+        "text": "Il sistema di segni e di regole, condiviso da emittente e destinatario, con cui il messaggio viene formulato e interpretato",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il codice è il sistema di segni e di regole per combinarli (per esempio una lingua). Perché la comunicazione riesca, emittente e destinatario devono condividerlo: il primo codifica il messaggio, il secondo lo decodifica.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Elementi della comunicazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-009",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Durante un incontro pubblico sul nuovo regolamento dei rifiuti, le domande dei cittadini permettono al funzionario di capire che un punto non era stato compreso e di spiegarlo di nuovo. Le domande dei cittadini costituiscono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il feedback",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il rumore",
+        "why_wrong": "Il rumore è un disturbo che altera la trasmissione del messaggio, non una risposta del destinatario."
+      },
+      {
+        "id": "c",
+        "text": "Il codice",
+        "why_wrong": "Il codice è il sistema di segni condiviso con cui si formula il messaggio."
+      },
+      {
+        "id": "d",
+        "text": "Il canale",
+        "why_wrong": "Il canale è il mezzo fisico attraverso cui passa il messaggio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il feedback è la risposta del destinatario che ritorna all'emittente: gli consente di verificare se il messaggio è stato ricevuto e compreso e, se necessario, di correggerlo.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Elementi della comunicazione",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tti-mod-010",
+    "subject": "teoria-tecniche-informazione",
+    "question": "Nello studio della comunicazione non verbale, la prossemica si occupa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dei movimenti del corpo, dei gesti e delle espressioni del volto",
+        "why_wrong": "È l'oggetto della cinesica."
+      },
+      {
+        "id": "b",
+        "text": "Del tono, del volume e del ritmo della voce",
+        "why_wrong": "Sono gli aspetti paraverbali della comunicazione."
+      },
+      {
+        "id": "c",
+        "text": "Dell'uso dello spazio e delle distanze tra le persone durante l'interazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Della scelta delle parole e della costruzione delle frasi",
+        "why_wrong": "Riguarda la comunicazione verbale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La prossemica studia il significato comunicativo dello spazio e della distanza che le persone mantengono tra loro durante un'interazione; è una delle componenti della comunicazione non verbale, insieme a gesti, postura ed espressioni del volto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Comunicazione verbale e non verbale",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
