@@ -54,22 +54,22 @@
     "options": [
       {
         "id": "a",
-        "text": "rimborsa il 100 % degli importi richiesti entro 80 giorni",
+        "text": "rimborsa, entro 80 giorni dal ricevimento della domanda, il 100 % degli importi in essa figuranti",
         "why_wrong": "La Commissione rimborsa il 95 % entro 60 giorni (art. 93, par. 1 e 2); 80 giorni è il termine per i pagamenti dell'autorità di gestione ai beneficiari (art. 74, par. 1, lett. b))."
       },
       {
         "id": "b",
-        "text": "rimborsa il 90 % degli importi, trattenendo il 10 % fino alla chiusura del programma",
-        "why_wrong": "La quota rimborsata è il 95 % (art. 93, par. 2); il 10 % è la maggiorazione che può essere richiesta nei casi dell'art. 93, par. 6."
+        "text": "rimborsa il 90 % degli importi figuranti nella domanda, trattenendo il 10 % fino alla chiusura del programma",
+        "why_wrong": "La quota rimborsata è il 95 % e gli importi residui sono determinati in sede di calcolo del saldo dei conti (art. 93, par. 2); il 10 % è la maggiorazione dell'art. 93, par. 6."
       },
       {
         "id": "c",
-        "text": "versa lo 0,5 % del sostegno totale a titolo di prefinanziamento",
-        "why_wrong": "Il prefinanziamento è una tipologia di pagamento distinta dai pagamenti intermedi (art. 89), versato in rate annuali (art. 90, par. 2)."
+        "text": "versa, entro 60 giorni dal ricevimento della domanda, lo 0,5 % del sostegno totale del programma",
+        "why_wrong": "Lo 0,5 % del sostegno totale è la rata annuale di prefinanziamento (art. 90, par. 2); a titolo di pagamenti intermedi si rimborsa il 95 % degli importi della domanda (art. 93, par. 2)."
       },
       {
         "id": "d",
-        "text": "rimborsa, entro 60 giorni dal ricevimento della domanda, il 95 % degli importi figuranti nella domanda di pagamento",
+        "text": "rimborsa, entro 60 giorni dal ricevimento della domanda, il 95 % degli importi in essa figuranti",
         "why_wrong": null
       }
     ],
@@ -92,8 +92,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-pag-003",
@@ -102,23 +103,23 @@
     "options": [
       {
         "id": "a",
-        "text": "è presentato entro il 31 luglio e comprende la domanda di pagamento finale",
+        "text": "è presentato entro il 31 luglio e comprende la domanda di pagamento finale, i conti e la dichiarazione di gestione del periodo contabile terminato il 30 giugno",
         "why_wrong": "Il 31 luglio è il termine per la domanda di pagamento finale del periodo contabile (art. 91, par. 1); il pacchetto è presentato entro il 15 febbraio (art. 98, par. 1)."
       },
       {
         "id": "b",
-        "text": "è presentato entro il 31 maggio e comprende la strategia di audit",
-        "why_wrong": "Entro il 31 maggio la Commissione esamina i conti (art. 99); la strategia di audit è presentata alla Commissione su richiesta (art. 78, par. 2)."
+        "text": "è presentato entro il 31 maggio e comprende la strategia di audit, il parere di audit annuale e la relazione annuale di controllo del periodo contabile precedente",
+        "why_wrong": "Entro il 31 maggio la Commissione esamina i conti (art. 99); la strategia di audit è presentata alla Commissione su richiesta (art. 78, par. 2); il pacchetto è presentato entro il 15 febbraio (art. 98, par. 1)."
       },
       {
         "id": "c",
-        "text": "è presentato entro il 15 febbraio e comprende i conti, la dichiarazione di gestione, il parere di audit annuale e la relazione annuale di controllo, riferiti al periodo contabile precedente",
+        "text": "è presentato entro il 15 febbraio e comprende conti, dichiarazione di gestione, parere di audit annuale e relazione annuale di controllo del periodo contabile precedente",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "è presentato entro il 30 giugno e comprende il piano di finanziamento modificato",
-        "why_wrong": "Il 30 giugno è il termine per presentare il piano di finanziamento modificato nella procedura di disimpegno (art. 107, par. 3)."
+        "text": "è presentato entro il 30 giugno e comprende il piano di finanziamento modificato, i conti, la dichiarazione di gestione e il parere di audit del periodo contabile precedente",
+        "why_wrong": "Il 30 giugno è il termine per presentare il piano di finanziamento modificato nella procedura di disimpegno (art. 107, par. 3); il pacchetto è presentato entro il 15 febbraio (art. 98, par. 1)."
       }
     ],
     "correct": "c",
@@ -136,8 +137,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-pag-004",
@@ -146,22 +148,22 @@
     "options": [
       {
         "id": "a",
-        "text": "i conti restano ammissibili, purché l'autorità di audit emetta un parere con riserve",
+        "text": "i conti restano ammissibili senza detrazioni, purché l'autorità di audit emetta un parere di audit con riserve",
         "why_wrong": "Ai sensi dell'art. 98, par. 5, i conti non sono ammissibili se non sono state adottate le azioni correttive per ridurre il tasso di errore residuo al 2 % o meno."
       },
       {
         "id": "b",
-        "text": "lo Stato membro detrae dai conti gli importi necessari per ridurre il tasso di errore residuo a un livello pari o inferiore al 2 %",
+        "text": "lo Stato membro detrae dai conti gli importi necessari a ridurre il tasso di errore residuo al 2 % o meno",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "la Commissione sospende automaticamente tutti i pagamenti del programma",
-        "why_wrong": "La sospensione non è automatica: la Commissione «può» sospendere i pagamenti nei casi dell'art. 97, par. 1, dopo aver dato allo Stato membro la possibilità di presentare osservazioni."
+        "text": "la Commissione sospende automaticamente tutti i pagamenti del programma, compreso il prefinanziamento",
+        "why_wrong": "La Commissione «può» sospendere i pagamenti, escluso il prefinanziamento, nei casi dell'art. 97, par. 1, dopo aver dato allo Stato membro la possibilità di presentare osservazioni."
       },
       {
         "id": "d",
-        "text": "lo Stato membro può presentare i conti entro il 1° marzo senza alcuna detrazione",
+        "text": "lo Stato membro chiede la proroga al 1° marzo e presenta i conti senza procedere ad alcuna detrazione",
         "why_wrong": "Il 1° marzo è il termine a cui la Commissione può eccezionalmente prorogare la presentazione (art. 98, par. 2); non esonera dalle detrazioni del par. 6."
       }
     ],
@@ -184,8 +186,9 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "rivista",
-    "no_shuffle": false
+    "status": "da_verificare",
+    "no_shuffle": false,
+    "rev": 2
   },
   {
     "id": "re-pag-005",
