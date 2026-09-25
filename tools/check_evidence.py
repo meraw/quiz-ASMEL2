@@ -13,7 +13,9 @@ For each question with an `evidence` list, and for each item in it:
      article made of a single unnumbered paragraph is cited as "art. 16":
      the quote must be inside that article. When one source file holds two
      treaties with their own article numbers (TUE and TFUE), the treaty
-     follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE";
+     follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE".
+     An EU regulation may be named the same way, "art. 5 Reg. 2021/1060,
+     par. 1": the year and number must appear in the source file name;
   2. `text` must appear, word for word, inside THAT comma of THAT article
      of the source file. When an article has no numbered commas (e.g. the
      codice penale), its commas are its paragraphs, counted from 1 after the
@@ -63,7 +65,10 @@ ARTICLE_RE = re.compile(r'^\s*Art(?:\.|icolo)\s+(\d+' + SUFFIX + r')\.?\s*$')
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
 # Optional treaty after the article number ("art. 5 TUE", "art. 288 TFUE"):
 # see TREATY_RE
-ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE))?)'
+ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE|Reg\.\s+\d{4}/\d+))?)'
+# Optional regulation after the article number ("art. 5 Reg. 2021/1060, par. 1"):
+# it names the act, so it must match the year and number in the source file name
+REG_RE = re.compile(r'\s+Reg\.\s+(\d{4})/(\d+)$')
 REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
                     r'(?:,\s+lett\.\s+[a-z]+\))?$')
 # "art. 4, punto 7": a numbered point "7)" of an article made of points
@@ -340,13 +345,21 @@ def main():
                     errors.append('%s evidence %d: ref %r is not in the form "art. X, comma Y" (or "par. Y", "punto Y", "art. X")' % (qid, i, ref))
                     continue
                 refs.append(ref.strip())
+                grp = norm((w or m or p).group(1))
+                reg = REG_RE.search(grp)
+                if reg:
+                    name = os.path.basename(path)
+                    if not re.search(r'\b%s\D+%s\b' % reg.groups(), name):
+                        errors.append('%s evidence %d: ref %r names a regulation that is not %s' % (qid, i, ref, name))
+                        continue
+                    grp = grp[:reg.start()]
                 if w:
-                    art = norm(w.group(1))
+                    art = grp
                     commas = [t for c, t in law.get(art, {}).items() if not c.startswith('punto ')]
                     body = ' '.join(commas) if commas else None
                 else:
-                    art, com = m.groups() if m else (p.group(1), 'punto ' + p.group(2))
-                    art = norm(art)
+                    com = m.group(2) if m else 'punto ' + p.group(2)
+                    art = grp
                     body = law.get(art, {}).get(com)
                 if body is None:
                     errors.append('%s evidence %d: %s not found in %s' % (qid, i, ref, os.path.basename(path)))

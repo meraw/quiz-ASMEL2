@@ -209,6 +209,12 @@ heading of each treaty ("TRATTATO SULL'UNIONE EUROPEA (VERSIONE
 CONSOLIDATA)", "TRATTATO SUL FUNZIONAMENTO...") to know which treaty an
 article belongs to.
 
+An EU regulation can be named the same way, after the article number:
+`"art. 5 Reg. 2021/1060, par. 1"`, or `"art. 2 Reg. 2021/241"` for an
+article without numbered paragraphs. The year and number must appear in the
+name of the `source.file` (e.g. `REGOLAMENTO (UE) 2021 1060 ...`), otherwise
+the check reports an error.
+
 The Costituzione does not number its commas and does not separate them with
 blank lines: each comma simply starts on a new line. In that file the check
 ends a comma at a line that ends with a full stop (note markers such as

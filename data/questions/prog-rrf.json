@@ -1,0 +1,442 @@
+[
+  {
+    "id": "pc-rrf-001",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 3 del Reg. (UE) 2021/241, quale tra le seguenti aree rientra nei sei pilastri in cui è strutturato l'ambito di applicazione del dispositivo per la ripresa e la resilienza?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Politiche per la prossima generazione, l'infanzia e i giovani, come l'istruzione e le competenze",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Politica agricola comune e pesca",
+        "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
+      },
+      {
+        "id": "c",
+        "text": "Gestione delle frontiere e politica dei visti",
+        "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
+      },
+      {
+        "id": "d",
+        "text": "Politica estera e di sicurezza comune",
+        "why_wrong": "Non figura tra i sei pilastri elencati dall'art. 3."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3 struttura l'ambito di applicazione del dispositivo in sei pilastri: transizione verde; trasformazione digitale; crescita intelligente, sostenibile e inclusiva; coesione sociale e territoriale; salute e resilienza economica, sociale e istituzionale; politiche per la prossima generazione, l'infanzia e i giovani, come l'istruzione e le competenze.",
+    "evidence": [
+      {
+        "ref": "art. 3 Reg. 2021/241",
+        "text": "L'ambito di applicazione del dispositivo fa riferimento alle aree di intervento di pertinenza europea strutturate in sei pilastri: a) transizione verde; b) trasformazione digitale; c) crescita intelligente, sostenibile e inclusiva, che comprenda coesione economica, occupazione, produttività, competitività, ricerca, sviluppo e innovazione, e un mercato interno ben funzionante con PMI forti; d) coesione sociale e territoriale; e) salute e resilienza economica, sociale e istituzionale, al fine, fra l'altro, di rafforzare la capacità di risposta alle crisi e la preparazione alle crisi; e f) politiche per la prossima generazione, l’infanzia e i giovani, come l'istruzione e le competenze."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 3 Reg. 2021/241",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-002",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 2 del Reg. (UE) 2021/241, nell'espressione «traguardi e obiettivi»:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i «traguardi» sono i risultati quantitativi e gli «obiettivi» i risultati qualitativi",
+        "why_wrong": "L'art. 2 stabilisce il contrario: i traguardi sono risultati qualitativi e gli obiettivi risultati quantitativi."
+      },
+      {
+        "id": "b",
+        "text": "i «traguardi» sono le scadenze intermedie e gli «obiettivi» le scadenze finali del piano",
+        "why_wrong": "L'art. 2 definisce traguardi e obiettivi come misure dei progressi, qualitative e quantitative, non come scadenze."
+      },
+      {
+        "id": "c",
+        "text": "i «traguardi» sono i risultati qualitativi e gli «obiettivi» i risultati quantitativi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "entrambi indicano gli importi di spesa da sostenere per ciascuna misura",
+        "why_wrong": "L'art. 2 li definisce come misure dei progressi compiuti verso la realizzazione di una riforma o di un investimento, non come importi di spesa."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2, punto 4, definisce «traguardi e obiettivi» come le misure dei progressi compiuti verso la realizzazione di una riforma o di un investimento: i «traguardi» sono i risultati qualitativi, gli «obiettivi» quelli quantitativi.",
+    "evidence": [
+      {
+        "ref": "art. 2 Reg. 2021/241",
+        "text": "«traguardi e obiettivi»: le misure dei progressi compiuti verso la realizzazione di una riforma o di un investimento, intendendo per «traguardi» i risultati qualitativi e per «obiettivi» i risultati quantitativi;"
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 2 Reg. 2021/241",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-003",
+    "subject": "programmazione-ue",
+    "question": "Il piano per la ripresa e la resilienza di uno Stato membro prevede, per una riforma, l'entrata in vigore di una legge di semplificazione e, per un investimento, il numero di edifici scolastici da ristrutturare. In base alle definizioni dell'art. 2 del Reg. (UE) 2021/241:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'entrata in vigore della legge è un traguardo e il numero di edifici ristrutturati è un obiettivo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'entrata in vigore della legge è un obiettivo e il numero di edifici ristrutturati è un traguardo",
+        "why_wrong": "L'art. 2 qualifica come traguardi i risultati qualitativi e come obiettivi quelli quantitativi: l'inversione è errata."
+      },
+      {
+        "id": "c",
+        "text": "sono entrambi traguardi, perché misurano progressi verso una riforma o un investimento",
+        "why_wrong": "L'art. 2 distingue tra risultati qualitativi (traguardi) e quantitativi (obiettivi)."
+      },
+      {
+        "id": "d",
+        "text": "sono entrambi obiettivi, perché inseriti nel piano",
+        "why_wrong": "L'art. 2 distingue tra risultati qualitativi (traguardi) e quantitativi (obiettivi)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 2, punto 4, i traguardi sono risultati qualitativi (come l'entrata in vigore di una legge) e gli obiettivi risultati quantitativi (come un numero di edifici ristrutturati).",
+    "evidence": [
+      {
+        "ref": "art. 2 Reg. 2021/241",
+        "text": "«traguardi e obiettivi»: le misure dei progressi compiuti verso la realizzazione di una riforma o di un investimento, intendendo per «traguardi» i risultati qualitativi e per «obiettivi» i risultati quantitativi;"
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 2 Reg. 2021/241",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-004",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 4, par. 2, del Reg. (UE) 2021/241, l'obiettivo specifico del dispositivo è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sostituire le spese di bilancio correnti degli Stati membri colpite dalla crisi COVID-19",
+        "why_wrong": "L'art. 5, par. 1, stabilisce che il sostegno non sostituisce, salvo casi debitamente motivati, le spese di bilancio correnti."
+      },
+      {
+        "id": "b",
+        "text": "fornire un sostegno finanziario che consenta agli Stati membri di raggiungere i traguardi e gli obiettivi delle riforme e degli investimenti stabiliti nei loro piani per la ripresa e la resilienza",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "promuovere la coesione economica, sociale e territoriale dell'Unione",
+        "why_wrong": "È l'obiettivo generale del dispositivo (art. 4, par. 1), non quello specifico."
+      },
+      {
+        "id": "d",
+        "text": "finanziare le azioni specifiche dei fondi strutturali non coperte dai programmi",
+        "why_wrong": "L'art. 4, par. 2, riferisce l'obiettivo specifico ai traguardi e agli obiettivi dei piani per la ripresa e la resilienza."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4 distingue l'obiettivo generale (par. 1: promuovere la coesione economica, sociale e territoriale migliorando resilienza, preparazione alle crisi, capacità di aggiustamento e potenziale di crescita) dall'obiettivo specifico (par. 2): fornire sostegno finanziario per raggiungere i traguardi e gli obiettivi delle riforme e degli investimenti dei piani, in stretta e trasparente cooperazione con gli Stati membri.",
+    "evidence": [
+      {
+        "ref": "art. 4 Reg. 2021/241, par. 2",
+        "text": "2. Per conseguire tale obiettivo generale, il dispositivo persegue l'obiettivo specifico di fornire un sostegno finanziario che consenta agli Stati membri di raggiungere i traguardi e gli obiettivi delle riforme e degli investimenti stabiliti nei loro piani per la ripresa e la resilienza. L'obiettivo specifico è perseguito in stretta e trasparente cooperazione con gli Stati membri interessati."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 4 Reg. 2021/241, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-005",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro intende utilizzare le risorse del dispositivo per coprire, senza particolari motivazioni, spese di bilancio correnti già previste a livello nazionale. Alla luce dell'art. 5, par. 1, del Reg. (UE) 2021/241:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è possibile, perché il dispositivo finanzia qualsiasi misura inserita nel piano",
+        "why_wrong": "L'art. 5, par. 1, esclude la sostituzione delle spese di bilancio correnti, salvo casi debitamente motivati."
+      },
+      {
+        "id": "b",
+        "text": "è possibile, purché la misura rispetti il principio «non arrecare un danno significativo»",
+        "why_wrong": "Il rispetto del principio «non arrecare un danno significativo» (art. 5, par. 2) non supera il divieto di sostituire le spese di bilancio correnti posto dal par. 1."
+      },
+      {
+        "id": "c",
+        "text": "non è possibile, perché il sostegno non sostituisce, salvo casi debitamente motivati, le spese di bilancio correnti a livello nazionale e rispetta il principio dell'addizionalità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "non è possibile in nessun caso, perché il dispositivo finanzia solo investimenti privati",
+        "why_wrong": "L'art. 5, par. 1, ammette la sostituzione in casi debitamente motivati; inoltre i piani comprendono riforme e investimenti pubblici (art. 17, par. 1)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 5, par. 1, stabilisce che il sostegno del dispositivo non sostituisce, salvo in casi debitamente motivati, le spese di bilancio correnti a livello nazionale e rispetta il principio dell'addizionalità del finanziamento dell'Unione.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/241, par. 1",
+        "text": "1. Il sostegno nell'ambito del dispositivo non sostituisce, salvo in casi debitamente motivati, le spese di bilancio correnti a livello nazionale e rispetta il principio dell'addizionalità del finanziamento dell'Unione di cui all'articolo 9."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 5 Reg. 2021/241, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-006",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 5, par. 2, del Reg. (UE) 2021/241, il dispositivo finanzia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tutte le misure del piano, mentre il principio «non arrecare un danno significativo» riguarda solo quelle del pilastro della transizione verde",
+        "why_wrong": "L'art. 5, par. 2, non prevede tale limitazione: il dispositivo finanzia unicamente misure che rispettano il principio."
+      },
+      {
+        "id": "b",
+        "text": "unicamente le misure che rispettano il principio «non arrecare un danno significativo»",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "le misure che rispettano il principio «non arrecare un danno significativo», verificato solo al momento della richiesta di pagamento",
+        "why_wrong": "L'art. 5, par. 2, pone il principio come condizione di finanziamento; già il piano deve spiegare come nessuna misura arrechi un danno significativo (art. 18, par. 4, lett. d)."
+      },
+      {
+        "id": "d",
+        "text": "le misure che rispettano il principio dell'addizionalità, anche se arrecano un danno significativo all'ambiente",
+        "why_wrong": "L'art. 5 richiede sia l'addizionalità (par. 1) sia il rispetto del principio «non arrecare un danno significativo» (par. 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 5, par. 2, stabilisce che il dispositivo finanzia unicamente le misure che rispettano il principio «non arrecare un danno significativo». Coerentemente, l'art. 18, par. 4, lett. d), chiede che il piano spieghi come nessuna misura arrechi un danno significativo agli obiettivi ambientali.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/241, par. 2",
+        "text": "2. Il dispositivo finanzia unicamente le misure che rispettano il principio «non arrecare un danno significativo»."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 5 Reg. 2021/241, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-007",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 2 del Reg. (UE) 2021/241, il principio «non arrecare un danno significativo» consiste nel:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non sostituire le spese di bilancio correnti a livello nazionale",
+        "why_wrong": "È il contenuto dell'art. 5, par. 1, legato al principio dell'addizionalità."
+      },
+      {
+        "id": "b",
+        "text": "non duplicare i finanziamenti tra il dispositivo e altri programmi dell'Unione",
+        "why_wrong": "Evitare la duplicazione dei finanziamenti è oggetto dell'art. 18, par. 4, lett. r), non della definizione del principio."
+      },
+      {
+        "id": "c",
+        "text": "non annullare le misure relative ai traguardi e agli obiettivi già conseguiti",
+        "why_wrong": "È una condizione per il conseguimento soddisfacente dei traguardi e degli obiettivi ai fini dei pagamenti (art. 24, par. 3)."
+      },
+      {
+        "id": "d",
+        "text": "non sostenere o svolgere attività economiche che arrecano un danno significativo all'obiettivo ambientale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 2, punto 6, definisce «non arrecare un danno significativo» come non sostenere o svolgere attività economiche che arrecano un danno significativo all'obiettivo ambientale, ai sensi, ove pertinente, dell'art. 17 del regolamento (UE) 2020/852.",
+    "evidence": [
+      {
+        "ref": "art. 2 Reg. 2021/241",
+        "text": "«non arrecare un danno significativo»: non sostenere o svolgere attività economiche che arrecano un danno significativo all'obiettivo ambientale, ai sensi, ove pertinente, dell'articolo 17 del regolamento (UE) 2020/852."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 2 Reg. 2021/241",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-008",
+    "subject": "programmazione-ue",
+    "question": "Secondo l'art. 17, par. 1, del Reg. (UE) 2021/241, i piani per la ripresa e la resilienza ammissibili al finanziamento comprendono:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esclusivamente investimenti pubblici in infrastrutture",
+        "why_wrong": "L'art. 17, par. 1, comprende sia riforme sia investimenti pubblici, e ammette regimi pubblici per incentivare gli investimenti privati."
+      },
+      {
+        "id": "b",
+        "text": "misure per l'attuazione di riforme e investimenti pubblici, strutturati in un pacchetto completo e coerente, che può anche includere regimi pubblici finalizzati a incentivare gli investimenti privati",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo riforme, poiché gli investimenti sono finanziati dai fondi strutturali",
+        "why_wrong": "L'art. 17, par. 1, include nei piani sia riforme sia investimenti pubblici."
+      },
+      {
+        "id": "d",
+        "text": "i programmi operativi dei fondi dell'Unione, riuniti in un unico documento",
+        "why_wrong": "Accordi di partenariato e programmi operativi sono documenti con cui i piani devono essere coerenti (art. 17, par. 3), non il loro contenuto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 17, par. 1, prevede che gli Stati membri elaborino piani nazionali per la ripresa e la resilienza che definiscono il loro programma di riforme e investimenti; i piani ammissibili comprendono misure per riforme e investimenti pubblici strutturati in un pacchetto completo e coerente, che può includere regimi pubblici per incentivare gli investimenti privati.",
+    "evidence": [
+      {
+        "ref": "art. 17 Reg. 2021/241, par. 1",
+        "text": "I piani per la ripresa e la resilienza ammissibili al finanziamento a titolo del dispositivo comprendono misure per l'attuazione di riforme e investimenti pubblici, strutturati in un pacchetto completo e coerente, che può anche includere regimi pubblici finalizzati a incentivare gli investimenti privati."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 17 Reg. 2021/241, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-009",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro ha presentato il proprio piano per la ripresa e la resilienza e la Commissione lo ha valutato. Ai sensi dell'art. 20, par. 1, del Reg. (UE) 2021/241, la valutazione del piano è approvata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dalla Commissione, con una decisione che autorizza l'erogazione del contributo",
+        "why_wrong": "La decisione della Commissione che autorizza l'erogazione è prevista dall'art. 24, par. 5, in fase di pagamento, non per approvare la valutazione del piano."
+      },
+      {
+        "id": "b",
+        "text": "dal comitato economico e finanziario, con un parere vincolante",
+        "why_wrong": "Il parere del comitato economico e finanziario riguarda il conseguimento dei traguardi e degli obiettivi in sede di pagamento (art. 24, par. 4)."
+      },
+      {
+        "id": "c",
+        "text": "dal Consiglio, mediante decisione di esecuzione, su proposta della Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "dal Parlamento europeo, su proposta della Commissione",
+        "why_wrong": "L'art. 20, par. 1, attribuisce l'approvazione al Consiglio, mediante decisione di esecuzione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 20, par. 1, prevede che, su proposta della Commissione, il Consiglio approvi mediante decisione di esecuzione la valutazione del piano per la ripresa e la resilienza presentato dallo Stato membro o del suo aggiornamento.",
+    "evidence": [
+      {
+        "ref": "art. 20 Reg. 2021/241, par. 1",
+        "text": "1. Su proposta della Commissione, il Consiglio approva, mediante decisione di esecuzione, la valutazione del piano per la ripresa e la resilienza presentato dallo Stato membro a norma dell'articolo 18, paragrafo 1, ovvero, ove applicabile, del suo aggiornamento presentato a norma dell'articolo 18, paragrafo 2."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 20 Reg. 2021/241, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rrf-010",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro presenta una richiesta di pagamento, ma la Commissione accerta che i traguardi e gli obiettivi indicati nella decisione di esecuzione del Consiglio non sono stati conseguiti in misura soddisfacente. Ai sensi dell'art. 24, par. 6, del Reg. (UE) 2021/241:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il pagamento della totalità o di parte del contributo finanziario è sospeso, e lo Stato membro può presentare osservazioni entro un mese dalla comunicazione della valutazione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "la Commissione risolve immediatamente gli accordi e recupera integralmente il prefinanziamento",
+        "why_wrong": "La risoluzione degli accordi e il recupero del prefinanziamento sono previsti dall'art. 24, par. 9, solo in mancanza di progressi concreti entro 18 mesi dalla decisione di esecuzione del Consiglio."
+      },
+      {
+        "id": "c",
+        "text": "la Commissione riduce subito in proporzione l'importo del contributo",
+        "why_wrong": "La riduzione proporzionale è prevista dall'art. 24, par. 8, solo se lo Stato membro non adotta le misure necessarie entro sei mesi dalla sospensione."
+      },
+      {
+        "id": "d",
+        "text": "il pagamento è comunque erogato, ma lo Stato membro deve modificare il piano",
+        "why_wrong": "L'art. 24, par. 6, prevede la sospensione del pagamento, revocata solo quando lo Stato membro ha adottato le misure necessarie."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 24, par. 6, prevede che, se i traguardi e gli obiettivi non sono stati conseguiti in misura soddisfacente, il pagamento della totalità o di parte del contributo finanziario (e, ove applicabile, del prestito) sia sospeso; lo Stato membro può presentare osservazioni entro un mese e la sospensione è revocata solo quando ha adottato le misure necessarie. Seguono, se il problema persiste, la riduzione (par. 8) e, in mancanza di progressi concreti entro 18 mesi, la risoluzione degli accordi (par. 9).",
+    "evidence": [
+      {
+        "ref": "art. 24 Reg. 2021/241, par. 6",
+        "text": "6. Se, a seguito della valutazione di cui al paragrafo 5, la Commissione accerta che i traguardi e gli obiettivi indicati nella decisione di esecuzione del Consiglio di cui all'articolo 20, paragrafo 1, non sono stati conseguiti in misura soddisfacente, il pagamento della totalità o di parte del contributo finanziario e, ove applicabile, del prestito è sospeso. Lo Stato membro interessato può presentare le proprie osservazioni entro il termine di un mese dalla comunicazione della valutazione della Commissione."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/241",
+      "article": "art. 24 Reg. 2021/241, par. 6",
+      "file": "sources/REGOLAMENTO (UE) 2021 241 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

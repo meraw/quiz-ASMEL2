@@ -1,0 +1,882 @@
+[
+  {
+    "id": "pc-rdc-001",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 1, par. 1, del Reg. (UE) 2021/1060, le disposizioni comuni previste dal regolamento si applicano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "al FESR, al FSE+, al Fondo di coesione, al JTF e al FEAMPA",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "a tutti gli otto fondi, compresi l'AMIF, l'ISF e il BMVI",
+        "why_wrong": "Per l'AMIF, l'ISF e il BMVI l'art. 1, par. 1, lett. a), prevede solo le disposizioni finanziarie; le disposizioni comuni di cui alla lett. b) riguardano FESR, FSE+, Fondo di coesione, JTF e FEAMPA."
+      },
+      {
+        "id": "c",
+        "text": "al solo FESR e al Fondo di coesione",
+        "why_wrong": "L'art. 1, par. 1, lett. b), estende le disposizioni comuni anche a FSE+, JTF e FEAMPA."
+      },
+      {
+        "id": "d",
+        "text": "al FESR, al FSE+, all'AMIF e all'ISF",
+        "why_wrong": "L'AMIF e l'ISF rientrano solo nelle disposizioni finanziarie di cui all'art. 1, par. 1, lett. a)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 1, par. 1, distingue: la lett. a) fissa le disposizioni finanziarie per tutti gli otto «fondi» (FESR, FSE+, Fondo di coesione, JTF, FEAMPA, AMIF, ISF e BMVI); la lett. b) fissa le disposizioni comuni applicabili solo a FESR, FSE+, Fondo di coesione, JTF e FEAMPA.",
+    "evidence": [
+      {
+        "ref": "art. 1 Reg. 2021/1060, par. 1",
+        "text": "b) le disposizioni comuni applicabili al FESR, al FSE+, al Fondo di coesione, al JTF e al FEAMPA."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 1 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-002",
+    "subject": "programmazione-ue",
+    "question": "Un ente pubblico partecipa a un progetto finanziato dalla componente Occupazione e innovazione sociale del FSE+ e chiede se debba applicare il Reg. (UE) 2021/1060. Secondo l'art. 1, par. 2, del regolamento:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il regolamento si applica integralmente, poiché il FSE+ è tra i fondi da esso disciplinati",
+        "why_wrong": "L'art. 1, par. 2, esclude espressamente la componente Occupazione e innovazione sociale del FSE+."
+      },
+      {
+        "id": "b",
+        "text": "il regolamento si applica soltanto per le disposizioni finanziarie",
+        "why_wrong": "L'art. 1, par. 2, esclude dall'applicazione l'intera componente, non solo alcune disposizioni."
+      },
+      {
+        "id": "c",
+        "text": "il regolamento non si applica alla componente Occupazione e innovazione sociale del FSE+",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il regolamento si applica solo se l'ente è un'autorità regionale o locale",
+        "why_wrong": "L'art. 1, par. 2, esclude la componente in quanto tale, senza distinguere in base alla natura dell'ente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 1, par. 2, stabilisce che il regolamento non si applica alla componente Occupazione e innovazione sociale del FSE+ né alle componenti in gestione diretta o indiretta del FEAMPA, dell'AMIF, dell'ISF e del BMVI, ad eccezione dell'assistenza tecnica su iniziativa della Commissione.",
+    "evidence": [
+      {
+        "ref": "art. 1 Reg. 2021/1060, par. 2",
+        "text": "2. Il presente regolamento non si applica alla componente Occupazione e innovazione sociale del FSE+ né alle componenti in gestione diretta o indiretta del FEAMPA, dell’AMIF, dell’ISF e del BMVI, ad eccezione dell’assistenza tecnica su iniziativa della Commissione."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 1 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-003",
+    "subject": "programmazione-ue",
+    "question": "In caso di dubbio sull'applicazione del Reg. (UE) 2021/1060 o dei regolamenti specifici relativi a ciascun fondo, l'art. 1, par. 6:",
+    "options": [
+      {
+        "id": "a",
+        "text": "attribuisce prevalenza al regolamento specifico del fondo interessato",
+        "why_wrong": "L'art. 1, par. 6, stabilisce il contrario: i regolamenti specifici integrano il regolamento senza contraddirlo e, in caso di dubbio, prevale il Reg. 2021/1060."
+      },
+      {
+        "id": "b",
+        "text": "stabilisce che è preminente il Reg. (UE) 2021/1060",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "rimette la scelta alla Commissione, mediante atto di esecuzione",
+        "why_wrong": "L'art. 1, par. 6, risolve direttamente il dubbio a favore del Reg. 2021/1060."
+      },
+      {
+        "id": "d",
+        "text": "rinvia al codice di condotta europeo in materia di partenariato",
+        "why_wrong": "Il codice di condotta riguarda l'organizzazione dei partenariati (art. 8, par. 4), non il rapporto tra regolamenti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 1, par. 6, prevede che i regolamenti specifici di ciascun fondo possano stabilire regole per integrare il regolamento senza contraddirlo e che, in caso di dubbio sull'applicazione dell'uno o degli altri, sia preminente il Reg. (UE) 2021/1060.",
+    "evidence": [
+      {
+        "ref": "art. 1 Reg. 2021/1060, par. 6",
+        "text": "In caso di dubbio sull’applicazione del presente regolamento o dei regolamenti specifici relativi a ciascun fondo, è preminente il presente regolamento."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 1 Reg. 2021/1060, par. 6",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-004",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 5, par. 1, del Reg. (UE) 2021/1060, l'obiettivo strategico «un'Europa più vicina ai cittadini» è perseguito attraverso:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il rafforzamento della mobilità",
+        "why_wrong": "È il contenuto dell'obiettivo «un'Europa più connessa» (art. 5, par. 1, lett. c)."
+      },
+      {
+        "id": "b",
+        "text": "l'attuazione del pilastro europeo dei diritti sociali",
+        "why_wrong": "È il contenuto dell'obiettivo «un'Europa più sociale e inclusiva» (art. 5, par. 1, lett. d)."
+      },
+      {
+        "id": "c",
+        "text": "la promozione di una trasformazione economica innovativa e intelligente e della connettività regionale alle TIC",
+        "why_wrong": "È il contenuto dell'obiettivo «un'Europa più competitiva e intelligente» (art. 5, par. 1, lett. a)."
+      },
+      {
+        "id": "d",
+        "text": "la promozione dello sviluppo sostenibile e integrato di tutti i tipi di territorio e delle iniziative locali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 5, par. 1, lett. e), definisce l'obiettivo strategico «un'Europa più vicina ai cittadini» come perseguito attraverso la promozione dello sviluppo sostenibile e integrato di tutti i tipi di territorio e delle iniziative locali.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/1060, par. 1",
+        "text": "e) un’Europa più vicina ai cittadini attraverso la promozione dello sviluppo sostenibile e integrato di tutti i tipi di territorio e delle iniziative locali."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 5 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-005",
+    "subject": "programmazione-ue",
+    "question": "Secondo l'art. 5, par. 1, del Reg. (UE) 2021/1060, quale fondo sostiene, anziché gli obiettivi strategici elencati al primo comma, l'obiettivo specifico di consentire alle regioni e alle persone di affrontare gli effetti della transizione verso gli obiettivi dell'Unione per l'energia e il clima?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Fondo per una transizione giusta (JTF)",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il FEAMPA",
+        "why_wrong": "Il FEAMPA è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+      },
+      {
+        "id": "c",
+        "text": "Il Fondo di coesione",
+        "why_wrong": "Il Fondo di coesione è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+      },
+      {
+        "id": "d",
+        "text": "Il FSE+",
+        "why_wrong": "Il FSE+ è tra i fondi che sostengono gli obiettivi strategici del primo comma dell'art. 5, par. 1."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, par. 1, attribuisce gli obiettivi strategici a FESR, FSE+, Fondo di coesione e FEAMPA, mentre il JTF sostiene l'obiettivo specifico di consentire alle regioni e alle persone di affrontare gli effetti sociali, occupazionali, economici e ambientali della transizione verso gli obiettivi 2030 dell'Unione per l'energia e il clima e un'economia climaticamente neutra.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/1060, par. 1",
+        "text": "Il JTF sostiene l’obiettivo specifico di consentire alle regioni e alle persone di affrontare gli effetti sociali, occupazionali, economici e ambientali della transizione verso gli obiettivi 2030 dell’Unione per l’energia e il clima e un’economia dell’Unione climaticamente neutra entro il 2050, sulla base dell’accordo di Parigi."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 5 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-006",
+    "subject": "programmazione-ue",
+    "question": "Un Comune intende candidare a un programma cofinanziato dal FESR interventi di adattamento ai cambiamenti climatici e di mobilità urbana sostenibile. A quale obiettivo strategico dell'art. 5, par. 1, del Reg. (UE) 2021/1060 sono riconducibili?",
+    "options": [
+      {
+        "id": "a",
+        "text": "«Un'Europa più connessa»",
+        "why_wrong": "La lett. c) riguarda il rafforzamento della mobilità; la mobilità urbana sostenibile e l'adattamento ai cambiamenti climatici sono espressamente indicati alla lett. b)."
+      },
+      {
+        "id": "b",
+        "text": "«Un'Europa resiliente, più verde e a basse emissioni di carbonio»",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "«Un'Europa più vicina ai cittadini»",
+        "why_wrong": "La lett. e) riguarda lo sviluppo sostenibile e integrato dei territori e le iniziative locali, non l'adattamento climatico e la mobilità urbana sostenibile, previsti alla lett. b)."
+      },
+      {
+        "id": "d",
+        "text": "«Un'Europa più competitiva e intelligente»",
+        "why_wrong": "La lett. a) riguarda la trasformazione economica innovativa e la connettività alle TIC."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 5, par. 1, lett. b), riconduce all'obiettivo «un'Europa resiliente, più verde e a basse emissioni di carbonio» la promozione, tra l'altro, dell'adattamento ai cambiamenti climatici e della loro mitigazione, della gestione e prevenzione dei rischi e della mobilità urbana sostenibile.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/1060, par. 1",
+        "text": "b) un’Europa resiliente, più verde e a basse emissioni di carbonio ma in transizione verso un’economia a zero emissioni nette di carbonio attraverso la promozione di una transizione verso un’energia pulita ed equa, di investimenti verdi e blu, dell’economia circolare, dell’adattamento ai cambiamenti climatici e della loro mitigazione, della gestione e prevenzione dei rischi nonché della mobilità urbana sostenibile;"
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 5 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-007",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 5, par. 2, del Reg. (UE) 2021/1060, l'obiettivo «Cooperazione territoriale europea» (Interreg) è perseguito con il sostegno:",
+    "options": [
+      {
+        "id": "a",
+        "text": "del FESR, del FSE+, del Fondo di coesione e del JTF",
+        "why_wrong": "Questi quattro fondi sostengono l'obiettivo «Investimenti a favore dell'occupazione e della crescita» (art. 5, par. 2, lett. a)."
+      },
+      {
+        "id": "b",
+        "text": "del solo Fondo di coesione",
+        "why_wrong": "L'art. 5, par. 2, lett. b), indica il FESR come fondo di sostegno dell'obiettivo Interreg."
+      },
+      {
+        "id": "c",
+        "text": "del FESR",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "del FEAMPA e del JTF",
+        "why_wrong": "L'art. 5, par. 2, lett. b), indica il solo FESR."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 5, par. 2, individua due obiettivi: «Investimenti a favore dell'occupazione e della crescita», sostenuto da FESR, FSE+, Fondo di coesione e JTF, e «Cooperazione territoriale europea» (Interreg), sostenuto dal FESR.",
+    "evidence": [
+      {
+        "ref": "art. 5 Reg. 2021/1060, par. 2",
+        "text": "b) l’obiettivo «Cooperazione territoriale europea» (Interreg), con il sostegno del FESR."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 5 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-008",
+    "subject": "programmazione-ue",
+    "question": "Nel preparare un programma regionale cofinanziato dal FESR, un'amministrazione intende coinvolgere nel partenariato soltanto le autorità locali e le parti economiche e sociali. Alla luce dell'art. 8, par. 1, del Reg. (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la scelta è corretta, perché il partenariato globale riguarda solo l'accordo di partenariato e non i singoli programmi",
+        "why_wrong": "L'art. 8, par. 1, impone il partenariato «per l'accordo di partenariato e per ogni programma»."
+      },
+      {
+        "id": "b",
+        "text": "la scelta non è corretta, perché il partenariato deve includere almeno anche gli organismi pertinenti che rappresentano la società civile e, se del caso, le organizzazioni di ricerca e le università",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "la scelta è corretta, perché la composizione del partenariato è rimessa interamente alla discrezionalità dello Stato membro",
+        "why_wrong": "L'art. 8, par. 1, elenca i partner che il partenariato include «almeno»."
+      },
+      {
+        "id": "d",
+        "text": "la scelta non è corretta, perché nel partenariato deve essere inclusa come partner anche la Commissione",
+        "why_wrong": "L'art. 8, par. 1, non annovera la Commissione tra i partner; i partner sono autorità pubbliche, parti economiche e sociali, società civile e, se del caso, ricerca e università."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 8, par. 1, prevede che, per l'accordo di partenariato e per ogni programma, ciascuno Stato membro organizzi un partenariato globale che includa almeno: le autorità regionali, locali, cittadine e altre autorità pubbliche; le parti economiche e sociali; gli organismi pertinenti che rappresentano la società civile; le organizzazioni di ricerca e le università, se del caso.",
+    "evidence": [
+      {
+        "ref": "art. 8 Reg. 2021/1060, par. 1",
+        "text": "1. Per l’accordo di partenariato e per ogni programma ciascuno Stato membro organizza e attua un partenariato globale conformemente al proprio quadro istituzionale e giuridico, tenendo conto delle specificità dei fondi. Tale partenariato include almeno i partner seguenti: a) le autorità a livello regionale, locale, cittadino e altre autorità pubbliche; b) le parti economiche e sociali; c) gli organismi pertinenti che rappresentano la società civile, quali i partner ambientali, le organizzazioni non governative e gli organismi incaricati di promuove l’inclusione sociale, i diritti fondamentali, i diritti delle persone con disabilità, la parità di genere e la non discriminazione; d) le organizzazioni di ricerca e le università, se del caso."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 8 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-009",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 8, par. 2, del Reg. (UE) 2021/1060, il partenariato opera in conformità:",
+    "options": [
+      {
+        "id": "a",
+        "text": "del principio della governance a più livelli e seguendo un approccio dal basso verso l'alto",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "del principio di proporzionalità e seguendo un approccio dall'alto verso il basso",
+        "why_wrong": "L'art. 8, par. 2, richiama la governance a più livelli e l'approccio dal basso verso l'alto; la proporzionalità è richiamata dall'art. 12 per la valutazione dell'accordo di partenariato."
+      },
+      {
+        "id": "c",
+        "text": "del principio «non arrecare un danno significativo»",
+        "why_wrong": "Il principio «non arrecare un danno significativo» è richiamato dall'art. 9, par. 4, per il perseguimento degli obiettivi dei fondi."
+      },
+      {
+        "id": "d",
+        "text": "delle sole istruzioni impartite dalla Commissione",
+        "why_wrong": "L'art. 8, par. 2, fonda il partenariato sulla governance a più livelli e sull'approccio dal basso verso l'alto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, par. 2, stabilisce che il partenariato opera secondo il principio della governance a più livelli e con un approccio dal basso verso l'alto; lo Stato membro coinvolge i partner nella preparazione degli accordi di partenariato e in tutte le fasi di preparazione, attuazione e valutazione dei programmi, anche tramite i comitati di sorveglianza.",
+    "evidence": [
+      {
+        "ref": "art. 8 Reg. 2021/1060, par. 2",
+        "text": "2. Il partenariato istituito ai sensi del paragrafo 1 del presente articolo opera in conformità del principio della governance a più livelli e seguendo un approccio dal basso verso l’alto. Lo Stato membro coinvolge i partner di cui al paragrafo 1 nella preparazione degli accordi di partenariato e in tutte le fasi della preparazione, dell’attuazione e della valutazione dei programmi, anche attraverso la partecipazione a comitati di sorveglianza ai sensi dell’articolo 39."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 8 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-010",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 9, par. 1, del Reg. (UE) 2021/1060, in sede di attuazione dei fondi gli Stati membri e la Commissione garantiscono il rispetto dei diritti fondamentali e la conformità:",
+    "options": [
+      {
+        "id": "a",
+        "text": "al codice di condotta europeo in materia di partenariato",
+        "why_wrong": "Il codice di condotta disciplina l'organizzazione e l'attuazione dei partenariati (art. 8, par. 4)."
+      },
+      {
+        "id": "b",
+        "text": "al piano nazionale integrato per l'energia e il clima",
+        "why_wrong": "Il piano è richiamato, tra l'altro, per il contenuto e la valutazione dell'accordo di partenariato (artt. 11 e 12), non dall'art. 9, par. 1."
+      },
+      {
+        "id": "c",
+        "text": "alla Carta dei diritti fondamentali dell'Unione europea",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "al modello di programma riportato nell'allegato V",
+        "why_wrong": "Il modello dell'allegato V riguarda la preparazione dei programmi (art. 21, par. 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 9, par. 1, primo dei principi orizzontali, impone agli Stati membri e alla Commissione di garantire, in sede di attuazione dei fondi, il rispetto dei diritti fondamentali e la conformità alla Carta dei diritti fondamentali dell'Unione europea.",
+    "evidence": [
+      {
+        "ref": "art. 9 Reg. 2021/1060, par. 1",
+        "text": "1. In sede di attuazione dei fondi, gli Stati membri e la Commissione garantiscono il rispetto dei diritti fondamentali e la conformità alla Carta dei diritti fondamentali dell’Unione europea."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 9 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-011",
+    "subject": "programmazione-ue",
+    "question": "Un'autorità di programma decide di considerare la parità tra uomini e donne e la prospettiva di genere solo nella fase di valutazione finale del programma. Alla luce dell'art. 9, par. 2, del Reg. (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la scelta è conforme, perché la parità di genere rileva solo nella valutazione dei risultati",
+        "why_wrong": "L'art. 9, par. 2, richiede di considerare e promuovere la parità in tutte le fasi, non solo nella valutazione."
+      },
+      {
+        "id": "b",
+        "text": "la scelta è conforme, purché il programma riguardi l'obiettivo «un'Europa più sociale e inclusiva»",
+        "why_wrong": "L'art. 9, par. 2, è un principio orizzontale che vale per tutti i programmi."
+      },
+      {
+        "id": "c",
+        "text": "la scelta non è conforme, perché la parità di genere va considerata solo nella fase di preparazione",
+        "why_wrong": "L'art. 9, par. 2, non la limita alla preparazione: comprende preparazione, attuazione, sorveglianza, rendicontazione e valutazione."
+      },
+      {
+        "id": "d",
+        "text": "la scelta non è conforme, perché la parità, l'integrazione di genere e della prospettiva di genere vanno prese in considerazione e promosse in tutte le fasi, dalla preparazione alla valutazione dei programmi",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 9, par. 2, stabilisce che Stati membri e Commissione provvedono affinché la parità tra uomini e donne, l'integrazione di genere e l'integrazione della prospettiva di genere siano prese in considerazione e promosse in tutte le fasi della preparazione, dell'attuazione, della sorveglianza, della rendicontazione e della valutazione dei programmi.",
+    "evidence": [
+      {
+        "ref": "art. 9 Reg. 2021/1060, par. 2",
+        "text": "2. Gli Stati membri e la Commissione provvedono affinché la parità tra uomini e donne, l’integrazione di genere e l’integrazione della prospettiva di genere siano prese in considerazione e promosse in tutte le fasi della preparazione, dell’attuazione, della sorveglianza, della rendicontazione e della valutazione dei programmi."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 9 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-012",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 9, par. 4, del Reg. (UE) 2021/1060, gli obiettivi dei fondi sono perseguiti in linea con l'obiettivo di promuovere lo sviluppo sostenibile, tenendo conto, tra l'altro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "del principio «non arrecare un danno significativo»",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "del principio di proporzionalità",
+        "why_wrong": "Il principio di proporzionalità è richiamato dall'art. 12, par. 1, per la valutazione dell'accordo di partenariato da parte della Commissione."
+      },
+      {
+        "id": "c",
+        "text": "del principio della governance a più livelli",
+        "why_wrong": "La governance a più livelli è il principio secondo cui opera il partenariato (art. 8, par. 2)."
+      },
+      {
+        "id": "d",
+        "text": "delle norme sulla concentrazione tematica",
+        "why_wrong": "La concentrazione tematica è richiamata dall'art. 11, par. 1, lett. c), per la dotazione finanziaria preliminare nell'accordo di partenariato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, par. 4, prevede che gli obiettivi dei fondi siano perseguiti in linea con lo sviluppo sostenibile di cui all'art. 11 TFUE, tenendo conto degli obiettivi di sviluppo sostenibile delle Nazioni Unite, dell'accordo di Parigi e del principio «non arrecare un danno significativo», e nel pieno rispetto dell'acquis ambientale dell'Unione.",
+    "evidence": [
+      {
+        "ref": "art. 9 Reg. 2021/1060, par. 4",
+        "text": "4. Gli obiettivi dei fondi sono perseguiti in linea con l’obiettivo di promuovere lo sviluppo sostenibile di cui all’articolo 11 TFUE, tenendo conto degli obiettivi di sviluppo sostenibile delle Nazioni Unite, dell’accordo di Parigi e del principio «non arrecare un danno significativo»."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 9 Reg. 2021/1060, par. 4",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-013",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 10 del Reg. (UE) 2021/1060, l'accordo di partenariato è preparato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dalla Commissione, per ciascuno Stato membro",
+        "why_wrong": "L'art. 10, par. 1, stabilisce che è ciascuno Stato membro a preparare l'accordo; la Commissione lo valuta e lo approva (art. 12)."
+      },
+      {
+        "id": "b",
+        "text": "da ciascuno Stato membro",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "dalla BEI, su richiesta dello Stato membro interessato",
+        "why_wrong": "Su richiesta dello Stato membro la BEI può solo partecipare alla preparazione (art. 10, par. 8), che resta dello Stato membro."
+      },
+      {
+        "id": "d",
+        "text": "dal comitato di sorveglianza del programma principale",
+        "why_wrong": "L'art. 10, par. 1, attribuisce la preparazione dell'accordo a ciascuno Stato membro."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per l'art. 10, par. 1, ciascuno Stato membro prepara un accordo di partenariato che espone l'orientamento strategico per la programmazione e le modalità per un impiego efficace ed efficiente di FESR, FSE+, Fondo di coesione, JTF e FEAMPA. La BEI può solo partecipare alla preparazione, su richiesta dello Stato membro (par. 8).",
+    "evidence": [
+      {
+        "ref": "art. 10 Reg. 2021/1060, par. 1",
+        "text": "1. Ciascuno Stato membro prepara un accordo di partenariato che espone l’orientamento strategico per la programmazione e le modalità per un impiego efficace ed efficiente del FESR, del FSE+, del Fondo di coesione, del JTF e del FEAMPA"
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 10 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-014",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro non ha ancora presentato l'accordo di partenariato, ma vorrebbe presentare subito alla Commissione un programma Interreg. Alla luce dell'art. 10 del Reg. (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può farlo, perché i programmi Interreg possono essere presentati prima della presentazione dell'accordo di partenariato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "non può farlo, perché l'accordo di partenariato va sempre presentato prima di qualsiasi programma o contestualmente",
+        "why_wrong": "L'art. 10, par. 7, fa eccezione per i programmi Interreg, che possono precedere l'accordo di partenariato."
+      },
+      {
+        "id": "c",
+        "text": "può farlo solo se l'accordo di partenariato viene inserito nello stesso programma Interreg",
+        "why_wrong": "L'art. 10, par. 7, consente la presentazione anticipata dei programmi Interreg senza porre questa condizione."
+      },
+      {
+        "id": "d",
+        "text": "può farlo solo con la partecipazione della BEI alla preparazione del programma",
+        "why_wrong": "La partecipazione della BEI (art. 10, par. 8) è eventuale e non condiziona la presentazione dei programmi Interreg."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10, par. 3, prevede in generale che l'accordo di partenariato sia presentato prima del primo programma o contestualmente; il par. 7 consente però di presentare i programmi Interreg alla Commissione prima della presentazione dell'accordo di partenariato.",
+    "evidence": [
+      {
+        "ref": "art. 10 Reg. 2021/1060, par. 7",
+        "text": "7. I programmi Interreg possono essere presentati alla Commissione prima della presentazione dell’accordo di partenariato."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 10 Reg. 2021/1060, par. 7",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-015",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 11 del Reg. (UE) 2021/1060, per quanto riguarda l'obiettivo «Cooperazione territoriale europea» (Interreg), l'accordo di partenariato contiene:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tutti gli elementi previsti dall'art. 11, par. 1, come per gli altri obiettivi",
+        "why_wrong": "L'art. 11, par. 1, ultimo comma, limita il contenuto per Interreg al solo elenco dei programmi previsti."
+      },
+      {
+        "id": "b",
+        "text": "solo l'elenco dei programmi previsti",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo la dotazione finanziaria preliminare per obiettivo strategico",
+        "why_wrong": "La dotazione finanziaria preliminare è un elemento generale (art. 11, par. 1, lett. c); per Interreg l'accordo contiene solo l'elenco dei programmi previsti."
+      },
+      {
+        "id": "d",
+        "text": "solo la sintesi della valutazione delle condizioni abilitanti",
+        "why_wrong": "La sintesi delle condizioni abilitanti è un contenuto facoltativo dell'accordo (art. 11, par. 2); per Interreg l'accordo contiene solo l'elenco dei programmi previsti."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11, par. 1, elenca il contenuto dell'accordo di partenariato, ma nell'ultimo comma precisa che, per l'obiettivo «Cooperazione territoriale europea» (Interreg), l'accordo contiene solo l'elenco dei programmi previsti.",
+    "evidence": [
+      {
+        "ref": "art. 11 Reg. 2021/1060, par. 1",
+        "text": "Per quanto riguarda l’obiettivo «Cooperazione territoriale europea» (Interreg), l’accordo di partenariato contiene solo l’elenco dei programmi previsti."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 11 Reg. 2021/1060, par. 1",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-016",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 12 del Reg. (UE) 2021/1060, la decisione che approva l'accordo di partenariato è adottata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dalla Commissione, mediante un atto di esecuzione, entro quattro mesi dalla data della prima presentazione dell'accordo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "dalla Commissione, mediante un atto di esecuzione, entro cinque mesi dalla data della prima presentazione dell'accordo",
+        "why_wrong": "Il termine di cinque mesi riguarda l'approvazione dei programmi (art. 23, par. 4); per l'accordo di partenariato il termine è di quattro mesi."
+      },
+      {
+        "id": "c",
+        "text": "dalla Commissione entro tre mesi dalla presentazione dell'accordo",
+        "why_wrong": "Entro tre mesi la Commissione può formulare osservazioni (art. 12, par. 2); la decisione di approvazione è adottata entro quattro mesi."
+      },
+      {
+        "id": "d",
+        "text": "dal Consiglio, su proposta della Commissione",
+        "why_wrong": "L'art. 12, par. 4, attribuisce la decisione alla Commissione, mediante un atto di esecuzione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 12 prevede che la Commissione valuti l'accordo, possa formulare osservazioni entro tre mesi dalla presentazione (par. 2) e adotti, mediante un atto di esecuzione, la decisione di approvazione entro quattro mesi dalla data della prima presentazione da parte dello Stato membro (par. 4).",
+    "evidence": [
+      {
+        "ref": "art. 12 Reg. 2021/1060, par. 4",
+        "text": "4. La Commissione adotta, mediante un atto di esecuzione, una decisione che approva l’accordo di partenariato entro quattro mesi dalla data della prima presentazione dell’accordo di partenariato da parte dello Stato membro interessato."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 12 Reg. 2021/1060, par. 4",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-017",
+    "subject": "programmazione-ue",
+    "question": "Uno Stato membro, avvalendosi dell'art. 10, par. 6, del Reg. (UE) 2021/1060, inserisce l'accordo di partenariato in uno dei suoi programmi. Secondo l'art. 12, par. 5, la Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "adotta due decisioni distinte, una sull'accordo e una sul programma, rispettivamente entro quattro e cinque mesi",
+        "why_wrong": "L'art. 12, par. 5, prevede in questo caso un'unica decisione che approva sia l'accordo di partenariato sia il programma."
+      },
+      {
+        "id": "b",
+        "text": "adotta, mediante un atto di esecuzione, un'unica decisione che approva sia l'accordo di partenariato sia il programma, entro sei mesi dalla presentazione del programma",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "deve respingere il programma, perché l'accordo di partenariato non può essere inserito in un programma",
+        "why_wrong": "L'art. 10, par. 6, consente espressamente allo Stato membro di inserire l'accordo di partenariato in uno dei suoi programmi."
+      },
+      {
+        "id": "d",
+        "text": "approva il solo programma, mentre l'accordo di partenariato è approvato dal comitato di sorveglianza",
+        "why_wrong": "L'art. 12, par. 5, prevede un'unica decisione della Commissione che approva entrambi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Se l'accordo di partenariato è inserito in un programma (art. 10, par. 6), l'art. 12, par. 5, prevede che la Commissione adotti, mediante un atto di esecuzione, un'unica decisione di approvazione dell'accordo e del programma entro sei mesi dalla presentazione del programma.",
+    "evidence": [
+      {
+        "ref": "art. 12 Reg. 2021/1060, par. 5",
+        "text": "5. Se, conformemente all’articolo 10, paragrafo 6, l’accordo di partenariato è inserito in un programma, entro sei mesi dalla data di presentazione del programma da parte dello Stato membro interessato la Commissione adotta, mediante un atto di esecuzione, un’unica decisione in cui si approvano sia l’accordo di partenariato che il programma."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 12 Reg. 2021/1060, par. 5",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-018",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 21 del Reg. (UE) 2021/1060, i programmi dei fondi diversi da AMIF, ISF e BMVI sono presentati dagli Stati membri alla Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non oltre tre mesi dopo l'approvazione dell'accordo di partenariato",
+        "why_wrong": "L'art. 21, par. 2, fa decorrere il termine dalla presentazione dell'accordo di partenariato, non dalla sua approvazione."
+      },
+      {
+        "id": "b",
+        "text": "non oltre tre mesi dopo la presentazione dell'accordo di partenariato",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "non oltre tre mesi dopo l'entrata in vigore del regolamento",
+        "why_wrong": "Questo termine vale per l'AMIF, l'ISF e il BMVI (art. 21, par. 2, secondo periodo)."
+      },
+      {
+        "id": "d",
+        "text": "obbligatoriamente insieme all'accordo di partenariato",
+        "why_wrong": "L'art. 21, par. 2, fissa un termine massimo di tre mesi dalla presentazione dell'accordo di partenariato, senza imporre la presentazione congiunta."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 21 prevede che gli Stati membri preparino i programmi in cooperazione con i partner dell'art. 8, par. 1, e li presentino alla Commissione non oltre tre mesi dopo la presentazione dell'accordo di partenariato; per AMIF, ISF e BMVI il termine decorre dall'entrata in vigore del regolamento o del regolamento specifico del fondo, se posteriore.",
+    "evidence": [
+      {
+        "ref": "art. 21 Reg. 2021/1060, par. 2",
+        "text": "2. Gli Stati membri presentano i programmi alla Commissione non oltre tre mesi dopo la presentazione dell’accordo di partenariato."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 21 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-019",
+    "subject": "programmazione-ue",
+    "question": "Ai sensi dell'art. 22, par. 2, del Reg. (UE) 2021/1060, ciascuna priorità di un programma:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può corrispondere a più obiettivi strategici contemporaneamente",
+        "why_wrong": "L'art. 22, par. 2, stabilisce che ciascuna priorità corrisponde a un unico obiettivo strategico (o all'obiettivo specifico del JTF o all'assistenza tecnica)."
+      },
+      {
+        "id": "b",
+        "text": "corrisponde a un unico obiettivo strategico, all'obiettivo specifico del JTF oppure all'assistenza tecnica",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "coincide necessariamente con l'intero programma, che non può avere più priorità",
+        "why_wrong": "L'art. 22, par. 2, prevede che un programma sia costituito da una o più priorità."
+      },
+      {
+        "id": "d",
+        "text": "può ricevere il sostegno di un solo fondo in ogni caso",
+        "why_wrong": "L'art. 22, par. 2, consente il sostegno di uno o più fondi, salvo che la priorità riceva il sostegno del JTF o riguardi determinate forme di assistenza tecnica."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 22, par. 2, stabilisce che un programma è costituito da una o più priorità; ciascuna priorità corrisponde a un unico obiettivo strategico, all'obiettivo specifico del JTF oppure all'assistenza tecnica, e può avvalersi del sostegno di uno o più fondi, salvo le eccezioni previste (JTF e talune forme di assistenza tecnica).",
+    "evidence": [
+      {
+        "ref": "art. 22 Reg. 2021/1060, par. 2",
+        "text": "2. Un programma è costituito da una o più priorità. Ciascuna priorità corrisponde a un unico obiettivo strategico, all’obiettivo specifico del JTF oppure all’assistenza tecnica, se attuata a norma dell’articolo 36, paragrafo 4, o dell’articolo 37."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 22 Reg. 2021/1060, par. 2",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pc-rdc-020",
+    "subject": "programmazione-ue",
+    "question": "Un'autorità di gestione rileva nel programma approvato alcuni refusi e un errore materiale di impaginazione, che non incidono sull'attuazione. Alla luce dell'art. 24 del Reg. (UE) 2021/1060:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve presentare una richiesta motivata di modifica, sulla quale la Commissione decide entro quattro mesi",
+        "why_wrong": "La procedura di modifica dell'art. 24, parr. 1-4, non è necessaria: il par. 6 esclude l'approvazione per le correzioni puramente materiali o editoriali."
+      },
+      {
+        "id": "b",
+        "text": "le correzioni richiedono una nuova decisione di approvazione del programma entro cinque mesi",
+        "why_wrong": "Il termine di cinque mesi riguarda la prima approvazione dei programmi (art. 23, par. 4); per le correzioni materiali l'approvazione non è richiesta."
+      },
+      {
+        "id": "c",
+        "text": "le correzioni non richiedono l'approvazione della Commissione, ma lo Stato membro deve comunicarle alla Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "le correzioni non sono consentite fino alla fine del periodo di programmazione",
+        "why_wrong": "L'art. 24, par. 6, ammette le correzioni di natura puramente materiale o editoriale, previa sola comunicazione alla Commissione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 24, par. 6, stabilisce che non è richiesta l'approvazione della Commissione per le correzioni di natura puramente materiale o editoriale che non influiscono sull'attuazione del programma; gli Stati membri comunicano tali correzioni alla Commissione.",
+    "evidence": [
+      {
+        "ref": "art. 24 Reg. 2021/1060, par. 6",
+        "text": "6. Non è richiesta l’approvazione della Commissione per le correzioni di natura puramente materiale o editoriale che non influiscono sull’attuazione del programma. Gli Stati membri comunicano tali correzioni alla Commissione."
+      }
+    ],
+    "source": {
+      "act": "Reg. (UE) 2021/1060",
+      "article": "art. 24 Reg. 2021/1060, par. 6",
+      "file": "sources/REGOLAMENTO (UE) 2021 1060 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
