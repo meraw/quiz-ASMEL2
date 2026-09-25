@@ -113,7 +113,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controlli 3 e 4 non superati. La domanda chiede che cosa «rientra nel calcolo dell'engagement», ma l'engagement di un post si esprime spesso come tasso (engagement rate), calcolato rapportando le interazioni alle impression, alla copertura o al numero di follower. Con questa formulazione anche le opzioni b (follower della pagina) e c (numero di volte in cui il post è stato mostrato, cioè le impression) possono essere difese come elementi del calcolo, perché ne sono il denominatore. Il why_wrong di b e c esclude queste metriche senza considerare il tasso. Correzione suggerita: riformulare la domanda senza la parola «calcolo», ad esempio «L'engagement di un post misura:» oppure «Quali dati costituiscono le interazioni conteggiate nell'engagement di un post?».",
     "rev": 2,
     "no_shuffle": false
   },
@@ -270,7 +271,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -349,7 +350,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   },
@@ -389,7 +390,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "rev": 2,
     "no_shuffle": false
   }
