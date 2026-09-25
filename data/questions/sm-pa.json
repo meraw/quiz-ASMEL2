@@ -1,0 +1,392 @@
+[
+  {
+    "id": "sm-pa-001",
+    "subject": "social-media",
+    "question": "Il testo alternativo (alt text) associato a un'immagine pubblicata sui social serve principalmente a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Descrivere il contenuto dell'immagine a chi non può vederla, ad esempio agli utenti che usano un lettore di schermo",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Indicare l'autore della foto e i diritti d'autore",
+        "why_wrong": "È il ruolo dei crediti fotografici, non del testo alternativo."
+      },
+      {
+        "id": "c",
+        "text": "Inserire gli hashtag relativi all'immagine",
+        "why_wrong": "Gli hashtag servono a classificare i contenuti per tema, non a descriverli."
+      },
+      {
+        "id": "d",
+        "text": "Sostituire il testo del post",
+        "why_wrong": "Il testo alternativo descrive l'immagine; il post conserva il proprio testo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il testo alternativo viene letto dai lettori di schermo e permette alle persone cieche o ipovedenti di comprendere il contenuto dell'immagine. Deve descrivere ciò che è rilevante, in modo sintetico.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: accessibilità: testo alternativo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-002",
+    "subject": "social-media",
+    "question": "Un Comune pubblica la locandina di un evento, con data, orario e luogo scritti solo nell'immagine. Per rendere il contenuto accessibile è corretto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Riportare le informazioni essenziali anche nel testo del post e nel testo alternativo dell'immagine",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Scrivere come testo alternativo soltanto \"locandina\"",
+        "why_wrong": "Una descrizione così generica non trasmette le informazioni contenute nell'immagine."
+      },
+      {
+        "id": "c",
+        "text": "Usare caratteri grandi nella locandina, senza altro",
+        "why_wrong": "Aiuta chi vede male, ma il testo nell'immagine resta inaccessibile a chi usa un lettore di schermo."
+      },
+      {
+        "id": "d",
+        "text": "Aggiungere al post alcuni hashtag relativi all'evento",
+        "why_wrong": "Gli hashtag non riportano data, orario e luogo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il testo contenuto in un'immagine non è leggibile dai lettori di schermo. Le informazioni essenziali vanno quindi ripetute nel testo del post e nel testo alternativo.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: accessibilità: testo alternativo",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-003",
+    "subject": "social-media",
+    "question": "Pubblicare con sottotitoli un video in cui il sindaco illustra una nuova ordinanza è utile soprattutto perché:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rende il contenuto fruibile dalle persone sorde e da chi guarda il video senza audio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Permette di ridurre la durata del video",
+        "why_wrong": "I sottotitoli non modificano la durata del video."
+      },
+      {
+        "id": "c",
+        "text": "Sostituisce l'obbligo di pubblicare l'ordinanza nelle sedi previste",
+        "why_wrong": "Il video divulga il contenuto, non sostituisce la pubblicazione dell'atto."
+      },
+      {
+        "id": "d",
+        "text": "Rende superfluo il testo del post",
+        "why_wrong": "Il post resta utile per sintetizzare e rinviare alle fonti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "I sottotitoli rendono accessibile il parlato alle persone sorde o con ipoacusia e sono utili a chi guarda i video senza audio, abitudine frequente sui dispositivi mobili.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: accessibilità: sottotitoli",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-004",
+    "subject": "social-media",
+    "question": "Per rendere più accessibile un hashtag composto da più parole è consigliabile:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scrivere l'iniziale di ogni parola in maiuscolo, ad esempio #EstateInComune",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Scrivere tutto in minuscolo, ad esempio #estateincomune",
+        "why_wrong": "Senza maiuscole le parole sono difficili da distinguere, anche per i lettori di schermo."
+      },
+      {
+        "id": "c",
+        "text": "Scrivere tutto in maiuscolo, ad esempio #ESTATEINCOMUNE",
+        "why_wrong": "Il tutto maiuscolo rende difficile distinguere le parole e riduce la leggibilità."
+      },
+      {
+        "id": "d",
+        "text": "Separare le parole con spazi, ad esempio #Estate In Comune",
+        "why_wrong": "Lo spazio interrompe l'hashtag, che resterebbe composto solo dalla prima parola."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Con l'iniziale maiuscola di ogni parola (camel case) l'hashtag è più leggibile per tutti e i lettori di schermo possono pronunciare correttamente le singole parole.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: accessibilità: hashtag",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-005",
+    "subject": "social-media",
+    "question": "Quale formulazione è più adatta a un post del Comune secondo i principi del linguaggio chiaro?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dal 3 marzo al 30 aprile puoi chiedere online il contributo per l'affitto. Trovi requisiti e modulo sul sito del Comune.",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Si rende noto che, ai sensi della deliberazione in oggetto, è indetta procedura per la concessione di contributi a sostegno dei canoni di locazione.",
+        "why_wrong": "Usa forma impersonale, termini burocratici e rinvii ad atti, senza date né indicazioni pratiche."
+      },
+      {
+        "id": "c",
+        "text": "Contributo affitto: vedi delibera allegata.",
+        "why_wrong": "Troppo sintetica: non indica date, destinatari né come presentare la domanda."
+      },
+      {
+        "id": "d",
+        "text": "ATTENZIONE!!! CONTRIBUTI AFFITTO DISPONIBILI SOLO PER POCHI GIORNI!!!",
+        "why_wrong": "Tono allarmistico e tutto maiuscolo, senza informazioni utili."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il linguaggio chiaro usa frasi brevi, parole comuni, forma attiva e si rivolge direttamente al cittadino, indicando cosa fare, entro quando e dove trovare i dettagli.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: linguaggio chiaro",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-006",
+    "subject": "social-media",
+    "question": "L'ufficio comunicazione di un Comune vuole pubblicare sui social le foto di una festa per i bambini delle scuole organizzata dall'ente. È corretto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Evitare immagini in cui i minori siano riconoscibili, salvo il consenso di chi esercita la responsabilità genitoriale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Pubblicare liberamente le foto, perché si tratta di un evento pubblico",
+        "why_wrong": "Il carattere pubblico dell'evento non rende liberamente pubblicabili le immagini di minori riconoscibili."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicare le foto senza indicare i nomi dei bambini",
+        "why_wrong": "I minori restano identificabili dal volto anche senza nome."
+      },
+      {
+        "id": "d",
+        "text": "Pubblicare le foto con il solo consenso degli insegnanti",
+        "why_wrong": "Il consenso spetta a chi esercita la responsabilità genitoriale, non agli insegnanti."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le immagini di minori richiedono particolare cautela: si preferiscono inquadrature in cui non siano riconoscibili (di spalle, da lontano, volti oscurati) oppure si raccoglie il consenso dei genitori.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: privacy: minori nelle immagini",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-007",
+    "subject": "social-media",
+    "question": "Un Comune ha approvato la graduatoria dei beneficiari di un contributo economico. Sui social è corretto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pubblicare un avviso che informa dell'approvazione e rinvia al sito istituzionale, senza riportare dati personali",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Pubblicare l'immagine della graduatoria con nomi e cognomi dei beneficiari",
+        "why_wrong": "Si diffonderebbero dati personali su un canale non destinato alla pubblicità degli atti."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicare la graduatoria con le sole iniziali e la data di nascita",
+        "why_wrong": "Iniziali e data di nascita possono comunque rendere identificabili le persone."
+      },
+      {
+        "id": "d",
+        "text": "Pubblicare i nominativi nei commenti, anziché nel post",
+        "why_wrong": "Anche i commenti sono pubblici: i dati personali verrebbero diffusi comunque."
+      }
+    ],
+    "correct": "a",
+    "explanation": "I social servono a informare e a rinviare alle fonti ufficiali; non sono il luogo per diffondere dati personali. Gli atti si consultano sul sito istituzionale, nei limiti previsti dalla normativa.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: privacy nei post",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-008",
+    "subject": "social-media",
+    "question": "Nella scrittura per il web, la tecnica della piramide rovesciata consiste nel:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Collocare all'inizio le informazioni più importanti, lasciando dettagli e approfondimenti alla parte successiva",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Partire dal contesto generale e arrivare alle informazioni essenziali solo alla fine",
+        "why_wrong": "È l'ordine opposto, tipico della scrittura narrativa o argomentativa."
+      },
+      {
+        "id": "c",
+        "text": "Dividere il testo in paragrafi di lunghezza crescente",
+        "why_wrong": "Non riguarda la lunghezza dei paragrafi, ma l'ordine di importanza delle informazioni."
+      },
+      {
+        "id": "d",
+        "text": "Riassumere le informazioni principali solo nelle conclusioni",
+        "why_wrong": "Nella piramide rovesciata il nucleo del messaggio viene per primo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Sul web molti utenti leggono solo l'inizio del testo: per questo si mettono subito le informazioni essenziali (chi, cosa, quando, dove, perché) e poi i dettagli.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: scrittura per il web",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-009",
+    "subject": "social-media",
+    "question": "Per migliorare il posizionamento nei motori di ricerca di una pagina del sito comunale dedicata a un servizio, è buona prassi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Usare nel titolo e nel testo le parole con cui i cittadini cercano effettivamente quel servizio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Ripetere la stessa parola chiave il maggior numero di volte possibile",
+        "why_wrong": "La ripetizione forzata peggiora la leggibilità e viene penalizzata dai motori di ricerca."
+      },
+      {
+        "id": "c",
+        "text": "Usare nel titolo la denominazione tecnico-giuridica del procedimento",
+        "why_wrong": "I cittadini raramente cercano con termini tecnici: la pagina sarebbe più difficile da trovare."
+      },
+      {
+        "id": "d",
+        "text": "Pubblicare le informazioni solo come immagine o come documento scansionato",
+        "why_wrong": "Il testo in un'immagine o in una scansione non è leggibile dai motori di ricerca, né dai lettori di schermo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La SEO per la PA parte dal linguaggio degli utenti: titoli chiari e parole chiave usate davvero nelle ricerche (es. \"carta d'identità\" anziché la denominazione tecnica del procedimento) rendono la pagina più facile da trovare.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: SEO",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-pa-010",
+    "subject": "social-media",
+    "question": "Un Comune pubblica un nuovo bando sui propri canali social. È buona prassi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sintetizzare nel post le informazioni principali e rinviare con un link alla pagina del sito istituzionale con i documenti completi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Pubblicare il bando solo sui social, dove il pubblico è più numeroso",
+        "why_wrong": "Il sito istituzionale resta il riferimento ufficiale; i social sono un canale complementare."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicare l'intero testo del bando come immagine",
+        "why_wrong": "Il testo in immagine non è accessibile e rende difficile la lettura."
+      },
+      {
+        "id": "d",
+        "text": "Rinviare a un gruppo social privato riservato agli iscritti",
+        "why_wrong": "Le informazioni istituzionali devono essere accessibili a tutti, non solo agli iscritti a un gruppo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "I social servono ad avvicinare il cittadino all'informazione: il post sintetizza (cosa, chi, entro quando) e rinvia al sito istituzionale, dove si trovano gli atti completi e ufficiali.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "PA sui social: uso istituzionale dei canali social",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

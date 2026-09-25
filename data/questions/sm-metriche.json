@@ -1,0 +1,392 @@
+[
+  {
+    "id": "sm-met-001",
+    "subject": "social-media",
+    "question": "La copertura (reach) di un contenuto indica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il numero di utenti unici che hanno visualizzato il contenuto",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il numero totale di visualizzazioni, comprese quelle ripetute dallo stesso utente",
+        "why_wrong": "Sono le impression."
+      },
+      {
+        "id": "c",
+        "text": "Il numero di interazioni ricevute dal contenuto",
+        "why_wrong": "Le interazioni misurano l'engagement."
+      },
+      {
+        "id": "d",
+        "text": "La percentuale di utenti che hanno cliccato su un link",
+        "why_wrong": "È il CTR (click-through rate)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La copertura conta le persone diverse raggiunte; le impression contano quante volte il contenuto è stato visualizzato in totale, anche più volte dalla stessa persona.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: copertura e impression",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-002",
+    "subject": "social-media",
+    "question": "Un post ha registrato 3.000 impression e una copertura di 1.000 utenti. Ciò significa che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "In media ogni utente raggiunto ha visualizzato il contenuto tre volte",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "1.000 utenti hanno cliccato sul post",
+        "why_wrong": "La copertura misura le persone raggiunte, non i clic."
+      },
+      {
+        "id": "c",
+        "text": "2.000 visualizzazioni provengono da utenti che non seguono la pagina",
+        "why_wrong": "Il rapporto tra impression e copertura non dice nulla sulla provenienza da follower o non follower."
+      },
+      {
+        "id": "d",
+        "text": "Il dato è errato, perché le impression non possono superare la copertura",
+        "why_wrong": "È il contrario: le impression sono sempre pari o superiori alla copertura, perché includono le visualizzazioni ripetute."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il rapporto impression/copertura indica la frequenza media: 3.000 / 1.000 = 3 visualizzazioni per utente raggiunto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: copertura e impression",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-003",
+    "subject": "social-media",
+    "question": "Nel calcolo dell'engagement di un post rientrano:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le interazioni degli utenti con il contenuto, come reazioni, commenti e condivisioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il numero di follower della pagina",
+        "why_wrong": "I follower misurano la dimensione della community, non le interazioni con il singolo post."
+      },
+      {
+        "id": "c",
+        "text": "Il numero di visualizzazioni del post",
+        "why_wrong": "Le visualizzazioni misurano la visibilità (impression, copertura), non l'interazione."
+      },
+      {
+        "id": "d",
+        "text": "Il numero di post pubblicati dall'ente nel periodo",
+        "why_wrong": "È una misura dell'attività dell'ente, non della risposta del pubblico."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'engagement misura quanto il pubblico interagisce attivamente con un contenuto (reazioni, commenti, condivisioni, clic), a differenza delle metriche di visibilità.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: engagement",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-004",
+    "subject": "social-media",
+    "question": "Calcolando il tasso di engagement sulla copertura, un post che ha ottenuto 200 interazioni con una copertura di 4.000 utenti ha un engagement rate del:",
+    "options": [
+      {
+        "id": "a",
+        "text": "5%",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "2%",
+        "why_wrong": "Il valore corretto è 200 / 4.000 × 100 = 5%."
+      },
+      {
+        "id": "c",
+        "text": "20%",
+        "why_wrong": "Il valore corretto è 200 / 4.000 × 100 = 5%."
+      },
+      {
+        "id": "d",
+        "text": "0,5%",
+        "why_wrong": "Il valore corretto è 200 / 4.000 × 100 = 5%."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'engagement rate sulla copertura si calcola come interazioni / copertura × 100: 200 / 4.000 × 100 = 5%. Nei report va sempre indicato su quale base (copertura, impression, follower) è calcolato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: engagement rate",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-005",
+    "subject": "social-media",
+    "question": "Per confrontare l'efficacia di due post che hanno avuto una copertura molto diversa, è più utile considerare:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il tasso di engagement, anziché il numero assoluto di interazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il numero assoluto di interazioni",
+        "why_wrong": "Il numero assoluto favorisce il post più visto, anche se ha coinvolto proporzionalmente meno utenti."
+      },
+      {
+        "id": "c",
+        "text": "Il numero di follower della pagina al momento della pubblicazione",
+        "why_wrong": "È un dato della pagina, non del singolo post."
+      },
+      {
+        "id": "d",
+        "text": "La lunghezza del testo dei due post",
+        "why_wrong": "Non è una metrica di risultato."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il tasso rapporta le interazioni al pubblico raggiunto: rende confrontabili contenuti con visibilità diversa, mentre i valori assoluti dipendono dalla dimensione del pubblico.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: engagement rate",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-006",
+    "subject": "social-media",
+    "question": "Un post con un link al sito istituzionale ha ottenuto 10.000 impression e 150 clic sul link. Il CTR (click-through rate) è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "1,5%",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "15%",
+        "why_wrong": "Il valore corretto è 150 / 10.000 × 100 = 1,5%."
+      },
+      {
+        "id": "c",
+        "text": "0,15%",
+        "why_wrong": "Il valore corretto è 150 / 10.000 × 100 = 1,5%."
+      },
+      {
+        "id": "d",
+        "text": "66,7%",
+        "why_wrong": "È il rapporto inverso (10.000 / 150): il CTR si calcola come clic diviso impression."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il CTR è il rapporto tra clic e impression, espresso in percentuale: 150 / 10.000 × 100 = 1,5%. Misura quanto il contenuto spinge gli utenti a cliccare.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: CTR",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-007",
+    "subject": "social-media",
+    "question": "Un Comune lancia sui social una campagna per promuovere l'iscrizione online a un servizio. Nel monitoraggio della campagna, costituisce una conversione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il completamento dell'iscrizione online da parte di un utente arrivato dal post",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "La visualizzazione del post da parte di un utente",
+        "why_wrong": "È un'impression, cioè una misura di visibilità."
+      },
+      {
+        "id": "c",
+        "text": "La reazione di un utente al post",
+        "why_wrong": "È un'interazione (engagement), non il completamento dell'azione obiettivo."
+      },
+      {
+        "id": "d",
+        "text": "La condivisione del post da parte di un utente",
+        "why_wrong": "È un'interazione che aumenta la diffusione, ma non realizza l'obiettivo della campagna."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La conversione è il compimento dell'azione che rappresenta l'obiettivo della campagna (iscrizione, prenotazione, download, acquisto). Visualizzazioni e interazioni sono passaggi intermedi.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: conversioni",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-008",
+    "subject": "social-media",
+    "question": "Una pagina istituzionale passa da 2.000 a 2.200 follower in un mese. Il tasso di crescita dei follower nel mese è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "10%",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "20%",
+        "why_wrong": "Il valore corretto è (2.200 − 2.000) / 2.000 × 100 = 10%."
+      },
+      {
+        "id": "c",
+        "text": "1,1%",
+        "why_wrong": "1,1 è il rapporto 2.200 / 2.000, non la percentuale di crescita."
+      },
+      {
+        "id": "d",
+        "text": "200%",
+        "why_wrong": "200 è l'incremento assoluto dei follower, non la percentuale."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il tasso di crescita si calcola come (follower finali − follower iniziali) / follower iniziali × 100: 200 / 2.000 × 100 = 10%.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: crescita dei follower",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-009",
+    "subject": "social-media",
+    "question": "Un A/B test correttamente impostato prevede di:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Confrontare due versioni di un contenuto che differiscono per un solo elemento, mostrate a pubblici comparabili nello stesso periodo, misurando la stessa metrica",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Modificare contemporaneamente più elementi della seconda versione, per ottenere risultati più rapidi",
+        "why_wrong": "Se cambiano più elementi non è possibile capire quale abbia prodotto la differenza."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicare la versione A in un mese e la versione B in un mese diverso, senza altri accorgimenti",
+        "why_wrong": "Periodi diversi introducono fattori esterni che rendono il confronto poco affidabile."
+      },
+      {
+        "id": "d",
+        "text": "Confrontare lo stesso contenuto pubblicato su due canali diversi",
+        "why_wrong": "Si confrontano due pubblici e contesti diversi, non due versioni del contenuto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'A/B test isola l'effetto di una sola variabile (titolo, immagine, invito all'azione): tutto il resto deve restare uguale, così la differenza nei risultati è attribuibile all'elemento modificato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: A/B test",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-met-010",
+    "subject": "social-media",
+    "question": "Un report periodico sull'attività social di un ente dovrebbe principalmente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mettere in relazione le metriche con gli obiettivi e i KPI definiti nella strategia, confrontandole con i periodi precedenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Elencare tutte le metriche disponibili, senza selezione, per completezza",
+        "why_wrong": "Un elenco non selezionato di dati non permette di valutare il raggiungimento degli obiettivi."
+      },
+      {
+        "id": "c",
+        "text": "Riportare esclusivamente il numero di follower raggiunto",
+        "why_wrong": "Il numero di follower da solo non misura l'efficacia rispetto agli obiettivi."
+      },
+      {
+        "id": "d",
+        "text": "Riportare soltanto i contenuti che hanno avuto i risultati migliori",
+        "why_wrong": "Un report deve dar conto anche dei risultati negativi, utili a correggere la strategia."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il report serve a valutare se la strategia funziona: seleziona i KPI (indicatori chiave legati agli obiettivi), ne mostra l'andamento nel tempo e ne trae indicazioni per le scelte successive.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Metriche e analisi: reporting e KPI",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

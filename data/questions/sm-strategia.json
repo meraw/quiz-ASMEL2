@@ -1,0 +1,392 @@
+[
+  {
+    "id": "sm-str-001",
+    "subject": "social-media",
+    "question": "L'ufficio comunicazione di un Comune deve fissare un obiettivo per i propri canali social. Quale tra i seguenti è formulato in modo SMART?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aumentare del 20% le iscrizioni online al servizio di allerta comunale provenienti dai social entro il 31 dicembre",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Migliorare l'immagine del Comune sui social",
+        "why_wrong": "Obiettivo generico: non è specifico, né misurabile, né collocato nel tempo."
+      },
+      {
+        "id": "c",
+        "text": "Diventare il Comune più seguito d'Italia sui social",
+        "why_wrong": "Obiettivo privo di scadenza e difficilmente raggiungibile e realistico."
+      },
+      {
+        "id": "d",
+        "text": "Pubblicare il più possibile su tutti i canali disponibili",
+        "why_wrong": "Descrive un'attività, non un risultato misurabile entro una scadenza."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Un obiettivo SMART è specifico, misurabile, raggiungibile, rilevante e definito nel tempo. L'opzione corretta indica cosa misurare (iscrizioni dai social), di quanto (20%) ed entro quando (31 dicembre).",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: obiettivi SMART",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-002",
+    "subject": "social-media",
+    "question": "Nell'acronimo SMART, usato per formulare gli obiettivi, la lettera T indica che l'obiettivo deve essere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Definito nel tempo, cioè con una scadenza precisa",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Trasversale a tutti i canali social dell'organizzazione",
+        "why_wrong": "Non è un requisito SMART: un obiettivo può riguardare anche un solo canale."
+      },
+      {
+        "id": "c",
+        "text": "Testato preventivamente su un campione di utenti",
+        "why_wrong": "Il test su un campione riguarda la sperimentazione dei contenuti (es. A/B test), non la formulazione dell'obiettivo."
+      },
+      {
+        "id": "d",
+        "text": "Tracciabile tramite link con parametri di monitoraggio",
+        "why_wrong": "La misurabilità corrisponde alla lettera M, non alla T."
+      }
+    ],
+    "correct": "a",
+    "explanation": "SMART sta per Specific, Measurable, Achievable, Relevant, Time-bound: la T richiede che l'obiettivo abbia un orizzonte temporale definito, entro cui verificarne il raggiungimento.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: obiettivi SMART",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-003",
+    "subject": "social-media",
+    "question": "La rappresentazione di un utente tipo, costruita a partire da dati reali su caratteristiche, bisogni e comportamenti del pubblico di riferimento, per orientare i contenuti, è detta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buyer persona (o semplicemente persona)",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Community manager",
+        "why_wrong": "È la figura che gestisce le relazioni con la community, non un profilo di utente tipo."
+      },
+      {
+        "id": "c",
+        "text": "Stakeholder",
+        "why_wrong": "Indica qualunque soggetto portatore di interessi verso l'organizzazione, non un modello di utente."
+      },
+      {
+        "id": "d",
+        "text": "Brand ambassador",
+        "why_wrong": "È una persona reale che promuove l'organizzazione, non una rappresentazione del pubblico."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La persona è un profilo-tipo che sintetizza dati reali sul pubblico (età, bisogni, abitudini, canali usati). Aiuta a decidere quali contenuti produrre, con quale tono e su quali canali.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: pubblico di riferimento",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-004",
+    "subject": "social-media",
+    "question": "Lo strumento operativo che indica, per ciascun contenuto, la data e l'ora di pubblicazione, il canale e il formato è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il calendario editoriale",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il piano editoriale",
+        "why_wrong": "Il piano editoriale definisce le scelte strategiche (obiettivi, pubblico, temi, tono, canali), non la programmazione dei singoli post."
+      },
+      {
+        "id": "c",
+        "text": "La social media policy",
+        "why_wrong": "La policy stabilisce le regole di utilizzo e di interazione sui canali, non la programmazione dei contenuti."
+      },
+      {
+        "id": "d",
+        "text": "Il report periodico",
+        "why_wrong": "Il report analizza a consuntivo i risultati ottenuti, non pianifica le pubblicazioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il piano editoriale fissa la strategia; il calendario editoriale la traduce in pratica, programmando giorno per giorno quali contenuti pubblicare, dove e in quale formato.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: piano e calendario editoriale",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-005",
+    "subject": "social-media",
+    "question": "Un Comune sa che a marzo si aprono le iscrizioni ai servizi scolastici, con scadenza ad aprile. Nella pianificazione dei social, la scelta più corretta è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Programmare nel calendario editoriale, con anticipo, una serie di contenuti legati all'apertura e alla scadenza, lasciando spazio per comunicazioni non prevedibili",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Pubblicare un solo post il giorno della scadenza, per evitare di affaticare il pubblico",
+        "why_wrong": "Un unico avviso all'ultimo giorno non lascia ai cittadini il tempo di attivarsi."
+      },
+      {
+        "id": "c",
+        "text": "Pubblicare ogni giorno lo stesso post identico fino alla scadenza",
+        "why_wrong": "La ripetizione identica non aggiunge informazioni e riduce l'attenzione del pubblico."
+      },
+      {
+        "id": "d",
+        "text": "Non pianificare nulla e pubblicare solo in risposta alle domande dei cittadini",
+        "why_wrong": "Le scadenze note si pianificano in anticipo; la sola reazione alle domande non garantisce un'informazione tempestiva."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Le scadenze note (bandi, iscrizioni, tributi) vanno inserite per tempo nel calendario editoriale, distribuendo i contenuti in modo da accompagnare il cittadino. Il calendario deve restare flessibile per le comunicazioni impreviste.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: piano e calendario editoriale",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-006",
+    "subject": "social-media",
+    "question": "Il tone of voice di un account istituzionale deve essere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Coerente con l'identità dell'ente e costante nel tempo, pur adattandosi al contesto e al tipo di messaggio",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Deciso di volta in volta dalla persona che pubblica, secondo il proprio stile",
+        "why_wrong": "Un tono che cambia con chi pubblica rende incoerente la voce dell'ente."
+      },
+      {
+        "id": "c",
+        "text": "Identico al linguaggio degli atti amministrativi, per garantire la precisione",
+        "why_wrong": "Il linguaggio burocratico degli atti è poco adatto ai social, dove serve chiarezza e immediatezza."
+      },
+      {
+        "id": "d",
+        "text": "Irrilevante, perché sui social conta solo il contenuto informativo",
+        "why_wrong": "Il tono influisce sul modo in cui il messaggio viene percepito e sulla fiducia del pubblico."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il tone of voice è il modo riconoscibile con cui un'organizzazione si esprime. Deve essere coerente e stabile, ma si modula in base alla situazione: diverso, ad esempio, tra un evento culturale e un'emergenza.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: tone of voice",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-007",
+    "subject": "social-media",
+    "question": "Un Comune deve comunicare sui social un'allerta meteo con possibili disagi alla viabilità. Il tono più adeguato è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chiaro, sobrio e diretto, con indicazioni pratiche su cosa fare e dove trovare aggiornamenti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Leggero e ironico, per sdrammatizzare e ottenere più condivisioni",
+        "why_wrong": "Un'allerta richiede serietà: l'ironia può ridurre la percezione del rischio."
+      },
+      {
+        "id": "c",
+        "text": "Tecnico, con i riferimenti completi dell'ordinanza e della normativa applicabile",
+        "why_wrong": "Il linguaggio tecnico-normativo rende il messaggio meno comprensibile e immediato."
+      },
+      {
+        "id": "d",
+        "text": "Allarmistico, con molte maiuscole e punti esclamativi per attirare l'attenzione",
+        "why_wrong": "I toni allarmistici generano ansia e non aiutano a capire cosa fare."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nelle comunicazioni di servizio e di emergenza il tono deve privilegiare chiarezza e utilità: cosa succede, cosa fare, dove informarsi. Il tono resta istituzionale anche quando si adatta al contesto.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: tone of voice",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-008",
+    "subject": "social-media",
+    "question": "Si definiscono user-generated content (UGC):",
+    "options": [
+      {
+        "id": "a",
+        "text": "I contenuti creati e pubblicati dagli utenti, ad esempio le foto di un evento scattate dai partecipanti",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "I contenuti prodotti dall'ufficio comunicazione dell'ente",
+        "why_wrong": "Sono contenuti propri dell'organizzazione, non creati dagli utenti."
+      },
+      {
+        "id": "c",
+        "text": "I contenuti sponsorizzati a pagamento",
+        "why_wrong": "La sponsorizzazione riguarda la modalità di diffusione, non l'autore del contenuto."
+      },
+      {
+        "id": "d",
+        "text": "I contenuti pubblicati automaticamente tramite strumenti di programmazione",
+        "why_wrong": "La programmazione automatica riguarda il momento di pubblicazione, non chi ha creato il contenuto."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Gli UGC sono creati dal pubblico, non dall'organizzazione. Possono essere ricondivisi dall'ente, citandone l'autore e ottenendone il permesso quando necessario.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: tipologie di contenuti",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-009",
+    "subject": "social-media",
+    "question": "La copertura organica di un contenuto è quella ottenuta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Senza pagare per la diffusione del contenuto",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Tramite sponsorizzazioni o inserzioni",
+        "why_wrong": "È la copertura a pagamento (paid)."
+      },
+      {
+        "id": "c",
+        "text": "Solo con contenuti prodotti internamente, senza agenzie esterne",
+        "why_wrong": "Organico o a pagamento dipende dalla diffusione, non da chi ha prodotto il contenuto."
+      },
+      {
+        "id": "d",
+        "text": "Esclusivamente tra i propri follower",
+        "why_wrong": "Anche la copertura organica può raggiungere non follower, ad esempio tramite le condivisioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il contenuto organico si diffonde senza investimento pubblicitario (pubblicazione, condivisioni, passaparola); quello paid si diffonde grazie a una sponsorizzazione, che consente anche di scegliere il pubblico.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: contenuti organici e a pagamento",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "sm-str-010",
+    "subject": "social-media",
+    "question": "Un ente vuole che un avviso raggiunga, in pochi giorni, i residenti del proprio territorio di una certa fascia d'età, anche se non seguono la pagina. Lo strumento più adatto è:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un contenuto sponsorizzato, con pubblico selezionato per area geografica ed età",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Un aumento del numero di post organici nello stesso giorno",
+        "why_wrong": "I post organici raggiungono soprattutto chi già segue la pagina e non consentono di scegliere il pubblico."
+      },
+      {
+        "id": "c",
+        "text": "La pubblicazione del post in orario serale",
+        "why_wrong": "L'orario può migliorare la visibilità, ma non consente di raggiungere un pubblico definito che non segue la pagina."
+      },
+      {
+        "id": "d",
+        "text": "L'aggiunta di numerosi hashtag al post",
+        "why_wrong": "Gli hashtag favoriscono la ricerca per tema, ma non indirizzano il messaggio a un pubblico per età e territorio."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La sponsorizzazione permette di raggiungere rapidamente un pubblico definito (per area, età, interessi), anche al di fuori dei follower. È utile quando la sola diffusione organica non basta.",
+    "evidence": null,
+    "source": {
+      "act": "argomento",
+      "article": "Strategia e pianificazione: contenuti organici e a pagamento",
+      "file": null,
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
