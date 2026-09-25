@@ -1,0 +1,446 @@
+[
+  {
+    "id": "pi-pri-001",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 1, comma 2, del d.lgs. 165/2001, quale dei seguenti soggetti rientra espressamente nella nozione di \"amministrazioni pubbliche\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gli enti pubblici economici nazionali",
+        "why_wrong": "Il comma 2 richiama soltanto gli enti pubblici non economici nazionali, regionali e locali."
+      },
+      {
+        "id": "b",
+        "text": "Le Camere di commercio, industria, artigianato e agricoltura e loro associazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Le società a partecipazione pubblica maggioritaria",
+        "why_wrong": "Le società partecipate non compaiono nell'elenco delle amministrazioni pubbliche del comma 2."
+      },
+      {
+        "id": "d",
+        "text": "Le aziende pubbliche che producono servizi di pubblica utilità",
+        "why_wrong": "Queste aziende sono menzionate dall'art. 8, comma 2, ai soli fini dei limiti all'incremento del costo del lavoro, non dall'art. 1, comma 2."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 1, comma 2, elenca le amministrazioni pubbliche, tra cui le Camere di commercio, industria, artigianato e agricoltura e loro associazioni e tutti gli enti pubblici non economici nazionali, regionali e locali.",
+    "evidence": [
+      {
+        "ref": "art. 1, comma 2",
+        "text": "le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 1, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-002",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 2, comma 2, del d.lgs. 165/2001, le disposizioni di legge che introducono discipline dei rapporti di lavoro applicabili ai soli dipendenti delle amministrazioni pubbliche:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono inderogabili da parte dei contratti collettivi, in quanto disposizioni a carattere imperativo",
+        "why_wrong": "Il carattere imperativo è riferito alle disposizioni del d.lgs. 165/2001; le discipline speciali possono essere derogate dai successivi contratti collettivi nazionali."
+      },
+      {
+        "id": "b",
+        "text": "possono essere derogate anche dai contratti individuali di lavoro, se più favorevoli al dipendente",
+        "why_wrong": "Il comma 2 consente la deroga solo da parte di successivi contratti o accordi collettivi nazionali."
+      },
+      {
+        "id": "c",
+        "text": "possono essere derogate, nelle materie affidate alla contrattazione collettiva e nel rispetto dei principi del decreto, da successivi contratti o accordi collettivi nazionali",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "possono essere derogate dai contratti integrativi di ciascun ente, previa informazione sindacale",
+        "why_wrong": "Il comma 2 attribuisce il potere di deroga ai contratti o accordi collettivi nazionali."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 prevede che tali discipline possano essere derogate, nelle materie affidate alla contrattazione collettiva ai sensi dell'art. 40, comma 1, e nel rispetto dei principi del decreto, da successivi contratti o accordi collettivi nazionali; per la parte derogata non sono ulteriormente applicabili.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 2",
+        "text": "possono essere derogate ((nelle materie affidate alla contrattazione collettiva ai sensi dell'articolo 40, comma 1, e nel rispetto dei principi stabiliti dal presente decreto,)) da successivi contratti o accordi collettivi ((nazionali)) e, per la parte derogata, non sono ulteriormente applicabili"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 2, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-003",
+    "subject": "pubblico-impiego",
+    "question": "Una legge regionale ha attribuito ai dipendenti di un ente un incremento retributivo non previsto dai contratti collettivi. Ai sensi dell'art. 2, comma 3, del d.lgs. 165/2001, tale disposizione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "resta efficace a tempo indeterminato, trattandosi di fonte di rango legislativo",
+        "why_wrong": "Il comma 3 prevede che tali disposizioni cessino di avere efficacia dall'entrata in vigore del relativo rinnovo contrattuale."
+      },
+      {
+        "id": "b",
+        "text": "è nulla fin dall'origine e i relativi importi devono essere restituiti",
+        "why_wrong": "Il comma 3 non prevede la nullità originaria ma la cessazione dell'efficacia dal rinnovo contrattuale."
+      },
+      {
+        "id": "c",
+        "text": "cessa di avere efficacia decorso un anno dalla sua entrata in vigore",
+        "why_wrong": "Il comma 3 collega la cessazione dell'efficacia all'entrata in vigore del rinnovo contrattuale, non a un termine annuale."
+      },
+      {
+        "id": "d",
+        "text": "cessa di avere efficacia a far data dall'entrata in vigore del relativo rinnovo contrattuale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Secondo l'art. 2, comma 3, le disposizioni di legge, regolamenti o atti amministrativi che attribuiscono incrementi retributivi non previsti da contratti cessano di avere efficacia dall'entrata in vigore del relativo rinnovo contrattuale.",
+    "evidence": [
+      {
+        "ref": "art. 2, comma 3",
+        "text": "Le disposizioni di legge, regolamenti o atti amministrativi che attribuiscono incrementi retributivi non previsti da contratti cessano di avere efficacia a far data dall'entrata in vigore dal relativo rinnovo contrattuale."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 2, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-004",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 3, comma 1, del d.lgs. 165/2001, quale delle seguenti categorie di personale rimane disciplinata dal rispettivo ordinamento, in deroga all'art. 2, commi 2 e 3?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il personale della carriera prefettizia",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il personale dell'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN)",
+        "why_wrong": "L'ARAN è compresa tra le amministrazioni pubbliche dell'art. 1, comma 2, e il suo personale non è elencato nell'art. 3."
+      },
+      {
+        "id": "c",
+        "text": "I dirigenti delle Regioni e degli enti locali",
+        "why_wrong": "L'art. 3 non menziona i dirigenti regionali e locali; la carriera dirigenziale disciplinata dal proprio ordinamento è quella penitenziaria (comma 1-ter)."
+      },
+      {
+        "id": "d",
+        "text": "I dipendenti delle Camere di commercio",
+        "why_wrong": "Le Camere di commercio rientrano tra le amministrazioni dell'art. 1, comma 2, e non sono elencate nell'art. 3."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, comma 1, sottrae alla disciplina privatistica, tra gli altri, magistrati, avvocati e procuratori dello Stato, personale militare e delle Forze di polizia di Stato, personale della carriera diplomatica e della carriera prefettizia.",
+    "evidence": [
+      {
+        "ref": "art. 3, comma 1",
+        "text": "il personale della carriera diplomatica e della carriera prefettizia"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 3, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-005",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 4, comma 1, del d.lgs. 165/2001, quale delle seguenti attività spetta agli organi di governo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'adozione degli atti che impegnano l'amministrazione verso l'esterno",
+        "why_wrong": "Il comma 2 attribuisce ai dirigenti l'adozione degli atti e provvedimenti, compresi quelli che impegnano l'amministrazione verso l'esterno."
+      },
+      {
+        "id": "b",
+        "text": "La gestione finanziaria, tecnica e amministrativa mediante autonomi poteri di spesa",
+        "why_wrong": "La gestione finanziaria, tecnica e amministrativa spetta ai dirigenti ai sensi del comma 2."
+      },
+      {
+        "id": "c",
+        "text": "La definizione di obiettivi, priorità, piani, programmi e direttive generali per l'azione amministrativa e per la gestione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "L'organizzazione delle risorse umane e strumentali assegnate agli uffici",
+        "why_wrong": "Gli autonomi poteri di organizzazione delle risorse umane e strumentali sono attribuiti ai dirigenti dal comma 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Gli organi di governo esercitano le funzioni di indirizzo politico-amministrativo; tra gli atti loro riservati il comma 1, lett. b), indica la definizione di obiettivi, priorità, piani, programmi e direttive generali.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 1",
+        "text": "b) la definizione di obiettivi, priorità, piani, programmi e direttive generali per l'azione amministrativa e per la gestione;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 4, comma 1",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-006",
+    "subject": "pubblico-impiego",
+    "question": "Il dirigente di un ente pubblico adotta un provvedimento che impegna l'amministrazione verso l'esterno. Secondo l'art. 4, comma 2, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dirigente agisce nell'ambito delle proprie attribuzioni ed è responsabile in via esclusiva dell'attività amministrativa, della gestione e dei relativi risultati",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'atto è di competenza degli organi di governo e il dirigente può adottarlo solo su loro delega",
+        "why_wrong": "Il comma 2 attribuisce direttamente ai dirigenti tutti gli atti che impegnano l'amministrazione verso l'esterno."
+      },
+      {
+        "id": "c",
+        "text": "l'atto richiede la successiva ratifica dell'organo di governo per produrre effetti",
+        "why_wrong": "Il comma 2 non prevede ratifica: ai dirigenti spetta l'adozione degli atti e ne sono responsabili in via esclusiva."
+      },
+      {
+        "id": "d",
+        "text": "la responsabilità del risultato grava in via esclusiva sull'organo di governo che ha definito gli obiettivi",
+        "why_wrong": "Il comma 2 attribuisce ai dirigenti la responsabilità esclusiva dell'attività amministrativa, della gestione e dei risultati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Ai dirigenti spetta l'adozione degli atti e provvedimenti amministrativi, compresi tutti gli atti che impegnano l'amministrazione verso l'esterno; essi sono responsabili in via esclusiva dell'attività amministrativa, della gestione e dei relativi risultati.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 2",
+        "text": "Ai dirigenti spetta l'adozione degli atti e provvedimenti amministrativi, compresi tutti gli atti che impegnano l'amministrazione verso l'esterno"
+      },
+      {
+        "ref": "art. 4, comma 2",
+        "text": "Essi sono responsabili in via esclusiva dell'attività amministrativa, della gestione e dei relativi risultati."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 4, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-007",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 4, comma 3, del d.lgs. 165/2001, le attribuzioni dei dirigenti in materia di atti e gestione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "possono essere derogate con regolamento dell'organo di governo",
+        "why_wrong": "Il comma 3 esclude le deroghe regolamentari: occorrono specifiche disposizioni legislative."
+      },
+      {
+        "id": "b",
+        "text": "possono essere derogate soltanto espressamente e ad opera di specifiche disposizioni legislative",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "possono essere avocate dall'organo di governo in caso di urgenza",
+        "why_wrong": "Il comma 3 ammette soltanto deroghe espresse previste da specifiche disposizioni legislative."
+      },
+      {
+        "id": "d",
+        "text": "possono essere derogate dai contratti collettivi nazionali",
+        "why_wrong": "Il comma 3 riserva la deroga a specifiche disposizioni legislative."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 3 stabilisce che le attribuzioni dei dirigenti indicate al comma 2 possono essere derogate soltanto espressamente e ad opera di specifiche disposizioni legislative.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 3",
+        "text": "Le attribuzioni dei dirigenti indicate dal comma 2 possono essere derogate soltanto espressamente e ad opera di specifiche disposizioni legislative."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 4, comma 3",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-008",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 5, comma 2, del d.lgs. 165/2001, le determinazioni per l'organizzazione degli uffici e le misure inerenti alla gestione dei rapporti di lavoro sono assunte:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dagli organi di governo, previo accordo con le organizzazioni sindacali",
+        "why_wrong": "Il comma 2 le affida in via esclusiva agli organi preposti alla gestione, fatte salve la sola informazione ai sindacati o le ulteriori forme di partecipazione previste dai contratti."
+      },
+      {
+        "id": "b",
+        "text": "mediante atti amministrativi autoritativi soggetti a preventiva contrattazione integrativa",
+        "why_wrong": "Il comma 2 prevede che siano assunte con la capacità e i poteri del privato datore di lavoro."
+      },
+      {
+        "id": "c",
+        "text": "dagli organi preposti alla gestione, previo parere vincolante degli organismi di controllo interno",
+        "why_wrong": "Gli organismi di controllo interno verificano periodicamente la rispondenza delle determinazioni ai principi (comma 3), senza parere preventivo."
+      },
+      {
+        "id": "d",
+        "text": "in via esclusiva dagli organi preposti alla gestione con la capacità e i poteri del privato datore di lavoro",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 2 attribuisce tali determinazioni in via esclusiva agli organi preposti alla gestione, che operano con la capacità e i poteri del privato datore di lavoro, fatte salve la sola informazione ai sindacati ovvero le ulteriori forme di partecipazione previste dai contratti collettivi.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 2",
+        "text": "sono assunte in via esclusiva dagli organi preposti alla gestione con la capacità e i poteri del privato datore di lavoro"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 5, comma 2",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-009",
+    "subject": "pubblico-impiego",
+    "question": "Un Comune adotta il piano triennale dei fabbisogni di personale ma non ne comunica i contenuti, secondo le modalità dell'art. 60, entro trenta giorni dall'adozione. Ai sensi dell'art. 6-ter, comma 5, del d.lgs. 165/2001:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il piano perde efficacia e deve essere nuovamente adottato",
+        "why_wrong": "Il comma 5 non prevede la decadenza del piano, ma il divieto di procedere alle assunzioni."
+      },
+      {
+        "id": "b",
+        "text": "è fatto divieto al Comune di procedere alle assunzioni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il Comune incorre soltanto in una sanzione pecuniaria a carico del responsabile",
+        "why_wrong": "Il comma 5 non prevede sanzioni pecuniarie: la conseguenza è il divieto di assunzioni."
+      },
+      {
+        "id": "d",
+        "text": "le assunzioni restano consentite, ma solo mediante mobilità",
+        "why_wrong": "Il comma 5 prevede un divieto di procedere alle assunzioni, senza eccezioni per la mobilità."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 6-ter, comma 5, prevede che la comunicazione dei contenuti dei piani avvenga entro trenta giorni dalla loro adozione e che, in assenza di tale comunicazione, sia fatto divieto alle amministrazioni di procedere alle assunzioni.",
+    "evidence": [
+      {
+        "ref": "art. 6-ter, comma 5",
+        "text": "La comunicazione dei contenuti dei piani è effettuata entro trenta giorni dalla loro adozione e, in assenza di tale comunicazione, è fatto divieto alle amministrazioni di procedere alle assunzioni."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 6-ter, comma 5",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-pri-010",
+    "subject": "pubblico-impiego",
+    "question": "Un ente ha conferito a un esperto un incarico individuale di lavoro autonomo ai sensi dell'art. 7, comma 6, del d.lgs. 165/2001. Alla scadenza il progetto non è concluso per ritardi non imputabili al collaboratore. L'ente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può rinnovare l'incarico per un periodo pari a quello originario",
+        "why_wrong": "La lett. c) del comma 6 stabilisce che non è ammesso il rinnovo."
+      },
+      {
+        "id": "b",
+        "text": "può prorogare l'incarico, rideterminando in aumento il compenso pattuito",
+        "why_wrong": "La proroga è consentita ferma restando la misura del compenso pattuito in sede di affidamento."
+      },
+      {
+        "id": "c",
+        "text": "può, in via eccezionale, prorogare l'incarico al solo fine di completare il progetto, ferma restando la misura del compenso pattuito",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "deve trasformare l'incarico in rapporto di lavoro subordinato a tempo determinato",
+        "why_wrong": "Il comma 6 considera causa di responsabilità amministrativa l'utilizzo degli incaricati come lavoratori subordinati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Secondo l'art. 7, comma 6, lett. c), la prestazione deve essere temporanea e altamente qualificata, il rinnovo non è ammesso e la proroga è consentita in via eccezionale al solo fine di completare il progetto e per ritardi non imputabili al collaboratore, ferma restando la misura del compenso.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 6",
+        "text": "c) la prestazione deve essere di natura temporanea e altamente qualificata; non è ammesso il rinnovo; l'eventuale proroga dell'incarico originario è consentita, in via eccezionale, al solo fine di completare il progetto e per ritardi non imputabili al collaboratore, ferma restando la misura del compenso pattuito in sede di affidamento dell'incarico;"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 165/2001",
+      "article": "art. 7, comma 6",
+      "file": "sources/DECRETO LEGISLATIVO 30 marzo 2001 , n. 165.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "id": "pi-cod-001",
+    "subject": "pubblico-impiego",
+    "question": "A fine anno un'associazione di utenti regala occasionalmente a un istruttore comunale una confezione del valore di circa 40 euro, nell'ambito delle normali relazioni di cortesia. Il codice di comportamento del Comune non prevede limiti specifici. Ai sensi dell'art. 4 del D.P.R. 62/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dipendente può accettarla, trattandosi di regalo d'uso di modico valore, inteso in via orientativa come valore non superiore a 150 euro",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "il dipendente deve sempre rifiutarla, perché ai dipendenti pubblici è vietato accettare qualsiasi regalo",
+        "why_wrong": "Il comma 2 consente di accettare i regali d'uso di modico valore effettuati occasionalmente nelle normali relazioni di cortesia."
+      },
+      {
+        "id": "c",
+        "text": "il dipendente può accettarla solo previa autorizzazione scritta del sindaco",
+        "why_wrong": "L'art. 4 non prevede alcuna autorizzazione del sindaco per i regali d'uso di modico valore."
+      },
+      {
+        "id": "d",
+        "text": "il dipendente può accettarla solo se il valore non supera 50 euro",
+        "why_wrong": "Il comma 5 indica in via orientativa il limite di 150 euro; limiti inferiori possono essere previsti dai codici delle singole amministrazioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4 consente di accettare i regali d'uso di modico valore effettuati occasionalmente nelle normali relazioni di cortesia; il comma 5 definisce di modico valore quelli non superiori, in via orientativa, a 150 euro, salvo limiti inferiori fissati dai codici delle singole amministrazioni.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 5",
+        "text": "Ai fini del presente articolo, per regali o altre utilità di modico valore si intendono quelle di valore non superiore, in via orientativa, a 150 euro, anche sotto forma di sconto."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 4, comma 5",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-002",
+    "subject": "pubblico-impiego",
+    "question": "Un cittadino offre a un dipendente dell'ufficio tributi un buono da 20 euro per ringraziarlo di aver definito rapidamente la sua pratica. Ai sensi dell'art. 4, comma 2, del D.P.R. 62/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dipendente può accettarlo, essendo di modico valore",
+        "why_wrong": "Il comma 2 vieta regali e utilità, neanche di modico valore, a titolo di corrispettivo per un atto dell'ufficio."
+      },
+      {
+        "id": "b",
+        "text": "il dipendente può accettarlo solo se lo dichiara al responsabile dell'ufficio",
+        "why_wrong": "Il comma 2 non prevede una dichiarazione che renda lecito il regalo: il divieto opera indipendentemente dal valore."
+      },
+      {
+        "id": "c",
+        "text": "il dipendente non può riceverlo, perché è vietato chiedere o accettare regali, neanche di modico valore, a titolo di corrispettivo per aver compiuto un atto del proprio ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il dipendente può accettarlo solo se il valore non supera i 150 euro complessivi nell'anno",
+        "why_wrong": "Il limite dei 150 euro riguarda i regali d'uso di cortesia, non quelli dati come corrispettivo per un atto d'ufficio."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 4, comma 2, stabilisce che, indipendentemente dal fatto che costituisca reato, il dipendente non chiede né accetta regali o utilità, neanche di modico valore, a titolo di corrispettivo per compiere o aver compiuto un atto del proprio ufficio da soggetti che possano trarre benefici da decisioni o attività dell'ufficio.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 2",
+        "text": "In ogni caso, indipendentemente dalla circostanza che il fatto costituisca reato, il dipendente non chiede, per sé o per altri, regali o altre utilità, neanche di modico valore a titolo di corrispettivo per compiere o per aver compiuto un atto del proprio ufficio"
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 4, comma 2",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-003",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 4, comma 4, del D.P.R. 62/2013, i regali e le altre utilità ricevuti dal dipendente fuori dai casi consentiti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "possono essere trattenuti dal dipendente se il donatore rifiuta la restituzione",
+        "why_wrong": "Il comma 4 impone di metterli immediatamente a disposizione dell'amministrazione."
+      },
+      {
+        "id": "b",
+        "text": "devono essere consegnati alla Guardia di finanza",
+        "why_wrong": "Il comma 4 prevede la messa a disposizione dell'amministrazione, non la consegna alla Guardia di finanza."
+      },
+      {
+        "id": "c",
+        "text": "devono essere distrutti a cura del responsabile dell'ufficio",
+        "why_wrong": "Il comma 4 prevede la restituzione o la devoluzione a fini istituzionali."
+      },
+      {
+        "id": "d",
+        "text": "sono immediatamente messi a disposizione dell'amministrazione, a cura dello stesso dipendente, per la restituzione o per essere devoluti a fini istituzionali",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Il comma 4 stabilisce che i regali ricevuti fuori dai casi consentiti siano immediatamente messi a disposizione dell'amministrazione, a cura del dipendente cui sono pervenuti, per la restituzione o per essere devoluti a fini istituzionali.",
+    "evidence": [
+      {
+        "ref": "art. 4, comma 4",
+        "text": "I regali e le altre utilità comunque ricevuti fuori dai casi consentiti dal presente articolo, a cura dello stesso dipendente cui siano pervenuti, sono immediatamente messi a disposizione dell'Amministrazione per la restituzione o per essere devoluti a fini istituzionali."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 4, comma 4",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-004",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente dell'ufficio urbanistica aderisce a un'associazione ambientalista che interviene spesso nei procedimenti edilizi del Comune. Ai sensi dell'art. 5, comma 1, del D.P.R. 62/2013, il dipendente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non ha alcun obbligo, perché l'adesione ad associazioni rientra nella libertà personale",
+        "why_wrong": "Il comma 1 impone la comunicazione quando gli ambiti di interessi dell'associazione possono interferire con l'attività dell'ufficio."
+      },
+      {
+        "id": "b",
+        "text": "comunica tempestivamente al responsabile dell'ufficio di appartenenza la propria adesione, a prescindere dal carattere riservato o meno dell'associazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "deve recedere dall'associazione entro trenta giorni",
+        "why_wrong": "Il comma 1 prevede solo l'obbligo di comunicazione, non il recesso."
+      },
+      {
+        "id": "d",
+        "text": "deve chiedere l'autorizzazione preventiva all'ufficio per i procedimenti disciplinari",
+        "why_wrong": "Il comma 1 richiede una comunicazione al responsabile dell'ufficio, non un'autorizzazione."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1 impone al dipendente di comunicare tempestivamente al responsabile dell'ufficio l'adesione ad associazioni od organizzazioni, riservate o no, i cui ambiti di interessi possano interferire con l'attività dell'ufficio; l'obbligo non si applica all'adesione a partiti politici o sindacati.",
+    "evidence": [
+      {
+        "ref": "art. 5, comma 1",
+        "text": "il dipendente comunica tempestivamente al responsabile dell'ufficio di appartenenza la propria adesione o appartenenza ad associazioni od organizzazioni, a prescindere dal loro carattere riservato o meno, i cui ambiti di interessi possano interferire con lo svolgimento dell'attività dell'ufficio. Il presente comma non si applica all'adesione a partiti politici o a sindacati."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 5, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-005",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 6, comma 1, del D.P.R. 62/2013, all'atto dell'assegnazione all'ufficio il dipendente informa per iscritto il dirigente dei rapporti di collaborazione, diretti o indiretti, con soggetti privati in qualunque modo retribuiti, che abbia o abbia avuto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "negli ultimi due anni",
+        "why_wrong": "Il comma 1 fa riferimento agli ultimi tre anni."
+      },
+      {
+        "id": "b",
+        "text": "negli ultimi tre anni",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "negli ultimi cinque anni",
+        "why_wrong": "Il comma 1 fa riferimento agli ultimi tre anni."
+      },
+      {
+        "id": "d",
+        "text": "soltanto al momento dell'assegnazione",
+        "why_wrong": "Il comma 1 comprende anche i rapporti avuti negli ultimi tre anni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il comma 1 impone al dipendente di informare per iscritto il dirigente, all'atto dell'assegnazione all'ufficio, di tutti i rapporti di collaborazione retribuiti con soggetti privati che abbia o abbia avuto negli ultimi tre anni, precisando le circostanze indicate alle lettere a) e b).",
+    "evidence": [
+      {
+        "ref": "art. 6, comma 1",
+        "text": "il dipendente, all'atto dell'assegnazione all'ufficio, informa per iscritto il dirigente dell'ufficio di tutti i rapporti, diretti o indiretti, di collaborazione con soggetti privati in qualunque modo retribuiti che lo stesso abbia o abbia avuto negli ultimi tre anni"
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 6, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-006",
+    "subject": "pubblico-impiego",
+    "question": "Un funzionario deve istruire una domanda di contributo presentata dal proprio coniuge. Ai sensi dell'art. 7 del D.P.R. 62/2013:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può istruire la pratica, purché ne dia notizia nel provvedimento finale",
+        "why_wrong": "L'art. 7 impone l'astensione quando la decisione o l'attività possono coinvolgere interessi del coniuge."
+      },
+      {
+        "id": "b",
+        "text": "deve astenersi e sull'astensione decide il Responsabile della prevenzione della corruzione",
+        "why_wrong": "L'art. 7 attribuisce la decisione sull'astensione al responsabile dell'ufficio di appartenenza."
+      },
+      {
+        "id": "c",
+        "text": "deve astenersi solo se il conflitto di interessi è attuale e patrimoniale",
+        "why_wrong": "L'art. 7 prevede l'astensione quando le attività possano coinvolgere interessi del coniuge, e anche in ogni caso di gravi ragioni di convenienza."
+      },
+      {
+        "id": "d",
+        "text": "deve astenersi dal partecipare all'adozione delle decisioni o alle attività, e sull'astensione decide il responsabile dell'ufficio di appartenenza",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 7 impone l'astensione dalle decisioni o attività che possano coinvolgere interessi propri o, tra gli altri, del coniuge, e in ogni altro caso di gravi ragioni di convenienza; sull'astensione decide il responsabile dell'ufficio di appartenenza.",
+    "evidence": [
+      {
+        "ref": "art. 7, comma 1",
+        "text": "Il dipendente si astiene dal partecipare all'adozione di decisioni o ad attività che possano coinvolgere interessi propri, ovvero di suoi parenti, affini entro il secondo grado, del coniuge o di conviventi"
+      },
+      {
+        "ref": "art. 7, comma 1",
+        "text": "Sull'astensione decide il responsabile dell'ufficio di appartenenza."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 7, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-007",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 11-ter del D.P.R. 62/2013, nell'utilizzo dei propri account di social media il dipendente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può esprimere liberamente qualsiasi commento sull'amministrazione, trattandosi di account personale",
+        "why_wrong": "Il comma 2 impone di astenersi da interventi o commenti che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione."
+      },
+      {
+        "id": "b",
+        "text": "utilizza ogni cautela affinché le proprie opinioni o i propri giudizi non siano in alcun modo attribuibili direttamente alla pubblica amministrazione di appartenenza",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "deve ottenere l'autorizzazione dell'amministrazione prima di aprire un account",
+        "why_wrong": "L'art. 11-ter non prevede autorizzazioni per l'apertura di account personali."
+      },
+      {
+        "id": "d",
+        "text": "deve indicare sempre nel profilo l'amministrazione di appartenenza",
+        "why_wrong": "L'art. 11-ter chiede cautela affinché le opinioni non siano attribuibili all'amministrazione, non l'indicazione dell'ente di appartenenza."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 11-ter, comma 1, impone al dipendente di usare ogni cautela affinché le proprie opinioni o giudizi non siano attribuibili direttamente all'amministrazione; il comma 2 gli impone di astenersi da interventi che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione.",
+    "evidence": [
+      {
+        "ref": "art. 11-ter, comma 1",
+        "text": "Nell'utilizzo dei propri account di social media, il dipendente utilizza ogni cautela affinchè le proprie opinioni o i propri giudizi su eventi, cose o persone, non siano in alcun modo attribuibili direttamente alla pubblica amministrazione di appartenenza."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 11-ter, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-008",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 12, comma 1, del D.P.R. 62/2013, nelle operazioni da svolgersi e nella trattazione delle pratiche il dipendente, salvo diverse esigenze di servizio o diverso ordine di priorità stabilito dall'amministrazione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rispetta l'ordine cronologico e non rifiuta prestazioni a cui sia tenuto con motivazioni generiche",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "dà precedenza alle pratiche di maggior valore economico",
+        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico, salvo diverse esigenze o priorità stabilite dall'amministrazione."
+      },
+      {
+        "id": "c",
+        "text": "segue l'ordine di priorità indicato di volta in volta dall'utente",
+        "why_wrong": "Il comma 1 fa riferimento all'ordine cronologico e alle priorità stabilite dall'amministrazione, non a quelle indicate dall'utente."
+      },
+      {
+        "id": "d",
+        "text": "tratta per prime le pratiche dei cittadini residenti nel Comune",
+        "why_wrong": "Il comma 1 impone il rispetto dell'ordine cronologico; l'art. 3 vieta inoltre trattamenti discriminatori."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 12, comma 1, prevede che il dipendente rispetti, salvo diverse esigenze di servizio o diverso ordine di priorità stabilito dall'amministrazione, l'ordine cronologico, non rifiuti prestazioni dovute con motivazioni generiche, rispetti gli appuntamenti e risponda senza ritardo ai reclami.",
+    "evidence": [
+      {
+        "ref": "art. 12, comma 1",
+        "text": "Nelle operazioni da svolgersi e nella trattazione delle pratiche il dipendente rispetta, salvo diverse esigenze di servizio o diverso ordine di priorità stabilito dall'amministrazione, l'ordine cronologico e non rifiuta prestazioni a cui sia tenuto con motivazioni generiche."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 12, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-009",
+    "subject": "pubblico-impiego",
+    "question": "In un Comune privo di dirigenza, a quali soggetti si applicano le disposizioni particolari per i dirigenti dell'art. 13 del D.P.R. 62/2013?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Soltanto al segretario comunale",
+        "why_wrong": "Il comma 1 estende le norme ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza."
+      },
+      {
+        "id": "b",
+        "text": "A tutti i dipendenti dell'area dei funzionari",
+        "why_wrong": "Il comma 1 si riferisce ai funzionari responsabili di posizione organizzativa, non a tutti i funzionari."
+      },
+      {
+        "id": "c",
+        "text": "Ai funzionari responsabili di posizione organizzativa",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "A nessuno, perché l'art. 13 si applica solo agli enti con qualifica dirigenziale",
+        "why_wrong": "Il comma 1 menziona espressamente i funzionari responsabili di posizione organizzativa negli enti privi di dirigenza."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 13, comma 1, applica le disposizioni particolari ai dirigenti, compresi i titolari di incarico ex art. 19, comma 6, d.lgs. 165/2001 e art. 110 TUEL, ai soggetti con funzioni equiparate negli uffici di diretta collaborazione e ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 1",
+        "text": "nonché ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 13, comma 1",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-cod-010",
+    "subject": "pubblico-impiego",
+    "question": "Il Comune stipula un contratto di fornitura con un'impresa dalla quale il dipendente competente ha ricevuto altre utilità nel biennio precedente. Ai sensi dell'art. 14, comma 2, del D.P.R. 62/2013, il dipendente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può partecipare all'esecuzione del contratto, se le utilità erano di modico valore",
+        "why_wrong": "Il comma 2 non distingue in base al valore: il dipendente si astiene dalle decisioni e dall'esecuzione."
+      },
+      {
+        "id": "b",
+        "text": "deve informarne l'ANAC entro quindici giorni",
+        "why_wrong": "Il comma 2 prevede l'astensione con verbale scritto conservato agli atti, non una comunicazione all'ANAC."
+      },
+      {
+        "id": "c",
+        "text": "si astiene dal partecipare all'adozione delle decisioni e alle attività relative all'esecuzione del contratto, redigendo verbale scritto dell'astensione da conservare agli atti dell'ufficio",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "deve chiedere il trasferimento ad altro ufficio",
+        "why_wrong": "Il comma 2 prevede l'astensione, non il trasferimento."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Se l'amministrazione conclude contratti con imprese con cui il dipendente ha stipulato contratti a titolo privato o da cui ha ricevuto utilità nel biennio precedente, il dipendente si astiene dalle decisioni e dall'esecuzione, redigendo verbale scritto dell'astensione conservato agli atti.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 2",
+        "text": "questi si astiene dal partecipare all'adozione delle decisioni ed alle attività relative all'esecuzione del contratto, redigendo verbale scritto di tale astensione da conservare agli atti dell'ufficio."
+      }
+    ],
+    "source": {
+      "act": "D.P.R. 62/2013",
+      "article": "art. 14, comma 2",
+      "file": "sources/DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 2013 , n. 62.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "id": "pi-ccnl-001",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 13, comma 1, del CCNL Funzioni Locali 2022-2024, gli enti disciplinano le progressioni tra le aree:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mediante concorso pubblico riservato interamente al personale interno",
+        "why_wrong": "Il comma 1 prevede una procedura comparativa e fa salva una riserva di almeno il 50 per cento delle posizioni per l'accesso dall'esterno."
+      },
+      {
+        "id": "b",
+        "text": "tramite procedura comparativa, fatta salva una riserva di almeno il 50 per cento delle posizioni disponibili destinata all'accesso dall'esterno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "sulla base della sola anzianità di servizio nell'area di provenienza",
+        "why_wrong": "Il comma 1 indica come criteri la valutazione degli ultimi tre anni, l'assenza di provvedimenti disciplinari, i titoli e gli incarichi, non la sola anzianità."
+      },
+      {
+        "id": "d",
+        "text": "tramite procedura comparativa, con una riserva di almeno il 30 per cento dei posti per l'accesso dall'esterno",
+        "why_wrong": "La riserva per l'accesso dall'esterno è di almeno il 50 per cento."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 13, comma 1, prevede che, fatta salva una riserva di almeno il 50 per cento delle posizioni per l'accesso dall'esterno e nel rispetto del piano dei fabbisogni, le progressioni tra le aree avvengano tramite procedura comparativa basata su valutazione positiva degli ultimi tre anni, assenza di provvedimenti disciplinari negli ultimi due anni, titoli o competenze ulteriori e incarichi rivestiti.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 1",
+        "text": "fatta salva una riserva di almeno il 50 per cento delle posizioni disponibili destinata all’accesso dall’esterno, nel rispetto del piano triennale dei fabbisogni di personale, gli Enti disciplinano le progressioni tra le aree tramite procedura comparativa basata:"
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 13, comma 1",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-002",
+    "subject": "pubblico-impiego",
+    "question": "Un istruttore passa all'area dei funzionari a seguito di progressione tra le aree. Ai sensi dell'art. 13, comma 2, del CCNL Funzioni Locali 2022-2024:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve sempre svolgere il periodo di prova nella nuova area",
+        "why_wrong": "Il comma 2 prevede l'esonero dal periodo di prova, con il consenso del dipendente."
+      },
+      {
+        "id": "b",
+        "text": "perde le giornate di ferie maturate e non fruite nell'area di provenienza",
+        "why_wrong": "Il comma 2 stabilisce che il dipendente conserva le ferie maturate e non fruite."
+      },
+      {
+        "id": "c",
+        "text": "è esonerato dal periodo di prova, con il suo consenso, e conserva le giornate di ferie maturate e non fruite",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è esonerato dal periodo di prova solo se ha più di dieci anni di servizio",
+        "why_wrong": "Il comma 2 non prevede requisiti di anzianità per l'esonero: occorre il consenso del dipendente."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Il comma 2 stabilisce che, in caso di passaggio all'area immediatamente superiore, il dipendente è esonerato dal periodo di prova con il suo consenso e, nel rispetto della disciplina vigente, conserva le ferie maturate e non fruite e la retribuzione individuale di anzianità.",
+    "evidence": [
+      {
+        "ref": "art. 13, comma 2",
+        "text": "In caso di passaggio all’area immediatamente superiore, il dipendente è esonerato dal periodo di prova, con il consenso dello stesso, ai sensi dell’art. 21 (Periodo di prova), comma 2 del presente CCNL e, nel rispetto della disciplina vigente, conserva le giornate di ferie maturate e non fruite."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 13, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-003",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 14, comma 2, del CCNL Funzioni Locali 2022-2024, l'attribuzione dei \"differenziali stipendiali\" all'interno dell'area:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si configura come progressione economica all'interno dell'area, non determina l'attribuzione di mansioni superiori e avviene mediante procedura selettiva di area",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "comporta il passaggio all'area immediatamente superiore",
+        "why_wrong": "Il comma 2 la qualifica come progressione economica all'interno dell'area, senza mansioni superiori."
+      },
+      {
+        "id": "c",
+        "text": "è automatica al compimento di tre anni di servizio",
+        "why_wrong": "Il comma 2 prevede una procedura selettiva, con graduatoria basata su valutazioni, esperienza e altri criteri."
+      },
+      {
+        "id": "d",
+        "text": "consente di attribuire più differenziali allo stesso dipendente in una sola procedura",
+        "why_wrong": "La lett. c) esclude l'attribuzione di più di un differenziale per dipendente in ciascuna procedura selettiva."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 2 stabilisce che l'attribuzione dei differenziali stipendiali è una progressione economica all'interno dell'area, che non determina mansioni superiori, e avviene mediante procedura selettiva di area attivabile annualmente in relazione alle risorse disponibili.",
+    "evidence": [
+      {
+        "ref": "art. 14, comma 2",
+        "text": "L’attribuzione dei “differenziali stipendiali”, che si configura come progressione economica all’interno dell’area ai sensi dell’art. 52 comma 1-bis del D.gs. n. 165/2001 e non determina l’attribuzione di mansioni superiori, avviene mediante procedura selettiva di area"
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 14, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-004",
+    "subject": "pubblico-impiego",
+    "question": "Un Comune, previo confronto sindacale, introduce in via sperimentale l'articolazione dell'orario settimanale su quattro giorni prevista dall'art. 22 del CCNL Funzioni Locali 2022-2024. Quale affermazione è corretta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'articolazione su quattro giorni si applica obbligatoriamente a tutto il personale dell'ufficio interessato",
+        "why_wrong": "Il comma 2 stabilisce che l'adesione del lavoratore è volontaria."
+      },
+      {
+        "id": "b",
+        "text": "L'articolazione su quattro giorni non incide sul numero delle giornate di ferie annue",
+        "why_wrong": "Il comma 3 prevede il riproporzionamento delle giornate di ferie annue."
+      },
+      {
+        "id": "c",
+        "text": "Comporta il riproporzionamento di tutte le assenze giornaliere, compreso il permesso per matrimonio",
+        "why_wrong": "Il comma 3 fa salvo il permesso per matrimonio dal riproporzionamento."
+      },
+      {
+        "id": "d",
+        "text": "L'adesione del lavoratore è volontaria e comporta il riproporzionamento delle ferie e delle altre assenze giornaliere, fatto salvo il permesso per matrimonio",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 22 consente in via sperimentale, previo confronto, l'articolazione dell'orario su quattro giorni; l'adesione del lavoratore è volontaria (comma 2) e comporta il riproporzionamento delle ferie e delle altre assenze giornaliere, fatto salvo il permesso per matrimonio (comma 3).",
+    "evidence": [
+      {
+        "ref": "art. 22, comma 2",
+        "text": "L’adesione all’articolazione oraria su quattro giorni da parte del lavoratore è volontaria."
+      },
+      {
+        "ref": "art. 22, comma 3",
+        "text": "L’articolazione dell’orario di lavoro su quattro giorni comporta un riproporzionamento delle giornate di ferie annue nonché di tutte le altre assenze giornaliere dal servizio previste dalla legge e/o dal CCNL, fatto salvo il permesso per matrimonio."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 22, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-005",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 24, comma 3, del CCNL Funzioni Locali 2022-2024, l'eventuale debito orario derivante dall'utilizzo dell'orario flessibile deve essere recuperato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entro la fine della settimana in cui è maturato",
+        "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione."
+      },
+      {
+        "id": "b",
+        "text": "entro il mese successivo, secondo le modalità decise unilateralmente dal dipendente",
+        "why_wrong": "Il comma 3 prevede due mesi e modalità e tempi concordati con il dirigente."
+      },
+      {
+        "id": "c",
+        "text": "entro i due mesi successivi dalla maturazione, secondo le modalità e i tempi concordati con il dirigente",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "entro il 31 dicembre dell'anno di maturazione",
+        "why_wrong": "Il comma 3 fissa il termine dei due mesi successivi alla maturazione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 24, comma 3, prevede che il debito orario derivante dall'orario flessibile sia recuperato entro i due mesi successivi alla sua maturazione, secondo modalità e tempi concordati con il dirigente.",
+    "evidence": [
+      {
+        "ref": "art. 24, comma 3",
+        "text": "L’eventuale debito orario derivante dall’applicazione del comma 1 deve essere recuperato entro i due mesi successivi dalla maturazione dello stesso, secondo le modalità e i tempi concordati con il dirigente."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 24, comma 3",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-006",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 25 del CCNL Funzioni Locali 2022-2024, nell'organizzazione del lavoro su turni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "all'interno di ogni periodo di 24 ore deve essere garantito un riposo di almeno 8 ore consecutive",
+        "why_wrong": "La lett. c) del comma 3 richiede almeno 11 ore consecutive di riposo."
+      },
+      {
+        "id": "b",
+        "text": "all'interno di ogni periodo di 24 ore deve essere garantito un riposo di almeno 11 ore consecutive e, salvo esigenze eccezionali o diversa previsione integrativa, i turni notturni nel mese non possono essere più di 10",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "per turno notturno si intende il periodo compreso tra le ore 20 e le ore 8 del giorno successivo",
+        "why_wrong": "La lett. e) del comma 3 definisce turno notturno il periodo dalle ore 22 alle ore 6 del giorno successivo."
+      },
+      {
+        "id": "d",
+        "text": "il numero dei turni notturni nel mese non è soggetto ad alcun limite",
+        "why_wrong": "Il comma 4 fissa il limite di 10 turni notturni al mese, salvo eccezioni o diversa previsione della contrattazione integrativa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 25, comma 3, lett. c), impone un riposo di almeno 11 ore consecutive in ogni periodo di 24 ore; il comma 4 limita a 10 i turni notturni mensili per dipendente, salvo esigenze eccezionali, calamità o diversa previsione integrativa; il turno notturno va dalle 22 alle 6.",
+    "evidence": [
+      {
+        "ref": "art. 25, comma 3",
+        "text": "c) all'interno di ogni periodo di 24 ore deve essere garantito un periodo di riposo di almeno 11 ore consecutive;"
+      },
+      {
+        "ref": "art. 25, comma 4",
+        "text": "il numero dei turni notturni effettuabili nell'arco del mese da ciascun dipendente non può essere superiore a 10"
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 25, comma 3",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-007",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente assunto per la prima volta in una pubblica amministrazione presta servizio con orario settimanale articolato su cinque giorni. Ai sensi dell'art. 28 del CCNL Funzioni Locali 2022-2024, ha diritto a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "28 giorni lavorativi di ferie fin dal primo anno",
+        "why_wrong": "I 28 giorni spettano dopo tre anni di servizio; ai neoassunti su cinque giorni ne spettano 26 (commi 4 e 5)."
+      },
+      {
+        "id": "b",
+        "text": "30 giorni lavorativi di ferie",
+        "why_wrong": "Trenta giorni spettano ai neoassunti con orario su sei giorni."
+      },
+      {
+        "id": "c",
+        "text": "26 giorni lavorativi di ferie, che diventano 28 dopo tre anni di servizio presso una qualsiasi pubblica amministrazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "32 giorni di ferie",
+        "why_wrong": "Trentadue giorni spettano al personale non neoassunto con orario su sei giorni (comma 3)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Per i dipendenti assunti per la prima volta in una PA le ferie sono di 26 giorni (orario su cinque giorni) o 30 (su sei giorni); dopo tre anni di servizio presso una qualsiasi PA spettano rispettivamente 28 e 32 giorni.",
+    "evidence": [
+      {
+        "ref": "art. 28, comma 4",
+        "text": "Per i dipendenti assunti per la prima volta in una pubblica amministrazione, a seconda che l’articolazione oraria sia su cinque o su sei giorni, la durata delle ferie è rispettivamente di 26 e di 30 giorni lavorativi"
+      },
+      {
+        "ref": "art. 28, comma 5",
+        "text": "Dopo tre anni di servizio presso una qualsiasi pubblica amministrazione, anche con qualifica o inquadramento diverso, ai dipendenti di cui al comma 4 spettano i giorni di ferie stabiliti nei commi 2 e 3."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 28, comma 4",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-008",
+    "subject": "pubblico-impiego",
+    "question": "Durante le ferie un dipendente si ammala per cinque giorni, con malattia adeguatamente documentata, e ne informa tempestivamente l'ente. Ai sensi dell'art. 28, comma 16, del CCNL Funzioni Locali 2022-2024:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le ferie sono sospese, perché la malattia si è protratta per più di tre giorni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "le ferie non sono sospese, perché la malattia non ha dato luogo a ricovero ospedaliero",
+        "why_wrong": "Il comma 16 prevede la sospensione anche per malattie documentate protratte per più di tre giorni, senza necessità di ricovero."
+      },
+      {
+        "id": "c",
+        "text": "le ferie sono sospese solo se la malattia supera i dieci giorni",
+        "why_wrong": "Il comma 16 prevede la sospensione per malattie protratte per più di tre giorni."
+      },
+      {
+        "id": "d",
+        "text": "i giorni di malattia sono comunque computati come ferie",
+        "why_wrong": "Il comma 16 stabilisce che le ferie sono sospese dalle malattie documentate protratte per più di tre giorni o con ricovero."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il comma 16 prevede che le ferie siano sospese da malattie adeguatamente documentate protratte per più di tre giorni o che abbiano dato luogo a ricovero ospedaliero; il dipendente deve informare tempestivamente l'ente per consentire gli accertamenti.",
+    "evidence": [
+      {
+        "ref": "art. 28, comma 16",
+        "text": "Le ferie sono sospese da malattie adeguatamente e debitamente documentate che si siano protratte per più di tre giorni o abbiano dato luogo a ricovero ospedaliero."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 28, comma 16",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-009",
+    "subject": "pubblico-impiego",
+    "question": "Una dipendente si sposa il 10 maggio. Ai sensi dell'art. 31, comma 2, del CCNL Funzioni Locali 2022-2024, il permesso retribuito per matrimonio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è di 10 giorni lavorativi, da fruire entro 30 giorni dal matrimonio",
+        "why_wrong": "Il comma 2 prevede 15 giorni consecutivi, la cui fruizione deve iniziare entro 45 giorni."
+      },
+      {
+        "id": "b",
+        "text": "è di 15 giorni consecutivi e la sua fruizione deve iniziare entro 45 giorni dalla data del matrimonio",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è di 15 giorni consecutivi, da fruire obbligatoriamente a partire dal giorno del matrimonio",
+        "why_wrong": "Il comma 2 consente di iniziare la fruizione entro 45 giorni dal matrimonio."
+      },
+      {
+        "id": "d",
+        "text": "è di 15 giorni, fruibili anche in modo frazionato entro l'anno",
+        "why_wrong": "Il comma 2 prevede 15 giorni consecutivi con inizio entro 45 giorni; solo per eventi imprevisti può essere concordato un periodo diverso."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 31, comma 2, riconosce un permesso di 15 giorni consecutivi in occasione del matrimonio, la cui fruizione deve iniziare entro 45 giorni; per eventi imprevisti il dirigente può concordare un ulteriore periodo. Tali permessi non riducono le ferie (comma 3).",
+    "evidence": [
+      {
+        "ref": "art. 31, comma 2",
+        "text": "Il dipendente ha altresì diritto ad un permesso di 15 giorni consecutivi in occasione del matrimonio la cui fruizione deve iniziare entro 45 giorni dalla data in cui è stato contratto il matrimonio."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 31, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-010",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente utilizza i permessi orari per particolari motivi personali o familiari dell'art. 32 del CCNL Funzioni Locali 2022-2024 per l'intera giornata lavorativa. Quale incidenza ha l'assenza sul monte di 18 ore annue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pari all'orario effettivo che avrebbe dovuto osservare quel giorno",
+        "why_wrong": "Questo criterio è previsto dall'art. 33, comma 5, per i permessi per visite ed esami; per l'art. 32 l'incidenza è convenzionalmente di sei ore."
+      },
+      {
+        "id": "b",
+        "text": "Convenzionalmente pari a sei ore",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Pari a nove ore, corrispondenti all'orario massimo giornaliero",
+        "why_wrong": "La lett. e) del comma 2 fissa convenzionalmente l'incidenza in sei ore."
+      },
+      {
+        "id": "d",
+        "text": "Nessuna, perché i permessi dell'art. 32 non sono fruibili per l'intera giornata",
+        "why_wrong": "La lett. e) del comma 2 consente la fruizione cumulativa per l'intera giornata."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 32 riconosce 18 ore annue di permesso per particolari motivi personali o familiari, senza necessità di documentazione; la lett. e) del comma 2 consente di fruirle per l'intera giornata, con incidenza convenzionale di sei ore sul monte ore.",
+    "evidence": [
+      {
+        "ref": "art. 32, comma 2",
+        "text": "e) possono essere fruiti, cumulativamente, anche per la durata dell’intera giornata lavorativa; in tale ipotesi, l'incidenza dell'assenza sul monte ore a disposizione del dipendente è convenzionalmente pari a sei ore;"
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 32, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-011",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 33 del CCNL Funzioni Locali 2022-2024, i permessi per l'espletamento di visite, terapie, prestazioni specialistiche od esami diagnostici:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono pari a 36 ore annue e non incidono sul periodo di comporto",
+        "why_wrong": "Il comma 1 prevede 18 ore annue e il comma 2 li assimila alle assenze per malattia ai fini del comporto."
+      },
+      {
+        "id": "b",
+        "text": "sono pari a 18 ore annue, esclusi i tempi di percorrenza",
+        "why_wrong": "Il comma 1 comprende nelle 18 ore anche i tempi di percorrenza."
+      },
+      {
+        "id": "c",
+        "text": "richiedono sempre una domanda presentata con almeno dieci giorni di preavviso",
+        "why_wrong": "Il comma 8 prevede un preavviso di almeno tre giorni, riducibile nei casi urgenti."
+      },
+      {
+        "id": "d",
+        "text": "sono riconosciuti nella misura massima di 18 ore annuali, comprensive dei tempi di percorrenza, e sono assimilati alle assenze per malattia ai fini del computo del periodo di comporto",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 33 riconosce permessi per visite, terapie ed esami fino a 18 ore annue, comprensive dei tempi di percorrenza (comma 1), assimilati alle assenze per malattia ai fini del comporto e del regime economico (comma 2); la domanda va presentata con almeno tre giorni di preavviso, salvo urgenza (comma 8).",
+    "evidence": [
+      {
+        "ref": "art. 33, comma 1",
+        "text": "nella misura massima di 18 ore annuali, comprensive anche dei tempi di percorrenza da e per la sede di lavoro"
+      },
+      {
+        "ref": "art. 33, comma 2",
+        "text": "I permessi di cui al comma 1, sono assimilati alle assenze per malattia ai fini del computo del periodo di comporto e sono sottoposti al medesimo regime economico delle stesse."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 33, comma 1",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-012",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 40, comma 2, del CCNL Funzioni Locali 2022-2024, nell'individuare le attività che possono essere svolte in lavoro agile, l'amministrazione esclude:",
+    "options": [
+      {
+        "id": "a",
+        "text": "le attività svolte dal personale a tempo determinato",
+        "why_wrong": "Il comma 1 consente il lavoro agile a tutti i lavoratori, a tempo indeterminato o determinato."
+      },
+      {
+        "id": "b",
+        "text": "le attività svolte dal personale a tempo parziale",
+        "why_wrong": "Il comma 1 consente il lavoro agile sia ai lavoratori a tempo pieno sia a quelli a tempo parziale."
+      },
+      {
+        "id": "c",
+        "text": "i lavori in turno e quelli che richiedono l'utilizzo costante di strumentazioni non remotizzabili",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "tutte le attività che comportano rapporti con il pubblico",
+        "why_wrong": "Il comma 2 esclude solo i lavori in turno e quelli con uso costante di strumentazioni non remotizzabili."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 40 stabilisce che il lavoro agile ha natura consensuale e volontaria ed è consentito a tutti i lavoratori, a tempo pieno o parziale, determinato o indeterminato (comma 1); sono esclusi i lavori in turno e quelli che richiedono l'uso costante di strumentazioni non remotizzabili (comma 2).",
+    "evidence": [
+      {
+        "ref": "art. 40, comma 2",
+        "text": "Sono esclusi i lavori in turno e quelli che richiedono l’utilizzo costante di strumentazioni non remotizzabili."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 40, comma 2",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-013",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente in lavoro agile viene contattato dal dirigente alle ore 23 per un'attività non urgente. Ai sensi dell'art. 41 del CCNL Funzioni Locali 2022-2024:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il dipendente è tenuto a rispondere, perché in lavoro agile non vi sono limiti di orario",
+        "why_wrong": "Il comma 1, lett. b), prevede una fascia di inoperabilità in cui non può essere erogata alcuna prestazione."
+      },
+      {
+        "id": "b",
+        "text": "la fascia tra le ore 22 e le ore 6 rientra nella fascia di inoperabilità, nella quale il lavoratore non può erogare alcuna prestazione lavorativa, e il lavoratore ha diritto alla disconnessione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "il dipendente può rispondere e le ore sono retribuite come lavoro straordinario",
+        "why_wrong": "Il comma 3 esclude il lavoro straordinario nelle giornate in modalità agile."
+      },
+      {
+        "id": "d",
+        "text": "il dipendente deve rispondere entro la fascia di contattabilità del giorno successivo, a pena di sanzione disciplinare",
+        "why_wrong": "L'art. 41 riconosce il diritto alla disconnessione fuori dalla fascia di contattabilità e non prevede sanzioni per la mancata risposta."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 41, comma 1, lett. b), definisce la fascia di inoperabilità, che comprende le 11 ore di riposo consecutivo e il periodo tra le 22 e le 6, nella quale il lavoratore non può erogare prestazioni; il comma 6 riconosce il diritto alla disconnessione e il comma 3 esclude lo straordinario nelle giornate in agile.",
+    "evidence": [
+      {
+        "ref": "art. 41, comma 1",
+        "text": "b) fascia di inoperabilità - nella quale il lavoratore non può erogare alcuna prestazione lavorativa. Tale fascia comprende il periodo di 11 ore di riposo consecutivo di cui all’art. 29, comma 6, del CCNL 16.11.2022 a cui il lavoratore è tenuto nonché il periodo di lavoro notturno tra le ore 22:00 e le ore 6:00 del giorno successivo."
+      },
+      {
+        "ref": "art. 41, comma 6",
+        "text": "Il lavoratore ha diritto alla disconnessione."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 41, comma 1",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-014",
+    "subject": "pubblico-impiego",
+    "question": "Ai sensi dell'art. 42 del CCNL Funzioni Locali 2022-2024, nel lavoro da remoto l'amministrazione verifica l'idoneità del luogo in cui è prestata l'attività, anche ai fini della valutazione del rischio di infortuni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo su richiesta del lavoratore",
+        "why_wrong": "Il comma 6 impone la verifica nella fase di avvio e poi con frequenza almeno semestrale."
+      },
+      {
+        "id": "b",
+        "text": "una sola volta, all'atto della sottoscrizione dell'accordo individuale",
+        "why_wrong": "Il comma 6 richiede una verifica anche successiva, con frequenza almeno semestrale."
+      },
+      {
+        "id": "c",
+        "text": "nella fase di avvio e, successivamente, con frequenza almeno semestrale",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "con frequenza almeno biennale",
+        "why_wrong": "Il comma 6 prevede una frequenza almeno semestrale."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 42, comma 6, prevede che l'amministrazione concordi con il lavoratore il luogo di lavoro e ne verifichi l'idoneità, anche per la valutazione del rischio di infortuni, all'avvio e poi almeno ogni sei mesi; per il domicilio concorda tempi e modalità di accesso.",
+    "evidence": [
+      {
+        "ref": "art. 42, comma 6",
+        "text": "L’amministrazione concorda con il lavoratore il luogo o i luoghi ove viene prestata l’attività lavorativa ed è tenuta alla verifica della sua idoneità, anche ai fini della valutazione del rischio di infortuni, nella fase di avvio e, successivamente, con frequenza almeno semestrale."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 42, comma 6",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pi-ccnl-015",
+    "subject": "pubblico-impiego",
+    "question": "Un dipendente comunale è sottoposto a una misura restrittiva della libertà personale che gli impedisce di prestare servizio. Ai sensi dell'art. 50, comma 1, del CCNL Funzioni Locali 2022-2024, egli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "conserva il diritto all'intera retribuzione fino alla sentenza definitiva",
+        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio con privazione della retribuzione."
+      },
+      {
+        "id": "b",
+        "text": "può essere sospeso solo al termine del procedimento disciplinare",
+        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio per la durata dello stato restrittivo."
+      },
+      {
+        "id": "c",
+        "text": "è licenziato senza preavviso",
+        "why_wrong": "Il comma 1 prevede la sospensione d'ufficio, non il licenziamento."
+      },
+      {
+        "id": "d",
+        "text": "è sospeso d'ufficio dal servizio con privazione della retribuzione per la durata dello stato di detenzione o comunque dello stato restrittivo della libertà",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 50, comma 1, prevede che il dipendente colpito da misura restrittiva della libertà personale o da provvedimenti giudiziari inibitori che impediscano la prestazione sia sospeso d'ufficio, con privazione della retribuzione, per la durata dello stato restrittivo o del provvedimento inibitorio.",
+    "evidence": [
+      {
+        "ref": "art. 50, comma 1",
+        "text": "Il dipendente che sia colpito da misura restrittiva della libertà personale o da provvedimenti giudiziari inibitori che impediscano la prestazione lavorativa è sospeso d'ufficio dal servizio con privazione della retribuzione per la durata dello stato di detenzione o, comunque, dello stato restrittivo della libertà, o del provvedimento giudiziario inibitorio della prestazione lavorativa."
+      }
+    ],
+    "source": {
+      "act": "CCNL Funzioni Locali 2022-2024",
+      "article": "art. 50, comma 1",
+      "file": "sources/CCNL-Comparto-2022-2024-23-02-26.txt",
+      "url": null
+    },
+    "source_date": "2026-02-23",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
