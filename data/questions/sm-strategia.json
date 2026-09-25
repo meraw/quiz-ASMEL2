@@ -35,7 +35,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -74,7 +74,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -113,7 +113,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -152,7 +152,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controlli 2 e 3 non superati. La distinzione tra «piano editoriale» (strategia) e «calendario editoriale» (programmazione dei singoli post con data, ora, canale e formato) dipende dalla terminologia dei singoli autori: nella manualistica e nella prassi italiana i due termini sono spesso usati come sinonimi, e molte fonti definiscono proprio il piano editoriale come il documento che indica cosa pubblicare, quando e su quale canale. L'opzione b (Il piano editoriale) è quindi difendibile come corretta. Suggerimento: sostituire l'opzione b con un distrattore non ambiguo (es. «Il piano di comunicazione dell'ente» o «La netiquette»), oppure riformulare la domanda chiedendo lo strumento «di tipo strategico» e quello «operativo» esplicitando la distinzione nello stem.",
     "no_shuffle": false
   },
   {
@@ -191,7 +192,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -230,7 +231,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -269,7 +270,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -308,7 +309,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -347,7 +348,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -386,7 +387,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
