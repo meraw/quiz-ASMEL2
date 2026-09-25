@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pv-pri-001",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, costituisce «dato personale»:",
+    "options": [
+      { "id": "a", "text": "qualsiasi informazione riguardante una persona fisica identificata o identificabile", "why_wrong": null },
+      { "id": "b", "text": "qualsiasi informazione riguardante una persona fisica o giuridica identificata", "why_wrong": "La definizione dell'art. 4, punto 1), riguarda soltanto la persona fisica («interessato»)." },
+      { "id": "c", "text": "soltanto l'informazione che consente di identificare direttamente una persona fisica, come il nome", "why_wrong": "L'art. 4, punto 1), considera identificabile anche la persona identificabile indirettamente, ad esempio tramite dati relativi all'ubicazione o un identificativo online." },
+      { "id": "d", "text": "soltanto l'informazione contenuta in un archivio strutturato", "why_wrong": "L'«archivio» è una nozione distinta (art. 4, punto 6); la definizione di dato personale non richiede l'inserimento in un archivio." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4, punto 1), definisce dato personale qualsiasi informazione riguardante una persona fisica identificata o identificabile (l'«interessato»). È identificabile la persona che può essere identificata, direttamente o indirettamente, anche tramite un numero di identificazione, dati di ubicazione o un identificativo online.",
+    "evidence": [
+      { "ref": "art. 4, punto 1", "text": "«dato personale»: qualsiasi informazione riguardante una persona fisica identificata o identificabile («interessato»); si considera identificabile la persona fisica che può essere identificata, direttamente o indirettamente, con particolare riferimento a un identificativo come il nome, un numero di identificazione, dati relativi all'ubicazione, un identificativo online" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 4, punto 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-002",
+    "subject": "privacy",
+    "question": "Un Comune raccoglie i dati dei richiedenti un contributo per il pagamento dei canoni di locazione, stabilendo esso stesso per quali finalità e con quali mezzi i dati saranno trattati. Ai sensi del Regolamento (UE) 2016/679, il Comune è:",
+    "options": [
+      { "id": "a", "text": "titolare del trattamento", "why_wrong": null },
+      { "id": "b", "text": "responsabile del trattamento", "why_wrong": "Il responsabile tratta i dati per conto del titolare (art. 4, punto 8); chi determina finalità e mezzi è il titolare." },
+      { "id": "c", "text": "destinatario", "why_wrong": "Il destinatario è il soggetto che riceve comunicazione di dati personali (art. 4, punto 9), non chi determina finalità e mezzi del trattamento." },
+      { "id": "d", "text": "terzo", "why_wrong": "Il terzo è per definizione un soggetto diverso dall'interessato, dal titolare, dal responsabile e dalle persone autorizzate (art. 4, punto 10)." }
+    ],
+    "correct": "a",
+    "explanation": "Secondo l'art. 4, punto 7), è titolare del trattamento la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento. Un Comune che decide perché e come trattare i dati è quindi titolare.",
+    "evidence": [
+      { "ref": "art. 4, punto 7", "text": "«titolare del trattamento»: la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 4, punto 7", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-003",
+    "subject": "privacy",
+    "question": "Un Comune affida a una società informatica la gestione della piattaforma per la riscossione dei tributi locali; la società tratta i dati dei contribuenti esclusivamente per conto del Comune. Ai sensi del Regolamento (UE) 2016/679, la società è:",
+    "options": [
+      { "id": "a", "text": "responsabile del trattamento", "why_wrong": null },
+      { "id": "b", "text": "contitolare del trattamento", "why_wrong": "Si ha contitolarità quando due o più titolari determinano congiuntamente finalità e mezzi (art. 26, par. 1); qui la società tratta i dati per conto del Comune." },
+      { "id": "c", "text": "terzo", "why_wrong": "Il terzo è per definizione un soggetto diverso dal responsabile del trattamento (art. 4, punto 10)." },
+      { "id": "d", "text": "rappresentante", "why_wrong": "Il rappresentante è la persona stabilita nell'Unione designata per iscritto ai sensi dell'art. 27 per rappresentare il titolare o il responsabile (art. 4, punto 17)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4, punto 8), definisce responsabile del trattamento il soggetto (anche un'autorità pubblica o altro organismo) che tratta dati personali per conto del titolare. La società che gestisce la piattaforma per conto del Comune è quindi responsabile, mentre il Comune resta titolare.",
+    "evidence": [
+      { "ref": "art. 4, punto 8", "text": "«responsabile del trattamento»: la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento;" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 4, punto 8", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-004",
+    "subject": "privacy",
+    "question": "Un dipendente dei servizi sociali di un Comune smarrisce una chiavetta USB non cifrata che contiene gli elenchi dei beneficiari di sussidi. Ai sensi del Regolamento (UE) 2016/679, l'evento:",
+    "options": [
+      { "id": "a", "text": "costituisce una violazione dei dati personali, perché la definizione comprende anche la perdita accidentale dei dati", "why_wrong": null },
+      { "id": "b", "text": "non costituisce una violazione dei dati personali, perché non vi è stato un accesso illecito da parte di terzi", "why_wrong": "L'art. 4, punto 12), comprende anche la distruzione e la perdita, non soltanto l'accesso non autorizzato." },
+      { "id": "c", "text": "costituisce una violazione dei dati personali soltanto se la perdita è stata intenzionale", "why_wrong": "La definizione dell'art. 4, punto 12), include espressamente le violazioni che avvengono «accidentalmente»." },
+      { "id": "d", "text": "costituisce una «limitazione di trattamento»", "why_wrong": "La limitazione di trattamento è il contrassegno dei dati conservati con l'obiettivo di limitarne il trattamento in futuro (art. 4, punto 3)." }
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 4, punto 12), la violazione dei dati personali è la violazione di sicurezza che comporta, accidentalmente o in modo illecito, la distruzione, la perdita, la modifica, la divulgazione non autorizzata o l'accesso ai dati. Lo smarrimento della chiavetta è una perdita accidentale e rientra nella definizione.",
+    "evidence": [
+      { "ref": "art. 4, punto 12", "text": "«violazione dei dati personali»: la violazione di sicurezza che comporta accidentalmente o in modo illecito la distruzione, la perdita, la modifica, la divulgazione non autorizzata o l'accesso ai dati personali trasmessi, conservati o comunque trattati;" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 4, punto 12", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-005",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, la «pseudonimizzazione» è il trattamento dei dati personali in modo tale che:",
+    "options": [
+      { "id": "a", "text": "i dati non possano più essere attribuiti a un interessato specifico senza l'utilizzo di informazioni aggiuntive, conservate separatamente e soggette a misure tecniche e organizzative", "why_wrong": null },
+      { "id": "b", "text": "i dati non possano essere attribuiti all'interessato neppure con l'utilizzo di informazioni aggiuntive", "why_wrong": "La definizione dell'art. 4, punto 5), presuppone che l'attribuzione sia possibile con informazioni aggiuntive, che per questo devono essere conservate separatamente." },
+      { "id": "c", "text": "i dati siano contrassegnati con l'obiettivo di limitarne il trattamento in futuro", "why_wrong": "È la definizione di «limitazione di trattamento» (art. 4, punto 3)." },
+      { "id": "d", "text": "i dati siano utilizzati per valutare determinati aspetti personali relativi a una persona fisica", "why_wrong": "È la definizione di «profilazione» (art. 4, punto 4)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 4, punto 5), definisce la pseudonimizzazione: i dati non possono più essere attribuiti a un interessato specifico senza informazioni aggiuntive, che devono essere conservate separatamente e protette da misure tecniche e organizzative. Con quelle informazioni l'attribuzione resta possibile.",
+    "evidence": [
+      { "ref": "art. 4, punto 5", "text": "«pseudonimizzazione»: il trattamento dei dati personali in modo tale che i dati personali non possano più essere attribuiti a un interessato specifico senza l'utilizzo di informazioni aggiuntive, a condizione che tali informazioni aggiuntive siano conservate separatamente e soggette a misure tecniche e organizzative" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 4, punto 5", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-006",
+    "subject": "privacy",
+    "question": "Nel modulo di iscrizione alla mensa scolastica, un Comune chiede ai genitori anche la professione e il titolo di studio di entrambi, informazioni che non servono per erogare il servizio. Quale principio del Regolamento (UE) 2016/679 è violato?",
+    "options": [
+      { "id": "a", "text": "Minimizzazione dei dati", "why_wrong": null },
+      { "id": "b", "text": "Esattezza", "why_wrong": "Il principio di esattezza riguarda dati esatti e, se necessario, aggiornati (art. 5, par. 1, lett. d)), non la quantità di dati raccolti." },
+      { "id": "c", "text": "Limitazione della conservazione", "why_wrong": "Riguarda la durata della conservazione dei dati (art. 5, par. 1, lett. e)), non i dati raccolti." },
+      { "id": "d", "text": "Integrità e riservatezza", "why_wrong": "Riguarda la sicurezza dei dati contro trattamenti non autorizzati o illeciti, perdita, distruzione o danno (art. 5, par. 1, lett. f))." }
+    ],
+    "correct": "a",
+    "explanation": "Per il principio di minimizzazione (art. 5, par. 1, lett. c)), i dati devono essere adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità. Chiedere informazioni non necessarie al servizio di mensa viola questo principio.",
+    "evidence": [
+      { "ref": "art. 5, par. 1, lett. c)", "text": "adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità per le quali sono trattati («minimizzazione dei dati»)" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 5, par. 1, lett. c)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-007",
+    "subject": "privacy",
+    "question": "In base al principio di «limitazione della conservazione» del Regolamento (UE) 2016/679, i dati personali possono essere conservati oltre il tempo necessario al conseguimento delle finalità del trattamento:",
+    "options": [
+      { "id": "a", "text": "se trattati esclusivamente a fini di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici, con misure tecniche e organizzative adeguate", "why_wrong": null },
+      { "id": "b", "text": "se l'interessato non ne ha chiesto la cancellazione", "why_wrong": "L'art. 5, par. 1, lett. e), collega la conservazione più lunga solo alle finalità di archiviazione nel pubblico interesse, ricerca o statistica, non al comportamento dell'interessato." },
+      { "id": "c", "text": "in nessun caso", "why_wrong": "L'art. 5, par. 1, lett. e), ammette espressamente periodi più lunghi per i fini di archiviazione nel pubblico interesse, di ricerca scientifica o storica o statistici." },
+      { "id": "d", "text": "in ogni caso, se il titolare del trattamento è un'autorità pubblica", "why_wrong": "La deroga dell'art. 5, par. 1, lett. e), dipende dalle finalità del trattamento, non dalla natura pubblica del titolare." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, par. 1, lett. e), impone di conservare i dati in forma identificabile per un tempo non superiore al conseguimento delle finalità. Periodi più lunghi sono ammessi solo se i dati sono trattati esclusivamente a fini di archiviazione nel pubblico interesse, di ricerca scientifica o storica o statistici, con misure tecniche e organizzative adeguate.",
+    "evidence": [
+      { "ref": "art. 5, par. 1, lett. e)", "text": "conservati in una forma che consenta l'identificazione degli interessati per un arco di tempo non superiore al conseguimento delle finalità per le quali sono trattati; i dati personali possono essere conservati per periodi più lunghi a condizione che siano trattati esclusivamente a fini di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 5, par. 1, lett. e)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-008",
+    "subject": "privacy",
+    "question": "Nel Regolamento (UE) 2016/679, il principio per cui il titolare del trattamento è competente per il rispetto dei principi applicabili al trattamento e in grado di comprovarlo è denominato:",
+    "options": [
+      { "id": "a", "text": "responsabilizzazione", "why_wrong": null },
+      { "id": "b", "text": "liceità, correttezza e trasparenza", "why_wrong": "È il principio dell'art. 5, par. 1, lett. a), riferito alle modalità del trattamento nei confronti dell'interessato." },
+      { "id": "c", "text": "limitazione della finalità", "why_wrong": "Riguarda la raccolta per finalità determinate, esplicite e legittime e il divieto di trattamenti incompatibili (art. 5, par. 1, lett. b))." },
+      { "id": "d", "text": "integrità e riservatezza", "why_wrong": "Riguarda la sicurezza dei dati (art. 5, par. 1, lett. f))." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 5, par. 2, stabilisce che il titolare è competente per il rispetto dei principi del paragrafo 1 e deve essere in grado di comprovarlo: è il principio di «responsabilizzazione».",
+    "evidence": [
+      { "ref": "art. 5, par. 2", "text": "Il titolare del trattamento è competente per il rispetto del paragrafo 1 e in grado di comprovarlo («responsabilizzazione»)." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 5, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-009",
+    "subject": "privacy",
+    "question": "Un Comune vuole fondare il trattamento dei dati necessario allo svolgimento delle proprie funzioni istituzionali sul perseguimento di un proprio legittimo interesse. Ai sensi del Regolamento (UE) 2016/679:",
+    "options": [
+      { "id": "a", "text": "non è possibile, perché il legittimo interesse non si applica al trattamento effettuato dalle autorità pubbliche nell'esecuzione dei loro compiti", "why_wrong": null },
+      { "id": "b", "text": "è possibile, purché non prevalgano gli interessi o i diritti e le libertà fondamentali dell'interessato", "why_wrong": "Il bilanciamento con gli interessi dell'interessato è la condizione della lett. f), che però l'art. 6, par. 1, secondo comma, esclude per le autorità pubbliche nell'esecuzione dei loro compiti." },
+      { "id": "c", "text": "è possibile soltanto con il consenso dell'interessato", "why_wrong": "Il consenso è una base giuridica autonoma (art. 6, par. 1, lett. a)), non una condizione per invocare il legittimo interesse." },
+      { "id": "d", "text": "è possibile soltanto se l'interessato non è un minore", "why_wrong": "Il riferimento al minore riguarda il bilanciamento della lett. f), che comunque non si applica alle autorità pubbliche nell'esecuzione dei loro compiti." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 6, par. 1, secondo comma, esclude la base giuridica del legittimo interesse (lett. f)) per i trattamenti effettuati dalle autorità pubbliche nell'esecuzione dei loro compiti. Per le funzioni istituzionali il Comune si fonda di norma sulla lett. e) (compito di interesse pubblico o esercizio di pubblici poteri) o sulla lett. c) (obbligo legale).",
+    "evidence": [
+      { "ref": "art. 6, par. 1", "text": "La lettera f) del primo comma non si applica al trattamento di dati effettuato dalle autorità pubbliche nell'esecuzione dei loro compiti." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 6, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-010",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, la base su cui si fonda il trattamento necessario per adempiere un obbligo legale o per eseguire un compito di interesse pubblico deve essere stabilita:",
+    "options": [
+      { "id": "a", "text": "dal diritto dell'Unione o dal diritto dello Stato membro cui è soggetto il titolare del trattamento", "why_wrong": null },
+      { "id": "b", "text": "dal consenso dell'interessato", "why_wrong": "Il consenso è una distinta base giuridica (art. 6, par. 1, lett. a)); per le lettere c) ed e) la base è stabilita dal diritto dell'Unione o dello Stato membro." },
+      { "id": "c", "text": "da un provvedimento dell'autorità di controllo", "why_wrong": "L'art. 6, par. 3, affida la definizione della base giuridica al diritto dell'Unione o dello Stato membro, non all'autorità di controllo." },
+      { "id": "d", "text": "dal responsabile della protezione dei dati", "why_wrong": "Il responsabile della protezione dei dati ha compiti di consulenza e sorveglianza (art. 39); la base giuridica è stabilita dal diritto dell'Unione o dello Stato membro (art. 6, par. 3)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 6, par. 3, prevede che la base dei trattamenti fondati sul par. 1, lettere c) (obbligo legale) ed e) (compito di interesse pubblico o esercizio di pubblici poteri) sia stabilita dal diritto dell'Unione o dal diritto dello Stato membro cui è soggetto il titolare.",
+    "evidence": [
+      { "ref": "art. 6, par. 3", "text": "La base su cui si fonda il trattamento dei dati di cui al paragrafo 1, lettere c) ed e), deve essere stabilita: a) dal diritto dell'Unione; o b) dal diritto dello Stato membro cui è soggetto il titolare del trattamento." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 6, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-011",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, la revoca del consenso da parte dell'interessato:",
+    "options": [
+      { "id": "a", "text": "non pregiudica la liceità del trattamento basata sul consenso prima della revoca", "why_wrong": null },
+      { "id": "b", "text": "rende illecito anche il trattamento effettuato prima della revoca", "why_wrong": "L'art. 7, par. 3, dispone il contrario: la revoca non pregiudica la liceità del trattamento precedente." },
+      { "id": "c", "text": "è ammessa soltanto se l'interessato ne indica i motivi", "why_wrong": "L'art. 7, par. 3, consente di revocare il consenso «in qualsiasi momento», senza richiedere motivi." },
+      { "id": "d", "text": "produce effetti soltanto dopo trenta giorni dalla comunicazione al titolare", "why_wrong": "L'art. 7, par. 3, non prevede alcun termine: il consenso si revoca in qualsiasi momento e con la stessa facilità con cui è accordato." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 7, par. 3, riconosce il diritto di revocare il consenso in qualsiasi momento, con la stessa facilità con cui è stato accordato. La revoca opera per il futuro: non pregiudica la liceità del trattamento basato sul consenso prima della revoca. L'interessato ne è informato prima di prestare il consenso.",
+    "evidence": [
+      { "ref": "art. 7, par. 3", "text": "L'interessato ha il diritto di revocare il proprio consenso in qualsiasi momento. La revoca del consenso non pregiudica la liceità del trattamento basata sul consenso prima della revoca." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 7, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-012",
+    "subject": "privacy",
+    "question": "Per l'offerta diretta di servizi della società dell'informazione ai minori, l'art. 8 del Regolamento (UE) 2016/679 consente agli Stati membri di stabilire per legge un'età inferiore a 16 anni per la liceità del consenso del minore, purché non inferiore a:",
+    "options": [
+      { "id": "a", "text": "13 anni", "why_wrong": null },
+      { "id": "b", "text": "14 anni", "why_wrong": "L'art. 8, par. 1, fissa il limite minimo a 13 anni." },
+      { "id": "c", "text": "12 anni", "why_wrong": "L'art. 8, par. 1, fissa il limite minimo a 13 anni." },
+      { "id": "d", "text": "15 anni", "why_wrong": "L'art. 8, par. 1, fissa il limite minimo a 13 anni." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 8, par. 1, considera lecito il trattamento basato sul consenso del minore che abbia almeno 16 anni; sotto tale età il consenso deve essere prestato o autorizzato dal titolare della responsabilità genitoriale. Gli Stati membri possono abbassare per legge questa età, ma non sotto i 13 anni.",
+    "evidence": [
+      { "ref": "art. 8, par. 1", "text": "Gli Stati membri possono stabilire per legge un'età inferiore a tali fini purché non inferiore ai 13 anni." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 8, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-013",
+    "subject": "privacy",
+    "question": "Quale dei seguenti dati rientra nelle categorie particolari di dati personali di cui all'art. 9 del Regolamento (UE) 2016/679?",
+    "options": [
+      { "id": "a", "text": "I dati che rivelano l'appartenenza sindacale", "why_wrong": null },
+      { "id": "b", "text": "I dati relativi a condanne penali e reati", "why_wrong": "Sono disciplinati separatamente dall'art. 10, non dall'art. 9, par. 1." },
+      { "id": "c", "text": "I dati relativi all'ubicazione", "why_wrong": "Sono indicati dall'art. 4, punto 1), come possibile identificativo di un dato personale, ma non compaiono nell'elenco dell'art. 9, par. 1." },
+      { "id": "d", "text": "I dati relativi alla situazione economica", "why_wrong": "La situazione economica compare nella definizione di profilazione (art. 4, punto 4), non nell'elenco dell'art. 9, par. 1." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, par. 1, vieta in linea di principio il trattamento dei dati che rivelano origine razziale o etnica, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, nonché dei dati genetici, biometrici intesi a identificare in modo univoco una persona, relativi alla salute, alla vita sessuale o all'orientamento sessuale. I dati su condanne penali e reati hanno una disciplina propria (art. 10).",
+    "evidence": [
+      { "ref": "art. 9, par. 1", "text": "È vietato trattare dati personali che rivelino l'origine razziale o etnica, le opinioni politiche, le convinzioni religiose o filosofiche, o l'appartenenza sindacale" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 9, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-014",
+    "subject": "privacy",
+    "question": "Un Comune deve trattare, senza il consenso degli interessati, dati relativi alla salute per un motivo di interesse pubblico rilevante. Ai sensi dell'art. 9 del Regolamento (UE) 2016/679, il trattamento è ammesso se:",
+    "options": [
+      { "id": "a", "text": "avviene sulla base del diritto dell'Unione o degli Stati membri, proporzionato alla finalità e con misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato", "why_wrong": null },
+      { "id": "b", "text": "il Comune lo ritiene opportuno con una valutazione discrezionale motivata", "why_wrong": "L'art. 9, par. 2, lett. g), richiede una base nel diritto dell'Unione o degli Stati membri, non una valutazione discrezionale del titolare." },
+      { "id": "c", "text": "i dati sono stati resi manifestamente pubblici dall'interessato", "why_wrong": "È un'ipotesi diversa (art. 9, par. 2, lett. e)), estranea al motivo di interesse pubblico rilevante." },
+      { "id": "d", "text": "l'interessato si trova nell'incapacità fisica o giuridica di prestare il consenso", "why_wrong": "È l'ipotesi della lett. c), che riguarda la tutela di un interesse vitale dell'interessato o di un'altra persona fisica." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 9, par. 2, lett. g), consente il trattamento delle categorie particolari di dati quando è necessario per motivi di interesse pubblico rilevante sulla base del diritto dell'Unione o degli Stati membri. Tale diritto deve essere proporzionato alla finalità, rispettare l'essenza del diritto alla protezione dei dati e prevedere misure appropriate e specifiche a tutela dell'interessato.",
+    "evidence": [
+      { "ref": "art. 9, par. 2, lett. g)", "text": "il trattamento è necessario per motivi di interesse pubblico rilevante sulla base del diritto dell'Unione o degli Stati membri, che deve essere proporzionato alla finalità perseguita, rispettare l'essenza del diritto alla protezione dei dati e prevedere misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 9, par. 2, lett. g)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-pri-015",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, un eventuale registro completo delle condanne penali:",
+    "options": [
+      { "id": "a", "text": "deve essere tenuto soltanto sotto il controllo dell'autorità pubblica", "why_wrong": null },
+      { "id": "b", "text": "può essere tenuto da qualsiasi titolare, con il consenso esplicito degli interessati", "why_wrong": "L'art. 10 riserva la tenuta del registro completo delle condanne penali al controllo dell'autorità pubblica." },
+      { "id": "c", "text": "è vietato in ogni caso", "why_wrong": "L'art. 10 non vieta il registro completo, ma ne ammette la tenuta sotto il controllo dell'autorità pubblica." },
+      { "id": "d", "text": "può essere tenuto da chiunque dimostri un legittimo interesse", "why_wrong": "L'art. 10 riserva la tenuta del registro completo delle condanne penali al controllo dell'autorità pubblica." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 10 consente il trattamento dei dati relativi a condanne penali e reati solo sotto il controllo dell'autorità pubblica o se autorizzato dal diritto dell'Unione o degli Stati membri con garanzie appropriate. Il registro completo delle condanne penali può essere tenuto soltanto sotto il controllo dell'autorità pubblica.",
+    "evidence": [
+      { "ref": "art. 10", "text": "Un eventuale registro completo delle condanne penali deve essere tenuto soltanto sotto il controllo dell'autorità pubblica." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 10", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

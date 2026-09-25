@@ -194,6 +194,20 @@ is a paragraph. For an article like that, the check counts the paragraphs after
 the article title as comma 1, comma 2, and so on. A numbered list inside a
 comma ("1)", "1°", "a)") stays part of that comma.
 
+EU acts (e.g. the GDPR) number paragraphs, not commas, so `ref` can also be
+written `"art. 6, par. 1"` (read like `comma 1`), optionally followed by a
+letter: `"art. 5, par. 1, lett. c)"` (the quote must still be inside that
+paragraph). An article made of numbered points, such as the GDPR definitions,
+is cited by point: `"art. 4, punto 7"`. An EU article with a single unnumbered
+paragraph is cited as a whole: `"art. 10"`.
+
+The check reads a source file only up to the closing formula of its act
+("Il presente decreto, munito del sigillo dello Stato..." or "Fatto a
+Bruxelles, il ..."). Annexes and other acts saved in the same file (the
+codes of conduct after the d.lgs. 196/2003, the directive published after the
+GDPR in the same Official Journal) are not read, so their article numbers
+never replace the act's own.
+
 It runs automatically before every deploy. To run it yourself you need
 Python 3 and nothing else. From the project folder run:
 

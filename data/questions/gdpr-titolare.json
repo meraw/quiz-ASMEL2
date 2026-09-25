@@ -1,0 +1,307 @@
+[
+  {
+    "id": "pv-tit-001",
+    "subject": "privacy",
+    "question": "Ai sensi dell'art. 24 del Regolamento (UE) 2016/679, il titolare mette in atto misure tecniche e organizzative adeguate per garantire, ed essere in grado di dimostrare, che il trattamento è conforme al Regolamento. Tali misure:",
+    "options": [
+      { "id": "a", "text": "sono riesaminate e aggiornate qualora necessario", "why_wrong": null },
+      { "id": "b", "text": "sono definite una volta per tutte al momento dell'avvio del trattamento", "why_wrong": "L'art. 24, par. 1, prevede espressamente che le misure siano riesaminate e aggiornate qualora necessario." },
+      { "id": "c", "text": "devono essere approvate preventivamente dall'autorità di controllo", "why_wrong": "L'art. 24 non prevede un'approvazione preventiva; l'adesione a codici di condotta o a meccanismi di certificazione può servire come elemento di prova (par. 3)." },
+      { "id": "d", "text": "sono richieste soltanto per i trattamenti di categorie particolari di dati", "why_wrong": "L'art. 24, par. 1, riguarda ogni trattamento, tenuto conto di natura, ambito di applicazione, contesto, finalità e rischi." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 24, par. 1, esprime il principio di responsabilizzazione: il titolare, tenuto conto di natura, ambito, contesto, finalità e rischi del trattamento, adotta misure tecniche e organizzative adeguate per garantire e dimostrare la conformità al Regolamento, e le riesamina e aggiorna qualora necessario.",
+    "evidence": [
+      { "ref": "art. 24, par. 1", "text": "il titolare del trattamento mette in atto misure tecniche e organizzative adeguate per garantire, ed essere in grado di dimostrare, che il trattamento è effettuato conformemente al presente regolamento. Dette misure sono riesaminate e aggiornate qualora necessario." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 24, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-002",
+    "subject": "privacy",
+    "question": "Un Comune attiva un portale per le segnalazioni dei cittadini e lo configura in modo che, per impostazione predefinita, siano trattati solo i dati necessari e questi non siano resi accessibili a un numero indefinito di persone senza l'intervento della persona interessata. Il Comune applica così:",
+    "options": [
+      { "id": "a", "text": "la protezione dei dati per impostazione predefinita", "why_wrong": null },
+      { "id": "b", "text": "la pseudonimizzazione", "why_wrong": "La pseudonimizzazione (art. 4, punto 5) è una delle misure tecniche citate dall'art. 25, par. 1, non l'obbligo di trattare per impostazione predefinita solo i dati necessari." },
+      { "id": "c", "text": "la limitazione del trattamento", "why_wrong": "La limitazione è il contrassegno dei dati conservati per limitarne il trattamento futuro (art. 4, punto 3) e un diritto dell'interessato (art. 18)." },
+      { "id": "d", "text": "la portabilità dei dati", "why_wrong": "La portabilità è un diritto dell'interessato di ricevere e trasmettere i propri dati (art. 20)." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 25, par. 2, impone al titolare di garantire che siano trattati, per impostazione predefinita, solo i dati necessari per ogni specifica finalità, quanto a quantità, portata del trattamento, conservazione e accessibilità. In particolare i dati non devono essere resi accessibili a un numero indefinito di persone senza l'intervento della persona fisica.",
+    "evidence": [
+      { "ref": "art. 25, par. 2", "text": "Il titolare del trattamento mette in atto misure tecniche e organizzative adeguate per garantire che siano trattati, per impostazione predefinita, solo i dati personali necessari per ogni specifica finalità del trattamento." },
+      { "ref": "art. 25, par. 2", "text": "In particolare, dette misure garantiscono che, per impostazione predefinita, non siano resi accessibili dati personali a un numero indefinito di persone fisiche senza l'intervento della persona fisica." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 25, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-003",
+    "subject": "privacy",
+    "question": "Due Comuni che gestiscono in forma associata un servizio determinano congiuntamente le finalità e i mezzi del trattamento dei dati degli utenti. Ai sensi del Regolamento (UE) 2016/679:",
+    "options": [
+      { "id": "a", "text": "sono contitolari del trattamento e l'interessato può esercitare i propri diritti nei confronti di ciascuno di essi, indipendentemente dall'accordo interno", "why_wrong": null },
+      { "id": "b", "text": "l'interessato può esercitare i propri diritti solo nei confronti del Comune indicato nell'accordo interno come punto di contatto", "why_wrong": "L'art. 26, par. 3, consente di esercitare i diritti nei confronti di e contro ciascun titolare, indipendentemente dalle disposizioni dell'accordo." },
+      { "id": "c", "text": "uno dei due Comuni deve essere designato responsabile del trattamento per conto dell'altro", "why_wrong": "Quando finalità e mezzi sono determinati congiuntamente si ha contitolarità (art. 26, par. 1); il responsabile tratta invece i dati per conto del titolare (art. 4, punto 8)." },
+      { "id": "d", "text": "il contenuto dell'accordo interno è riservato e non può essere reso noto agli interessati", "why_wrong": "L'art. 26, par. 2, dispone che il contenuto essenziale dell'accordo sia messo a disposizione dell'interessato." }
+    ],
+    "correct": "a",
+    "explanation": "Per l'art. 26, par. 1, due o più titolari che determinano congiuntamente finalità e mezzi sono contitolari e definiscono con un accordo interno le rispettive responsabilità. Il contenuto essenziale dell'accordo è messo a disposizione dell'interessato (par. 2), che può comunque esercitare i propri diritti nei confronti di ciascun titolare (par. 3).",
+    "evidence": [
+      { "ref": "art. 26, par. 1", "text": "Allorché due o più titolari del trattamento determinano congiuntamente le finalità e i mezzi del trattamento, essi sono contitolari del trattamento." },
+      { "ref": "art. 26, par. 3", "text": "Indipendentemente dalle disposizioni dell'accordo di cui al paragrafo 1, l'interessato può esercitare i propri diritti ai sensi del presente regolamento nei confronti di e contro ciascun titolare del trattamento." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 26, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-004",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, il responsabile del trattamento può ricorrere a un altro responsabile:",
+    "options": [
+      { "id": "a", "text": "soltanto previa autorizzazione scritta, specifica o generale, del titolare del trattamento", "why_wrong": null },
+      { "id": "b", "text": "liberamente, purché ne dia comunicazione all'autorità di controllo", "why_wrong": "L'art. 28, par. 2, richiede la previa autorizzazione scritta del titolare, non una comunicazione all'autorità di controllo." },
+      { "id": "c", "text": "soltanto previa autorizzazione dell'autorità di controllo", "why_wrong": "L'autorizzazione richiesta dall'art. 28, par. 2, è quella del titolare del trattamento." },
+      { "id": "d", "text": "liberamente, dato che resta comunque responsabile verso il titolare per gli inadempimenti dell'altro responsabile", "why_wrong": "La responsabilità del responsabile iniziale verso il titolare (art. 28, par. 4) non sostituisce la previa autorizzazione scritta del titolare richiesta dal par. 2." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 28, par. 2, vieta al responsabile di ricorrere a un altro responsabile senza la previa autorizzazione scritta, specifica o generale, del titolare. In caso di autorizzazione generale, il responsabile informa il titolare delle modifiche previste, dandogli l'opportunità di opporsi.",
+    "evidence": [
+      { "ref": "art. 28, par. 2", "text": "Il responsabile del trattamento non ricorre a un altro responsabile senza previa autorizzazione scritta, specifica o generale, del titolare del trattamento." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 28, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-005",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, se un responsabile del trattamento viola il Regolamento determinando le finalità e i mezzi del trattamento:",
+    "options": [
+      { "id": "a", "text": "è considerato un titolare del trattamento in questione", "why_wrong": null },
+      { "id": "b", "text": "diventa contitolare insieme al titolare originario", "why_wrong": "L'art. 28, par. 10, lo considera titolare del trattamento in questione; la contitolarità (art. 26) presuppone una determinazione congiunta di finalità e mezzi." },
+      { "id": "c", "text": "resta responsabile del trattamento e della violazione risponde soltanto il titolare", "why_wrong": "L'art. 28, par. 10, lo considera titolare del trattamento in questione, fatti salvi gli articoli 82, 83 e 84." },
+      { "id": "d", "text": "deve restituire i dati al titolare e il trattamento resta imputato a quest'ultimo", "why_wrong": "La restituzione dei dati riguarda la fine della prestazione dei servizi (art. 28, par. 3, lett. g)); la conseguenza prevista dal par. 10 è la qualificazione come titolare." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 28, par. 10, stabilisce che, fatti salvi gli articoli 82, 83 e 84, il responsabile che viola il Regolamento determinando finalità e mezzi del trattamento è considerato titolare del trattamento in questione.",
+    "evidence": [
+      { "ref": "art. 28, par. 10", "text": "Fatti salvi gli articoli 82, 83 e 84, se un responsabile del trattamento viola il presente regolamento, determinando le finalità e i mezzi del trattamento, è considerato un titolare del trattamento in questione." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 28, par. 10", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-006",
+    "subject": "privacy",
+    "question": "Un Comune con 40 dipendenti tratta in modo non occasionale dati relativi alla salute degli utenti dei servizi sociali. Ai sensi del Regolamento (UE) 2016/679, il Comune deve tenere il registro delle attività di trattamento?",
+    "options": [
+      { "id": "a", "text": "Sì, perché l'esenzione per le organizzazioni con meno di 250 dipendenti non opera quando il trattamento non è occasionale o include categorie particolari di dati", "why_wrong": null },
+      { "id": "b", "text": "No, perché le organizzazioni con meno di 250 dipendenti sono sempre esenti", "why_wrong": "L'esenzione dell'art. 30, par. 5, non opera se il trattamento può presentare un rischio, non è occasionale o include categorie particolari di dati." },
+      { "id": "c", "text": "No, perché il registro è obbligatorio soltanto per i responsabili del trattamento", "why_wrong": "L'art. 30, par. 1, impone il registro a ogni titolare del trattamento; il par. 2 lo prevede anche per i responsabili." },
+      { "id": "d", "text": "Sì, ma soltanto se l'autorità di controllo ne fa richiesta", "why_wrong": "Su richiesta dell'autorità il registro va messo a sua disposizione (art. 30, par. 4); l'obbligo di tenerlo discende dal par. 1." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 30, par. 5, esenta dal registro le imprese e organizzazioni con meno di 250 dipendenti, ma non quando il trattamento può presentare un rischio, non è occasionale o include categorie particolari di dati (art. 9, par. 1) o dati su condanne penali e reati. Un trattamento non occasionale di dati sanitari fa venir meno l'esenzione.",
+    "evidence": [
+      { "ref": "art. 30, par. 5", "text": "Gli obblighi di cui ai paragrafi 1 e 2 non si applicano alle imprese o organizzazioni con meno di 250 dipendenti, a meno che il trattamento che esse effettuano possa presentare un rischio per i diritti e le libertà dell'interessato, il trattamento non sia occasionale o includa il trattamento di categorie particolari di dati di cui all'articolo 9, paragrafo 1" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 30, par. 5", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-007",
+    "subject": "privacy",
+    "question": "Tra le misure tecniche e organizzative che l'art. 32 del Regolamento (UE) 2016/679 indica, se del caso, per garantire un livello di sicurezza adeguato al rischio, rientra:",
+    "options": [
+      { "id": "a", "text": "la pseudonimizzazione e la cifratura dei dati personali", "why_wrong": null },
+      { "id": "b", "text": "la designazione di un rappresentante nell'Unione", "why_wrong": "È un obbligo distinto, previsto dall'art. 27 per titolari e responsabili non stabiliti nell'Unione." },
+      { "id": "c", "text": "la consultazione preventiva dell'autorità di controllo", "why_wrong": "È un adempimento distinto (art. 36), legato all'esito della valutazione d'impatto." },
+      { "id": "d", "text": "la designazione del responsabile della protezione dei dati", "why_wrong": "È un obbligo distinto, disciplinato dall'art. 37." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 32, par. 1, chiede a titolare e responsabile misure tecniche e organizzative che garantiscano un livello di sicurezza adeguato al rischio. Tra queste, se del caso: pseudonimizzazione e cifratura; riservatezza, integrità, disponibilità e resilienza dei sistemi; ripristino tempestivo dei dati dopo un incidente; verifica periodica dell'efficacia delle misure.",
+    "evidence": [
+      { "ref": "art. 32, par. 1, lett. a)", "text": "la pseudonimizzazione e la cifratura dei dati personali" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 32, par. 1, lett. a)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-008",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, in caso di violazione dei dati personali che presenti un rischio per i diritti e le libertà delle persone fisiche, il titolare la notifica all'autorità di controllo competente:",
+    "options": [
+      { "id": "a", "text": "senza ingiustificato ritardo e, ove possibile, entro 72 ore dal momento in cui ne è venuto a conoscenza", "why_wrong": null },
+      { "id": "b", "text": "entro un mese dal momento in cui ne è venuto a conoscenza", "why_wrong": "Un mese è il termine per rispondere alle richieste dell'interessato (art. 12, par. 3)." },
+      { "id": "c", "text": "entro 24 ore dal verificarsi della violazione", "why_wrong": "Il termine dell'art. 33, par. 1, è di 72 ore e decorre dal momento in cui il titolare è venuto a conoscenza della violazione." },
+      { "id": "d", "text": "entro 72 ore dal verificarsi della violazione, senza possibilità di notifica tardiva", "why_wrong": "Le 72 ore decorrono dalla conoscenza della violazione, e l'art. 33, par. 1, ammette la notifica tardiva corredata dei motivi del ritardo." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 33, par. 1, impone al titolare di notificare la violazione all'autorità di controllo senza ingiustificato ritardo e, ove possibile, entro 72 ore da quando ne è venuto a conoscenza, a meno che sia improbabile che la violazione presenti un rischio per i diritti e le libertà delle persone fisiche.",
+    "evidence": [
+      { "ref": "art. 33, par. 1", "text": "In caso di violazione dei dati personali, il titolare del trattamento notifica la violazione all'autorità di controllo competente a norma dell'articolo 55 senza ingiustificato ritardo e, ove possibile, entro 72 ore dal momento in cui ne è venuto a conoscenza" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 33, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-009",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, se la notifica di una violazione dei dati personali all'autorità di controllo non è effettuata entro 72 ore:",
+    "options": [
+      { "id": "a", "text": "è corredata dei motivi del ritardo", "why_wrong": null },
+      { "id": "b", "text": "non può più essere effettuata", "why_wrong": "L'art. 33, par. 1, ammette la notifica oltre le 72 ore, purché corredata dei motivi del ritardo." },
+      { "id": "c", "text": "è sostituita dalla comunicazione della violazione agli interessati", "why_wrong": "La comunicazione agli interessati (art. 34) è un obbligo distinto, legato al rischio elevato, e non sostituisce la notifica all'autorità." },
+      { "id": "d", "text": "deve essere effettuata dal responsabile della protezione dei dati in luogo del titolare", "why_wrong": "La notifica spetta al titolare (art. 33, par. 1); nella notifica si comunicano il nome e i dati di contatto del RPD o di altro punto di contatto (par. 3, lett. b))." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 33, par. 1, secondo periodo, prevede che la notifica effettuata oltre le 72 ore sia corredata dei motivi del ritardo. Il par. 4 consente inoltre di fornire le informazioni in fasi successive, se non è possibile fornirle contestualmente.",
+    "evidence": [
+      { "ref": "art. 33, par. 1", "text": "Qualora la notifica all'autorità di controllo non sia effettuata entro 72 ore, è corredata dei motivi del ritardo." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 33, par. 1", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-010",
+    "subject": "privacy",
+    "question": "A un Comune viene rubato un computer portatile con dati relativi alla salute di numerosi cittadini; i dati erano cifrati e quindi incomprensibili a chiunque non fosse autorizzato ad accedervi. Ai sensi dell'art. 34 del Regolamento (UE) 2016/679, la comunicazione della violazione agli interessati:",
+    "options": [
+      { "id": "a", "text": "non è richiesta, perché ai dati erano state applicate misure di protezione, quali la cifratura, che li rendono incomprensibili a chi non è autorizzato", "why_wrong": null },
+      { "id": "b", "text": "è sempre obbligatoria quando la violazione riguarda dati relativi alla salute", "why_wrong": "L'art. 34, par. 3, lett. a), esclude la comunicazione quando ai dati erano applicate misure che li rendono incomprensibili, quali la cifratura, a prescindere dalla natura dei dati." },
+      { "id": "c", "text": "deve essere effettuata entro 72 ore", "why_wrong": "Le 72 ore riguardano la notifica all'autorità di controllo (art. 33, par. 1); la comunicazione agli interessati, quando dovuta, avviene senza ingiustificato ritardo (art. 34, par. 1)." },
+      { "id": "d", "text": "deve essere sostituita da una comunicazione pubblica", "why_wrong": "La comunicazione pubblica è prevista quando la comunicazione individuale richiederebbe sforzi sproporzionati (art. 34, par. 3, lett. c))." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 34, par. 1, impone di comunicare agli interessati le violazioni suscettibili di presentare un rischio elevato. Il par. 3, lett. a), esclude però la comunicazione se il titolare aveva applicato ai dati violati misure adeguate di protezione, in particolare quelle che li rendono incomprensibili a chi non è autorizzato, come la cifratura.",
+    "evidence": [
+      { "ref": "art. 34, par. 3, lett. a)", "text": "il titolare del trattamento ha messo in atto le misure tecniche e organizzative adeguate di protezione e tali misure erano state applicate ai dati personali oggetto della violazione, in particolare quelle destinate a rendere i dati personali incomprensibili a chiunque non sia autorizzato ad accedervi, quali la cifratura" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 34, par. 3, lett. a)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-011",
+    "subject": "privacy",
+    "question": "Un Comune intende installare un impianto di videosorveglianza che riprende in modo sistematico e su larga scala le principali piazze e vie cittadine. Ai sensi del Regolamento (UE) 2016/679, prima di procedere al trattamento il Comune:",
+    "options": [
+      { "id": "a", "text": "deve effettuare una valutazione d'impatto sulla protezione dei dati", "why_wrong": null },
+      { "id": "b", "text": "deve ottenere il consenso delle persone riprese", "why_wrong": "Per la sorveglianza sistematica su larga scala di una zona accessibile al pubblico l'art. 35, par. 3, lett. c), richiede la valutazione d'impatto, non il consenso." },
+      { "id": "c", "text": "deve in ogni caso consultare preventivamente l'autorità di controllo", "why_wrong": "La consultazione preventiva è necessaria solo se la valutazione d'impatto indica un rischio elevato in assenza di misure di attenuazione (art. 36, par. 1)." },
+      { "id": "d", "text": "non ha adempimenti specifici, trattandosi di luoghi accessibili al pubblico", "why_wrong": "Proprio la sorveglianza sistematica su larga scala di una zona accessibile al pubblico è uno dei casi in cui l'art. 35, par. 3, richiede la valutazione d'impatto." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 35, par. 1, impone la valutazione d'impatto prima dei trattamenti che possono presentare un rischio elevato. Il par. 3, lett. c), la richiede in particolare per la sorveglianza sistematica su larga scala di una zona accessibile al pubblico, come un impianto di videosorveglianza cittadino.",
+    "evidence": [
+      { "ref": "art. 35, par. 3, lett. c)", "text": "la sorveglianza sistematica su larga scala di una zona accessibile al pubblico" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 35, par. 3, lett. c)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-012",
+    "subject": "privacy",
+    "question": "Nello svolgimento della valutazione d'impatto sulla protezione dei dati, ai sensi del Regolamento (UE) 2016/679:",
+    "options": [
+      { "id": "a", "text": "il titolare la effettua e si consulta con il responsabile della protezione dei dati, qualora ne sia designato uno", "why_wrong": null },
+      { "id": "b", "text": "il responsabile della protezione dei dati la effettua in luogo del titolare", "why_wrong": "Il RPD fornisce, se richiesto, un parere sulla valutazione d'impatto e ne sorveglia lo svolgimento (art. 39, par. 1, lett. c)); la valutazione è effettuata dal titolare (art. 35, par. 1)." },
+      { "id": "c", "text": "l'autorità di controllo la effettua su richiesta del titolare", "why_wrong": "L'autorità di controllo redige gli elenchi dei trattamenti soggetti o non soggetti a valutazione (art. 35, par. 4 e 5); la valutazione spetta al titolare." },
+      { "id": "d", "text": "il responsabile del trattamento la effettua in ogni caso", "why_wrong": "Il responsabile assiste il titolare nel rispetto degli obblighi degli articoli da 32 a 36 (art. 28, par. 3, lett. f)); la valutazione spetta al titolare." }
+    ],
+    "correct": "a",
+    "explanation": "La valutazione d'impatto è effettuata dal titolare (art. 35, par. 1), che si consulta con il responsabile della protezione dei dati, se designato (art. 35, par. 2). Il RPD fornisce, se richiesto, un parere e ne sorveglia lo svolgimento (art. 39, par. 1, lett. c)).",
+    "evidence": [
+      { "ref": "art. 35, par. 2", "text": "Il titolare del trattamento, allorquando svolge una valutazione d'impatto sulla protezione dei dati, si consulta con il responsabile della protezione dei dati, qualora ne sia designato uno." },
+      { "ref": "art. 39, par. 1, lett. c)", "text": "fornire, se richiesto, un parere in merito alla valutazione d'impatto sulla protezione dei dati e sorvegliarne lo svolgimento ai sensi dell'articolo 35" }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 35, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-013",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, nella consultazione preventiva, se ritiene che il trattamento previsto violi il Regolamento, l'autorità di controllo fornisce un parere scritto al titolare entro:",
+    "options": [
+      { "id": "a", "text": "otto settimane dal ricevimento della richiesta di consultazione, prorogabili di sei settimane", "why_wrong": null },
+      { "id": "b", "text": "72 ore dal ricevimento della richiesta di consultazione", "why_wrong": "Le 72 ore sono il termine, ove possibile, per la notifica di una violazione dei dati personali (art. 33, par. 1)." },
+      { "id": "c", "text": "un mese dal ricevimento della richiesta, prorogabile di due mesi", "why_wrong": "È il termine per rispondere alle richieste dell'interessato (art. 12, par. 3)." },
+      { "id": "d", "text": "tre mesi dal ricevimento della richiesta, non prorogabili", "why_wrong": "Tre mesi è il termine previsto dall'art. 78, par. 2, per l'inerzia dell'autorità sul reclamo." }
+    ],
+    "correct": "a",
+    "explanation": "Il titolare consulta l'autorità di controllo prima del trattamento se la valutazione d'impatto indica un rischio elevato in assenza di misure di attenuazione (art. 36, par. 1). Se ritiene che il trattamento violi il Regolamento, l'autorità fornisce un parere scritto entro otto settimane, prorogabili di sei settimane in base alla complessità (art. 36, par. 2).",
+    "evidence": [
+      { "ref": "art. 36, par. 2", "text": "l'autorità di controllo fornisce, entro un termine di otto settimane dal ricevimento della richiesta di consultazione, un parere scritto al titolare del trattamento" },
+      { "ref": "art. 36, par. 2", "text": "Tale periodo può essere prorogato di sei settimane, tenendo conto della complessità del trattamento previsto." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 36, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-014",
+    "subject": "privacy",
+    "question": "Alcuni piccoli Comuni intendono designare un unico responsabile della protezione dei dati. Ai sensi del Regolamento (UE) 2016/679:",
+    "options": [
+      { "id": "a", "text": "è possibile, perché per più autorità pubbliche o organismi pubblici può essere designato un unico RPD, tenuto conto della loro struttura organizzativa e dimensione", "why_wrong": null },
+      { "id": "b", "text": "non è possibile, perché ogni autorità pubblica deve designare un proprio RPD", "why_wrong": "L'art. 37, par. 3, consente espressamente di designare un unico RPD per più autorità pubbliche o organismi pubblici." },
+      { "id": "c", "text": "non è necessario, perché la designazione del RPD è obbligatoria soltanto per i trattamenti su larga scala", "why_wrong": "Per le autorità pubbliche e gli organismi pubblici la designazione è obbligatoria in base all'art. 37, par. 1, lett. a), a prescindere dalla larga scala." },
+      { "id": "d", "text": "è possibile soltanto se il RPD è dipendente di uno dei Comuni", "why_wrong": "L'art. 37, par. 6, consente che il RPD sia un dipendente oppure assolva i suoi compiti in base a un contratto di servizi." }
+    ],
+    "correct": "a",
+    "explanation": "Le autorità pubbliche e gli organismi pubblici devono designare un responsabile della protezione dei dati (art. 37, par. 1, lett. a)). Il par. 3 consente di designare un unico RPD per più autorità o organismi pubblici, tenuto conto della loro struttura organizzativa e dimensione.",
+    "evidence": [
+      { "ref": "art. 37, par. 1, lett. a)", "text": "il trattamento è effettuato da un'autorità pubblica o da un organismo pubblico, eccettuate le autorità giurisdizionali quando esercitano le loro funzioni giurisdizionali" },
+      { "ref": "art. 37, par. 3", "text": "Qualora il titolare del trattamento o il responsabile del trattamento sia un'autorità pubblica o un organismo pubblico, un unico responsabile della protezione dei dati può essere designato per più autorità pubbliche o organismi pubblici, tenuto conto della loro struttura organizzativa e dimensione." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 37, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "pv-tit-015",
+    "subject": "privacy",
+    "question": "Ai sensi del Regolamento (UE) 2016/679, il responsabile della protezione dei dati:",
+    "options": [
+      { "id": "a", "text": "non riceve alcuna istruzione per l'esecuzione dei propri compiti e riferisce direttamente al vertice gerarchico del titolare o del responsabile", "why_wrong": null },
+      { "id": "b", "text": "può essere rimosso dal titolare se esprime un parere negativo sulla valutazione d'impatto", "why_wrong": "L'art. 38, par. 3, dispone che il RPD non sia rimosso o penalizzato per l'adempimento dei propri compiti." },
+      { "id": "c", "text": "non può svolgere altri compiti e funzioni", "why_wrong": "L'art. 38, par. 6, gli consente di svolgere altri compiti e funzioni, purché non diano adito a un conflitto di interessi." },
+      { "id": "d", "text": "riceve istruzioni dall'autorità di controllo, alla quale riferisce", "why_wrong": "Il RPD non riceve istruzioni per l'esecuzione dei compiti e riferisce al vertice gerarchico (art. 38, par. 3); con l'autorità di controllo coopera (art. 39, par. 1, lett. d))." }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 38, par. 3, garantisce l'indipendenza del RPD: titolare e responsabile si assicurano che non riceva istruzioni sull'esecuzione dei compiti, non può essere rimosso o penalizzato per averli adempiuti e riferisce direttamente al vertice gerarchico.",
+    "evidence": [
+      { "ref": "art. 38, par. 3", "text": "Il titolare del trattamento e il responsabile del trattamento si assicurano che il responsabile della protezione dei dati non riceva alcuna istruzione per quanto riguarda l'esecuzione di tali compiti. Il responsabile della protezione dei dati non è rimosso o penalizzato dal titolare del trattamento o dal responsabile del trattamento per l'adempimento dei propri compiti. Il responsabile della protezione dei dati riferisce direttamente al vertice gerarchico del titolare del trattamento o del responsabile del trattamento." }
+    ],
+    "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 38, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

@@ -4,7 +4,14 @@ Check that every `evidence` quote in the question files is copied verbatim
 from the law text saved in sources/.
 
 For each question with an `evidence` list, and for each item in it:
-  1. `ref` must look like "art. 25, comma 4" (also "art. 27, comma 2-bis");
+  1. `ref` must look like "art. 25, comma 4" (also "art. 27, comma 2-bis").
+     EU acts number paragraphs instead of commas: "art. 6, par. 1" is read
+     like "art. 6, comma 1". A final ", lett. c)" is allowed and does not
+     change the check (the quote must be inside that comma or paragraph).
+     Articles made of numbered points, such as the definitions of the GDPR,
+     use "art. 4, punto 7": the quote must be inside that point. An EU
+     article made of a single unnumbered paragraph is cited as "art. 16":
+     the quote must be inside that article;
   2. `text` must appear, word for word, inside THAT comma of THAT article
      of the source file. When an article has no numbered commas (e.g. the
      codice penale), its commas are its paragraphs, counted from 1 after the
@@ -16,6 +23,11 @@ It also warns when `source.article` does not match the evidence refs.
 The source file is the one named in each question's `source.file`, e.g.
 "sources/L241-1990_2026-09-24.txt" (a path inside the project folder).
 A question with `evidence` but no `source.file` is an error.
+
+A source file ends at the closing formula of its act ("Il presente decreto,
+munito del sigillo dello Stato..." or, for EU acts, "Fatto a Bruxelles, il
+..."): what follows (annexes, other acts published in the same Official
+Journal) is not read, so its article numbers never replace the act's own.
 
 Every .json file in data/questions/ is checked (index.json excluded).
 
@@ -32,13 +44,22 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUESTIONS_DIR = os.path.join(ROOT, 'data', 'questions')
 SOURCES_DIR = os.path.join(ROOT, 'sources')
 
-SUFFIX = r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies))?'
+SUFFIX = (r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies'
+          r'|undecies|duodecies|terdecies|quaterdecies|quinquiesdecies|sexiesdecies|septiesdecies))?')
 # "Art. 25" (Normattiva laws), "Articolo 25" (some Normattiva texts, e.g. the
 # TUEL) or "Art. 314." (codice penale): the final dot is optional
 ARTICLE_RE = re.compile(r'^\s*Art(?:\.|icolo)\s+(\d+' + SUFFIX + r')\.?\s*$')
 # A comma starts at the beginning of a line: "3. ", "2-bis. ", "((2. ", "1.((COMMA..."
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
-REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+comma\s+(\d+' + SUFFIX + r')$')
+REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
+                    r'(?:,\s+lett\.\s+[a-z]+\))?$')
+# "art. 4, punto 7": a numbered point "7)" of an article made of points
+POINT_REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+punto\s+(\d+)$')
+# "art. 16": the whole article (EU articles with a single unnumbered paragraph)
+ARTICLE_REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r')$')
+POINT_RE = re.compile(r'^\s*(\d+)\)\s+\S')
+# The closing formula of the act: nothing after it belongs to the act
+END_RE = re.compile(r'^\s*(?:Il presente decreto, munito del sigillo dello Stato|Fatto a \S.*, il )')
 
 
 def norm(text):
@@ -89,14 +110,23 @@ def unnumbered_commas(lines):
 
 
 def parse_law(path):
-    """Return {article: {comma: normalised text}} for one source file."""
+    """Return {article: {comma: normalised text}} for one source file.
+
+    Numbered points ("7)") are also stored, under the key "punto 7".
+    """
     with open(path, encoding='utf-8') as f:
         lines = f.read().replace('\r\n', '\n').replace('\r', '\n').split('\n')
     law, article, comma, buf, raw = {}, None, None, [], []
+    points, point, pbuf = {}, None, []
 
     def flush():
         if article is not None and comma is not None:
             law.setdefault(article, {})[comma] = norm('\n'.join(buf))
+
+    def flush_point():
+        # A point ends at the next point or at the end of its article
+        if article is not None and point is not None:
+            points.setdefault(article, {})['punto ' + point] = norm('\n'.join(pbuf))
 
     def end_article():
         # An article with no numbered comma: its paragraphs are its commas
@@ -106,11 +136,16 @@ def parse_law(path):
                 law[article] = commas
 
     for line in lines:
+        if END_RE.match(line):
+            break
         m = ARTICLE_RE.match(line)
         if m:
             flush()
+            flush_point()
             end_article()
             article, comma, buf, raw = m.group(1), None, [], []
+            point, pbuf = None, []
+            points.pop(article, None)
             # The same article number seen again (e.g. the single article of an
             # approving decree before the text it approves): the later one wins
             law.pop(article, None)
@@ -118,11 +153,19 @@ def parse_law(path):
         # A new Capo, or the "-----" line before the notes/updates: the comma ends here
         if line.strip().startswith('CAPO ') or line.strip().startswith('-----'):
             flush()
+            flush_point()
             end_article()
             article, comma, buf, raw = None, None, [], []
+            point, pbuf = None, []
             continue
         if article is not None:
             raw.append(line)
+            p = POINT_RE.match(line)
+            if p:
+                flush_point()
+                point, pbuf = p.group(1), [line]
+            elif point is not None:
+                pbuf.append(line)
         m = COMMA_RE.match(line) if article is not None else None
         # A comma number already seen in this article is not a new comma: it is
         # the text of another act quoted inside the current comma (e.g. "1. ...",
@@ -136,7 +179,12 @@ def parse_law(path):
         if comma is not None:
             buf.append(line)
     flush()
+    flush_point()
     end_article()
+    for art, pts in points.items():
+        law.setdefault(art, {})
+        for key, text in pts.items():
+            law[art].setdefault(key, text)
     return law
 
 
@@ -191,12 +239,19 @@ def main():
                 checked += 1
                 ref, text = (e or {}).get('ref', ''), (e or {}).get('text', '')
                 m = REF_RE.match(ref.strip())
-                if not m:
-                    errors.append('%s evidence %d: ref %r is not in the form "art. X, comma Y"' % (qid, i, ref))
+                p = POINT_REF_RE.match(ref.strip())
+                w = ARTICLE_REF_RE.match(ref.strip())
+                if not m and not p and not w:
+                    errors.append('%s evidence %d: ref %r is not in the form "art. X, comma Y" (or "par. Y", "punto Y", "art. X")' % (qid, i, ref))
                     continue
-                art, com = m.groups()
                 refs.append(ref.strip())
-                body = law.get(art, {}).get(com)
+                if w:
+                    art = w.group(1)
+                    commas = [t for c, t in law.get(art, {}).items() if not c.startswith('punto ')]
+                    body = ' '.join(commas) if commas else None
+                else:
+                    art, com = m.groups() if m else (p.group(1), 'punto ' + p.group(2))
+                    body = law.get(art, {}).get(com)
                 if body is None:
                     errors.append('%s evidence %d: %s not found in %s' % (qid, i, ref, os.path.basename(path)))
                 elif norm(text) not in body:
