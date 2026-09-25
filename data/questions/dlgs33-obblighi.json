@@ -6,23 +6,23 @@
     "options": [
       {
         "id": "a",
-        "text": "entro trenta giorni dall'elezione e per i due anni successivi alla cessazione del mandato",
-        "why_wrong": "Trenta giorni e due anni sono i termini previsti per gli incarichi conferiti dalle società controllate (art. 15-bis)."
+        "text": "entro trenta giorni dall'elezione e per i due anni successivi alla cessazione del mandato, comprese le informazioni sulla situazione patrimoniale",
+        "why_wrong": "Trenta giorni e due anni sono i termini previsti per gli incarichi conferiti dalle società controllate (art. 15-bis, comma 1); l'art. 14, comma 2, prevede tre mesi e tre anni."
       },
       {
         "id": "b",
-        "text": "entro tre mesi dall'elezione e per i tre anni successivi alla cessazione del mandato, salve le informazioni sulla situazione patrimoniale, pubblicate fino alla cessazione del mandato",
+        "text": "entro tre mesi dall'elezione e per i tre anni successivi alla cessazione del mandato, salve le informazioni patrimoniali, pubblicate fino alla cessazione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "tempestivamente e per 5 anni dal 1° gennaio dell'anno successivo",
-        "why_wrong": "La regola generale dell'art. 8, comma 3, fa salvi proprio i termini dell'art. 14, comma 2."
+        "text": "tempestivamente e per 5 anni dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo, e comunque finché gli atti producono i loro effetti",
+        "why_wrong": "È la regola generale dell'art. 8, comma 3, che fa salvi proprio i termini dell'art. 14, comma 2."
       },
       {
         "id": "d",
-        "text": "entro tre mesi dall'elezione e fino alla cessazione del mandato per tutti i dati",
-        "why_wrong": "I dati restano pubblicati per i tre anni successivi alla cessazione; solo quelli patrimoniali cessano con il mandato."
+        "text": "entro tre mesi dall'elezione e fino alla cessazione del mandato per tutti i dati, compresi il curriculum, i compensi e gli altri incarichi ricoperti dal sindaco",
+        "why_wrong": "I dati restano pubblicati per i tre anni successivi alla cessazione; solo le informazioni patrimoniali cessano con il mandato (art. 14, comma 2)."
       }
     ],
     "correct": "b",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -50,22 +51,22 @@
     "options": [
       {
         "id": "a",
-        "text": "non produce conseguenze, trattandosi di obiettivi programmatici",
+        "text": "non produce conseguenze giuridiche, trattandosi di obiettivi meramente programmatici inseriti nell'atto di conferimento",
         "why_wrong": "Il comma 1-quater collega al mancato raggiungimento la responsabilità dirigenziale."
       },
       {
         "id": "b",
-        "text": "comporta la decadenza immediata dall'incarico",
+        "text": "comporta la decadenza immediata dall'incarico, dichiarata dall'organo di indirizzo politico che lo ha conferito",
         "why_wrong": "Il comma 1-quater prevede la responsabilità dirigenziale e la valutazione per i successivi incarichi, non la decadenza."
       },
       {
         "id": "c",
-        "text": "determina responsabilità dirigenziale ai sensi dell'art. 21 del d.lgs. 165/2001 e se ne tiene conto ai fini del conferimento di successivi incarichi",
+        "text": "determina responsabilità dirigenziale ai sensi dell'art. 21 del d.lgs. 165/2001 e se ne tiene conto per i successivi incarichi",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "comporta una sanzione amministrativa pecuniaria da 500 a 10.000 euro",
+        "text": "comporta una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del dirigente, irrogata dall'Autorità nazionale anticorruzione",
         "why_wrong": "Questa sanzione riguarda la mancata comunicazione dei dati patrimoniali dell'art. 14 (art. 47, comma 1)."
       }
     ],
@@ -92,7 +93,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -107,17 +109,17 @@
       },
       {
         "id": "b",
-        "text": "sono adempimenti successivi che non incidono sull'efficacia dell'incarico",
-        "why_wrong": "Il comma 2 le qualifica espressamente come condizioni di efficacia dell'atto e di liquidazione dei compensi."
+        "text": "sono adempimenti successivi, da compiere entro tre mesi dal conferimento, che non incidono sull'efficacia dell'incarico",
+        "why_wrong": "Il termine di tre mesi riguarda la pubblicazione (art. 15, comma 4), ma il comma 2 le qualifica come condizioni di efficacia dell'atto e di liquidazione dei compensi."
       },
       {
         "id": "c",
-        "text": "sono necessarie solo se il compenso supera mille euro",
+        "text": "sono necessarie solo se il compenso supera mille euro nel corso dell'anno solare al medesimo beneficiario",
         "why_wrong": "La soglia di mille euro riguarda i vantaggi economici dell'art. 26; il comma 2 si applica a tutti gli incarichi per cui è previsto un compenso."
       },
       {
         "id": "d",
-        "text": "sono condizioni di validità dell'atto, la cui mancanza ne determina la nullità",
+        "text": "sono condizioni di validità dell'atto di conferimento, la cui mancanza ne determina la nullità insanabile",
         "why_wrong": "Il comma 2 parla di condizioni di efficacia e di liquidazione dei compensi, non di validità."
       }
     ],
@@ -140,7 +142,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -150,22 +153,22 @@
     "options": [
       {
         "id": "a",
-        "text": "è nullo e il consulente deve restituire le somme",
-        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente e una sanzione, non la restituzione da parte del consulente."
+        "text": "determina la responsabilità del Responsabile per la trasparenza, accertata dall'ANAC, e la decurtazione dal 30 al 60 per cento dell'indennità di risultato",
+        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente che ha disposto il pagamento e una sanzione pari alla somma corrisposta; la decurtazione dal 30 al 60 per cento è prevista dall'art. 47, commi 1-bis e 2."
       },
       {
         "id": "b",
-        "text": "non produce alcuna conseguenza se l'incarico è stato regolarmente svolto",
-        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente che ha disposto il pagamento."
+        "text": "obbliga il consulente a restituire le somme percepite e comporta per il dirigente una sanzione amministrativa pecuniaria da 500 a 10.000 euro",
+        "why_wrong": "Il comma 3 non prevede la restituzione da parte del consulente e fissa la sanzione in misura pari alla somma corrisposta; la sanzione da 500 a 10.000 euro è quella dell'art. 47, comma 1."
       },
       {
         "id": "c",
-        "text": "comporta la sospensione del consulente dall'albo professionale",
-        "why_wrong": "Il comma 3 non prevede conseguenze per il consulente sul piano professionale."
+        "text": "determina la responsabilità del solo consulente percettore, tenuto a versare una sanzione pari alla somma corrisposta",
+        "why_wrong": "Il comma 3 prevede la responsabilità del dirigente che ha disposto il pagamento, non del consulente."
       },
       {
         "id": "d",
-        "text": "determina la responsabilità del dirigente che l'ha disposto, accertata all'esito del procedimento disciplinare, e comporta il pagamento di una sanzione pari alla somma corrisposta",
+        "text": "determina la responsabilità del dirigente che l'ha disposto, accertata all'esito del procedimento disciplinare, e una sanzione pari alla somma corrisposta",
         "why_wrong": null
       }
     ],
@@ -184,7 +187,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -194,23 +198,23 @@
     "options": [
       {
         "id": "a",
-        "text": "il Comune non può erogare alla società alcuna somma, neppure il corrispettivo del contratto",
+        "text": "il Comune non può erogare alla società alcuna somma a qualsivoglia titolo, neppure il corrispettivo del contratto",
         "why_wrong": "Il divieto esclude i pagamenti dovuti a fronte di obbligazioni contrattuali per prestazioni svolte."
       },
       {
         "id": "b",
-        "text": "il Comune non può erogare il contributo straordinario, ma può pagare il corrispettivo dovuto per la prestazione contrattuale svolta",
+        "text": "il Comune non può erogare il contributo, ma può pagare il corrispettivo dovuto per la prestazione contrattuale svolta",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "il Comune può erogare entrambe le somme, perché il divieto riguarda solo gli enti pubblici vigilati",
+        "text": "il Comune può erogare entrambe le somme, perché il divieto riguarda solo gli enti pubblici vigilati e non le società partecipate",
         "why_wrong": "Il divieto riguarda tutti gli enti del comma 1, comprese le società partecipate."
       },
       {
         "id": "d",
-        "text": "il Comune può erogare entrambe le somme previa autorizzazione dell'Autorità nazionale anticorruzione",
-        "why_wrong": "Il comma 4 non prevede autorizzazioni in deroga."
+        "text": "il Comune può erogare entrambe le somme, a condizione che pubblichi i dati mancanti entro trenta giorni dall'erogazione",
+        "why_wrong": "Il comma 4 vieta l'erogazione in caso di mancata o incompleta pubblicazione, con la sola esclusione dei pagamenti per obbligazioni contrattuali."
       }
     ],
     "correct": "b",
@@ -228,7 +232,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -328,23 +333,23 @@
     "options": [
       {
         "id": "a",
-        "text": "è esclusa la pubblicazione dei dati identificativi delle persone fisiche destinatarie, se da essi è possibile ricavare informazioni sulla situazione di disagio economico-sociale",
+        "text": "è esclusa la pubblicazione dei dati identificativi dei beneficiari persone fisiche, se ne rivelano la situazione di disagio economico-sociale",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "devono essere pubblicati nome e cognome dei beneficiari, perché la pubblicazione è condizione di efficacia",
-        "why_wrong": "Il comma 4 esclude la pubblicazione dei dati identificativi quando rivelano disagio economico-sociale o stato di salute."
+        "text": "devono essere pubblicati nome e cognome dei beneficiari, perché la pubblicazione è condizione legale di efficacia del provvedimento",
+        "why_wrong": "La pubblicazione è condizione di efficacia (comma 3), ma il comma 4 esclude la pubblicazione dei dati identificativi quando rivelano disagio economico-sociale o stato di salute."
       },
       {
         "id": "c",
-        "text": "la concessione non va pubblicata in alcuna forma",
+        "text": "la concessione non va pubblicata in alcuna forma, trattandosi di un provvedimento relativo a una situazione di disagio economico-sociale",
         "why_wrong": "Il comma 4 esclude solo la pubblicazione dei dati identificativi delle persone fisiche, non ogni pubblicazione."
       },
       {
         "id": "d",
-        "text": "i dati identificativi sono pubblicati previo consenso degli interessati",
-        "why_wrong": "Il comma 4 esclude la pubblicazione dei dati identificativi, senza prevedere il consenso come deroga."
+        "text": "i dati identificativi sono pubblicati solo previo consenso degli interessati, dando in ogni caso evidenza dell'eventuale mancato consenso",
+        "why_wrong": "Consenso ed evidenza del mancato consenso riguardano le dichiarazioni di coniuge e parenti dell'art. 14, comma 1, lett. f); il comma 4 esclude la pubblicazione dei dati identificativi senza prevedere il consenso come deroga."
       }
     ],
     "correct": "a",
@@ -362,7 +367,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -372,22 +378,22 @@
     "options": [
       {
         "id": "a",
-        "text": "deve respingere l'istanza, perché non redatta sul modulo prescritto",
-        "why_wrong": "Il comma 2 vieta di respingere l'istanza per il mancato utilizzo dei moduli."
+        "text": "deve respingere l'istanza, perché non redatta sul modulo prescritto, salvo che l'istante la ripresenti correttamente entro un termine congruo",
+        "why_wrong": "Il comma 2 vieta di respingere l'istanza per il mancato utilizzo dei moduli e impone di invitare l'istante a integrare la documentazione."
       },
       {
         "id": "b",
-        "text": "deve dichiarare improcedibile l'istanza fino alla pubblicazione del modulo",
-        "why_wrong": "Il comma 2 prevede che il procedimento possa essere avviato anche in assenza del modulo non pubblicato."
+        "text": "deve dichiarare improcedibile l'istanza fino alla pubblicazione del modulo, che va pubblicato sul sito insieme agli atti e documenti da allegare all'istanza di parte",
+        "why_wrong": "Il comma 1, lett. d), impone di pubblicare la modulistica, ma il comma 2 consente di avviare il procedimento anche in assenza del modulo non pubblicato."
       },
       {
         "id": "c",
-        "text": "non può richiedere l'uso di un modulo non pubblicato; il procedimento può essere avviato anche senza modulo e, se mancano documenti, il Comune deve invitare l'istante a integrare la documentazione in un termine congruo",
+        "text": "non può esigere il modulo non pubblicato, il procedimento può avviarsi anche senza e, se mancano documenti, l'istante va invitato a integrarli in un termine congruo",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "può chiedere all'istante di ripresentare l'istanza sul modulo, interrompendo i termini",
+        "text": "può chiedere all'istante di ripresentare l'istanza sul modulo non pubblicato, con interruzione dei termini del procedimento fino alla nuova presentazione",
         "why_wrong": "Il comma 2 vieta di richiedere l'uso di moduli non pubblicati."
       }
     ],
@@ -406,7 +412,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -505,22 +512,22 @@
     "options": [
       {
         "id": "a",
-        "text": "soltanto all'ufficio di disciplina",
+        "text": "soltanto all'ufficio di disciplina, ai fini dell'eventuale attivazione del procedimento disciplinare",
         "why_wrong": "L'ufficio di disciplina è destinatario solo nei casi più gravi; le segnalazioni vanno anche a organo di indirizzo, OIV e ANAC."
       },
       {
         "id": "b",
-        "text": "al prefetto e alla Corte dei conti",
+        "text": "al prefetto e alla Corte dei conti, ai fini dell'attivazione delle altre forme di responsabilità",
         "why_wrong": "La segnalazione alla Corte dei conti, «se del caso», è prevista per l'ANAC (art. 45, comma 4), non per il Responsabile."
       },
       {
         "id": "c",
-        "text": "all'organo di indirizzo politico, all'OIV, all'Autorità nazionale anticorruzione e, nei casi più gravi, all'ufficio di disciplina",
+        "text": "all'organo di indirizzo politico, all'OIV, all'ANAC e, nei casi più gravi, all'ufficio di disciplina",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "al solo organismo indipendente di valutazione",
+        "text": "al solo organismo indipendente di valutazione, che ne tiene conto nella valutazione della performance individuale",
         "why_wrong": "Il comma 1 indica più destinatari: organo di indirizzo, OIV, ANAC e, nei casi più gravi, ufficio di disciplina."
       }
     ],
@@ -539,7 +546,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -549,22 +557,22 @@
     "options": [
       {
         "id": "a",
-        "text": "irroga le sanzioni per la violazione degli obblighi di trasparenza",
-        "why_wrong": "Le sanzioni dell'art. 47 sono irrogate dall'ANAC (art. 47, comma 3)."
+        "text": "irroga le sanzioni per la violazione degli obblighi di trasparenza, secondo il procedimento disciplinato con regolamento dell'Autorità nazionale anticorruzione",
+        "why_wrong": "Le sanzioni dell'art. 47 sono irrogate dall'ANAC, che ne disciplina il procedimento con proprio regolamento (art. 47, comma 3)."
       },
       {
         "id": "b",
-        "text": "verifica la coerenza tra gli obiettivi del Piano triennale per la prevenzione della corruzione e quelli del Piano della performance, valutando l'adeguatezza dei relativi indicatori",
+        "text": "verifica la coerenza tra gli obiettivi del Piano triennale per la prevenzione della corruzione e quelli del Piano della performance, valutando l'adeguatezza degli indicatori",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "pubblica i dati nella sezione «Amministrazione trasparente» in sostituzione degli uffici",
-        "why_wrong": "Il flusso delle informazioni è garantito dai dirigenti (art. 43, comma 3)."
+        "text": "garantisce il tempestivo e regolare flusso delle informazioni da pubblicare nella sezione «Amministrazione trasparente», ai fini del rispetto dei termini di legge",
+        "why_wrong": "Il flusso delle informazioni è garantito dai dirigenti responsabili degli uffici (art. 43, comma 3)."
       },
       {
         "id": "d",
-        "text": "ordina alle amministrazioni di procedere alla pubblicazione entro trenta giorni",
+        "text": "ordina alle amministrazioni di procedere, entro un termine non superiore a trenta giorni, alla pubblicazione di dati, documenti e informazioni e alla rimozione degli atti contrastanti",
         "why_wrong": "Questo potere spetta all'ANAC (art. 45, comma 1)."
       }
     ],
@@ -583,7 +591,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -686,22 +695,22 @@
     "options": [
       {
         "id": "a",
-        "text": "costituiscono reato di omissione di atti d'ufficio",
+        "text": "costituiscono reato di omissione di atti d'ufficio, che il Responsabile per la trasparenza è tenuto a segnalare all'autorità giudiziaria",
         "why_wrong": "Il comma 1 non qualifica l'inadempimento come reato, ma come elemento di valutazione negativa della responsabilità dirigenziale."
       },
       {
         "id": "b",
-        "text": "comportano la nullità degli atti non pubblicati",
+        "text": "comportano la nullità degli atti non pubblicati e dei provvedimenti di diniego dell'accesso civico, rilevabile da chiunque vi abbia interesse",
         "why_wrong": "Il comma 1 disciplina la responsabilità dei dirigenti, non la validità degli atti."
       },
       {
         "id": "c",
-        "text": "rilevano solo se segnalati dal difensore civico",
-        "why_wrong": "Il comma 1 non subordina la responsabilità a segnalazioni del difensore civico."
+        "text": "costituiscono causa di decadenza del dirigente dall'incarico e di esclusione dal conferimento di successivi incarichi dirigenziali per i tre anni successivi",
+        "why_wrong": "Il comma 1 li qualifica come elemento di valutazione negativa della responsabilità dirigenziale ed eventuale causa di danno all'immagine, non come causa di decadenza."
       },
       {
         "id": "d",
-        "text": "costituiscono elemento di valutazione negativa della responsabilità dirigenziale ed eventuale causa di responsabilità per danno all'immagine dell'amministrazione, valutata ai fini della retribuzione di risultato",
+        "text": "costituiscono elemento di valutazione negativa della responsabilità dirigenziale ed eventuale causa di responsabilità per danno all'immagine dell'amministrazione",
         "why_wrong": null
       }
     ],
@@ -720,7 +729,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -774,22 +784,22 @@
     "options": [
       {
         "id": "a",
-        "text": "alla decurtazione dal 30 al 60 per cento dell'indennità di risultato",
-        "why_wrong": "Questa sanzione è prevista dal comma 1-bis per il responsabile della mancata pubblicazione e dal comma 2 per altri casi."
+        "text": "alla decurtazione dal 30 al 60 per cento dell'indennità di risultato a carico del responsabile della mancata comunicazione",
+        "why_wrong": "La decurtazione è prevista dal comma 1-bis per il responsabile della mancata pubblicazione e dal comma 2 per gli obblighi dell'art. 22, comma 2."
       },
       {
         "id": "b",
-        "text": "alla decadenza dalla carica",
+        "text": "alla decadenza dalla carica, dichiarata dall'Autorità nazionale anticorruzione con provvedimento pubblicato sul sito",
         "why_wrong": "Il comma 1 prevede una sanzione amministrativa pecuniaria, non la decadenza."
       },
       {
         "id": "c",
-        "text": "a una sanzione pari alla somma corrisposta",
+        "text": "a una sanzione pari alla somma corrisposta, a carico del dirigente che ha disposto il pagamento dei compensi",
         "why_wrong": "La sanzione pari alla somma corrisposta è prevista per il pagamento dei consulenti senza pubblicazione (art. 15, comma 3)."
       },
       {
         "id": "d",
-        "text": "a una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del responsabile della mancata comunicazione, con pubblicazione del relativo provvedimento sul sito dell'amministrazione",
+        "text": "a una sanzione amministrativa pecuniaria da 500 a 10.000 euro a carico del responsabile della mancata comunicazione",
         "why_wrong": null
       }
     ],
@@ -808,7 +818,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -818,23 +829,23 @@
     "options": [
       {
         "id": "a",
-        "text": "dall'Autorità nazionale anticorruzione, che disciplina con proprio regolamento il procedimento, nel rispetto della L. 689/1981",
+        "text": "dall'ANAC, che ne disciplina il procedimento con proprio regolamento nel rispetto della L. 689/1981",
         "why_wrong": null
       },
       {
         "id": "b",
-        "text": "dal Responsabile per la trasparenza di ciascuna amministrazione",
+        "text": "dal Responsabile per la trasparenza di ciascuna amministrazione, su segnalazione dell'organismo indipendente di valutazione",
         "why_wrong": "Il Responsabile segnala gli inadempimenti (art. 43); le sanzioni sono irrogate dall'ANAC."
       },
       {
         "id": "c",
-        "text": "dall'ufficio per i procedimenti disciplinari dell'amministrazione interessata",
+        "text": "dall'ufficio per i procedimenti disciplinari dell'amministrazione interessata, su segnalazione dell'ANAC",
         "why_wrong": "All'ufficio disciplinare l'ANAC segnala l'illecito disciplinare dell'art. 45, comma 4; le sanzioni dell'art. 47 sono irrogate dall'ANAC."
       },
       {
         "id": "d",
-        "text": "dal prefetto competente per territorio",
-        "why_wrong": "Il comma 3 attribuisce la competenza all'ANAC."
+        "text": "dal prefetto competente per territorio, secondo le norme sul procedimento sanzionatorio della L. 689/1981",
+        "why_wrong": "Il comma 3 attribuisce l'irrogazione all'ANAC, che disciplina il procedimento con regolamento nel rispetto della L. 689/1981."
       }
     ],
     "correct": "a",
@@ -852,7 +863,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {

@@ -25,9 +25,9 @@
     "question": "Un Comune attiva un portale per le segnalazioni dei cittadini e lo configura in modo che, per impostazione predefinita, siano trattati solo i dati necessari e questi non siano resi accessibili a un numero indefinito di persone senza l'intervento della persona interessata. Il Comune applica così:",
     "options": [
       { "id": "a", "text": "la protezione dei dati per impostazione predefinita", "why_wrong": null },
-      { "id": "b", "text": "la pseudonimizzazione", "why_wrong": "La pseudonimizzazione (art. 4, punto 5) è una delle misure tecniche citate dall'art. 25, par. 1, non l'obbligo di trattare per impostazione predefinita solo i dati necessari." },
-      { "id": "c", "text": "la limitazione del trattamento", "why_wrong": "La limitazione è il contrassegno dei dati conservati per limitarne il trattamento futuro (art. 4, punto 3) e un diritto dell'interessato (art. 18)." },
-      { "id": "d", "text": "la portabilità dei dati", "why_wrong": "La portabilità è un diritto dell'interessato di ricevere e trasmettere i propri dati (art. 20)." }
+      { "id": "b", "text": "la pseudonimizzazione dei dati personali dei segnalanti", "why_wrong": "La pseudonimizzazione (art. 4, punto 5) è una delle misure tecniche citate dall'art. 25, par. 1, non l'obbligo di trattare per impostazione predefinita solo i dati necessari (art. 25, par. 2)." },
+      { "id": "c", "text": "la limitazione del trattamento dei dati personali", "why_wrong": "La limitazione è il contrassegno dei dati conservati per limitarne il trattamento futuro (art. 4, punto 3) e un diritto dell'interessato (art. 18)." },
+      { "id": "d", "text": "la portabilità dei dati personali degli interessati", "why_wrong": "La portabilità è un diritto dell'interessato di ricevere e trasmettere i propri dati (art. 20)." }
     ],
     "correct": "a",
     "explanation": "L'art. 25, par. 2, impone al titolare di garantire che siano trattati, per impostazione predefinita, solo i dati necessari per ogni specifica finalità, quanto a quantità, portata del trattamento, conservazione e accessibilità. In particolare i dati non devono essere resi accessibili a un numero indefinito di persone senza l'intervento della persona fisica.",
@@ -37,7 +37,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 25, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -106,10 +107,10 @@
     "subject": "privacy",
     "question": "Un Comune con 40 dipendenti tratta in modo non occasionale dati relativi alla salute degli utenti dei servizi sociali. Ai sensi del Regolamento (UE) 2016/679, il Comune deve tenere il registro delle attività di trattamento?",
     "options": [
-      { "id": "a", "text": "Sì, perché l'esenzione per le organizzazioni con meno di 250 dipendenti non opera quando il trattamento non è occasionale o include categorie particolari di dati", "why_wrong": null },
-      { "id": "b", "text": "No, perché le organizzazioni con meno di 250 dipendenti sono sempre esenti", "why_wrong": "L'esenzione dell'art. 30, par. 5, non opera se il trattamento può presentare un rischio, non è occasionale o include categorie particolari di dati." },
-      { "id": "c", "text": "No, perché il registro è obbligatorio soltanto per i responsabili del trattamento", "why_wrong": "L'art. 30, par. 1, impone il registro a ogni titolare del trattamento; il par. 2 lo prevede anche per i responsabili." },
-      { "id": "d", "text": "Sì, ma soltanto se l'autorità di controllo ne fa richiesta", "why_wrong": "Su richiesta dell'autorità il registro va messo a sua disposizione (art. 30, par. 4); l'obbligo di tenerlo discende dal par. 1." }
+      { "id": "a", "text": "Sì, perché l'esenzione per chi ha meno di 250 dipendenti non opera se il trattamento non è occasionale o include categorie particolari di dati", "why_wrong": null },
+      { "id": "b", "text": "No, perché le organizzazioni con meno di 250 dipendenti sono esenti, salvo che trattino dati relativi a condanne penali e a reati", "why_wrong": "L'esenzione dell'art. 30, par. 5, non opera neppure se il trattamento può presentare un rischio, non è occasionale o include categorie particolari di dati." },
+      { "id": "c", "text": "No, perché il registro delle attività di trattamento è obbligatorio soltanto per i responsabili che trattano dati per conto del titolare", "why_wrong": "L'art. 30, par. 1, impone il registro a ogni titolare del trattamento; il par. 2 lo prevede anche per i responsabili." },
+      { "id": "d", "text": "Sì, ma soltanto se l'autorità di controllo ne fa richiesta, nel qual caso il registro va tenuto in forma scritta, anche elettronica", "why_wrong": "Su richiesta dell'autorità il registro va messo a sua disposizione (art. 30, par. 4); l'obbligo di tenerlo discende dal par. 1." }
     ],
     "correct": "a",
     "explanation": "L'art. 30, par. 5, esenta dal registro le imprese e organizzazioni con meno di 250 dipendenti, ma non quando il trattamento può presentare un rischio, non è occasionale o include categorie particolari di dati (art. 9, par. 1) o dati su condanne penali e reati. Un trattamento non occasionale di dati sanitari fa venir meno l'esenzione.",
@@ -118,7 +119,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 30, par. 5", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -187,9 +189,9 @@
     "question": "A un Comune viene rubato un computer portatile con dati relativi alla salute di numerosi cittadini; i dati erano cifrati e quindi incomprensibili a chiunque non fosse autorizzato ad accedervi. Ai sensi dell'art. 34 del Regolamento (UE) 2016/679, la comunicazione della violazione agli interessati:",
     "options": [
       { "id": "a", "text": "non è richiesta, perché ai dati erano state applicate misure di protezione, quali la cifratura, che li rendono incomprensibili a chi non è autorizzato", "why_wrong": null },
-      { "id": "b", "text": "è sempre obbligatoria quando la violazione riguarda dati relativi alla salute", "why_wrong": "L'art. 34, par. 3, lett. a), esclude la comunicazione quando ai dati erano applicate misure che li rendono incomprensibili, quali la cifratura, a prescindere dalla natura dei dati." },
-      { "id": "c", "text": "deve essere effettuata entro 72 ore", "why_wrong": "Le 72 ore riguardano la notifica all'autorità di controllo (art. 33, par. 1); la comunicazione agli interessati, quando dovuta, avviene senza ingiustificato ritardo (art. 34, par. 1)." },
-      { "id": "d", "text": "deve essere sostituita da una comunicazione pubblica", "why_wrong": "La comunicazione pubblica è prevista quando la comunicazione individuale richiederebbe sforzi sproporzionati (art. 34, par. 3, lett. c))." }
+      { "id": "b", "text": "è comunque obbligatoria, perché la violazione riguarda dati relativi alla salute di numerosi cittadini, anche se i dati erano cifrati", "why_wrong": "L'art. 34, par. 3, lett. a), esclude la comunicazione quando ai dati erano applicate misure che li rendono incomprensibili, quali la cifratura, a prescindere dalla natura dei dati." },
+      { "id": "c", "text": "deve essere effettuata senza ingiustificato ritardo e, ove possibile, entro 72 ore dal momento in cui il Comune ne è venuto a conoscenza", "why_wrong": "La comunicazione non è richiesta nel caso dell'art. 34, par. 3, lett. a); le 72 ore riguardano comunque la notifica all'autorità di controllo (art. 33, par. 1)." },
+      { "id": "d", "text": "deve essere sostituita da una comunicazione pubblica o da una misura simile, tramite la quale tutti gli interessati sono informati con analoga efficacia", "why_wrong": "La comunicazione pubblica è prevista quando la comunicazione individuale richiederebbe sforzi sproporzionati (art. 34, par. 3, lett. c))." }
     ],
     "correct": "a",
     "explanation": "L'art. 34, par. 1, impone di comunicare agli interessati le violazioni suscettibili di presentare un rischio elevato. Il par. 3, lett. a), esclude però la comunicazione se il titolare aveva applicato ai dati violati misure adeguate di protezione, in particolare quelle che li rendono incomprensibili a chi non è autorizzato, come la cifratura.",
@@ -198,7 +200,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 34, par. 3, lett. a)", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -227,9 +230,9 @@
     "question": "Nello svolgimento della valutazione d'impatto sulla protezione dei dati, ai sensi del Regolamento (UE) 2016/679:",
     "options": [
       { "id": "a", "text": "il titolare la effettua e si consulta con il responsabile della protezione dei dati, qualora ne sia designato uno", "why_wrong": null },
-      { "id": "b", "text": "il responsabile della protezione dei dati la effettua in luogo del titolare", "why_wrong": "Il RPD fornisce, se richiesto, un parere sulla valutazione d'impatto e ne sorveglia lo svolgimento (art. 39, par. 1, lett. c)); la valutazione è effettuata dal titolare (art. 35, par. 1)." },
-      { "id": "c", "text": "l'autorità di controllo la effettua su richiesta del titolare", "why_wrong": "L'autorità di controllo redige gli elenchi dei trattamenti soggetti o non soggetti a valutazione (art. 35, par. 4 e 5); la valutazione spetta al titolare." },
-      { "id": "d", "text": "il responsabile del trattamento la effettua in ogni caso", "why_wrong": "Il responsabile assiste il titolare nel rispetto degli obblighi degli articoli da 32 a 36 (art. 28, par. 3, lett. f)); la valutazione spetta al titolare." }
+      { "id": "b", "text": "il responsabile della protezione dei dati la effettua in luogo del titolare, che ne sorveglia lo svolgimento", "why_wrong": "Il RPD fornisce, se richiesto, un parere sulla valutazione d'impatto e ne sorveglia lo svolgimento (art. 39, par. 1, lett. c)); la valutazione è effettuata dal titolare (art. 35, par. 1)." },
+      { "id": "c", "text": "l'autorità di controllo la effettua su richiesta del titolare, sentito il responsabile della protezione dei dati", "why_wrong": "L'autorità di controllo redige gli elenchi dei trattamenti soggetti o non soggetti a valutazione (art. 35, par. 4 e 5); la valutazione spetta al titolare." },
+      { "id": "d", "text": "il responsabile del trattamento la effettua in ogni caso, consultandosi con il titolare prima di procedere al trattamento", "why_wrong": "Il responsabile assiste il titolare nel rispetto degli obblighi degli articoli da 32 a 36 (art. 28, par. 3, lett. f)); la valutazione spetta al titolare." }
     ],
     "correct": "a",
     "explanation": "La valutazione d'impatto è effettuata dal titolare (art. 35, par. 1), che si consulta con il responsabile della protezione dei dati, se designato (art. 35, par. 2). Il RPD fornisce, se richiesto, un parere e ne sorveglia lo svolgimento (art. 39, par. 1, lett. c)).",
@@ -239,7 +242,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 35, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -248,9 +252,9 @@
     "question": "Ai sensi del Regolamento (UE) 2016/679, nella consultazione preventiva, se ritiene che il trattamento previsto violi il Regolamento, l'autorità di controllo fornisce un parere scritto al titolare entro:",
     "options": [
       { "id": "a", "text": "otto settimane dal ricevimento della richiesta di consultazione, prorogabili di sei settimane", "why_wrong": null },
-      { "id": "b", "text": "72 ore dal ricevimento della richiesta di consultazione", "why_wrong": "Le 72 ore sono il termine, ove possibile, per la notifica di una violazione dei dati personali (art. 33, par. 1)." },
-      { "id": "c", "text": "un mese dal ricevimento della richiesta, prorogabile di due mesi", "why_wrong": "È il termine per rispondere alle richieste dell'interessato (art. 12, par. 3)." },
-      { "id": "d", "text": "tre mesi dal ricevimento della richiesta, non prorogabili", "why_wrong": "Tre mesi è il termine previsto dall'art. 78, par. 2, per l'inerzia dell'autorità sul reclamo." }
+      { "id": "b", "text": "72 ore dal ricevimento della richiesta di consultazione, o comunque senza ingiustificato ritardo", "why_wrong": "Le 72 ore sono il termine, ove possibile, per la notifica di una violazione dei dati personali (art. 33, par. 1)." },
+      { "id": "c", "text": "un mese dal ricevimento della richiesta di consultazione, prorogabile di due mesi se necessario", "why_wrong": "Un mese prorogabile di due mesi è il termine per rispondere alle richieste dell'interessato (art. 12, par. 3)." },
+      { "id": "d", "text": "tre mesi dal ricevimento della richiesta di consultazione, non prorogabili né sospendibili", "why_wrong": "Tre mesi è il termine previsto dall'art. 78, par. 2, per l'inerzia dell'autorità sul reclamo; l'art. 36, par. 2, prevede otto settimane, prorogabili di sei." }
     ],
     "correct": "a",
     "explanation": "Il titolare consulta l'autorità di controllo prima del trattamento se la valutazione d'impatto indica un rischio elevato in assenza di misure di attenuazione (art. 36, par. 1). Se ritiene che il trattamento violi il Regolamento, l'autorità fornisce un parere scritto entro otto settimane, prorogabili di sei settimane in base alla complessità (art. 36, par. 2).",
@@ -260,7 +264,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 36, par. 2", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -269,9 +274,9 @@
     "question": "Alcuni piccoli Comuni intendono designare un unico responsabile della protezione dei dati. Ai sensi del Regolamento (UE) 2016/679:",
     "options": [
       { "id": "a", "text": "è possibile, perché per più autorità pubbliche o organismi pubblici può essere designato un unico RPD, tenuto conto della loro struttura organizzativa e dimensione", "why_wrong": null },
-      { "id": "b", "text": "non è possibile, perché ogni autorità pubblica deve designare un proprio RPD", "why_wrong": "L'art. 37, par. 3, consente espressamente di designare un unico RPD per più autorità pubbliche o organismi pubblici." },
-      { "id": "c", "text": "non è necessario, perché la designazione del RPD è obbligatoria soltanto per i trattamenti su larga scala", "why_wrong": "Per le autorità pubbliche e gli organismi pubblici la designazione è obbligatoria in base all'art. 37, par. 1, lett. a), a prescindere dalla larga scala." },
-      { "id": "d", "text": "è possibile soltanto se il RPD è dipendente di uno dei Comuni", "why_wrong": "L'art. 37, par. 6, consente che il RPD sia un dipendente oppure assolva i suoi compiti in base a un contratto di servizi." }
+      { "id": "b", "text": "non è possibile, perché un unico RPD può essere nominato soltanto da un gruppo imprenditoriale, a condizione che sia facilmente raggiungibile da ciascuno stabilimento", "why_wrong": "L'unico RPD per un gruppo imprenditoriale è previsto dall'art. 37, par. 2; il par. 3 consente espressamente un unico RPD per più autorità pubbliche o organismi pubblici." },
+      { "id": "c", "text": "non è necessario, perché la designazione del RPD è obbligatoria soltanto per i trattamenti su larga scala di categorie particolari di dati", "why_wrong": "Per le autorità pubbliche e gli organismi pubblici la designazione è obbligatoria in base all'art. 37, par. 1, lett. a), a prescindere dalla larga scala." },
+      { "id": "d", "text": "è possibile soltanto se il RPD è un dipendente di uno dei Comuni interessati, poiché non può assolvere i propri compiti in base a un contratto di servizi", "why_wrong": "L'art. 37, par. 6, consente che il RPD sia un dipendente oppure assolva i suoi compiti in base a un contratto di servizi." }
     ],
     "correct": "a",
     "explanation": "Le autorità pubbliche e gli organismi pubblici devono designare un responsabile della protezione dei dati (art. 37, par. 1, lett. a)). Il par. 3 consente di designare un unico RPD per più autorità o organismi pubblici, tenuto conto della loro struttura organizzativa e dimensione.",
@@ -281,7 +286,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 37, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -290,9 +296,9 @@
     "question": "Ai sensi del Regolamento (UE) 2016/679, il responsabile della protezione dei dati:",
     "options": [
       { "id": "a", "text": "non riceve alcuna istruzione per l'esecuzione dei propri compiti e riferisce direttamente al vertice gerarchico del titolare o del responsabile", "why_wrong": null },
-      { "id": "b", "text": "può essere rimosso dal titolare se esprime un parere negativo sulla valutazione d'impatto", "why_wrong": "L'art. 38, par. 3, dispone che il RPD non sia rimosso o penalizzato per l'adempimento dei propri compiti." },
-      { "id": "c", "text": "non può svolgere altri compiti e funzioni", "why_wrong": "L'art. 38, par. 6, gli consente di svolgere altri compiti e funzioni, purché non diano adito a un conflitto di interessi." },
-      { "id": "d", "text": "riceve istruzioni dall'autorità di controllo, alla quale riferisce", "why_wrong": "Il RPD non riceve istruzioni per l'esecuzione dei compiti e riferisce al vertice gerarchico (art. 38, par. 3); con l'autorità di controllo coopera (art. 39, par. 1, lett. d))." }
+      { "id": "b", "text": "può essere rimosso o penalizzato dal titolare se esprime, su richiesta, un parere negativo sulla valutazione d'impatto sulla protezione dei dati", "why_wrong": "L'art. 38, par. 3, dispone che il RPD non sia rimosso o penalizzato per l'adempimento dei propri compiti, tra cui il parere sulla valutazione d'impatto (art. 39, par. 1, lett. c))." },
+      { "id": "c", "text": "non può svolgere altri compiti e funzioni presso il titolare o il responsabile, anche se questi non danno adito a un conflitto di interessi", "why_wrong": "L'art. 38, par. 6, gli consente di svolgere altri compiti e funzioni, purché non diano adito a un conflitto di interessi." },
+      { "id": "d", "text": "riceve istruzioni dall'autorità di controllo per l'esecuzione dei propri compiti e riferisce direttamente a essa, anziché al vertice del titolare", "why_wrong": "Il RPD non riceve istruzioni per l'esecuzione dei compiti e riferisce al vertice gerarchico (art. 38, par. 3); con l'autorità di controllo coopera (art. 39, par. 1, lett. d))." }
     ],
     "correct": "a",
     "explanation": "L'art. 38, par. 3, garantisce l'indipendenza del RPD: titolare e responsabile si assicurano che non riceva istruzioni sull'esecuzione dei compiti, non può essere rimosso o penalizzato per averli adempiuti e riferisce direttamente al vertice gerarchico.",
@@ -301,7 +307,8 @@
     ],
     "source": { "act": "Reg. UE 2016/679 (GDPR)", "article": "art. 38, par. 3", "file": "sources/REGOLAMENTO (UE) 2016 679 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO.txt", "url": null },
     "source_date": "2026-09-25",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   }
 ]

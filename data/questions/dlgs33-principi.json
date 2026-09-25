@@ -6,8 +6,8 @@
     "options": [
       {
         "id": "a",
-        "text": "diritto dei soli interessati di prendere visione ed estrarre copia dei documenti amministrativi",
-        "why_wrong": "Il comma 1 parla di accessibilità totale dei dati e documenti detenuti dalle PA, senza limitarla agli interessati."
+        "text": "diritto dei soli interessati, titolari di un interesse diretto, concreto e attuale, di prendere visione ed estrarre copia dei documenti amministrativi, allo scopo di tutelare le proprie situazioni giuridiche e di partecipare al procedimento che li riguarda direttamente",
+        "why_wrong": "Il comma 1 parla di accessibilità totale dei dati e documenti detenuti dalle PA, allo scopo anche di favorire forme diffuse di controllo, senza limitarla ai soli interessati."
       },
       {
         "id": "b",
@@ -16,13 +16,13 @@
       },
       {
         "id": "c",
-        "text": "obbligo di pubblicare nella Gazzetta Ufficiale tutti gli atti di carattere normativo",
-        "why_wrong": "Il comma 1 non si riferisce alla Gazzetta Ufficiale, ma all'accessibilità totale di dati e documenti."
+        "text": "obbligo di pubblicare nella Gazzetta Ufficiale tutti gli atti di carattere normativo e amministrativo generale, allo scopo di assicurarne la conoscenza legale da parte dei cittadini e di garantirne l'entrata in vigore alla data prevista",
+        "why_wrong": "Il comma 1 non si riferisce alla pubblicazione nella Gazzetta Ufficiale, ma all'accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni."
       },
       {
         "id": "d",
-        "text": "pubblicazione dei soli atti che producono effetti nei confronti di terzi",
-        "why_wrong": "Il comma 1 riguarda tutti i dati e documenti detenuti dalle PA."
+        "text": "pubblicazione nei siti istituzionali dei soli atti che producono effetti nei confronti di terzi, allo scopo di garantire la certezza dei rapporti giuridici con i destinatari e di consentire loro la tempestiva impugnazione dei provvedimenti",
+        "why_wrong": "Il comma 1 riguarda l'accessibilità totale di tutti i dati e documenti detenuti dalle PA, non dei soli atti con effetti verso terzi."
       }
     ],
     "correct": "b",
@@ -40,7 +40,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -99,18 +100,18 @@
       },
       {
         "id": "b",
-        "text": "di coordinamento della finanza pubblica, oggetto di legislazione concorrente",
-        "why_wrong": "Il comma 3 richiama l'art. 117, secondo comma, lettera r), relativo al coordinamento informativo statistico e informatico."
+        "text": "di coordinamento della finanza pubblica e del sistema tributario dell'amministrazione statale, regionale e locale, di cui all'art. 117, terzo comma, della Costituzione",
+        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati, di cui all'art. 117, secondo comma, lettera r), non il coordinamento della finanza pubblica."
       },
       {
         "id": "c",
-        "text": "di ordinamento civile, di competenza esclusiva dello Stato",
-        "why_wrong": "Il comma 3 non richiama l'ordinamento civile, ma il coordinamento informativo statistico e informatico dei dati."
+        "text": "di ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali, di cui all'art. 117, secondo comma, lettera g), della Costituzione",
+        "why_wrong": "Il comma 3 non richiama l'ordinamento e l'organizzazione amministrativa dello Stato, ma il coordinamento informativo statistico e informatico dei dati (art. 117, secondo comma, lettera r)."
       },
       {
         "id": "d",
-        "text": "di vigilanza sull'attività degli enti locali da parte delle regioni",
-        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati."
+        "text": "di controllo delle regioni sugli atti e sull'attività informativa degli enti locali del proprio territorio, anche in forma associata, di cui all'art. 117, quarto comma, della Costituzione",
+        "why_wrong": "Il comma 3 richiama la funzione di coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale (art. 117, secondo comma, lettera r)."
       }
     ],
     "correct": "a",
@@ -128,7 +129,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -138,18 +140,18 @@
     "options": [
       {
         "id": "a",
-        "text": "esclusivamente tramite la pubblicazione nei siti istituzionali",
+        "text": "esclusivamente tramite la pubblicazione nei siti istituzionali di documenti, informazioni e dati concernenti l'organizzazione e l'attività delle amministrazioni",
         "why_wrong": "Il comma 1 indica due strumenti: l'accesso civico e la pubblicazione."
       },
       {
         "id": "b",
-        "text": "tramite l'accesso ai documenti amministrativi riservato ai titolari di un interesse diretto, concreto e attuale",
+        "text": "tramite l'accesso ai documenti amministrativi riservato ai titolari di un interesse diretto, concreto e attuale, corrispondente a una situazione giuridicamente tutelata",
         "why_wrong": "Il comma 1 parla di libertà di accesso di «chiunque», tramite accesso civico e pubblicazione."
       },
       {
         "id": "c",
-        "text": "esclusivamente tramite l'accesso civico su istanza",
-        "why_wrong": "Il comma 1 indica anche la pubblicazione di documenti, informazioni e dati."
+        "text": "esclusivamente tramite l'accesso civico su istanza, senza obbligo per le amministrazioni di pubblicare documenti, informazioni e dati sulla propria organizzazione",
+        "why_wrong": "Il comma 1 indica anche la pubblicazione di documenti, informazioni e dati concernenti l'organizzazione e l'attività delle PA."
       },
       {
         "id": "d",
@@ -172,7 +174,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -182,8 +185,8 @@
     "options": [
       {
         "id": "a",
-        "text": "è legittima, se le credenziali sono rilasciate gratuitamente",
-        "why_wrong": "La gratuità non basta: il comma 2 esclude ogni autenticazione e identificazione."
+        "text": "è legittima, se le credenziali sono rilasciate gratuitamente e senza ritardo a chiunque ne faccia richiesta, anche per via telematica",
+        "why_wrong": "Gratuità e tempestività del rilascio non bastano: il comma 2 prevede l'accesso ai siti direttamente ed immediatamente, senza autenticazione ed identificazione."
       },
       {
         "id": "b",
@@ -192,13 +195,13 @@
       },
       {
         "id": "c",
-        "text": "è legittima per i soli dati che contengono informazioni personali",
+        "text": "è legittima per i soli dati che contengono informazioni personali, poiché per essi la consultazione deve essere riservata ai soggetti previamente identificati",
         "why_wrong": "Il comma 2 non prevede questa distinzione; i dati personali non pertinenti vanno resi non intelligibili (art. 7-bis, comma 4)."
       },
       {
         "id": "d",
-        "text": "è legittima, perché il diritto di accesso spetta ai soli residenti",
-        "why_wrong": "La pubblicazione dà diritto di accesso a «chiunque»."
+        "text": "è legittima, perché il diritto di accedere direttamente ai siti istituzionali spetta ai soli residenti nel Comune e ai soggetti titolari di un interesse diretto, concreto e attuale",
+        "why_wrong": "Il comma 2 attribuisce il diritto di accedere ai siti a «chiunque», senza autenticazione ed identificazione."
       }
     ],
     "correct": "b",
@@ -216,7 +219,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -226,13 +230,13 @@
     "options": [
       {
         "id": "a",
-        "text": "ad esclusione delle autorità amministrative indipendenti",
-        "why_wrong": "Il comma 1 include espressamente le autorità amministrative indipendenti di garanzia, vigilanza e regolazione."
+        "text": "ad esclusione delle autorità portuali e delle autorità amministrative indipendenti di garanzia, vigilanza e regolazione",
+        "why_wrong": "Il comma 1 include espressamente le autorità portuali e le autorità amministrative indipendenti di garanzia, vigilanza e regolazione."
       },
       {
         "id": "b",
-        "text": "nonché gli enti pubblici economici e gli ordini professionali",
-        "why_wrong": "Enti pubblici economici e ordini professionali sono indicati dal comma 2, cui la disciplina si applica in quanto compatibile."
+        "text": "nonché gli enti pubblici economici, gli ordini professionali e le società in controllo pubblico come definite dal d.lgs. 175/2016",
+        "why_wrong": "Enti pubblici economici, ordini professionali e società in controllo pubblico sono indicati dal comma 2, cui la disciplina si applica in quanto compatibile."
       },
       {
         "id": "c",
@@ -241,8 +245,8 @@
       },
       {
         "id": "d",
-        "text": "limitatamente alle amministrazioni dello Stato",
-        "why_wrong": "Il comma 1 rinvia a tutte le amministrazioni dell'art. 1, comma 2, del d.lgs. 165/2001."
+        "text": "limitatamente alle amministrazioni dello Stato, con esclusione delle regioni, degli enti locali e delle autorità portuali",
+        "why_wrong": "Il comma 1 rinvia a tutte le amministrazioni dell'art. 1, comma 2, del d.lgs. 165/2001, ivi comprese le autorità portuali."
       }
     ],
     "correct": "c",
@@ -260,7 +264,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -314,22 +319,22 @@
     "options": [
       {
         "id": "a",
-        "text": "Sì, perché il bilancio supera cinquecentomila euro e il finanziamento pubblico è maggioritario per almeno due esercizi",
+        "text": "Sì, perché il bilancio supera cinquecentomila euro e il finanziamento pubblico è maggioritario per almeno due esercizi consecutivi nell'ultimo triennio",
         "why_wrong": "La lettera c) richiede anche che la totalità dei titolari o componenti dell'organo sia designata da pubbliche amministrazioni."
       },
       {
         "id": "b",
-        "text": "Sì, perché basta che la maggioranza dei componenti dell'organo sia designata da pubbliche amministrazioni",
-        "why_wrong": "La lettera c) richiede la totalità, non la maggioranza, dei componenti designati da pubbliche amministrazioni."
+        "text": "Sì, perché è sufficiente che almeno la metà dei componenti dell'organo d'amministrazione o di indirizzo sia designata da pubbliche amministrazioni",
+        "why_wrong": "La lettera c) richiede la totalità dei titolari o dei componenti designati da pubbliche amministrazioni, non la metà."
       },
       {
         "id": "c",
-        "text": "No, perché il bilancio dovrebbe superare un milione di euro",
-        "why_wrong": "La soglia prevista dalla lettera c) è di cinquecentomila euro."
+        "text": "No, perché il bilancio dovrebbe superare un milione di euro e il finanziamento pubblico dovrebbe essere maggioritario per almeno quattro esercizi consecutivi",
+        "why_wrong": "La lettera c) prevede una soglia di bilancio di cinquecentomila euro e un finanziamento maggioritario per almeno due esercizi consecutivi nell'ultimo triennio."
       },
       {
         "id": "d",
-        "text": "No, perché la lettera c) richiede che la totalità dei titolari o dei componenti dell'organo d'amministrazione o di indirizzo sia designata da pubbliche amministrazioni",
+        "text": "No, perché occorre che la totalità dei titolari o dei componenti dell'organo d'amministrazione o di indirizzo sia designata da pubbliche amministrazioni",
         "why_wrong": null
       }
     ],
@@ -348,7 +353,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -358,8 +364,8 @@
     "options": [
       {
         "id": "a",
-        "text": "le società con meno di cinquanta dipendenti",
-        "why_wrong": "La lettera b) non prevede esclusioni legate al numero dei dipendenti."
+        "text": "le società con meno di cinquanta dipendenti e quelle con un fatturato annuo inferiore a cinquecentomila euro, anche se controllate o partecipate da amministrazioni pubbliche",
+        "why_wrong": "La lettera b) non prevede esclusioni legate al numero dei dipendenti o al fatturato, ma esclude le società quotate e le società da esse partecipate."
       },
       {
         "id": "b",
@@ -368,13 +374,13 @@
       },
       {
         "id": "c",
-        "text": "le società che gestiscono servizi pubblici",
-        "why_wrong": "La gestione di servizi pubblici rileva per i soggetti del comma 3, non come causa di esclusione."
+        "text": "le società che gestiscono servizi pubblici o producono beni e servizi a favore delle amministrazioni pubbliche, salvo che siano quotate in mercati regolamentati",
+        "why_wrong": "La gestione di servizi pubblici e la produzione di beni e servizi a favore delle PA rilevano per gli enti di diritto privato del comma 3, non come causa di esclusione."
       },
       {
         "id": "d",
-        "text": "le società a partecipazione pubblica minoritaria",
-        "why_wrong": "Le società in partecipazione pubblica sono disciplinate dal comma 3, non escluse dalla lettera b)."
+        "text": "le società a partecipazione pubblica minoritaria e le società da esse partecipate, salvo che queste ultime siano controllate direttamente da amministrazioni pubbliche statali",
+        "why_wrong": "Le società in partecipazione pubblica sono disciplinate dal comma 3, non escluse dalla lettera b), che esclude le società quotate e le loro partecipate."
       }
     ],
     "correct": "b",
@@ -392,7 +398,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -402,13 +409,13 @@
     "options": [
       {
         "id": "a",
-        "text": "integralmente, come per le pubbliche amministrazioni",
+        "text": "integralmente, come per le pubbliche amministrazioni, a tutti i dati e documenti detenuti, indipendentemente dal tipo di attività svolta",
         "why_wrong": "Il comma 3 limita l'applicazione ai dati e documenti inerenti all'attività di pubblico interesse."
       },
       {
         "id": "b",
-        "text": "soltanto se la partecipazione pubblica supera il cinquanta per cento",
-        "why_wrong": "Il comma 3 non prevede soglie di partecipazione, ma il limite dell'attività di pubblico interesse."
+        "text": "soltanto se la partecipazione pubblica supera il cinquanta per cento del capitale sociale e il bilancio della società supera cinquecentomila euro",
+        "why_wrong": "Il comma 3 non prevede per le società soglie di partecipazione o di bilancio, ma il limite dei dati e documenti inerenti all'attività di pubblico interesse."
       },
       {
         "id": "c",
@@ -417,7 +424,7 @@
       },
       {
         "id": "d",
-        "text": "soltanto per gli obblighi relativi ai titolari di incarichi politici",
+        "text": "soltanto per gli obblighi relativi ai titolari di incarichi politici e ai dirigenti, nonché per i dati sui pagamenti effettuati dalla società",
         "why_wrong": "Il comma 3 fa riferimento ai dati e documenti inerenti all'attività di pubblico interesse."
       }
     ],
@@ -436,7 +443,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -451,18 +459,18 @@
       },
       {
         "id": "b",
-        "text": "sono pubblici, ma possono essere riutilizzati solo per fini non commerciali",
+        "text": "sono pubblici e chiunque può conoscerli gratuitamente, ma possono essere riutilizzati solo per fini non commerciali e citando la fonte",
         "why_wrong": "L'art. 3 rinvia all'art. 7, che consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
       },
       {
         "id": "c",
-        "text": "sono conoscibili dai soli soggetti interessati, previo pagamento dei diritti di segreteria",
+        "text": "sono conoscibili dai soli soggetti titolari di un interesse diretto, concreto e attuale, previo pagamento dei diritti di segreteria",
         "why_wrong": "L'art. 3 riconosce a chiunque il diritto di conoscerli e di fruirne gratuitamente."
       },
       {
         "id": "d",
-        "text": "sono pubblici, ma il loro riutilizzo richiede l'autorizzazione dell'amministrazione",
-        "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli ai sensi dell'art. 7."
+        "text": "sono pubblici e chiunque ha diritto di conoscerli gratuitamente, ma il loro riutilizzo richiede la preventiva autorizzazione dell'amministrazione",
+        "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli ai sensi dell'art. 7, senza autorizzazione dell'amministrazione."
       }
     ],
     "correct": "a",
@@ -480,7 +488,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -490,8 +499,8 @@
     "options": [
       {
         "id": "a",
-        "text": "sospendere per un anno gli obblighi di pubblicazione dei comuni più piccoli",
-        "why_wrong": "Il comma 1-bis non prevede sospensioni, ma la sostituzione della pubblicazione integrale con informazioni riassuntive."
+        "text": "sospendere per un anno, con propria delibera adottata previa consultazione pubblica, gli obblighi di pubblicazione dei comuni con popolazione inferiore a 15.000 abitanti",
+        "why_wrong": "Il comma 1-bis non prevede sospensioni, ma la sostituzione della pubblicazione integrale con informazioni riassuntive; per i piccoli comuni il comma 1-ter prevede modalità semplificate."
       },
       {
         "id": "b",
@@ -500,13 +509,13 @@
       },
       {
         "id": "c",
-        "text": "abrogare con propria delibera gli obblighi di pubblicazione non più attuali",
+        "text": "abrogare con propria delibera, sentito il Garante per la protezione dei dati personali, gli obblighi di pubblicazione non più attuali o sproporzionati",
         "why_wrong": "Il comma 1-bis consente di sostituire la pubblicazione integrale con informazioni riassuntive, non di abrogare obblighi."
       },
       {
         "id": "d",
-        "text": "escludere l'accesso civico ai dati non più pubblicati in forma integrale",
-        "why_wrong": "Il comma 1-bis prevede che l'accesso ai dati nella loro integrità sia disciplinato dall'art. 5."
+        "text": "escludere l'accesso civico ai dati, alle informazioni e ai documenti non più pubblicati in forma integrale, sostituendolo con la sola pubblicazione di informazioni aggregate e riassuntive",
+        "why_wrong": "Il comma 1-bis prevede che l'accesso ai dati e ai documenti nella loro integrità sia disciplinato dall'art. 5."
       }
     ],
     "correct": "b",
@@ -524,7 +533,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -534,23 +544,23 @@
     "options": [
       {
         "id": "a",
-        "text": "può esonerarlo dagli obblighi di pubblicazione con provvedimento individuale",
+        "text": "può esonerarlo dagli obblighi di pubblicazione con provvedimento individuale, adottato sentito il Garante per la protezione dei dati personali",
         "why_wrong": "Il comma 1-ter consente di precisare obblighi e modalità, non di esonerare dagli obblighi."
       },
       {
         "id": "b",
-        "text": "non può intervenire, perché gli obblighi sono identici per tutti i soggetti",
-        "why_wrong": "Il comma 1-ter consente di prevedere modalità semplificate proprio per i comuni sotto i 15.000 abitanti."
+        "text": "non può intervenire, perché le modalità semplificate di pubblicazione sono previste soltanto per i comuni con popolazione inferiore a 5.000 abitanti",
+        "why_wrong": "Il comma 1-ter consente di prevedere modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti."
       },
       {
         "id": "c",
-        "text": "può, con il Piano nazionale anticorruzione, precisare gli obblighi di pubblicazione e prevedere modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti",
+        "text": "può, con il Piano nazionale anticorruzione, precisare gli obblighi di pubblicazione, prevedendo modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti",
         "why_wrong": null
       },
       {
         "id": "d",
-        "text": "può autorizzarlo a sostituire la pubblicazione con l'accesso civico su istanza",
-        "why_wrong": "Il comma 1-ter non prevede questa sostituzione; prevede modalità semplificate di pubblicazione."
+        "text": "può, con propria delibera adottata previa consultazione pubblica, autorizzarlo a sostituire la pubblicazione obbligatoria con l'accesso civico su istanza di chiunque",
+        "why_wrong": "Il comma 1-ter non prevede questa sostituzione; prevede, con il Piano nazionale anticorruzione, modalità semplificate di pubblicazione."
       }
     ],
     "correct": "c",
@@ -568,7 +578,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -583,18 +594,18 @@
       },
       {
         "id": "b",
-        "text": "al solo ammontare complessivo annuo della spesa",
-        "why_wrong": "Il comma 2 richiede la consultazione per tipologia di spesa, ambito temporale e beneficiari."
+        "text": "alla tipologia di spesa sostenuta e alle amministrazioni che l'hanno effettuata, nonché all'ambito temporale",
+        "why_wrong": "Questi sono i criteri del sito «Soldi pubblici» (comma 1); il comma 2 richiede la consultazione per tipologia di spesa, ambito temporale e beneficiari."
       },
       {
         "id": "c",
-        "text": "alla tipologia di spesa, con esclusione dei beneficiari",
+        "text": "alla tipologia di spesa sostenuta e all'ambito temporale di riferimento, con esclusione dei beneficiari",
         "why_wrong": "Il comma 2 include espressamente i beneficiari."
       },
       {
         "id": "d",
-        "text": "ai soli pagamenti relativi al personale",
-        "why_wrong": "Per le spese di personale il comma 3 rinvia agli artt. da 15 a 20."
+        "text": "ai soli pagamenti relativi al personale, distinti per tipologia di spesa e ambito temporale",
+        "why_wrong": "Per le spese di personale il comma 3 rinvia agli artt. da 15 a 20; il comma 2 riguarda i dati sui pagamenti dell'amministrazione."
       }
     ],
     "correct": "a",
@@ -612,7 +623,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -671,12 +683,12 @@
     "options": [
       {
         "id": "a",
-        "text": "la sola pubblicazione in formato cartaceo presso l'albo dell'ente",
-        "why_wrong": "Il comma 1 riguarda le informazioni dei siti istituzionali."
+        "text": "la sola pubblicazione in formato cartaceo presso l'albo dell'ente, in luogo della pubblicazione nei siti istituzionali",
+        "why_wrong": "Il comma 1 riguarda le informazioni riportate nei siti istituzionali."
       },
       {
         "id": "b",
-        "text": "l'integrità, il costante aggiornamento e la completezza, ma non la riutilizzabilità",
+        "text": "l'integrità, il costante aggiornamento e la completezza, ma non la riutilizzabilità dei dati da parte di terzi",
         "why_wrong": "Il comma 1 comprende anche la riutilizzabilità secondo l'art. 7."
       },
       {
@@ -686,7 +698,7 @@
       },
       {
         "id": "d",
-        "text": "la consultabilità previa registrazione dell'utente",
+        "text": "la consultabilità dei dati previa registrazione e identificazione dell'utente, a garanzia della provenienza delle richieste di accesso",
         "why_wrong": "L'accesso ai siti avviene senza autenticazione ed identificazione (art. 2, comma 2)."
       }
     ],
@@ -705,7 +717,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -715,17 +728,17 @@
     "options": [
       {
         "id": "a",
-        "text": "il rinvio è legittimo, perché la qualità delle informazioni prevale sulla tempestività",
+        "text": "il rinvio è legittimo, perché la qualità delle informazioni, inclusa la loro completezza e la conformità ai documenti originali, prevale sempre sulla tempestività",
         "why_wrong": "Il comma 2 esclude che l'esigenza di qualità giustifichi la ritardata pubblicazione."
       },
       {
         "id": "b",
-        "text": "il rinvio è legittimo se autorizzato dal responsabile per la trasparenza",
-        "why_wrong": "Il comma 2 non prevede autorizzazioni al rinvio."
+        "text": "il rinvio è legittimo se autorizzato dal responsabile della prevenzione della corruzione e della trasparenza e motivato nell'apposita sezione del Piano triennale",
+        "why_wrong": "Il comma 2 non prevede autorizzazioni al rinvio: l'esigenza di qualità non può in ogni caso giustificare la ritardata pubblicazione."
       },
       {
         "id": "c",
-        "text": "il rinvio è legittimo fino a un massimo di sei mesi",
+        "text": "il rinvio è legittimo fino a un massimo di sei mesi, purché i dati siano poi pubblicati e mantenuti per il periodo di 5 anni",
         "why_wrong": "Il comma 2 non prevede alcun termine di rinvio."
       },
       {
@@ -749,7 +762,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -764,17 +778,17 @@
       },
       {
         "id": "b",
-        "text": "deve chiedere preventivamente l'autorizzazione della Regione",
+        "text": "deve chiedere preventivamente l'autorizzazione della Regione, indicando la fonte e le finalità del riutilizzo",
         "why_wrong": "L'art. 7 consente il riutilizzo senza restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità."
       },
       {
         "id": "c",
-        "text": "può farlo solo per fini non commerciali",
-        "why_wrong": "L'art. 7 non prevede questa limitazione."
+        "text": "può farlo solo per fini non commerciali, citando la fonte e rispettando l'integrità dei dati riutilizzati",
+        "why_wrong": "L'art. 7 non prevede la limitazione ai fini non commerciali."
       },
       {
         "id": "d",
-        "text": "non può farlo, perché i dati pubblicati sono destinati alla sola consultazione",
+        "text": "non può farlo, perché i dati pubblicati sono destinati alla sola consultazione sul sito istituzionale",
         "why_wrong": "L'art. 3 riconosce il diritto di utilizzarli e riutilizzarli e l'art. 7 li dichiara riutilizzabili."
       }
     ],
@@ -797,7 +811,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -807,13 +822,13 @@
     "options": [
       {
         "id": "a",
-        "text": "non può farlo, perché si possono pubblicare solo i dati oggetto di obbligo",
+        "text": "non può farlo, perché nei siti istituzionali si possono pubblicare soltanto i dati oggetto di un obbligo di pubblicazione",
         "why_wrong": "Il comma 3 consente espressamente la pubblicazione di dati non obbligatori."
       },
       {
         "id": "b",
-        "text": "può farlo senza limiti, trattandosi di una scelta discrezionale",
-        "why_wrong": "Il comma 3 richiede il rispetto dei limiti dell'art. 5-bis e l'anonimizzazione dei dati personali."
+        "text": "può farlo senza limiti, trattandosi di una scelta discrezionale, pubblicando anche i dati personali in forma integrale",
+        "why_wrong": "Il comma 3 richiede il rispetto dei limiti dell'art. 5-bis e l'indicazione in forma anonima dei dati personali."
       },
       {
         "id": "c",
@@ -822,8 +837,8 @@
       },
       {
         "id": "d",
-        "text": "può farlo solo previo consenso scritto di tutti gli interessati",
-        "why_wrong": "Il comma 3 prevede l'indicazione in forma anonima dei dati personali, non il consenso degli interessati."
+        "text": "può farlo solo previo consenso scritto di tutti gli interessati i cui dati compaiono nei documenti e parere del Garante per la protezione dei dati personali",
+        "why_wrong": "Il comma 3 prevede l'indicazione in forma anonima dei dati personali, non il consenso degli interessati né il parere del Garante."
       }
     ],
     "correct": "c",
@@ -841,7 +856,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -851,7 +867,7 @@
     "options": [
       {
         "id": "a",
-        "text": "tutti i dati personali presenti nell'atto",
+        "text": "tutti i dati personali presenti nell'atto, compresi quelli pertinenti rispetto alle specifiche finalità di trasparenza della pubblicazione",
         "why_wrong": "Il comma 4 riguarda solo i dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili."
       },
       {
@@ -861,13 +877,13 @@
       },
       {
         "id": "c",
-        "text": "i soli dati giudiziari, anche se indispensabili",
-        "why_wrong": "Il comma 4 riguarda i dati sensibili o giudiziari solo se non indispensabili."
+        "text": "i soli dati sensibili o giudiziari, anche se indispensabili rispetto alle specifiche finalità di trasparenza della pubblicazione",
+        "why_wrong": "Il comma 4 riguarda anche i dati personali non pertinenti, e i dati sensibili o giudiziari solo se non indispensabili."
       },
       {
         "id": "d",
-        "text": "i dati relativi ai titolari di organi di indirizzo politico",
-        "why_wrong": "La pubblicazione di questi dati è finalizzata alla trasparenza pubblica (comma 2)."
+        "text": "i dati relativi ai titolari di organi di indirizzo politico e di uffici o incarichi di diretta collaborazione, nonché ai dirigenti titolari degli organi amministrativi",
+        "why_wrong": "La pubblicazione di questi dati è finalizzata alla realizzazione della trasparenza pubblica (comma 2)."
       }
     ],
     "correct": "b",
@@ -885,7 +901,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -895,13 +912,13 @@
     "options": [
       {
         "id": "a",
-        "text": "3 anni dalla data di pubblicazione",
-        "why_wrong": "Tre anni dalla cessazione è il periodo previsto per i dati degli artt. 14 e 15, espressamente fatti salvi dal comma 3."
+        "text": "3 anni, decorrenti dalla data di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti",
+        "why_wrong": "Il comma 3 prevede un periodo di 5 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo."
       },
       {
         "id": "b",
-        "text": "5 anni dalla data di adozione dell'atto",
-        "why_wrong": "Il periodo decorre dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo."
+        "text": "5 anni, decorrenti dalla data di adozione dell'atto, e comunque non oltre la cessazione degli effetti prodotti dagli atti pubblicati",
+        "why_wrong": "Il periodo decorre dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo e dura comunque fino a che gli atti producono i loro effetti."
       },
       {
         "id": "c",
@@ -910,8 +927,8 @@
       },
       {
         "id": "d",
-        "text": "10 anni, decorrenti dalla data di pubblicazione",
-        "why_wrong": "Il comma 3 prevede un periodo di 5 anni."
+        "text": "10 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti",
+        "why_wrong": "Il comma 3 prevede un periodo di 5 anni, non di 10."
       }
     ],
     "correct": "c",
@@ -929,7 +946,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -987,17 +1005,17 @@
     "options": [
       {
         "id": "a",
-        "text": "da ciascuna amministrazione, con proprio regolamento",
+        "text": "da ciascuna amministrazione, con proprio regolamento, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso ricevute",
         "why_wrong": "Il comma 3-bis attribuisce la determinazione all'Autorità nazionale anticorruzione."
       },
       {
         "id": "b",
-        "text": "dal Garante per la protezione dei dati personali, sentita l'Autorità nazionale anticorruzione",
+        "text": "dal Garante per la protezione dei dati personali, sentita l'Autorità nazionale anticorruzione, sulla base della natura dei dati personali pubblicati e delle esigenze di semplificazione",
         "why_wrong": "Il Garante può solo formulare una proposta; la determinazione spetta all'ANAC."
       },
       {
         "id": "c",
-        "text": "dal responsabile della prevenzione della corruzione e della trasparenza di ciascun ente",
+        "text": "dal responsabile della prevenzione della corruzione e della trasparenza di ciascun ente, nell'apposita sezione del Piano triennale per la prevenzione della corruzione, sulla base di una valutazione del rischio corruttivo",
         "why_wrong": "Il comma 3-bis attribuisce la determinazione all'ANAC."
       },
       {
@@ -1021,7 +1039,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1031,22 +1050,22 @@
     "options": [
       {
         "id": "a",
-        "text": "è legittima, se la sezione resta raggiungibile dalla home page",
+        "text": "è legittima, se la sezione resta raggiungibile dalla home page e i dati sono comunque pubblicati in formato di tipo aperto e riutilizzabili ai sensi dell'art. 7",
         "why_wrong": "Il comma 1 vieta in ogni caso filtri e soluzioni tecniche che impediscano l'indicizzazione."
       },
       {
         "id": "b",
-        "text": "non è consentita, perché le amministrazioni non possono disporre filtri e altre soluzioni tecniche atte ad impedire ai motori di ricerca web di indicizzare ed effettuare ricerche nella sezione",
+        "text": "non è consentita: le amministrazioni non possono disporre filtri e altre soluzioni tecniche atte ad impedire ai motori di ricerca web di indicizzare ed effettuare ricerche nella sezione",
         "why_wrong": null
       },
       {
         "id": "c",
-        "text": "è legittima per i soli dati personali contenuti nella sezione",
-        "why_wrong": "Il divieto del comma 1 riguarda l'intera sezione; per i dati personali valgono le regole dell'art. 7-bis."
+        "text": "è legittima per i soli dati personali contenuti nella sezione, perché la loro pubblicazione non deve mai consentirne l'indicizzazione e la rintracciabilità tramite i motori di ricerca web",
+        "why_wrong": "Il divieto del comma 1 riguarda l'intera sezione; l'art. 7-bis, comma 1, prevede anzi che la pubblicazione dei dati personali consenta l'indicizzazione tramite i motori di ricerca web."
       },
       {
         "id": "d",
-        "text": "è legittima previa autorizzazione dell'Autorità nazionale anticorruzione",
+        "text": "è legittima previa autorizzazione dell'Autorità nazionale anticorruzione, adottata sentito il Garante per la protezione dei dati personali",
         "why_wrong": "Il comma 1 non prevede autorizzazioni in deroga al divieto."
       }
     ],
@@ -1065,7 +1084,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1075,12 +1095,12 @@
     "options": [
       {
         "id": "a",
-        "text": "al responsabile della prevenzione della corruzione e della trasparenza del Comune",
+        "text": "al responsabile della prevenzione della corruzione e della trasparenza del Comune tenuto alla comunicazione dei dati",
         "why_wrong": "Il RPCT dell'amministrazione tenuta alla comunicazione è competente quando l'omissione è imputabile a essa (comma 4)."
       },
       {
         "id": "b",
-        "text": "all'Autorità nazionale anticorruzione",
+        "text": "all'Autorità nazionale anticorruzione, che ordina all'amministrazione titolare della banca dati di pubblicare i dati mancanti",
         "why_wrong": "Il comma 3 indica il RPCT dell'amministrazione titolare della banca dati."
       },
       {
@@ -1090,7 +1110,7 @@
       },
       {
         "id": "d",
-        "text": "al difensore civico regionale",
+        "text": "al difensore civico competente per ambito territoriale o, se non istituito, a quello dell'ambito immediatamente superiore",
         "why_wrong": "Il difensore civico è competente per i ricorsi contro il diniego di accesso (art. 5, comma 8), non per la presentazione della richiesta."
       }
     ],
@@ -1109,7 +1129,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
@@ -1163,8 +1184,8 @@
     "options": [
       {
         "id": "a",
-        "text": "è un'attività facoltativa, rimessa alla discrezionalità di ciascun dirigente",
-        "why_wrong": "Il comma 3 la qualifica come obiettivo strategico di ogni amministrazione."
+        "text": "è un'attività facoltativa, rimessa alla discrezionalità di ciascun dirigente, che non incide sugli obiettivi organizzativi e individuali",
+        "why_wrong": "Il comma 3 la qualifica come obiettivo strategico di ogni amministrazione, da tradurre in obiettivi organizzativi e individuali."
       },
       {
         "id": "b",
@@ -1173,12 +1194,12 @@
       },
       {
         "id": "c",
-        "text": "è compito esclusivo dell'Autorità nazionale anticorruzione",
+        "text": "è compito esclusivo dell'Autorità nazionale anticorruzione, che vi provvede con il Piano nazionale anticorruzione",
         "why_wrong": "Il comma 3 la attribuisce a ogni amministrazione."
       },
       {
         "id": "d",
-        "text": "riguarda solo le amministrazioni centrali dello Stato",
+        "text": "costituisce un obiettivo strategico delle sole amministrazioni centrali dello Stato, da tradurre in obiettivi organizzativi e individuali",
         "why_wrong": "Il comma 3 si riferisce a ogni amministrazione."
       }
     ],
@@ -1197,7 +1218,8 @@
       "url": null
     },
     "source_date": "2026-09-24",
-    "status": "rivista",
+    "status": "da_verificare",
+    "rev": 2,
     "no_shuffle": false
   },
   {
