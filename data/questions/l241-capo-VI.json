@@ -47,7 +47,7 @@
       {"id": "a", "text": "Le disposizioni sulla comunicazione di avvio del procedimento (artt. 7 e 8) e sull'intervento nel procedimento (art. 9)", "why_wrong": "Gli artt. 7, 8 e 9 non sono compresi nell'elenco del comma 1."},
       {"id": "b", "text": "Le disposizioni sull'autocertificazione (art. 18) e sui provvedimenti attributivi di vantaggi economici (art. 12)", "why_wrong": "Gli artt. 12 e 18 non sono compresi nell'elenco del comma 1."},
       {"id": "c", "text": "Le disposizioni sulle conseguenze del ritardo (art. 2-bis), sugli accordi (artt. 11 e 15) e quelle del Capo IV-bis", "why_wrong": null},
-      {"id": "d", "text": "Le disposizioni sulla conferenza di servizi (art. 14) e sulla segnalazione certificata di inizio attività (art. 19)", "why_wrong": "Conferenza di servizi e SCIA sono richiamate dal comma 2-ter tra le materie attinenti ai livelli essenziali delle prestazioni, non nell'elenco del comma 1."}
+      {"id": "d", "text": "Le disposizioni sulla conferenza di servizi (art. 14) e sulla segnalazione certificata di inizio attività (art. 19)", "why_wrong": "Gli artt. 14 e 19 non sono compresi nell'elenco del comma 1 dell'art. 29; conferenza di servizi e SCIA sono richiamate dal comma 2-ter tra le materie attinenti ai livelli essenziali."}
     ],
     "correct": "c",
     "explanation": "L'art. 29, comma 1, dispone che gli artt. 2-bis, 11, 15 e 25, commi 5, 5-bis e 6, nonché le disposizioni del Capo IV-bis, si applicano a tutte le amministrazioni pubbliche.",
@@ -65,10 +65,10 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2, della L. 241/1990, le regioni e gli enti locali, nell'ambito delle rispettive competenze:",
     "options": [
-      {"id": "a", "text": "adeguano la propria legislazione a tutte le disposizioni del medesimo art. 29, secondo i rispettivi statuti e le relative norme di attuazione", "why_wrong": "È la regola per le regioni a statuto speciale e le province autonome (comma 2-quinquies)."},
+      {"id": "a", "text": "possono stabilire, nei procedimenti di loro competenza, garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni, se previsto dai propri statuti", "why_wrong": "L'art. 29, comma 2-quater, vieta a regioni ed enti locali di stabilire garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni."},
       {"id": "b", "text": "regolano le materie disciplinate dalla legge nel rispetto del sistema costituzionale e delle garanzie del cittadino, come definite dai principi stabiliti dalla legge", "why_wrong": null},
-      {"id": "c", "text": "applicano integralmente e direttamente tutte le disposizioni della legge, senza alcun potere di regolare le materie da essa disciplinate nei procedimenti di loro competenza", "why_wrong": "Il comma 2 riconosce a regioni ed enti locali il potere di regolare le materie della legge, nel rispetto dei suoi principi."},
-      {"id": "d", "text": "regolano liberamente le materie disciplinate dalla legge, senza essere vincolati né al sistema costituzionale né ai principi da essa stabiliti a garanzia del cittadino", "why_wrong": "Il comma 2 impone il rispetto del sistema costituzionale e delle garanzie del cittadino definite dai principi della legge."}
+      {"id": "c", "text": "applicano integralmente e direttamente tutte le disposizioni della legge, senza alcun potere di regolare le materie da essa disciplinate nei procedimenti di loro competenza", "why_wrong": "L'art. 29, comma 2, attribuisce a regioni ed enti locali il potere di regolare le materie disciplinate dalla legge, nell'ambito delle rispettive competenze."},
+      {"id": "d", "text": "regolano liberamente le materie disciplinate dalla legge, senza essere vincolati né al sistema costituzionale né ai principi da essa stabiliti a garanzia del cittadino", "why_wrong": "L'art. 29, comma 2, vincola tale potere al rispetto del sistema costituzionale e delle garanzie del cittadino definite dai principi della legge."}
     ],
     "correct": "b",
     "explanation": "L'art. 29, comma 2, stabilisce che regioni ed enti locali regolano le materie disciplinate dalla legge nel rispetto del sistema costituzionale e delle garanzie del cittadino nei riguardi dell'azione amministrativa, così come definite dai principi della legge.",
@@ -87,7 +87,7 @@
     "question": "Ai sensi dell'art. 29, comma 2-bis, della L. 241/1990, attengono ai livelli essenziali delle prestazioni le disposizioni concernenti gli obblighi della pubblica amministrazione di:",
     "options": [
       {"id": "a", "text": "predeterminare i criteri e le modalità per la concessione di sovvenzioni, contributi, sussidi e ausili finanziari e per l'attribuzione di vantaggi economici", "why_wrong": "La predeterminazione di criteri e modalità (art. 12) non è richiamata dai commi 2-bis e 2-ter tra le disposizioni sui livelli essenziali."},
-      {"id": "b", "text": "concludere accordi con altre amministrazioni per disciplinare lo svolgimento in collaborazione di attività di interesse comune, con sottoscrizione digitale", "why_wrong": "Gli accordi tra amministrazioni (art. 15) si applicano a tutte le PA ai sensi del comma 1, ma non sono richiamati dal comma 2-bis."},
+      {"id": "b", "text": "concludere accordi con altre amministrazioni per disciplinare lo svolgimento in collaborazione di attività di interesse comune, con sottoscrizione digitale", "why_wrong": "Gli accordi fra amministrazioni (art. 15), compresa la loro sottoscrizione digitale, non sono richiamati dal comma 2-bis; l'art. 15 rientra tra le disposizioni che il comma 1 applica a tutte le amministrazioni."},
       {"id": "c", "text": "adottare le misure organizzative idonee a garantire l'applicazione delle disposizioni in materia di autocertificazione e di presentazione di atti e documenti da parte dei cittadini", "why_wrong": "Le misure organizzative sull'autocertificazione (art. 18) non sono richiamate dal comma 2-bis."},
       {"id": "d", "text": "garantire la partecipazione dell'interessato, individuare un responsabile, concludere il procedimento nel termine prefissato, misurarne i tempi effettivi e assicurare l'accesso", "why_wrong": null}
     ],
@@ -107,8 +107,8 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Ai sensi dell'art. 29, comma 2-ter, della L. 241/1990, attengono altresì ai livelli essenziali delle prestazioni le disposizioni concernenti:",
     "options": [
-      {"id": "a", "text": "l'attività consultiva degli organi consultivi (art. 16) e le valutazioni tecniche di organi od enti appositi (art. 17)", "why_wrong": "Gli artt. 16 e 17 non sono richiamati dal comma 2-ter."},
-      {"id": "b", "text": "gli atti di notorietà, il numero dei testimoni ridotto a due e il divieto di esigerli in luogo della dichiarazione sostitutiva", "why_wrong": "L'art. 30 non è richiamato dal comma 2-ter."},
+      {"id": "a", "text": "l'attività consultiva degli organi consultivi (art. 16) e le valutazioni tecniche di organi od enti appositi (art. 17)", "why_wrong": "L'attività consultiva (art. 16) e le valutazioni tecniche (art. 17) non sono richiamate dal comma 2-ter dell'art. 29."},
+      {"id": "b", "text": "gli atti di notorietà, il numero dei testimoni ridotto a due e il divieto di esigerli in luogo della dichiarazione sostitutiva", "why_wrong": "La disciplina degli atti di notorietà (art. 30, commi 1 e 2) non è richiamata dal comma 2-ter dell'art. 29."},
       {"id": "c", "text": "la presentazione di istanze, segnalazioni e comunicazioni, la SCIA, il silenzio assenso e la conferenza di servizi", "why_wrong": null},
       {"id": "d", "text": "gli accordi integrativi o sostitutivi del provvedimento (art. 11) e gli accordi fra pubbliche amministrazioni (art. 15)", "why_wrong": "Gli accordi degli artt. 11 e 15 si applicano a tutte le PA ai sensi del comma 1, ma non sono richiamati dal comma 2-ter."}
     ],
@@ -129,9 +129,9 @@
     "question": "Un Comune approva un regolamento sul procedimento amministrativo che prevede, per i procedimenti di sua competenza, un termine di conclusione più breve di quello statale e ulteriori forme di partecipazione. Ai sensi dell'art. 29, comma 2-quater, della L. 241/1990:",
     "options": [
       {"id": "a", "text": "il Comune può prevedere livelli ulteriori di tutela, ma non garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni", "why_wrong": null},
-      {"id": "b", "text": "il Comune non può discostarsi in alcun modo dalla disciplina statale, né in senso più favorevole né in senso meno favorevole ai privati", "why_wrong": "Il comma 2-quater consente espressamente di prevedere livelli ulteriori di tutela."},
-      {"id": "c", "text": "il Comune può stabilire anche garanzie inferiori a quelle dei livelli essenziali delle prestazioni, purché motivate e limitate ai propri procedimenti", "why_wrong": "Il comma 2-quater vieta di stabilire garanzie inferiori a quelle attinenti ai livelli essenziali."},
-      {"id": "d", "text": "il regolamento è valido solo se preventivamente approvato con intesa in sede di Conferenza unificata, trattandosi di livelli essenziali", "why_wrong": "Le intese in Conferenza unificata servono a individuare casi ulteriori di non applicazione delle disposizioni del comma 2-ter, non ad approvare i regolamenti comunali."}
+      {"id": "b", "text": "il Comune non può discostarsi in alcun modo dalla disciplina statale, né in senso più favorevole né in senso meno favorevole ai privati", "why_wrong": "Il comma 2-quater vieta solo garanzie inferiori a quelle dei livelli essenziali e consente espressamente di prevedere livelli ulteriori di tutela."},
+      {"id": "c", "text": "il Comune può stabilire anche garanzie inferiori a quelle dei livelli essenziali delle prestazioni, purché motivate e limitate ai propri procedimenti", "why_wrong": "Il comma 2-quater vieta, proprio nei procedimenti di competenza dell'ente, garanzie inferiori a quelle attinenti ai livelli essenziali, senza eccezioni legate alla motivazione."},
+      {"id": "d", "text": "il regolamento è valido solo se preventivamente approvato con intesa in sede di Conferenza unificata, trattandosi di livelli essenziali", "why_wrong": "Il comma 2-ter prevede intese in Conferenza unificata solo per individuare casi ulteriori di non applicazione delle sue disposizioni; il comma 2-quater non subordina i regolamenti locali ad alcuna intesa."}
     ],
     "correct": "a",
     "explanation": "L'art. 29, comma 2-quater, stabilisce che regioni ed enti locali, nel disciplinare i procedimenti di loro competenza, non possono stabilire garanzie inferiori a quelle attinenti ai livelli essenziali delle prestazioni dei commi 2-bis e 2-ter, ma possono prevedere livelli ulteriori di tutela.",

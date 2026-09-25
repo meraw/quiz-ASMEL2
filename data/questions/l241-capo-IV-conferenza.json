@@ -229,7 +229,7 @@
     "question": "Nella conferenza semplificata, le determinazioni delle amministrazioni coinvolte, ai sensi dell'art. 14-bis, comma 3, della L. 241/1990:",
     "options": [
       {"id": "a", "text": "possono limitarsi a un generico parere favorevole o contrario, anche privo di motivazione e senza indicare prescrizioni o misure mitigatrici", "why_wrong": "Il comma 3 richiede determinazioni congruamente motivate, in termini di assenso o dissenso, con l'indicazione delle prescrizioni e delle misure mitigatrici."},
-      {"id": "b", "text": "sono congruamente motivate e formulate in termini di assenso o dissenso, ma non possono indicare prescrizioni o misure mitigatrici per rendere possibile l'assenso", "why_wrong": "Il comma 3 prevede proprio l'indicazione delle prescrizioni e delle misure mitigatrici che rendano possibile l'assenso."},
+      {"id": "b", "text": "sono congruamente motivate e formulate in termini di assenso o dissenso, ma non possono indicare prescrizioni o misure mitigatrici per rendere possibile l'assenso", "why_wrong": "L'art. 14-bis, comma 3, non esclude le prescrizioni: le determinazioni indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso."},
       {"id": "c", "text": "sono formulate in termini di assenso o dissenso solo dalle amministrazioni competenti in materia urbanistica, mentre le altre rendono un semplice parere motivato", "why_wrong": "Il comma 3 si applica senza deroghe a tutte le amministrazioni partecipanti alla conferenza, comprese quelle competenti in materia urbanistica, paesaggistica e archeologica."},
       {"id": "d", "text": "sono congruamente motivate, formulate in termini di assenso o dissenso e indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso", "why_wrong": null}
     ],
@@ -351,8 +351,8 @@
     "subject": "diritto-amministrativo-enti-locali",
     "question": "Il privato interessato ritiene che la conferenza debba svolgersi in forma simultanea. Ai sensi dell'art. 14-bis, comma 7, della L. 241/1990, la sua richiesta motivata deve essere avanzata:",
     "options": [
-      {"id": "a", "text": "in qualsiasi momento, fino alla conclusione dei lavori della conferenza in forma semplificata", "why_wrong": "Il comma 7 richiede che la richiesta sia avanzata entro il termine perentorio del comma 2, lett. b)."},
-      {"id": "b", "text": "contestualmente alla presentazione dell'istanza, a pena di inammissibilità della richiesta", "why_wrong": "Il comma 7 rinvia al termine perentorio del comma 2, lett. b), non al momento della presentazione dell'istanza."},
+      {"id": "a", "text": "in qualsiasi momento, fino alla conclusione dei lavori della conferenza in forma semplificata", "why_wrong": "L'art. 14-bis, comma 7, non consente la richiesta fino alla conclusione dei lavori: va avanzata entro il termine perentorio del comma 2, lett. b)."},
+      {"id": "b", "text": "contestualmente alla presentazione dell'istanza, a pena di inammissibilità della richiesta", "why_wrong": "L'art. 14-bis, comma 7, non lega la richiesta alla presentazione dell'istanza né prevede l'inammissibilità: rinvia al termine perentorio del comma 2, lett. b)."},
       {"id": "c", "text": "entro il termine perentorio previsto per le richieste di integrazioni documentali o chiarimenti", "why_wrong": null},
       {"id": "d", "text": "entro il termine perentorio fissato per rendere le determinazioni sulla decisione della conferenza", "why_wrong": "È il termine del comma 2, lett. c), per rendere le determinazioni; il comma 7 rinvia al termine della lett. b), per le richieste di integrazioni o chiarimenti."}
     ],
@@ -496,7 +496,7 @@
     "options": [
       {"id": "a", "text": "acquista efficacia solo dopo l'approvazione del Consiglio dei ministri, cui l'amministrazione procedente la trasmette d'ufficio", "why_wrong": "Il Consiglio dei ministri interviene solo in caso di opposizione e mancata intesa (art. 14-quinquies, comma 6); il comma 1 dell'art. 14-quater non prevede alcuna approvazione."},
       {"id": "b", "text": "sostituisce a ogni effetto tutti gli atti di assenso di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati", "why_wrong": null},
-      {"id": "c", "text": "costituisce un semplice atto istruttorio, cui devono seguire i singoli atti di assenso delle amministrazioni e dei gestori di beni o servizi pubblici", "why_wrong": "Il comma 1 dispone che la determinazione sostituisce a ogni effetto tutti gli atti di assenso."},
+      {"id": "c", "text": "costituisce un semplice atto istruttorio, cui devono seguire i singoli atti di assenso delle amministrazioni e dei gestori di beni o servizi pubblici", "why_wrong": "Per l'art. 14-quater, comma 1, la determinazione non è un atto istruttorio: sostituisce a ogni effetto tutti gli atti di assenso, che quindi non devono seguire."},
       {"id": "d", "text": "sostituisce a ogni effetto gli atti di assenso delle sole amministrazioni statali, mentre restano necessari quelli di regioni ed enti locali", "why_wrong": "Il comma 1 estende la sostituzione agli atti di tutte le amministrazioni e dei gestori di beni o servizi pubblici interessati."}
     ],
     "correct": "b",
@@ -538,7 +538,7 @@
       {"id": "a", "text": "dalla data di svolgimento della prima riunione della conferenza in forma simultanea e sincrona", "why_wrong": "Il comma 4 individua come dies a quo la comunicazione della determinazione motivata di conclusione."},
       {"id": "b", "text": "dalla data di indizione della conferenza da parte dell'amministrazione procedente", "why_wrong": "Il comma 4 fissa la decorrenza dalla comunicazione della determinazione motivata di conclusione, non dall'indizione."},
       {"id": "c", "text": "dalla data della comunicazione della determinazione motivata di conclusione della conferenza", "why_wrong": null},
-      {"id": "d", "text": "dalla data in cui ciascun atto di assenso è stato reso dall'amministrazione competente in conferenza", "why_wrong": "Il comma 4 fa decorrere i termini di efficacia di tutti gli atti acquisiti dalla comunicazione della determinazione conclusiva."}
+      {"id": "d", "text": "dalla data in cui ciascun atto di assenso è stato reso dall'amministrazione competente in conferenza", "why_wrong": "L'art. 14-quater, comma 4, non prevede una decorrenza distinta per ciascun atto: i termini di tutti gli atti acquisiti decorrono dalla comunicazione della determinazione motivata di conclusione."}
     ],
     "correct": "c",
     "explanation": "L'art. 14-quater, comma 4, stabilisce che i termini di efficacia di tutti gli atti di assenso acquisiti in conferenza decorrono dalla data della comunicazione della determinazione motivata di conclusione.",
@@ -600,7 +600,7 @@
       {"id": "a", "text": "l'amministrazione procedente deve adottare una nuova determinazione motivata di conclusione della conferenza", "why_wrong": "La nuova determinazione è adottata quando nelle riunioni si raggiunge un'intesa (comma 6); se il Consiglio dei ministri non accoglie l'opposizione, la determinazione acquisisce definitivamente efficacia."},
       {"id": "b", "text": "la questione è rimessa al Presidente della Repubblica, che decide in via definitiva sull'opposizione", "why_wrong": "Il comma 6 rimette la questione al Consiglio dei ministri, al quale spetta la decisione sull'opposizione."},
       {"id": "c", "text": "la determinazione motivata di conclusione della conferenza acquisisce definitivamente efficacia", "why_wrong": null},
-      {"id": "d", "text": "la determinazione motivata decade e il procedimento deve essere riavviato con una nuova conferenza", "why_wrong": "Il comma 6 prevede che, se l'opposizione non è accolta, la determinazione acquisisce definitivamente efficacia."}
+      {"id": "d", "text": "la determinazione motivata decade e il procedimento deve essere riavviato con una nuova conferenza", "why_wrong": "L'art. 14-quinquies, comma 6, non prevede decadenza né una nuova conferenza: se l'opposizione non è accolta, la determinazione acquisisce definitivamente efficacia."}
     ],
     "correct": "c",
     "explanation": "L'art. 14-quinquies, comma 6, prevede che, se l'intesa non è raggiunta, la questione è rimessa al Consiglio dei ministri; se questo non accoglie l'opposizione, la determinazione acquisisce definitivamente efficacia, mentre può anche accoglierla parzialmente, modificandone il contenuto.",
