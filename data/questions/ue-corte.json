@@ -1,0 +1,446 @@
+[
+  {
+    "id": "ue-cor-001",
+    "subject": "diritto-ue",
+    "question": "Nella procedura per inadempimento promossa dalla Commissione (art. 258 TFUE), prima di adire la Corte di giustizia la Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "emette un parere motivato, dopo aver posto lo Stato in condizioni di presentare le sue osservazioni",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "chiede l'autorizzazione del Consiglio, che delibera a maggioranza qualificata",
+        "why_wrong": "L'art. 258 TFUE non prevede alcuna autorizzazione del Consiglio: la fase precontenziosa si svolge tra Commissione e Stato."
+      },
+      {
+        "id": "c",
+        "text": "adotta una decisione che infligge allo Stato una somma forfettaria",
+        "why_wrong": "La somma forfettaria o la penalità è comminata dalla Corte (art. 260, parr. 2 e 3, TFUE), non dalla Commissione nella fase precontenziosa."
+      },
+      {
+        "id": "d",
+        "text": "deve attendere che un altro Stato membro presenti un ricorso",
+        "why_wrong": "Il ricorso di uno Stato contro un altro è un rimedio distinto (art. 259 TFUE); la Commissione agisce di propria iniziativa."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Quando reputi che uno Stato membro abbia mancato a un obbligo derivante dai trattati, la Commissione emette un parere motivato, dopo aver posto lo Stato in condizioni di presentare osservazioni. Se lo Stato non si conforma al parere nel termine fissato, la Commissione può adire la Corte (art. 258 TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 258 TFUE",
+        "text": "La Commissione, quando reputi che uno Stato membro abbia mancato a uno degli obblighi a lui incombenti in virtù dei trattati, emette un parere motivato al riguardo, dopo aver posto lo Stato in condizioni di presentare le sue osservazioni."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 258 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-002",
+    "subject": "diritto-ue",
+    "question": "La Commissione ha emesso un parere motivato nei confronti di uno Stato membro, fissando un termine per conformarsi. Scaduto il termine, lo Stato non si è conformato. Secondo l'art. 258 TFUE, la Commissione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può sospendere il diritto di voto dello Stato in seno al Consiglio",
+        "why_wrong": "La sospensione dei diritti di voto è prevista dall'art. 7, par. 3, TUE per la violazione grave e persistente dei valori, con decisione del Consiglio."
+      },
+      {
+        "id": "b",
+        "text": "deve rivolgersi al Consiglio europeo, che decide all'unanimità",
+        "why_wrong": "L'art. 258 TFUE non coinvolge il Consiglio europeo: è la Commissione che può adire la Corte."
+      },
+      {
+        "id": "c",
+        "text": "può adire la Corte di giustizia dell'Unione europea",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "deve emettere un secondo parere motivato prima di poter agire",
+        "why_wrong": "L'art. 258 TFUE, secondo comma, consente di adire la Corte già dopo il mancato adeguamento al primo parere motivato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Qualora lo Stato in causa non si conformi al parere motivato nel termine fissato dalla Commissione, questa può adire la Corte di giustizia dell'Unione europea (art. 258, secondo comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 258 TFUE",
+        "text": "Qualora lo Stato in causa non si conformi a tale parere nel termine fissato dalla Commissione, questa può adire la Corte di giustizia dell'Unione europea."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 258 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-003",
+    "subject": "diritto-ue",
+    "question": "Lo Stato membro A ritiene che lo Stato membro B abbia violato un obbligo derivante dai trattati e si è rivolto alla Commissione. Sono trascorsi tre mesi dalla domanda e la Commissione non ha formulato il parere. Secondo l'art. 259 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "lo Stato A non può più agire, perché il silenzio della Commissione equivale a rigetto",
+        "why_wrong": "L'art. 259, quarto comma, TFUE stabilisce che la mancanza del parere non osta alla facoltà di ricorso alla Corte."
+      },
+      {
+        "id": "b",
+        "text": "lo Stato A può comunque adire la Corte, perché la mancanza del parere non osta al ricorso",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "lo Stato A deve proporre ricorso in carenza contro la Commissione prima di agire contro lo Stato B",
+        "why_wrong": "L'art. 259, quarto comma, TFUE consente il ricorso contro lo Stato B anche senza parere, senza richiedere un previo ricorso in carenza."
+      },
+      {
+        "id": "d",
+        "text": "lo Stato A deve attendere altri tre mesi",
+        "why_wrong": "L'art. 259, quarto comma, TFUE non prevede un ulteriore termine di attesa."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Prima di agire contro un altro Stato membro, lo Stato deve rivolgersi alla Commissione, che emette un parere motivato dopo il contraddittorio tra gli Stati interessati. Se la Commissione non ha formulato il parere entro tre mesi dalla domanda, la mancanza del parere non osta alla facoltà di ricorso alla Corte (art. 259 TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 259 TFUE",
+        "text": "Qualora la Commissione non abbia formulato il parere nel termine di tre mesi dalla domanda, la mancanza del parere non osta alla facoltà di ricorso alla Corte."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 259 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-004",
+    "subject": "diritto-ue",
+    "question": "La Corte ha accertato che uno Stato membro è inadempiente, ma lo Stato non prende le misure che l'esecuzione della sentenza comporta. Secondo l'art. 260 TFUE, la Corte, su nuovo ricorso della Commissione, può:",
+    "options": [
+      {
+        "id": "a",
+        "text": "annullare le leggi nazionali contrarie ai trattati",
+        "why_wrong": "L'art. 260, par. 2, TFUE prevede sanzioni pecuniarie, non l'annullamento di atti nazionali; il controllo di legittimità dell'art. 263 riguarda gli atti dell'Unione."
+      },
+      {
+        "id": "b",
+        "text": "sospendere lo Stato dall'Unione",
+        "why_wrong": "L'art. 260, par. 2, TFUE prevede soltanto il pagamento di una somma forfettaria o di una penalità."
+      },
+      {
+        "id": "c",
+        "text": "comminare allo Stato il pagamento di una somma forfettaria o di una penalità",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sospendere i diritti di voto dello Stato in seno al Consiglio",
+        "why_wrong": "La sospensione dei diritti di voto è prevista dall'art. 7, par. 3, TUE ed è decisa dal Consiglio, non dalla Corte."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Se la Corte riconosce che lo Stato non si è conformato alla sentenza di inadempimento, può comminargli il pagamento di una somma forfettaria o di una penalità; la Commissione, nel ricorso, ne indica l'importo che ritiene adeguato (art. 260, par. 2, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 260 TFUE, par. 2",
+        "text": "La Corte, qualora riconosca che lo Stato membro in questione non si è conformato alla sentenza da essa pronunciata, può comminargli il pagamento di una somma forfettaria o di una penalità."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 260 TFUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-005",
+    "subject": "diritto-ue",
+    "question": "Quali sono, ai sensi dell'art. 263 TFUE, i motivi del ricorso di annullamento?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Incompetenza, violazione delle forme sostanziali, violazione dei trattati o di qualsiasi regola di diritto relativa alla loro applicazione, sviamento di potere",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Solo la violazione dei trattati",
+        "why_wrong": "L'art. 263, secondo comma, TFUE indica anche incompetenza, violazione delle forme sostanziali e sviamento di potere."
+      },
+      {
+        "id": "c",
+        "text": "Inopportunità politica dell'atto e violazione dei trattati",
+        "why_wrong": "L'art. 263 TFUE prevede un controllo di legittimità; l'inopportunità politica non figura tra i motivi."
+      },
+      {
+        "id": "d",
+        "text": "Mancata adozione di un atto dovuto",
+        "why_wrong": "L'astensione dal pronunciarsi è oggetto del ricorso in carenza (art. 265 TFUE), non del ricorso di annullamento."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La Corte esercita un controllo di legittimità ed è competente a pronunciarsi sui ricorsi per incompetenza, violazione delle forme sostanziali, violazione dei trattati o di qualsiasi regola di diritto relativa alla loro applicazione, ovvero per sviamento di potere (art. 263, secondo comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 263 TFUE",
+        "text": "A tal fine, la Corte è competente a pronunciarsi sui ricorsi per incompetenza, violazione delle forme sostanziali, violazione dei trattati o di qualsiasi regola di diritto relativa alla loro applicazione, ovvero per sviamento di potere, proposti da uno Stato membro, dal Parlamento europeo, dal Consiglio o dalla Commissione."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 263 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-006",
+    "subject": "diritto-ue",
+    "question": "Una decisione della Commissione, rivolta a un'impresa, è stata notificata all'impresa stessa. Entro quale termine l'impresa può proporre ricorso di annullamento ai sensi dell'art. 263 TFUE?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sessanta giorni dalla pubblicazione nella Gazzetta ufficiale, in ogni caso",
+        "why_wrong": "L'art. 263, sesto comma, TFUE fa decorrere il termine, secondo i casi, anche dalla notificazione al ricorrente."
+      },
+      {
+        "id": "b",
+        "text": "Tre mesi dalla notificazione",
+        "why_wrong": "Il termine dell'art. 263, sesto comma, TFUE è di due mesi; tre mesi è il termine dell'art. 259 per il parere della Commissione."
+      },
+      {
+        "id": "c",
+        "text": "Due mesi dalla notificazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Sei settimane dalla notificazione",
+        "why_wrong": "Sei settimane sono i termini della fase di conciliazione (art. 294 TFUE); per l'annullamento il termine è di due mesi."
+      }
+    ],
+    "correct": "c",
+    "explanation": "I ricorsi di annullamento devono essere proposti nel termine di due mesi a decorrere, secondo i casi, dalla pubblicazione dell'atto, dalla sua notificazione al ricorrente ovvero, in mancanza, dal giorno in cui il ricorrente ne ha avuto conoscenza (art. 263, sesto comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 263 TFUE",
+        "text": "I ricorsi previsti dal presente articolo devono essere proposti nel termine di due mesi a decorrere, secondo i casi, dalla pubblicazione dell'atto, dalla sua notificazione al ricorrente ovvero, in mancanza, dal giorno in cui il ricorrente ne ha avuto conoscenza."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 263 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-007",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 263 TFUE, una persona fisica o giuridica può proporre ricorso di annullamento contro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "qualsiasi atto dell'Unione, anche se non la riguarda",
+        "why_wrong": "L'art. 263, quarto comma, TFUE limita la legittimazione dei privati agli atti adottati nei loro confronti, a quelli che li riguardano direttamente e individualmente e agli atti regolamentari che li riguardano direttamente senza comportare misure d'esecuzione."
+      },
+      {
+        "id": "b",
+        "text": "soltanto le raccomandazioni e i pareri",
+        "why_wrong": "Raccomandazioni e pareri sono esclusi dal controllo di legittimità (art. 263, primo comma, TFUE)."
+      },
+      {
+        "id": "c",
+        "text": "soltanto gli atti legislativi",
+        "why_wrong": "L'art. 263, quarto comma, TFUE non riserva il ricorso dei privati agli atti legislativi."
+      },
+      {
+        "id": "d",
+        "text": "gli atti adottati nei suoi confronti o che la riguardano direttamente e individualmente, e gli atti regolamentari che la riguardano direttamente e non comportano misure d'esecuzione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Qualsiasi persona fisica o giuridica può proporre ricorso contro gli atti adottati nei suoi confronti o che la riguardano direttamente e individualmente, e contro gli atti regolamentari che la riguardano direttamente e che non comportano alcuna misura d'esecuzione (art. 263, quarto comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 263 TFUE",
+        "text": "un ricorso contro gli atti adottati nei suoi confronti o che la riguardano direttamente e individualmente, e contro gli atti regolamentari che la riguardano direttamente e che non comportano alcuna misura d'esecuzione."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 263 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-008",
+    "subject": "diritto-ue",
+    "question": "Se il ricorso di annullamento è fondato, secondo l'art. 264 TFUE la Corte di giustizia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dichiara nullo e non avvenuto l'atto impugnato, potendo precisare gli effetti dell'atto annullato che devono essere considerati definitivi",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "rinvia l'atto all'istituzione che lo ha adottato perché lo modifichi entro due mesi",
+        "why_wrong": "L'art. 264 TFUE prevede la dichiarazione di nullità dell'atto; l'obbligo di prendere i provvedimenti di esecuzione della sentenza grava poi sull'istituzione (art. 266 TFUE)."
+      },
+      {
+        "id": "c",
+        "text": "condanna l'istituzione al pagamento di una penalità",
+        "why_wrong": "Somma forfettaria e penalità sono previste per gli Stati membri inadempienti (art. 260 TFUE), non come effetto dell'annullamento."
+      },
+      {
+        "id": "d",
+        "text": "dichiara l'atto nullo con effetto solo per il ricorrente",
+        "why_wrong": "L'art. 264 TFUE dispone che l'atto è dichiarato nullo e non avvenuto, senza limitare l'effetto al ricorrente."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Se il ricorso è fondato, la Corte dichiara nullo e non avvenuto l'atto impugnato; tuttavia, ove lo reputi necessario, precisa gli effetti dell'atto annullato che devono essere considerati definitivi (art. 264 TFUE). L'istituzione da cui emana l'atto deve prendere i provvedimenti di esecuzione della sentenza (art. 266).",
+    "evidence": [
+      {
+        "ref": "art. 264 TFUE",
+        "text": "Se il ricorso è fondato, la Corte di giustizia dell'Unione europea dichiara nullo e non avvenuto l'atto impugnato."
+      },
+      {
+        "ref": "art. 264 TFUE",
+        "text": "Tuttavia la Corte, ove lo reputi necessario, precisa gli effetti dell'atto annullato che devono essere considerati definitivi."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 264 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-009",
+    "subject": "diritto-ue",
+    "question": "Uno Stato membro ritiene che la Commissione, in violazione dei trattati, si stia astenendo dal pronunciarsi. Per proporre ricorso in carenza ai sensi dell'art. 265 TFUE, lo Stato deve prima:",
+    "options": [
+      {
+        "id": "a",
+        "text": "chiedere un parere motivato al Consiglio",
+        "why_wrong": "L'art. 265 TFUE non prevede un parere del Consiglio, ma la preventiva richiesta di agire rivolta all'istituzione."
+      },
+      {
+        "id": "b",
+        "text": "richiedere alla Commissione di agire e attendere due mesi; se la Commissione non prende posizione, può ricorrere entro un nuovo termine di due mesi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "proporre ricorso di annullamento contro il silenzio",
+        "why_wrong": "Il ricorso di annullamento (art. 263 TFUE) riguarda atti adottati; l'astensione dal pronunciarsi è oggetto del ricorso in carenza."
+      },
+      {
+        "id": "d",
+        "text": "attendere tre mesi dalla scadenza del termine previsto dai trattati",
+        "why_wrong": "L'art. 265, secondo comma, TFUE prevede due termini di due mesi, non un termine di tre mesi."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il ricorso in carenza è ricevibile soltanto se l'istituzione è stata preventivamente richiesta di agire. Se, allo scadere di due mesi dalla richiesta, essa non ha preso posizione, il ricorso può essere proposto entro un nuovo termine di due mesi (art. 265, secondo comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 265 TFUE",
+        "text": "Il ricorso è ricevibile soltanto quando l'istituzione, l'organo o l'organismo in causa siano stati preventivamente richiesti di agire. Se, allo scadere di un termine di due mesi da tale richiesta, l'istituzione, l'organo o l'organismo non hanno preso posizione, il ricorso può essere proposto entro un nuovo termine di due mesi."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 265 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cor-010",
+    "subject": "diritto-ue",
+    "question": "In un giudizio pendente davanti a una giurisdizione nazionale le cui decisioni non sono impugnabili con un ricorso giurisdizionale di diritto interno, sorge una questione sull'interpretazione dei trattati. Secondo l'art. 267 TFUE, tale giurisdizione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può domandare alla Corte di pronunciarsi, se lo reputa necessario",
+        "why_wrong": "La facoltà vale per le giurisdizioni le cui decisioni sono impugnabili (art. 267, secondo comma, TFUE); per quelle di ultima istanza il rinvio è obbligatorio."
+      },
+      {
+        "id": "b",
+        "text": "deve chiedere alla Commissione un parere interpretativo",
+        "why_wrong": "L'art. 267 TFUE attribuisce la competenza pregiudiziale alla Corte di giustizia, non alla Commissione."
+      },
+      {
+        "id": "c",
+        "text": "deve decidere la questione da sola, perché le sue decisioni sono definitive",
+        "why_wrong": "Proprio perché le sue decisioni non sono impugnabili, l'art. 267, terzo comma, TFUE le impone di rivolgersi alla Corte."
+      },
+      {
+        "id": "d",
+        "text": "è tenuta a rivolgersi alla Corte di giustizia",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La Corte è competente a pronunciarsi in via pregiudiziale sull'interpretazione dei trattati e sulla validità e l'interpretazione degli atti dell'Unione. Ogni giurisdizione nazionale può rivolgersi alla Corte, ma quella avverso le cui decisioni non possa proporsi un ricorso giurisdizionale di diritto interno è tenuta a farlo (art. 267 TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 267 TFUE",
+        "text": "Quando una questione del genere è sollevata in un giudizio pendente davanti a una giurisdizione nazionale, avverso le cui decisioni non possa proporsi un ricorso giurisdizionale di diritto interno, tale giurisdizione è tenuta a rivolgersi alla Corte."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 267 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

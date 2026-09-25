@@ -201,6 +201,14 @@ paragraph). An article made of numbered points, such as the GDPR definitions,
 is cited by point: `"art. 4, punto 7"`. An EU article with a single unnumbered
 paragraph is cited as a whole: `"art. 10"`.
 
+The consolidated TUE/TFUE file holds two treaties that both number their
+articles from 1, so the treaty follows the article number:
+`"art. 5 TUE, par. 3"`, `"art. 294 TFUE, par. 7, lett. a)"`, or, for an
+article without numbered paragraphs, `"art. 288 TFUE"`. The check reads the
+heading of each treaty ("TRATTATO SULL'UNIONE EUROPEA (VERSIONE
+CONSOLIDATA)", "TRATTATO SUL FUNZIONAMENTO...") to know which treaty an
+article belongs to.
+
 The check reads a source file only up to the closing formula of its act
 ("Il presente decreto, munito del sigillo dello Stato..." or "Fatto a
 Bruxelles, il ..."). Annexes and other acts saved in the same file (the

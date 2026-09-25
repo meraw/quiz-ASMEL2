@@ -1,0 +1,890 @@
+[
+  {
+    "id": "ue-tue-001",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 2 TUE, l'Unione si fonda sui valori:",
+    "options": [
+      {
+        "id": "a",
+        "text": "della pace, del benessere dei popoli e dello sviluppo sostenibile",
+        "why_wrong": "Pace, benessere dei popoli e sviluppo sostenibile sono obiettivi che l'Unione si prefigge (art. 3 TUE), non i valori su cui si fonda."
+      },
+      {
+        "id": "b",
+        "text": "dell'attribuzione, della sussidiarietà e della proporzionalità",
+        "why_wrong": "Sono i principi che regolano la delimitazione e l'esercizio delle competenze dell'Unione (art. 5 TUE)."
+      },
+      {
+        "id": "c",
+        "text": "del rispetto della dignità umana, della libertà, della democrazia, dell'uguaglianza, dello Stato di diritto e del rispetto dei diritti umani",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "della leale cooperazione, della solidarietà finanziaria e della parità di bilancio tra gli Stati membri",
+        "why_wrong": "La leale cooperazione è un principio che regola i rapporti tra Unione e Stati membri (art. 4, par. 3, TUE) e non figura tra i valori dell'art. 2."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 2 TUE elenca i valori su cui si fonda l'Unione: rispetto della dignità umana, libertà, democrazia, uguaglianza, Stato di diritto e rispetto dei diritti umani, compresi i diritti delle persone appartenenti a minoranze. Tali valori sono comuni agli Stati membri.",
+    "evidence": [
+      {
+        "ref": "art. 2 TUE",
+        "text": "L'Unione si fonda sui valori del rispetto della dignità umana, della libertà, della democrazia, dell'uguaglianza, dello Stato di diritto e del rispetto dei diritti umani, compresi i diritti delle persone appartenenti a minoranze."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 2 TUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-002",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 3 TUE, l'Unione si prefigge di promuovere:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la pace, i suoi valori e il benessere dei suoi popoli",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "l'uniformità delle cittadinanze nazionali degli Stati membri",
+        "why_wrong": "Per l'art. 9 TUE la cittadinanza dell'Unione si aggiunge a quella nazionale e non la sostituisce; l'art. 3 non prevede alcuna uniformità delle cittadinanze."
+      },
+      {
+        "id": "c",
+        "text": "l'accentramento a livello di Unione di tutte le competenze degli Stati membri",
+        "why_wrong": "Per l'art. 3, par. 6, TUE l'Unione persegue i suoi obiettivi in ragione delle competenze che le sono attribuite nei trattati; le competenze non attribuite appartengono agli Stati membri (art. 4, par. 1)."
+      },
+      {
+        "id": "d",
+        "text": "la sicurezza nazionale di ciascuno Stato membro, quale competenza comune",
+        "why_wrong": "Per l'art. 4, par. 2, TUE la sicurezza nazionale resta di esclusiva competenza di ciascuno Stato membro."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 3, par. 1, TUE stabilisce che l'Unione si prefigge di promuovere la pace, i suoi valori e il benessere dei suoi popoli. I paragrafi successivi specificano gli altri obiettivi (spazio di libertà, sicurezza e giustizia, mercato interno, unione economica e monetaria, azione esterna).",
+    "evidence": [
+      {
+        "ref": "art. 3 TUE, par. 1",
+        "text": "L'Unione si prefigge di promuovere la pace, i suoi valori e il benessere dei suoi popoli."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 3 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-003",
+    "subject": "diritto-ue",
+    "question": "Un settore di intervento non è attribuito all'Unione da alcuna disposizione dei trattati. Secondo il TUE, la competenza in quel settore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "spetta all'Unione, se l'obiettivo può essere conseguito meglio a livello di Unione",
+        "why_wrong": "La valutazione del «meglio a livello di Unione» riguarda il principio di sussidiarietà (art. 5, par. 3, TUE), che disciplina l'esercizio di competenze già attribuite, non la loro attribuzione."
+      },
+      {
+        "id": "b",
+        "text": "spetta congiuntamente all'Unione e agli Stati membri",
+        "why_wrong": "L'art. 5, par. 2, TUE non prevede una competenza congiunta per le materie non attribuite: esse appartengono agli Stati membri."
+      },
+      {
+        "id": "c",
+        "text": "può essere assunta dall'Unione con decisione del Consiglio europeo a maggioranza qualificata",
+        "why_wrong": "In virtù del principio di attribuzione l'Unione agisce esclusivamente nei limiti delle competenze attribuitele dagli Stati membri nei trattati (art. 5, par. 2, TUE)."
+      },
+      {
+        "id": "d",
+        "text": "appartiene agli Stati membri",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "In virtù del principio di attribuzione l'Unione agisce solo nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati. Qualsiasi competenza non attribuita all'Unione appartiene agli Stati membri (art. 5, par. 2, TUE; lo stesso principio è ripetuto all'art. 4, par. 1).",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 2",
+        "text": "In virtù del principio di attribuzione, l'Unione agisce esclusivamente nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati per realizzare gli obiettivi da questi stabiliti. Qualsiasi competenza non attribuita all'Unione nei trattati appartiene agli Stati membri."
+      },
+      {
+        "ref": "art. 4 TUE, par. 1",
+        "text": "In conformità dell'articolo 5, qualsiasi competenza non attribuita all'Unione nei trattati appartiene agli Stati membri."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-004",
+    "subject": "diritto-ue",
+    "question": "Uno Stato membro adotta misure di tutela della propria sicurezza nazionale. In base all'art. 4 TUE, la sicurezza nazionale:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rientra tra le competenze esclusive dell'Unione",
+        "why_wrong": "L'art. 4, par. 2, TUE dispone l'opposto: la sicurezza nazionale resta di esclusiva competenza di ciascuno Stato membro."
+      },
+      {
+        "id": "b",
+        "text": "resta di esclusiva competenza di ciascuno Stato membro",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è una competenza concorrente, esercitata nel rispetto della sussidiarietà",
+        "why_wrong": "L'art. 4, par. 2, TUE qualifica la sicurezza nazionale come competenza esclusiva di ciascuno Stato membro, non come competenza condivisa con l'Unione."
+      },
+      {
+        "id": "d",
+        "text": "è di competenza del Consiglio europeo, che ne definisce gli orientamenti vincolanti",
+        "why_wrong": "Il Consiglio europeo definisce gli orientamenti e le priorità politiche generali dell'Unione (art. 15, par. 1, TUE); la sicurezza nazionale resta invece di esclusiva competenza di ciascuno Stato membro."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 4, par. 2, TUE impone all'Unione di rispettare le funzioni essenziali dello Stato, tra cui la tutela della sicurezza nazionale, e precisa che la sicurezza nazionale resta di esclusiva competenza di ciascuno Stato membro.",
+    "evidence": [
+      {
+        "ref": "art. 4 TUE, par. 2",
+        "text": "Rispetta le funzioni essenziali dello Stato, in particolare le funzioni di salvaguardia dell'integrità territoriale, di mantenimento dell'ordine pubblico e di tutela della sicurezza nazionale. In particolare, la sicurezza nazionale resta di esclusiva competenza di ciascuno Stato membro."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 4 TUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-005",
+    "subject": "diritto-ue",
+    "question": "Uno Stato membro sta per approvare una legge che rischia di mettere in pericolo la realizzazione degli obiettivi dell'Unione. In base al principio di leale cooperazione dell'art. 4, par. 3, TUE, lo Stato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "deve astenersi dall'adottare la misura",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "può adottarla liberamente, trattandosi di una materia di diritto interno",
+        "why_wrong": "L'art. 4, par. 3, TUE obbliga gli Stati membri ad astenersi da qualsiasi misura che rischi di mettere in pericolo la realizzazione degli obiettivi dell'Unione."
+      },
+      {
+        "id": "c",
+        "text": "può adottarla solo previa approvazione del Parlamento europeo",
+        "why_wrong": "L'art. 4, par. 3, TUE non prevede un'approvazione preventiva del Parlamento europeo, ma un obbligo di astensione dello Stato."
+      },
+      {
+        "id": "d",
+        "text": "può adottarla, ma deve darne comunicazione alla Commissione entro tre mesi",
+        "why_wrong": "Nessun termine di comunicazione è previsto dall'art. 4, par. 3, TUE, che impone invece di astenersi dalla misura."
+      }
+    ],
+    "correct": "a",
+    "explanation": "In virtù del principio di leale cooperazione, gli Stati membri adottano ogni misura atta ad assicurare l'esecuzione degli obblighi derivanti dai trattati e si astengono da qualsiasi misura che rischi di mettere in pericolo la realizzazione degli obiettivi dell'Unione (art. 4, par. 3, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 4 TUE, par. 3",
+        "text": "Gli Stati membri facilitano all'Unione l'adempimento dei suoi compiti e si astengono da qualsiasi misura che rischi di mettere in pericolo la realizzazione degli obiettivi dell'Unione."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 4 TUE, par. 3",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-006",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 5 TUE, la delimitazione delle competenze dell'Unione si fonda sul principio:",
+    "options": [
+      {
+        "id": "a",
+        "text": "di sussidiarietà",
+        "why_wrong": "Per l'art. 5, par. 1, TUE la sussidiarietà riguarda l'esercizio delle competenze, non la loro delimitazione."
+      },
+      {
+        "id": "b",
+        "text": "di proporzionalità",
+        "why_wrong": "Per l'art. 5, par. 1, TUE la proporzionalità riguarda l'esercizio delle competenze, non la loro delimitazione."
+      },
+      {
+        "id": "c",
+        "text": "di attribuzione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "di leale cooperazione",
+        "why_wrong": "La leale cooperazione (art. 4, par. 3, TUE) regola il rapporto di reciproca assistenza tra Unione e Stati membri, non la delimitazione delle competenze."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 5, par. 1, TUE distingue: la delimitazione delle competenze dell'Unione si fonda sul principio di attribuzione, mentre il loro esercizio si fonda sui principi di sussidiarietà e proporzionalità.",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 1",
+        "text": "La delimitazione delle competenze dell'Unione si fonda sul principio di attribuzione. L'esercizio delle competenze dell'Unione si fonda sui principi di sussidiarietà e proporzionalità."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-007",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 5, par. 3, TUE, il principio di sussidiarietà si applica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "in tutti i settori, comprese le competenze esclusive dell'Unione",
+        "why_wrong": "L'art. 5, par. 3, TUE limita la sussidiarietà ai settori che non sono di competenza esclusiva dell'Unione."
+      },
+      {
+        "id": "b",
+        "text": "solo nei settori di competenza esclusiva dell'Unione",
+        "why_wrong": "È l'opposto: la sussidiarietà opera nei settori che NON sono di competenza esclusiva dell'Unione (art. 5, par. 3, TUE)."
+      },
+      {
+        "id": "c",
+        "text": "solo alle competenze che i trattati riservano agli Stati membri",
+        "why_wrong": "Le competenze non attribuite appartengono agli Stati membri (art. 5, par. 2, TUE) e in esse l'Unione non interviene affatto; la sussidiarietà riguarda i settori di competenza non esclusiva dell'Unione."
+      },
+      {
+        "id": "d",
+        "text": "nei settori che non sono di competenza esclusiva dell'Unione",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "In virtù del principio di sussidiarietà, nei settori che non sono di sua competenza esclusiva l'Unione interviene soltanto se e in quanto gli obiettivi dell'azione non possono essere conseguiti in misura sufficiente dagli Stati membri e possono essere conseguiti meglio a livello di Unione (art. 5, par. 3, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 3",
+        "text": "In virtù del principio di sussidiarietà, nei settori che non sono di sua competenza esclusiva l'Unione interviene soltanto se e in quanto gli obiettivi dell'azione prevista non possono essere conseguiti in misura sufficiente dagli Stati membri, né a livello centrale né a livello regionale e locale, ma possono, a motivo della portata o degli effetti dell'azione in questione, essere conseguiti meglio a livello di Unione."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 3",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-008",
+    "subject": "diritto-ue",
+    "question": "In un settore che non è di competenza esclusiva dell'Unione, risulta che l'obiettivo di un'azione può essere conseguito in misura sufficiente dalle regioni e dagli enti locali degli Stati membri. In base al principio di sussidiarietà:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'Unione può intervenire comunque, purché l'atto sia adottato all'unanimità",
+        "why_wrong": "L'art. 5, par. 3, TUE non collega la sussidiarietà a una maggioranza di voto: l'Unione interviene solo se gli obiettivi non possono essere conseguiti in misura sufficiente dagli Stati membri."
+      },
+      {
+        "id": "b",
+        "text": "l'Unione non interviene",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "l'Unione interviene, perché la sussidiarietà riguarda soltanto il livello centrale degli Stati",
+        "why_wrong": "L'art. 5, par. 3, TUE considera espressamente anche il livello regionale e locale degli Stati membri."
+      },
+      {
+        "id": "d",
+        "text": "l'Unione interviene, purché l'azione non ecceda quanto necessario",
+        "why_wrong": "Il limite di «quanto necessario» esprime il principio di proporzionalità (art. 5, par. 4, TUE), che non consente di superare il difetto di sussidiarietà."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'Unione interviene soltanto se e in quanto gli obiettivi dell'azione non possono essere conseguiti in misura sufficiente dagli Stati membri, «né a livello centrale né a livello regionale e locale». Se il livello regionale e locale è sufficiente, manca il presupposto dell'intervento dell'Unione (art. 5, par. 3, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 3",
+        "text": "l'Unione interviene soltanto se e in quanto gli obiettivi dell'azione prevista non possono essere conseguiti in misura sufficiente dagli Stati membri, né a livello centrale né a livello regionale e locale"
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 3",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-009",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 5 TUE, chi vigila sul rispetto del principio di sussidiarietà secondo la procedura prevista dal relativo protocollo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Comitato delle regioni",
+        "why_wrong": "Il Comitato delle regioni esercita funzioni consultive (art. 13, par. 4, TUE); l'art. 5, par. 3, affida la vigilanza sulla sussidiarietà ai parlamenti nazionali."
+      },
+      {
+        "id": "b",
+        "text": "La Corte dei conti",
+        "why_wrong": "La Corte dei conti è un'istituzione dell'Unione (art. 13 TUE), ma l'art. 5, par. 3, affida la vigilanza sulla sussidiarietà ai parlamenti nazionali."
+      },
+      {
+        "id": "c",
+        "text": "I parlamenti nazionali",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Il Consiglio europeo",
+        "why_wrong": "Il Consiglio europeo definisce gli orientamenti e le priorità politiche generali (art. 15 TUE); la vigilanza sulla sussidiarietà spetta ai parlamenti nazionali."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 5, par. 3, secondo comma, TUE stabilisce che le istituzioni applicano il principio di sussidiarietà conformemente al relativo protocollo e che i parlamenti nazionali vigilano sul suo rispetto secondo la procedura prevista in detto protocollo. Lo ribadisce l'art. 12, lett. b), TUE.",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 3",
+        "text": "I parlamenti nazionali vigilano sul rispetto del principio di sussidiarietà secondo la procedura prevista in detto protocollo."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 3",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-010",
+    "subject": "diritto-ue",
+    "question": "In virtù del principio di proporzionalità (art. 5, par. 4, TUE):",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'Unione agisce solo nei limiti delle competenze attribuitele dagli Stati membri",
+        "why_wrong": "È il contenuto del principio di attribuzione (art. 5, par. 2, TUE)."
+      },
+      {
+        "id": "b",
+        "text": "il contenuto e la forma dell'azione dell'Unione si limitano a quanto necessario per il conseguimento degli obiettivi dei trattati",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "l'Unione interviene solo se gli obiettivi non possono essere conseguiti in misura sufficiente dagli Stati membri",
+        "why_wrong": "È il contenuto del principio di sussidiarietà (art. 5, par. 3, TUE)."
+      },
+      {
+        "id": "d",
+        "text": "gli Stati membri sono rappresentati in proporzione alla loro popolazione in tutte le istituzioni",
+        "why_wrong": "L'art. 5, par. 4, TUE riguarda il contenuto e la forma dell'azione dell'Unione, non la composizione delle istituzioni."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il principio di proporzionalità attiene all'esercizio delle competenze: il contenuto e la forma dell'azione dell'Unione non devono andare oltre quanto necessario per conseguire gli obiettivi dei trattati (art. 5, par. 4, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 4",
+        "text": "In virtù del principio di proporzionalità, il contenuto e la forma dell'azione dell'Unione si limitano a quanto necessario per il conseguimento degli obiettivi dei trattati."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 4",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-011",
+    "subject": "diritto-ue",
+    "question": "L'Unione, in un settore di sua competenza, intende adottare una disciplina molto dettagliata e vincolante, benché per conseguire l'obiettivo dei trattati sia sufficiente una misura meno incisiva. Quale principio dell'art. 5 TUE risulta violato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il principio di attribuzione",
+        "why_wrong": "Il settore è di competenza dell'Unione: l'attribuzione (art. 5, par. 2, TUE) non è in discussione."
+      },
+      {
+        "id": "b",
+        "text": "Il principio di leale cooperazione",
+        "why_wrong": "La leale cooperazione (art. 4, par. 3, TUE) riguarda la reciproca assistenza tra Unione e Stati membri, non l'intensità dell'azione dell'Unione."
+      },
+      {
+        "id": "c",
+        "text": "Il principio di sussidiarietà",
+        "why_wrong": "La sussidiarietà (art. 5, par. 3, TUE) riguarda se l'Unione debba intervenire, non il contenuto e la forma dell'intervento."
+      },
+      {
+        "id": "d",
+        "text": "Il principio di proporzionalità",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Quando l'intervento dell'Unione è ammesso, il suo contenuto e la sua forma devono limitarsi a quanto necessario per il conseguimento degli obiettivi dei trattati: una misura più incisiva del necessario viola il principio di proporzionalità (art. 5, par. 4, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 5 TUE, par. 4",
+        "text": "In virtù del principio di proporzionalità, il contenuto e la forma dell'azione dell'Unione si limitano a quanto necessario per il conseguimento degli obiettivi dei trattati."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 5 TUE, par. 4",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-012",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 6 TUE, la Carta dei diritti fondamentali dell'Unione europea:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha lo stesso valore giuridico dei trattati",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "è una dichiarazione politica priva di valore giuridico",
+        "why_wrong": "L'art. 6, par. 1, TUE riconosce alla Carta lo stesso valore giuridico dei trattati."
+      },
+      {
+        "id": "c",
+        "text": "ha valore superiore ai trattati ed estende le competenze dell'Unione",
+        "why_wrong": "L'art. 6, par. 1, TUE equipara la Carta ai trattati e precisa che essa non estende in alcun modo le competenze dell'Unione."
+      },
+      {
+        "id": "d",
+        "text": "ha il valore di un regolamento dell'Unione",
+        "why_wrong": "L'art. 6, par. 1, TUE non equipara la Carta a un atto derivato come il regolamento, ma ai trattati."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'Unione riconosce i diritti, le libertà e i principi sanciti nella Carta, che ha lo stesso valore giuridico dei trattati; le disposizioni della Carta non estendono in alcun modo le competenze dell'Unione definite nei trattati (art. 6, par. 1, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 6 TUE, par. 1",
+        "text": "L'Unione riconosce i diritti, le libertà e i principi sanciti nella Carta dei diritti fondamentali dell'Unione europea del 7 dicembre 2000, adattata il 12 dicembre 2007 a Strasburgo, che ha lo stesso valore giuridico dei trattati."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 6 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-013",
+    "subject": "diritto-ue",
+    "question": "Per constatare che esiste un evidente rischio di violazione grave, da parte di uno Stato membro, dei valori di cui all'art. 2 TUE, il Consiglio delibera:",
+    "options": [
+      {
+        "id": "a",
+        "text": "all'unanimità, su proposta di un terzo degli Stati membri",
+        "why_wrong": "L'unanimità è richiesta al Consiglio europeo per constatare una violazione grave e persistente (art. 7, par. 2, TUE), non per il rischio di violazione."
+      },
+      {
+        "id": "b",
+        "text": "alla maggioranza dei quattro quinti dei suoi membri, previa approvazione del Parlamento europeo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "a maggioranza qualificata, senza intervento del Parlamento europeo",
+        "why_wrong": "La maggioranza qualificata è prevista per la sospensione dei diritti (art. 7, par. 3, TUE); per la constatazione del rischio servono i quattro quinti e l'approvazione del Parlamento europeo."
+      },
+      {
+        "id": "d",
+        "text": "a maggioranza semplice, previo parere della Corte di giustizia",
+        "why_wrong": "L'art. 7, par. 1, TUE richiede i quattro quinti dei membri del Consiglio e l'approvazione del Parlamento europeo; non prevede un parere della Corte."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Su proposta motivata di un terzo degli Stati membri, del Parlamento europeo o della Commissione, il Consiglio, deliberando alla maggioranza dei quattro quinti dei suoi membri previa approvazione del Parlamento europeo, può constatare un evidente rischio di violazione grave dei valori dell'art. 2 (art. 7, par. 1, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 7 TUE, par. 1",
+        "text": "Su proposta motivata di un terzo degli Stati membri, del Parlamento europeo o della Commissione europea, il Consiglio, deliberando alla maggioranza dei quattro quinti dei suoi membri previa approvazione del Parlamento europeo, può constatare che esiste un evidente rischio di violazione grave da parte di uno Stato membro dei valori di cui all'articolo 2."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 7 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-014",
+    "subject": "diritto-ue",
+    "question": "Un comitato raccoglie le firme di oltre un milione di cittadini dell'Unione, aventi la cittadinanza di un numero significativo di Stati membri, per chiedere un nuovo atto giuridico dell'Unione. Ai sensi dell'art. 11 TUE, i cittadini possono invitare a presentare una proposta appropriata:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il Parlamento europeo",
+        "why_wrong": "Il Parlamento europeo è il destinatario del diritto di petizione (art. 24 TFUE), istituto diverso dall'iniziativa dei cittadini dell'art. 11, par. 4, TUE."
+      },
+      {
+        "id": "b",
+        "text": "il Consiglio europeo",
+        "why_wrong": "L'art. 11, par. 4, TUE indica come destinataria dell'iniziativa la Commissione europea."
+      },
+      {
+        "id": "c",
+        "text": "la Commissione europea",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "il Consiglio",
+        "why_wrong": "L'art. 11, par. 4, TUE indica come destinataria dell'iniziativa la Commissione europea."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'iniziativa dei cittadini consente ad almeno un milione di cittadini dell'Unione, cittadini di un numero significativo di Stati membri, di invitare la Commissione europea, nell'ambito delle sue attribuzioni, a presentare una proposta appropriata (art. 11, par. 4, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 11 TUE, par. 4",
+        "text": "Cittadini dell'Unione, in numero di almeno un milione, che abbiano la cittadinanza di un numero significativo di Stati membri, possono prendere l'iniziativa d'invitare la Commissione europea, nell'ambito delle sue attribuzioni, a presentare una proposta appropriata"
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 11 TUE, par. 4",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-015",
+    "subject": "diritto-ue",
+    "question": "Quale dei seguenti è un'istituzione dell'Unione ai sensi dell'art. 13 TUE?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il Comitato economico e sociale",
+        "why_wrong": "Il Comitato economico e sociale assiste Parlamento, Consiglio e Commissione con funzioni consultive (art. 13, par. 4, TUE), ma non è un'istituzione."
+      },
+      {
+        "id": "b",
+        "text": "Il Comitato delle regioni",
+        "why_wrong": "Il Comitato delle regioni esercita funzioni consultive (art. 13, par. 4, TUE), ma non è compreso nell'elenco delle istituzioni."
+      },
+      {
+        "id": "c",
+        "text": "Il comitato dei rappresentanti permanenti dei governi degli Stati membri",
+        "why_wrong": "Il comitato dei rappresentanti permanenti prepara i lavori del Consiglio (art. 16, par. 7, TUE), ma non è un'istituzione."
+      },
+      {
+        "id": "d",
+        "text": "La Corte dei conti",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Le istituzioni dell'Unione sono sette: Parlamento europeo, Consiglio europeo, Consiglio, Commissione europea, Corte di giustizia dell'Unione europea, Banca centrale europea e Corte dei conti (art. 13, par. 1, TUE). Il Comitato economico e sociale e il Comitato delle regioni hanno funzioni consultive (par. 4).",
+    "evidence": [
+      {
+        "ref": "art. 13 TUE, par. 1",
+        "text": "Le istituzioni dell'Unione sono: — il Parlamento europeo, — il Consiglio europeo, — il Consiglio, — la Commissione europea (in appresso \"Commissione\"), — la Corte di giustizia dell'Unione europea, — la Banca centrale europea, — la Corte dei conti."
+      },
+      {
+        "ref": "art. 13 TUE, par. 4",
+        "text": "Il Parlamento europeo, il Consiglio e la Commissione sono assistiti da un Comitato economico e sociale e da un Comitato delle regioni, che esercitano funzioni consultive."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 13 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-016",
+    "subject": "diritto-ue",
+    "question": "Riguardo alla composizione del Parlamento europeo, l'art. 14 TUE stabilisce che:",
+    "options": [
+      {
+        "id": "a",
+        "text": "i membri non possono essere più di settecentocinquanta, più il presidente, con un minimo di sei e un massimo di novantasei seggi per Stato membro",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "ogni Stato membro elegge lo stesso numero di rappresentanti",
+        "why_wrong": "L'art. 14, par. 2, TUE prevede una rappresentanza degressivamente proporzionale, non paritaria."
+      },
+      {
+        "id": "c",
+        "text": "i membri sono designati dai parlamenti nazionali per un mandato di cinque anni",
+        "why_wrong": "Per l'art. 14, par. 3, TUE i membri sono eletti a suffragio universale diretto, libero e segreto."
+      },
+      {
+        "id": "d",
+        "text": "la composizione è decisa dal Consiglio a maggioranza qualificata su proposta della Commissione",
+        "why_wrong": "Per l'art. 14, par. 2, TUE la decisione è adottata dal Consiglio europeo all'unanimità, su iniziativa e con l'approvazione del Parlamento europeo."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Il Parlamento europeo è composto di rappresentanti dei cittadini dell'Unione, in numero non superiore a settecentocinquanta più il presidente; la rappresentanza è degressivamente proporzionale, con almeno sei membri e non più di novantasei seggi per Stato membro (art. 14, par. 2, TUE). I membri sono eletti a suffragio universale diretto per cinque anni (par. 3).",
+    "evidence": [
+      {
+        "ref": "art. 14 TUE, par. 2",
+        "text": "Il loro numero non può essere superiore a settecentocinquanta, più il presidente. La rappresentanza dei cittadini è garantita in modo degressivamente proporzionale, con una soglia minima di sei membri per Stato membro. A nessuno Stato membro sono assegnati più di novantasei seggi."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 14 TUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-017",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 15 TUE, il Consiglio europeo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esercita, congiuntamente al Parlamento europeo, la funzione legislativa",
+        "why_wrong": "È la funzione del Consiglio (art. 16, par. 1, TUE), istituzione distinta dal Consiglio europeo."
+      },
+      {
+        "id": "b",
+        "text": "dà all'Unione gli impulsi necessari al suo sviluppo e ne definisce gli orientamenti e le priorità politiche generali, senza esercitare funzioni legislative",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è composto da un rappresentante di ciascuno Stato membro a livello ministeriale",
+        "why_wrong": "È la composizione del Consiglio (art. 16, par. 2, TUE); il Consiglio europeo è composto dai capi di Stato o di governo, dal suo presidente e dal presidente della Commissione."
+      },
+      {
+        "id": "d",
+        "text": "delibera di regola a maggioranza qualificata",
+        "why_wrong": "Per l'art. 15, par. 4, TUE il Consiglio europeo si pronuncia per consenso, salvo diversa disposizione; la regola della maggioranza qualificata vale per il Consiglio (art. 16, par. 3)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il Consiglio europeo dà all'Unione gli impulsi necessari al suo sviluppo e ne definisce gli orientamenti e le priorità politiche generali; non esercita funzioni legislative (art. 15, par. 1, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 15 TUE, par. 1",
+        "text": "Il Consiglio europeo dà all'Unione gli impulsi necessari al suo sviluppo e ne definisce gli orientamenti e le priorità politiche generali. Non esercita funzioni legislative."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 15 TUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-018",
+    "subject": "diritto-ue",
+    "question": "In una votazione del Consiglio per cui i trattati richiedono la maggioranza qualificata, votano a favore diciotto membri, che rappresentano Stati membri con il 60% della popolazione dell'Unione; nove membri votano contro. In base all'art. 16, par. 4, TUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la maggioranza qualificata è raggiunta, perché i favorevoli superano il 55% dei membri",
+        "why_wrong": "Il 55% dei membri è solo una delle due soglie: l'art. 16, par. 4, TUE richiede anche che i favorevoli rappresentino almeno il 65% della popolazione."
+      },
+      {
+        "id": "b",
+        "text": "la maggioranza qualificata è raggiunta, perché i contrari sono meno di un terzo dei membri",
+        "why_wrong": "L'art. 16, par. 4, TUE non prevede una soglia di un terzo; la maggioranza si considera raggiunta solo se la minoranza di blocco comprende meno di quattro membri."
+      },
+      {
+        "id": "c",
+        "text": "la maggioranza qualificata non è raggiunta, perché servono i quattro quinti dei membri",
+        "why_wrong": "I quattro quinti dei membri sono richiesti solo in casi particolari, come l'art. 7, par. 1, TUE; la maggioranza qualificata è definita dall'art. 16, par. 4."
+      },
+      {
+        "id": "d",
+        "text": "la maggioranza qualificata non è raggiunta, perché i favorevoli non rappresentano il 65% della popolazione e i contrari sono almeno quattro",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "La maggioranza qualificata richiede almeno il 55% dei membri del Consiglio, con un minimo di quindici, rappresentanti Stati membri che totalizzino almeno il 65% della popolazione dell'Unione. Qui manca la soglia della popolazione; e poiché i contrari sono ben più di quattro, non opera la regola per cui, se la minoranza di blocco ha meno di quattro membri, la maggioranza si considera raggiunta (art. 16, par. 4, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 16 TUE, par. 4",
+        "text": "A decorrere dal 1° novembre 2014, per maggioranza qualificata si intende almeno il 55% dei membri del Consiglio, con un minimo di quindici, rappresentanti Stati membri che totalizzino almeno il 65% della popolazione dell'Unione. La minoranza di blocco deve comprendere almeno quattro membri del Consiglio; in caso contrario la maggioranza qualificata si considera raggiunta."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 16 TUE, par. 4",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-019",
+    "subject": "diritto-ue",
+    "question": "Salvo che i trattati non dispongano diversamente, un atto legislativo dell'Unione può essere adottato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "solo su proposta della Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "su proposta di qualsiasi istituzione dell'Unione",
+        "why_wrong": "L'art. 17, par. 2, TUE riserva, di regola, la proposta degli atti legislativi alla Commissione."
+      },
+      {
+        "id": "c",
+        "text": "solo su proposta del Consiglio europeo",
+        "why_wrong": "Il Consiglio europeo non esercita funzioni legislative (art. 15, par. 1, TUE); la proposta spetta alla Commissione."
+      },
+      {
+        "id": "d",
+        "text": "su proposta di almeno un milione di cittadini dell'Unione",
+        "why_wrong": "I cittadini possono solo invitare la Commissione a presentare una proposta (art. 11, par. 4, TUE); la proposta resta della Commissione."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 17, par. 2, TUE stabilisce che un atto legislativo dell'Unione può essere adottato solo su proposta della Commissione, salvo che i trattati non dispongano diversamente. Gli altri atti sono adottati su proposta della Commissione se i trattati lo prevedono.",
+    "evidence": [
+      {
+        "ref": "art. 17 TUE, par. 2",
+        "text": "Un atto legislativo dell'Unione può essere adottato solo su proposta della Commissione, salvo che i trattati non dispongano diversamente."
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 17 TUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-tue-020",
+    "subject": "diritto-ue",
+    "question": "Il Parlamento europeo approva una mozione di censura nei confronti della Commissione. Quale conseguenza prevede l'art. 17, par. 8, TUE?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Si dimette soltanto il presidente della Commissione",
+        "why_wrong": "L'art. 17, par. 8, TUE prevede le dimissioni collettive di tutti i membri della Commissione."
+      },
+      {
+        "id": "b",
+        "text": "Il Consiglio europeo decide, all'unanimità, se confermare la Commissione",
+        "why_wrong": "L'art. 17, par. 8, TUE non prevede alcuna conferma: la Commissione è responsabile collettivamente dinanzi al Parlamento e i suoi membri si dimettono."
+      },
+      {
+        "id": "c",
+        "text": "I membri della Commissione si dimettono collettivamente dalle loro funzioni",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Si dimettono solo i commissari individuati nella mozione",
+        "why_wrong": "La responsabilità della Commissione dinanzi al Parlamento è collettiva (art. 17, par. 8, TUE) e le dimissioni sono collettive."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La Commissione è responsabile collettivamente dinanzi al Parlamento europeo. Se la mozione di censura è adottata, i membri della Commissione si dimettono collettivamente e l'alto rappresentante si dimette dalle funzioni che esercita in seno alla Commissione (art. 17, par. 8, TUE).",
+    "evidence": [
+      {
+        "ref": "art. 17 TUE, par. 8",
+        "text": "La Commissione è responsabile collettivamente dinanzi al Parlamento europeo. Il Parlamento europeo può votare una mozione di censura della Commissione secondo le modalità di cui all'articolo 234 del trattato sul funzionamento dell'Unione europea. Se tale mozione è adottata, i membri della Commissione si dimettono collettivamente dalle loro funzioni"
+      }
+    ],
+    "source": {
+      "act": "TUE",
+      "article": "art. 17 TUE, par. 8",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

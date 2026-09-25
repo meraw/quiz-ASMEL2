@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ue-cit-001",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 20 TFUE, la cittadinanza dell'Unione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sostituisce la cittadinanza nazionale per i rapporti con le istituzioni dell'Unione",
+        "why_wrong": "L'art. 20, par. 1, TFUE esclude la sostituzione: la cittadinanza dell'Unione si aggiunge a quella nazionale."
+      },
+      {
+        "id": "b",
+        "text": "è attribuita a chi risiede stabilmente nel territorio dell'Unione da almeno cinque anni",
+        "why_wrong": "Per l'art. 20, par. 1, TFUE è cittadino dell'Unione chiunque abbia la cittadinanza di uno Stato membro; la residenza non è il criterio."
+      },
+      {
+        "id": "c",
+        "text": "si aggiunge alla cittadinanza nazionale e non la sostituisce",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "è concessa dalla Commissione su domanda dell'interessato",
+        "why_wrong": "L'art. 20, par. 1, TFUE lega la cittadinanza dell'Unione al possesso della cittadinanza di uno Stato membro, senza alcun provvedimento di concessione."
+      }
+    ],
+    "correct": "c",
+    "explanation": "È istituita una cittadinanza dell'Unione: è cittadino dell'Unione chiunque abbia la cittadinanza di uno Stato membro; la cittadinanza dell'Unione si aggiunge alla cittadinanza nazionale e non la sostituisce (art. 20, par. 1, TFUE; lo ripete l'art. 9 TUE).",
+    "evidence": [
+      {
+        "ref": "art. 20 TFUE, par. 1",
+        "text": "È istituita una cittadinanza dell'Unione. È cittadino dell'Unione chiunque abbia la cittadinanza di uno Stato membro. La cittadinanza dell'Unione si aggiunge alla cittadinanza nazionale e non la sostituisce."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 20 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cit-002",
+    "subject": "diritto-ue",
+    "question": "Una cittadina italiana risiede da tempo in un Comune francese. In base all'art. 22 TFUE, alle elezioni comunali di quel Comune:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non ha diritto di voto, perché non ha la cittadinanza francese",
+        "why_wrong": "L'art. 22, par. 1, TFUE riconosce il diritto di voto e di eleggibilità alle elezioni comunali nello Stato membro di residenza anche a chi non ne è cittadino."
+      },
+      {
+        "id": "b",
+        "text": "ha diritto di voto e di eleggibilità alle stesse condizioni dei cittadini francesi",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "ha diritto di voto ma non di eleggibilità",
+        "why_wrong": "L'art. 22, par. 1, TFUE riconosce sia il diritto di voto sia quello di eleggibilità."
+      },
+      {
+        "id": "d",
+        "text": "può votare solo se rinuncia al diritto di voto alle elezioni comunali in Italia",
+        "why_wrong": "L'art. 22, par. 1, TFUE non subordina il diritto a una rinuncia: lo riconosce alle stesse condizioni dei cittadini dello Stato di residenza."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Ogni cittadino dell'Unione residente in uno Stato membro di cui non è cittadino ha il diritto di voto e di eleggibilità alle elezioni comunali nello Stato membro in cui risiede, alle stesse condizioni dei cittadini di detto Stato (art. 22, par. 1, TFUE). Lo stesso vale per le elezioni del Parlamento europeo (par. 2).",
+    "evidence": [
+      {
+        "ref": "art. 22 TFUE, par. 1",
+        "text": "Ogni cittadino dell'Unione residente in uno Stato membro di cui non è cittadino ha il diritto di voto e di eleggibilità alle elezioni comunali nello Stato membro in cui risiede, alle stesse condizioni dei cittadini di detto Stato."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 22 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cit-003",
+    "subject": "diritto-ue",
+    "question": "Un cittadino italiano, in viaggio in un paese terzo nel quale l'Italia non ha rappresentanze diplomatiche o consolari, ha bisogno di assistenza. In base all'art. 23 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può rivolgersi soltanto alla delegazione della Commissione europea nel paese terzo",
+        "why_wrong": "L'art. 23 TFUE attribuisce la tutela alle autorità diplomatiche e consolari degli Stati membri, non a una delegazione della Commissione."
+      },
+      {
+        "id": "b",
+        "text": "non ha diritto ad alcuna tutela, perché lo Stato di cui ha la cittadinanza non è rappresentato",
+        "why_wrong": "L'art. 23 TFUE prevede proprio questo caso, garantendo la tutela da parte di qualsiasi Stato membro rappresentato."
+      },
+      {
+        "id": "c",
+        "text": "gode della tutela delle autorità diplomatiche e consolari di qualsiasi Stato membro, alle stesse condizioni dei cittadini di quello Stato",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può essere tutelato da un altro Stato membro solo previo rimborso integrale delle spese",
+        "why_wrong": "L'art. 23 TFUE garantisce la tutela alle stesse condizioni dei cittadini dello Stato che la presta, senza porre la condizione indicata."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Ogni cittadino dell'Unione gode, nel territorio di un paese terzo nel quale lo Stato membro di cui ha la cittadinanza non è rappresentato, della tutela da parte delle autorità diplomatiche e consolari di qualsiasi Stato membro, alle stesse condizioni dei cittadini di detto Stato (art. 23 TFUE; v. anche art. 20, par. 2, lett. c).",
+    "evidence": [
+      {
+        "ref": "art. 23 TFUE",
+        "text": "Ogni cittadino dell'Unione gode, nel territorio di un paese terzo nel quale lo Stato membro di cui ha la cittadinanza non è rappresentato, della tutela da parte delle autorità diplomatiche e consolari di qualsiasi Stato membro, alle stesse condizioni dei cittadini di detto Stato."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 23 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cit-004",
+    "subject": "diritto-ue",
+    "question": "Una cittadina dell'Unione scrive in lingua italiana alla Commissione europea. In base all'art. 24 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ha diritto di ricevere una risposta nella stessa lingua",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "riceverà una risposta nella lingua di lavoro scelta dalla Commissione",
+        "why_wrong": "L'art. 24, quarto comma, TFUE garantisce una risposta nella stessa lingua in cui il cittadino ha scritto."
+      },
+      {
+        "id": "c",
+        "text": "deve scrivere in una delle lingue ufficiali dello Stato in cui ha sede l'istituzione",
+        "why_wrong": "L'art. 24, quarto comma, TFUE consente di scrivere in una delle lingue dei trattati, qualunque sia la sede dell'istituzione."
+      },
+      {
+        "id": "d",
+        "text": "può scrivere solo per il tramite del Mediatore europeo",
+        "why_wrong": "Il ricorso al Mediatore (art. 24, terzo comma, TFUE) è un diritto distinto: il cittadino può scrivere direttamente alle istituzioni."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Ogni cittadino dell'Unione può scrivere alle istituzioni o agli organi indicati dall'art. 24 TFUE o dall'art. 13 TUE (tra cui la Commissione) in una delle lingue dei trattati e ricevere una risposta nella stessa lingua (art. 24, quarto comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 24 TFUE",
+        "text": "Ogni cittadino dell'Unione può scrivere alle istituzioni o agli organi di cui al presente articolo o all'articolo 13 del trattato sull'Unione europea in una delle lingue menzionate all'articolo 55, paragrafo 1, di tale trattato e ricevere una risposta nella stessa lingua."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 24 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-cit-005",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 18 TFUE, nel campo di applicazione dei trattati e senza pregiudizio delle disposizioni particolari da essi previste:",
+    "options": [
+      {
+        "id": "a",
+        "text": "è vietata ogni discriminazione fondata sulla residenza, ma sono ammesse quelle fondate sulla nazionalità",
+        "why_wrong": "L'art. 18, primo comma, TFUE vieta proprio le discriminazioni effettuate in base alla nazionalità."
+      },
+      {
+        "id": "b",
+        "text": "è vietata ogni discriminazione effettuata in base alla nazionalità",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "gli Stati membri possono discriminare in base alla nazionalità solo con legge approvata dal parlamento nazionale",
+        "why_wrong": "L'art. 18, primo comma, TFUE pone un divieto generale e non prevede deroghe per legge nazionale."
+      },
+      {
+        "id": "d",
+        "text": "il divieto di discriminazione vale soltanto per le elezioni del Parlamento europeo",
+        "why_wrong": "Il divieto dell'art. 18 TFUE vale nell'intero campo di applicazione dei trattati; il voto alle elezioni europee è disciplinato dall'art. 22, par. 2."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Nel campo di applicazione dei trattati, e senza pregiudizio delle disposizioni particolari dagli stessi previste, è vietata ogni discriminazione effettuata in base alla nazionalità. Parlamento europeo e Consiglio, con la procedura legislativa ordinaria, possono stabilire regole volte a vietare tali discriminazioni (art. 18 TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 18 TFUE",
+        "text": "Nel campo di applicazione dei trattati, e senza pregiudizio delle disposizioni particolari dagli stessi previste, è vietata ogni discriminazione effettuata in base alla nazionalità."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 18 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
