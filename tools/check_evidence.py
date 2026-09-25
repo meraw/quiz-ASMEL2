@@ -11,7 +11,9 @@ For each question with an `evidence` list, and for each item in it:
      Articles made of numbered points, such as the definitions of the GDPR,
      use "art. 4, punto 7": the quote must be inside that point. An EU
      article made of a single unnumbered paragraph is cited as "art. 16":
-     the quote must be inside that article;
+     the quote must be inside that article. When one source file holds two
+     treaties with their own article numbers (TUE and TFUE), the treaty
+     follows the article number: "art. 5 TUE, par. 3", "art. 288 TFUE";
   2. `text` must appear, word for word, inside THAT comma of THAT article
      of the source file. When an article has no numbered commas (e.g. the
      codice penale), its commas are its paragraphs, counted from 1 after the
@@ -51,14 +53,23 @@ SUFFIX = (r'(?:-(?:bis|ter|quater|quinquies|sexies|septies|octies|novies|decies'
 ARTICLE_RE = re.compile(r'^\s*Art(?:\.|icolo)\s+(\d+' + SUFFIX + r')\.?\s*$')
 # A comma starts at the beginning of a line: "3. ", "2-bis. ", "((2. ", "1.((COMMA..."
 COMMA_RE = re.compile(r'^(?:\(\()?\s*(\d+' + SUFFIX + r')\.(?=\s|\(\(|$)')
-REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
+# Optional treaty after the article number ("art. 5 TUE", "art. 288 TFUE"):
+# see TREATY_RE
+ART = r'(\d+' + SUFFIX + r'(?:\s+(?:TUE|TFUE))?)'
+REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+(?:comma|par\.)\s+(\d+' + SUFFIX + r')'
                     r'(?:,\s+lett\.\s+[a-z]+\))?$')
 # "art. 4, punto 7": a numbered point "7)" of an article made of points
-POINT_REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r'),\s+punto\s+(\d+)$')
+POINT_REF_RE = re.compile(r'^art\.\s+' + ART + r',\s+punto\s+(\d+)$')
 # "art. 16": the whole article (EU articles with a single unnumbered paragraph)
-ARTICLE_REF_RE = re.compile(r'^art\.\s+(\d+' + SUFFIX + r')$')
+ARTICLE_REF_RE = re.compile(r'^art\.\s+' + ART + r'$')
 POINT_RE = re.compile(r'^\s*(\d+)\)\s+\S')
 # The closing formula of the act: nothing after it belongs to the act
+# The heading of a treaty in the consolidated TUE/TFUE file (EUR-Lex): the
+# articles after it are stored as "5 TUE", "288 TFUE", because both treaties
+# number their articles from 1
+TREATY_RE = re.compile(r"^TRATTATO (SULL'UNIONE EUROPEA|SUL FUNZIONAMENTO DELL'UNIONE EUROPEA)"
+                       r" \(VERSIONE CONSOLIDATA\)\s*$")
+TREATIES = {"SULL'UNIONE EUROPEA": 'TUE', "SUL FUNZIONAMENTO DELL'UNIONE EUROPEA": 'TFUE'}
 END_RE = re.compile(r'^\s*(?:Il presente decreto, munito del sigillo dello Stato|Fatto a \S.*, il )')
 
 
@@ -117,6 +128,7 @@ def parse_law(path):
     with open(path, encoding='utf-8') as f:
         lines = f.read().replace('\r\n', '\n').replace('\r', '\n').split('\n')
     law, article, comma, buf, raw = {}, None, None, [], []
+    treaty = None
     points, point, pbuf = {}, None, []
 
     def flush():
@@ -138,12 +150,22 @@ def parse_law(path):
     for line in lines:
         if END_RE.match(line):
             break
+        t = TREATY_RE.match(line)
+        if t:
+            flush()
+            flush_point()
+            end_article()
+            article, comma, buf, raw = None, None, [], []
+            point, pbuf = None, []
+            treaty = TREATIES[t.group(1)]
+            continue
         m = ARTICLE_RE.match(line)
         if m:
             flush()
             flush_point()
             end_article()
-            article, comma, buf, raw = m.group(1), None, [], []
+            key = m.group(1) + (' ' + treaty if treaty else '')
+            article, comma, buf, raw = key, None, [], []
             point, pbuf = None, []
             points.pop(article, None)
             # The same article number seen again (e.g. the single article of an
@@ -246,11 +268,12 @@ def main():
                     continue
                 refs.append(ref.strip())
                 if w:
-                    art = w.group(1)
+                    art = norm(w.group(1))
                     commas = [t for c, t in law.get(art, {}).items() if not c.startswith('punto ')]
                     body = ' '.join(commas) if commas else None
                 else:
                     art, com = m.groups() if m else (p.group(1), 'punto ' + p.group(2))
+                    art = norm(art)
                     body = law.get(art, {}).get(com)
                 if body is None:
                     errors.append('%s evidence %d: %s not found in %s' % (qid, i, ref, os.path.basename(path)))

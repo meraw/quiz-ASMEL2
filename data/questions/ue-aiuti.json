@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ue-aiu-001",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 107, par. 1, TFUE, salvo deroghe contemplate dai trattati, sono incompatibili con il mercato interno:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tutti gli aiuti concessi dagli Stati, a prescindere dai loro effetti",
+        "why_wrong": "L'art. 107, par. 1, TFUE richiede che gli aiuti incidano sugli scambi tra Stati membri e falsino o minaccino di falsare la concorrenza."
+      },
+      {
+        "id": "b",
+        "text": "gli aiuti concessi dagli Stati, ovvero mediante risorse statali, sotto qualsiasi forma che, favorendo talune imprese o talune produzioni, falsino o minaccino di falsare la concorrenza, nella misura in cui incidano sugli scambi tra Stati membri",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo gli aiuti concessi sotto forma di contributi in denaro alle imprese",
+        "why_wrong": "L'art. 107, par. 1, TFUE considera gli aiuti «sotto qualsiasi forma»."
+      },
+      {
+        "id": "d",
+        "text": "solo gli aiuti che non sono stati approvati dal parlamento nazionale",
+        "why_wrong": "L'art. 107, par. 1, TFUE non fa dipendere l'incompatibilità dalla procedura di approvazione interna dell'aiuto."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per l'art. 107, par. 1, TFUE, salvo deroghe previste dai trattati, sono incompatibili con il mercato interno gli aiuti concessi dagli Stati o mediante risorse statali, sotto qualsiasi forma, che favorendo talune imprese o produzioni falsino o minaccino di falsare la concorrenza, nella misura in cui incidano sugli scambi tra Stati membri.",
+    "evidence": [
+      {
+        "ref": "art. 107 TFUE, par. 1",
+        "text": "Salvo deroghe contemplate dai trattati, sono incompatibili con il mercato interno, nella misura in cui incidano sugli scambi tra Stati membri, gli aiuti concessi dagli Stati, ovvero mediante risorse statali, sotto qualsiasi forma che, favorendo talune imprese o talune produzioni, falsino o minaccino di falsare la concorrenza."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 107 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-aiu-002",
+    "subject": "diritto-ue",
+    "question": "Dopo un'alluvione, uno Stato membro concede aiuti alle imprese per ovviare ai danni subiti. Secondo l'art. 107 TFUE, tali aiuti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono compatibili con il mercato interno",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "possono considerarsi compatibili solo se la Commissione li inserisce tra le categorie autorizzate",
+        "why_wrong": "Gli aiuti per calamità naturali rientrano nel par. 2 dell'art. 107 TFUE («sono compatibili»), non nel par. 3, che elenca gli aiuti che «possono considerarsi compatibili»."
+      },
+      {
+        "id": "c",
+        "text": "sono sempre incompatibili, perché favoriscono talune imprese",
+        "why_wrong": "L'incompatibilità del par. 1 opera «salvo deroghe contemplate dai trattati»: il par. 2, lett. b), dichiara compatibili gli aiuti per calamità naturali."
+      },
+      {
+        "id": "d",
+        "text": "sono compatibili solo se concessi ai singoli consumatori senza discriminazioni",
+        "why_wrong": "Questa condizione riguarda gli aiuti a carattere sociale dell'art. 107, par. 2, lett. a), TFUE, non quelli per calamità naturali (lett. b)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "L'art. 107, par. 2, lett. b), TFUE dichiara compatibili con il mercato interno gli aiuti destinati a ovviare ai danni arrecati dalle calamità naturali oppure da altri eventi eccezionali.",
+    "evidence": [
+      {
+        "ref": "art. 107 TFUE, par. 2, lett. b)",
+        "text": "Sono compatibili con il mercato interno: a) gli aiuti a carattere sociale concessi ai singoli consumatori, a condizione che siano accordati senza discriminazioni determinate dall'origine dei prodotti; b) gli aiuti destinati a ovviare ai danni arrecati dalle calamità naturali oppure da altri eventi eccezionali"
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 107 TFUE, par. 2, lett. b)",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-aiu-003",
+    "subject": "diritto-ue",
+    "question": "Gli aiuti destinati a promuovere la cultura e la conservazione del patrimonio, secondo l'art. 107 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono sempre compatibili con il mercato interno",
+        "why_wrong": "Gli aiuti alla cultura sono nel par. 3, lett. d), dell'art. 107 TFUE: «possono considerarsi» compatibili, a una condizione, e non lo sono di diritto come quelli del par. 2."
+      },
+      {
+        "id": "b",
+        "text": "sono sempre incompatibili con il mercato interno",
+        "why_wrong": "L'art. 107, par. 3, lett. d), TFUE ammette che possano considerarsi compatibili."
+      },
+      {
+        "id": "c",
+        "text": "possono considerarsi compatibili, quando non alterino le condizioni degli scambi e della concorrenza nell'Unione in misura contraria all'interesse comune",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "sono compatibili solo se concessi a regioni con tenore di vita anormalmente basso",
+        "why_wrong": "Il requisito del tenore di vita anormalmente basso riguarda gli aiuti regionali dell'art. 107, par. 3, lett. a), TFUE, non gli aiuti alla cultura."
+      }
+    ],
+    "correct": "c",
+    "explanation": "L'art. 107 TFUE distingue gli aiuti che «sono compatibili» (par. 2) da quelli che «possono considerarsi compatibili» (par. 3). Tra questi ultimi, la lett. d) indica gli aiuti destinati a promuovere la cultura e la conservazione del patrimonio, quando non alterino le condizioni degli scambi e della concorrenza nell'Unione in misura contraria all'interesse comune.",
+    "evidence": [
+      {
+        "ref": "art. 107 TFUE, par. 3, lett. d)",
+        "text": "gli aiuti destinati a promuovere la cultura e la conservazione del patrimonio, quando non alterino le condizioni degli scambi e della concorrenza nell'Unione in misura contraria all'interesse comune"
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 107 TFUE, par. 3, lett. d)",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-aiu-004",
+    "subject": "diritto-ue",
+    "question": "Uno Stato membro intende istituire un nuovo regime di aiuti alle imprese. Secondo l'art. 108, par. 3, TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "può attuarlo subito e comunicarlo alla Commissione entro un anno",
+        "why_wrong": "L'art. 108, par. 3, TFUE richiede la comunicazione del progetto in tempo utile, prima dell'attuazione."
+      },
+      {
+        "id": "b",
+        "text": "deve ottenere l'autorizzazione preventiva del Consiglio all'unanimità",
+        "why_wrong": "Il Consiglio all'unanimità interviene solo su richiesta dello Stato e in circostanze eccezionali (art. 108, par. 2, terzo comma, TFUE); il par. 3 prevede la comunicazione alla Commissione."
+      },
+      {
+        "id": "c",
+        "text": "deve comunicarlo al Parlamento europeo, che si pronuncia entro tre mesi",
+        "why_wrong": "L'art. 108, par. 3, TFUE prevede la comunicazione alla Commissione, non al Parlamento europeo."
+      },
+      {
+        "id": "d",
+        "text": "deve comunicare il progetto alla Commissione in tempo utile e, se questa avvia la procedura, non può dargli esecuzione prima della decisione finale",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "I progetti diretti a istituire o modificare aiuti sono comunicati alla Commissione in tempo utile perché presenti le sue osservazioni. Se la Commissione ritiene il progetto incompatibile, avvia senza indugio la procedura del par. 2, e lo Stato non può dare esecuzione alle misure prima che essa abbia condotto a una decisione finale (art. 108, par. 3, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 108 TFUE, par. 3",
+        "text": "Alla Commissione sono comunicati, in tempo utile perché presenti le sue osservazioni, i progetti diretti a istituire o modificare aiuti. Se ritiene che un progetto non sia compatibile con il mercato interno a norma dell'articolo 107, la Commissione inizia senza indugio la procedura prevista dal paragrafo precedente. Lo Stato membro interessato non può dare esecuzione alle misure progettate prima che tale procedura abbia condotto a una decisione finale."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 108 TFUE, par. 3",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-aiu-005",
+    "subject": "diritto-ue",
+    "question": "La Commissione ha deciso che uno Stato membro deve sopprimere un aiuto incompatibile entro un termine, ma lo Stato non si conforma. Secondo l'art. 108, par. 2, TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "la Commissione deve prima emettere un parere motivato, secondo la procedura dell'art. 258 TFUE",
+        "why_wrong": "L'art. 108, par. 2, TFUE consente di adire direttamente la Corte in deroga agli artt. 258 e 259 TFUE."
+      },
+      {
+        "id": "b",
+        "text": "la Commissione o qualsiasi altro Stato interessato può adire direttamente la Corte di giustizia, in deroga agli artt. 258 e 259 TFUE",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "solo il Consiglio può adire la Corte, deliberando all'unanimità",
+        "why_wrong": "L'art. 108, par. 2, TFUE legittima la Commissione e qualsiasi altro Stato interessato, non il Consiglio."
+      },
+      {
+        "id": "d",
+        "text": "la Commissione recupera direttamente l'aiuto presso le imprese beneficiarie",
+        "why_wrong": "L'art. 108, par. 2, TFUE prevede, in caso di mancato adeguamento, il ricorso diretto alla Corte."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Qualora lo Stato non si conformi alla decisione della Commissione di sopprimere o modificare l'aiuto entro il termine stabilito, la Commissione o qualsiasi altro Stato interessato può adire direttamente la Corte di giustizia, in deroga agli artt. 258 e 259 TFUE, senza cioè la fase precontenziosa ordinaria (art. 108, par. 2, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 108 TFUE, par. 2",
+        "text": "Qualora lo Stato in causa non si conformi a tale decisione entro il termine stabilito, la Commissione o qualsiasi altro Stato interessato può adire direttamente la Corte di giustizia dell'Unione europea, in deroga agli articoli 258 e 259."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 108 TFUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]

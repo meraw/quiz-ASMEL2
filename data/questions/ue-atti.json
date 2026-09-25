@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ue-att-001",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 288 TFUE, il regolamento:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vincola lo Stato membro cui è rivolto per quanto riguarda il risultato da raggiungere",
+        "why_wrong": "È la definizione della direttiva (art. 288, terzo comma, TFUE)."
+      },
+      {
+        "id": "b",
+        "text": "ha portata generale, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "è obbligatorio soltanto nei confronti dei destinatari che designa",
+        "why_wrong": "È la disciplina della decisione che designa i destinatari (art. 288, quarto comma, TFUE)."
+      },
+      {
+        "id": "d",
+        "text": "non è vincolante",
+        "why_wrong": "Per l'art. 288, quinto comma, TFUE non sono vincolanti le raccomandazioni e i pareri."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il regolamento ha portata generale, è obbligatorio in tutti i suoi elementi ed è direttamente applicabile in ciascuno degli Stati membri (art. 288, secondo comma, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 288 TFUE",
+        "text": "Il regolamento ha portata generale. Esso è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 288 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-002",
+    "subject": "diritto-ue",
+    "question": "Una direttiva impone agli Stati membri di raggiungere un determinato livello di tutela entro una data. Uno Stato membro vuole decidere autonomamente con quale tipo di atto interno e con quali strumenti conseguire il risultato. In base all'art. 288 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "non può, perché la direttiva è obbligatoria in tutti i suoi elementi",
+        "why_wrong": "L'obbligatorietà in tutti gli elementi è propria del regolamento e della decisione (art. 288, secondo e quarto comma, TFUE), non della direttiva."
+      },
+      {
+        "id": "b",
+        "text": "può, ma solo previa autorizzazione della Commissione",
+        "why_wrong": "L'art. 288, terzo comma, TFUE riserva la competenza su forma e mezzi agli organi nazionali, senza autorizzazioni della Commissione."
+      },
+      {
+        "id": "c",
+        "text": "può, perché la direttiva vincola quanto al risultato, salva la competenza degli organi nazionali in merito alla forma e ai mezzi",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "può, perché la direttiva non è vincolante",
+        "why_wrong": "Non vincolanti sono le raccomandazioni e i pareri (art. 288, quinto comma, TFUE); la direttiva vincola quanto al risultato."
+      }
+    ],
+    "correct": "c",
+    "explanation": "La direttiva vincola lo Stato membro cui è rivolta per quanto riguarda il risultato da raggiungere, ma lascia agli organi nazionali la competenza in merito alla forma e ai mezzi (art. 288, terzo comma, TFUE). Gli Stati adottano le misure di diritto interno necessarie all'attuazione (art. 291, par. 1).",
+    "evidence": [
+      {
+        "ref": "art. 288 TFUE",
+        "text": "La direttiva vincola lo Stato membro cui è rivolta per quanto riguarda il risultato da raggiungere, salva restando la competenza degli organi nazionali in merito alla forma e ai mezzi."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 288 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-003",
+    "subject": "diritto-ue",
+    "question": "Quali atti dell'Unione, secondo l'art. 288 TFUE, non sono vincolanti?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le decisioni che non designano i destinatari",
+        "why_wrong": "Per l'art. 288, quarto comma, TFUE la decisione è sempre obbligatoria in tutti i suoi elementi; se designa i destinatari lo è solo nei loro confronti."
+      },
+      {
+        "id": "b",
+        "text": "Le direttive rivolte a un solo Stato membro",
+        "why_wrong": "La direttiva vincola lo Stato membro cui è rivolta quanto al risultato (art. 288, terzo comma, TFUE)."
+      },
+      {
+        "id": "c",
+        "text": "I regolamenti di esecuzione",
+        "why_wrong": "Il regolamento è obbligatorio in tutti i suoi elementi (art. 288, secondo comma, TFUE)."
+      },
+      {
+        "id": "d",
+        "text": "Le raccomandazioni e i pareri",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "L'art. 288 TFUE elenca gli atti che le istituzioni adottano per esercitare le competenze dell'Unione: regolamenti, direttive, decisioni, raccomandazioni e pareri. Solo le raccomandazioni e i pareri non sono vincolanti (quinto comma).",
+    "evidence": [
+      {
+        "ref": "art. 288 TFUE",
+        "text": "Le raccomandazioni e i pareri non sono vincolanti."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 288 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-004",
+    "subject": "diritto-ue",
+    "question": "Ai sensi dell'art. 289 TFUE, la procedura legislativa ordinaria consiste:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nell'adozione congiunta di un regolamento, di una direttiva o di una decisione da parte del Parlamento europeo e del Consiglio su proposta della Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "nell'adozione di un atto da parte del Consiglio con la sola consultazione del Parlamento europeo",
+        "why_wrong": "L'adozione da parte di una sola istituzione con la partecipazione dell'altra costituisce una procedura legislativa speciale (art. 289, par. 2, TFUE)."
+      },
+      {
+        "id": "c",
+        "text": "nell'adozione di un atto da parte della Commissione su delega del Parlamento europeo e del Consiglio",
+        "why_wrong": "La delega alla Commissione riguarda atti non legislativi (art. 290 TFUE), non la procedura legislativa ordinaria."
+      },
+      {
+        "id": "d",
+        "text": "nell'adozione di un atto da parte del Consiglio europeo all'unanimità",
+        "why_wrong": "Il Consiglio europeo non esercita funzioni legislative (art. 15, par. 1, TUE)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "La procedura legislativa ordinaria consiste nell'adozione congiunta di un regolamento, di una direttiva o di una decisione da parte del Parlamento europeo e del Consiglio su proposta della Commissione ed è definita all'art. 294 (art. 289, par. 1, TFUE). Gli atti adottati mediante procedura legislativa sono atti legislativi (par. 3).",
+    "evidence": [
+      {
+        "ref": "art. 289 TFUE, par. 1",
+        "text": "La procedura legislativa ordinaria consiste nell'adozione congiunta di un regolamento, di una direttiva o di una decisione da parte del Parlamento europeo e del Consiglio su proposta della Commissione."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 289 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-005",
+    "subject": "diritto-ue",
+    "question": "Un regolamento adottato con procedura legislativa ordinaria delega alla Commissione il potere di adottare atti. Secondo l'art. 290 TFUE, con tali atti delegati la Commissione può:",
+    "options": [
+      {
+        "id": "a",
+        "text": "disciplinare anche gli elementi essenziali del settore, se l'atto legislativo lo consente",
+        "why_wrong": "Per l'art. 290, par. 1, TFUE gli elementi essenziali di un settore sono riservati all'atto legislativo e non possono essere oggetto di delega."
+      },
+      {
+        "id": "b",
+        "text": "integrare o modificare determinati elementi non essenziali dell'atto legislativo",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "adottare atti legislativi al posto del Parlamento europeo e del Consiglio",
+        "why_wrong": "L'art. 290, par. 1, TFUE consente di delegare solo il potere di adottare atti non legislativi di portata generale."
+      },
+      {
+        "id": "d",
+        "text": "fissare condizioni uniformi di esecuzione rivolte a un singolo Stato membro",
+        "why_wrong": "Le condizioni uniformi di esecuzione riguardano gli atti di esecuzione (art. 291, par. 2, TFUE), non gli atti delegati."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Un atto legislativo può delegare alla Commissione il potere di adottare atti non legislativi di portata generale che integrano o modificano determinati elementi non essenziali dell'atto legislativo; gli elementi essenziali di un settore sono riservati all'atto legislativo (art. 290, par. 1, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 290 TFUE, par. 1",
+        "text": "Un atto legislativo può delegare alla Commissione il potere di adottare atti non legislativi di portata generale che integrano o modificano determinati elementi non essenziali dell'atto legislativo."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 290 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-006",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 291 TFUE, quando sono necessarie condizioni uniformi di esecuzione degli atti giuridicamente vincolanti dell'Unione, questi conferiscono competenze di esecuzione, di regola:",
+    "options": [
+      {
+        "id": "a",
+        "text": "agli Stati membri, che le esercitano con atti di diritto interno",
+        "why_wrong": "Agli Stati membri spetta l'attuazione ordinaria (art. 291, par. 1, TFUE); le competenze per condizioni uniformi di esecuzione sono conferite alla Commissione."
+      },
+      {
+        "id": "b",
+        "text": "al Parlamento europeo",
+        "why_wrong": "L'art. 291, par. 2, TFUE non indica il Parlamento europeo tra i titolari delle competenze di esecuzione."
+      },
+      {
+        "id": "c",
+        "text": "alla Commissione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "alla Corte di giustizia dell'Unione europea",
+        "why_wrong": "L'art. 291, par. 2, TFUE non attribuisce competenze di esecuzione alla Corte."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Gli Stati membri adottano le misure di diritto interno necessarie per l'attuazione degli atti vincolanti (art. 291, par. 1, TFUE). Quando servono condizioni uniformi di esecuzione, gli atti conferiscono competenze di esecuzione alla Commissione o, in casi specifici debitamente motivati e nelle circostanze previste dagli artt. 24 e 26 TUE, al Consiglio (par. 2).",
+    "evidence": [
+      {
+        "ref": "art. 291 TFUE, par. 2",
+        "text": "Allorché sono necessarie condizioni uniformi di esecuzione degli atti giuridicamente vincolanti dell'Unione, questi conferiscono competenze di esecuzione alla Commissione o, in casi specifici debitamente motivati e nelle circostanze previste agli articoli 24 e 26 del trattato sull'Unione europea, al Consiglio."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 291 TFUE, par. 2",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-007",
+    "subject": "diritto-ue",
+    "question": "Nella procedura legislativa ordinaria il Consiglio ha adottato la sua posizione in prima lettura e l'ha comunicata al Parlamento europeo. Trascorrono tre mesi senza che il Parlamento si pronunci. Secondo l'art. 294 TFUE:",
+    "options": [
+      {
+        "id": "a",
+        "text": "l'atto si considera non adottato",
+        "why_wrong": "L'atto si considera non adottato se il Parlamento respinge la posizione del Consiglio a maggioranza dei membri (art. 294, par. 7, lett. b), TFUE), non in caso di silenzio."
+      },
+      {
+        "id": "b",
+        "text": "viene convocato il comitato di conciliazione",
+        "why_wrong": "Il comitato di conciliazione è convocato quando il Consiglio non approva tutti gli emendamenti del Parlamento in seconda lettura (art. 294, par. 8, lett. b), TFUE)."
+      },
+      {
+        "id": "c",
+        "text": "la Commissione deve ritirare la proposta",
+        "why_wrong": "L'art. 294, par. 7, TFUE non prevede il ritiro della proposta in caso di silenzio del Parlamento."
+      },
+      {
+        "id": "d",
+        "text": "l'atto si considera adottato nella formulazione che corrisponde alla posizione del Consiglio",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Se, entro tre mesi dalla comunicazione, il Parlamento europeo approva la posizione del Consiglio in prima lettura o non si è pronunciato, l'atto si considera adottato nella formulazione che corrisponde alla posizione del Consiglio (art. 294, par. 7, lett. a), TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 294 TFUE, par. 7, lett. a)",
+        "text": "approva la posizione del Consiglio in prima lettura o non si è pronunciato, l'atto in questione si considera adottato nella formulazione che corrisponde alla posizione del Consiglio"
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 294 TFUE, par. 7, lett. a)",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-008",
+    "subject": "diritto-ue",
+    "question": "Nella procedura legislativa ordinaria, il comitato di conciliazione non approva un progetto comune entro sei settimane dalla convocazione. Quale conseguenza prevede l'art. 294 TFUE?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'atto in questione si considera non adottato",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Decide il Consiglio, deliberando all'unanimità",
+        "why_wrong": "L'art. 294, par. 12, TFUE non rimette la decisione al Consiglio: l'atto si considera non adottato."
+      },
+      {
+        "id": "c",
+        "text": "L'atto si considera adottato nella formulazione della posizione del Parlamento europeo in seconda lettura",
+        "why_wrong": "L'art. 294, par. 12, TFUE non prevede l'adozione dell'atto, ma la sua mancata adozione."
+      },
+      {
+        "id": "d",
+        "text": "Il termine è automaticamente prorogato di sei mesi",
+        "why_wrong": "L'art. 294, par. 14, TFUE consente di prorogare i termini di sei settimane al massimo di due settimane, su iniziativa del Parlamento o del Consiglio, non di sei mesi."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Se, entro sei settimane dalla convocazione, il comitato di conciliazione non approva un progetto comune, l'atto si considera non adottato (art. 294, par. 12, TFUE). Il termine può essere prorogato al massimo di due settimane su iniziativa del Parlamento europeo o del Consiglio (par. 14).",
+    "evidence": [
+      {
+        "ref": "art. 294 TFUE, par. 12",
+        "text": "Se, entro un termine di sei settimane dalla convocazione, il comitato di conciliazione non approva un progetto comune, l'atto in questione si considera non adottato."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 294 TFUE, par. 12",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-009",
+    "subject": "diritto-ue",
+    "question": "Un regolamento adottato con procedura legislativa ordinaria è pubblicato nella Gazzetta ufficiale dell'Unione europea e non indica la data della sua entrata in vigore. Secondo l'art. 297 TFUE, esso entra in vigore:",
+    "options": [
+      {
+        "id": "a",
+        "text": "il giorno stesso della pubblicazione",
+        "why_wrong": "L'art. 297, par. 1, TFUE fissa, in mancanza di data, il ventesimo giorno successivo alla pubblicazione."
+      },
+      {
+        "id": "b",
+        "text": "il quindicesimo giorno successivo alla pubblicazione",
+        "why_wrong": "L'art. 297, par. 1, TFUE indica il ventesimo giorno, non il quindicesimo."
+      },
+      {
+        "id": "c",
+        "text": "il ventesimo giorno successivo alla pubblicazione",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "alla data della notificazione agli Stati membri",
+        "why_wrong": "La notificazione riguarda le direttive non rivolte a tutti gli Stati membri e le decisioni che designano i destinatari (art. 297, par. 2, TFUE); gli atti legislativi sono pubblicati."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Gli atti legislativi sono pubblicati nella Gazzetta ufficiale dell'Unione europea ed entrano in vigore alla data da essi stabilita oppure, in mancanza di data, il ventesimo giorno successivo alla pubblicazione (art. 297, par. 1, TFUE).",
+    "evidence": [
+      {
+        "ref": "art. 297 TFUE, par. 1",
+        "text": "Gli atti legislativi sono pubblicati nella Gazzetta ufficiale dell'Unione europea. Essi entrano in vigore alla data da essi stabilita oppure, in mancanza di data, il ventesimo giorno successivo alla pubblicazione."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 297 TFUE, par. 1",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "ue-att-010",
+    "subject": "diritto-ue",
+    "question": "Secondo l'art. 296 TFUE, gli atti giuridici dell'Unione:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sono motivati soltanto se si tratta di atti legislativi",
+        "why_wrong": "L'art. 296, secondo comma, TFUE riferisce l'obbligo di motivazione a tutti gli atti giuridici, non solo a quelli legislativi."
+      },
+      {
+        "id": "b",
+        "text": "sono motivati e fanno riferimento alle proposte, iniziative, raccomandazioni, richieste o pareri previsti dai trattati",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "non richiedono motivazione, se adottati all'unanimità",
+        "why_wrong": "L'art. 296, secondo comma, TFUE non collega l'obbligo di motivazione alla maggioranza con cui l'atto è adottato."
+      },
+      {
+        "id": "d",
+        "text": "sono motivati soltanto se ne fa richiesta uno Stato membro",
+        "why_wrong": "L'obbligo di motivazione dell'art. 296, secondo comma, TFUE non dipende da una richiesta."
+      }
+    ],
+    "correct": "b",
+    "explanation": "L'art. 296, secondo comma, TFUE impone che gli atti giuridici siano motivati e facciano riferimento alle proposte, iniziative, raccomandazioni, richieste o pareri previsti dai trattati. Se i trattati non prevedono il tipo di atto, le istituzioni lo scelgono nel rispetto delle procedure e del principio di proporzionalità (primo comma).",
+    "evidence": [
+      {
+        "ref": "art. 296 TFUE",
+        "text": "Gli atti giuridici sono motivati e fanno riferimento alle proposte, iniziative, raccomandazioni, richieste o pareri previsti dai trattati."
+      }
+    ],
+    "source": {
+      "act": "TFUE",
+      "article": "art. 296 TFUE",
+      "file": "sources/TRATTATO SULL'UNIONE EUROPEA E DEL TRATTATO SUL FUNZIONAMENTO DELL'UNIONE EUROPEA.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
