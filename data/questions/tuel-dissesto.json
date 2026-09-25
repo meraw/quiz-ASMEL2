@@ -1,0 +1,462 @@
+[
+  {
+    "id": "tuel-dis-001",
+    "subject": "contabilita-pubblica",
+    "question": "Quando un ente locale è da considerarsi in condizioni strutturalmente deficitarie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quando non può garantire l'assolvimento delle funzioni e dei servizi indispensabili",
+        "why_wrong": "Questa è una delle ipotesi di dissesto finanziario (art. 244, comma 1), non la definizione di deficitarietà strutturale."
+      },
+      {
+        "id": "b",
+        "text": "Quando presenta gravi ed incontrovertibili condizioni di squilibrio, rilevabili da un'apposita tabella allegata al rendiconto, contenente parametri obiettivi dei quali almeno la metà presentino valori deficitari",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Quando il consiglio ha deliberato il ricorso alla procedura di riequilibrio finanziario pluriennale",
+        "why_wrong": "Il riequilibrio pluriennale è una procedura a cui l'ente può ricorrere in presenza di squilibri strutturali (art. 243-bis, comma 1), non il criterio che definisce l'ente strutturalmente deficitario (art. 242, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Quando tutti i parametri obiettivi della tabella presentano valori deficitari",
+        "why_wrong": "È sufficiente che presentino valori deficitari almeno la metà dei parametri (art. 242, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Sono in condizioni strutturalmente deficitarie gli enti che presentano gravi ed incontrovertibili condizioni di squilibrio, rilevabili da un'apposita tabella da allegare al rendiconto, contenente parametri obiettivi dei quali almeno la metà presentino valori deficitari. Il rendiconto di riferimento è quello del penultimo esercizio precedente.",
+    "evidence": [
+      {
+        "ref": "art. 242, comma 1",
+        "text": "Sono da considerarsi in condizioni strutturalmente deficitarie gli enti locali che presentano gravi ed incontrovertibili condizioni di squilibrio, rilevabili da un apposita tabella, da allegare al rendiconto della gestione, contenente parametri obiettivi dei quali almeno la metà presentino valori deficitari."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 242, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-002",
+    "subject": "contabilita-pubblica",
+    "question": "Secondo l'art. 244 del TUEL, quando si ha stato di dissesto finanziario?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quando l'ente presenta un disavanzo di amministrazione nell'ultimo rendiconto",
+        "why_wrong": "Il disavanzo può essere applicato al bilancio o ripianato con un piano di rientro (art. 188, comma 1); il dissesto ricorre nelle ipotesi dell'art. 244, comma 1."
+      },
+      {
+        "id": "b",
+        "text": "Quando l'ente non approva il rendiconto entro il 30 aprile",
+        "why_wrong": "La mancata approvazione del rendiconto comporta la procedura dell'art. 141, comma 2 (art. 227, comma 2-bis), non il dissesto."
+      },
+      {
+        "id": "c",
+        "text": "Quando l'ente non può garantire l'assolvimento delle funzioni e dei servizi indispensabili ovvero esistono crediti liquidi ed esigibili di terzi cui non si possa fare validamente fronte con le modalità degli articoli 193 e 194",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Quando almeno la metà dei parametri obiettivi presenta valori deficitari",
+        "why_wrong": "Questo è il criterio della deficitarietà strutturale (art. 242, comma 1), non del dissesto."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Si ha stato di dissesto finanziario se l'ente non può garantire l'assolvimento delle funzioni e dei servizi indispensabili, ovvero se esistono nei confronti dell'ente crediti liquidi ed esigibili di terzi cui non si possa fare validamente fronte con le misure di riequilibrio (art. 193) e di riconoscimento dei debiti fuori bilancio (art. 194).",
+    "evidence": [
+      {
+        "ref": "art. 244, comma 1",
+        "text": "Si ha stato di dissesto finanziario se l'ente non può garantire l'assolvimento delle funzioni e dei servizi indispensabili ovvero esistono nei confronti dell'ente locale crediti liquidi ed esigibili di terzi cui non si possa fare validamente fronte con le modalità di cui all'articolo 193, nonché con le modalità di cui all'articolo 194 per le fattispecie ivi previste."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 244, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-003",
+    "subject": "contabilita-pubblica",
+    "question": "Quale delle seguenti affermazioni sulla deliberazione dello stato di dissesto è corretta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "È adottata dalla Giunta e può essere revocata se la situazione finanziaria migliora",
+        "why_wrong": "La deliberazione è adottata dal consiglio e non è revocabile (art. 246, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "È adottata dal consiglio, non è revocabile e ad essa è allegata una dettagliata relazione dell'organo di revisione sulle cause del dissesto",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "È adottata dal Ministro dell'interno su proposta del prefetto",
+        "why_wrong": "La dichiarazione di dissesto è deliberata dal consiglio dell'ente; il Ministero dell'interno ne riceve la trasmissione (art. 246, commi 1 e 2)."
+      },
+      {
+        "id": "d",
+        "text": "È adottata dal consiglio e produce effetti solo dopo l'approvazione della Corte dei conti",
+        "why_wrong": "La norma prevede la trasmissione alla Procura regionale della Corte dei conti entro 5 giorni dall'esecutività, non un'approvazione (art. 246, comma 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "La deliberazione recante la formale ed esplicita dichiarazione di dissesto è adottata dal consiglio, valuta le cause del dissesto e non è revocabile; vi è allegata una dettagliata relazione dell'organo di revisione. È trasmessa entro 5 giorni al Ministero dell'interno e alla Procura regionale della Corte dei conti.",
+    "evidence": [
+      {
+        "ref": "art. 246, comma 1",
+        "text": "La deliberazione recante la formale ed esplicita dichiarazione di dissesto finanziario è adottata dal consiglio dell'ente locale nelle ipotesi di cui all'articolo 244 e valuta le cause che hanno determinato il dissesto. La deliberazione dello stato di dissesto non è revocabile. Alla stessa è allegata una dettagliata relazione dell'organo di revisione economico finanziaria che analizza le cause che hanno provocato il dissesto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 246, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-004",
+    "subject": "contabilita-pubblica",
+    "question": "L'organo regionale di controllo, ritenendo sussistente l'ipotesi di dissesto di un Comune, assegna al consiglio con lettera notificata ai singoli consiglieri un termine per deliberarlo. Il termine scade senza che il consiglio abbia deliberato. Che cosa accade?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'organo regionale di controllo nomina un commissario ad acta per la deliberazione dello stato di dissesto",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Il dissesto si intende dichiarato per silenzio-assenso",
+        "why_wrong": "La norma non prevede una dichiarazione tacita, ma la nomina di un commissario ad acta (art. 247, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "L'organo regionale di controllo assegna un nuovo termine di trenta giorni",
+        "why_wrong": "Trenta giorni è il termine non prorogabile per chiarimenti e relazione dell'organo di revisione, nella fase precedente (art. 247, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Il Ministro dell'interno nomina direttamente l'organo straordinario di liquidazione",
+        "why_wrong": "L'organo straordinario di liquidazione è nominato dopo la dichiarazione di dissesto (art. 252, comma 2); in caso di inerzia del consiglio è nominato un commissario ad acta (art. 247, comma 3)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Se ritiene sussistente l'ipotesi di dissesto, l'organo regionale di controllo assegna al consiglio un termine non superiore a venti giorni per deliberarlo. Decorso infruttuosamente il termine, nomina un commissario ad acta per la deliberazione dello stato di dissesto; del provvedimento sostitutivo è data comunicazione al prefetto, che inizia la procedura di scioglimento del consiglio.",
+    "evidence": [
+      {
+        "ref": "art. 247, comma 2",
+        "text": "Ove sia ritenuta sussistente l'ipotesi di dissesto l'organo regionale di controllo assegna al consiglio, con lettera notificata ai singoli consiglieri, un termine, non superiore a venti giorni, per la deliberazione del dissesto."
+      },
+      {
+        "ref": "art. 247, comma 3",
+        "text": "Decorso infruttuosamente tale termine l'organo regionale di controllo nomina un commissario ad acta per la deliberazione dello stato di dissesto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 247, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-005",
+    "subject": "contabilita-pubblica",
+    "question": "Un'impresa vanta nei confronti di un Comune un credito rientrante nella competenza dell'organo straordinario di liquidazione; il Comune ha appena deliberato il dissesto. Quale effetto produce la dichiarazione di dissesto su tale credito?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'impresa può comunque avviare un'azione esecutiva, ma solo presso il tesoriere",
+        "why_wrong": "Dalla dichiarazione di dissesto e sino all'approvazione del rendiconto della liquidazione non possono essere intraprese o proseguite azioni esecutive per questi debiti (art. 248, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Il credito continua a produrre interessi al tasso contrattuale",
+        "why_wrong": "Dalla deliberazione di dissesto i debiti insoluti non producono più interessi né sono soggetti a rivalutazione monetaria (art. 248, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "Il credito si estingue automaticamente",
+        "why_wrong": "Il credito non si estingue: rientra nella massa passiva gestita dall'organo straordinario di liquidazione (art. 252, comma 4)."
+      },
+      {
+        "id": "d",
+        "text": "Non possono essere intraprese o proseguite azioni esecutive nei confronti dell'ente per quel debito e il debito non produce più interessi né è soggetto a rivalutazione monetaria",
+        "why_wrong": null
+      }
+    ],
+    "correct": "d",
+    "explanation": "Dalla dichiarazione di dissesto e sino all'approvazione del rendiconto della liquidazione, non possono essere intraprese o proseguite azioni esecutive per i debiti di competenza dell'organo straordinario di liquidazione; tali debiti non producono più interessi né sono soggetti a rivalutazione monetaria.",
+    "evidence": [
+      {
+        "ref": "art. 248, comma 2",
+        "text": "Dalla data della dichiarazione di dissesto e sino all'approvazione del rendiconto di cui all'articolo 256 non possono essere intraprese o proseguite azioni esecutive nei confronti dell'ente per i debiti che rientrano nella competenza dell'organo straordinario di liquidazione."
+      },
+      {
+        "ref": "art. 248, comma 4",
+        "text": "Dalla data della deliberazione di dissesto e sino all'approvazione del rendiconto di cui all'articolo 256 i debiti insoluti a tale data e le somme dovute per anticipazioni di cassa già erogate non producono più interessi né sono soggetti a rivalutazione monetaria."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 248, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-006",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune di 8.000 abitanti ha deliberato il dissesto. Come è composto l'organo straordinario di liquidazione e chi lo nomina?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un singolo commissario, nominato dal prefetto",
+        "why_wrong": "Il singolo commissario è previsto per i comuni sino a 5.000 abitanti e la nomina avviene con decreto del Presidente della Repubblica (art. 252, commi 1 e 2)."
+      },
+      {
+        "id": "b",
+        "text": "Una commissione di tre membri, nominata con decreto del Presidente della Repubblica su proposta del Ministro dell'interno",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Una commissione di tre membri, eletta dal consiglio comunale",
+        "why_wrong": "La commissione non è eletta dal consiglio, ma nominata con decreto del Presidente della Repubblica su proposta del Ministro dell'interno (art. 252, comma 2)."
+      },
+      {
+        "id": "d",
+        "text": "Un singolo commissario, nominato con decreto del Presidente della Repubblica",
+        "why_wrong": "Per i comuni con popolazione superiore a 5.000 abitanti l'organo è una commissione di tre membri (art. 252, comma 1)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Per i comuni sino a 5.000 abitanti l'organo straordinario di liquidazione è composto da un singolo commissario; per i comuni sopra i 5.000 abitanti e per le province da una commissione di tre membri. La nomina è disposta con decreto del Presidente della Repubblica su proposta del Ministro dell'interno.",
+    "evidence": [
+      {
+        "ref": "art. 252, comma 1",
+        "text": "per i comuni con popolazione superiore ai 5.000 abitanti e per le province l'organo straordinario di liquidazione è composto da una commissione di tre membri."
+      },
+      {
+        "ref": "art. 252, comma 2",
+        "text": "La nomina dell'organo straordinario di liquidazione è disposta con decreto del Presidente della Repubblica su proposta del Ministro dell'interno."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 252, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-007",
+    "subject": "contabilita-pubblica",
+    "question": "Nella procedura di risanamento dell'ente dissestato, quale compito spetta agli organi istituzionali dell'ente, a differenza dell'organo straordinario di liquidazione?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Provvedere al ripiano dell'indebitamento pregresso",
+        "why_wrong": "Il ripiano dell'indebitamento pregresso spetta all'organo straordinario di liquidazione (art. 245, comma 2)."
+      },
+      {
+        "id": "b",
+        "text": "Rilevare la massa passiva e liquidarla",
+        "why_wrong": "La rilevazione, liquidazione e pagamento della massa passiva spettano all'organo straordinario di liquidazione (art. 252, comma 4)."
+      },
+      {
+        "id": "c",
+        "text": "Assicurare condizioni stabili di equilibrio della gestione finanziaria, rimuovendo le cause strutturali che hanno determinato il dissesto",
+        "why_wrong": null
+      },
+      {
+        "id": "d",
+        "text": "Approvare il piano di estinzione delle passività",
+        "why_wrong": "Il piano di estinzione è predisposto dall'organo straordinario di liquidazione e approvato dal Ministro dell'interno (art. 256, commi 6 e 7)."
+      }
+    ],
+    "correct": "c",
+    "explanation": "Soggetti della procedura di risanamento sono l'organo straordinario di liquidazione, che provvede al ripiano dell'indebitamento pregresso, e gli organi istituzionali dell'ente, che assicurano condizioni stabili di equilibrio della gestione finanziaria rimuovendo le cause strutturali del dissesto.",
+    "evidence": [
+      {
+        "ref": "art. 245, comma 2",
+        "text": "L'organo straordinario di liquidazione provvede al ripiano dell'indebitamento pregresso con i mezzi consentiti dalla legge."
+      },
+      {
+        "ref": "art. 245, comma 3",
+        "text": "Gli organi istituzionali dell'ente assicurano condizioni stabili di equilibrio della gestione finanziaria rimuovendo le cause strutturali che hanno determinato il dissesto."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 245, comma 2",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-008",
+    "subject": "contabilita-pubblica",
+    "question": "L'organo straordinario di liquidazione di un Comune, con l'adesione dell'ente, adotta la modalità semplificata di liquidazione e propone ai creditori una transazione. Quale regola si applica?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Può offrire il pagamento di una somma variabile tra il 40 e il 60 per cento del debito, in relazione alla sua anzianità; i debiti per retribuzioni di lavoro subordinato sono liquidati per intero",
+        "why_wrong": null
+      },
+      {
+        "id": "b",
+        "text": "Può offrire il pagamento di una somma variabile tra il 40 e il 60 per cento di tutti i debiti, comprese le retribuzioni del personale",
+        "why_wrong": "I debiti relativi alle retribuzioni per prestazioni di lavoro subordinato sono esclusi dalla transazione e liquidati per intero (art. 258, comma 3)."
+      },
+      {
+        "id": "c",
+        "text": "Deve offrire il pagamento integrale di tutti i debiti, con rinuncia agli interessi",
+        "why_wrong": "La transazione prevede una somma variabile tra il 40 e il 60 per cento del debito (art. 258, comma 3)."
+      },
+      {
+        "id": "d",
+        "text": "Può offrire il 50 per cento dei debiti, accantonando il 100 per cento per quelli non transatti",
+        "why_wrong": "Il 50 per cento è la misura dell'accantonamento per i debiti non transatti, elevata al 100 per cento solo per quelli privilegiati (art. 258, comma 4)."
+      }
+    ],
+    "correct": "a",
+    "explanation": "Nella procedura semplificata l'organo straordinario di liquidazione può definire transattivamente le pretese dei creditori offrendo una somma tra il 40 e il 60 per cento del debito, in relazione alla sua anzianità, con rinuncia a ogni altra pretesa; fanno eccezione i debiti per retribuzioni di lavoro subordinato, liquidati per intero. Per i debiti non transatti accantona il 50 per cento (100 per cento se privilegiati).",
+    "evidence": [
+      {
+        "ref": "art. 258, comma 3",
+        "text": "L'organo straordinario di liquidazione, effettuata una sommaria delibazione sulla fondatezza del credito vantato, può definire transattivamente le pretese dei relativi creditori, ((ivi compreso l'erario,)) anche periodicamente, offrendo il pagamento di una somma variabile tra il 40 ed il 60 per cento del debito, in relazione all'anzianità dello stesso"
+      },
+      {
+        "ref": "art. 258, comma 3",
+        "text": "fatta eccezione per i debiti relativi alle retribuzioni per prestazioni di lavoro subordinato che sono liquidate per intero"
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 258, comma 3",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-009",
+    "subject": "contabilita-pubblica",
+    "question": "Dopo la dichiarazione di dissesto, entro quale termine il consiglio presenta al Ministro dell'interno l'ipotesi di bilancio di previsione stabilmente riequilibrato?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro trenta giorni dalla deliberazione di dissesto",
+        "why_wrong": "Trenta giorni è il termine per deliberare le aliquote e tariffe nella misura massima (art. 251, comma 1)."
+      },
+      {
+        "id": "b",
+        "text": "Entro tre mesi dalla data di emanazione del decreto di nomina dell'organo straordinario di liquidazione",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Entro 180 giorni dall'insediamento dell'organo straordinario di liquidazione",
+        "why_wrong": "Centottanta giorni è il termine per il piano di rilevazione della massa passiva (art. 254, comma 1)."
+      },
+      {
+        "id": "d",
+        "text": "Entro 24 mesi dall'insediamento dell'organo straordinario di liquidazione",
+        "why_wrong": "Ventiquattro mesi è il termine per il piano di estinzione delle passività (art. 256, comma 6)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il consiglio presenta al Ministro dell'interno l'ipotesi di bilancio stabilmente riequilibrato entro tre mesi dalla data di emanazione del decreto di nomina dell'organo straordinario di liquidazione. In mancanza, il prefetto assegna un termine perentorio non superiore a quarantacinque giorni, trascorso il quale inizia la procedura di scioglimento del consiglio.",
+    "evidence": [
+      {
+        "ref": "art. 259, comma 1",
+        "text": "((Il consiglio dell'ente locale presenta al Ministro dell'interno, entro tre mesi dalla data di emanazione del decreto di cui all'articolo 252, comma 2, un'ipotesi di bilancio di previsione stabilmente riequilibrato."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 259, comma 1",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  },
+  {
+    "id": "tuel-dis-010",
+    "subject": "contabilita-pubblica",
+    "question": "Un Comune con squilibri strutturali in grado di provocare il dissesto, non superabili con le misure degli articoli 193 e 194, delibera il ricorso alla procedura di riequilibrio finanziario pluriennale. Entro quale termine il consiglio deve deliberare il piano di riequilibrio e quale durata può avere il piano?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entro trenta giorni; durata massima di cinque anni",
+        "why_wrong": "Il termine è di novanta giorni e la durata del piano è compresa tra quattro e venti anni (art. 243-bis, comma 5)."
+      },
+      {
+        "id": "b",
+        "text": "Entro il termine perentorio di novanta giorni dall'esecutività della delibera di ricorso; durata compresa tra quattro e venti anni, compreso quello in corso",
+        "why_wrong": null
+      },
+      {
+        "id": "c",
+        "text": "Entro tre mesi dalla nomina dell'organo straordinario di liquidazione; durata di cinque anni",
+        "why_wrong": "Questo termine riguarda l'ipotesi di bilancio stabilmente riequilibrato dell'ente dissestato (art. 259, comma 1), non il piano di riequilibrio pluriennale (art. 243-bis, comma 5)."
+      },
+      {
+        "id": "d",
+        "text": "Entro 5 giorni dall'esecutività della delibera di ricorso; durata di dieci anni",
+        "why_wrong": "Cinque giorni è il termine per trasmettere la delibera di ricorso alla Corte dei conti e al Ministero dell'interno (art. 243-bis, comma 2)."
+      }
+    ],
+    "correct": "b",
+    "explanation": "Il consiglio, entro il termine perentorio di novanta giorni dall'esecutività della delibera di ricorso alla procedura, delibera un piano di riequilibrio finanziario pluriennale di durata compresa tra quattro e venti anni, compreso quello in corso, corredato del parere dell'organo di revisione.",
+    "evidence": [
+      {
+        "ref": "art. 243-bis, comma 5",
+        "text": "Il consiglio dell'ente locale, entro il termine perentorio di novanta giorni dalla data di esecutività della delibera di cui al comma 1, delibera un piano di riequilibrio finanziario pluriennale di durata compresa tra quattro e venti anni, compreso quello in corso, corredato del parere dell'organo di revisione economico-finanziario."
+      }
+    ],
+    "source": {
+      "act": "D.Lgs. 267/2000 (TUEL)",
+      "article": "art. 243-bis, comma 5",
+      "file": "sources/TUEL.txt",
+      "url": null
+    },
+    "source_date": "2026-09-25",
+    "status": "da_verificare",
+    "no_shuffle": false
+  }
+]
