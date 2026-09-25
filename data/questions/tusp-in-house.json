@@ -40,7 +40,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -84,7 +84,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -128,7 +128,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -172,7 +172,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -216,7 +216,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta (a) afferma che la società sana l'irregolarità se «rinuncia a una parte dei rapporti con soggetti terzi o agli affidamenti diretti degli enti soci», ma l'evidence si interrompe a «entro tre mesi dalla data in cui la stessa si è manifestata,» e non contiene questa parte. Il file prosegue: «rinunci a una parte dei rapporti ((...)) con soggetti terzi, sciogliendo i relativi rapporti contrattuali, ovvero rinunci agli affidamenti diretti da parte dell'ente o degli enti pubblici soci, sciogliendo i relativi rapporti.» (art. 16, comma 5). Correzione suggerita: aggiungere un secondo elemento di evidence con ref «art. 16, comma 5» e testo «con soggetti terzi, sciogliendo i relativi rapporti contrattuali, ovvero rinunci agli affidamenti diretti da parte dell'ente o degli enti pubblici soci, sciogliendo i relativi rapporti.»",
     "no_shuffle": false
   },
   {
@@ -260,7 +261,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -304,7 +305,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

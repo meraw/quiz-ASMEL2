@@ -44,7 +44,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'evidence non riporta la soglia dimensionale su cui si fonda la risposta: il secondo elemento inizia con «cinquanta dipendenti, entro il 31 gennaio...» e omette le parole decisive «con più di». Il file recita: «di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, con più di cinquanta dipendenti, entro il 31 gennaio di ogni anno adottano il Piano integrato di attività e organizzazione» (art. 6, comma 1). Senza «con più di» l'evidence non dimostra che un'amministrazione con 120 dipendenti sia obbligata. Correzione suggerita: far iniziare il secondo elemento di evidence da «con più di cinquanta dipendenti, entro il 31 gennaio di ogni anno adottano il Piano integrato di attività e organizzazione».",
     "no_shuffle": false
   },
   {
@@ -92,7 +93,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -136,7 +137,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -184,7 +185,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 2 non superato. L'opzione corretta (c) indica i decreti del Presidente della Repubblica «previa intesa in sede di Conferenza unificata», ma l'evidence non contiene questa parte: il primo elemento si ferma a «della legge 23 agosto 1988, n. 400» e il secondo riprende da «sono individuati e abrogati». Il file, tra i due frammenti, recita: «previa intesa in sede di Conferenza unificata, ai sensi dell'articolo 9, comma 2, del decreto legislativo 28 agosto 1997, n. 281» (art. 6, comma 5). Correzione suggerita: aggiungere un elemento di evidence con ref «art. 6, comma 5» e testo «previa intesa in sede di Conferenza unificata».",
     "no_shuffle": false
   },
   {
@@ -228,7 +230,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -272,7 +274,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

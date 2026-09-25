@@ -44,7 +44,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -92,7 +92,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -136,7 +136,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -184,7 +184,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -228,7 +228,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 7 non superato. La spiegazione afferma che «È «sistemica» l'irregolarità di natura ricorrente che deriva da una carenza grave (punto 33)», ma il file definisce l'irregolarità sistemica come «qualsiasi irregolarità che possa essere di natura ricorrente, con un’elevata probabilità di verificarsi in tipi simili di operazioni, che deriva da una carenza grave» (art. 2, punto 33): la ricorrenza è potenziale, non necessariamente attuale. Correzione suggerita: riformulare come «l'irregolarità che possa essere di natura ricorrente, con un'elevata probabilità di verificarsi in tipi simili di operazioni, e che deriva da una carenza grave», oppure eliminare la frase.",
     "no_shuffle": false
   },
   {
@@ -272,7 +273,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -316,7 +317,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -360,7 +361,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]

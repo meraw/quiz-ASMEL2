@@ -44,7 +44,8 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "da_rivedere",
+    "review_note": "Controllo 3 non superato. L'opzione b afferma in modo assoluto che un consiglio di sette membri «Non è possibile», ma l'art. 11, comma 3, prevede, in alternativa al consiglio di tre o cinque membri, che «sia adottato uno dei sistemi alternativi di amministrazione e controllo previsti dai paragrafi 5 e 6 della sezione VI-bis del capo V del titolo V del libro V del codice civile», tra cui il sistema monistico, che ha un consiglio di amministrazione per il quale il file non fissa un numero massimo di membri. L'opzione a («È possibile, con delibera motivata trasmessa alla Corte dei conti») potrebbe quindi essere sostenuta in tale ipotesi, e la risposta b non è univocamente corretta. Correzione suggerita: precisare nella domanda «nel sistema di amministrazione tradizionale» o riformulare b come «Non è possibile un consiglio di amministrazione di sette membri: l'art. 11, comma 3, consente solo tre o cinque membri».",
     "no_shuffle": false
   },
   {
@@ -88,7 +89,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -132,7 +133,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -176,7 +177,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -220,7 +221,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -268,7 +269,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -312,7 +313,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   },
   {
@@ -356,7 +357,7 @@
       "url": null
     },
     "source_date": "2026-09-25",
-    "status": "da_verificare",
+    "status": "rivista",
     "no_shuffle": false
   }
 ]
