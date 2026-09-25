@@ -312,3 +312,99 @@ test('days until the exam', () => {
   assert.equal(S.daysUntil('', NOW), null);
   assert.equal(S.daysUntil(null, NOW), null);
 });
+
+/* ---------- Question revisions ("rev") ---------- */
+
+test('rev: missing or invalid means 1, on questions and on saved progress', () => {
+  assert.equal(S.questionRev({ id: 'q' }), 1);
+  assert.equal(S.questionRev({ id: 'q', rev: 3 }), 3);
+  assert.equal(S.questionRev({ id: 'q', rev: 0 }), 1);
+  assert.equal(S.questionRev({ id: 'q', rev: '2' }), 1);
+  assert.equal(S.progressRev({ attempts: 1 }), 1);
+  assert.equal(S.progressRev({ attempts: 1, rev: 2 }), 2);
+});
+
+test('rev: existing progress (saved before rev existed) survives untouched', () => {
+  const m = S.migrateStore(v1Store(), 'asmel-quiz');
+  const before = JSON.parse(JSON.stringify(m));
+  // Questions without rev, or with rev 1, match the progress saved without rev
+  const qs = Object.keys(m.progress).map((id, i) => (i % 2 ? { id, subject: 'accesso' } : { id, subject: 'accesso', rev: 1 }));
+  assert.deepEqual(S.syncRevisions(m, qs), []);
+  assert.deepEqual(m, before);
+  // Answering stores the rev and keeps the history
+  S.recordAnswer(m, 'l241-002', true, DAY2_EARLY, 1);
+  const p = m.progress['l241-002'];
+  assert.equal(p.rev, 1);
+  assert.equal(p.attempts, before.progress['l241-002'].attempts + 1);
+  assert.deepEqual(p.h.slice(0, -1), before.progress['l241-002'].h);
+});
+
+test('rev: raising it on one question resets only that question', () => {
+  const qs = bank('accesso', 12);
+  const store = S.emptyStore('asmel-quiz');
+  // accesso-0: consolidated after being wrong; accesso-1: in Ripasso errori; the rest answered correctly
+  S.recordAnswer(store, 'accesso-0', false, DAY1_MORNING, 1);
+  S.recordAnswer(store, 'accesso-0', true, DAY1_EVENING, 1);
+  S.recordAnswer(store, 'accesso-0', true, DAY2_EARLY, 1);
+  S.recordAnswer(store, 'accesso-1', false, DAY1_MORNING, 1);
+  S.recordAnswer(store, 'accesso-1', false, DAY2_EARLY, 1);
+  for (let i = 2; i < 12; i++) S.recordAnswer(store, 'accesso-' + i, true, DAY1_MORNING + i, 1);
+  assert.equal(store.progress['accesso-1'].inErrors, true);
+  assert.equal(S.isConsolidated(store.progress['accesso-0']), true);
+  const before = JSON.parse(JSON.stringify(store));
+  const statsBefore = S.subjectProgress(qs, store.progress);
+  assert.equal(statsBefore.seen, 12);
+  assert.equal(statsBefore.answers, 15);
+
+  // accesso-1 is rewritten: rev 2
+  const changed = qs.map((q) => (q.id === 'accesso-1' ? Object.assign({}, q, { rev: 2 }) : q));
+  assert.deepEqual(S.syncRevisions(store, changed), ['accesso-1']);
+
+  // Only accesso-1 changed
+  Object.keys(before.progress).filter((id) => id !== 'accesso-1')
+    .forEach((id) => assert.deepEqual(store.progress[id], before.progress[id], id));
+  assert.deepEqual(Object.assign({}, store, { progress: null }), Object.assign({}, before, { progress: null }));
+
+  // accesso-1: never seen, not in errors, no answers left
+  const p = store.progress['accesso-1'];
+  assert.equal(p.rev, 2);
+  assert.equal(p.attempts, 0);
+  assert.equal(p.inErrors, false);
+  assert.deepEqual(p.h, []);
+  assert.equal(S.isConsolidated(p), false);
+
+  // Statistics and estimate no longer see its 2 wrong answers
+  const s = S.subjectProgress(changed, store.progress);
+  assert.equal(s.seen, 11);
+  assert.equal(s.answers, 13);
+  assert.equal(s.consolidated, statsBefore.consolidated);
+  assert.equal(s.recentCount, 13);
+  assert.equal(s.recentCorrect, 12);
+  assert.ok(s.recentRate > statsBefore.recentRate);
+  const plan = { english: 0, expected: { accesso: 10 } };
+  const rules = { scoring: { correct: 1, wrong: 0 }, total_questions: 60, pass_threshold: 42 };
+  assert.ok(Math.abs(S.estimateScore(rules, plan, { accesso: s }).score - 10 * 12 / 13) < 1e-9);
+
+  // Daily session: out of the errors; it is the only unseen question, so it is picked first
+  const d = S.buildDaily(changed, store.progress, 5, NOW, seededRng(3));
+  assert.equal(d.counts.errori, 0);
+  assert.ok(d.items.some((x) => x.q.id === 'accesso-1'));
+
+  // Running the check again changes nothing; new answers count with rev 2
+  assert.deepEqual(S.syncRevisions(store, changed), []);
+  S.recordAnswer(store, 'accesso-1', true, DAY3, 2);
+  assert.equal(store.progress['accesso-1'].attempts, 1);
+  assert.equal(store.progress['accesso-1'].rev, 2);
+  assert.deepEqual(S.syncRevisions(store, changed), []);
+});
+
+test('rev: an answer recorded for a newer rev never mixes with older answers', () => {
+  const store = S.emptyStore('asmel-quiz');
+  S.recordAnswer(store, 'q', false, DAY1_MORNING, 1);
+  S.recordAnswer(store, 'q', true, DAY2_EARLY, 2);
+  const p = store.progress.q;
+  assert.equal(p.rev, 2);
+  assert.equal(p.attempts, 1);
+  assert.equal(p.inErrors, false);
+  assert.equal(p.h.length, 1);
+});

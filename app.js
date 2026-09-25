@@ -93,7 +93,8 @@
    *   version     - 2 (older data is migrated on load, see study.js)
    *   profile     - default profile id chosen at first launch
    *   progress    - per question id: { attempts, correct, wrong, lastCorrect,
-   *                 streak, inErrors, lastAt, h (last 30 answers with time) }
+   *                 streak, inErrors, lastAt, h (last 30 answers with time),
+   *                 rev (the question's "rev" the answers belong to) }
    *   flags       - per question id: { note, date }   ("Segnala dubbio")
    *   settings    - { dailySize, examDate }
    *   activeSim   - a simulation in progress (so it survives a page reload)
@@ -148,7 +149,17 @@
 
   /** Update the statistics of one question after an answer (rules in study.js). */
   function recordAnswer(qid, isCorrect) {
-    Study.recordAnswer(store, qid, isCorrect, Date.now());
+    Study.recordAnswer(store, qid, isCorrect, Date.now(), Study.questionRev(data.qById[qid]));
+  }
+
+  /**
+   * Questions whose "rev" went up since they were answered start again
+   * (rules in study.js). Called once the questions are loaded and after a
+   * backup is imported; saves only if something changed.
+   */
+  function syncRevisions() {
+    const reset = Study.syncRevisions(store, data.questions.concat(data.toRevise));
+    if (reset.length) saveStore();
   }
 
   /* =====================================================================
@@ -1164,6 +1175,7 @@
       delete parsed.exportedAt;
       // Backups made by older versions are migrated like the saved data
       store = Study.migrateStore(parsed, APP_ID);
+      syncRevisions();
       saveStore();
       toast('Backup importato');
       go('home');
@@ -1351,6 +1363,7 @@
         '<button type="button" class="btn primary" onclick="location.reload()">Riprova</button>');
       return;
     }
+    syncRevisions();
     history.replaceState({ screen: 'home' }, '');
     // A simulation whose time ran out while the app was closed is submitted now
     if (store.activeSim && Date.now() >= store.activeSim.endAt && store.profile) {
